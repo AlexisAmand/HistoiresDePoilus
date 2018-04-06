@@ -1,0 +1,258 @@
+<!doctype html>
+<html lang="fr">
+<head>
+
+<meta charset="utf-8">
+          
+<title>Le camp de prisonniers de Minden pendant la Grande Guerre - Histoires de Poilus</title>
+
+<meta content="Présentation du camp de prisonniers de Minden en Allemagne pendant la Première Guerre mondiale (1914-1918)" name="description">
+    
+<link rel="stylesheet" href="../css/style.css">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link rel="icon" type="image/png" href="/images/favicon.png" />
+                   
+</head>
+
+<body>
+<!-- code js pour l'avertissement sur les cookies -->
+
+<script src="../js/cookiechoices.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+      'Ok', 'En savoir plus', '../cookies.php');
+  });
+</script>
+
+<header>
+	
+    <div id="rezo">
+    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
+        <img src="../images/facebook.png" />
+        </a>
+        <img src="../images/googleplus.png" /> 
+	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
+        <img src="../images/twitter.png" />
+        </a>
+    </div>
+    
+<a href="../index.php" title="retour sur la page d'accueil du site">
+<img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
+
+</header>
+   
+<?php include('../include/nav.inc'); ?>
+
+<section>
+
+<aside>
+
+	<ul>
+        <li><a href="camp-bad-orb.php">Bad Orb</a></li>
+        <li><a href="camp-chemnitz.php">Chemnitz</a></li>
+        <li><a href="camp-czersk.php">Czersk</a></li>
+        <li><a href="camp-darmstadt.php">Darmstadt</a></li>
+        <li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
+        <li><a href="camp-friedberg.php">Friedberg</a></li>
+        <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
+        <li><a href="camp-gardelegen.php">Gardelegen</a></li>
+        <li><a href="camp-giessen.php">Giessen</a></li>
+        <li><a href="camp-gorlitz.php">Görlitz</a></li>
+        <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
+        <li><a href="camp-guben.php">Guben</a></li>
+        <li><a href="camp-hammelburg.php">Hammelburg</a></li>
+        <li><a href="camp-hammerstein.php">Hammerstein</a></li>
+        <li><a href="camp-herne.php">Herne</a></li>
+        <li><a href="camp-heuberg.php">Heuberg</a></li>
+        <li><a href="camp-lechfeld.php">Lechfeld</a></li>
+        <li><a href="camp-limburg.php">Limburg</a></li>
+        <li><a href="camp-mannheim.php">Mannheim</a></li>        
+        <li><a href="camp-meschede.php">Meschede</a></li>
+        <li><a href="camp-merzdorf.php">Merzdorf</a></li>
+        <li><a href="camp-meyenburg.php">Meyenburg</a></li>
+    	<li><a href="camp-minden.php" class="AsideSelected">Minden</a></li>
+        <li><a href="camp-munster.php">Munster</a></li> 
+        <li><a href="camp-nurnberg.php">Nuremberg</a></li>
+        <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
+        <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
+        <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
+        <li><a href="camp-wurzburg.php">Würzburg</a></li>
+        <li><a href="camp-zerbst.php">Zerbst</a></li>
+        
+   </ul>
+ 
+    <div style="text-align:center;margin-top:20px;">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Poilus -->
+    <ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-1550427609493753"
+     data-ad-slot="8236218848"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+   </div>
+   
+</aside>
+
+<article>
+
+<h1>Le camp de prisonniers de Minden</h1>
+
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p>
+
+<p>Les 2 camps de Minden étaient situés à Minderheide, un quartier de la ville. Le « lager I » était réservé aux prisonniers de guerre et le « lager II » aux autres prisonniers. Les deux camps furent réunis avant la visite des délégués Espagnols du 24 mars 1916. Le camp était constitué de baraques en bois contiguës par les angles et entourant une grande cour. Il est considéré comme le camp de plus dur.</p> 
+
+<p>Selon les délégués du Gouvernement Espagnol, Les dortoirs sont convenablement installés ; les lits, disposés sur deux rangées, sont composés de châssis en bois ; les paillasses sont bourrées de copeaux, chaque homme dispose de deux couvertures. Le chauffage se fait au moyen de grands poêles à charbon, l’éclairage est électrique. Dans chaque dortoir, il y a un large espace libre pour permettre aux prisonniers de se promener quand il pleut.</p>
+
+<table class="tab_camp">
+    <caption class="legende" align="bottom">Effectif du camp au 24 mars 1916</caption>
+    <thead>
+    <tr>
+        <td>Nationalités</td>
+        <td>Dans le camp</td>
+        <td>A l'infirmerie du camp</td>
+    </tr>
+    </thead>
+    <tr>
+        <td>Français</td>
+        <td>1909</td>
+        <td>55</td>
+    </tr>
+    <tr>
+        <td>Belges</td>
+        <td>311</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Anglais</td>
+        <td>14</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Russes</td>
+        <td>3656</td>
+        <td>220</td>
+    </tr>
+    <tr>
+        <td>Serbes</td>
+        <td>1362</td>
+        <td>12</td>
+    </tr>
+</table>
+     
+<p>Dans <cite>Westfalen in Ersten Weltkrieg</cite>, l&#39;historien allemand Rainer PÖPPINGHEGE évalue à 25240 le nombre total de soldats prisonniers dans le camp de Minden à la fin de la Première Guerre Mondiale.</p><p>Le <a href="http://www.mindenermuseum.de">Musée de Minden</a> à mis en ligne une video qui permet de faire une &quot;visite 3D&quot; dans le camp de prisonniers. (durée: 4 min 35)</p>
+
+    <div class="video">
+        <video controls preload>
+            <source src="../videos/Minderheide-1915.mp4" type="audio/mp4"> <!-- largeur 480px  -->
+            <p>Votre navigateur ne prend pas en charge cette vidéo</p>
+        </video>
+    </div>
+
+<h4>Les prisonniers au travail</h4>
+
+<figure>
+    <a href="images/minden-05.jpg" id="single_image" title="La construction des chemins à Minden">
+    <img src="miniatures/minden-05.jpg" alt="La construction des chemins par les prisonniers du camp de Minden pendant la Première Guerre Mondiale"></a>
+    <figcaption>La construction des chemins<br />(source allemande)</figcaption>
+</figure>
+
+<figure>
+    <a href="images/minden-04.jpg" id="single_image" title="Pose du chemin de fer portatif à Minden">
+    <img src="miniatures/minden-04.jpg" alt="La pose d'un chemin de fer portatif par les prisonniers du camp de Minden pendant la Première Guerre Mondiale"></a>
+    <figcaption>Pose du chemin de fer portatif<br />(source allemande)</figcaption>
+</figure>
+
+<h4>La vie au camp n°1</h4>
+
+<figure>
+    <a href="images/minden-02.jpg" id="single_image" title="Distribution de dons patriotiques à Minden I">
+    <img src="miniatures/minden-02.jpg" alt="Distribution de dons patriotiques aux prisonniers du camps de Minden pendant la Première Guerre Mondiale"></a>
+    <figcaption>Distribution de dons patriotiques<br />(source allemande)</figcaption>
+</figure>
+
+<figure>
+    <a href="images/minden-01.jpg" id="single_image" title="Une salle de soldats à Minden I">
+    <img src="miniatures/minden-01.jpg" alt="Une salle de soldats au camp de prisonniers de Minden I pendant la Première Guerre Mondiale"></a>
+    <figcaption>Salle de soldats au camp<br />(source allemande)</figcaption>
+</figure>
+
+<h4>La vie au camp n°2</h4>
+
+<figure>
+    <a href="images/minden-03.jpg" id="single_image" title="La cuisine et le menu à Minden II">
+    <img src="miniatures/minden-03.jpg" alt="La cuisine et le menu au camp de prisonniers de Minden II"></a>
+    <figcaption>Cuisine et menu<br />(source allemande)</figcaption>
+</figure>
+
+<h4>Sources et bibliographie</h4>
+
+<ul>
+   
+    <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
+    <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre, 1924)</li>
+</ul>    
+
+<p class="sources">
+<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
+</p>
+
+</article>
+
+</section>
+
+<footer>
+	<a href="../mentions.php">Mentions Légales</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="../cookies.php">Cookies</a>
+    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+</footer>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="//www.genealexis.fr/piwik/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', 4]);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+<!-- Piwik Image Tracker-->
+<img src="http://www.genealexis.fr/piwik/piwik.php?idsite=4&rec=1" style="border:0" alt="" />
+<!-- End Piwik -->
+
+<!-- Google Ana -->
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-11509906-21', 'auto');
+ga('send', 'pageview');
+</script>   
+
+<!-- javascript -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
+<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+
+<script type="text/javascript">  
+  $(document).ready(function() {
+	$("a#single_image").fancybox();
+  }); 
+</script>  
+
+</body>
+</html>

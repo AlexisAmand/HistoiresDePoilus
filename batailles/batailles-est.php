@@ -1,0 +1,285 @@
+<!doctype html>
+    <html lang="fr">
+        <head>
+            <meta charset="utf-8">
+            <title>Les batailles du front de l'Europe de l'Est - Histoires de Poilus</title>
+
+            <meta content="Liste des batailles qui se sont déroulées sur le front de l'Europe de l'Est pendant la Première Guerre Mondiale (1914 à 1918)." name="description">
+   
+
+            <link rel="stylesheet" href="../css/style.css">    
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="/images/favicon.png" />
+                
+            </head>
+        <body>
+
+        <!-- code js pour l'avertissement sur les cookies -->
+
+        <script src="../js/cookiechoices.js"></script>
+        <script>
+          document.addEventListener('DOMContentLoaded', function(event) {
+            cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+              'Ok', 'En savoir plus', 'cookies.php');
+          });
+        </script>
+
+
+
+        <header style="height:175px;">
+	
+            <div id="rezo">
+            <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
+            <img src="../images/facebook.png" />
+            </a>
+            <img src="../images/googleplus.png" />
+            <a href="https://twitter.com/alexisamand?lang=fr" title="me suivre sur Twitter">
+            <img src="../images/twitter.png" />
+            </a>
+            </div>
+      
+            <a href="../index.php" title="retour sur la page d'accueil du site">
+            <img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
+
+        </header>
+   
+        <nav>
+	        <a href="../contact.php">Contact</a>
+            <a href="../webographie.php">Webographie</a>
+            <a href="../lieux.php">Les Batailles</a>
+            <a href="../camps.php">Les Camps</a>
+            <a href="../releves.php">Les Relevés</a>
+            <a href="../poilus.php">Les Poilus</a>
+	        <a href="../index.php" class="NavSelected">Accueil</a>       
+        </nav>
+
+
+
+<div id="navbis">
+<a href="batailles-est.php">Europe de l'Est</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="../lieux.php">Europe de l'Ouest</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="batailles-italie.php">Le Front Italien</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="batailles-afrique.php">Le Front Africain</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="batailles-orient.php">Front du Moyen-Orient</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="batailles-balkans.php">Front des Balkans</a>
+</div>
+
+
+        <section>
+
+
+
+	        <article>
+  
+   
+<h1>Les Batailles du Front de l'Europe de l'Est</h1>
+
+<p>Cette page sera mise à jour au fur et à mesure des découvertes.</p>
+
+                
+  <table>
+  <thead>
+    <tr>
+        <td style="width:25%">Lieu</td>
+        <td style="width:25%">Bataille</td>
+        <td style="width:25%">Date</td>
+        <td style="width:25%">Issue</td>
+   </tr>
+  </thead>  
+  <tr>
+        <td>Stallupönen<br />
+            (Prusse-Orientale)</td>
+        <td>Bataille de Stallupönen</td>
+        <td>17 aout 1914</td>
+        <td>Victoire allemande</td>
+  </tr>    
+  <tr>
+        <td>Gumbinnen<br />
+            (Prusse-Orientale)</td>
+        <td>Bataille de Gumbinnen</td>
+        <td>20 aout 1914</td>
+        <td>Victoire russe</td>
+  </tr>    
+  <tr>
+        <td>Tannenberg<br />
+            (Prusse-Orientale)</td>
+        <td>Bataille de Tannenberg</td>
+        <td>du 26 aout 1914<br />
+            au 30 aout 1914</td>
+        <td>Victore allemande</td>
+  </tr>  
+  <tr>
+        <td>Près de l&#39;ile d&#39;Odensholm<br />
+            (Mer Baltique)</td>
+        <td>Combat naval de l&#39;Île d&#39;Odensholm</td>
+        <td>26 aout 1914</td>
+        <td>Victoire russe</td>
+  </tr>  
+
+        
+  <tr>
+        <td>Lemberg<br />
+            (Galicie)</td>
+        <td>Bataille de Lemberg</td>
+        <td>du 26 aout 1914<br />
+            au 11 septembre 1914</td>
+        <td>Victoire russe</td>
+  </tr>    
+  <tr>
+        <td>Krasnik<br />
+            (actuelle Pologne)</td>
+        <td>Bataille de Krasnik</td>
+        <td>du 23 aout 1914<br />
+            au 25 aout 1914</td>
+        <td>Victoire de l&#39;Autriche-Hongrie</td>
+  </tr>    
+  <tr>
+        <td>Kamarow<br />
+            (actuelle Pologne)</td>
+        <td>Bataille de Kamarow</td>
+        <td>du 26 aout 1914<br />
+            au 2 septembre 1914</td>
+        <td>Victoire de l&#39;Autriche-Hongrie</td>
+  </tr>    
+  <tr>
+        <td>Mazurie<br />
+            (Prusse-Orientale)</td>
+        <td>1ere Bataille
+            <br />
+            des lacs de Mazurie</td>
+        <td>Du 7 septembre 1914<br />
+            au 14 septembre 1914</td>
+        <td>Victoire allemande</td>
+  </tr>    
+  <tr>
+        <td>Przemysl<br />
+            (actuelle Pologne)</td>
+        <td>Siège de Przemysl</td>
+        <td>Du 16 septembre 1914<br />
+            au 22 mars 1915</td>
+        <td>Victoire russe</td>
+  </tr>    
+
+
+  <tr>
+        <td>Varsovie<br />
+            (Pologne)</td>
+        <td>Bataille de la Vistule</td>
+        <td>Du 29 septembre 1914<br />
+            au 31 octobre 1914</td>
+        <td>Victoire russe</td>
+  </tr>    
+  <tr>
+        <td>Lodz<br />
+            (actuelle Pologne)</td>
+        <td>Bataille de Lodz</td>
+        <td>Du 11 novembre 1914<br />
+            au 6 décembre 1914</td>
+        <td>indécise</td>
+  </tr>    
+  <tr>
+        <td>Limanowa<br />
+            (Galicie)</td>
+        <td>Bataille de Limanowa</td>
+        <td>Du 1er décembre 1914<br />
+            au 13 décembre 1914</td>
+        <td>Arrêt de l&#39;offensive russe</td>
+  </tr>    
+  <tr>
+        <td>Bolimov<br />
+            (Pologne)</td>
+        <td>Bataille de Bolimov</td>
+        <td>le 31 janvier 1915</td>
+        <td>indécise</td>
+  </tr>    
+       
+  <tr>
+        <td>Zwinin<br />
+            (Ukraine)</td>
+        <td>Bataille de Zwinin</td>
+        <td>du 4 février 1915<br />
+            au 9 avril 1915</td>
+        <td>victoire allemande</td>
+  </tr>    
+  
+  <tr>
+        <td>Mazurie<br />
+            (Prusse-Orientale)</td>
+        <td>2e Bataille
+            <br />
+            des lacs de Mazurie</td>
+        <td>du 7 février 1915<br />
+            au 22 février 1915</td>
+        <td>victoire allemande</td>
+  </tr> 
+  <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+  </tr> 
+</table>
+
+<p>A suivre...</p>
+
+<p class="sources">
+<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
+</p>
+
+</article>
+
+</section>
+
+<footer>
+	<a href="../mentions.php">Mentions Légales</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="../cookies.php">Cookies</a>
+    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+</footer>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="//www.genealexis.fr/piwik/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', 4]);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+<!-- Piwik Image Tracker-->
+<img src="http://www.genealexis.fr/piwik/piwik.php?idsite=4&rec=1" style="border:0" alt="" />
+<!-- End Piwik -->
+
+<!-- Google Ana -->
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-11509906-21', 'auto');
+ga('send', 'pageview');
+</script>   
+
+<!-- javascript -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
+<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+
+<script type="text/javascript">  
+  $(document).ready(function() {
+	$("a#single_image").fancybox();
+  }); 
+</script>  
+
+</body>
+</html>
