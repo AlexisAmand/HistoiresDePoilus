@@ -102,11 +102,9 @@
 
     <figure>
     <a href="images/jumelles-poilus-1914.jpg" id="single_image" title=" ">
-    <img src="miniatures/jumelles-poilus-1914.jpg" alt=" "/>
-    </a>
-    <br />Des jumelles et leur étui
-    <br />(cliquez pour agrandir - source: BNF / Gallica / Alpes-Maritimes)
-    </p>
+    <img src="miniatures/jumelles-poilus-1914.jpg" alt=" "/></a>
+    <figcaption>Des jumelles et leur étui<br />(cliquez pour agrandir - source: BNF / Gallica / Alpes-Maritimes)</figcaption>
+    </figure>
     
 <h4>Nord</h4>
 

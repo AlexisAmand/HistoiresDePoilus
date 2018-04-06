@@ -121,7 +121,7 @@
     <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
 </figure>
 
-<br/><h4> L'attaque des allemands</h4>
+<br/><h4>L'attaque des allemands</h4>
 
 <p>Le 2 septembre, les bombardements reprennent sur les ouvrages du secteur attaqué : Bersillies, la Salemagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance.</p>
 
@@ -200,8 +200,6 @@ g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.pare
 </script>
 <noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
-
-
 
 <!-- Google Ana -->
 

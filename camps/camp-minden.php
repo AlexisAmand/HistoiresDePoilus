@@ -189,8 +189,7 @@
 
 <h4>Sources et bibliographie</h4>
 
-<ul>
-   
+<ul>  
     <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
     <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre, 1924)</li>
 </ul>    

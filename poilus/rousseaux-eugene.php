@@ -110,9 +110,8 @@
 
 <figure>
     <a href="sources/rousseau-cicr-02.JPG" id="single_image" title="Liste de prisonniers du camp de Senne">
-    <img src="miniatures/rousseau-cicr-02.JPG" alt="Extrait de la liste de prisonnier du camp de Senne"/>
-    </a>
-    <br />Liste de prisonniers du camp de Senne<br />(cliquez pour agrandir)
+    <img src="miniatures/rousseau-cicr-02.JPG" alt="Extrait de la liste de prisonnier du camp de Senne"/></a>
+    <figcaption>Liste de prisonniers du camp de Senne<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
 <p>En Mai 1916, Il arrive au camp de <a href="../camps/camp-minden.php" title="le camp de prisonnier de Minden">Minden</a> en provenance de celui de Senne (source : fichier cicr-01).</p>

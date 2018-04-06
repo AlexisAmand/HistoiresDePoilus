@@ -104,9 +104,8 @@
   
 <figure>
     <a href="portraits/joly-noel-jules.jpg" id="single_image" title="Portrait de Noël Jules JOLY">
-    <img src="miniatures/joly-noel-jules.jpg" height="300" alt="Portrait de Noël Jules JOLY"/>
-    </a>
-    <br />Portrait de Noël Jules<br />(cliquez pour agrandir)
+    <img src="miniatures/joly-noel-jules.jpg" height="300" alt="Portrait de Noël Jules JOLY"/></a>
+    <figcaption>Portrait de Noël Jules<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
 <br/><h4>La mobilisation d'août 1914</h4>
@@ -115,9 +114,8 @@
 
 <figure>
     <a href="sources/Joly-noel-matricule-01.jpg" id="single_image" title="Noël Jules JOLY, extrait de sa fiche matricule.">
-    <img src="miniatures/Joly-noel-matricule-01.jpg" alt="extrait de la fiche matricule de Noël Jules JOLY"/>
-    </a>
-    <br />Extrait de sa fiche matricule<br />(cliquez pour agrandir)
+    <img src="miniatures/Joly-noel-matricule-01.jpg" alt="extrait de la fiche matricule de Noël Jules JOLY"/></a>
+    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
 <br/><h4> Noël et le &quot;Centre de résistance de Rocq&quot;</h4>
@@ -126,10 +124,8 @@
     
 <figure>
     <a href="images/fort-cerfontaine.jpg" id="single_image" title="L'entrée du Fort de Cerfontaine">
-    <img src="miniatures/fort-cerfontaine.jpg" alt="L'entrée du Fort de Cerfontaine"/> 
-    </a>
-    <br />Le Fort de Cerfontaine
-    <br />(cliquez pour agrandir - source: http://www.mapio.cz/ )
+    <img src="miniatures/fort-cerfontaine.jpg" alt="L'entrée du Fort de Cerfontaine"/></a>
+    <figcaption>Le Fort de Cerfontaine<br />(cliquez pour agrandir - source: http://www.mapio.cz/ )</figcaption>
 </figure>    
     
     <p>Le 3 septembre, un déluge d’obus allemands, de gros calibres, du 210 et du 420, tombe pendant 2 jours sur les secteurs de Fagnet, la Salmagne, Boussois, Cerfontaine et Rocq où est cantonné Noël JOLY. </p><p>Le <strong>Centre de résistance de Rocq</strong> résistera héroïquement, plus d’une semaine, jusqu’au 6 septembre 1914, date à laquelle le secteur nord-est donne des signes de craquement. Le matin, au sud-est, une attaque est repoussée devant la position de Rocq. Au nord-est, deux attaques échouent mais une troisième parvient à enlever l’ouvrage de la Salmagne. Celui de Bersillies succombe à son tour le soir.</p>
@@ -147,10 +143,8 @@
 
 <figure>
     <a href="images/Maubeuge-caserne-joyeuse.jpg" id="single_image" title="La caserne Joyeuse (Maubeuge) avant 1914">
-    <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg"  alt="La caserne Joyeuse de Maubeuge avant la Première Guerre Mondiale"/> 
-    </a>
-    <br />La Caserne Joyeuse à Maubeuge
-    <br />(cliquez pour agrandir)
+    <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg"  alt="La caserne Joyeuse de Maubeuge avant la Première Guerre Mondiale"/></a>
+    <figcaption>La Caserne Joyeuse à Maubeuge<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
 <br/><h4>Prisonnier au camp de Friedrichsfeld</h4>
@@ -159,10 +153,8 @@
 
 <figure>
     <a href="images/friedrichsfeld-baraque.jpg" id="single_image" title="Une baraque à l'intérieur de camp de prisonniers de Friedrichsfeld">
-    <img src="miniatures/friedrichsfeld-baraque.jpg" alt="Le camp de prisonniers de Friedrichsfeld sur une carte postale ancienne" width="450"/>
-    </a>
-    <br />Une baraque à Friedrichsfeld
-    <br />(cliquez pour agrandir)
+    <img src="miniatures/friedrichsfeld-baraque.jpg" alt="Le camp de prisonniers de Friedrichsfeld sur une carte postale ancienne" width="450"/></a>
+    <figcaption>Une baraque à Friedrichsfeld<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
     <p><strong>Noël Jules</strong> est libéré le 18 décembre 1918 et envoyé en congé illimité le 11 février 1919 par le 1er d&#39;artillerie. Il se retire à Onnaing, rue Emile Zola.</p>
@@ -173,19 +165,16 @@
 
 <figure>
     <a href="sources/joly-noel-jules-carte.jpg" id="single_image" title="Carte d'ancien combattant de Noël Jules JOLY">
-    <img src="miniatures/joly-noel-jules-carte.jpg" alt="Carte d'ancien combattant de Noël Jules JOLY"/>
-    </a>
-    <br />Carte d'ancien combattant
-        ayant appartenu à Noël<br />(cliquez pour agrandir)
+    <img src="miniatures/joly-noel-jules-carte.jpg" alt="Carte d'ancien combattant de Noël Jules JOLY"/></a>
+    <figcaption>Carte d'ancien combattant ayant appartenu à Noël<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
 <br/><p>Cependant le 3 décembre 1947,<strong> Noël Jules</strong> apprend qu’il n’a plus droit à la carte du combattant au titre de l’<a href="sources/jorf-3-juillet-1930.php" title="lien vers le décrêt du 1er juillet 1930">article 2 du décret du 1er juillet 1930</a>. En effet, il était présent au <strong>1er Regiment d’Artillerie à Pied</strong> comme auxilliaire d’artillerie de places fortes et il s’agissait d’un « emploi non combattant ». Il faut bien comprendre que les régiments de territoriaux constitués par des hommes de 43 à 49 ans n&#39;avaient pas pour vocation principale de participer à des combats mais plutôt d&#39;occuper toutes les tâches non combattantes.</p>
 
 <figure>
     <a href="sources/JOLY-carte-combattant.jpg" id="single_image" title="Dossier d'ancien combattant de Noël Jules JOLY (extrait)">
-    <img src="miniatures/JOLY-carte-combattant.jpg" alt="Extrait du dossier d'ancien combattant de Noël Jules JOLY"/>
-    </a>
-    <br />Extrait de son dossier d'ancien combattant
+    <img src="miniatures/JOLY-carte-combattant.jpg" alt="Extrait du dossier d'ancien combattant de Noël Jules JOLY"/></a>
+    <figcaption>Extrait de son dossier d'ancien combattant<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
 <h4>Sources et bibliographie</h4>
