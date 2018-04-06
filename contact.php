@@ -228,9 +228,7 @@ echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod());
 <!-- End Piwik Code -->
 
 
-<!-- Piwik Image Tracker-->
-<img src="http://www.genealexis.fr/piwik/piwik.php?idsite=4&rec=1" style="border:0" alt="" />
-<!-- End Piwik -->
+
 
      <!-- Google Ana -->
 

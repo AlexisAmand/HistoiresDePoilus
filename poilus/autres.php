@@ -188,10 +188,6 @@ g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.pare
 <noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
 
-<!-- Piwik Image Tracker-->
-<img src="http://www.genealexis.fr/piwik/piwik.php?idsite=4&rec=1" style="border:0" alt="" />
-<!-- End Piwik -->
-
 <!-- Google Ana -->
 
 <script>

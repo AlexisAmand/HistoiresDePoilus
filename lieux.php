@@ -283,7 +283,7 @@
 <figure>
     <a href="poilus/images/Assaut-chemin-des-dames.jpg" id="single_image" title="Soldats français sur le Chemin des Dames">
     <img src="poilus/miniatures/Assaut-chemin-des-dames.jpg" alt="Des soldats français à l'assaut au Chemin de Dames"/></a>
-	<br />Assaut français sur le Chemin des Dames<br />(cliquez pour agrandir - Archives du Queensland, Australie)
+	<figcaption>Assaut français sur le Chemin des Dames<br />(cliquez pour agrandir - Archives du Queensland, Australie)</figcaption>
 </figure>
                
   <table>
@@ -494,9 +494,7 @@ g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.pare
 <noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
 
-<!-- Piwik Image Tracker-->
-<img src="http://www.genealexis.fr/piwik/piwik.php?idsite=4&rec=1" style="border:0" alt="" />
-<!-- End Piwik -->
+
 
 <!-- Google Ana -->
 

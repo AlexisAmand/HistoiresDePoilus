@@ -61,88 +61,52 @@
 
 <h1>Les hopitaux</h1>
 
-<p>
-Regroupés dans des hôpitaux d’évacuation puis transportés par train sanitaire, les blessés pouvaient être répartis dans différentes structures après, parfois, un bref séjour dans un hôpital dit « de passage » :
+<p>Regroupés dans des hôpitaux d’évacuation puis transportés par train sanitaire, les blessés pouvaient être répartis dans différentes structures après, parfois, un bref séjour dans un hôpital dit « de passage »:</p>
 
-</p>
-     <p>
-         - un hôpital militaire classique,
+<p>- un hôpital militaire classique</p>
+<p>- un hôpital complémentaire, contrôlé par le Service de Santé des Armées, (HC)</p>
+<p>- un hôpital auxiliaire, contrôlé par la Croix-Rouge et géré par l’une de ses trois composantes,</p>
+<p>- un hôpital bénévole, souvent appelé « ambulance », d’initiative privée (HB). Les hôpitaux bénévoles étaient souvent installés dans des locaux réquisitionnés (écoles, casino, bateaux,…) et ils pouvaient être d’importance variable et parfois éphémères.</p>
 
-</p>
-     <p>
-         - un hôpital complémentaire, contrôlé par le Service de Santé des Armées, (HC)
+<h4>Calais: hôpital militaire temporaire n°51</h4>
 
-</p>
-     <p>
-         - un hôpital auxiliaire, contrôlé par la Croix-Rouge et géré par l’une de ses trois composantes,
+<p>L’hôpital militaire temporaire n°51 de Calais était géré par le Service de Santé des Armées. Il était situé à la maison de commerce Leweng et Weinberg, 92 rue Gambetta. Il comportait 110 lits et a fonctionné a dès le 26 décembre 1914.</p>
 
-</p>
-     <p>
-         - un hôpital bénévole, souvent appelé « ambulance », d’initiative privée. (HB)
+<h4>HB n° 4 bis  Amiens (Somme)</h4>
 
-         . Les hôpitaux bénévoles étaient souvent installés dans des locaux réquisitionnés (écoles, casino, bateaux,…) et ils pouvaient être d’importance variable et parfois éphémères.
+<p>Grand Séminaire, 61 rue Saint-Fuscien - 246 lits - Fonctionne du 23 septembre 1914 au 8 décembre 1915 - A cette date devient HC n° 105</p>
+   
+<h4>Hopital n°31 de Nantes</h4>
 
-</p>
-     <p>
-         &nbsp;</p>
-     <h4>
-         Calais: hôpital militaire temporaire n°51</h4>
-     <p>
-         l’hôpital militaire temporaire n°51 de Calais était géré par le Service de Santé des Armées. Il était situé à la maison de commerce Leweng et Weinberg, 92 rue Gambetta. Il comportait 110 lits et a fonctionné a dès le 26 décembre 1914.
+<h4>Hopital mixte d'Amiens (80)</h4>
 
-</p>
-     <p>
-         &nbsp;</p>
-     <h4>
-         HB n° 4 bis  Amiens (Somme) 
+	<figure>
+    <img src="hopitaux/hopital-mixte-amiens.jpeg" width="450">
+        <figcaption>
+        	Localisation d'un projectile sur un blessé<br />
+            à l'Hôtel Dieu d'Amiens (Hopital Mixte) en ocotbre 1914<br/>
+            (source: Archives d'électricité médicale n°422, novembre 1917)
+        </figcaption>
+    </figure>
 
-</h4>
-     <p>
-&nbsp;Grand Séminaire, 61 rue Saint-Fuscien - 246 lits - Fonctionne du 23 septembre 1914 au 8 décembre 1915 - A cette date devient HC n° 105
+<h4>Hopital de Saint-Mandé (seine)</h4>
 
-</p>
-     <p>
-         &nbsp;</p>
-     <h4>
-         Hopital n°31 de Nantes
-
-</h4>
-     <p>
-         &nbsp;</p>
-     <p>
-         &nbsp;</p>
-     <h4>
-         Hopital mixte d'Amiens (80)
-
-</h4>
-
-     <figure>
-         <img src="hopitaux/hopital-mixte-amiens.jpeg" width="450">
-         <figcaption>Localisation d'un projectile sur un blessé 
-             <br />
-             à l'Hôtel Dieu d'Amiens (Hopital Mixte) en ocotbre 1914<br/>(source: Archives d'électricité médicale n°422, novembre 1917)</figcaption>
-     </figure>
-
-     <h4>
-         Hopital de Saint-Mandé (seine)
-</h4>
-     <p>
-         Cet hopital militaire était situé à l'Hôpital Militaire Bégin à Saint-Mandé, dans le Val-de-Marne. Il doit son nom à Louis Jacques Bégin (1793-1859), chirurgien militaire de l'Empire.</p>
+<p>Cet hopital militaire était situé à l'Hôpital Militaire Bégin à Saint-Mandé, dans le Val-de-Marne. Il doit son nom à Louis Jacques Bégin (1793-1859), chirurgien militaire de l'Empire.</p>
 
     <figure>
-     <img src="hopitaux/hopital-begin.jpg" width="450">
-     <figcaption>L'entrée de l'hôpital militaire Bégin</figcaption>
-     </figure>
+    <img src="hopitaux/hopital-begin.jpg" width="450">
+    	<figcaption>L'entrée de l'hôpital militaire Bégin</figcaption>
+    </figure>
    
     <figure>
-     <img src="hopitaux/begin-cuisine.jpg" width="450">
-     <figcaption>Les cuisines de l'hôpital militaire Bégin</figcaption>
-     </figure>
+    <img src="hopitaux/begin-cuisine.jpg" width="450">
+    	<figcaption>Les cuisines de l'hôpital militaire Bégin</figcaption>
+    </figure>
 
     <figure>
-     <img src="hopitaux/hopital-begin-cours.jpg" width="450">
-     <figcaption>La cour intérieure de l'hôpital militaire Bégin</figcaption>
-     </figure>
+   	<img src="hopitaux/hopital-begin-cours.jpg" width="450">
+    	<figcaption>La cour intérieure de l'hôpital militaire Bégin</figcaption>
+    </figure>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
@@ -177,12 +141,7 @@ g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.pare
 <noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
 
-<!-- Piwik Image Tracker-->
-<img src="http://www.genealexis.fr/piwik/piwik.php?idsite=4&rec=1" style="border:0" alt="" />
-<!-- End Piwik -->
-
 <!-- Google Ana -->
-
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

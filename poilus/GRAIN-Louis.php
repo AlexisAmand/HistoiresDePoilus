@@ -153,7 +153,7 @@
 
 <p>Dans son ouvrage &quot;La France Occupée&quot;, Philippe Nivet raconte que le village de Villers-Guislain, où sont nés <a href="GRAIN-Louis.php">Louis</a> et <a href="GRAIN-Leon-Albert.php">Léon Albert GRAIN</a>, est occupé depuis 1914. En 1916, les allemands ont demandé à la mairie une dizaine de jeune fille pour placer les cartouches dans les bandes de chargement; comme aucune volontaire ne s'est présentée, les allemands en ont emprisonné 4 pendant 2 heures et ont fait savoir qu'ils mettraient toutes les filles en prison si la commune ne présentaient pas des volontaires. Six jeunes filles se sont finalement résignées à la faire le travail exigé. </p>
 
-<br/><a name="note1"></a>
+<div id="note1"></div>
 <p style="font-size: 12px"><sup>1</sup> En cas de guerre, la classe première à marcher pouvait être appelée par anticipation. C'est pourquoi l'armée active comprenait également en août la classe 1913 (hommes nés en 1893) qui n'aurait dû être appelée qu'à l'automne.</p>
 
 <h4>Sources et bibliographie</h4>
@@ -201,9 +201,7 @@ g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.pare
 <noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
 
-<!-- Piwik Image Tracker-->
-<img src="http://www.genealexis.fr/piwik/piwik.php?idsite=4&rec=1" style="border:0" alt="" />
-<!-- End Piwik -->
+
 
 <!-- Google Ana -->
 
