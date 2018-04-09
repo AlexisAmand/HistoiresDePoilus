@@ -117,7 +117,7 @@
 
 <figure>
     <a href="images/chemnitz-census-01.jpg" id="single_image" title="Répartition des prisonniers en 1915">
-    <img src="miniatures/chemnitz-census-01.jpg" width="328" height="165" alt="repartition des prisonniers en fonction des nationalités à l'intérieur du camp de Chemnitz"/>
+    <img src="miniatures/chemnitz-census-01.jpg" alt="repartition des prisonniers en fonction des nationalités à l'intérieur du camp de Chemnitz"/>
     </a>
     <figcaption>Répartition des prisonniers en 1915<br />(Cliquez pour agrandir)</figcaption>
 </figure>

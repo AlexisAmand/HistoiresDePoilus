@@ -132,7 +132,7 @@
 
 <figure>
     <a href="images/forts-maubeuge.jpg" id="single_image" title="L'emplacement des forts de la place forte de Maubeuge en 1914">
-    <img src="images/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914" width="450px" /> 
+    <img src="images/mini/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"  /> 
     </a>
     <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
 </figure>    
@@ -153,7 +153,7 @@
 
 <figure>
     <a href="images/friedrichsfeld-baraque.jpg" id="single_image" title="Une baraque à l'intérieur de camp de prisonniers de Friedrichsfeld">
-    <img src="miniatures/friedrichsfeld-baraque.jpg" alt="Le camp de prisonniers de Friedrichsfeld sur une carte postale ancienne" width="450"/></a>
+    <img src="miniatures/friedrichsfeld-baraque.jpg" alt="Le camp de prisonniers de Friedrichsfeld sur une carte postale ancienne"/></a>
     <figcaption>Une baraque à Friedrichsfeld<br />(cliquez pour agrandir)</figcaption>
 </figure>
 

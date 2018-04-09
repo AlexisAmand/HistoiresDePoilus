@@ -7,9 +7,9 @@
 <title>Biographie du soldat BOURSIER Jules Henri - Histoires de Poilus</title>
 <meta content="parcours de Jules Henri BOURSIER, soldat onnaingeois pendant la Première Guerre Mondiale. Il était membre du 1er Régiment d'Artillerie à Pied et prisonnier de guerre Friedrichsfeld" name="description">
 
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                 
 </head>
 
@@ -20,7 +20,7 @@
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
     cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
-      'Ok', 'En savoir plus', 'cookies.php');
+      'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
 
@@ -28,28 +28,28 @@
 	
     <div id="rezo">
     <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-    <img src="images/facebook.png" />
+    <img src="../images/facebook.png" />
     </a>
-    <img src="images/googleplus.png" />
+    <img src="../images/googleplus.png" />
     <a href="https://twitter.com/alexisamand?lang=fr" title="me suivre sur Twitter">
-    <img src="images/twitter.png" />
+    <img src="../images/twitter.png" />
     </a>
     </div>
       
-<a href="index.php" title="retour sur la page d'accueil du site">
-<img src="images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
+<a href="../index.php" title="retour sur la page d'accueil du site">
+<img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
 
 </header>
    
 <nav>
 
-	<a href="contact.php">Contact</a>
-    <a href="webographie.php">Webographie</a>
-    <a href="lieux.php">Les Batailles</a>
-    <a href="camps.php">Les Camps</a>
-    <a href="releves.php">Les Relevés</a>
-    <a href="poilus.php" class="NavSelected">Les Poilus</a>
-	<a href="index.php">Accueil</a>
+	<a href="../contact.php">Contact</a>
+    <a href="../webographie.php">Webographie</a>
+    <a href="../lieux.php">Les Batailles</a>
+    <a href="../camps.php">Les Camps</a>
+    <a href="../releves.php">Les Relevés</a>
+    <a href="../poilus.php" class="NavSelected">Les Poilus</a>
+	<a href="../index.php">Accueil</a>
        
 </nav>
 
@@ -81,7 +81,8 @@
 <h4>Hopital mixte d'Amiens (80)</h4>
 
 	<figure>
-    <img src="hopitaux/hopital-mixte-amiens.jpeg" width="450">
+	<a href="images/hopital-mixte-amiens.jpeg" id="single_image">
+    <img src="images/hopital-mixte-amiens.jpeg"></a>
         <figcaption>
         	Localisation d'un projectile sur un blessé<br />
             à l'Hôtel Dieu d'Amiens (Hopital Mixte) en ocotbre 1914<br/>
@@ -94,17 +95,20 @@
 <p>Cet hopital militaire était situé à l'Hôpital Militaire Bégin à Saint-Mandé, dans le Val-de-Marne. Il doit son nom à Louis Jacques Bégin (1793-1859), chirurgien militaire de l'Empire.</p>
 
     <figure>
-    <img src="hopitaux/hopital-begin.jpg" width="450">
-    	<figcaption>L'entrée de l'hôpital militaire Bégin</figcaption>
+    <a href="images/hopital-begin.jpg" id="single_image">
+    <img src="images/hopital-begin.jpg"></a>
+    <figcaption>L'entrée de l'hôpital militaire Bégin</figcaption>
     </figure>
    
     <figure>
-    <img src="hopitaux/begin-cuisine.jpg" width="450">
+    <a href="images/begin-cuisine.jpg" id="single_image">
+    <img src="images/begin-cuisine.jpg"></a>
     	<figcaption>Les cuisines de l'hôpital militaire Bégin</figcaption>
     </figure>
 
     <figure>
-   	<img src="hopitaux/hopital-begin-cours.jpg" width="450">
+    <a href="himages/hopital-begin-cours.jpg" id="single_image">
+   	<img src="images/hopital-begin-cours.jpg"></a>
     	<figcaption>La cour intérieure de l'hôpital militaire Bégin</figcaption>
     </figure>
 
@@ -117,10 +121,10 @@
 </section>
 
 <footer>
-	<a href="mentions.php">Mentions Légales</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="../mentions.php">Mentions Légales</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="cookies.php">Cookies</a>
+    <a href="../cookies.php">Cookies</a>
     <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
 </footer>
 

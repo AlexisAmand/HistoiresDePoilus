@@ -177,7 +177,7 @@
              
 <figure>
     <a href="cartes/tunisie-1910.jpg" id="single_image" title="carte de la Tunisie vers 1910">
-    <img src="cartes/tunisie-1910.jpg" width="450px" alt="Carte du sud de la Tunisie, près de la frontière avec la Lybie"  title="Carte du sud de la Tunisie vers 1910"/>
+    <img src="cartes/mini/tunisie-1910.jpg" alt="Carte du sud de la Tunisie, près de la frontière avec la Lybie"  title="Carte du sud de la Tunisie vers 1910"/>
     </a>
     <figcaption>Carte du sud de la Tunisie, près de la frontière avec la Lybie (1910).<br />(Cliquez pour agrandir)</figcaption>
 </figure>

@@ -135,7 +135,7 @@
     <p>&nbsp;</p>
 
 <figure>
-    <img src="poilus/miniatures/volontaires-britanniques.jpg" width="450px" alt="des volontaires britanniques en 1914">
+    <img src="poilus/miniatures/volontaires-britanniques.jpg" alt="des volontaires britanniques en 1914">
     <figcaption>Volontaires britanniques en août 1914<br />(source : Imperial War Museums)</figcaption>
 </figure>
   

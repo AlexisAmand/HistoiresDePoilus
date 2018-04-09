@@ -111,7 +111,7 @@
 
 <figure>
     <a href="portraits/Le-conseil-de-revision.jpg" id="single_image" title="Le conseil de révision">
-    <img src="miniatures/Le-conseil-de-revision.jpg" width="240" height="301" alt="La famille FIEVET au conseil de révision"/>
+    <img src="miniatures/Le-conseil-de-revision.jpg" alt="La famille FIEVET au conseil de révision"/>
     </a>
     <figcaption>Le conseil de révision<br />(Source: Archives familiales)</figcaption>
 </figure>

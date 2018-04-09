@@ -74,7 +74,7 @@
 
 <figure>
     <a href="batailles/images/yser.jpg" id="single_image" title="La Bataille de l'Yser (1914)">
-    <img src="batailles/images/miniatures/yser.jpg" width="450px" alt="la bataille de l'Yser pendant la Grande Guerre"></a>
+    <img src="batailles/images/miniatures/yser.jpg" alt="la bataille de l'Yser pendant la Grande Guerre"></a>
     <figcaption>La Bataille de l'Yser (1914)<br />(source: BNF / Gallica)</figcaption>
 </figure>
 

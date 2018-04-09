@@ -65,7 +65,7 @@
     
 <p>Oups ! La page que vous demandez n'a pas été trouvée !<br />Peut-être a t-elle été déplacée ou supprimée ?</p>
 
-<figure><img src="images/periscope.jpg" width="400" height="284" alt=""/></figure>
+<figure><img src="images/periscope.jpg" alt=""/></figure>
     
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
