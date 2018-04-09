@@ -82,7 +82,7 @@
         <li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li> 
    </ul>
  
-    <div style="text-align:center;margin-top:20px;">
+    <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"

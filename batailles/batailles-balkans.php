@@ -26,7 +26,7 @@
 
 
 
-        <header style="height:175px;">
+        <header>
 	
             <div id="rezo">
             <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
