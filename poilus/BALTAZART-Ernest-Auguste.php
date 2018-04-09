@@ -124,6 +124,12 @@
     <figcaption>La mairie de Reims<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
+<figure>
+    <a href="sources/matricule-baltazart.jpg" id="single_image" title="Extrait de la fiche matricule d'Ernest BALTAZART">
+    <img src="miniatures/matricule-baltazart.jpg" alt="Extrait de la fiche matricule d'Ernest BALTAZART"/></a>
+    <figcaption>Extrait de la fiche matricule d'Ernest BALTAZART<br />(Source: Archives de la Marne)</figcaption>
+</figure>
+
 <h4>Ernest et la campagne contre l'Allemagne</h4>
 
 <p>Comme la plupart des jeunes hommes de sa génération, <strong>Ernest Auguste BALTAZART</strong> est rappelé à l&#39;activité par le décret de mobilisation générale d&#39;aoùt 1914 et il rejoint quelques jours plus tard le <strong>46e Régiment d'Infanterie Territoriale</strong>. Il est libéré le 2 sept 1914 en attendant d&#39;être rappelé le 10 avril 1915 et placé en surcis d'appel provisoire le dit jour aux Forges et Aciéries de Saint Etienne (Usine du Marais).</p>
@@ -134,10 +140,17 @@
     <figcaption>Les aciéries de Saint-Etienne<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
+<figure>
+    <a href="images/mobilisation.jpg" id="single_image" title=" ">
+    <img src="miniatures/mobilisation.jpg" alt=" "/></a>
+    <figcaption>Le décret de mobilisation générale<br />(cliquez pour agrandir)</figcaption>
+</figure>
+
 <h4>Sources et bibliographie</h4>
     
     <ul>
-        <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>
+    	<li><a href="../pdf/matricule-baltazart-ernest.pdf" title="Fiche matricule d'Ernest Auguste BALTAZART">Fiche matricule d'Ernest Auguste BALTAZART</a></li>
+        <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>
        
     </ul>
 
