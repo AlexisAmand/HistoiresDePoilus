@@ -104,7 +104,7 @@
 
 <figure>
       <a href="portraits/Druon Joseph CARLIER (sosa 22).jpg" id="single_image" title="agrandir le portrait de Druon Joseph CARLIER">
-      <img src="miniatures/Druon Joseph CARLIER (sosa 22).jpg" height="200" alt="portrait du poilu Druon Joseph CARLIER"/>
+      <img src="miniatures/Druon Joseph CARLIER (sosa 22).jpg" alt="portrait du poilu Druon Joseph CARLIER"/>
       </a>
       <figcaption>Druon Joseph CARLIER</figcaption>
  </figure>

@@ -113,7 +113,7 @@
 
     <figure>
       <a href="portraits/BOURSIER-Jules-Henri.jpg" id="single_image" title="portrait de Jules Henri BOURSIER">
-      <img src="miniatures/BOURSIER-Jules-Henri.jpg" height="300" alt="portrait de Jules Henri BOURSIER"/>
+      <img src="miniatures/BOURSIER-Jules-Henri.jpg" alt="portrait de Jules Henri BOURSIER"/>
       </a>
       <figcaption>Jules Henri BOURSIER<br/>(cliquez pour agrandir - source: Kamalaa/Geneanet)</figcaption>
     </figure>
@@ -141,7 +141,7 @@
 
     <figure>
         <a href="sources/BOURSIER-Jules-Henri-CICR.jpg" id="single_image" title="Fiche numérisée du CICR">
-        <img src="miniatures/BOURSIER-Jules-Henri-CICR.jpg" height="300" alt="Fiche de Jules Henri BOURSIER numérisée par le CICR"/>
+        <img src="miniatures/BOURSIER-Jules-Henri-CICR.jpg" alt="Fiche de Jules Henri BOURSIER numérisée par le CICR"/>
         </a>
         <figcaption>Fiche du CICR<br/>(cliquez pour agrandir)</figcaption>
     </figure>

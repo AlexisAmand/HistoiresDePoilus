@@ -186,7 +186,7 @@
 
 <figure>
     <a href="sources/DUBOIS-Emile-Edmond-mpf.jpg" id="single_image" title="Emile Edmond DUBOIS, mort pour la France">
-    <img src="miniatures/DUBOIS-Emile-Edmond-mpf.jpg" height="450" alt="Fiche de mort pour la France d'Emile Edmond DUBOIS"/>
+    <img src="miniatures/DUBOIS-Emile-Edmond-mpf.jpg" alt="Fiche de mort pour la France d'Emile Edmond DUBOIS"/>
     </a>
 </figure>
 

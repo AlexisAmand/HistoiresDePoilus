@@ -104,7 +104,7 @@
   
 <figure>
     <a href="portraits/joly-noel-jules.jpg" id="single_image" title="Portrait de Noël Jules JOLY">
-    <img src="miniatures/joly-noel-jules.jpg" height="300" alt="Portrait de Noël Jules JOLY"/></a>
+    <img src="miniatures/joly-noel-jules.jpg" alt="Portrait de Noël Jules JOLY"/></a>
     <figcaption>Portrait de Noël Jules<br />(cliquez pour agrandir)</figcaption>
 </figure>
 

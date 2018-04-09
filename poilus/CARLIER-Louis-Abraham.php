@@ -107,7 +107,7 @@
 
 <figure>
     <a href="portraits/Louis Abraham CARLIER (frère de sosa 22).jpg" id="single_image" title="Portrait de Louis Abraham CARLIER">
-    <img src="miniatures/Louis Abraham CARLIER (frère de sosa 22).jpg" height="200" alt="portrait de Louis Abraham CARLIER"/>
+    <img src="miniatures/Louis Abraham CARLIER (frère de sosa 22).jpg" alt="portrait de Louis Abraham CARLIER"/>
     </a>
     <figcaption>Louis Abraham CARLIER<br />(cliquez pour agrandir)</figcaption>
 </figure>
@@ -176,7 +176,7 @@
 
 <figure>
     <a href="images/convoi-08111918.jpg" id="single_image">
-    <img src="miniatures/convoi-08111918.jpg" height="450px">
+    <img src="miniatures/convoi-08111918.jpg">
     </a>
     <figcaption>Convoi de l'internement du 8 novembre 1918<br />(cliquez pour agrandir)</figcaption>
 </figure>

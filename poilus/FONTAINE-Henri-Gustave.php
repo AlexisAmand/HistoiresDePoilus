@@ -103,7 +103,7 @@
 
 <figure>
     <a href="images/anzin-rue-kleber.jpg" id="single_image" title=" ">
-    <img src="miniatures/anzin-rue-kleber.jpg" height="300" alt=" "/>
+    <img src="miniatures/anzin-rue-kleber.jpg" alt=" "/>
     </a>
     <figcaption>La Rue Kléber à Anzin<br />(Source: BM de Valenciennes)</figcaption>
 </figure>
@@ -112,7 +112,7 @@
 
 <figure>
     <a href="portraits/tous-les-grand-peres.jpg" id="single_image" title="La famille FONTAINE">
-    <img src="miniatures/tous-les-grand-peres.jpg" height="300" alt="La famille FONTAINE "/>
+    <img src="miniatures/tous-les-grand-peres.jpg" alt="La famille FONTAINE "/>
     </a>
     <figcaption>Henri Gustave, debout avec le chapeau<br />(Source: Archives familiales)</figcaption>
 </figure>

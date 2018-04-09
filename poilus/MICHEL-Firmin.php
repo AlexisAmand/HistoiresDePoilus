@@ -118,8 +118,8 @@
 <p>Pendant ce temps, l'état-major de la IIIe armée du Baron Von Hausen quitte le château de Thugny pour s'installer à Bétheniville, village d’origine de <strong>Firmin</strong>, dans une "élégante et gracieuse villa" appartenant aux frères Renaut qui étaient absents. Une partie de l'état major occupait une seconde villa située de l'autre côté de la route. Le Q.G.A est porté de Bétheniville à <a href="http://cartespostalesanciennes.genealexis.fr/album/85-chalons-sur-marne" title="cartes postales anciennes de Châlons-sur-Marne sur le site Genealexis">Châlons</a> dès le lendemain.</p>
 
 <figure>
-    <a href="../images/Max_von_Hausen.jpg" id="single_image" title="portrait du Baron Max Von Hausen">
-    <img src="../images/Max_von_Hausen.jpg" height="300" alt="portrait du Baron Max Von Hausen"/> 
+    <a href="portraits/Max_von_Hausen.jpg" id="single_image" title="portrait du Baron Max Von Hausen">
+    <img src="miniatures/Max_von_Hausen.jpg" alt="portrait du Baron Max Von Hausen"/> 
     </a>
     <figcaption>Max Von Hausen<br />(cliquez pour agrandir)</figcaption>
 </figure>
@@ -130,7 +130,7 @@
 
 <figure>
     <a href="sources/MICHEL-Firmin-mpf.jpg" id="single_image" title="Firmin MICHEL, mort pour la France">
-    <img src="miniatures/MICHEL-Firmin-mpf.jpg" height="450" alt="Fiche de mort pour la France de Firmin MICHEL"/>
+    <img src="miniatures/MICHEL-Firmin-mpf.jpg" alt="Fiche de mort pour la France de Firmin MICHEL"/>
     </a>
     <figcaption>Firmin, mort pour la France<br />(cliquez pour agrandir)</figcaption>
 </figure>

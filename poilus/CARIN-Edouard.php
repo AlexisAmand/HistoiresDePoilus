@@ -125,7 +125,7 @@
 
 <figure>
     <a href="sources/Carin-Edouard-livre-dor.jpg" id="single_image">
-    <img src="miniatures/Carin-Edouard-livre-dor.jpg" height="450" alt="Extrait du livre d'or des morts pour la France de la commune de "/>
+    <img src="miniatures/Carin-Edouard-livre-dor.jpg" alt="Extrait du livre d'or des morts pour la France de la commune de "/>
     </a>
     <figcaption>Edouard dans le livre d'or des morts pour la France<br/>(cliquez pour agrandir - source: Archives Nationales)</figcaption>
 </figure>
@@ -134,7 +134,7 @@
 
 <figure>
     <a href="sources/CARIN-edouard-mpf.JPG"  id="single_image" title="">
-    <img src="sources/CARIN-edouard-mpf.JPG" height="450"  alt=""/>
+    <img src="miniatures/CARIN-edouard-mpf.JPG" alt=""/>
     </a>
     <figcaption>Edouard, mort pour la France.<br />(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
 </figure>

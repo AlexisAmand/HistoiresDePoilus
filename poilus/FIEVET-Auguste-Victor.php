@@ -118,7 +118,7 @@
 
 <figure>
     <a href="portraits/FIEVET-Auguste-Victor.jpg" id="single_image" title="portrait d'Auguste Victor FIEVET">
-    <img src="miniatures/FIEVET-Auguste-Victor.jpg" height="200" alt="portrait d'Auguste Victor FIEVET"/>
+    <img src="miniatures/FIEVET-Auguste-Victor.jpg" alt="portrait d'Auguste Victor FIEVET"/>
     </a>
     <figcaption>Auguste Victor FIEVET</figcaption>
 </figure>
@@ -141,8 +141,8 @@
 <p>Le 9 août, le général commandant le <strong>1er Groupe d'Armée</strong> réunit à Maubert-Fontaine les officiers et leur exposa la situation générale : Une armée allemande dite «de la Meuse», composée de quatre corps d'armée et commandée par le général VON EMMICH, a envahi la Belgique; elle a passé en partie la Meuse, au nord de Liège, et se porte à l'attaque de cette place. Les Allemands ont violé le territoire belge. Quatre de nos divisions de cavalerie, concentrées autour de Mézières (Ardennes), sous le commandement du général SORDET, ont pénétré en Belgique pour opérer contre VON EMMICH. Ce corps de cavalerie est appuyé par une brigade d'infanterie échelonnée le long de la Meuse, couvrant la concentration du 1er corps... </p>
 
 <figure> 
-    <a href="" id="single_image" title="Portrait de Von Emmich">
-    <img src="miniatures/Von_Emmich.jpg" height="300px" alt="portrait du général allemand Von Emmich"/> 
+    <a href="portraits/Von_Emmich.jpg" id="single_image" title="Portrait de Von Emmich">
+    <img src="miniatures/Von_Emmich.jpg" alt="portrait du général allemand Von Emmich"/> 
     </a>
     <figcaption>Le Général Von Emmich</figcaption>
 </figure>
