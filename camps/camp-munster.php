@@ -112,6 +112,13 @@ span.MsoFootnoteReference
  <p>Charles PETIT, membre du 1er Régiment d'Artillerie, a été fait prisonnier à Maubeuge le 7 septembre 1914, et envoyé au camp de Munster. Le 25 juillet 1916, il est évacué vers la Suisse pour tuberculose pulmonaire. Dans un rapport, il raconte que <em>"pendant les premières six semaines, il n'y avait aucune installation pour loger les hommes, ni tentes, ni baraquements. Le nombre des prisonniers était de 24000; pour se mettre à l'abri, ils creusaient des trous dans la terre, en les couvrant tant bien que mal de mottes de gazon. Il n'y avait aucune installation de cuisine au début. La mortalité des prisonniers, à ce moment, était considérable. Les installations de baraquements n'ont été achevées que vers la fin de janvier 1915&quot;.</em></p>
 
 <figure>
+    <a href="images/friedrichsfeld-chapelle.jpg" id="single_image" title="Camp de Friedrichsfeld: La chapelle">
+    <img src="miniatures/friedrichsfeld-chapelle.jpg" alt="une chapelle dans le camp de prisonniers de Friedrichsfeld">
+    </a>
+    <figcaption>Une chapelle dans un camp de prisonniers<br />(Peut-être Munster)</figcaption>
+</figure>
+
+<figure>
     <a href="images/munster-01.jpg" id="single_image" title="Camp de Münster: Prisonniers occupés à fendre du bois">
     <img src="miniatures/munster-01.jpg" alt="Prisonniers occupés à fendre du bois dans le camp de Münster pendant la Première Guerre Mondiale"></a>
     <figcaption>Prisonniers occupés à fendre du bois<br />(source allemande)</figcaption>

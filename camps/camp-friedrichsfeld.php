@@ -122,13 +122,6 @@
     <figcaption>Intérieur d'une grande baraque servant de lazarett<br />(source allemande)</figcaption>   
 </figure>
 
-<figure>
-    <a href="images/friedrichsfeld-chapelle.jpg" id="single_image" title="Camp de Friedrichsfeld: La chapelle">
-    <img src="miniatures/friedrichsfeld-chapelle.jpg" alt="une chapelle dans le camp de prisonniers de Friedrichsfeld">
-    </a>
-    <figcaption>Une chapelle dans un camp de prisonniers<br />(Peut-être Friedrichsfeld)</figcaption>
-</figure>
-
 <p>L'espace occupé par les prisonniers comprend une superficie de 25 hectares entourée d'une triple rangée de fils de fer barbelés. Des baraquements en planches, construits par les prisonniers eux-mêmes, comptent en mai 1915 pas moins de 20 000 hommes dont 16000 français, 3000 russes, 500 belges, 300 anglais.</p>
 
 <figure>
