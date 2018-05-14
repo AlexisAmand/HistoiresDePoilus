@@ -147,7 +147,7 @@
 
 <figure>
     <a href="sources/CARIN-leon-mpf.JPG"  id="single_image" title="Fiche de Mort pour la France">
-    <img src="sources/CARIN-leon-mpf.JPG" alt="Fiche de Mort pour la France de Léon CARIN"/>
+    <img src="sources/CARIN-leon-mpf.JPG" height="450px" alt="Fiche de Mort pour la France de Léon CARIN"/>
     </a>
     <figcaption>Léon, mort pour la France.</figcaption>
 </figure>
