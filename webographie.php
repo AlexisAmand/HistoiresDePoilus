@@ -71,6 +71,24 @@
     
     <p>Vous trouverez sur cette page la liste de toutes les ressources qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. Il peut s'agir de sites web, de livres ou même de revues. J'ai essayé d'être le plus exhausif possible, mais n'hésitez pas à <a href="contact.php">me contacter</a> si vous avec une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c&#39;est possible), cela vous menera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p>Certains documents sont <span class="auto-style1"><strong>des pdf</strong></span>, selon la configuration de votre ordinateur, ils peuvent <span  class="auto-style1"><strong>mettre un petit moment à s&#39;afficher</strong></span>. Pour lire ces pdf, vous devez posséder un logiciel comme Adobe Reader, que vous pouvez <a href="https://get.adobe.com/fr/reader/">télécharger gratuitement ici</a>.</p>
 
+    <br/><h4>Dossiers d'anciens combattants</h4>
+
+    <ul>
+		<li><a href="http://archives.genealexis.fr/album/13-carlier-druon-joseph" title="version numérisée du dossier d'ancien combattant de Druon Joseph CARLIER">
+        Le dossier d'ancien combattant de Druon Joseph CARLIER</a> (Archives Départementales du Nord)</li>
+        <li><a href="http://archives.genealexis.fr/album/15-carlier-louis-abraham" title="version numérisée du dossier d'ancien combattant de Louis Abraham CARLIER">
+        Le dossier d'ancien combattant de Louis Abraham CARLIER</a> (Archives Départementales du Nord)</li>
+        <li><a href="http://archives.genealexis.fr/image/115-page-01" title="version numérisée du dossier d'ancien combattant d'Auguste FIEVET">
+        Le dossier d'ancien combattant d'Auguste FIEVET</a> (Archives Départementales du Nord)</li>
+        <li><a href="http://archives.genealexis.fr/album/22-joly-noel" title="version numérisée du dossier d'ancien combattant de Noël JOLY">
+        Le dossier d'ancien combattant de Noël JOLY</a> (Archives Départementales du Nord)</li>
+        <li><a href="http://archives.genealexis.fr/album/20-letienne-florimond" title="version numérisée du dossier d'ancien combattant de Florimond LETIENNE">
+        Le dossier d'ancien combattant de Florimond LETIENNE</a> (Archives Départementales du Nord)</li>
+        <li><a href="http://archives.genealexis.fr/album/18-grain-leon" title="version numérisée du dossier d'ancien combattant de Léon Albert GRAIN">
+        Le dossier d'ancien combattant de Léon Albert GRAIN</a> (Archives Départementales du Nord)</li>   
+
+	</ul>
+
     <br/><h4>Historique des bataillons de chasseurs</h4>
     
 	<ul>
