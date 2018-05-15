@@ -126,6 +126,8 @@
     <figcaption>Menu du camp du 4 au 10 avril 1915<br />(source allemande)</figcaption>   
 </figure>
 
+<p>Dans le livre intitulé "Le Sort des Prisonniers Français en Allemagne", paru en 1916, l'auteur nous décrit l'impuissance des prisonniers français contre les épidémies, notamment dans les camps de <a href="camp-darmstadt.php">Darmstadt</a>, <a href="camp-friedrichsfeld.php">Friedrichsfeld</a>, Koenigsbrück, Merseburg et Zoosen où la faim non apaisée, l'inanition et la misére psychologique qui en a résulté ont provoqué un développement inouï de la tuberculose et une mortalité effrayante.</p>
+
 <figure>
     <a href="images/Darmstadt/darmstadt-01.jpg" id="single_image"  title="Le camp de Darmstadt">
     <img src="miniatures/Darmstadt/darmstadt-01.jpg" alt="Vue des baraques dans le camp de prisonniers de Darmstadt"></a>
@@ -201,8 +203,7 @@
     <li><a href="http://amzn.to/2wHK3UT">Sous le ciel d'Allemagne. Sonnets d'un prisonnier de guerre. Darmstadt, Meyenburg, Limburg, Giessen (Emile Mussat, 1921)</a></li>     
     <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>
     <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre 1924)</li>
-    <li><a rel="nofollow" href="http://www.amazon.fr/gp/product/2708905228/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2708905228&linkCode=as2&tag=lagenealogent-21">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2708905228" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
-    
+    <li><a rel="nofollow" href="http://www.amazon.fr/gp/product/2708905228/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2708905228&linkCode=as2&tag=lagenealogent-21">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2708905228" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>   
 </ul>    
 
 <p class="sources">

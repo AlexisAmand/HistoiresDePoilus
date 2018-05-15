@@ -125,6 +125,8 @@
     <figcaption>Fabrication de chaussures par des prisonniers russes<br />(Carte postale)</figcaption>
 </figure>
 
+<p>En 1923, la "Gazette de Bayonne, de Biarritz et du Pays basque" annonce dans un article daté du 12 aout que les corps de 49 soldats français morts en captivité au camp de Czersk vont être rapatriés.</p>
+
 <h4>Sources et bibliographie</h4>
 
 <ul>
