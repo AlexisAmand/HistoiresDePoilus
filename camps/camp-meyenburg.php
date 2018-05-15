@@ -74,6 +74,7 @@
         <li><a href="camp-munster.php">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
+        <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
@@ -100,7 +101,7 @@
 <h1>Le camp de prisonniers de Meyenburg</h1>
 
 <p>
-Lucien THEAUD est membre du 70e R.I. Il esr fait prisonnier à Lille, où il se trouve car il est atteint de dysentrie. Aprés un séjour de 2 mois dans un hôpital de Lille, il est transféré au <a href="camp-limburg.php">camp de Limburg</a>, puis au camp de représailles de Celle avant d'entre envoyé au camp de Meyenburg, dans le Brandebourg, en Allemagne. où il travaille à l'asséchement des marais. Il décrit les installations de Meyenburg comme trsè rudimentaires: barraques trop petites, des soldats qui mangent sur leurs paillasses de la nourriture très mauvaise et des hommes qui s'avouissent pendant la punition "au poteau".
+Lucien THEAUD est membre du 70e R.I. Il esr fait prisonnier à Lille, où il se trouve car il est atteint de dysentrie. Aprés un séjour de 2 mois dans un hôpital de Lille, il est transféré au <a href="camp-limburg.php">camp de Limburg</a>, puis au camp de représailles de Celle avant d'entre envoyé au camp de Meyenburg, dans le Brandebourg, en Allemagne. où il travaille à l'asséchement des marais. Il décrit les installations de Meyenburg comme très rudimentaires: baraques trop petites, des soldats qui mangent sur leurs paillasses de la nourriture très mauvaise et des hommes qui s'avouissent pendant la punition "au poteau".
 </p>
 
 <h4>Source</h4>

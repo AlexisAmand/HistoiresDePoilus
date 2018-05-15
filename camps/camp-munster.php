@@ -81,6 +81,7 @@ span.MsoFootnoteReference
         <li><a href="camp-munster.php" class="AsideSelected">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
+        <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
