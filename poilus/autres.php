@@ -106,39 +106,41 @@
     <figcaption>Des jumelles et leur étui<br />(cliquez pour agrandir - source: BNF / Gallica / Alpes-Maritimes)</figcaption>
     </figure>
     
-<h4>Nord</h4>
+<h4>Mes poilus du Nord</h4>
 
 <ul>
-	<li>Edmond BOURSIER, frère de <a href="../poilus.php">Jules Henri, né le 10 avril 1882</a>, dont je n&#39;ai pas encore pu trouver la fiche matricule.</li>
-	<li>Petit-fils de Léonie FIEVET (sosa 97) 
-		<ul>
-		<li> Eugène Fernand ROUSSEAUX, né en 1891 à Roubaix (Nord) et prisonnier de guerre au camp de&nbsp; <a href="../camps/camp-hammerstein.php">Hammerstein</a> puis à celui de <a href="../camps/camp-minden.php">Minden</a>.</li>
-		</ul>
-	</li>
-	<li>Raphaël Joseph BOTTIAU, petit fils de sosa 80 et de sa 2e épouse.</li>
-	<li>Jules MAGNY, né le 18 août 1892 à Onnaing (Nord).</li>
-	<li>Druon Adrien PATOU, né le 31 mars 1885 à Sebourg (Nord), et cousin germain de <a href="CARLIER-Druon-Joseph.php">Druon Joseph CARLIER</a> et <a href="CARLIER-Louis-Abraham.php">Louis Abraham CARLIER</a>.</li>
-	<li>Edmond MAGNY, <a href="../releves/onnaing.php">victime civile à Onnaing</a></li>
+	<li><strong>Edmond BOURSIER</strong>, frère de <a href="../poilus.php">Jules Henri</a>, né le 10 avril 1882, dont je n&#39;ai pas encore pu trouver la fiche matricule.<br /><br /></li>
+	
+    <li><strong>Eugène Fernand ROUSSEAUX</strong>, né en 1891 à Roubaix (Nord) et prisonnier de guerre au camp de&nbsp; <a href="../camps/camp-hammerstein.php">Hammerstein</a> puis à celui de <a href="../camps/camp-minden.php">Minden</a>. Eugène est le petit fils de Léonie FIEVET (ma sosa n°97)<br /><br /></li>
+	
+	<li><strong>Raphaël Joseph BOTTIAU</strong>, petit fils de mon sosa 80 et de sa 2e épouse. Il a arrive au 15e Régiment d'Artillerie de Campagne le 11 aout 1914. Libéré provisoirement le 19 aout 1914, il est fait prisonnier le 24 aout à Quarouble et interné derrière les lignes.<br /><br /></li>
+
+	<li><strong>Jules MAGNY</strong>, né le 18 août 1892 à Onnaing (Nord). Le 6 septembre 1916, soldat mitrailleur, il a,  par son calme et la précision de son tir, entravé une tentative de contre attaque allemande. Nommé caporal le 5 décembre 1917, il est ensuite prisonnier de guerre du 31 mai au 14 décembre 1918. Il était titulaire de la croix de guerre avec étoile de bronze, de la médaille commémorative et de la médaille interalliée.<br /><br /></li>
+
+	<li><strong>Druon Adrien PATOU</strong>, né le 31 mars 1885 à Sebourg (Nord), et cousin germain de <a href="CARLIER-Druon-Joseph.php">Druon Joseph CARLIER</a> et <a href="CARLIER-Louis-Abraham.php">Louis Abraham CARLIER</a>. Je n'ai pas encore pu trouver ça fiche matricule car beaucoup de fiches sont manquantes pour l'année 1905 au bureau de Valenciennes.
+    <br /><br /></li>
+
 </ul>
 
 <p></p>
-<h4>Marne</h4>
-<ul>
-  <li>Petits fils de Julie Joséphine KRAUTH via Louise Adèle BALTAZART
-    <ul>
-      <li>Jules Alphonse ASTIER, né le 14 février 1872 à Bétheniville (Marne)  </li>
-    </ul>
-  </li>
-  <li> Eugène Alexandre CARON, né le 16 avril 1869 à Montigny-sur-Vesle (Marne)</li>
-  <li>Léopold PAQUET, né le 5 décembre 1886 à Reims (Marne), beau-frère de mon aïeul Robert ARNOULD (sosa 14).</li>
+
+<h4>Mes poilus de la Marne</h4>
+
+<ul>   
+    <li><strong>Jules Alphonse ASTIER</strong>, né le 14 février 1872 à Bétheniville (Marne), petit-fils de mon aïeule Julie Joséphine KRAUTH via Louise Adèle BALTAZART. <br /><br /></li>
+
+    <li><strong>Eugène Alexandre CARON</strong>, né le 16 avril 1869 à Montigny-sur-Vesle (Marne). Il rejoint la 6e section d'infirmiers le 3 aout 1914. Le 24 aout 1915, il est détaché dans une usine de Clermont-Ferrant.<br /><br /></li>
+
+    <li><strong>Léopold PAQUET</strong>, né le 5 décembre 1886 à Reims (Marne), beau-frère de mon aïeul Robert ARNOULD (sosa 14). Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 aout 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 aout 1917 pour paralysie radiale du bras gauche. <br /><br /></li>
 </ul>
+
 <p></p>
-<h4>Parentés à prouver</h4>
+
+<h4>Les poilus dont la parenté reste à prouver</h4>
+
     <ul>
-        <li>Livre d&#39;or des morts pour la France d&#39;Onnaing<ul>
-            <li>BRUNIAU René (né le 14 novembre 1883 et décédé le 31 octobre 1916)</li>
-            </ul>
-        </li>
+        <li>Edmond MAGNY, <a href="../releves/onnaing.php">victime civile à Onnaing</a> <br /><br /></li>
+
         <li>Monuments aux morts de Grandpré (Ardennes)<ul>
             <li>BALTAZART Adolphe</li>
             <li>BALTAZART Bernard</li>
@@ -148,7 +150,6 @@
             <li>BALTAZART Maurice né à Grandpré le 7 février 1892, fils de BALTAZART Anna</li>
             <li>BALTAZART Auguste Marie né à Grandpré le 13 février 1892</li>
             </ul>
-            <br class="Apple-interchange-newline" />
         </li>
     </ul>
 <p></p>
