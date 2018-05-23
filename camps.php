@@ -93,7 +93,7 @@
         <li><a href="camps/camp-munster.php">Munster</a></li> 
         <li><a href="camps/camp-nurnberg.php">Nuremberg</a></li>
         <li><a href="camps/camp-regensburg.php">Regensburg</a></li> 
-        <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
+        <li><a href="camps/camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camps/camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camps/camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camps/camp-wurzburg.php">Würzburg</a></li>
