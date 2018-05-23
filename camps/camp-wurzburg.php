@@ -101,7 +101,7 @@
 
 <h1>Le camp de prisonniers de Würzburg</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p><p>Le camp de prisonniers de Würzburg était situé en Bavière (Allemagne). Les prisonniers du camp ont décrit avec beaucoup d'humour les profils de leurs gardiens (appelés <em>post</em> ou <em>posten</em>), qui vont du brave père de famille, le "<em>post doux [...] qui cause avec les prisonniers</em>", au stereotype prussien, "<em>le post terrible [...] qui ne dit mot, tortille ses moustaches et qu'il ne ferait pas bon de contrarier</em>", en passant par le gardien austère, "<em>le post sérieux [...] qui voit en ville son groupe de prisonniers reluquer avec insistance vers les trottoirs, et qui est choqué, absolument choqué</em>".</p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p><p>Le camp de prisonniers de Würzburg était situé en Bavière (Allemagne). Les prisonniers du camp ont décrit avec beaucoup d'humour les profils de leurs gardiens (appelés <em>post</em> ou <em>posten</em>), qui vont du brave père de famille, le "<em>post doux [...] qui cause avec les prisonniers</em>", au stéréotype prussien, "<em>le post terrible [...] qui ne dit mot, tortille ses moustaches et qu'il ne ferait pas bon de contrarier</em>", en passant par le gardien austère, "<em>le post sérieux [...] qui voit en ville son groupe de prisonniers reluquer avec insistance vers les trottoirs, et qui est choqué, absolument choqué</em>".</p>
 
 <p>Le « Rapports des délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne » indique qu’au 19 août 1916, il y a environ 1500 prisonniers dans le camp de Würzburg.</p>
 
@@ -115,7 +115,7 @@
 
 <ul>   
     <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
-    <li>L&#39;intermede n°27, novembre 1916 (journal du camp)</li>
+    <li>L&#39;intermède n°27, novembre 1916 (journal du camp)</li>
     <li><a rel="nofollow" href="http://www.amazon.fr/gp/product/2708905228/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2708905228&linkCode=as2&tag=lagenealogent-21">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2708905228" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
 </ul>    
 

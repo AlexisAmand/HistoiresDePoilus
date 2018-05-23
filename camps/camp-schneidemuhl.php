@@ -101,7 +101,7 @@
 
 <h1>Le camp de prisonniers de Schneidemühl</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p><p>Le camp principal de prisonniers de Schneidemühl était situé en Posnanie, une ancienne province du Royaume de Prusse, à environ 90 kilomètres au nord de Posen (aujourd'hui Poznań en Pologne).</p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p><p>Le camp principal de prisonniers de Schneidemühl était situé en Posnanie, une ancienne province du Royaume de Prusse, à environ 90 kilomètres au nord de Posen (aujourd'hui Poznań en Pologne).</p>
 
 <figure>
     <a href="images/schneidemuhl-01.jpg" id="single_image" title="La lessive à Schneidemühl">

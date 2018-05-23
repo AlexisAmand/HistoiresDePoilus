@@ -66,7 +66,7 @@
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Emile Edmond (+)</a></li>
+        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
@@ -77,10 +77,9 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php" class="AsideSelected">MICHEL Firmin (+)</a></li>
-        <li><a href="rousseaux-eugene.php">ROUSSEAUX Eugène</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">A venir</a></li>
+        <li><a href="autres.php">Autres poilus</a></li>
    </ul>
    
       <div id="pubaside">
@@ -113,7 +112,7 @@
 
 <p>  Du 2 août 1914 au 26 février 1916, le régiment de <strong>Firmin</strong> ne cesse de combattre dans la région fortifiée de Verdun et de concourir à la défense de la place. Dans une première période allant du 2 août au 20 octobre 1914, il prête son appui aux troupes de campagne et participe à des attaques locales. Dans une deuxième période allant du 20 octobre 1914 au 26 février 1916, il combat dans les conditions ordinaires de la guerre de tranchées et soutient, du 21 au 26 février 1916, la plus formidable attaque qui ait été vue jusqu'alors. </p>
   
-<br/><h4>Pendant ce temps, les allemands s&#39;installent dans son village</h4>
+<br/><h4>Pendant ce temps, les Allemands s&#39;installent dans son village</h4>
 
 <p>Pendant ce temps, l'état-major de la IIIe armée du Baron Von Hausen quitte le château de Thugny pour s'installer à Bétheniville, village d’origine de <strong>Firmin</strong>, dans une "élégante et gracieuse villa" appartenant aux frères Renaut qui étaient absents. Une partie de l'état major occupait une seconde villa située de l'autre côté de la route. Le Q.G.A est porté de Bétheniville à <a href="http://cartespostalesanciennes.genealexis.fr/album/85-chalons-sur-marne" title="cartes postales anciennes de Châlons-sur-Marne sur le site Genealexis">Châlons</a> dès le lendemain.</p>
 
@@ -135,11 +134,11 @@
     <figcaption>Firmin, mort pour la France<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<p><strong>Firmin</strong> repose aujourd'hui à la Nécropole Nationale de Bras-sur-Meuse (Tombe 50) et son nom figure sur le <a href="../releves/betheniville.php" title="lien vers la liste des morts pour la France de Bétheniville">monument aux morts du village de Bétheniville</a> (Marne).</p>
+<p><strong>Firmin</strong> repose aujourd'hui à la Nécropole Nationale de Bras-sur-Meuse (Tombe 50) et son nom figure sur le <a href="../releves/betheniville.php" title="lien vers la liste des morts pour la France de Bétheniville">Monument aux Morts du village de Bétheniville</a> (Marne).</p>
 
 <figure>
-    <a href="../releves/images/betheniville-monument-aux-morts.jpg" id="single_image" title="Bétheniville - Le monument aux morts">
-    <img src="../releves/images/mini/betheniville-monument-aux-morts.jpg" alt="le monument aux morts de Bétheniville sur une carte postale ancienne"/>
+    <a href="../releves/images/betheniville-monument-aux-morts.jpg" id="single_image" title="Bétheniville - Le Monument aux Morts">
+    <img src="../releves/images/mini/betheniville-monument-aux-morts.jpg" alt="le Monument aux Morts de Bétheniville sur une carte postale ancienne"/>
     </a>
     <figcaption>Le Monument du Souvenir (guerre 1914-1918)<br />(cliquez pour agrandir)</figcaption>
 </figure>
@@ -149,7 +148,7 @@
 
 <br/><h4>Saint-Hilaire-le-Petit pendant la Grande Guerre</h4>
 
-<p>Dès le lundi 31 août 1914, l'armée française recul en bloc. La région située entre Bétheniville et Saint-Hilaire devient un immense bivouac. La plupart des habitants décident de quitter le village, mais ils seront contraits au retour par les allemands quelques jours plus tard. Le 12 septembre 1914 le reflux des troupes allemandes commence et les Allemands s’installent à Saint-Hilaire-le-Petit, qu'ils quitteront à la fin de la guerre.</p>
+<p>Dès le lundi 31 août 1914, l'armée française recul en bloc. La région située entre Bétheniville et Saint-Hilaire devient un immense bivouac. La plupart des habitants décident de quitter le village, mais ils seront contraints au retour par les Allemands quelques jours plus tard. Le 12 septembre 1914 le reflux des troupes allemandes commence et les Allemands s’installent à Saint-Hilaire-le-Petit, qu'ils quitteront à la fin de la guerre.</p>
 
    
 <figure>

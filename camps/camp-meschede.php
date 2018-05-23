@@ -99,7 +99,7 @@
 
 <h1>Le camp de prisonniers de Meschede</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
 
 <figure>
     <a href="images/Meschede/meschede-01.jpg" id="single_image" title="Un groupe de prisonniers devant un baraquement à Meschede">

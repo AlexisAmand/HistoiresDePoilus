@@ -66,7 +66,7 @@
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Emile Edmond (+)</a></li>
+        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php" class="AsideSelected">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
@@ -77,10 +77,9 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="rousseaux-eugene.php">ROUSSEAUX Eugène</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">A venir</a></li>
+        <li><a href="autres.php">Autres poilus</a></li>
    </ul>
    
       <div id="pubaside">
@@ -160,11 +159,11 @@
     <figcaption>La citadelle de Dinant, début 1914</figcaption>
 </figure>
 
-<p>Les Allemands, ayant Bruxelles pour objectif, s'avançaient en masses compactes. Une armée au nord, s'était heurtée aux forts de Liège (Belgique), une autre avait franchi la Meuse entre Liège et Namur. <br /><br />Le même jour, les allemands signalent leur présence par une audacieuse reconnaissance et dessine une courte attaque contre nos lignes. Des autos-mitrailleuses allemandes, débouchant de la rive droite de la Meuse par le pont d'Anseremme (Belgique), à 4 kilomètres au sud de Dinant, dispersèrent le poste français et ouvrirent le passage à un escadron de uhlans qui s'avança sur la rive gauche jusqu'à Anthée. Cet escadron fut accueilli, à dix-sept heures, par les mitrailleuses du <strong>33e Régiment d'Infanterie </strong>qui étaient en position au nord du village; arrêté net, il rebroussa chemin. </p><p>Le 15 août, les Allemands attaquent Dinant avec des forces imposantes. La ville, partagée en deux parties par le fleuve, est dominée, sur la rive droite, par la citadelle, qui surplombe le terrain d'une centaine de mètres. Au sud de celle-ci, se trouve la tour de Montfort. Ce furent les deux premiers objectifs visés par les allemands. Malgré l'héroïque résistance du 148e R.I., ces deux points tombèrent entre les mains de l'ennemi, qui utilisa ces positions pour écraser de ses feux, toute la rive gauche du fleuve.<br /><br /> Le<strong> 33e Régiment d'Infanterie</strong>, accouru d'Anthée, prit position, à cinq heures, le long de la voie ferrée. Deux compagnies, 10e (capitaine CARTON), 12e (capitaine BATAILLE), reçurent l'ordre d'aller réoccuper la citadelle. Le mouvement fut conduit d'une façon si rapide, que les Allemands, surpris, s'enfuirent, abandonnant la position. Mais peu après, la citadelle fut soumise à un feu d'artillerie tellement violent que la forteresse s'effondra de toutes parts, ensevelissant une partie des occupants et un certain nombre d'habitants.</p>
+<p>Les Allemands, ayant Bruxelles pour objectif, s'avançaient en masses compactes. Une armée au nord, s'était heurtée aux forts de Liège (Belgique), une autre avait franchi la Meuse entre Liège et Namur. <br /><br />Le même jour, les Allemands signalent leur présence par une audacieuse reconnaissance et dessine une courte attaque contre nos lignes. Des autos-mitrailleuses allemandes, débouchant de la rive droite de la Meuse par le pont d'Anseremme (Belgique), à 4 kilomètres au sud de Dinant, dispersèrent le poste français et ouvrirent le passage à un escadron de uhlans qui s'avança sur la rive gauche jusqu'à Anthée. Cet escadron fut accueilli, à dix-sept heures, par les mitrailleuses du <strong>33e Régiment d'Infanterie </strong>qui étaient en position au nord du village; arrêté net, il rebroussa chemin. </p><p>Le 15 août, les Allemands attaquent Dinant avec des forces imposantes. La ville, partagée en deux parties par le fleuve, est dominée, sur la rive droite, par la citadelle, qui surplombe le terrain d'une centaine de mètres. Au sud de celle-ci, se trouve la tour de Montfort. Ce furent les deux premiers objectifs visés par les Allemands. Malgré l'héroïque résistance du 148e R.I., ces deux points tombèrent entre les mains de l'ennemi, qui utilisa ces positions pour écraser de ses feux, toute la rive gauche du fleuve.<br /><br /> Le<strong> 33e Régiment d'Infanterie</strong>, accouru d'Anthée, prit position, à cinq heures, le long de la voie ferrée. Deux compagnies, 10e (capitaine CARTON), 12e (capitaine BATAILLE), reçurent l'ordre d'aller réoccuper la citadelle. Le mouvement fut conduit d'une façon si rapide, que les Allemands, surpris, s'enfuirent, abandonnant la position. Mais peu après, la citadelle fut soumise à un feu d'artillerie tellement violent que la forteresse s'effondra de toutes parts, ensevelissant une partie des occupants et un certain nombre d'habitants.</p>
 
 <figure>
     <a href="" id="single_image" title="">
-    <img src="miniatures/dinant_detruite_1914.jpg"  alt="La ville de Dinant après les combats d'aout 1914"/>
+    <img src="miniatures/dinant_detruite_1914.jpg"  alt="La ville de Dinant après les combats d'août 1914"/>
     </a>
     <figcaption>Dinant détruite en 1914</figcaption>
 </figure>
@@ -178,7 +177,7 @@
     <figcaption>La ferme du Rond Chêne sur une carte de Dinant<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-    <p>En quelques minutes, 90 hommes sont mis hors de combat dont <strong>Auguste</strong> qui est blessé par balle au pied droit, à la cheville et à la main. Il est évacué à l’<strong>hôpital 31 de Nantes</strong> et devient invalide à 40%. Selon les Archives Municipales de Nantes, l'hopital 31 était situé dans l'ancien séminaire de philosophie, rue Saint-Clément  et avait une capacité de 300 lits. Il fonctionne du 25 août 1914 au 24 septembre 1916.</p>
+    <p>En quelques minutes, 90 hommes sont mis hors de combat dont <strong>Auguste</strong> qui est blessé par balle au pied droit, à la cheville et à la main. Il est évacué à l’<strong>hôpital 31 de Nantes</strong> et devient invalide à 40%. Selon les Archives Municipales de Nantes, l'hôpital 31 était situé dans l'ancien séminaire de philosophie, rue Saint-Clément  et avait une capacité de 300 lits. Il fonctionne du 25 août 1914 au 24 septembre 1916.</p>
 
 <figure>
     <a href="" id="single_image"  id="single_image" title="Les hôpitaux de Nantes">

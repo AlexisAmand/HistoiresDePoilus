@@ -100,12 +100,7 @@
 
 <h1>Le camp de prisonniers de Czersk</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p>
-
-<p>Le camp de Czersk était situé en Poméranie (Prusse Orientale).</p>
-    <p>En 1918, pour les pansements comme pour la nourriture de nombreux erzatz règnent, comme en témoigne une note&nbsp; de service du lazaret du camp de Czersk datée d&#39;aout qui recommande <em>&quot;qu&#39;en ce qui concerne le matériel de pansement, l&#39;économie la plus grand doit être pratiquée, comme ont doit aussi tendre à le pratiquer rigoussement dans les hôpitaux allemands.&quot;</em></p>
-    <p>&nbsp;</p>
-
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><br /><p>Le camp de Czersk était situé en Poméranie (Prusse Orientale).</p><p>En 1918, pour les pansements comme pour la nourriture de nombreux erzatz règnent, comme en témoigne une note&nbsp; de service du lazaret du camp de Czersk datée d&#39;août qui recommande <em>&quot;qu&#39;en ce qui concerne le matériel de pansement, l&#39;économie la plus grand doit être pratiquée, comme ont doit aussi tendre à le pratiquer rigoussement dans les hôpitaux allemands.&quot;</em></p><br />
 
 <figure>
     <a href="images/Czersk/Czersk-01.jpg" id="single_image" title="Le camp de Czersk">
@@ -125,12 +120,12 @@
     <figcaption>Fabrication de chaussures par des prisonniers russes<br />(Carte postale)</figcaption>
 </figure>
 
-<p>En 1923, la "Gazette de Bayonne, de Biarritz et du Pays basque" annonce dans un article daté du 12 aout que les corps de 49 soldats français morts en captivité au camp de Czersk vont être rapatriés.</p>
+<p>En 1923, la "Gazette de Bayonne, de Biarritz et du Pays Basque" annonce dans un article daté du 12 août que les corps de 49 soldats français morts en captivité au camp de Czersk vont être rapatriés.</p>
 
 <h4>Sources et bibliographie</h4>
 
 <ul>
-  
+    <li>Gazette de Bayonne, de Biarritz et du Pays Basque du 12 août 1923 (disponible sur Gallica)
     <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
     <li><a rel="nofollow" href="http://www.amazon.fr/gp/product/2708905228/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2708905228&linkCode=as2&tag=lagenealogent-21">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2708905228" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
 </ul>    

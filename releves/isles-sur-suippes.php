@@ -108,7 +108,7 @@
 
 <figure>
     <a href="images/monument-isles.jpg" id="single_image" title="Le Monument aux Morts d'Isles-sur-Suippe">
-    <img src="images/mini/monument-isles.jpg" alt="le monument aux morts d'Isles-sur-Suippe sur une carte postale ancienne"/>
+    <img src="images/mini/monument-isles.jpg" alt="le Monument aux Morts d'Isles-sur-Suippe sur une carte postale ancienne"/>
     </a>
     <figcaption>Le Monument aux Morts<br />(cliquez pour agrandir)</figcaption>
 </figure>
@@ -168,7 +168,7 @@
     </tr>
   <tr>
     <td>GANGAND<br />Jules Alexandre</td>
-    <td>Le 24 aout 1884<br />à Isles-sur-Suippes</td>
+    <td>Le 24 août 1884<br />à Isles-sur-Suippes</td>
     <td>Le 23 novembre 1918<br />à Bannes (Marne)</td>
     <td>132e R.I</td>
     <td>&nbsp;</td>
@@ -197,14 +197,14 @@
   <tr>
     <td>JAUVIN<br />Armand Arthur</td>
     <td>Le 19 octobre 1887<br />à Tinqueux (Marne)</td>
-    <td>Le 26 aout 1914<br />à Saint-Jean-de-Buzy</td>
+    <td>Le 26 août 1914<br />à Saint-Jean-de-Buzy</td>
     <td>354e R.I</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>LEGROS<br />Lucien Edmond</td>
     <td>Le 7 janvier 1886<br />à Avize (Marne)</td>
-    <td>Le 31 aout 1916<br />à Sudelkopff (Allemagne)</td>
+    <td>Le 31 août 1916<br />à Sudelkopff (Allemagne)</td>
     <td>348e R.I</td>
     <td>&nbsp;</td>
   </tr>
@@ -225,7 +225,7 @@
   <tr>
     <td>PETITFAUX<br />Paul Prosper</td>
     <td>Le 23 novembre 1885<br />à Paris (16e)</td>
-    <td>16 aout 1915<br />à Toulon (Var)</td>
+    <td>16 août 1915<br />à Toulon (Var)</td>
     <td>25e R.A</td>
     <td>&nbsp;</td>
   </tr>

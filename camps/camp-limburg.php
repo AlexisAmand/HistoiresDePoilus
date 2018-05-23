@@ -100,7 +100,7 @@
 
 <h1>Le camp de prisonniers de Limburg</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p><p>Le camp de Limburg était situé dans une région appellée Hesse-Nassau (en allemand Hessen-Nassau).</p><p>Le Rapports des délégués du Gouvernement Espagnol du 27 avril 1916 indique que le camp est composé d’une série de baraques de 75 mètres de long et 12 mètres de large. Elles sont disposées sur deux rangées formées chacune de 24 baraques. Dans les intervalles qui existent entre les baraques avait été installés des cabinets d’aisances et les cantines. Les cuisines sont placées devant et derrière. Le chauffage se fait au moyen de poêles à charbon et l’éclairage est électrique.</p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p><p>Le camp de Limburg était situé dans une région appellée Hesse-Nassau (en allemand Hessen-Nassau).</p><p>Le Rapport des Délégués du Gouvernement Espagnol du 27 avril 1916 indique que le camp est composé d’une série de baraques de 75 mètres de long et 12 mètres de large. Elles sont disposées sur deux rangées formées chacune de 24 baraques. Dans les intervalles qui existent entre les baraques avait été installées des cabinets d’aisances et les cantines. Les cuisines sont placées devant et derrière. Le chauffage se fait au moyen de poêles à charbon et l’éclairage est électrique.</p>
 
 <p>Il y avait au camp de Limburg une chapelle. Pour se distraire, les prisonniers avaient une bibliothèque riche de 2000 volumes. Une troupe théâtrale divertissait également les prisonniers. Un terrain était mis à disposition où, dimanche et fêtes, des équipes se livraient à des matchs de football.</p> 
 
@@ -206,7 +206,7 @@
 
 <h3>Emilien Ordonnaud</h3>
 
-<p>Le 23 mai 2017, j'ai été contacté par Muriel Dupuis Mallinger. Elle m'a raconté qu'Emilien Ordonnaud, son arriére-grand-pére, a été blessé et fait prisonnier le 28 août 1914 à Moislain dans la Somme puis emprisonné au camp du Limburg. Il travaillait dans une ferme. Elle ne sait pas si c'était en même temps ou ensuite. Il est resté en Allemagne jusqu'en 1918. Elle m'a gentillement permis de partager avec vous les photos qu'elle m'a envoyé.</p>
+<p>Le 23 mai 2017, j'ai été contacté par Muriel Dupuis Mallinger. Elle m'a raconté qu'Emilien Ordonnaud, son arriére-grand-pére, a été blessé et fait prisonnier le 28 août 1914 à Moislain dans la Somme puis emprisonné au camp du Limburg. Il travaillait dans une ferme. Elle ne sait pas si c'était en même temps ou ensuite. Il est resté en Allemagne jusqu'en 1918. Elle m'a gentiment permis de partager avec vous les photos qu'elle m'a envoyé.</p>
 
 <figure>
     <a href="images/Limburg/groupe.jpg" id="single_image" title=" ">
@@ -228,7 +228,7 @@
 
 <figure>
     <a href="images/Limburg/ordonnaud-hopital.jpg" id="single_image" title=" ">
-    <img src="miniatures/Limburg/ordonnaud-hopital.jpg" alt="L'hopital du camp de Limburg pendant la Premiére Guerre Mondiale"></a>
+    <img src="miniatures/Limburg/ordonnaud-hopital.jpg" alt="L'hôpital du camp de Limburg pendant la Premiére Guerre Mondiale"></a>
     <figcaption>(source: Muriel Dupuis Mallinger)</figcaption>
 </figure>
 
@@ -241,7 +241,7 @@
 <h4>Sources et bibliographie</h4>
 
 <ul>
-    <li><a href="http://amzn.to/2wHK3UT">Sous le ciel d'Allemagne. Sonnets d'un prisonnier de guerre. Darmstadt, Meyenburg, Limburg, Giessen (Emile Mussat, 1921)</a></li> 
+    <li><a href="http://amzn.to/2wHK3UT">Sous le ciel d'Allemagne. Sonnets d'un prisonnier de guerre. Darmstadt, Meyenburg, Limburg, Giessen (Émile Mussat, 1921)</a></li> 
     <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>
     <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre, 1924)</li>
     <li>Rapports des délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne, 1914-1917</li>  

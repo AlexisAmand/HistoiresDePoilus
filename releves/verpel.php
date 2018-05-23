@@ -106,7 +106,7 @@
 
 <figure>
     <a href="images/monument-verpel.jpg" id="single_image" title="Le Monument aux Morts de Verpel">
-    <img src="images/mini/monument-verpel.jpg" alt="le monument aux morts de Verpel sur une carte postale ancienne"/>
+    <img src="images/mini/monument-verpel.jpg" alt="le Monument aux Morts de Verpel sur une carte postale ancienne"/>
     </a>
     <figcaption>Le Monument aux Morts<br />(cliquez pour agrandir)</figcaption>
 </figure>
@@ -131,13 +131,13 @@
   <tr>
     <td>BOUCHER<br />Henri Pierre Hubert</td>
     <td>Le 25 mai 1891<br />à Verpel</td>
-    <td>Le 17 aout 1917<br />à l&#39;Hôtel-Dieu de Lyon (Rhône)</td>
+    <td>Le 17 août 1917<br />à l&#39;Hôtel-Dieu de Lyon (Rhône)</td>
     <td>235e R.I</td>
     <td>Blessures de Guerre</td>
     </tr>
   <tr>
     <td>BOUDET<br />Marc François</td>
-    <td>Le 19 aout 1893<br />à Verpel</td>
+    <td>Le 19 août 1893<br />à Verpel</td>
     <td>Le 16 avril 1917<br />au Bois de la Bovette (Aisne)</td>
     <td>132e R.I</td>
     <td>Tué à l'ennemi</td>

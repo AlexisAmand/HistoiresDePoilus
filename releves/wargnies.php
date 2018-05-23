@@ -126,7 +126,7 @@
 
 <figure>
     <a href="images/monument-wargnies.jpg" id="single_image" title="Le Monument aux Morts de Wargnies-le-Grand">
-    <img src="images/mini/monument-wargnies.jpg" alt="le monument aux morts de Wargnies-le-Grand sur une carte postale ancienne"/>
+    <img src="images/mini/monument-wargnies.jpg" alt="le Monument aux Morts de Wargnies-le-Grand sur une carte postale ancienne"/>
     </a>
     <figcaption>Le Monument aux Morts et la Montée Paulus.<br />(cliquez pour agrandir)</figcaption>
 </figure>
@@ -218,7 +218,7 @@
   <tr>
     <td>DEHON<br />Eugène</td>
     <td>Le 12 juin 1882<br />à Wargnies-le-Grand</td>
-    <td>Le 16 ocotbre 1915<br />à ???? (Meuse)</td>
+    <td>Le 16 octobre 1915<br />à ???? (Meuse)</td>
     <td>Soldat</td>
     <td>89e R.I</td>
     <td>Tué à l&#39;ennemi</td>
@@ -248,7 +248,7 @@
     <td>Tué à l&#39;ennemi</td>
   </tr>
   <tr>
-    <td>GUMEZ<br />Emile Edouard</td>
+    <td>GUMEZ<br />Émile Edouard</td>
     <td>Le 4 décembre 1882<br />à Wargnies-le-Grand</td>
     <td>Le 9 mars 1915<br />à Beausejour (Marne)</td>
     <td>Soldat</td>
@@ -282,7 +282,7 @@
   <tr>
     <td>LITARD<br />Ferdinand</td>
     <td>Le 11 septembre 1886<br />à Wargnies-le-Grand</td>
-    <td>Le 18 aout 1918<br />à Tilloloy-Beuvraignes (Somme)</td>
+    <td>Le 18 août 1918<br />à Tilloloy-Beuvraignes (Somme)</td>
     <td>Soldat</td>
     <td>401e R.I</td>
     <td>Tué à l&#39;ennemi</td>

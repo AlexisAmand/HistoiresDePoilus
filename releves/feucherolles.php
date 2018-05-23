@@ -132,7 +132,7 @@
   </tr>
   <tr>
     <td>
-        CHAMBRIN<br />Henri Emile<br />
+        CHAMBRIN<br />Henri Émile<br />
       </td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -246,7 +246,7 @@
   </tr>
   <tr>
     <td>LEROY<br />
-        Emile Charles</td>
+        Émile Charles</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -254,7 +254,7 @@
   </tr>
   <tr>
     <td>LIEGE<br />
-        Auguste Emile</td>
+        Auguste Émile</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -270,7 +270,7 @@
   </tr>
   <tr>
     <td>MENAGER<br />
-        Emile Henri</td>
+        Émile Henri</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>

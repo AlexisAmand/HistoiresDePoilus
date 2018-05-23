@@ -64,7 +64,7 @@
         <li><a href="CARIN-Theophile.php" class="AsideSelected">CARIN Théophile</a></li>      
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Emile Edmond (+)</a></li>
+        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
@@ -75,10 +75,9 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="rousseaux-eugene.php">ROUSSEAUX Eugène</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">A venir</a></li>
+        <li><a href="autres.php">Autres poilus</a></li>
    </ul>
   
       <div id="pubaside">
@@ -115,7 +114,7 @@
     <figcaption>Extrait de sa fiche matricule<br />(Cliquez pour agrandir)</figcaption>
 </figure>
   
-<p>Selon le recensement de 1906, Théophile a plusieurs frères et soeurs, tous nés et déclarés à Lourches: Elise (née en 1873), François Louis (né en 1875), Jean-Baptiste (né en 1880), <a href="CARIN-Edouard.php">Edouard</a> (né le 5 aout 1884), Célina (née en 1886),  Appoline (née en 1890), Clara (née en 1892), <a href="CARIN-Leon.php">Léon</a> (né en 1896).</p>
+<p>Selon le recensement de 1906, Théophile a plusieurs frères et soeurs, tous nés et déclarés à Lourches: Elise (née en 1873), François Louis (né en 1875), Jean-Baptiste (né en 1880), <a href="CARIN-Edouard.php">Edouard</a> (né le 5 août 1884), Célina (née en 1886),  Appoline (née en 1890), Clara (née en 1892), <a href="CARIN-Leon.php">Léon</a> (né en 1896).</p>
 
 <figure>
     <a href="images/mairie-de-lourches.jpg" id="single_image" title="La mairie de Lourches">
@@ -124,7 +123,7 @@
     <figcaption>La mairie de Lourches<br />(Cliquez pour agrandir)</figcaption>
 </figure>
 
-<p>Du 20 août 1906 au 16 septembre 1906,  <strong>Théophile</strong> accompli une première période d'exercice au sein du <strong>127e Régiment d’Infanterie</strong> qui est en garnison à Valenciennes depuis 1873. Du 1er juin 1909 au  17 juin 1909, il accompli une 2e période d'exercice (toujours au sein du <strong>127e Régiment d’Infanterie</strong>). Les périodes d'exercice étaient organisées afin que ces réservistes restent opérationnels, même 10 ans après la fin de leur service militaire, trois périodes d'exercices sont organisées par les différentes lois de recrutement et circulaires ministérielles.</p>
+<p>Du 20 août 1906 au 16 septembre 1906,  <strong>Théophile</strong> accomplit une première période d'exercice au sein du <strong>127e Régiment d’Infanterie</strong> qui est en garnison à Valenciennes depuis 1873. Du 1er juin 1909 au  17 juin 1909, il accomplit une 2e période d'exercice (toujours au sein du <strong>127e Régiment d’Infanterie</strong>). Les périodes d'exercice étaient organisées afin que ces réservistes restent opérationnels, même 10 ans après la fin de leur service militaire, trois périodes d'exercices sont organisées par les différentes lois de recrutement et circulaires ministérielles.</p>
 
 <figure>
     <a href="sources/CARIN-matricule-01.jpg" id="single_image" title="Théophile CARIN - Extrait de sa fiche matricule">

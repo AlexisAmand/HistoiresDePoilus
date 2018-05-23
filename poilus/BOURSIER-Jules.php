@@ -65,7 +65,7 @@
      <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
      <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
      <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-     <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Emile Edmond (+)</a></li>
+     <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
      <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
      <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
      <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
@@ -76,10 +76,9 @@
      <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
      <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
      <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-     <li><a href="rousseaux-eugene.php">ROUSSEAUX Eugène</a></li>
      <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
      <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-     <li><a href="autres.php">A venir</a></li>
+     <li><a href="autres.php">Autres poilus</a></li>
    </ul>
   
    <div id="pubaside">
@@ -120,7 +119,7 @@
 
 <br/><h4> La mobilisation d'août 1914</h4>
 
-<p><strong>Jules</strong> est âgé de 35 ans lors de mobilisation. Il est rappelé à l'activité et arrive au <strong>1er Régiment d'Artillerie à Pied</strong> le 2 aout 1914. La portion centrale de ce régiment était à Dunkerque avec les 4e, 6e et 7e batteries, la 3e était à Boulogne, la 5e à Calais et enfin les 1ere et 2e étaient à Maubeuge. </p>
+<p><strong>Jules</strong> est âgé de 35 ans lors de mobilisation. Il est rappelé à l'activité et arrive au <strong>1er Régiment d'Artillerie à Pied</strong> le 2 août 1914. La portion centrale de ce régiment était à Dunkerque avec les 4e, 6e et 7e batteries, la 3e était à Boulogne, la 5e à Calais et enfin les 1ere et 2e étaient à Maubeuge. </p>
     <p>Pas moins de 3 780 000 hommes sont mobilisés en août 1914. Au total, durant toute la guerre, environ 8 410 000 soldats et marins français seront mobilisés, dont 7 % de soldats indigènes venant des colonies de l'Empire. Parmi tous ces soldats, 1 397 800 sont <a href="../releves.php">morts pour la France</a> et 4 266 000 ont été bléssés au combat.</p>
 
     <figure>
@@ -155,11 +154,11 @@
 
 <h4>Onnaing en guerre !</h4>
 
-<p>Pendant ce temps, à Onnaing, où est né Jules Henri BOURSIER, les allemands enlèvent les cloches de l'église (1915). Elles sont conduites à Saint-Saulve pour y être fondues et faire des canons. Trois ans plus tard, en 1918, les allemands se retirent et font sauter la Route Nationale pour couper la route aux troupes de l'armée canadienne. Le monuments aux morts de la Première Guerre Mondiale est érigé en 1922, en hommage aux <a href="../releves/onnaing.php">150 victimes militaires de la commune.</a></p>
+<p>Pendant ce temps, à Onnaing, où est né Jules Henri BOURSIER, les Allemands enlèvent les cloches de l'église (1915). Elles sont conduites à Saint-Saulve pour y être fondues et faire des canons. Trois ans plus tard, en 1918, les Allemands se retirent et font sauter la Route Nationale pour couper la route aux troupes de l'armée canadienne. Le monuments aux morts de la Première Guerre Mondiale est érigé en 1922, en hommage aux <a href="../releves/onnaing.php">150 victimes militaires de la commune.</a></p>
     
     <figure>
     <a href="../releves/images/onnaing-monument-aux-morts.jpg" id="single_image" title="Le Monument aux Morts d'Onnaing">
-    <img src="../releves/images/mini/onnaing-monument-aux-morts.jpg" alt="le monument aux morts d'Onnaing sur une carte postale ancienne"/>
+    <img src="../releves/images/mini/onnaing-monument-aux-morts.jpg" alt="le Monument aux Morts d'Onnaing sur une carte postale ancienne"/>
     </a>
     <figcaption>Le Monument aux Morts de la guerre 1914-1918<br />(cliquez pour agrandir)</figcaption>
 </figure>

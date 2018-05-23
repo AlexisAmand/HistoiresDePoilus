@@ -124,7 +124,7 @@
 
 <figure>
     <a href="images/lourches-monument-aux-morts.jpg" id="single_image" title="Le Monument aux Morts de Lourches">
-    <img src="images/mini/lourches-monument-aux-morts.jpg" alt="le monument aux morts pour la France de Lourches sur une carte postale ancienne"/>
+    <img src="images/mini/lourches-monument-aux-morts.jpg" alt="le Monument aux Morts pour la France de Lourches sur une carte postale ancienne"/>
     </a>
     <figcaption>Le Monument aux Morts, Place Carnot.<br />(cliquez pour agrandir)</figcaption>
 </figure>
@@ -493,7 +493,7 @@
         Eugène</td>
     <td>&nbsp;8 mars 1885 à<br />
         Lourches (Nord)</td>
-    <td class="auto-style2">10 aout 1915 à<br />
+    <td class="auto-style2">10 août 1915 à<br />
         La Motte Beuvron
         <br />
         (Loir-et-Cher)</td>
@@ -516,7 +516,7 @@
   <tr>
     <td>BROUILLARD<br />
         Fernand Charles</td>
-    <td>12 aout 1888 à<br />
+    <td>12 août 1888 à<br />
         Roeulx (Nord)</td>
     <td class="auto-style2">1er mars 1915 à<br />
         Mesnil-les-Hurlus (Marne)</td>
@@ -571,7 +571,7 @@
   <tr>
     <td><b>CAMPIN <br />
       Joséphine</b></td>
-    <td><b>6 aout 1894 à 
+    <td><b>6 août 1894 à 
         <br />
         Lourches (Nord)</b></td>
     <td class="auto-style4">12 octobre 1918 à Lourches (Nord)</td>
@@ -582,7 +582,7 @@
   <tr>
     <td><a href="../poilus/CARIN-Edouard.php">CARIN<br />
         Edouard</a></td>
-    <td>4 aout 1884 à<br />
+    <td>4 août 1884 à<br />
         Lourches (Nord)</td>
     <td class="auto-style2">19 mars 1916 à
         <br />
@@ -596,7 +596,7 @@
         Jean-Baptiste</td>
     <td>2 juillet 1894 à<br />
         Lourches (Nord)</td>
-    <td class="auto-style2">6 aout 1916 à<br />
+    <td class="auto-style2">6 août 1916 à<br />
         Assevillers (Somme)</td>
     <td>canonnier</td>
     <td>119e R.A.L</td>
@@ -668,7 +668,7 @@
     </tr>
   <tr>
     <td>COQUELET<br />
-        Emile</td>
+        Émile</td>
     <td>30 octobre 1895 à<br />
         Lourches (Nord)</td>
     <td class="auto-style2">13 septembre 1915 à<br />

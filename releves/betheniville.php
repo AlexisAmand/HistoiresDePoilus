@@ -107,12 +107,12 @@
 
 <figure>
     <a href="images/betheniville-monument-aux-morts.jpg" id="single_image" title="Le Monument aux Morts de Bétheniville">
-    <img src="images/mini/betheniville-monument-aux-morts.jpg" alt="le monument aux morts de Bétheniville sur une carte postale ancienne"/>
+    <img src="images/mini/betheniville-monument-aux-morts.jpg" alt="le Monument aux Morts de Bétheniville sur une carte postale ancienne"/>
     </a>
     <figcaption>Le Monument du Souvenir (guerre 1914-1918)<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<p><em>A cette liste, certains sites internet ajoutent les noms suivants: </em><em>Adrien Agard,     Eugène Boeglin,  Emile Cercelet, Auguste Cloé,   ,Raphaël Dartois,    Honoré Hémart,  Georges Edgard Leclère,     Charles, Gaston Rêve. Cependant, ils ne figurent pas dans le Livre d'Or des morts pour la France.</em></p>
+<p><em>A cette liste, certains sites internet ajoutent les noms suivants: </em><em>Adrien Agard,     Eugène Boeglin,  Émile Cercelet, Auguste Cloé,   ,Raphaël Dartois,    Honoré Hémart,  Georges Edgard Leclère,     Charles, Gaston Rêve. Cependant, ils ne figurent pas dans le Livre d'Or des morts pour la France.</em></p>
     <p><br />
 </p>
 
@@ -180,7 +180,7 @@
       Marcel</td>
     <td>le 21 mars 1894<br />
       à Cornay (08)</td>
-    <td>le 4 aout 1918<br />
+    <td>le 4 août 1918<br />
       à Villers-Cotterêts (02)</td>
     <td>1914</td>
     <td>25e B.C.P</td>
@@ -232,7 +232,7 @@
   </tr>
   <tr>
     <td>BOURQUEL<br />
-      Emile Eugène</td>
+      Émile Eugène</td>
     <td>le 30 septembre 1887<br />
       à Saint-Souplet (51)</td>
     <td>le 17 mai 1916<br />
@@ -290,7 +290,7 @@
       Gustave Albert</td>
     <td>le 4 décembre 1878<br />
       à Béthenville (51)</td>
-    <td>le 27 aout 1917<br />
+    <td>le 27 août 1917<br />
       à Bois des Caurières (55)</td>
     <td>1898</td>
     <td>332e R.I.T</td>
@@ -367,7 +367,7 @@
       Etienne Paul</td>
     <td>le 18 juin 1882<br />
       à Bétheniville (51)</td>
-    <td>le 2 aout 1915<br />
+    <td>le 2 août 1915<br />
       à Marie-Thérèse (Argonne)</td>
     <td>1902</td>
     <td>155e R.I</td>
@@ -422,7 +422,7 @@
       Benoni Arsène</td>
     <td>le 17 mars 1883<br />
       à Dontrien (51)     <br /></td>
-    <td>le 10 aout 1916<br />
+    <td>le 10 août 1916<br />
       à Verdun (55)</td>
     <td>1903</td>
     <td>71e R.I</td>
@@ -465,7 +465,7 @@
       Léon Maurice</td>
     <td>le 3 juillet 1894<br />
       à Doutrien (51)</td>
-    <td>le 21 aout 1917<br />
+    <td>le 21 août 1917<br />
       au Mort-Homme (55)</td>
     <td>1914</td>
     <td>96e R.I</td>
@@ -531,7 +531,7 @@
       Marc Alfred</td>
     <td>le 21 février 1895<br />
       à Montcheutin (51)</td>
-    <td>le 23 aout 1916<br />
+    <td>le 23 août 1916<br />
       à la ferme Valpriez (02)</td>
     <td>1913/<br />
       1915</td>
@@ -607,7 +607,7 @@
   <tr>
     <td>SANTAMBIEN<br />
       Georges Gustave Victor</td>
-    <td>le 26 aout 1895<br />
+    <td>le 26 août 1895<br />
       à Bétheniville (51)</td>
     <td>le 9 mai 1915<br />
       à Roclincourt (62)</td>
@@ -620,7 +620,7 @@
       Henri Léon</td>
     <td>le 20 mars 1888<br />
       à Saint-Etienne à Arnes (08)</td>
-    <td>le 13 ocotbre 1918<br />
+    <td>le 13 octobre 1918<br />
       à La Veuve (51)</td>
     <td>1908</td>
     <td>2e G.A</td>
@@ -629,7 +629,7 @@
   <tr>
     <td>TANDART<br />
       Auguste Fernand</td>
-    <td>le 9 aout 1881<br />
+    <td>le 9 août 1881<br />
       à Bétheniville (51)</td>
     <td>le 28 juin 1915<br />
       à Paris</td>
@@ -639,7 +639,7 @@
   </tr>
   <tr>
     <td>TILE<br />
-      Albert Emile</td>
+      Albert Émile</td>
     <td>le 28 septembre 1880<br />
       à Fourmies (59)</td>
     <td>le 30 mai 1915<br />

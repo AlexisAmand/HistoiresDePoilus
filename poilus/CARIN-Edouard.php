@@ -63,7 +63,7 @@
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Emile Edmond (+)</a></li>
+        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
@@ -74,10 +74,9 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="rousseaux-eugene.php">ROUSSEAUX Eugène</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">A venir</a></li>
+        <li><a href="autres.php">Autres poilus</a></li>
    </ul>
    
       <div id="pubaside">
@@ -98,7 +97,7 @@
 
 <h1>CARIN Edouard</h1>
 
-<p><strong>Edouard CARIN</strong> est né le 5 aout 1884 à Lourches (Nord),  fils légitime de  François Louis CARIN et de Pauline DUSSART.<strong> Edouard</strong> est le frère de <a href="CARIN-Theophile.php">Théophile</a>, l'époux de mon arrière-arrière-grand-mère Zélia BRASSEUR. En 1906, il vit chez ses parents à Lourches (Rue Beauvois) en compagnie de ses parents et ses frères et soeurs: Alfred, Appoline, Clara, Joseph, <a href="CARIN-Leon.php">Léon</a>, Celeste et François.</p> 
+<p><strong>Edouard CARIN</strong> est né le 5 août 1884 à Lourches (Nord),  fils légitime de  François Louis CARIN et de Pauline DUSSART.<strong> Edouard</strong> est le frère de <a href="CARIN-Theophile.php">Théophile</a>, l'époux de mon arrière-arrière-grand-mère Zélia BRASSEUR. En 1906, il vit chez ses parents à Lourches (Rue Beauvois) en compagnie de ses parents et ses frères et soeurs: Alfred, Appoline, Clara, Joseph, <a href="CARIN-Leon.php">Léon</a>, Celeste et François.</p> 
 
 <figure>
     <a href="images/arbre-carin.png" id="single_image" title="La famille CARIN">
@@ -114,7 +113,7 @@
     <figcaption>Acte de naissance d'Edouard.<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
 </figure>
      
-<p>Je posséde très peu de renseignements sur lui car sa fiche matricule n'est pas disponible aux Archives Départementales. Ma seule piste pour l'instant ? Une fiche du site &quot;Mémoire des Hommes&quot; qui indique qu'il faisait partie du 162e Régiment d'Infanterie et qu'il est mort des suites de ses blessures le 19 mars 1916 à Bras dans la Meuse alors que le 162e RI est en train de défendre la rive droite, entre Bras et Louvemont, depuis le 10.</p>
+<p>Je possède très peu de renseignements sur lui, car sa fiche matricule n'est pas disponible aux Archives Départementales. Ma seule piste pour l'instant ? Une fiche du site &quot;Mémoire des Hommes&quot; qui indique qu'il faisait partie du 162e Régiment d'Infanterie et qu'il est mort des suites de ses blessures le 19 mars 1916 à Bras dans la Meuse alors que le 162e RI est en train de défendre la rive droite, entre Bras et Louvemont, depuis le 10.</p>
 
 <figure>
     <a href="images/bras-sur-meuse.jpg" id="single_image" title="Les ruines du village de Bras-sur-Meuse">
@@ -130,7 +129,7 @@
     <figcaption>Edouard dans le livre d'or des morts pour la France<br/>(cliquez pour agrandir - source: Archives Nationales)</figcaption>
 </figure>
 
-<p>Son nom figure sur le monument aux morts de Roeulx (Nord) où il vivait avant la Première Guerre Mondiale. Pour info, Edouard et Théophile ont 2 autres frères, <a href="CARIN-Leon.php">Léon</a> et Alfred, qui ont également combattu pour la France pendant la Grande Guerre.</p>
+<p>Son nom figure sur le Monument aux Morts de Roeulx (Nord) où il vivait avant la Première Guerre Mondiale. Pour info, Edouard et Théophile ont 2 autres frères, <a href="CARIN-Leon.php">Léon</a> et Alfred, qui ont également combattu pour la France pendant la Grande Guerre.</p>
 
 <figure>
     <a href="sources/CARIN-edouard-mpf.JPG"  id="single_image" title="">

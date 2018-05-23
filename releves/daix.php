@@ -165,7 +165,7 @@
   <tr>
     <td>DUBATON<br />
         Henri</td>
-    <td>Le 28 aout 1876<br />
+    <td>Le 28 août 1876<br />
         à Lucenay-le-Duc
         <br />
         (Côte-d&#39;Or)</td>
@@ -191,7 +191,7 @@
   <tr>
     <td>
         GAUTHEY<br />
-        Emile Jean-Baptiste</td>
+        Émile Jean-Baptiste</td>
     <td>Le 30 juin 1877<br />
         à Daix</td>
     <td>Le 4 décembre 1914<br />
@@ -204,10 +204,10 @@
     <td>
         JOURNOT<br />
         Adrien Paul</td>
-    <td>Le 2 aout 1898<br />
+    <td>Le 2 août 1898<br />
         à Poncey-sur-l&#39;Ignon<br />
         (Côte-d&#39;Or)</td>
-    <td>Le 25 aout 1914<br />
+    <td>Le 25 août 1914<br />
         à Saint-Barbe (Vosges)</td>
     <td>10e B.C</td>
     <td>disparu</td>
@@ -226,7 +226,7 @@
   <tr>
     <td>PARVILLE<br />
         Jules</td>
-    <td>Le 9 aout 1890<br />
+    <td>Le 9 août 1890<br />
         à Daix</td>
     <td>Le 5 septembre 1916<br />
         à Soyecourt (somme)</td>

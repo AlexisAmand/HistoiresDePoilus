@@ -100,9 +100,7 @@
 
 <h1>Le camp de prisonniers de Friedberg</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
-
-<p>Le « Rapports des Délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne » indique que vers la fin de l’année 1917, tous les prisonniers ont été transférés au camp d’Eutin.</p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><br /><p>Le « Rapports des Délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne » indique que vers la fin de l’année 1917, tous les prisonniers ont été transférés au camp d’Eutin.</p>
 
 <figure>
     <a href="images/Friedberg/friedberg-01.jpg" id="single_image" title="Le camp de Friedberg">
@@ -123,8 +121,7 @@
 <ul>
     <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>
     <li><a rel="nofollow" href="http://www.amazon.fr/gp/product/2708905228/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2708905228&linkCode=as2&tag=lagenealogent-21">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2708905228" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
-    <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre, 1924)</li>
-  
+    <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre, 1924)</li> 
 </ul>    
 
 <p class="sources">

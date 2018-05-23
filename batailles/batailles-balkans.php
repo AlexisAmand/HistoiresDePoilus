@@ -2,10 +2,9 @@
     <html lang="fr">
         <head>
             <meta charset="utf-8">
-            <title>Les batailles du front des Balkans - Histoires de Poilus</title>
-
+       
+            <title>Les batailles du front des Balkans pendant la Grande Guerre - Histoires de Poilus</title>
             <meta content="Liste des batailles qui se sont déroulées sur le front des Balkans pendant la Première Guerre Mondiale (1914 à 1918)." name="description">
-
 
             <link rel="stylesheet" href="../css/style.css">    
             <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -23,8 +22,6 @@
               'Ok', 'En savoir plus', 'cookies.php');
           });
         </script>
-
-
 
         <header>
 	
@@ -53,42 +50,40 @@
 	        <a href="../index.php" class="NavSelected">Accueil</a>       
         </nav>
 
-
-
-<div id="navbis">
-<a href="batailles-est.php">Europe de l'Est</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="../lieux.php">Europe de l'Ouest</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="batailles-italie.php">Le Front Italien</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="batailles-afrique.php">Le Front Africain</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="batailles-orient.php">Front du Moyen-Orient</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="batailles-balkans.php">Front des Balkans</a>
-</div>
+		<div id="navbis">
+			<a href="batailles-est.php">L'Europe de l'Est</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="batailles-ouest.php">L'Europe de l'Ouest</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="batailles-italie.php">Le Front Italien</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="batailles-afrique.php">Le Front Africain</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="batailles-orient.php">Le Front du Moyen-Orient</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="batailles-balkans.php">Le Front des Balkans</a>
+		</div>
 
 
         <section>
 
 	        <article>
      
-<h1>Les Batailles du Front des Balkans</h1>
+			<h1>Les Batailles du Front des Balkans</h1>
 
-<p>Cette page sera mise à jour au fur et à mesure des découvertes.</p>
-<p>&nbsp;</p>
+			<p>Cette page sera mise à jour au fur et à mesure des découvertes.</p>
+			<p>&nbsp;</p>
 
-<p class="sources">
-<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
-</p>
+			<p class="sources">
+			<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
+			</p>
 
-</article>
+			</article>
 
-</section>
+		</section>
 
-<footer>
-	<a href="../mentions.php">Mentions Légales</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
-</footer>
+		<footer>
+			<a href="../mentions.php">Mentions Légales</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		    <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		    <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		    <a href="../cookies.php">Cookies</a>
+		    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+		</footer>
 
 <!-- Piwik -->
 <script type="text/javascript">

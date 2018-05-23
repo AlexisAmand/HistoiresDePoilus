@@ -180,7 +180,7 @@
   <tr>
     <td>BROIE<br />Louis Hubert</td>
     <td>Le 7 février 1877<br />à Villers-Guislain (59)</td>
-    <td>Le 9 juillet 1916<br />l'Hopital de<br />Sainte-Mandé (Seine)<br /></td>
+    <td>Le 9 juillet 1916<br />l'Hôpital de<br />Sainte-Mandé (Seine)<br /></td>
     <td>1897</td>
     <td>3e R.I.T</td>
     <td>des suites de maladie</td>
@@ -324,13 +324,13 @@
   <tr>
     <td>DUBOIS<br />Aristide Augustin Eugène</td>
     <td>Le 13 juin 1884<br />à Villers-Guislain (59)</td>
-    <td>Le 4 avril 1918<br />à l'Hopital mixte d'Amiens (80)</td>
+    <td>Le 4 avril 1918<br />à l'Hôpital mixte d'Amiens (80)</td>
     <td>1904</td>
     <td>5e. S.C.F.C</td>
     <td>blessures de guerre</td>
   </tr>
   <tr>
-    <td><a href="../poilus/DUBOIS-Emile-Edmond.php">DUBOIS<br />Emile Edmond</a></td>
+    <td><a href="../poilus/DUBOIS-Emile-Edmond.php">DUBOIS<br />Émile Edmond</a></td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -340,7 +340,7 @@
   <tr>
     <td>DUBOIS<br />Fernand Hilaire Guislain</td>
     <td>Le 14 janvier 1888 <br />à Villers-Guislain (59)</td>
-    <td>Le 25 aout 1914<br />Ambulance n°10 à Follepeuxé (Belgique)</td>
+    <td>Le 25 août 1914<br />Ambulance n°10 à Follepeuxé (Belgique)</td>
     <td>1908</td>
     <td>43e R.I</td>
     <td>blessures de guerre</td>

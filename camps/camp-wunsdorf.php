@@ -101,7 +101,7 @@
 
 <h1>Le camp de prisonniers de Zossen-Wünsdorf</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
 
 <p>Le camp de Zossen-Wünsdorf était situé dans le Brandenburg (à 30 km au sud de Berlin). Il était également connu sous le nom de « Camp du Croissant » ou « Wuensdorf-Zossen ».</p>
 
@@ -110,7 +110,7 @@
     <figcaption>Localisation du camp de Zossen<br/>(source: BNF - Gallica)</figcaption>
 </figure>  
 
-<p>En octobre 1914, il y a 15000 français, quelques russes et un petit nombre d’anglais. Les prisonniers sont alors logés dans des baraques en bois ou dans des  tentes, en attendant que la construction des baraques soit terminée. Ces baraques peuvent loger une compagnie et disposent d’une chambre à part pour les officiers. A l’automne 1914, la condition de vie des soldats est désastreuse : Outre la température très basse à l’intérieur des tentes, les hommes couchent sur de la paille étendue sur de la terre, avec une seule couverture pour se protéger du froid. En se qui concerne la nourriture, les délégués du Gouvernement Espagnol précisent que les prisonniers ont une ration de pain de 500 grammes (la même que les soldats allemands), ou 750 grammes pour les soldats qui travaillent. Ils indiquent aussi que l’ordinaire d’un prisonnier se compose de café (matin), le légume et de viande (le midi) et d’un potage (le soir).</p>
+<p>En octobre 1914, il y a 15000 français, quelques russes et un petit nombre d’anglais. Les prisonniers sont alors logés dans des baraques en bois ou dans des  tentes, en attendant que la construction des baraques soit terminée. Ces baraques peuvent loger une compagnie et disposent d’une chambre à part pour les officiers. A l’automne 1914, la condition de vie des soldats est désastreuse : Outre la température très basse à l’intérieur des tentes, les hommes couchent sur de la paille étendue sur de la terre, avec une seule couverture pour se protéger du froid. En ce qui concerne la nourriture, les délégués du Gouvernement Espagnol précisent que les prisonniers ont une ration de pain de 500 grammes (la même que les soldats allemands), ou 750 grammes pour les soldats qui travaillent. Ils indiquent aussi que l’ordinaire d’un prisonnier se compose de café (matin), le légume et de viande (le midi) et d’un potage (le soir).</p>
 
 <figure>
     <a href="images/Wunsdorf/wunsdorf-03.jpg" id="single_image" title="Le camp de Wunsdorf pendant la Grande Guerre">

@@ -100,7 +100,7 @@
 
 <h1>Le camp de prisonniers de Hammerstein</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p>Le camp principal de prisonniers de Hammerstein était situé en Prusse occidentale sur les rives de la Küdow, entre la mer Baltique et Posen.</p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p>Le camp principal de prisonniers de Hammerstein était situé en Prusse occidentale sur les rives de la Küdow, entre la mer Baltique et Posen.</p>
 
 <figure>
     <a href="images/Hammerstein/hammerstein-01.jpg" id="single_image" title="Le camp de Hammerstein">
@@ -120,17 +120,17 @@
     <a href="images/Hammerstein/hammerstein-03.jpg" id="single_image" title="Le camp de Hammerstein">
     <img src="miniatures/Hammerstein/hammerstein-03.jpg" alt="le camp de prisonniers d'Hammerstein dans un ouvrage allemand paru pendant la Première Guerre Mondiale">
     </a>
-    <figcaption>Le repas pascal des prisonniers israëlites<br />(source allemande)</figcaption>
+    <figcaption>Le repas pascal des prisonniers israélites<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Hammerstein/hammerstein-04.jpg" id="single_image" title="Le camp de Hammerstein">
     <img src="miniatures/Hammerstein/hammerstein-04.jpg" alt="le camp de prisonniers d'Hammerstein dans un ouvrage allemand paru pendant la Première Guerre Mondiale">
     </a>
-    <figcaption>Service divin israëlite<br />(source allemande)</figcaption>
+    <figcaption>Service divin israélite<br />(source allemande)</figcaption>
 </figure>
 
-<p>J'ai longtemps hésité avant de vous présenter la photographie ci-dessous, comme je l'ai dit plus haut, il faut bien garder en tête qu'elle est paru en 1915 dans un ouvrage allemand. C'est également pour cette raison que je n'ai pas mis en ligne les diverses photos qui représentaient les <em>"éthnies" (sic)</em> rencontrées dans les camps.</p>  
+<p>J'ai longtemps hésité avant de vous présenter la photographie ci-dessous, comme je l'ai dit plus haut, il faut bien garder en tête qu'elle est paru en 1915 dans un ouvrage allemand. C'est également pour cette raison que je n'ai pas mis en ligne les diverses photos qui représentaient les <em>"ethnies" (sic)</em> rencontrées dans les camps.</p>  
 
 <figure>
     <a href="images/Hammerstein/hammerstein-05.jpg" id="single_image" title="Le camp de Hammerstein">

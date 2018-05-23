@@ -55,7 +55,7 @@
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>      
         <li><a href="CARLIER-Druon-Joseph.php" class="AsideSelected">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Emile Edmond (+)</a></li>
+        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
@@ -66,10 +66,9 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="rousseaux-eugene.php">ROUSSEAUX Eugène</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">A venir</a></li>
+        <li><a href="autres.php">Autres poilus</a></li>
    </ul>
    
       <div id="pubaside">
@@ -117,7 +116,7 @@
 
 <figure>
     <a href="images/mobilisation.jpg" id="single_image" title="Affiche de la mobilisation générale">
-    <img src="miniatures/mobilisation.jpg" alt="affiche de la mobilisation générale 1er aout 1914"/>
+    <img src="miniatures/mobilisation.jpg" alt="affiche de la mobilisation générale 1er août 1914"/>
     </a>
     <figcaption>Ordre de mobilisation</figcaption>
 </figure>
@@ -126,7 +125,7 @@
 
 <br/><h4>La chute de l'ouvrage permanent de Ferrière-la-Petite</h4>
 
-<p>La 12e compagnie, dont fait partie <strong>Druon</strong>, est la garnison d'infanterie de l'ouvrage permanent de Ferrière-la-Petite sous les ordres du chef de Bataillon du génie CRÉPY. Pendant la nuit du 31 aout 1914, Les avant-postes du centre de Ferrière-la-Petite sont fortement inquiétés, alerte générale, le bombardemenent continu, l'artillerie du Bourdiau riposte. Prévu pour une seule compagnie, l’ouvrage de Ferrière-la-petite était composé d’abris bétonnés que les Allemands ont détruit à la fin du mois de septembre 1914.</p>
+<p>La 12e compagnie, dont fait partie <strong>Druon</strong>, est la garnison d'infanterie de l'ouvrage permanent de Ferrière-la-Petite sous les ordres du chef de Bataillon du génie CRÉPY. Pendant la nuit du 31 août 1914, Les avant-postes du centre de Ferrière-la-Petite sont fortement inquiétés, alerte générale, le bombardement continu, l'artillerie du Bourdiau riposte. Prévu pour une seule compagnie, l’ouvrage de Ferrière-la-petite était composé d’abris bétonnés que les Allemands ont détruit à la fin du mois de septembre 1914.</p>
 
 <figure>
     <a href="images/Ferrière-la-Petite-01.jpg" id="single_image" title="L'ouvrage de Ferrière-la-Petite">

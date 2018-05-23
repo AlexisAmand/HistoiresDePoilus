@@ -100,14 +100,14 @@
 
 <h1>Le camp de prisonniers de Gardelegen</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
 
 <figure>
     <img src="miniatures/Gardelegen/carte-camp-gardelegen.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Gardelegen">
     <figcaption>Localisation du camp de Gardelegen<br/>(source: BNF - Gallica)</figcaption>
 </figure> 
 
-<p>Les prisonniers avaient installé à Gardelegen un petit théâtre où les français, les anglais et les belges donnaient de représentations. Il était également possible d’y donner des représentations cinématographiques.</p>
+<p>Les prisonniers avaient installé à Gardelegen un petit théâtre où les Français, les Anglais et les Belges donnaient de représentations. Il était également possible d’y donner des représentations cinématographiques.</p>
 
 <figure>
     <a href="images/camps_prisonniers_gardelegen.jpg" id="single_image" title="La cantine du camp de Gardelegen">
@@ -117,10 +117,10 @@
 </figure>
 
 <figure>
-    <a href="images/camps_prisonniers_gardelegen_01.jpg" id="single_image" title="Le Lazarett de Gardelegen">
-    <img src="miniatures/camps_prisonniers_gardelegen_01.jpg" alt="le lazarett du camp de prisonniers de Gardelegen pendant la Première Guerre Mondiale">
+    <a href="images/camps_prisonniers_gardelegen_01.jpg" id="single_image" title="Le Lazaret de Gardelegen">
+    <img src="miniatures/camps_prisonniers_gardelegen_01.jpg" alt="le lazaret du camp de prisonniers de Gardelegen pendant la Première Guerre Mondiale">
     </a>
-    <figcaption>Le lazarett de Gardelegen<br />(Carte postale)</figcaption>
+    <figcaption>Le lazaret de Gardelegen<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
@@ -130,7 +130,7 @@
     <figcaption>Le monument à la mémoire des prisonniers morts en captivité<br />(Carte postale)</figcaption>
 </figure>
 
-<p>A la fin de la guerre, le camp de Gardelegen a été évacué via la hollande.</p>
+<p>A la fin de la guerre, le camp de Gardelegen a été évacué via la Hollande.</p>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

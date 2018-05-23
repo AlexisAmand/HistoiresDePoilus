@@ -195,7 +195,7 @@
   <tr>
     <td>LECERF<br />
         Auguste Célestin</td>
-    <td>Le 26 aout 1890<br />
+    <td>Le 26 août 1890<br />
         à Bry (Nord)</td>
     <td>Le 26 juillet 1916 à la ferme des Marquises (Marne)</td>
     <td>brigadier</td>

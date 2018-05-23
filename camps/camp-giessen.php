@@ -100,9 +100,7 @@
 
 <h1>Le camp de prisonniers de Giessen</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
-
-<p>Ce camp était situé à Giessen, en Hesse, dans le centre-ouest de l'Allemagne. On y dénombrait 900 hommes de troupes et 300 prisonniers civils.</p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><br /><p>Ce camp était situé à Giessen, en Hesse, dans le centre-ouest de l'Allemagne. On y dénombrait 900 hommes de troupes et 300 prisonniers civils.</p>
 
 <figure>
     <a href="images/Giessen/giessen-04.jpg" id="single_image" title="Le camp de Giessen">
@@ -111,7 +109,7 @@
     <figcaption>Vue du camp de Giessen<br />(Carte postale)</figcaption>
 </figure>
 
-    <p>Jean BESCOND était sergent au 2e Régiment d&#39;Infanterie Coloniale. Fait prisonnier dans l&#39;Argonne le 17 novembre 1914, il est envoyé au camp de Giessen. Evacué sur la Suisse le 2 mai 1916 pour tuberculose pulmonaire, il témoigne dans un rapport: <em>&quot;Ce camp était connu parmi les prisonniers français sous le nom de camp de la faim&quot;</em>. Il raconte également avoir vu un camarade nommé Gastion PARIS mourir de faim, et dit avoir eu connaissance de 48 cas de morts par la faim parmi les français. Jean précise également qu&#39;il n&#39;y avait pas de punitions à Giessen.</p>
+    <p>Jean BESCOND était sergent au 2e Régiment d&#39;Infanterie Coloniale. Fait prisonnier dans l&#39;Argonne le 17 novembre 1914, il est envoyé au camp de Giessen. Evacué sur la Suisse le 2 mai 1916 pour tuberculose pulmonaire, il témoigne dans un rapport: <em>&quot;Ce camp était connu parmi les prisonniers français sous le nom de camp de la faim&quot;</em>. Il raconte également avoir vu un camarade nommé Gaston PARIS mourir de faim, et dit avoir eu connaissance de 48 cas de morts par la faim parmi les Français. Jean précise également qu&#39;il n&#39;y avait pas de punitions à Giessen.</p>
 
 <figure>
     <a href="images/Giessen/giessen-01.jpg" id="single_image" title="Le camp de Giessen">
@@ -144,7 +142,7 @@
 <h4>Sources et bibliographie</h4>
 
 <ul>
-    <li><a href="http://amzn.to/2wHK3UT">Sous le ciel d'Allemagne. Sonnets d'un prisonnier de guerre. Darmstadt, Meyenburg, Limburg, Giessen (Emile Mussat, 1921)</a></li> 
+    <li><a href="http://amzn.to/2wHK3UT">Sous le ciel d'Allemagne. Sonnets d'un prisonnier de guerre. Darmstadt, Meyenburg, Limburg, Giessen (Émile Mussat, 1921)</a></li> 
     <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>
     <li><a href="../pdf/book02.pdf">Le traitement des prisonniers français en Allemagne</a> (J. De Christmas, 1917)</li>
     <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre, 1924)</li>

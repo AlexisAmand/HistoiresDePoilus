@@ -63,7 +63,7 @@
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Emile Edmond (+)</a></li>
+        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
@@ -74,11 +74,10 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="rousseaux-eugene.php">ROUSSEAUX Eugène</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">A venir</a></li>
+        <li><a href="autres.php">Autres poilus</a></li>
    </ul>
    
       <div id="pubaside">
@@ -99,7 +98,7 @@
 
 <h1>Grain Léon Albert</h1>
 
-<p>Frère de <a href="GRAIN-Louis.php" title="voir la page consacrée à Louis Grain">Louis</a>, <strong>Léon Albert GRAIN</strong> est né le vendredi 26 décembre 1879 à Villers-Guislain (Nord). Il est le fils légitime de Louis GRAIN, domestique âgé de 19 ans et Joséphine VELU, âgé de 17 ans. En 1906, Léon est tisseur et vit Rue du Catelet à Villers-Guislain en compagnie de son épouse Angéle BERCHON et de leur fille Lucie.</p>
+<p>Frère de <a href="GRAIN-Louis.php" title="voir la page consacrée à Louis Grain">Louis</a>, <strong>Léon Albert GRAIN</strong> est né le vendredi 26 décembre 1879 à Villers-Guislain (Nord). Il est le fils légitime de Louis GRAIN, domestique âgé de 19 ans et Joséphine VELU, âgé de 17 ans. En 1906, Léon est tisseur et vit Rue du Catelet à Villers-Guislain en compagnie de son épouse Angèle BERCHON et de leur fille Lucie.</p>
 
 <figure>
     <a href="sources/Leon-grain-matricule-02.jpg" id="single_image" title="Extrait de la fiche matricule de Léon Albert GRAIN">
@@ -121,7 +120,7 @@
 
 <br/><h4>Le siège de Maubeuge</h4>
 
-<p>Le 2 septembre 1914, le bombardement continu  sur les ouvrages du secteur attaqué : Bersillies, la Salemagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance.</p>
+<p>Le 2 septembre 1914, le bombardement continu  sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance.</p>
 
 <figure>
     <a href="images/forts-maubeuge.jpg" id="single_image" title="L'emplacement des forts de la place forte de Maubeuge en 1914">

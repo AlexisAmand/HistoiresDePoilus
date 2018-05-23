@@ -116,7 +116,7 @@
 
 <figure>
     <a href="images/monument-sebourg.jpg" id="single_image" title="Le Monument aux Morts de Sebourg">
-    <img src="images/mini/monument-sebourg.jpg" alt="le monument aux morts de Sebourg sur une carte postale ancienne"/>
+    <img src="images/mini/monument-sebourg.jpg" alt="le Monument aux Morts de Sebourg sur une carte postale ancienne"/>
     </a>
     <figcaption>Le Monument aux Morts<br />(cliquez pour agrandir)</figcaption>
 </figure>
@@ -150,7 +150,7 @@
   </tr>
   <tr>
     <td>BASSEZ<br />
-Emile Joseph</td>
+Émile Joseph</td>
     <td>1 janvier 1890<br />
         à Sebourg (Nord)</td>
     <td>26 septembre 1916<br />
@@ -197,7 +197,7 @@ Antoine</td>
       Henri</td>
     <td>14 décembre 1893<br />
         à Fresnes (Nord)</td>
-    <td>25 aout 1914<br />
+    <td>25 août 1914<br />
         à Vendegies (Nord)</td>
     <td>soldat</td>
     <td>2e B.D</td>
@@ -240,7 +240,7 @@ Arsene Charles</td>
   <tr>
     <td>CRETU<br />
 Druon </td>
-    <td>2 aout 1882<br />
+    <td>2 août 1882<br />
         à Sebourg (Nord)</td>
     <td>6 avril 1915<br />
         à Pintheville (Meuse)</td>
@@ -259,7 +259,7 @@ Druon </td>
   </tr>
   <tr>
     <td>DEGARDIN<br />
-Jean Baptiste Emile</td>
+Jean Baptiste Émile</td>
     <td>29 mars 1869<br />
         à Sebourg (Nord)</td>
     <td>21 octobre 1916<br />
@@ -270,7 +270,7 @@ Jean Baptiste Emile</td>
   <tr>
     <td>DEGAND<br />
 Joseph</td>
-    <td>25 aout 1879<br />
+    <td>25 août 1879<br />
         à Sebourg (Nord)</td>
     <td>5 janvier 1919<br />
         au <a href="../camps/camp-wurzburg.php">camp de Würzburg (Allemagne)</a></td>
@@ -292,7 +292,7 @@ Augustin </td>
 Émile Alfred Léon</td>
     <td>2 avril 1892<br />
         à Sebourg (Nord)</td>
-    <td>23 aout 1914<br />
+    <td>23 août 1914<br />
         à Dinant (Belgique)</td>
     <td>soldat</td>
     <td>148e R.I</td>
@@ -332,7 +332,7 @@ Jean Baptiste</td>
     <td><b>DELCROIX<br />
 Albert</b></td>
     <td><b></b></td>
-    <td><b>26 aout 1918</b></td>
+    <td><b>26 août 1918</b></td>
     <td colspan="2"><b>victime civile</b></td>
   </tr>
   <tr>
@@ -366,7 +366,7 @@ Ferdinand </td>
 Gustave</td>
     <td>7 octobre 1894<br />
         à Sebourg (Nord)</td>
-    <td>19 aout 1918<br />
+    <td>19 août 1918<br />
         à Chantilly (Oise)</td>
     <td>soldat</td>
     <td>167e R.I</td>
@@ -414,7 +414,7 @@ Armand </td>
   <tr>
     <td>DUEZ<br />
 Alcide </td>
-    <td>17 aout 1883<br />
+    <td>17 août 1883<br />
         à Sebourg (Nord)</td>
     <td>11 décembre 1914<br />
         à Verdun (Meuse)</td>
@@ -540,7 +540,7 @@ Edmond</td>
   <tr>
     <td>LECERF <br />
       Auguste Celestin</td>
-    <td>26 aout 1890<br />
+    <td>26 août 1890<br />
         à Bry (Nord)</td>
     <td>26 juillet 1916<br />
         à la Ferme des marquises (Marne)</td>
@@ -558,7 +558,7 @@ Edmond</td>
   <tr>
     <td>LEPINE<br />
 Odon Louis </td>
-    <td>3 aout 1886<br />
+    <td>3 août 1886<br />
         à Sebourg (Nord)</td>
     <td>15 octobre 1916<br />
         à Sailly-Saillisel (Somme)</td>
@@ -603,7 +603,7 @@ Aldebert</b></td>
   <tr>
     <td>MARISCAL <br />
       Anatol Siméon</td>
-    <td>8 aout 1880<br />
+    <td>8 août 1880<br />
         à Rombies (Nord)</td>
     <td>17 mai 1917<br />
         à Amiens (Somme)</td>
@@ -715,8 +715,8 @@ Henri</b></td>
   </tr>
   <tr>
     <td>WABRE<br />
-        Emile Armand</td>
-    <td>27 aout 1875<br />
+        Émile Armand</td>
+    <td>27 août 1875<br />
         à Sebourg (Nord)</td>
     <td>12 octobre 1919<br />
         à Sebourg (Nord)</td>

@@ -72,13 +72,13 @@
 <img src="images/image-diapo-1.jpg" alt="Affiche pour la mobilisation générale" />
 </figure>
             
-<p>J’aurais certainement pu trouver une autre façon d’introduire la chose ? Peut-être que la solution était de vous raconter comment certains hommes de ma famille sont partis la fleur au fusil pour une guerre qu’ils pensaient courte ? Je suis désolé mais je ne veux pas rentrer dans ce jeu là.</p>
+<p>J’aurais certainement pu trouver une autre façon d’introduire la chose ? Peut-être que la solution était de vous raconter comment certains hommes de ma famille sont partis la fleur au fusil pour une guerre qu’ils pensaient courte ? Je suis désolé, mais je ne veux pas rentrer dans ce jeu-là.</p>
     
 <figure>
 <img src="images/image-diapo-2.jpg" alt="Fiche de mort pour la France issue du site Mémoire des Hommes" />
 </figure>
            
-<p>Aucun spécialiste de ce conflit, n’arrivera à me faire croire que des hommes dans la fleur de l’âge ont quitté leurs maisons, leurs travails, leurs femmes,  leurs enfants, leurs amis “avec plaisir”, je dirais plutôt qu’ils s’y étaient résignés. En 1994, Jean Baptiste DUROSELLE (historien français) écrit: <i>« Qui va faire la moisson imminente ? Et comment, avec la réquisition de nombreux chevaux, pourra-t-on labourer en octobre, si toutefois, par impossible, la guerre n’est pas encore gagnée et terminée ? »</i>. Il y a bien eu des scènes festives, avec des wagons et des fusils fleuris, mais c’est surtout dû au fait que le  départ des troupes était fortement ritualisé: discours d'officiers, défilés dans la ville des casernes aux gares. Il ne faut pas oublier non plus que  la <strong>loi sur l'état de siège du 3 avril 1878</strong> attribue aux autorités militaires un large pouvoir, en particulier celui de sanctionner toute parole opposée à la guerre. On peut donc facilement comprendre que les mobilisés et les civils n’avaient pas vraiment le choix, mieux valait dire que l’on était “pour la guerre”. Si vous n’êtes pas convaincu, je vous invite à lire le mémoire d’Yves POURCHER <a href="http://terrain.revues.org/1027#txt">intitulé Les clichés de la Grande Guerre</a>.</p>
+<p>Aucun spécialiste de ce conflit, n’arrivera à me faire croire que des hommes dans la fleur de l’âge ont quitté leurs maisons, leurs travails, leurs femmes,  leurs enfants, leurs amis “avec plaisir”, je dirais plutôt qu’ils s’y étaient résignés. En 1994, Jean-Baptiste DUROSELLE (historien français) écrit: <i>« Qui va faire la moisson imminente ? Et comment, avec la réquisition de nombreux chevaux, pourra-t-on labourer en octobre, si toutefois, par impossible, la guerre n’est pas encore gagnée et terminée ? »</i>. Il y a bien eu des scènes festives, avec des wagons et des fusils fleuris, mais c’est surtout dû au fait que le  départ des troupes était fortement ritualisé: discours d'officiers, défilés dans la ville des casernes aux gares. Il ne faut pas oublier non plus que  la <strong>loi sur l'état de siège du 3 avril 1878</strong> attribue aux autorités militaires un large pouvoir, en particulier celui de sanctionner toute parole opposée à la guerre. On peut donc facilement comprendre que les mobilisés et les civils n’avaient pas vraiment le choix, mieux valait dire que l’on était “pour la guerre”. Si vous n’êtes pas convaincu, je vous invite à lire le mémoire d’Yves POURCHER intitulé <a href="http://terrain.revues.org/1027#txt">Les clichés de la Grande Guerre</a>.</p>
 
 <figure>
 <img src="images/image-diapo-3.jpg" alt="Carte postale représentant le départ des soldats pour le Front" />
@@ -106,55 +106,13 @@
     <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
 </footer>
 
-<!-- Piwik -->
-<script type="text/javascript">
-var _paq = _paq || [];
-_paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-_paq.push(['trackPageView']);
-_paq.push(['enableLinkTracking']);
-(function() {
-var u="//www.genealexis.fr/piwik/";
-_paq.push(['setTrackerUrl', u+'piwik.php']);
-_paq.push(['setSiteId', 4]);
-var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-})();
-</script>
-<noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
-<!-- End Piwik Code -->
-
-
-
-<!-- Google Ana -->
-
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-11509906-21', 'auto');
-ga('send', 'pageview');
-</script>   
+<?php include('include/stats.inc'); ?>
 
 <!-- javascript -->
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
 <script type="text/javascript" src="js/jquery.fancybox-1.3.4.pack.js"></script>
-<script type="text/javascript" src="js/diapo.js"></script>
 
-<script type="text/javascript">  
-    $(document).ready(function()
-    {
-    $("a#single_image").fancybox();
-
-    $(".diaporama").diaporama(
-        {
-        animationSpeed: "slow",
-        delay:2
-        });
-    });
-</script>  
-            
 <script type="text/javascript">  
   $(document).ready(function() {
 	$("a#single_image").fancybox();

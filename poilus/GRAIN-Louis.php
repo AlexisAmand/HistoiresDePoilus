@@ -64,7 +64,7 @@
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Emile Edmond (+)</a></li>
+        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
@@ -75,10 +75,9 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="rousseaux-eugene.php">ROUSSEAUX Eugène</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">A venir</a></li>
+        <li><a href="autres.php">Autres poilus</a></li>
    </ul>
    
       <div id="pubaside">
@@ -110,7 +109,7 @@
 
 <br/><h4>La mobilisation d'août 1914</h4>
 
-<p>Lors de la mobilisation, <strong>Louis</strong> est âgé de 38 ans et est le père de 6 enfants: Marguerite, Marthe, Marcel, Maurice, Fortunée et Hélène (mon arrière-grand-mère). Il rejoint le <strong>3e Régiment d'Infanterie Territoriale</strong> qui cantonnait à Hautmont. Au début de la guere, Les régiments d’infanterie territoriale (R.I.T), sont essentiellement constitués de citoyens anciens nés entre 1875 et 1880. Ils sont surtout assignés à des missions plus statiques, moins exposées: gares, nœuds ferroviaires, ponts, entrepôts, places fortes, etc. </p>
+<p>Lors de la mobilisation, <strong>Louis</strong> est âgé de 38 ans et est le père de 6 enfants: Marguerite, Marthe, Marcel, Maurice, Fortunée et Hélène (mon arrière-grand-mère). Il rejoint le <strong>3e Régiment d'Infanterie Territoriale</strong> qui cantonnait à Hautmont. Au début de la guerre, Les régiments d’infanterie territoriale (R.I.T), sont essentiellement constitués de citoyens anciens nés entre 1875 et 1880. Ils sont surtout assignés à des missions plus statiques, moins exposées: gares, nœuds ferroviaires, ponts, entrepôts, places fortes, etc. </p>
 
 <p>Durant le mois d’août, <strong>Louis</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> étaient affectés au 1er secteur qui comprenait le centre de résistance avancé, les centres de résistance du fort Grévaux et du fort d'Hautmont.</p>
 
@@ -123,7 +122,7 @@
 
 <br/><h4>L'attaque des allemands</h4>
 
-<p>Le 2 septembre, les bombardements reprennent sur les ouvrages du secteur attaqué : Bersillies, la Salemagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance.</p>
+<p>Le 2 septembre, les bombardements reprennent sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance.</p>
 
 <br/><h4>Les drapeaux de la garnison sont brûlés</h4>
 
@@ -138,7 +137,7 @@
 
 <br/><h4>C'est fini pour Maubeuge...</h4>
 
-<p>Le 7 Septembre, à 11 heures 30, le Drapeau blanc est aperçu sur un clocher de Maubeuge. La Place de Maubeuge a capitulé. <strong>Louis GRAIN</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> furent entièrement fait prisonnier et furent parmi les 45 000 combattants de la poche de Maubeuge à être internés dans les camps allemands dont celui de Chemnitz, entre Dresde et Zwickau,  où ira Louis. </p>
+<p>Le 7 septembre, à 11 heures 30, le Drapeau blanc est aperçu sur un clocher de Maubeuge. La Place de Maubeuge a capitulé. <strong>Louis GRAIN</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> furent entièrement fait prisonnier et furent parmi les 45 000 combattants de la poche de Maubeuge à être internés dans les camps allemands dont celui de Chemnitz, entre Dresde et Zwickau,  où ira Louis. </p>
 
 <figure>
     <a id="single_image0" href="images/camp-de-chemnitz.jpg" title="le camp de Chemnitz pendant la Première Guerre Mondiale">
@@ -151,7 +150,7 @@
 
 <br /><h4>...mais à Villers-Guislain, la guerre arrive.</h4>
 
-<p>Dans son ouvrage &quot;La France Occupée&quot;, Philippe Nivet raconte que le village de Villers-Guislain, où sont nés <a href="GRAIN-Louis.php">Louis</a> et <a href="GRAIN-Leon-Albert.php">Léon Albert GRAIN</a>, est occupé depuis 1914. En 1916, les allemands ont demandé à la mairie une dizaine de jeune fille pour placer les cartouches dans les bandes de chargement; comme aucune volontaire ne s'est présentée, les allemands en ont emprisonné 4 pendant 2 heures et ont fait savoir qu'ils mettraient toutes les filles en prison si la commune ne présentaient pas des volontaires. Six jeunes filles se sont finalement résignées à la faire le travail exigé. </p>
+<p>Dans son ouvrage &quot;La France Occupée&quot;, Philippe Nivet raconte que le village de Villers-Guislain, où sont nés <a href="GRAIN-Louis.php">Louis</a> et <a href="GRAIN-Leon-Albert.php">Léon Albert GRAIN</a>, est occupé depuis 1914. En 1916, les Allemands ont demandé à la mairie une dizaine de jeune fille pour placer les cartouches dans les bandes de chargement; comme aucune volontaire ne s'est présentée, les Allemands en ont emprisonné 4 pendant 2 heures et ont fait savoir qu'ils mettraient toutes les filles en prison si la commune ne présentaient pas des volontaires. Six jeunes filles se sont finalement résignées à la faire le travail exigé. </p>
 
 <div id="note1"></div>
 <p style="font-size: 12px"><sup>1</sup> En cas de guerre, la classe première à marcher pouvait être appelée par anticipation. C'est pourquoi l'armée active comprenait également en août la classe 1913 (hommes nés en 1893) qui n'aurait dû être appelée qu'à l'automne.</p>

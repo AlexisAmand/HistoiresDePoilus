@@ -97,16 +97,15 @@
 
 <h1>Le camp de prisonniers de Darmstadt</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
 
 <p>Ce camp était situé dans un vaste champ de manœuvres à quelques kilomètres de la ville de Darmstadt, en Hesse, dans le centre-ouest de l'Allemagne.. Il était constitué de grandes baraques en bois réunies en groupe de dix pouvant contenir un bataillon. Le camp était entouré d’un réseau de fils de fer et chaque bataillon (ensemble de 10 baraques) était à son tour entouré par un fils de fer.</p>  
-
 <figure>
     <img src="miniatures/Darmstadt/carte-camp-darmstadt.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Darmstadt">
     <figcaption>Localisation du camp de Darmstadt<br/>(source: BNF - Gallica)</figcaption>
 </figure> 
 
-<p>Louis GUINET a 27 ans quand il est fait prisonnier à Entre-deux-Eaux, près de Saint-Dié, le 29 aout 1914. Il est évacué sur le camp de Darmstadt où il séjourne jusque juin 1915, date à laquelle il est envoyé au camp de représailles de <a href="camp-meyenburg.php">Meyenburg</a>. Sur son séjour à Darmstadt, il rapporte que la <em>nourriture était insuffisante et de mauvaise qualité.</em> et que les <em>prisonniers étaient traités avec brulalité</em>.</p>
+<p>Louis GUINET a 27 ans quand il est fait prisonnier à Entre-deux-Eaux, près de Saint-Dié, le 29 août 1914. Il est évacué sur le camp de Darmstadt où il séjourne jusque juin 1915, date à laquelle il est envoyé au camp de représailles de <a href="camp-meyenburg.php">Meyenburg</a>. Sur son séjour à Darmstadt, il rapporte que la <em>nourriture était insuffisante et de mauvaise qualité.</em> et que les <em>prisonniers étaient traités avec brutalité</em>.</p>
 
 <figure>
     <a href="images/Darmstadt/darmstadt-04.jpg" id="single_image" title="Le camp de Darmstadt">
@@ -126,7 +125,7 @@
     <figcaption>Menu du camp du 4 au 10 avril 1915<br />(source allemande)</figcaption>   
 </figure>
 
-<p>Dans le livre intitulé "Le Sort des Prisonniers Français en Allemagne", paru en 1916, l'auteur nous décrit l'impuissance des prisonniers français contre les épidémies, notamment dans les camps de <a href="camp-darmstadt.php">Darmstadt</a>, <a href="camp-friedrichsfeld.php">Friedrichsfeld</a>, Koenigsbrück, Merseburg et Zoosen où la faim non apaisée, l'inanition et la misére psychologique qui en a résulté ont provoqué un développement inouï de la tuberculose et une mortalité effrayante.</p>
+<p>Dans le livre intitulé "Le Sort des Prisonniers Français en Allemagne", paru en 1916, l'auteur nous décrit l'impuissance des prisonniers français contre les épidémies, notamment dans les camps de <a href="camp-darmstadt.php">Darmstadt</a>, <a href="camp-friedrichsfeld.php">Friedrichsfeld</a>, Koenigsbrück, Merseburg et Zoosen où la faim non apaisée, l'inanition et la misère psychologique qui en a résulté ont provoqué un développement inouï de la tuberculose et une mortalité effrayante.</p>
 
 <figure>
     <a href="images/Darmstadt/darmstadt-01.jpg" id="single_image"  title="Le camp de Darmstadt">
@@ -200,7 +199,7 @@
 
 <ul>
     <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
-    <li><a href="http://amzn.to/2wHK3UT">Sous le ciel d'Allemagne. Sonnets d'un prisonnier de guerre. Darmstadt, Meyenburg, Limburg, Giessen (Emile Mussat, 1921)</a></li>     
+    <li><a href="http://amzn.to/2wHK3UT">Sous le ciel d'Allemagne. Sonnets d'un prisonnier de guerre. Darmstadt, Meyenburg, Limburg, Giessen (Émile Mussat, 1921)</a></li>     
     <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>
     <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre 1924)</li>
     <li><a rel="nofollow" href="http://www.amazon.fr/gp/product/2708905228/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2708905228&linkCode=as2&tag=lagenealogent-21">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2708905228" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>   

@@ -98,7 +98,7 @@
 
 <h1>Le camp de Görlitz</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p>
     
 <figure>
     <img src="miniatures/Gorlitz/gorlitz-01.jpg" alt="Des prisonniers du camp de Görlitz en rang pour la photographie">

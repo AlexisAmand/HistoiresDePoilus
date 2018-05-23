@@ -149,7 +149,7 @@
   <tr>
     <td>BRACONNIER<br />
 Alfred Émile</td>
-    <td>Le 28 aout 1893<br />
+    <td>Le 28 août 1893<br />
 à Quarouble (59)</td>
     <td>Le 16 octobre 1914<br />
 à La Neuville (51)</td>
@@ -192,7 +192,7 @@ du Fort (30)</td>
 Nazaire Hippolyte </td>
     <td>Le 22 septembre 1892<br />
         à Anzin (Nord)</td>
-    <td>Le 22 aout 1914<br />
+    <td>Le 22 août 1914<br />
         à Pierrepont (54)</td>
     <td>151e R.I</td>
     <td>tué à l&#39;ennemi</td>
@@ -228,8 +228,8 @@ Nazaire Hippolyte </td>
     </tr>
   <tr>
     <td>DANGREAU <br />
-      Noel Désiré </td>
-    <td>Le 2 aout 1890<br />
+      Noël Désiré </td>
+    <td>Le 2 août 1890<br />
         à Quarouble (59)</td>
     <td>Le 5 novembre 1918<br />
         à Bourbourg (59)</td>
@@ -348,7 +348,7 @@ Louis </td>
         Ernest</td>
     <td class="auto-style1">Le 9 avril 1875<br />
         à Quarouble (59)</td>
-    <td class="auto-style1">Le 24 aout 1914<br />
+    <td class="auto-style1">Le 24 août 1914<br />
         à Condé-sur-Escaut (59)</td>
     <td class="auto-style1">127e R.I</td>
     <td class="auto-style1">tué à l&#39;ennemi</td>
@@ -366,7 +366,7 @@ Louis</td>
   <tr>
     <td>DOYE<br />
 Léonide</td>
-    <td>Le 20 aout 1874<br />
+    <td>Le 20 août 1874<br />
         à Quarouble (59)</td>
     <td>Le 9 juin 1915<br />
         à <a href="../camps/camp-minden.php">Minden (Allemagne)</a></td>
@@ -388,7 +388,7 @@ Alfred Arthur</td>
 Léon Jean-Baptiste </td>
     <td>Le 19 juin 1889<br />
         à Quarouble (59)</td>
-    <td>Le 22 aout 1915<br />
+    <td>Le 22 août 1915<br />
         à <a href="../camps/camp-merzdorf.php">Merzdorf (Allemagne)</a></td>
     <td>147e R.I</td>
     <td>maladie contractée en captivité</td>
@@ -406,7 +406,7 @@ Léon Jean-Baptiste </td>
   <tr>
     <td class="auto-style1">DUEE <br />
       Omer Henri </td>
-    <td class="auto-style1">Le 6 aout 1890<br />
+    <td class="auto-style1">Le 6 août 1890<br />
         à Quarouble (59)</td>
     <td class="auto-style1">Le 29 juillet 1918<br />
         à Ville-en-Tardenois (51)</td>
@@ -419,7 +419,7 @@ Léon Jean-Baptiste </td>
     <td>Le 28 mai 1886
         <br />
         à Estreux (59)</td>
-    <td>Le 1er aout 1916<br />
+    <td>Le 1er août 1916<br />
         à Cayeux-en-Santerre (80)</td>
     <td>366e R.I</td>
     <td>blessures de guerre</td>
@@ -436,7 +436,7 @@ Léon Jean-Baptiste </td>
     </tr>
   <tr>
     <td>DUSSART<br />
-        Emile</td>
+        Émile</td>
     <td>Le 29 avril 1881<br />
         à Raismes (59)</td>
     <td>Le 18 décembre 1914<br />
@@ -520,7 +520,7 @@ Abel Joseph </td>
 Joseph Auguste </td>
     <td>Le 1 avril 1892<br />
         à Quarouble (59)</td>
-    <td>Le 29 aout 1914<br />
+    <td>Le 29 août 1914<br />
         à la Herie-la-Vieville (02)</td>
     <td>127e R.I</td>
     <td>tué à l&#39;ennemi</td>
@@ -701,7 +701,7 @@ Zacharie Joseph </td>
     </tr>
   <tr>
     <td>MASSON <br />
-      Emile </td>
+      Émile </td>
     <td>Le 20 Août 1892<br/>à Quarouble</td>
     <td>Le 30 novembre 1914<br />à Vienne-le-Château (Marne)</td>
     <td>147e R.I</td>
@@ -776,7 +776,7 @@ Zacharie Joseph </td>
     <td>&nbsp;</td>
 </tr>    
   <tr>
-    <td>SIZAIRE<br />Léon Emile </td>
+    <td>SIZAIRE<br />Léon Émile </td>
     <td>Le 11 janvier 1888<br />à Quarouble</td>
     <td>Le 11 décembre 1914<br/>à Rosendaël (Nord)</td>
     <td>162e R.I</td>

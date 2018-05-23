@@ -169,7 +169,7 @@
     <td colspan="2"><strong>Victime civile</strong></td>   
   </tr> 
   <tr>
-    <td>HOURDEAU<br/>Emile</td>
+    <td>HOURDEAU<br/>Émile</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -197,7 +197,7 @@
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td>LABOUREAU<br/>Emile</td>
+    <td>LABOUREAU<br/>Émile</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>

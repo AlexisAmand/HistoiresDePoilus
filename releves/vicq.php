@@ -118,7 +118,7 @@
 
 <figure>
     <a href="images/monument-vicq.jpg" id="single_image" title="Le Monument aux Morts de Vicq">
-    <img src="images/mini/monument-vicq.jpg" alt="le monument aux morts de Vicq et la Rue Basse sur une carte postale ancienne"/>
+    <img src="images/mini/monument-vicq.jpg" alt="le Monument aux Morts de Vicq et la Rue Basse sur une carte postale ancienne"/>
     </a>
     <figcaption>Le Monument et la Rue Basse<br />(cliquez pour agrandir)</figcaption>
 </figure>
@@ -146,7 +146,7 @@
   </tr>
   <tr>
     <td class="auto-style2">BIGORNE<br />
-        Emile Jules</td>
+        Émile Jules</td>
     <td>Le 4 novembre 1892<br />
         à La Sentinelle (Nord)</td>
     <td class="auto-style3">Le 26 septembre 1915<br />
@@ -159,7 +159,7 @@
         Julien</td>
     <td>Le 2 avril 1894<br />
         à Hersin-Coupigny (Pas-de-Calais)</td>
-    <td class="auto-style3">Le 22 aout 1914<br />
+    <td class="auto-style3">Le 22 août 1914<br />
         à Rossignol (Belgique)</td>
     <td class="auto-style4">1er R.I.C</td>
     <td>&nbsp;</td>
@@ -197,10 +197,10 @@
     </tr>
   <tr>
     <td class="auto-style2">COLLET<br />
-        Emile</td>
+        Émile</td>
     <td>Le 5 décembre 1889<br />
         à Vicq</td>
-    <td class="auto-style3">Le 30 aout 1914<br />
+    <td class="auto-style3">Le 30 août 1914<br />
         à Le Sourd (Aisne)</td>
     <td class="auto-style4">33e R.I</td>
     <td>&nbsp;</td>
@@ -210,7 +210,7 @@
         Jules</td>
     <td>Le 10 avril 1891<br />
         à Vicq</td>
-    <td class="auto-style3">Le 4 aout 1917<br />
+    <td class="auto-style3">Le 4 août 1917<br />
         au Chemin des Dames (Aisne)</td>
     <td class="auto-style4">119e R.I</td>
     <td>&nbsp;</td>
@@ -259,10 +259,10 @@
   </tr>
   <tr>
     <td class="auto-style2">DUPLAT<br />
-        Emile Pierre Joseph</td>
+        Émile Pierre Joseph</td>
     <td>Le 20 mars 1892<br />
         à Vicq</td>
-    <td class="auto-style3">Le 23 aout 1914<br />
+    <td class="auto-style3">Le 23 août 1914<br />
         à Saint-Gérard (Belgique)</td>
     <td class="auto-style4">15e R.A</td>
     <td>&nbsp;</td>
@@ -279,7 +279,7 @@
   </tr>
   <tr>
     <td class="auto-style2">FROISSART<br />
-        Georges Emile</td>
+        Georges Émile</td>
     <td>Le 1 février 1894<br />
         à Vicq</td>
     <td class="auto-style3">Le 6 octobre 1915<br />
@@ -426,7 +426,7 @@
         Germain Louis</td>
     <td>Le 29 mars 1892<br />
         à Vicq</td>
-    <td class="auto-style3">Le 28 aout 1914<br />
+    <td class="auto-style3">Le 28 août 1914<br />
         à La Thibaudière (Ardennes)</td>
     <td class="auto-style4">91e R.I</td>
     <td>&nbsp;</td>

@@ -101,7 +101,7 @@
 
 <h1>Le camp de prisonniers de Minden</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p>
 
 <p>Les 2 camps de Minden étaient situés à Minderheide, un quartier de la ville. Le « lager I » était réservé aux prisonniers de guerre et le « lager II » aux autres prisonniers. Les deux camps furent réunis avant la visite des délégués Espagnols du 24 mars 1916. Le camp était constitué de baraques en bois contiguës par les angles et entourant une grande cour. Il est considéré comme le camp de plus dur.</p> 
 

@@ -141,7 +141,7 @@
   <tr>
     <td>BISSET<br />Julien Henri</td>
     <td>Le 19 janvier 1895<br />à St-Hilaire-le-Petit</td>
-    <td>Le 11 ocotbre 1918<br />à Giromagny (Haut-Rhin)<sup>1</sup></td>
+    <td>Le 11 octobre 1918<br />à Giromagny (Haut-Rhin)<sup>1</sup></td>
     <td>soldat</td>
     <td>32e R.A.C</td>
     <td>Maladie contractée au front</td>
@@ -155,7 +155,7 @@
     <td>Mort en captivité</td>
   </tr>
   <tr>
-    <td>COLIN<br />Emile Jean-Baptiste</td>
+    <td>COLIN<br />Émile Jean-Baptiste</td>
     <td>Le 6 juin 1882<br />à St-Hilaire-le-Petit</td>
     <td>Le 19 mars 1915<br />aux Eparges (Meuse)</td>
     <td>soldat</td>
@@ -219,7 +219,7 @@
     <td>Tué à l&#39;ennemi</td>
   </tr>
   <tr>
-    <td>HENNEQUIN<br />Emile Paul</td>
+    <td>HENNEQUIN<br />Émile Paul</td>
     <td>Le 22 Mai 1893<br />à St-Hilaire-le-Petit</td>
     <td>Le 5 avril 1917<br />à Lunéville (M. et Moselle)</td>
     <td>soldat</td>
@@ -227,7 +227,7 @@
     <td>Maladie contractée en service</td>
     </tr>
   <tr>
-    <td>LAGRIVE<br />Emile</td>
+    <td>LAGRIVE<br />Émile</td>
     <td>Le 27 mars 1895<br />à St-Hilaire-le-Petit</td>
     <td>Le 6 avril 1918<br />à Cuvilly (Oise)</td>
     <td>maréchal<br />des logis</td>
@@ -235,7 +235,7 @@
     <td>Tué à l&#39;ennemi</td>
   </tr>
   <tr>
-    <td>LALLEMENT<br />René Emile</td>
+    <td>LALLEMENT<br />René Émile</td>
     <td>Le 15 février 1898<br />à Varennes-en-Argonne (Meuse)</td>
     <td>Le 19 juillet 1918<br />à Prosnes (Marne)</td>
     <td>soldat</td>
@@ -245,7 +245,7 @@
   <tr>
     <td>LEFEVRE<br />Julien Henri</td>
     <td>Le 19 novembre 1897<br />à St-Hilaire-le-Petit</td>
-    <td>Le 19 aout 1917<br />à Belrupt (Meuse)</td>
+    <td>Le 19 août 1917<br />à Belrupt (Meuse)</td>
     <td>soldat</td>
     <td>154e R.I</td>
     <td>Blessure de guerre</td>
@@ -261,7 +261,7 @@
   <tr>
     <td>MASSON<br />Paul Eugène</td>
     <td>Le 1 octobre 1874<br />à Sontrien (Marne)</td>
-    <td>Le 16 aout 1915<br />à Souchez (Pas-de-Calais)</td>
+    <td>Le 16 août 1915<br />à Souchez (Pas-de-Calais)</td>
     <td>soldat</td>
     <td>60e B.C.P<br />8e comp.</td>
     <td>Tué à l&#39;ennemi</td>

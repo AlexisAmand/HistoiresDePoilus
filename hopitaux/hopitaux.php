@@ -76,21 +76,21 @@
 
 <p>Grand Séminaire, 61 rue Saint-Fuscien - 246 lits - Fonctionne du 23 septembre 1914 au 8 décembre 1915 - A cette date devient HC n° 105</p>
    
-<h4>Hopital n°31 de Nantes</h4>
+<h4>Hôpital n°31 de Nantes</h4>
 
-<h4>Hopital mixte d'Amiens (80)</h4>
+<h4>Hôpital mixte d'Amiens (80)</h4>
 
 	<figure>
 	<a href="images/hopital-mixte-amiens.jpeg" id="single_image">
     <img src="images/hopital-mixte-amiens.jpeg"></a>
         <figcaption>
         	Localisation d'un projectile sur un blessé<br />
-            à l'Hôtel Dieu d'Amiens (Hopital Mixte) en ocotbre 1914<br/>
+            à l'Hôtel Dieu d'Amiens (Hôpital Mixte) en octobre 1914<br/>
             (source: Archives d'électricité médicale n°422, novembre 1917)
         </figcaption>
     </figure>
 
-<h4>Hopital de Saint-Mandé (seine)</h4>
+<h4>Hôpital de Saint-Mandé (seine)</h4>
 
 <p>Cet hopital militaire était situé à l'Hôpital Militaire Bégin à Saint-Mandé, dans le Val-de-Marne. Il doit son nom à Louis Jacques Bégin (1793-1859), chirurgien militaire de l'Empire.</p>
 
@@ -107,7 +107,7 @@
     </figure>
 
     <figure>
-    <a href="himages/hopital-begin-cours.jpg" id="single_image">
+    <a href="images/hopital-begin-cours.jpg" id="single_image">
    	<img src="images/hopital-begin-cours.jpg"></a>
     	<figcaption>La cour intérieure de l'hôpital militaire Bégin</figcaption>
     </figure>

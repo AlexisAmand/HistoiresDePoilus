@@ -108,7 +108,7 @@
 
 <figure>
     <a href="images/onnaing-monument-aux-morts.jpg" id="single_image" title="Le monument aux Morts d'Onnaing">
-    <img src="images/mini/onnaing-monument-aux-morts.jpg" alt="le monument aux morts d'Onnaing sur une carte postale ancienne"/>
+    <img src="images/mini/onnaing-monument-aux-morts.jpg" alt="le Monument aux Morts d'Onnaing sur une carte postale ancienne"/>
     </a>
     <figcaption>Le Monument aux Morts de la guerre 1914-1918<br />(cliquez pour agrandir)</figcaption>
 </figure>
@@ -181,7 +181,7 @@
     <td>&nbsp;</td>
     </tr>
   <tr>
-    <td>BOUCHEZ<br />Emile Jules</td>
+    <td>BOUCHEZ<br />Émile Jules</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -261,7 +261,7 @@
     <td>&nbsp;</td>
     </tr>
   <tr>
-    <td>CLIQUET<br />Emile</td>
+    <td>CLIQUET<br />Émile</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -285,7 +285,7 @@
     <td>&nbsp;</td>
     </tr>
   <tr>
-    <td>CORNETTE<br />Gaston Emile</td>
+    <td>CORNETTE<br />Gaston Émile</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -405,7 +405,7 @@
     <td>&nbsp;</td>
     </tr>
   <tr>
-    <td>DUEE <br />Emile</td>
+    <td>DUEE <br />Émile</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -413,7 +413,7 @@
     <td>victime civile</td>
     </tr>
   <tr>
-    <td>DUPONT <br />Emile</td>
+    <td>DUPONT <br />Émile</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -613,9 +613,9 @@
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td>JOUGLET<br />Charles Emile</td>
+    <td>JOUGLET<br />Charles Émile</td>
     <td>le 5 mars 1894<br />à Rombies (59)</td>
-    <td>le 26 aout 1916<br />à Beaumont (55)</td>
+    <td>le 26 août 1916<br />à Beaumont (55)</td>
     <td>soldat</td>
     <td>155e R.I</td>
     <td>&nbsp;</td>
@@ -669,7 +669,7 @@
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td>LANSELLE<br />Georges Emile</td>
+    <td>LANSELLE<br />Georges Émile</td>
     <td>le 15 septembre 1893<br />à Onnaing (59)</td>
     <td>le 27 juin 1916<br />à Verdun (55)</td>
     <td>soldat</td>

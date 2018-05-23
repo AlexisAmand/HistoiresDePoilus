@@ -231,7 +231,7 @@
       </tr>
       <tr>
         <td>FICHEUX<br />
-            Emile</td>
+            Émile</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
@@ -351,7 +351,7 @@
       </tr>
       <tr>
         <td>LEBAS<br />
-            Emile</td>
+            Émile</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>

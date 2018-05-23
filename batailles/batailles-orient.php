@@ -2,13 +2,13 @@
     <html lang="fr">
         <head>
             <meta charset="utf-8">
-            <title>Les batailles du front du Moyen-Orient - Histoires de Poilus</title>
-
+     
+            <title>Les batailles du front du Moyen-Orient pendant la Grande Guerre - Histoires de Poilus</title>
             <meta content="Liste des batailles qui se sont déroulées sur le front du Moyen-Orient pendant la Première Guerre Mondiale (1914 à 1918)." name="description">
-
 
             <link rel="stylesheet" href="../css/style.css">    
             <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="/images/favicon.png" />
                 
             </head>
         <body>
@@ -22,8 +22,6 @@
               'Ok', 'En savoir plus', 'cookies.php');
           });
         </script>
-
-
 
         <header>
 	
@@ -52,15 +50,14 @@
 	        <a href="../index.php" class="NavSelected">Accueil</a>       
         </nav>
 
-
-<div id="navbis">
-<a href="batailles-est.php">Europe de l'Est</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="../lieux.php">Europe de l'Ouest</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="batailles-italie.php">Le Front Italien</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="batailles-afrique.php">Le Front Africain</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="batailles-orient.php">Front du Moyen-Orient</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="batailles-balkans.php">Front des Balkans</a>
-</div>
+		<div id="navbis">
+			<a href="batailles-est.php">L'Europe de l'Est</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="batailles-ouest.php">L'Europe de l'Ouest</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="batailles-italie.php">Le Front Italien</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="batailles-afrique.php">Le Front Africain</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="batailles-orient.php">Le Front du Moyen-Orient</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="batailles-balkans.php">Le Front des Balkans</a>
+		</div>
 
         <section>
 

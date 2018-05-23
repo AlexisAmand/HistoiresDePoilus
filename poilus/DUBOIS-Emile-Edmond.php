@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Biographie et parcours du soldat DUBOIS Emile Edmond - Histoires de Poilus</title>
-<meta content="parcours de Emile Edmond DUBOIS, soldat guislanais pendant la Première Guerre Mondiale. Il était membre du 294e Régiment d’Infanterie et mort pour la France à Souain en 1915" name="description">
+<title>Biographie et parcours du soldat DUBOIS Émile Edmond - Histoires de Poilus</title>
+<meta content="parcours de Émile Edmond DUBOIS, soldat guislanais pendant la Première Guerre Mondiale. Il était membre du 294e Régiment d’Infanterie et mort pour la France à Souain en 1915" name="description">
     
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -64,7 +64,7 @@
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="DUBOIS-Emile-Edmond.php" class="AsideSelected">DUBOIS Emile Edmond (+)</a></li>
+        <li><a href="DUBOIS-Emile-Edmond.php" class="AsideSelected">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
@@ -75,10 +75,9 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="rousseaux-eugene.php">ROUSSEAUX Eugène</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
-      <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">A venir</a></li>
+        <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
+        <li><a href="autres.php">Autres poilus</a></li>
    </ul>
    
     <div id="pubaside">
@@ -97,9 +96,9 @@
 
 <article>
 
-<h1>DUBOIS Emile Edmond</h1>
+<h1>DUBOIS Émile Edmond</h1>
 
-<p><strong>Emile Edmond DUBOIS</strong>, le beau frère de <a href="GRAIN-Louis.php">Louis GRAIN</a> et de <a href="GRAIN-Leon-Albert.php">Léon GRAIN</a>, est né le 25 janvier 1880 à Villers-Guislain (Nord). Il est le fils légitime de Désiré Emile et Catherine Vénérose BROYE. En 1906, il est tisseur et vit à Villers-Guislain (Rue Hérode) avec ses parents, sa soeur Malvina et son frère Christophe. Le 3 décembre 1907, il épouse Fortunée Luce GRAIN à Villers-Guislain.</p>
+<p><strong>Émile Edmond DUBOIS</strong>, le beau frère de <a href="GRAIN-Louis.php">Louis GRAIN</a> et de <a href="GRAIN-Leon-Albert.php">Léon GRAIN</a>, est né le 25 janvier 1880 à Villers-Guislain (Nord). Il est le fils légitime de Désiré Émile et Catherine Vénérose BROYE. En 1906, il est tisseur et vit à Villers-Guislain (Rue Hérode) avec ses parents, sa soeur Malvina et son frère Christophe. Le 3 décembre 1907, il épouse Fortunée Luce GRAIN à Villers-Guislain.</p>
 
 <figure>
     <a href="images/census-villers-guislain-1906.jpg" id="single_image" title="">
@@ -114,32 +113,32 @@
 
 <figure>
     <a href="sources/DUBOIS-Emile-Edmond-matricule.jpg" id="single_image" title="">
-    <img src="miniatures/DUBOIS-Emile-Edmond-matricule.jpg" alt="Extrait de la fiche matricule d'Emile DUBOIS"/>
+    <img src="miniatures/DUBOIS-Emile-Edmond-matricule.jpg" alt="Extrait de la fiche matricule d'Émile DUBOIS"/>
     </a>
     <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption> 
 </figure>
 
 <p>La partie qui suit est directement issue de l&#39;Historique du 294e Régiment d&#39;Infanterie, j&#39;ai juste apporté 2 ou 3 petites modifications pour faciliter la lecture.</p>
-    <p><em>&quot;Formé à deux bataillons, <strong>Emile Edmond DUBOIS</strong> et le 294e Régiment d'Infanterie quittent Bar-le-Duc et entrent en campagne le 9 août sous les ordres du Lieutenant Colonel DUPERRIER. Le 294e R.I fait partie de la 56e Division d'Infanterie, 111e Brigade. Au cours de la campagne de 1914, il participe au combat de Buzy, de Senlis, à la Bataille de la Marne, au combat sur l'Aisne et à la Bataille de l'Oise.&quot;</em></p>
+    <p><em>&quot;Formé à deux bataillons, <strong>Émile Edmond DUBOIS</strong> et le 294e Régiment d'Infanterie quittent Bar-le-Duc et entrent en campagne le 9 août sous les ordres du Lieutenant Colonel DUPERRIER. Le 294e R.I fait partie de la 56e Division d'Infanterie, 111e Brigade. Au cours de la campagne de 1914, il participe au combat de Buzy, de Senlis, à la Bataille de la Marne, au combat sur l'Aisne et à la Bataille de l'Oise.&quot;</em></p>
 
     <br /><h4>Le combat de Buzy</h4>
 
-    <p><em>&quot;Le choc a lieu le 25 août. Le Régiment est en deuxième ligne. La 56ème Division d&#39;Infanterie obtient un succès important et repousse complètement l’ennemi à Buzy le contraignant à battre en retraite et lui infligeant de grosses pertes. La situation critique de l’Aile Gauche de l’Armée Française est telle que le succès n’est pas exploité et la 56ème Division d&#39;Infanterie reçoit l’ordre de rompre le combat pour être transportée vers le Nord. Le 294ème Régiment d&#39;Infanterie embarque en chemin de fer à Dugny et à Dieue, débarque à Moyenneville et Tricot (Oise) et se dirige sur Montdidier pour prendre position en avant de Senlis.&quot;</em></p>
+    <p><em>&quot;Le choc a lieu le 25 août. Le Régiment est en deuxième ligne. La 56e Division d&#39;Infanterie obtient un succès important et repousse complètement l’ennemi à Buzy le contraignant à battre en retraite et lui infligeant de grosses pertes. La situation critique de l’Aile Gauche de l’Armée Française est telle que le succès n’est pas exploité et la 56e Division d&#39;Infanterie reçoit l’ordre de rompre le combat pour être transportée vers le Nord. Le 294e Régiment d&#39;Infanterie embarque en chemin de fer à Dugny et à Dieue, débarque à Moyenneville et Tricot (Oise) et se dirige sur Montdidier pour prendre position en avant de Senlis.&quot;</em></p>
 
     <br /><h4>Le combat de Senlis</h4>
     
-    <p><em>&quot;La 56ème Division d&#39;Infanterie a pour mission de ralentir la marche de l’ennemi dont les avant-gardes cherchent à se rapprocher de Paris. Le 2 septembre, le régiment en arrière garde de la 56ème Division d&#39;Infanterie, reçoit l’ordre de tenir les lisères de Senlis jusqu’à 13 heures. Dès l’aube, les éléments avancés de l’ennemi attaquent, mais ne parviennent pas, malgré le tir acharné de leur artillerie, à nous déloger et le Régiment résiste sur les positions qui ont été assignées jusqu’à 15 heures, se replie ensuite par les bois et par la ville de Senlis. Le 3, le Régiment se dégage et se replie sur Ory-la-Ville, le Lieutenant Colonel DUPERRIER, malade, est évacué et le Chef de Bataillon SELVA prend le commandement du régiment. Le 4, le Régiment cantonne à Dammartin-en-Goele, et prend le lendemain la direction de l’Est, se dirigeant vers Saint-Soupplet.&quot;</em></p>
+    <p><em>&quot;La 56e Division d&#39;Infanterie a pour mission de ralentir la marche de l’ennemi dont les avant-gardes cherchent à se rapprocher de Paris. Le 2 septembre, le régiment en arrière garde de la 56e Division d&#39;Infanterie, reçoit l’ordre de tenir les lisères de Senlis jusqu’à 13 heures. Dès l’aube, les éléments avancés de l’ennemi attaquent, mais ne parviennent pas, malgré le tir acharné de leur artillerie, à nous déloger et le Régiment résiste sur les positions qui ont été assignées jusqu’à 15 heures, se replie ensuite par les bois et par la ville de Senlis. Le 3, le Régiment se dégage et se replie sur Ory-la-Ville, le Lieutenant Colonel DUPERRIER, malade, est évacué et le Chef de Bataillon SELVA prend le commandement du régiment. Le 4, le Régiment cantonne à Dammartin-en-Goele, et prend le lendemain la direction de l’Est, se dirigeant vers Saint-Soupplet.&quot;</em></p>
     
 <figure>
     <a href="images/Cpa_Senlis.jpg" id="single_image" title="">
-    <img src="miniatures/Cpa_Senlis.jpg" alt="Senlis incendiée par les allemands en 1914 sur une carte postale ancienne">
+    <img src="miniatures/Cpa_Senlis.jpg" alt="Senlis incendiée par les Allemands en 1914 sur une carte postale ancienne">
     </a>
-    <figcaption>Senlis incendiée par les allemands le 2 septembre 1914<br />(cliquez pour agrandir)</figcaption> 
+    <figcaption>Senlis incendiée par les Allemands le 2 septembre 1914<br />(cliquez pour agrandir)</figcaption> 
 </figure>
 
     <br /><h4>La Bataille de la Marne</h4>
    
-    <p><em>&quot;L’Armée Française prend l’offensive, le 294ème Régiment d&#39;Infanterie prend par en 1ère ligne au combat d’Etrépilly et attaque la ferme de Champfleury, dont il s’empare le 5 septembre. Le 6 et le 7, les combats se succèdent très violents et le Régiment poursuivant l’ennemi continue sa progression vers l’Aisne.&quot;</em></p>
+    <p><em>&quot;L’Armée Française prend l’offensive, le 294e Régiment d'Infanterie prend par en 1ère ligne au combat d’Etrépilly et attaque la ferme de Champfleury, dont il s’empare le 5 septembre. Le 6 et le 7, les combats se succèdent très violents et le Régiment poursuivant l’ennemi continue sa progression vers l’Aisne.&quot;</em></p>
 
 <figure>
     <a href="images/ferme-de-champfleury.jpg" id="single_image" title="">
@@ -150,7 +149,7 @@
 
     <br /><h4>Le combat sur l&#39;Aisne</h4>
     
-    <p>Le 13 septembre, Emile DUBOIS et son régiment reçoivent l&#39;ordre de traverser l’Aisne. Ils se heurtent à Saconin-et-Breuil, à une résistance acharnée de l’ennemi dont l’artillerie déclenche des barrages continuels sur les ponts (Combat de Vaux-Mercin). Après plusieurs tentatives meurtrières, le Régiment parvient le 15 à franchir la rivière après avoir glissé sur la droite jusque 4 km environ à l’Est de Vic-sur-Aisne, à Fontenoy. Le Régiment se regroupe sur la rive droite et prend part aux combats livrés sur le plateau de Nouvron les 17-18-19 et 20 septembre (Combat de Berry-au-Bac). Placé en réserve le 21, Emile et le 294ème Régiment d&#39;Infanterie prennent la direction au Nord et après avoir traversé Carlepont et Ribécourt, et sont embarqués à Compiègne à destination de la Boissière – Fécamp ou s’opère le débarquement.</p>
+    <p>Le 13 septembre, Émile DUBOIS et son régiment reçoivent l&#39;ordre de traverser l’Aisne. Ils se heurtent à Saconin-et-Breuil, à une résistance acharnée de l’ennemi dont l’artillerie déclenche des barrages continuels sur les ponts (Combat de Vaux-Mercin). Après plusieurs tentatives meurtrières, le Régiment parvient le 15 à franchir la rivière après avoir glissé sur la droite jusque 4 km environ à l’Est de Vic-sur-Aisne, à Fontenoy. Le Régiment se regroupe sur la rive droite et prend part aux combats livrés sur le plateau de Nouvron les 17-18-19 et 20 septembre (Combat de Berry-au-Bac). Placé en réserve le 21, Émile et le 294e Régiment d&#39;Infanterie prennent la direction au Nord et après avoir traversé Carlepont et Ribécourt, et sont embarqués à Compiègne à destination de la Boissière – Fécamp ou s’opère le débarquement.</p>
 
     <br/><h4>La Bataille de l&#39;Oise</h4>
 
@@ -163,7 +162,7 @@
     <figcaption>Le village de Beuvraignes pendant la Grande Guerre<br/>(source: Wikipedia - cliquez pour agrandir)</figcaption>
 </figure>        
         
-<p><em>Les 3, 4 et 5 octobre, des combats acharnés sont livrés pour la possession du village, l’ennemi nous opposant des forces bien supérieures en nombre. De part et d’autre les contres attaques se succèdent aux attaques et nos hommes se battent au corps à corps dans les rues et les maisons du village. Malgré des pertes importantes, (le Régiment ne compte plus que 400 hommes environ), l’ennemi ne parvient pas à nous chasser des lisières Sud du village et nous faisons une centaine de prisonniers dont deux officiers. Le 7, le régiment passe en seconde ligne, relevé par d’autres éléments de la 56ème Division d&#39;Infanterie gagne les villages de Bus et de Tilloloy, incorpore un renfort de 600 hommes et repasse en première ligne le 10 occupant le Bois allongé. Le 11, un coup de main tenté à Beuvraignes par deux compagnies permet de gagner quelques maisons du village. Le 14, le Régiment est relevé par le 92ème Régiment d&#39;Infanterie Du 14 au 30, la Division passe en réserve mobile d’Armée aux environs de Montdidier.</em></p>
+<p><em>Les 3, 4 et 5 octobre, des combats acharnés sont livrés pour la possession du village, l’ennemi nous opposant des forces bien supérieures en nombre. De part et d’autre les contres attaques se succèdent aux attaques et nos hommes se battent au corps à corps dans les rues et les maisons du village. Malgré des pertes importantes, (le Régiment ne compte plus que 400 hommes environ), l’ennemi ne parvient pas à nous chasser des lisières Sud du village et nous faisons une centaine de prisonniers dont deux officiers. Le 7, le régiment passe en seconde ligne, relevé par d’autres éléments de la 56e Division d'Infanterie gagne les villages de Bus et de Tilloloy, incorpore un renfort de 600 hommes et repasse en première ligne le 10 occupant le Bois allongé. Le 11, un coup de main tenté à Beuvraignes par deux compagnies permet de gagner quelques maisons du village. Le 14, le Régiment est relevé par le 92e Régiment d&#39;Infanterie Du 14 au 30, la Division passe en réserve mobile d’Armée aux environs de Montdidier.</em></p>
 
 <figure>
     <a href="images/montdidier-1914-1918.jpg" id="single_image" title="">
@@ -172,9 +171,9 @@
     <figcaption>Les ruines de Montdidier (date inconnue)<br />(cliquez pour agrandir)</figcaption>
 </figure>  
 
-<br/><h4>Emile, mort pour la France</h4>
+<br/><h4>Émile, mort pour la France</h4>
 
-<p><strong>Emile Edmond DUBOIS </strong> est porté disparu au nord de <a href="http://cartespostalesanciennes.genealexis.fr/album/87-souain" title="cartes postales ancienne de Souain sur le site Genealexis">Souain</a> (Marne, Souain-Perthes-lès-Hurlus depuis le 16 juin 1950) le 8 octobre 1915 à l&#39;âge de 35 ans. Son décès a été fixé à cette date par jugement du tribunal de Dijon le 18 mai 1920. Son nom figure sur le <a href="../releves/villers-guislain.php">monument aux morts du village de Villers-Guislain</a> (à côté de Cambrai).</p>
+<p><strong>Émile Edmond DUBOIS </strong> est porté disparu au nord de <a href="http://cartespostalesanciennes.genealexis.fr/album/87-souain" title="cartes postales ancienne de Souain sur le site Genealexis">Souain</a> (Marne, Souain-Perthes-lès-Hurlus depuis le 16 juin 1950) le 8 octobre 1915 à l&#39;âge de 35 ans. Son décès a été fixé à cette date par jugement du tribunal de Dijon le 18 mai 1920. Son nom figure sur le <a href="../releves/villers-guislain.php">Monument aux Morts du village de Villers-Guislain</a> (à côté de Cambrai).</p>
     <p>&nbsp;</p>
 
 <figure>
@@ -185,8 +184,8 @@
 </figure>
 
 <figure>
-    <a href="sources/DUBOIS-Emile-Edmond-mpf.jpg" id="single_image" title="Emile Edmond DUBOIS, mort pour la France">
-    <img src="miniatures/DUBOIS-Emile-Edmond-mpf.jpg" alt="Fiche de mort pour la France d'Emile Edmond DUBOIS"/>
+    <a href="sources/DUBOIS-Emile-Edmond-mpf.jpg" id="single_image" title="Émile Edmond DUBOIS, mort pour la France">
+    <img src="miniatures/DUBOIS-Emile-Edmond-mpf.jpg" alt="Fiche de mort pour la France d'Émile Edmond DUBOIS"/>
     </a>
 </figure>
 

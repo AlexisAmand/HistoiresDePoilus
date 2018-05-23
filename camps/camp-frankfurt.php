@@ -100,13 +100,10 @@
 
 <h1>Le camp de prisonniers de Francfort-sur-le-Main</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
-
-<p>Le camp de Francfort a/Main a été créé au début de l’année 1918. Un rapport de l’Office central belge pour les prisonniers de guerre indique qu’il était installé dans une école entourée d’un grillage, pour éviter tout contact avec l’extérieur. Les dortoirs contenaient chacun 6 à 8 lits garnis d’une paillasse rembourrée d’algues marines, d’un traversin et de deux couvertures. En mai 1918, le camp de Höchst-a/Main est réuni à celui de Francfort a/Main. L’évacuation de se camp s’est faite très rapidement le 18 novembre 1918, par Nancy.</p> 
-
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><br /><p>Le camp de Francfort a/Main a été créé au début de l’année 1918. Un rapport de l’Office central belge pour les prisonniers de guerre indique qu’il était installé dans une école entourée d’un grillage, pour éviter tout contact avec l’extérieur. Les dortoirs contenaient chacun 6 à 8 lits garnis d’une paillasse rembourrée d’algues marines, d’un traversin et de deux couvertures. En mai 1918, le camp de Höchst-a/Main est réuni à celui de Francfort a/Main. L’évacuation de se camp s’est faite très rapidement le 18 novembre 1918, par Nancy.</p> 
 
 <figure>
-    <a href="images/Frankfurt/frankfurt-01.jpg" id="single_image" title="Le camp de Frankfurt">
+    <a href="images/Frankfurt/frankfurt-01.jpg" id="single_image" title="des français dans le camp de Frankfurt">
     <img src="miniatures/Frankfurt/frankfurt-01.jpg" alt="Prisonniers français bêchant des parterres de fleur au camp de Francfort pendant la Première Guerre Mondiale">
     </a>
     <figcaption>Prisonniers français bêchant des parterres de fleurs

@@ -67,7 +67,7 @@
         <li><a href="poilus/CARIN-Theophile.php">CARIN Théophile</a></li>
         <li><a href="poilus/CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="poilus/CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="poilus/DUBOIS-Emile-Edmond.php">DUBOIS Emile Edmond (+)</a></li>
+        <li><a href="poilus/DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="poilus/FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="poilus/FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="poilus/FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
@@ -80,7 +80,7 @@
         <li><a href="poilus/MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="poilus/ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="poilus/VELU-Adrien.php" class="AsideSelected">VELU Adrien (+)</a></li>
-        <li><a href="poilus/autres.php">A venir</a></li>
+        <li><a href="poilus/autres.php">Autres poilus</a></li>
    </ul>
  
     <div id="pubaside">
@@ -101,9 +101,9 @@
  
 <h1>Les poilus</h1>
 
-<p>Avant de vous donner quelques chiffres, je vous propose de revenir avec vous sur le sens du mot « poilu », utilisé pour désigner les combattants français de la Grande Guerre. Contrairement aux idées reçues, le « poilu » ne doit pas son nom aux  mauvaises conditions d’hygiènes qui régnaient sur le front et qui auraient poussé les hommes à se laisser pousser la barbe et la moustache. Le terme « poilu » est en réalité apparu un siècle avant la Première Guerre Mondiale, sous le Premier Empire. Le linguiste français Albert Dauzat indique qu’« <em>Avant d’être le soldat de la Marne, le « poilu » est le grognard d’Austerlitz, ce n’est pas l’homme à la barbe inculte, qui n’a pas le temps de se raser, ce serait trop pittoresque, c’est beaucoup mieux : c’est l’homme qui a du poil au bon endroit, pas dans la main ! </em>». Il précise également que c’est les civils de 1914 qui ont fait du poilu le soldat combattant.</p>
+<p>Avant de vous donner quelques chiffres, je vous propose de revenir avec vous sur le sens du mot « poilu », utilisé pour désigner les combattants français de la Grande Guerre. Contrairement aux idées reçues, le « poilu » ne doit pas son nom aux  mauvaises conditions d’hygiènes qui régnaient sur le front et qui auraient poussé les hommes à se laisser pousser la barbe et la moustache. Le terme « poilu » est en réalité apparu un siècle avant la Première Guerre Mondiale, sous le Premier Empire. Le linguiste français Albert DAUZAT indique qu’« <em>Avant d’être le soldat de la Marne, le « poilu » est le grognard d’Austerlitz, ce n’est pas l’homme à la barbe inculte, qui n’a pas le temps de se raser, ce serait trop pittoresque, c’est beaucoup mieux : c’est l’homme qui a du poil au bon endroit, pas dans la main ! </em>». Il précise également que c’est les civils de 1914 qui ont fait du poilu le soldat combattant.</p>
 
-<p>Dès l’été 1914, la France et l’Allemagne étaient en position de force. En effet, le service militaire obligatoire leurs permettait de mobiliser un nombre très important d’hommes : 3,6 millions pour la France et 4 millions pour l’Allemagne.  Ces chiffres sont toutefois à relativiser car ils prennent en compte les territoriaux qui sont chargé de faire fonctionner l’administration de guerre et de garder les voies de communication (c’est par exemple le cas de <a href="poilus/JOLY-Noel-Jules.php">Noël JOLY</a>). Il faut donc ramener le nombre de combattants à 1,3 millions pour la France et 1,5 millions pour l’Allemagne. De plus, en cas de guerre, la classe première à marcher pouvait être appelée par anticipation. C'est pourquoi l'armée active comprenait également en août la classe 1913 (hommes nés en 1893) qui n'aurait dû être appelée qu'à l'automne. </p>
+<p>Dès l’été 1914, la France et l’Allemagne étaient en position de force. En effet, le service militaire obligatoire leur permettait de mobiliser un nombre très important d’hommes : 3,6 millions pour la France et 4 millions pour l’Allemagne.  Ces chiffres sont toutefois à relativiser car ils prennent en compte les territoriaux qui sont chargé de faire fonctionner l’administration de guerre et de garder les voies de communication (c’est par exemple le cas de <a href="poilus/JOLY-Noel-Jules.php">Noël JOLY</a>). Il faut donc ramener le nombre de combattants à 1,3 millions pour la France et 1,5 millions pour l’Allemagne. De plus, en cas de guerre, la classe première à marcher pouvait être appelée par anticipation. C'est pourquoi l'armée active comprenait également en août la classe 1913 (hommes nés en 1893) qui n'aurait dû être appelée qu'à l'automne. </p>
     <p>&nbsp;</p>
     
         <table class="tab_camp">
@@ -131,7 +131,7 @@
         </table>
     
 
-<p>Les britanniques, de leur côté, ne peuvent aligner qu’une armée professionnelle d’environ 100 000 hommes car la conscription n’existe pas au début de la guerre (elle sera mise en place en 1916). En attendant, ils peuvent uniquement compter sur le volontariat. La Russie et l’Autriche-Hongrie disposent quant à elles respectivement de 1,3 et 1,1 millions d’hommes.</p>
+<p>Les Britanniques, de leur côté, ne peuvent aligner qu’une armée professionnelle d’environ 100 000 hommes car la conscription n’existe pas au début de la guerre (elle sera mise en place en 1916). En attendant, ils peuvent uniquement compter sur le volontariat. La Russie et l’Autriche-Hongrie disposent quant à elles respectivement de 1,3 et 1,1 millions d’hommes.</p>
     <p>&nbsp;</p>
 
 <figure>
@@ -254,41 +254,14 @@
 </section>
 
 <footer>
-	<a href="mentions.php">Mentions Légaleségales</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="mentions.php">Mentions Légales</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="cookies.php">Cookies</a>
     <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
 </footer>
 
-<!-- Piwik -->
-<script type="text/javascript">
-var _paq = _paq || [];
-_paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-_paq.push(['trackPageView']);
-_paq.push(['enableLinkTracking']);
-(function() {
-var u="//www.genealexis.fr/piwik/";
-_paq.push(['setTrackerUrl', u+'piwik.php']);
-_paq.push(['setSiteId', 4]);
-var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-})();
-</script>
-<noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
-<!-- End Piwik Code -->
-
-
-<!-- Google Ana -->
-
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-11509906-21', 'auto');
-ga('send', 'pageview');
-</script>   
+<?php include('include/stats.inc'); ?>
 
 <!-- javascript -->
 

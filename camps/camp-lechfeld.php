@@ -100,7 +100,7 @@
 
 <h1>Le camp de prisonniers de Lechfeld</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p>Dans son ouvrage intitulé <cite>Aout 1914. La Bataille de Sarrebourg</cite>, Joseph ELMERICH précise que la Bavière, qui avait fourni sa propre armée, avait préparé trois camps destinés à recevoir les prisonniers: le camp de Lechfeld (3600 prisonniers), <a href="camp-hammelburg.php" title="lien vers la page consacrée au camp de Hammelburg">le camp de Hammelburg</a> (4470 prisonniers) et enfin celui de <a href="camp-grafenwohr.php" title="lien vers la page consacrée au camp de Grafenwohr">Grafenwöhr </a>(10500 prisonniers).</p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p>Dans son ouvrage intitulé <cite>Août 1914. La Bataille de Sarrebourg</cite>, Joseph ELMERICH précise que la Bavière, qui avait fourni sa propre armée, avait préparé trois camps destinés à recevoir les prisonniers: le camp de Lechfeld (3600 prisonniers), <a href="camp-hammelburg.php" title="lien vers la page consacrée au camp de Hammelburg">le camp de Hammelburg</a> (4470 prisonniers) et enfin celui de <a href="camp-grafenwohr.php" title="lien vers la page consacrée au camp de Grafenwohr">Grafenwöhr </a>(10500 prisonniers).</p>
 
 <figure>
     <a href="images/Lechfeld-cpa-02.jpg" id="single_image" title="Des prisonniers français à Lechfeld">

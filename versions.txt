@@ -116,7 +116,7 @@ Mise en ligne
 21 juillet 2015 (mise à jour n°15)
 ----------------------------------
 
-- ajout d'un § sur les pages consacrées à Louis Abraham CARLIER, Druon Joseph CARLIER, Edouard CARIN, Emile DUBOIS et Jules BOURSIER
+- ajout d'un § sur les pages consacrées à Louis Abraham CARLIER, Druon Joseph CARLIER, Edouard CARIN, Émile DUBOIS et Jules BOURSIER
 
 22 juillet 2015 (mise à jour n°16)
 ----------------------------------
@@ -138,7 +138,7 @@ Mise en ligne
 - debut de "responsivation" du site. Pour l'instant tout est en comm' dans le fichier CSS.
 - modification de la balise meta description pour Ernest BALTAZART
 
-03 aout 2015 (mise à jour n°19)
+03 août 2015 (mise à jour n°19)
 -------------------------------
 
 - ajout d'une CPA sur la page de Firmin MICHEL
@@ -147,29 +147,29 @@ Mise en ligne
 Mise en ligne
 -------------
 
-04 aout 2015 (mise à jour n°20)
+04 août 2015 (mise à jour n°20)
 -------------------------------
 
 - petite retouche de la couleur du background dans le header : le fond du titre n'était pas de la même couleur
 
-05 aout 2015 (mise à jour n°21)
+05 août 2015 (mise à jour n°21)
 -------------------------------
 
 - préparation et envoi du sitemap à Google.
 - 33 URL envoyés et 25 dans l'index.
 
-17 aout 2015 (mise à jour n°22)
+17 août 2015 (mise à jour n°22)
 -------------------------------
 
 - changement dans les balises <méta> et <title> pour essayer d'améliorer le référencement naturel
 
-18 aout 2015 (mise à jour n°23)
+18 août 2015 (mise à jour n°23)
 -------------------------------
 
 - dans webmaster tools, rubrique "Améliorations HTML", il y a quelques erreurs. Résolutions.
 - dans les sources mise en garde sur le fait que les pdf peuvent être long à charger.
 
-19 aout 2015 (mise à jour n°24)
+19 août 2015 (mise à jour n°24)
 -------------------------------
 
 - ajout des morts pour la France de Sebourg commençant par F
@@ -185,29 +185,29 @@ Mise en ligne
 			- Münster (-> I II et III ????)
 			- Würzburg
 
-20 aout 2015 (mise à jour n°25)
+20 août 2015 (mise à jour n°25)
 -------------------------------
 
 - ajout du texte et d'une video sur la page qui explique ce qu'est un cookie. A FINIR
 
-24 aout 2015 (mise à jour n°26)
+24 août 2015 (mise à jour n°26)
 -------------------------------
 
 - suite de l'intégration de la rubrique "camps"
 - ajout de photos et de cpa pour les différents camps
 
-25 aout 2015 (mise à jour n°27)
+25 août 2015 (mise à jour n°27)
 -------------------------------
 
 - ajout de photos et de cpa pour les différents camps
 
-26 aout 2015 (mise à jour n°30)
+26 août 2015 (mise à jour n°30)
 -------------------------------
 
 - ajout d'une partie des morts pour la France de Lourches commençant par la lettre B.
 - ajout du camp de Schneidemühl
 
-27 aout 2015 (mise à jour n°30)
+27 août 2015 (mise à jour n°30)
 -------------------------------
 
 - ajout de photos et de cpa pour les différents camps
@@ -215,7 +215,7 @@ Mise en ligne
 - toutes les occurences de Friedrichfeld ont été remplacées par Friedrichsfeld afin de rétablir la bonne orthographe
 - toutes les occurences de Frafenwohr ont été remplacées par Grafenwohr afin de rétablir la bonne orthographe
 
-28 aout 2015 (mise à jour n°31)
+28 août 2015 (mise à jour n°31)
 -------------------------------
 
 - ajout des "zooms" sur les photos des camps de prisonniers
@@ -224,7 +224,7 @@ Mise en ligne
 
 Google Webmaster Tools: 33 URL envoyés et 32 dans l'index.
 
-31 aout 2015 (mise à jour n°32)
+31 août 2015 (mise à jour n°32)
 -------------------------------
 
 - ajout de l'attribut alt sur les images pour le référencement naturel (page Chemnitz)
@@ -341,7 +341,7 @@ http://www.lwl.org/westfaelische-geschichte/portal/Internet/input_felder/langDat
 - ajout de $ expliquant le parcours du régiment de Léon CARIN.
 - ajout de l'historique du 153e R.I
 - ajout d'un paragraphe sur les territoriaux sur la page de Nöel JOLY
-- ajout de la photo du monument aux morts d'Onnaing sur la page de Jules Henri BOURSIER
+- ajout de la photo du Monument aux Morts d'Onnaing sur la page de Jules Henri BOURSIER
 - ajout d'un § sur le parcours du 12e Bataillon de chasseurs sur la page consacrée à Louis Henri ROUSSEAUX
 
 30 septembre 2015
@@ -352,7 +352,7 @@ http://www.lwl.org/westfaelische-geschichte/portal/Internet/input_felder/langDat
 2 octobre 2015
 --------------
 
-- grosse mise à jour de la page consacrée à DUBOIS Emile Edmond + qq cpa pour illustrer un peu
+- grosse mise à jour de la page consacrée à DUBOIS Émile Edmond + qq cpa pour illustrer un peu
 - Sur la page consacrée à ROUSSEAUX Louis -> ajout de la date de décès de Louis !
 
 8 octobre 2015
@@ -485,5 +485,5 @@ TODO
 - Ajouter la liste des mpf de Saint-Hilaire-le-Petit
 - Ajouter la liste des mpf de Lille ??? LOL
 - Ajouter la liste des mpf de Roubaix ??? LOL aussi ^^ c’est pour LETIENNE Florimond
-- Voir pour empêcher les visiteurs d’accéder à un répertoire (comme par exemple relevés)
+- Voir pour empêcher les visiteurs d’accéder à un répertoire (exemple relevés)
 - En cherchant Sebourg sur http://www.1418europeana.fr/ , il y a une photo du Sebourg Chateau "near Valenciennes, which was the King's headquarters. 5 December 1918. The Guard was provided by the P.P.C.L.I."

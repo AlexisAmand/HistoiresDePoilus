@@ -11,9 +11,7 @@
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-   
-
-                
+               
 </head>
 
 <body>
@@ -67,7 +65,7 @@
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Emile Edmond (+)</a></li>
+        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
@@ -78,10 +76,9 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="rousseaux-eugene.php">ROUSSEAUX Eugène</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php" class="AsideSelected">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">A venir</a></li>
+        <li><a href="autres.php">Autres poilus</a></li>
    </ul>
    
       <div id="pubaside">
@@ -115,7 +112,7 @@
 
 <br/><h4>Adrien et le Ier R.I</h4>
 
-<p>A la mobilisation, <strong>Adrien VELU</strong> rejoint le <strong>1er Régiment d'Infanterie</strong> en tant que soldat de 2e classe. Le régiment part de Cambrai par voie férrée dès le 5 aout et arrive à Rumigny le même jour. Le 1er R.I s&#39;est illustré en Argonne, à Verdun, au Chemin des Dames, dans la Somme, dans l&#39;Aisne et pendant la Bataille de la Marne.</p> 
+<p>A la mobilisation, <strong>Adrien VELU</strong> rejoint le <strong>1er Régiment d'Infanterie</strong> en tant que soldat de 2e classe. Le régiment part de Cambrai par voie ferrée dès le 5 août et arrive à Rumigny le même jour. Le 1er R.I s&#39;est illustré en Argonne, à Verdun, au Chemin des Dames, dans la Somme, dans l&#39;Aisne et pendant la Bataille de la Marne.</p> 
     
 <figure>
     <a href="images/Assaut-chemin-des-dames.jpg" id="single_image" title="Soldats français sur le Chemin des Dames">
@@ -137,7 +134,7 @@
     <figcaption>Adrien VELU, mort pour la France<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<p>Apolline BRIOT, sa veuve, reçoit la somme de 150 francs. Son nom est sur le monument aux morts de Villers-Guislain mais son corps repose au carré militaire de l'est du cimetière communal de Châlons-en-Champagne.</p>
+<p>Apolline BRIOT, sa veuve, reçoit la somme de 150 francs. Son nom est sur le Monument aux Morts de Villers-Guislain mais son corps repose au carré militaire de l'est du cimetière communal de Châlons-en-Champagne.</p>
 
 <figure>
     <a href="../images/cimetiere-communal.jpg" id="single_image" title="Le cimetière militaire de Châlons-sur-Marne">

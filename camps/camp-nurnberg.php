@@ -102,12 +102,12 @@
 
 <h1>Le camp de prisonniers de Nuremberg</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
-    <p>Le premier numéro du Canard, le &quot;<em>Journal des Prisonniers de Guerre</em>&quot; du camp de Nürmberg (Nuremberg) paraît le 15 aout 1916. Le journal est décrit comme un compagnon qui vivra avec les prisonniers les longues heures de l&#39;exil, dans l&#39;espoir de les faire s&#39;envoler un peu plus rapidement. Des numéros ont été numérisés et sont <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5673638t">disponibles sur le site de la BNF</a>.</p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
+    <p>Le premier numéro du Canard, le &quot;<em>Journal des Prisonniers de Guerre</em>&quot; du camp de Nürmberg (Nuremberg) paraît le 15 août 1916. Le journal est décrit comme un compagnon qui vivra avec les prisonniers les longues heures de l&#39;exil, dans l&#39;espoir de les faire s&#39;envoler un peu plus rapidement. Des numéros ont été numérisés et sont <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5673638t">disponibles sur le site de la BNF</a>.</p>
 
 
 <figure>
-    <a href="images/Nurnberg/le_canard_journal_des_prisonniers.jpg" id="single_image" title="Le Canard du 15 aout 1916">
+    <a href="images/Nurnberg/le_canard_journal_des_prisonniers.jpg" id="single_image" title="Le Canard du 15 août 1916">
     <img src="miniatures/Nurnberg/le_canard_journal_des_prisonniers.jpg" alt="Le premier exemplaire du canard, journal des prisonniers du camp de Nurmberg">
     </a>
     <figcaption>Le Canard<br />(Source: Gallica/BNF)</figcaption>

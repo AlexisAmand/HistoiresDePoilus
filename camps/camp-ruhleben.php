@@ -100,25 +100,25 @@
 
 <h1>Le camp de prisonniers de Ruhleben</h1>
 
-<p>Ce camp était situé à Ruhleben, prés de Spandau, à 10km à l'ouest de Berlin. Il ne s'agissait pas d'un camp de prisonniers militaires mais de civils, pour la plupart des alliés, qui travaillaient, étudiaient ou étaient en vacances en Allemagne au moment du déclanchement du conflit.</p>
+<p>Ce camp était situé à Ruhleben, prés de Spandau, à 10km à l'ouest de Berlin. Il ne s'agissait pas d'un camp de prisonniers militaires mais de civils, pour la plupart des alliés, qui travaillaient, étudiaient ou étaient en vacances en Allemagne au moment du déclenchement du conflit.</p>
 
-<p>Le "Journal du Collectionneur de Timbres" n°4330 daté du 1 aout 1916 estime à 4000 ou 5000 le nombre de prisonniers anglais présents dans le camp de Ruhleben. Il précise également qu'ils sont internés dans 8 grandes baraques. Toujours selon la même source, les anglais auraient même réussi à supporter l'épreuve en se donnant l'illusion d'être en villegiature dans un coin perdu de la Grande-Bretagne. A la même époque, un rapport de l'Ambassadeur des Etats-Unis à Berlin est quant à lui alarmant. Il dépeint en effet la situation comme intolérable en décrivant des civils entassés à 64 dans des écuries de 10 m sur 13, dans une obscurité ne permettant même pas de lire. Il décrit également un système de chauffage inadapté et des prisonniers ne pouvant même pas sécher leurs vêtements entre deux appels sous la pluie.<p>
+<p>Le "Journal du Collectionneur de Timbres" n°4330 daté du 1 août 1916 estime à 4000 ou 5000 le nombre de prisonniers anglais présents dans le camp de Ruhleben. Il précise également qu'ils sont internés dans 8 grandes baraques. Toujours selon la même source, les Anglais auraient même réussi à supporter l'épreuve en se donnant l'illusion d'être en villégiature dans un coin perdu de la Grande-Bretagne. A la même époque, un rapport de l'Ambassadeur des Etats-Unis à Berlin est quant à lui alarmant. Il dépeint en effet la situation comme intolérable en décrivant des civils entassés à 64 dans des écuries de 10 m sur 13, dans une obscurité ne permettant même pas de lire. Il décrit également un système de chauffage inadapté et des prisonniers ne pouvant même pas sécher leurs vêtements entre deux appels sous la pluie.<p>
 
 <figure>   
     <a href="images/Ruhleben/Ruhleben-01.jpg" title="">    
     <img src="miniatures/Ruhleben/Ruhleben-01.jpg" id="single_image" alt=""></a>
-    <figcaption>Des anglais à Ruhleben<br/>(source: BNF - Gallica et La Guerre Mondiale : bulletin quotidien illustré)</figcaption>
+    <figcaption>Des Anglais à Ruhleben<br/>(source: BNF - Gallica et La Guerre Mondiale : bulletin quotidien illustré)</figcaption>
 </figure>    
 
 <p>Le 27 juillet 1915, le journal "La Croix" raconte que deux anglais, l'un correspondant de l'agence Reuters, l'autre du Daily Chronicle, se sont évadés du camp allemand de Ruhleben et viennent d'arriver en territoire hollandais.</p>
 
-<p>Dès le 15 aout 1915, et à l'initiative d'un prisonnier anglais nommé KAMPS, les autorités allemandes mettent en place 24 boîtes aux lettres réparties à travers le camps, ainsi qu'un bureau de poste (le Post Office R. X. D.) situé à côté du corps de garde. Cette poste privée, exclusivement réservée à un usage à l'intérieur du camp, a pour but la simplication de la distribution du courrier aux prisonniers qui n'ont plus besoin d'aller le chercher eux mêmes.</p>
+<p>Dès le 15 août 1915, et à l'initiative d'un prisonnier anglais nommé KAMPS, les autorités allemandes mettent en place 24 boîtes aux lettres réparties à travers le camps, ainsi qu'un bureau de poste (le Post Office R. X. D.) situé à côté du corps de garde. Cette poste privée, exclusivement réservée à un usage à l'intérieur du camp, a pour but la simplification de la distribution du courrier aux prisonniers qui n'ont plus besoin d'aller le chercher eux mêmes.</p>
 
 <h4>Sources et bibliographie</h4>
 
 <ul>
     <li>La Lanterne du 27 juillet 1916 (disponible sur Gallica)</li>
-    <li>Le Collectionneur de Timbres du 1 aout 1916 (disponible sur Gallica)</li>
+    <li>Le Collectionneur de Timbres du 1 août 1916 (disponible sur Gallica)</li>
     <li>La Croix du 27 juillet 1915 (disponible sur Gallica)</li>
     <li>La Guerre Mondiale : bulletin quotidien illustré (disponible sur Gallica)</li>
 </ul>    

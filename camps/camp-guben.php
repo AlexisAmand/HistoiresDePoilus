@@ -100,7 +100,7 @@
 
 <h1>Le camp de prisonniers de Guben</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p>
 
 <p>Le nombre de prisonniers belge dans ce camp est passé de 12 à la fin de l'année 1917 à 1 au mois de juin 1918.</p>
 

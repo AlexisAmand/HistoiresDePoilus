@@ -108,7 +108,7 @@
 
 <figure>
     <a href="images/monument-anzin.jpg" id="single_image" title="Le monument aux Morts d'Anzin">
-    <img src="images/mini/monument-anzin.jpg" alt="le monument aux morts dans le cimetière d'Anzin sur une carte postale ancienne"/>
+    <img src="images/mini/monument-anzin.jpg" alt="le Monument aux Morts dans le cimetière d'Anzin sur une carte postale ancienne"/>
     </a>
     <figcaption>Le Monument aux Morts de la guerre 1914-1918<br />(cliquez pour agrandir)</figcaption>
 </figure>
@@ -146,7 +146,7 @@
   </tr>
   <tr>
     <td>AUBRETON<br />Lucien Louis</td>
-    <td>le 5 aout 1889<br />à Anzin (59)</td>
+    <td>le 5 août 1889<br />à Anzin (59)</td>
     <td>mars 1915<br />à Mesnil-les-Hurlus (51)</td>
     <td>18e B.C.P</td>
     <td>tué à l'ennemi</td>
@@ -168,7 +168,7 @@
   <tr>
     <td>BARMARIN<br />François Eugène Louis </td>
     <td>le 26 février 1885<br />à Anzin (59)</td>
-    <td>le 30 aout 1914<br />à Franqueville (02)</td>
+    <td>le 30 août 1914<br />à Franqueville (02)</td>
     <td>327e R.I</td>
     <td>tué à l'ennemi</td>
   </tr>
@@ -251,7 +251,7 @@
   </tr>
   <tr>
     <td>BLANCHAR<br />Jean-Baptiste </td>
-    <td>Le 17 aout 1890<br />à Valenciennes (59)</td>
+    <td>Le 17 août 1890<br />à Valenciennes (59)</td>
     <td>Le 29 septembre 1914<br />à La Chalade (Meuse)</td>
     <td>18e B. C. P.</td>
     <td>&nbsp;</td>
@@ -279,14 +279,14 @@
   </tr>
   <tr>
     <td>BONNEREAU<br />Marcel</td>
-    <td>Le 20 aout 1896<br />à Fourmies (Nord)</td>
-    <td>Le 2 aout 1917<br />à Het-Sas (Belgique)</td>
+    <td>Le 20 août 1896<br />à Fourmies (Nord)</td>
+    <td>Le 2 août 1917<br />à Het-Sas (Belgique)</td>
     <td>233e R.I</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>BORDEAU<br />Henri</td>
-    <td>Le 1er aout 1880<br />à Anzin</td>
+    <td>Le 1er août 1880<br />à Anzin</td>
     <td>Le 20 novembre 1914<br />à Saint-Hubert (Marne)</td>
     <td>91e R.I</td>
     <td>&nbsp;</td>
@@ -320,7 +320,7 @@
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td>BOULOGNE<br />Emile</td>
+    <td>BOULOGNE<br />Émile</td>
     <td>Le 7 janvier 1893<br />à Anzin</td>
     <td>Le 23 mars 1918<br />au Bois des Frières (Aisne)</td>
     <td>9e R.C</td>
@@ -341,7 +341,7 @@
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td>BOUTELIER<br />Emile</td>
+    <td>BOUTELIER<br />Émile</td>
     <td>Le 8 novembre 1884<br />à Bruay-Sur-Escaut (Nord)</td>
     <td>Le 16 juin 1915<br />à Quennevières (Oise)</td>
     <td>148e R.I</td>

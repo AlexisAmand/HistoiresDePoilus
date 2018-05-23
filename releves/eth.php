@@ -105,7 +105,7 @@
     <p>Voici la liste des morts pour la France  de Eth (Nord) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit commentaire</a>.</p>
     
     <figure>
-        <img src="images/mini/monument-eth.jpg" alt="Le monument aux morts pour la France à Eth">
+        <img src="images/mini/monument-eth.jpg" alt="Le Monument aux Morts pour la France à Eth">
         <figcaption>Le Monument aux Morts d'Eth,<br />dans le petit cimetière.</figcaption>
     </figure>
 
@@ -179,9 +179,9 @@
     <td>&nbsp;</td>
     </tr>
   <tr>
-    <td>PORTIER<br />Julien Emile</td>
+    <td>PORTIER<br />Julien Émile</td>
     <td>Le 28 janvier 1893<br />à Eth (Nord)</td>
-    <td>Le 23 aout 1914<br />à St-Gérard (Fosse)<br />(Belgique)</td>
+    <td>Le 23 août 1914<br />à St-Gérard (Fosse)<br />(Belgique)</td>
     <td>43e R.I</td>
     <td>Tué à l&#39;ennemi</td>
     </tr>

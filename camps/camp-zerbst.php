@@ -98,11 +98,9 @@
 
 <h1>Le camp de Zerbst</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention &quot;source allemande&quot;, cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p>
     
-<p>Ce camp était situé à Zerbst, une ville d'Allemagne située dans le land actuel de Saxe-Anhalt.</p>
-    <p>Le 28 juin 1917, les membres du comité de secours &quot;Franco-Belge&quot; sont incarcérés pendant 106 jours à la prison de Gommen. Ils sont accusés d&#39;avoir transmis un document de la Kommandantur à la France. Le 11 octobre 1917, ils sont envoyés au camp de Alten-Grabow. Parmi les 106 coupables désignés par les allemands figure deux belges: le premier maréchal des logis de gendarmerie COGNIAUX et le caporal LESQUOIS, originaire de Sommethonne-les-Virton.</p>
-
+<p>Ce camp était situé à Zerbst, une ville d'Allemagne située dans le land actuel de Saxe-Anhalt.</p><p>Le 28 juin 1917, les membres du comité de secours &quot;Franco-Belge&quot; sont incarcérés pendant 106 jours à la prison de Gommen. Ils sont accusés d&#39;avoir transmis un document de la Kommandantur à la France. Le 11 octobre 1917, ils sont envoyés au camp de Alten-Grabow. Parmi les 106 coupables désignés par les Allemands figure deux belges: le premier maréchal des logis de gendarmerie COGNIAUX et le caporal LESQUOIS, originaire de Sommethonne-les-Virton.</p>
 
 <figure>
     <a href="images/Zerbst/zerbst-01.jpg" id="single_image" title="Vue du camp de Zerbst">

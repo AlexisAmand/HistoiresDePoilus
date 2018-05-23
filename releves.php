@@ -128,10 +128,10 @@
 <p>R.I - Régiment d'Infanterie</p>
 <p>R.I.T - Régiment d'Infanterie Territoriale</p>
 <p>R.M.Z - Régiment de Marche des Zouaves</p>
-    <p>R.T - Régiment de Tirailleurs</p>
+<p>R.T - Régiment de Tirailleurs</p>
 <p>R.Z - Régiment de Zouaves</p>
 <p>S.C.F.C - Section de Chemin de Fer de Campagne</p>
-<p>S.I.M - Section d'infirmiers millitaires</p>
+<p>S.I.M - Section d'infirmiers militaires</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -139,7 +139,7 @@
 
 <p>- <a href="http://monumentsmorts.univ-lille3.fr">http://monumentsmorts.univ-lille3.fr</a></p>
 <p>- Livres d&#39;or des morts pour la France (Archives Nationales)</p>
-<p>- Mémoires des hommes</p>
+<p>- Mémoires des Hommes</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -159,35 +159,7 @@
     <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
 </footer>
 
-<!-- Piwik -->
-<script type="text/javascript">
-var _paq = _paq || [];
-_paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-_paq.push(['trackPageView']);
-_paq.push(['enableLinkTracking']);
-(function() {
-var u="//www.genealexis.fr/piwik/";
-_paq.push(['setTrackerUrl', u+'piwik.php']);
-_paq.push(['setSiteId', 4]);
-var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-})();
-</script>
-<noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
-<!-- End Piwik Code -->
-
-
-
-<!-- Google Ana -->
-
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-11509906-21', 'auto');
-ga('send', 'pageview');
-</script>   
+<?php include('include/stats.inc'); ?>
 
 <!-- javascript -->
 

@@ -63,7 +63,7 @@
         <li><a href="CARIN-Theophile.php" >CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Emile Edmond (+)</a></li>
+        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
@@ -74,10 +74,9 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="rousseaux-eugene.php">ROUSSEAUX Eugène</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">A venir</a></li>
+        <li><a href="autres.php">Autres poilus</a></li>
    </ul>
    
     <div id="pubaside">
@@ -106,7 +105,7 @@
     <figcaption>Les ascendants d'Ernest Auguste BALTAZART<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<p>Selon le recensement effectué en 1901, Ernest excerce la profession de rattacheur à l&#39;usine Oudin et frères. Une nouvelle usine a été construite par les frères Oudin vers 1870, en plus de l&#39;usine de filature qu&#39;ils possédaient déjà sur la commune de Bétheniville depuis 1832. L&#39;usine est complétement détruite pendant la Première Guerre Mondiale. L&#39;usine de Martelet est reconstuite dans les années 20.</p>
+<p>Selon le recensement effectué en 1901, Ernest exerce la profession de rattacheur à l&#39;usine Oudin et frères. Une nouvelle usine a été construite par les frères Oudin vers 1870, en plus de l&#39;usine de filature qu&#39;ils possédaient déjà sur la commune de Bétheniville depuis 1832. L&#39;usine est complétement détruite pendant la Première Guerre Mondiale. L&#39;usine de Martelet est reconstruite dans les années 20.</p>
 
 <figure>
     <a href="images/usine-oudin.jpg" id="single_image" title="L'usine Oudin à Bétheniville">
@@ -132,7 +131,7 @@
 
 <h4>Ernest et la campagne contre l'Allemagne</h4>
 
-<p>Comme la plupart des jeunes hommes de sa génération, <strong>Ernest Auguste BALTAZART</strong> est rappelé à l&#39;activité par le décret de mobilisation générale d&#39;aoùt 1914 et il rejoint quelques jours plus tard le <strong>46e Régiment d'Infanterie Territoriale</strong>. Il est libéré le 2 sept 1914 en attendant d&#39;être rappelé le 10 avril 1915 et placé en surcis d'appel provisoire le dit jour aux Forges et Aciéries de Saint Etienne (Usine du Marais).</p>
+<p>Comme la plupart des jeunes hommes de sa génération, <strong>Ernest Auguste BALTAZART</strong> est rappelé à l&#39;activité par le décret de mobilisation générale d'août 1914 et il rejoint quelques jours plus tard le <strong>46e Régiment d'Infanterie Territoriale</strong>. Il est libéré le 2 sept 1914 en attendant d&#39;être rappelé le 10 avril 1915 et placé en sursis d'appel provisoire le dit jour aux Forges et Aciéries de Saint Etienne (Usine du Marais).</p>
 
 <figure>
     <a href="images/saint-etienne-marais.jpg" id="single_image" title="Les Aciéries de Saint-Etienne">
@@ -140,15 +139,24 @@
     <figcaption>Les aciéries de Saint-Etienne<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
+<p>Le journal "Le Monde Illustré" du 15 juillet 1922 précise que cette société poursuit, après la Grande Guerre, sa réorganisation en vue des fabrications du temps de paix, telles que les tôles pour construction et pour chaudiéres, fonds emboutis et foyers ondulés, les aciers laminés divers et aciers spéciaux, les roues montées, pièces de forge, moulages d'acier. Il indique également qu'elle a toujours maintenu ces fabrications concurrement avec les fabrications de blindages, obus, éléments de canons, réservoirs d'air pour torpilles, qui constituaient dans l'avant-guerre une grande partie de son activité et qui lui ont permis, au cours des hostilités, de rendre d'immédiats et puissants services services à la Défense Nationale.</p>
+
 <figure>
-    <a href="images/mobilisation.jpg" id="single_image" title=" ">
-    <img src="miniatures/mobilisation.jpg" alt=" "/></a>
+    <a href="images/usine-marais.jpg" id="single_image" title="Les Aciéries du MArais à Saint-Etienne">
+    <img src="miniatures/usine-marais.jpg" alt="Les aciéries de Saint-Etienne au Marais"/></a>
+    <figcaption>Les aciéries du "Marais" de Saint-Etienne<br />(cliquez pour agrandir)</figcaption>
+</figure>
+
+<figure>
+    <a href="images/mobilisation.jpg" id="single_image" title="Le décret de mobilisation générale">
+    <img src="miniatures/mobilisation.jpg" alt="Le décret de mobilisation générale publié en Août 1914"/></a>
     <figcaption>Le décret de mobilisation générale<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
 <h4>Sources et bibliographie</h4>
     
     <ul>
+        <li>"Le Monde Illustré" du 15 juillet 1922</li>
     	<li><a href="../pdf/matricule-baltazart-ernest.pdf" title="Fiche matricule d'Ernest Auguste BALTAZART">Fiche matricule d'Ernest Auguste BALTAZART</a></li>
         <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>
        

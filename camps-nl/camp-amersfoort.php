@@ -105,7 +105,7 @@ Durant la Seconde Guerre Mondiale, un camp de concentration sera installé le lo
 
 <p style="font-size:12px;">
 <sup>2</sup>
-La traduction de l'article du Telegraph est parue dans "Le Droit des peuples : organe d'action socialiste nationale et internationale et de défense des réfugiés alsaciens, lorrains, belges, français" du 2 aout 1918. 
+La traduction de l'article du Telegraph est parue dans "Le Droit des peuples : organe d'action socialiste nationale et internationale et de défense des réfugiés alsaciens, lorrains, belges, français" du 2 août 1918. 
 </p>
 
 <p class="sources">
