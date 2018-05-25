@@ -126,12 +126,12 @@
 
     <li><strong>Augustin HANZE</strong> est né Coulsore (Nord) le 6 février 1886. Le 5 mars 1910, il épouse à Valenciennes Berthe DUSART, la cousine germaine d'<a href="FONTAINE-Henri-Gustave.php">Henri Gustave FONTAINE</a> (mon arriére-arriére-grand-pére). Rappelé à l'activité par le décrét de Mobilisation Générale du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'hôpital temporaire n°5 de Verdun. Son nom figure sur le Monument aux Morts de Coulsore (où il était né) et sur les plaques commémoratives du square de l’Armistice à Carcassonne (où il était serrurier).<br /><br /></li>
 
-	<li><strong>Jules MAGNY</strong>, né le 18 août 1892 à Onnaing (Nord). Le 6 septembre 1916, soldat mitrailleur, il a,  par son calme et la précision de son tir, entravé une tentative de contre attaque allemande. Nommé caporal le 5 décembre 1917, il est ensuite prisonnier de guerre du 31 mai au 14 décembre 1918. Il était titulaire de la croix de guerre avec étoile de bronze, de la médaille commémorative et de la médaille interalliée.<br /><br /></li>
+	<li><strong>Jules MAGNY</strong>, né le 18 août 1892 à Onnaing (Nord). Le 6 septembre 1916, soldat mitrailleur, il a,  par son calme et la précision de son tir, entravé une tentative de contre attaque allemande. Nommé caporal le 5 décembre 1917, il est ensuite prisonnier de guerre du 31 mai au 14 décembre 1918. Il était titulaire de la croix de guerre avec étoile de bronze, de la médaille commémorative et de la médaille interalliée. Abel, le frére de Jules MAGNY, épouse la fille de <a href="JOLY-Noel-Jules.php">Noël Jules JOLY</a>.<br /><br /></li>
 
 	<li><strong>Druon Adrien PATOU</strong> est né le 31 mars 1885 à Sebourg (Nord), et est le cousin germain de <a href="CARLIER-Druon-Joseph.php">Druon Joseph CARLIER</a> et <a href="CARLIER-Louis-Abraham.php">Louis Abraham CARLIER</a>. Je n'ai pas encore pu trouver sa fiche matricule car beaucoup de fiches sont manquantes pour l'année 1905 au bureau de Valenciennes.
     <br /><br /></li>
 
-    <li><strong>Eugène Fernand ROUSSEAUX</strong>, né en 1891 à Roubaix (Nord) et prisonnier de guerre au camp de <a href="../camps/camp-hammerstein.php">Hammerstein</a> puis à celui de <a href="../camps/camp-minden.php">Minden</a>. Eugène est le petit-fils de Léonie FIEVET (ma sosa n°97)<br /><br /></li>
+    <li><strong>Eugène Fernand ROUSSEAUX</strong>, né en 1891 à Roubaix (Nord) et prisonnier de guerre au camp de <a href="../camps/camp-hammerstein.php">Hammerstein</a> puis à celui de <a href="../camps/camp-minden.php">Minden</a>. Eugène est le petit-fils de Léonie FIEVET (ma sosa n°97), et le cousin de <a href="FIEVET-Charles-Augustin.php">Charles</a> et <a href="FIEVET-Auguste-Victor.php">Auguste FIEVET</a> (par contre, ils n'ont que 3 de leurs 4 grand-parents en commun car Léonie a eu des enfants avec 2 hommes différents)<br /><br /></li>
 
 </ul>
 
@@ -147,7 +147,23 @@
 
     <li><strong>Alexandre Ernest MAILLART</strong> est né le 23 juillet à Bétheniville, petit-fils de mon aïeule Julie Joséphine KRAUTH via Julie Adèle BALTAZART. Il est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des sections de chemins de fer de campagne du 2 août 1914 au 5 janvier 1919.<br /><br /></li>
 
-    <li><strong>Léopold PAQUET</strong>, né le 5 décembre 1886 à Reims (Marne), beau-frère de mon aïeul Robert ARNOULD (sosa n°14). Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 août 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 août 1917 pour paralysie radiale du bras gauche. <br /><br /></li>
+    <li><strong>Léopold PAQUET</strong> est né le 5 décembre 1886 à Reims (Marne). Le 20 juin 1914, il épouse à Bétheniville Marie Hélène ARNOULD, la soeur de mon arriére-grand-pére. Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 août 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 août 1917 pour paralysie radiale du bras gauche. Il est décédé à Bétheniville le 10 octobre 1953.<br /><br /></li>
+
+</ul>
+
+<p></p>
+
+<h4>Les jasses de Belgique</h4>
+
+<ul>   
+
+    <li><strong>Jules AMAND</strong> est né à Boussu (Belgique) le 24 novembre 1880, fils de Jules AMAND et antoinette AMAND. Soldat de 2e classe et milicien au sein du 9e Régiment de Ligne pendant la Grande Guerre sous le matricule 109/54524. Sa fiche sepulture indique qu'il est probable qu'il soit tombé au combat le 6 aout 1914 au Bois Saint-Jean à Ougrée (prés de Liége) étant entendu que son livret de mobilisation a été retrouvé sur le champ de bataille de cette commune. L'ancêtre que j'ai en commun avec lui est Jean Joseph AMAND, mon sosa n°256, 8 générations avant moi.</li>
+
+    <figure>
+    <a href="images/ougree.jpg" id="single_image" title="Carte d'ancien combattant d'Oscar DELAUX">
+    <img src="miniatures/ougree.jpg" alt="Carte du combattant d'Oscar DELAUX"/></a>
+    <figcaption>Jules sur le monument d'Ougrée<br> (Source: <a href="http://www.bel-memorial.org">Bel-Memorial</a>)</figcaption>
+    </figure>
 
 </ul>
 

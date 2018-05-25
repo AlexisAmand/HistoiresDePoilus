@@ -3,8 +3,8 @@
         <head>
             <meta charset="utf-8">
           
-            <title>Les batailles du front de l'Europe de l'Ouest pendant la Grande Guerre - Histoires de Poilus</title>
-            <meta content="Liste des batailles qui se sont déroulées sur le front de l'Europe de l'Ouest pendant Première Guerre Mondiale (1914-1918)." name="description">
+            <title>Les batailles pendant la Grande Guerre - Histoires de Poilus</title>
+            <meta content="Liste des batailles qui se sont déroulées pendant Première Guerre Mondiale (1914-1918)." name="description">
   
             <link rel="stylesheet" href="css/style.css">    
             <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -62,6 +62,15 @@
         <section>
 
 	        <article>
+
+            <h1>Les batailles de la Grande Guerre</h1>
+
+            <a href="batailles/batailles-est.php">L'Europe de l'Est</a><br />
+			<a href="lieux.php">L'Europe de l'Ouest</a><br />
+			<a href="batailles/batailles-italie.php">Le Front Italien</a><br />
+			<a href="batailles/batailles-afrique.php">Le Front Africain</a><br />
+			<a href="batailles/batailles-orient.php">Le Front du Moyen-Orient</a><br />
+			<a href="batailles/batailles-balkans.php">Le Front des Balkans</a>
                                                                  
 			<p class="sources">
 			<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
