@@ -77,7 +77,10 @@
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus</a></li>
+        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
+        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="soldats-belgique.php">Les soldats du Belgique</a></li>
    </ul>
    
     <div id="pubaside">
@@ -116,7 +119,7 @@
     <figcaption>La Rue des Longues Haies et le Mont de Piété (Roubaix)<br /> (source : Bibliothèque Numérique de Roubaix)</figcaption>
 </figure>   
     
-<br/><h4>Florimond et la Grande Guerre</h4>
+<br/><h2>Florimond et la Grande Guerre</h2>
     
 <p>Suite à la mobilisation, il arrive au corps le 2 août 1914 (peut-être le <strong>27e Régiment d'Artillerie</strong>). Ensuite, il passera successivement par le <strong>6e Régiment d'Artillerie à Pied</strong> (le 21 septembre 1915), le <strong>7e Régiment d'Artillerie</strong> à Pied (le 1 mars 1916), le <strong>11e Régiment d'Artillerie à Pied</strong> (le 25 décembre 1917) et enfin le <strong>13e Régiment d'Artillerie de Campagne</strong> (le 10 mars 1918).</p>
 
@@ -127,7 +130,7 @@
     <figcaption>Carte d'ancien combattant ayant appartenu à Florimond<br /> (source : Archives Départementales du Nord)</figcaption>
 </figure>   
 
-<br /><h4>Sources et bibliographie</h4>
+<br /><h2>Sources et bibliographie</h2>
     
     <ul>
     	

@@ -68,7 +68,10 @@
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus</a></li>
+        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
+        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="soldats-belgique.php">Les soldats du Belgique</a></li>
    </ul>
    
       <div id="pubaside">
@@ -110,7 +113,7 @@
 
 <p>Le 13 avril 1903, <strong>Druon</strong> épouse à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> Angèle DANHIEZ (1880-1969). Le couple aura 3 enfants: Maria Antoinette (née en 1904), mon arrière-grand-mère Lucia (née en 1905), et Lucien dont j'ignore la date de naissance. Lucia épouse Noël JOLY, le fils de <a href="JOLY-Noel-Jules.php">Noel Jules JOLY</a>,  le 24 septembre 1927 à Onnaing.</p>
 
-<br/><h4>La mobilisation d'août 1914</h4>
+<br/><h2>La mobilisation d'août 1914</h2>
 
 <p>Mobilisation générale !</p>
 
@@ -123,7 +126,7 @@
 
 <p>Âgé de 38 ans, <strong>Druon Joseph </strong> est mobilisé et rejoint la 12e compagnie du 3e bataillon du <strong>2e Régiment d'Infanterie Territoriale</strong> en tant que soldat de 2e classe. Le 2e R.I.T a fait partie des troupes de la défense du Camp retranché de Maubeuge, sous les ordres du Général FOURNIER, Gouverneur. Mobilisé le 3 août 1914 à Valenciennes et à Condé-sur-Escaut, ses 4192 hommes ont été transportés dans la nuit du 4 au 5 à Maubeuge. Ils étaient répartis en 4 bataillons:  Le 2e Secteur de défense, commandé par le Colonel du Génie GUéRANDEL était composé des 1er et 2e bataillon à Ferrière-la-Grande et du 3e bataillon à Ferrière-la-Petite. Le 4e Secteur de défense était commandé par le Général du Génie WILLE et composé du 4e Bataillon à Pont-Allan, puis à Elesmes. (voir aussi la page consacrée à <a href="JOLY-Noel-Jules.php">Noël Jules JOLY</a>)</p>
 
-<br/><h4>La chute de l'ouvrage permanent de Ferrière-la-Petite</h4>
+<br/><h2>La chute de l'ouvrage permanent de Ferrière-la-Petite</h2>
 
 <p>La 12e compagnie, dont fait partie <strong>Druon</strong>, est la garnison d'infanterie de l'ouvrage permanent de Ferrière-la-Petite sous les ordres du chef de Bataillon du génie CRÉPY. Pendant la nuit du 31 août 1914, Les avant-postes du centre de Ferrière-la-Petite sont fortement inquiétés, alerte générale, le bombardement continu, l'artillerie du Bourdiau riposte. Prévu pour une seule compagnie, l’ouvrage de Ferrière-la-petite était composé d’abris bétonnés que les Allemands ont détruit à la fin du mois de septembre 1914.</p>
 
@@ -141,20 +144,20 @@
     <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
 </figure>
 
-<br /><h4>La chute de la place forte de Maubeuge</h4>
+<br /><h2>La chute de la place forte de Maubeuge</h2>
 
 <p>Le 4 septembre 1914, le Gouverneur fait rassembler les drapeaux de la garnison de Maubeuge. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e, 2e, 3e  et 4e  territoriale et enfin celui du <strong>1er Régiment d'Artillerie à Pied</strong>. Le lendemain, à 7 heures du matin, 
   les drapeaux de la garnison sont brûlés dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
 
-<br/><h4>La capture de Druon Joseph</h4>
+<br/><h2>La capture de Druon Joseph</h2>
 
 <p><strong>Druon Joseph CARLIER</strong> est capturé à Ferrière-la-Petite, à quelques kilomètres de Maubeuge et envoyé comme prisonnier à <a href="../camps/camp-friedrichsfeld.php">Friedrichsfeld (Allemagne)</a> après que les troupes françaises capturées suite à la Bataille de Maubeuge aient été regroupées à Rousies.</p>
   
-<br/><h4>Enfin libre !</h4>
+<br/><h2>Enfin libre !</h2>
 
 <p>Druon Joseph est libéré le 13 décembre 1918 et retourne vivre Rue Giraud à Onnaing, ville où en avril 1917, l’explosion d’un obus prussien abandonné dans un champ de tir propose la mort tragique d’enfants, et où les jeunes femmes étaient obligées de récolter le chou pour l’occupant qui en était friand. La Fosse Cuvinot a quant à elle été complètement détruite par les Allemands lors de leur retraite de 1918.</p>
 
-<br/><h4>L'après guerre de Druon</h4>
+<br/><h2>L'après guerre de Druon</h2>
 
 <p>Le 18 juin 1930, <strong>Druon Joseph CARLIER</strong> habite rue Giraud à Onnaing (Nord). Il y reçoit une carte d’ancien combattant délivrée par le Comité Départemental du Nord de l'Office Nationale du Combattant.</p>
 
@@ -165,7 +168,7 @@
     <figcaption>Carte d&#39;ancien combattant ayant appartenu à Druon</figcaption>
 </figure>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
     
     <ul>
         <li><a href="http://archives.genealexis.fr/album/13-carlier-druon-joseph" title="version numérisée du dossier d'ancien combattant de Druon Joseph CARLIER">Le dossier d'ancien combattant de Druon Joseph CARLIER</a></li>

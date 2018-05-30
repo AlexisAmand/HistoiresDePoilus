@@ -116,7 +116,7 @@
     <figcaption>La cantine et la Kommandantur<br />(Carte postale)</figcaption>
 </figure>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
 
 <ul>
     <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>

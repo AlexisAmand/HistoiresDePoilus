@@ -62,16 +62,16 @@
 
 <h1>Les cookies</h1>
 
-    <h4>Qu'est-ce qu'un cookie ?</h4>
+    <h2>Qu'est-ce qu'un cookie ?</h2>
 
 <p>Le cookie est l'équivalent d'un petit fichier texte stocké sur l&#39;ordinateur de l'internaute. Existants depuis plus de 20 ans, ils permettent aux développeurs de sites internet de conserver des données utilisateur afin de faciliter leur navigation et de permettre certaines fonctionnalités. Les cookies ont toujours été plus ou moins controversés car contenant des informations personnelles résiduelles pouvant potentiellement être exploitées par des tiers.</p>
     <p></p>
 
-<h4>Sont-ils dangereux ?</h4>
+<h2>Sont-ils dangereux ?</h2>
 
 <p>Étant de simples fichiers de texte, les cookies ne sont pas exécutables. <strong>Ils ne sont ni des logiciels espions ni des virus</strong>, bien que des cookies provenant de certains sites soient détectés par plusieurs logiciels antivirus parce qu'ils permettent aux utilisateurs d'être suivis quand ils ont visité plusieurs sites. La plupart des navigateurs récents permettent aux utilisateurs de décider s'ils acceptent ou rejettent les cookies. Les utilisateurs peuvent aussi choisir la durée de stockage des cookies. Toutefois, <strong>le rejet complet des cookies rend certains sites inutilisables</strong>. Par exemple, les paniers d'achat de magasins ou les sites qui exigent une connexion à l'aide d'identifiants (utilisateur et mot de passe).</p><p></p>
     
-<h4>Pourquoi des cookies sur ce site ?</h4>
+<h2>Pourquoi des cookies sur ce site ?</h2>
 
 <p>Les cookies me permettent.....</p><p></p><p><em>(Source: <a href="https://fr.wikipedia.org/wiki/Cookie_(informatique)">Wikipedia</a>)</em></p><p></p><p>Pour plus d&#39;informations, je vous invite à vous rendre sur le site de la CNIL, <a href="http://www.cnil.fr/vos-droits/vos-traces/les-cookies/">rubrique Cookies</a>. L&#39;organisme a également mis en ligne une petite vidéo explicative que je vous propose ci-dessous.</p>
 

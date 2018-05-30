@@ -238,7 +238,7 @@
     <figcaption>(source: Muriel Dupuis Mallinger)</figcaption>
 </figure>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
 
 <ul>
     <li><a href="http://amzn.to/2wHK3UT">Sous le ciel d'Allemagne. Sonnets d'un prisonnier de guerre. Darmstadt, Meyenburg, Limburg, Giessen (Émile Mussat, 1921)</a></li> 

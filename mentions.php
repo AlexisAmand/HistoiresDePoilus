@@ -50,15 +50,15 @@
 
 <h1>Mentions Légales</h1>
 
-<h4>Editeur du site</h4>
+<h2>Editeur du site</h2>
 
 <p><a href="http://boitasite.com/">Alexis AMAND</a><br/>Saint-Saulve (Nord)<br/>SIRET: 517 501 235 000 17<br/></p>
 
-<br/><h4>Hébergeur du site</h4>
+<br/><h2>Hébergeur du site</h2>
 
 <p><a href="http://www.amen.fr/">AMEN SASU</a><br/>12-14, Rond Point des Champs Elysées 75008 Paris.<br/>RCS : 421 527 797 000 11<br/></p>
 
-<br /><h4>Informations complémentaires</h4>
+<br /><h2>Informations complémentaires</h2>
 
 
 <ul>

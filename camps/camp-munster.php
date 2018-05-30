@@ -131,7 +131,7 @@ span.MsoFootnoteReference
     <figcaption>La chapelle catholique<br />(source allemande)</figcaption>
 </figure>
 
-<h4>Le camp de Munster I (dit camp de l'Haus-Spital)</h4>
+<h2>Le camp de Munster I (dit camp de l'Haus-Spital)</h2>
 
 <p>Dans <cite>Westfalen in Ersten Weltkrieg</cite>, l&#39;historien allemand Rainer PÖPPINGHEGE évalue à 20947 le nombre de soldats prisonniers dans le camp de Münster I à la fin de la Première Guerre Mondiale. Les délégués du Gouvernement Espagnol précisent que l’effectif est de 1894 prisonniers pour le camp même et 18052 répartis dans les hôpitaux et les différents détachements de travail (le 11 juin 1918). Le camp de Münster I était situé à 5 km à l'ouest de la ville.</p>
 
@@ -221,7 +221,7 @@ span.MsoFootnoteReference
     <figcaption>Vue du block n°4<br />(Carte postale)</figcaption>
 </figure>
 
-<h4>Le camp de Münster II (dit camp de Rennbahn)</h4>
+<h2>Le camp de Münster II (dit camp de Rennbahn)</h2>
 
     <p>Ce camp était situé à l&#39;est de Münster, à l&#39;emplacement d&#39;un champ de course.</p>
 
@@ -279,7 +279,7 @@ span.MsoFootnoteReference
     <figcaption>L'harmonie du camp de Rennbahn<br />(Carte postale)</figcaption>
 </figure>
 
-<h4>Le camp de Münster III (dit camp des Neue-Kasernen)</h4>
+<h2>Le camp de Münster III (dit camp des Neue-Kasernen)</h2>
 
 <p>En février 1918, sur 17800 prisonniers qui dépendaient du camp III de Munster, seulement 1578 se trouvaient effectivement dans le camp. Le camp n°3 était installé dans des casernes d'infanterie non terminées et situées dans les faubourgs exterieurs de la vilel de Munster.</p>
 
@@ -301,7 +301,7 @@ span.MsoFootnoteReference
     <figcaption>Déménagement au block n°3<br />(Carte postale)</figcaption>
 </figure>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
 
 <ul>
     <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>

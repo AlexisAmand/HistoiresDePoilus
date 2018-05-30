@@ -106,7 +106,7 @@
 
 <p></p>
 <p>&nbsp;</p>
-<h4>Liste des abréviations utilisées</h4>
+<h2>Liste des abréviations utilisées</h2>
 
 <p>Pour plus de lisibilité, j'ai dû utiliser quelques abréviations dont voici la signification.</p>
 <p></p>
@@ -135,7 +135,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<h4>Liste des sources utilisées</h4>
+<h2>Liste des sources utilisées</h2>
 
 <p>- <a href="http://monumentsmorts.univ-lille3.fr">http://monumentsmorts.univ-lille3.fr</a></p>
 <p>- Livres d&#39;or des morts pour la France (Archives Nationales)</p>

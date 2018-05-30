@@ -118,7 +118,7 @@
     <br />(Carte postale)</figcaption>
 </figure>        
 
-<h4>Source</h4>
+<h2>Source</h2>
 
 <ul>
     <li>Delcampe (pour les cartes postales)</li>

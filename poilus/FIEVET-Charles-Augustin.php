@@ -69,7 +69,10 @@
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus</a></li>
+        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
+        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="soldats-belgique.php">Les soldats du Belgique</a></li>
    </ul>
    
       <div id="pubaside">
@@ -117,7 +120,7 @@
 
 <p>Le 2 décembre 1907, <strong>Charles Augustin</strong> épouse à Roubaix (Nord) Nathalie Emilie DELAUX, mécanicienne, la fille légitime d'Adolphe Auguste DELAUX et de Josephine RICHOMME. Le couple aura deux enfants: Charles Jules Henri (né en 1903) et Kléber Camille (né en 1910).</p>
 
-<br /><h4>La mobilisation d'août 1914</h4>
+<br /><h2>La mobilisation d'août 1914</h2>
 
 <p>Soldat de 2e classe âgé de 32 ans en 1914, <strong>Charles Augustin</strong> est mobilisé et rejoint le <strong>162e Régiment d'Infanterie</strong>. Je connais peut de chose sur son destin pendant le conflit. Mon seul indice ? Il est prisonnier de guerre à <a href="../camps/camp-gardelegen.php">Gardelegen (Allemagne)</a>. </p>
 
@@ -147,7 +150,7 @@
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
 </p>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
     
     <ul>
         <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>

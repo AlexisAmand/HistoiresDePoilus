@@ -79,7 +79,10 @@
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus</a></li>
+        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
+        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="soldats-belgique.php">Les soldats du Belgique</a></li>
    </ul>
    
       <div id="pubaside">
@@ -111,7 +114,7 @@
     <figcaption>Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<br/><h4>La mobilisation d'août 1914</h4>
+<br/><h2>La mobilisation d'août 1914</h2>
 
 <p>Âgé de 24 ans en 1914, Auguste est mobilisé en tant que soldat de 2e classe et rejoint la 4e compagnie du 1er bataillon du <strong>33e Régiment d'Infanterie</strong> (<a href="sources/dossier-ancien-combattant-01.php">source</a>).</p>
 
@@ -122,7 +125,7 @@
     <figcaption>Auguste Victor FIEVET</figcaption>
 </figure>
 
-<br/><h4>En route vers le front</h4>
+<br/><h2>En route vers le front</h2>
 
 <p>Le 5 août 1914, vers cinq heures, le <strong>33e Régiment d'Infanterie </strong>s'embarque en gare d'Arras (Pas-de-Calais) à destination d'Hirson (Aisne). L'auteur de l'<em>Historique du 33e Régiment d'Infanterie pendant la Grande Guerre</em> raconte que <em>"Les physionomies étaient rayonnantes d'entrain et de confiance. Tous portaient au cœur l'espoir d'une rapide épopée"</em>. Il ajoute ensuite que <em>le trajet d'Arras à Hirson se fit au milieu des chants et des fleurs</em>. A Hirson, des vivres de débarquement sont distribués aux Hommes. Faute de voiture disponible pour le transport des troupes,  les hommes sont retenus aux abords de la gare pendant près de 2 heures. Puis, le régiment cantonne à Saint-Michel (Aisne). </p>
 
@@ -135,7 +138,7 @@
 
 <p><br/> Le 7 août, le régiment cantonne à Saint-Michel, et le 8, il se dirige vers Maubert-Fontaine (Ardennes), puis à Bourg-Fidèle (Ardennes) à 2 kilomètres de Rocroi. Pendant les journées des 6 et 7 août, le<strong> 33e Régiment d'Infanterie </strong>avait accompli, avec des réservistes non entraînés, de 60 à 70 kilomètres en vingt-six heures, sans laisser un seul traînard.</p>
   
-<br/><h4>L'invasion de la Belgique</h4>
+<br/><h2>L'invasion de la Belgique</h2>
 
 <p>Le 9 août, le général commandant le <strong>1er Groupe d'Armée</strong> réunit à Maubert-Fontaine les officiers et leur exposa la situation générale : Une armée allemande dite «de la Meuse», composée de quatre corps d'armée et commandée par le général VON EMMICH, a envahi la Belgique; elle a passé en partie la Meuse, au nord de Liège, et se porte à l'attaque de cette place. Les Allemands ont violé le territoire belge. Quatre de nos divisions de cavalerie, concentrées autour de Mézières (Ardennes), sous le commandement du général SORDET, ont pénétré en Belgique pour opérer contre VON EMMICH. Ce corps de cavalerie est appuyé par une brigade d'infanterie échelonnée le long de la Meuse, couvrant la concentration du 1er corps... </p>
 
@@ -148,7 +151,7 @@
 
 <p>Mais cette brigade vient de recevoir l'ordre de se porter vers l'Est. Le <strong>1er corps</strong> doit, de ce fait, assurer sa couverture par ses propres moyens. Le régiment reçoit, en conséquence, l'ordre d'aller garder les ponts de la Meuse, dans la région de Monthermé (Ardennes) ainsi que les ponts de Fumay (Ardennes). II séjourne trois jours à Fumay. Le 13 août 1914, <strong>Auguste</strong> et le <strong>33e Régiment d'Infanterie</strong> entre à Treignes, en Belgique, salué par des acclamations enthousiastes et des cris prolongés de «Vive la France !».</p>
 
-<br/><h4>La &quot;bataille de Dinant&quot;</h4>
+<br/><h2>La &quot;bataille de Dinant&quot;</h2>
 
 <p>Dès le lendemain (le 14 août), le <strong>33e Régiment d'Infanterie</strong> partait, par alerte, à deux heures, dans la direction de Dinant (Belgique) et allait avoir l'honneur de participer au premier choc sérieux en Belgique, entre l'armée française et l'armée allemande.</p>
 
@@ -188,7 +191,7 @@
 
 <p>Un lieutenant sera blessé le même jour, pendant la même bataille de Dinant : un certain <strong>Charles de GAULLE</strong>… </p>
 
-<br/><h4>L'après-guerre d'Auguste</h4>
+<br/><h2>L'après-guerre d'Auguste</h2>
 
 <p><strong>Auguste</strong> reçoit la croix de guerre "étoile de vermeil" en août 1920 puis  la médaille militaire par décret du 11 avril 1962. Ma mère a très bien connu Auguste. Elle se souvient par exemple d'un cadre contenant un &quot;diplôme&quot; et une médaille il aurait également tenu un magasin de chaussures en face de la place de Thiers à Bruay-sur-l'-Escaut.</p>
 
@@ -206,7 +209,7 @@
     <figcaption>Carte d'ancien combattant ayant appartenu à Auguste</figcaption>
 </figure>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
     
     <ul>
     	<li><a href="http://archives.genealexis.fr/image/115-page-01" title="version numérisée du dossier d'ancien combattant d'Auguste FIEVET">Le dossier d'ancien combattant d'Auguste FIEVET</a></li>

@@ -10,11 +10,9 @@
             <link rel="stylesheet" href="css/style.css">    
             <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
             <link rel="icon" type="image/png" href="/images/favicon.png" />
-                   
-   
-                
-            </head>
-        <body>
+    
+      </head>
+      <body>
 
         <!-- code js pour l'avertissement sur les cookies -->
 
@@ -85,7 +83,7 @@
 </figure>
 
 <p>Je vous propose donc, à travers ce site, un résumé des découvertes que j’ai eu la chance de réaliser à propos des membres de ma famille qui ont participé à la Première Guerre Mondiale. Vous allez ainsi découvrir que <a href="camps.php">certains ont été fait prisonniers</a> et ont été emmenés en Allemagne, que certains ont été blessés en défendant leur patrie et enfin que <a href="releves.php">d’autres sont morts pour leur patrie</a>. Ce site est avant toute chose là pour rendre hommage à tous les soldats de la Der des Der, qu'ils soient <em>Poilus</em> en France, <em>Landsers</em> en Allemagne, <em>Tommies</em> en Angleterre, <em>Diggers</em> en Australie, <em>Jass</em> en Belgique, <em>Sammies</em> aux États-Unis ou encore <em>Mehmetçik</em> en Turquie (Empire Ottoman).</p>
-<p style="text-align:right;">Bonne lecture,<br/>Alexis, webmaster.</p>
+<p class="right">Bonne lecture,<br/>Alexis, webmaster.</p>
 </div>  
 
 

@@ -68,17 +68,17 @@
 <p>- un hôpital auxiliaire, contrôlé par la Croix-Rouge et géré par l’une de ses trois composantes,</p>
 <p>- un hôpital bénévole, souvent appelé « ambulance », d’initiative privée (HB). Les hôpitaux bénévoles étaient souvent installés dans des locaux réquisitionnés (écoles, casino, bateaux,…) et ils pouvaient être d’importance variable et parfois éphémères.</p>
 
-<h4>Calais: hôpital militaire temporaire n°51</h4>
+<h2>Calais: hôpital militaire temporaire n°51</h2>
 
 <p>L’hôpital militaire temporaire n°51 de Calais était géré par le Service de Santé des Armées. Il était situé à la maison de commerce Leweng et Weinberg, 92 rue Gambetta. Il comportait 110 lits et a fonctionné a dès le 26 décembre 1914.</p>
 
-<h4>HB n° 4 bis  Amiens (Somme)</h4>
+<h2>HB n° 4 bis  Amiens (Somme)</h2>
 
 <p>Grand Séminaire, 61 rue Saint-Fuscien - 246 lits - Fonctionne du 23 septembre 1914 au 8 décembre 1915 - A cette date devient HC n° 105</p>
    
-<h4>Hôpital n°31 de Nantes</h4>
+<h2>Hôpital n°31 de Nantes</h2>
 
-<h4>Hôpital mixte d'Amiens (80)</h4>
+<h2>Hôpital mixte d'Amiens (80)</h2>
 
 	<figure>
 	<a href="images/hopital-mixte-amiens.jpeg" id="single_image">
@@ -90,7 +90,7 @@
         </figcaption>
     </figure>
 
-<h4>Hôpital de Saint-Mandé (seine)</h4>
+<h2>Hôpital de Saint-Mandé (seine)</h2>
 
 <p>Cet hopital militaire était situé à l'Hôpital Militaire Bégin à Saint-Mandé, dans le Val-de-Marne. Il doit son nom à Louis Jacques Bégin (1793-1859), chirurgien militaire de l'Empire.</p>
 

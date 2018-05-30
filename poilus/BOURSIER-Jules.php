@@ -78,7 +78,11 @@
      <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
      <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
      <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-     <li><a href="autres.php">Autres poilus</a></li>
+     <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
+     <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+     <li><a href="autres.php">Les soldats du Nord</a></li>
+     <li><a href="soldats-belgique.php">Les soldats du Belgique</a></li>
+     
    </ul>
   
    <div id="pubaside">
@@ -117,7 +121,7 @@
       <figcaption>Jules Henri BOURSIER<br/>(cliquez pour agrandir - source: Kamalaa/Geneanet)</figcaption>
     </figure>
 
-<br/><h4> La mobilisation d'août 1914</h4>
+<br/><h2> La mobilisation d'août 1914</h2>
 
 <p><strong>Jules</strong> est âgé de 35 ans lors de mobilisation. Il est rappelé à l'activité et arrive au <strong>1er Régiment d'Artillerie à Pied</strong> le 2 août 1914. La portion centrale de ce régiment était à Dunkerque avec les 4e, 6e et 7e batteries, la 3e était à Boulogne, la 5e à Calais et enfin les 1ere et 2e étaient à Maubeuge. </p>
     <p>Pas moins de 3 780 000 hommes sont mobilisés en août 1914. Au total, durant toute la guerre, environ 8 410 000 soldats et marins français seront mobilisés, dont 7 % de soldats indigènes venant des colonies de l'Empire. Parmi tous ces soldats, 1 397 800 sont <a href="../releves.php">morts pour la France</a> et 4 266 000 ont été bléssés au combat.</p>
@@ -129,12 +133,12 @@
         <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir)</figcaption>
     </figure>
 
-<br/><h4>La chute de Maubeuge</h4>
+<br/><h2>La chute de Maubeuge</h2>
 
 <p>Jules Henri BOURSIER est fait prisonnier de guerre à Maubeuge le 7 septembre 1914. Les troupes françaises de Maubeuge capturées à Maubeuge sont ensuite rassemblées à Rousies et une partie (dont Jules) est envoyée en internement  à <a href="../camps/camp-friedrichsfeld.php">Friedrichsfeld (Allemagne)</a>.</p>
 
 
-<br /><h4>La fin du calvaire</h4>
+<br /><h2>La fin du calvaire</h2>
 
 <p>Durant son "séjour",  Jules Henri BOURSIER est hospitalisé en Suisse avant d'être rapatrié le 3 novembre 1918, date à laquelle il obtient une permission de 30 jours qu'il passe à Manneville dans l'Eure.</p>
 
@@ -152,7 +156,7 @@
         <figcaption>Extrait des archives de la Croix Rouge<br/>(cliquez pour agrandir)</figcaption>
     </figure>
 
-<h4>Onnaing en guerre !</h4>
+<h2>Onnaing en guerre !</h2>
 
 <p>Pendant ce temps, à Onnaing, où est né Jules Henri BOURSIER, les Allemands enlèvent les cloches de l'église (1915). Elles sont conduites à Saint-Saulve pour y être fondues et faire des canons. Trois ans plus tard, en 1918, les Allemands se retirent et font sauter la Route Nationale pour couper la route aux troupes de l'armée canadienne. Le monuments aux morts de la Première Guerre Mondiale est érigé en 1922, en hommage aux <a href="../releves/onnaing.php">150 victimes militaires de la commune.</a></p>
     
@@ -169,7 +173,7 @@
     <p>Jules est décédé le 30 décembre 1936 à Onnaing, Rue Marcelin Berthelot.</p>
 
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
     
     <ul>
         <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Archives et Cultures / Yves Buffetaut)</li>

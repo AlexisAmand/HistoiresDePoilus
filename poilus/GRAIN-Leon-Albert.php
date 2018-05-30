@@ -74,10 +74,12 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
-        
+        <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>       
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus</a></li>
+        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
+        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="soldats-belgique.php">Les soldats du Belgique</a></li>
    </ul>
    
       <div id="pubaside">
@@ -107,7 +109,7 @@
     <figcaption>Extrait de sa fiche matricule.<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<br/><h4>La mobilisation d'août 1914</h4>
+<br/><h2>La mobilisation d'août 1914</h2>
 
 <p><strong>Léon</strong> est rappelé à l’activité par le décret de Mobilisation Générale du 1er août 1914. Il est intégré à la 7e compagnie du <strong>3e Régiment d'Infanterie Territoriale</strong>.  En 1914, Les régiments d’infanterie territoriale (R.I.T), sont essentiellement constitués de citoyens anciens nés entre 1875 et 1880. Ils sont surtout assignés à des missions plus statiques, moins exposées: gares, nœuds ferroviaires, ponts, entrepôts, places fortes, etc. Léon cantonne à Hautmont avec les hommes de sa compagnie sous les ordres du Capitaine LITTOYE. </p>
 
@@ -118,7 +120,7 @@
     <figcaption>Extrait de sa fiche matricule.<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<br/><h4>Le siège de Maubeuge</h4>
+<br/><h2>Le siège de Maubeuge</h2>
 
 <p>Le 2 septembre 1914, le bombardement continu  sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance.</p>
 
@@ -129,7 +131,7 @@
     <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
 </figure>
 
-<br/><h4>On brûle les drapeaux...</h4>
+<br/><h2>On brûle les drapeaux...</h2>
 
 <p>Le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e d'infanterie, des 31e  et 32e  colonial, des 1er, 2e, 3e (celui de <strong>Léon albert GRAIN</strong>) et 4e territorial et enfin celui du 1er régiment d'artillerie à pied. Les drapeaux de la garnison sont brûlés le lendemain dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
 
@@ -140,7 +142,7 @@
     <figcaption>La Caserne Joyeuse à Maubeuge<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<br/><h4>La chute de Maubeuge</h4>
+<br/><h2>La chute de Maubeuge</h2>
 
 <p><strong>Léon Albert</strong> est fait prisonnier le 8 septembre à 1914 à Maubeuge et envoyé à Chemnitz, un <a href="../camps/camp-chemnitz.php">camp de prisonniers de Chemnitz</a>  situé en Saxe, entre Dresde et Zwickau, au Sud-est de Leipzig. Pour rappel, 46000 soldats français ont été fait prisonniers à la suite de la chute de la ville Maubeuge.</p>
 
@@ -153,7 +155,7 @@
 
 <p></p><p>Léon Albert est libéré le 10 décembre 1918.</p><p></p>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
     
     <ul>   	
     	<li><a href="http://archives.genealexis.fr/album/18-grain-leon" title="version numérisée du dossier d'ancien combattant de Léon Albert GRAIN">Le dossier d'ancien combattant de Léon Albert GRAIN</a></li>   

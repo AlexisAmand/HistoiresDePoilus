@@ -78,7 +78,10 @@
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php" class="AsideSelected">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus</a></li>
+        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
+        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="soldats-belgique.php">Les soldats du Belgique</a></li>
    </ul>
    
       <div id="pubaside">
@@ -110,7 +113,7 @@
 
 <p>Inscrit sous le n°1 de la liste de Marcoing, Adrien est incorporé au <strong>1er Régiment d&#39;Infanterie</strong> qu&#39;il rejoint le 3 octobre 1910 en tant que soldat de 2e classe. Il est envoyé en congé le 25 septembre 1912 en attendant son passage dans la réserve de l&#39;armée active avec <em>certificat de bonne conduite accordé.</em></p>
 
-<br/><h4>Adrien et le Ier R.I</h4>
+<br/><h2>Adrien et le Ier R.I</h2>
 
 <p>A la mobilisation, <strong>Adrien VELU</strong> rejoint le <strong>1er Régiment d'Infanterie</strong> en tant que soldat de 2e classe. Le régiment part de Cambrai par voie ferrée dès le 5 août et arrive à Rumigny le même jour. Le 1er R.I s&#39;est illustré en Argonne, à Verdun, au Chemin des Dames, dans la Somme, dans l&#39;Aisne et pendant la Bataille de la Marne.</p> 
     
@@ -123,7 +126,7 @@
     
 <p>3300 de ses hommes, dont <strong>Adrien</strong>, donneront leurs vies et lui vaudront quatre citations à l&#39;ordre de l&#39;armée. Le 19 octobre 1918, le Général de CASTELNAU le décore de la fourragère au couleur de la médaille militaire.</p>
 
-<br/><h4>Adrien, mort pour la France</h4>
+<br/><h2>Adrien, mort pour la France</h2>
 
 <p><strong>Adrien</strong> contracte la fièvre typhoïde pendant son service et est déclaré mort pour la France le 2 avril 1915 à l'hôpital temporaire n°18 de Corbineau (<a href="http://cartespostalesanciennes.genealexis.fr/album/85-chalons-sur-marne" title="cartes postales anciennes de Châlons-sur-Marne sur le site Genealexis">Châlons-sur-Marne</a>, devenu  Châlons-en-Champagne depuis le 17 novembre 1995).</p>
 
@@ -143,7 +146,7 @@
     <figcaption>Le cimetière militaire de Châlons-sur-Marne<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
     
     <ul>
         <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>

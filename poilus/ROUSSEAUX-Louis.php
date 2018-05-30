@@ -78,7 +78,10 @@
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php" class="AsideSelected">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus</a></li>
+        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
+        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="soldats-belgique.php">Les soldats du Belgique</a></li>
    </ul>
    
       <div id="pubaside">
@@ -119,7 +122,7 @@
     <figcaption>Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<br /><h4>Mobilisation générale !</h4>
+<br /><h2>Mobilisation générale !</h2>
 
 <p>En application du décret du 1er août 1914 et du plan XVII, <strong>Louis Henri ROUSSEAUX</strong> est mobilisé et rejoint le <strong>165e Régiment d'Infanterie</strong> auquel il était affecté depuis le 1 avril 1914. En 1914, le 165e est un régiment affecté à la défense de la « forteresse » de Verdun, notamment les forts de la rive gauche de la Meuse. Le 19 octobre 1914, <strong>Louis</strong> passe au <strong>138e Régiment d'Infanterie</strong>. Ce régiment est surtout célèbre pour avoir reconquis le 24 septembre 1914, après la Victoire de la Marne, le fort de la Pompelle qui était occupé par les Allemands depuis le 4 septembre 1914. <strong>Louis Henri ROUSSEAUX</strong> est blessé le 16 avril 1915 à Fouquescourt, entre Amiens et Saint-Quentin.</p>
 
@@ -141,7 +144,7 @@
     <figcaption>Le revers de la Croix de Guerre</figcaption>
 </figure>         
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
     
     <ul>
         <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>

@@ -76,7 +76,10 @@
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus</a></li>
+        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
+        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="soldats-belgique.php">Les soldats du Belgique</a></li>
    </ul>
    
     <div id="pubaside">
@@ -113,7 +116,7 @@
     <figcaption>L'entrée de l'Usine Oudin<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<h4>Engagé volontaire</h4>
+<h2>Engagé volontaire</h2>
 
 <p><strong>Ernest Auguste</strong> est engagé volontaire pour quatre ans le 30 octobre 1891, à la mairie de <a href="http://cartespostalesanciennes.genealexis.fr/album/74-reims" title="cartes postales anciennes de Reims sur le site Genealexis">Reims</a>. Il part pour le <strong>1er Régiment de Zouave</strong> et arrive au corps de zouave en tant que deuxième classe le 3 novembre 1891 sous matricule n°7842. Il est envoyé en congé le 16 octobre 1895 en recevant un certificat de bonne conduite.</p>
 
@@ -129,7 +132,7 @@
     <figcaption>Extrait de la fiche matricule d'Ernest BALTAZART<br />(Source: Archives de la Marne)</figcaption>
 </figure>
 
-<h4>Ernest et la campagne contre l'Allemagne</h4>
+<h2>Ernest et la campagne contre l'Allemagne</h2>
 
 <p>Comme la plupart des jeunes hommes de sa génération, <strong>Ernest Auguste BALTAZART</strong> est rappelé à l&#39;activité par le décret de mobilisation générale d'août 1914 et il rejoint quelques jours plus tard le <strong>46e Régiment d'Infanterie Territoriale</strong>. Il est libéré le 2 sept 1914 en attendant d&#39;être rappelé le 10 avril 1915 et placé en sursis d'appel provisoire le dit jour aux Forges et Aciéries de Saint Etienne (Usine du Marais).</p>
 
@@ -153,7 +156,7 @@
     <figcaption>Le décret de mobilisation générale<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
     
     <ul>
         <li>"Le Monde Illustré" du 15 juillet 1922</li>

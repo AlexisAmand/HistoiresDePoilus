@@ -123,7 +123,7 @@
     <figcaption>Exercice des pompiers<br />(Source allemande)</figcaption>
 </figure>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
 
 <ul>
     <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>

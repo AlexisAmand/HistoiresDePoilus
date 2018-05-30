@@ -77,7 +77,10 @@
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>        
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus</a></li>
+        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
+        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="soldats-belgique.php">Les soldats du Belgique</a></li>
    </ul>
    
       <div id="pubaside">
@@ -100,7 +103,7 @@
 
 <p><strong>Louis Abraham CARLIER</strong>, frère de <a href="CARLIER-Druon-Joseph.php" title="Voir la biographie du poilu Druon Joseph CARLIER">Druon Joseph</a>, est né 17 décembre 1871 à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> (Nord). Comme lui, il est le fils de Druon Joseph CARLIER et de Sidonie Célestine PATOU. Ouvrier agricole chez LENGRAND à Sebourg, Louis s'unit avec Volaine GRAVELLE. Le couple aura 5 enfants: Valérine (née en 1869), Louis Druon (né en 1898), Yvonne (née en 1901), Louise (née en 1903) et Blondine Clémence (née en 1908). En 1906, il est ouvrier agricole chez Lengrand et vit à Sebourg (Rue de l&#39;église) avec son épouse, Volcide GRAVELLE, et ses 4 enfants: Olia, Louis, Yvonne et Louise.</p>
 
-<br/><h4>La mobilisation d'août 1914</h4>
+<br/><h2>La mobilisation d'août 1914</h2>
 
 <p>Âgé de 43 ans en 1914, <strong>Louis Abraham</strong> est mobilisé comme la plupart des hommes de sa génération et devient auxiliaire de place forte au sein de la 1ere batterie (3e selon certaines sources) du <strong>1er Régiment d’Artillerie à Pied</strong>. En 1914, l’artillerie à pied est réservée à la défense d'une zone que l’on appelle groupe  et a en charge outre la défense de ce groupe, celle des forts et ouvrages. Il est cantonné au groupe de Grévaux, sous les ordres  Capitaine BOCQUET.</p>
 
@@ -111,11 +114,11 @@
     <figcaption>Louis Abraham CARLIER<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<br/><h4>La bataille de Maubeuge</h4>
+<br/><h2>La bataille de Maubeuge</h2>
 
 <p>Le bombardement reprend sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er territorial opposent une belle résistance.</p>
 
-<br/><h4>On brûle les drapeaux de la garnison de Maubeuge...</h4>
+<br/><h2>On brûle les drapeaux de la garnison de Maubeuge...</h2>
 
 <p>Le 4 septembre 1914, le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e, 2e, 3e  et 4e  territorial et enfin celui du <strong>1er Régiment d'Artillerie à Pied</strong>.</p><p>Dès le lendemain, à 7 heures, les drapeaux de la garnison sont brûlés dans le jardin du Pavillon, à proximité de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
 
@@ -126,7 +129,7 @@
     <figcaption>La Caserne Joyeuse à Maubeuge<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<br/><h4>La capture des soldats à Ferrière-la-Grande</h4>
+<br/><h2>La capture des soldats à Ferrière-la-Grande</h2>
 
 <p><strong>Louis Abraham</strong> est fait prisonnier le 7 septembre 1914 à Ferrière-la-Grande (à côté de Maubeuge) et  envoyé à Munster  (Munster III selon sa fiche matricule, Munster II selon sa carte d’ancien combattant).</p>
 
@@ -137,7 +140,7 @@
     <figcaption>Extrait de son dossier d'ancien combattant<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<h4>Louis, prisonnier au camp de Münster</h4>
+<h2>Louis, prisonnier au camp de Münster</h2>
 
 <p>Le <strong><a href="../camps/camp-munster.php">camp de Münster</a></strong>, où est envoyé Louis, est ouvert dès le début de la guerre, il était situé en Allemagne, dans le nord du Land de Rhénanie-du-Nord-Westphalie.</p>
 
@@ -180,7 +183,7 @@
     <figcaption>Convoi de l'internement du 8 novembre 1918<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-    <h4>La vie de Louis après la guerre</h4>
+    <h2>La vie de Louis après la guerre</h2>
 
 <p>Au début des années 30, <strong>Louis Abraham</strong> habite rue du Cordeau à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a>. Il reçoit une carte d’ancien combattant délivrée par le Comité Départemental du Nord.</p>
 
@@ -191,7 +194,7 @@
     <figcaption>Carte d'ancien combattant ayant appartenu à Louis<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
     
     <ul>
     	<li><a href="http://archives.genealexis.fr/album/15-carlier-louis-abraham" title="version numérisée du dossier d'ancien combattant de Louis Abraham CARLIER">Le dossier d'ancien combattant de Louis Abraham CARLIER</a></li>

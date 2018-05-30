@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Histoires de Poilus - Quelques poilus de la Nord</title>
-<meta content="Liste d'individus du Nord en âge de participer à la Grande Guerre dont la parenté et la mobilisation n'ont pas encore été prouvées" name="description">
+<title>Histoires de Poilus - Quelques poilus des Ardennes</title>
+<meta content="Liste d'individus des Ardennes en âge de participer à la Grande Guerre dont la parenté et la mobilisation n'ont pas encore été prouvées" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -75,9 +75,9 @@
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-       <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
+        <li><a href="soldats-ardennes.php" class="AsideSelected">Les soldats des Ardennes</a></li>
         <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
-        <li><a href="autres.php" class="AsideSelected">Les soldats du Nord</a></li>
+        <li><a href="autres.php">Les soldats du Nord</a></li>
         <li><a href="soldats-belgique.php">Les soldats du Belgique</a></li>
         
    </ul>
@@ -97,48 +97,21 @@
 </aside>
 
 <article>
-    
-<h1>Les poilus du Nord</h1>
 
-<ul>
+<h1>Les poilus des Ardennes</h1>
 
-	<li><strong>Raphaël Joseph BOTTIAU</strong>, petit-fils de mon sosa n°80 et de sa 2e épouse. Il arrive au 15e Régiment d'Artillerie de Campagne le 11 août 1914. Libéré provisoirement le 19 août 1914, il est fait prisonnier le 24 août à Quarouble et interné derrière les lignes.<br /><br /></li>
+<ul>   
 
-    <li><strong>Gervais BOUCHER</strong>: Bureau de Valenciennes, Classe 1900, Volume 2, matricule 775<br /><br /></li>
-   
-    <li><strong>Edmond BOURSIER</strong>, frère de <a href="../poilus.php">Jules Henri</a>, né le 10 avril 1882, dont je n'ai pas encore pu trouver la fiche matricule. Etant âgé de 32 ans en 1914, je pense qu'il a du être mobilisé.<br /><br /></li>
+    <li><strong>Jules Alphonse ASTIER</strong>, né le 14 février 1872 à Bétheniville (Marne), petit-fils de mon aïeule Julie Joséphine KRAUTH via Louise Adèle BALTAZART. <br /><br /></li>
 
-    <li><strong>Oscar Julien DELAUX</strong> est né à Roubaix le 13 novembre 1894, fils légitime d'Adolphe DELAUX et Joséphine RICHOMME (mes aïeux). Incorporé le 28 août 1914. Il passe successivement par le 165e Régiment d'Infanterie (le 29 août 1914), le 33e Bataillon de Marche (le 2 février 1915) et le 53e Régiment d'Infanterie (le 21 mars 1915). Il est cité à l'ordre général n°38 du 30 octobre 1915 pendant son "séjour" au sein du 53e Régiment d'Infanterie.<br /><br /></li>
-    
-</ul>    
+    <li><strong>Eugène Alexandre CARON</strong>, né le 16 avril 1869 à Montigny-sur-Vesle (Marne). Il rejoint la 6e section d'infirmiers le 3 août 1914. Le 24 août 1915, il est détaché à l'usine Saint-Remy de Clermont-Ferrant.<br /><br /></li>
 
-	<figure>
-    <a href="images/carte-oscar-delaux.png" id="single_image" title="Carte d'ancien combattant d'Oscar DELAUX">
-    <img src="miniatures/carte-oscar-delaux.png" alt="Carte du combattant d'Oscar DELAUX"/></a>
-    <figcaption>Carte du combattant d'Oscar DELAUX<br> (Source: Archives Départementales du Nord)</figcaption>
-    </figure>
+    <li><strong>Alexandre Ernest MAILLART</strong> est né le 23 juillet à Bétheniville (Marne), petit-fils de mon aïeule Julie Joséphine KRAUTH via Julie Adèle BALTAZART. Il est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des sections de chemins de fer de campagne du 2 août 1914 au 5 janvier 1919.<br /><br /></li>
 
-<ul>
-
-    <li><strong>Augustin HANZE</strong> est né Coulsore (Nord) le 6 février 1886. Le 5 mars 1910, il épouse à Valenciennes Berthe DUSART, la cousine germaine d'<a href="FONTAINE-Henri-Gustave.php">Henri Gustave FONTAINE</a> (mon arriére-arriére-grand-pére). Rappelé à l'activité par le décrét de Mobilisation Générale du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'hôpital temporaire n°5 de Verdun. Son nom figure sur le Monument aux Morts de Coulsore (où il était né) et sur les plaques commémoratives du square de l’Armistice à Carcassonne (où il était serrurier).<br /><br /></li>
-
-	<li><strong>Jules MAGNY</strong>, né le 18 août 1892 à Onnaing (Nord). Le 6 septembre 1916, soldat mitrailleur, il a,  par son calme et la précision de son tir, entravé une tentative de contre attaque allemande. Nommé caporal le 5 décembre 1917, il est ensuite prisonnier de guerre du 31 mai au 14 décembre 1918. Il était titulaire de la croix de guerre avec étoile de bronze, de la médaille commémorative et de la médaille interalliée. Abel, le frére de Jules MAGNY, épouse la fille de <a href="JOLY-Noel-Jules.php">Noël Jules JOLY</a>.<br /><br /></li>
-
-	<li><strong>Druon Adrien PATOU</strong> est né le 31 mars 1885 à Sebourg (Nord), et est le cousin germain de <a href="CARLIER-Druon-Joseph.php">Druon Joseph CARLIER</a> et <a href="CARLIER-Louis-Abraham.php">Louis Abraham CARLIER</a>. Je n'ai pas encore pu trouver sa fiche matricule car beaucoup de fiches sont manquantes pour l'année 1905 au bureau de Valenciennes.
-    <br /><br /></li>
-
-    <li><strong>Eugène Fernand ROUSSEAUX</strong>, né en 1891 à Roubaix (Nord) et prisonnier de guerre au camp de <a href="../camps/camp-hammerstein.php">Hammerstein</a> puis à celui de <a href="../camps/camp-minden.php">Minden</a>. Eugène est le petit-fils de Léonie FIEVET (ma sosa n°97), et le cousin de <a href="FIEVET-Charles-Augustin.php">Charles</a> et <a href="FIEVET-Auguste-Victor.php">Auguste FIEVET</a> (par contre, ils n'ont que 3 de leurs 4 grand-parents en commun car Léonie a eu des enfants avec 2 hommes différents)<br /><br /></li>
+    <li><strong>Léopold PAQUET</strong> est né le 5 décembre 1886 à Reims (Marne). Le 20 juin 1914, il épouse à Bétheniville Marie Hélène ARNOULD, la soeur de mon arriére-grand-pére. Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 août 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 août 1917 pour paralysie radiale du bras gauche. Il est décédé à Bétheniville le 10 octobre 1953.<br /><br /></li>
 
 </ul>
 
-<p></p>
-
-<h2>Les soldats dont la parenté reste à confirmer</h2>
-
-    <ul>
-        <li><strong>Edmond MAGNY</strong> est une victime civile à <a href="../releves/onnaing.php">Onnaing</a> <br /><br /></li> 
-    </ul>
-    
 <p></p>
 
 <p class="sources">

@@ -77,7 +77,10 @@
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus</a></li>
+		<li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
+        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="soldats-belgique.php">Les soldats du Belgique</a></li>
    </ul>
   
       <div id="pubaside">
@@ -141,7 +144,7 @@
     <figcaption>Le tribunal d'Arras<br />(Cliquez pour agrandir)</figcaption>
 </figure>
 
-<h4>La mobilisation d'août 1914</h4>
+<h2>La mobilisation d'août 1914</h2>
   
 <p>Mobilisation générale! Comme la plupart des hommes de sa génération, <strong>Théophile</strong> est rappelé à l’activité et  arrive au <strong>1er groupe spécial</strong> le 6 août. À la mobilisation, chaque Corps d'Armée soulevait un <strong>Groupe Spécial</strong> (le numéro est celui du Corps d'Armée). Dans ces groupes étaient reversés les condamnés réservistes.</p>
   
@@ -154,7 +157,7 @@
   
 <br /><p>Du 6 août 1914  au 28 août 1914, <strong>Théophile CARIN</strong> est dit &quot;à l'intérieur - Camp simple&quot;. Cela signifie que  le soldat était très en retrait des combats et peut-être au dépôt de son régiment. Je pense que <strong>Théophile</strong> était juste en attente de son transfert en Algérie.</p>
 
-<br/><h4>Théophile en Afrique</h4>
+<br/><h2>Théophile en Afrique</h2>
 
 <p>Du 29 septembre 1914 au 14 août 1916, Théophile est affecté &quot;<strong>Aux armées d’Algérie</strong>&quot;.</p><p> A partir du 9 août 1916, <strong>Théophile CARIN</strong> passe au <strong>4e Bataillon d’Infanterie Légère d’Afrique</strong> jusqu'au 16 août 1918, date de sa fusion avec le 5e bataillon d'Afrique. Le 4e bataillon est successivement commandé par le chef de bataillon Ardit, puis par le chef de bataillon FLOUCAUT de FOURCROY.</p>
 
@@ -181,11 +184,11 @@
     <figcaption>Carte du sud de la Tunisie, près de la frontière avec la Lybie (1910).<br />(Cliquez pour agrandir)</figcaption>
 </figure>
 
-<h4>L'après guerre de Théophile</h4>
+<h2>L'après guerre de Théophile</h2>
 
 <p>Quelques années après la guerre,   le 15 mars 1923, <strong>Théophile</strong> et Zélia divorcent. Il part vivre à Roeulx, rue Arthur Lamendin, puis est libéré du service militaire le 28 novembre 1928.</p>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
     
     <ul>
         <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>

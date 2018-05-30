@@ -79,8 +79,11 @@
         <li><a href="poilus/MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="poilus/MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="poilus/ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
-        <li><a href="poilus/VELU-Adrien.php" class="AsideSelected">VELU Adrien (+)</a></li>
-        <li><a href="poilus/autres.php">Autres poilus</a></li>
+        <li><a href="poilus/VELU-Adrien.php">VELU Adrien (+)</a></li>
+        <li><a href="poilus/soldats-ardennes.php">Les soldats des Ardennes</a></li>
+        <li><a href="poilus/soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="poilus/autres.php">Les soldats du Nord</a></li>
+        <li><a href="poilus/soldats-belgique.php" class="AsideSelected">Les soldats du Belgique</a></li>
    </ul>
  
     <div id="pubaside">
@@ -139,7 +142,7 @@
     <figcaption>Volontaires britanniques en août 1914<br />(source : Imperial War Museums)</figcaption>
 </figure>
   
-<h4>Le bilan de la Grande Guerre</h4>
+<h2>Le bilan de la Grande Guerre</h2>
 
     <table class="tab_camp">
         <caption class="legende" align="bottom">Mobilisés et tués en 14-18<br />(source: Histoire-Géo 3e - Hachette Education)</caption>

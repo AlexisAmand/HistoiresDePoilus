@@ -183,7 +183,7 @@
             <figcaption>Le camp de Hammelburg<br/>(Carte postale)</figcaption>
         </figure>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
 
 <ul>
     <li>Delcampe (pour les cartes postales)</li>

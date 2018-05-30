@@ -71,7 +71,7 @@
     
     <p>Vous trouverez sur cette page la liste de toutes les ressources qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. Il peut s'agir de sites web, de livres ou même de revues. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php">me contacter</a> si vous avec une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c&#39;est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p>Certains documents sont <span class="auto-style1"><strong>des pdf</strong></span>, selon la configuration de votre ordinateur, ils peuvent <span  class="auto-style1"><strong>mettre un petit moment à s&#39;afficher</strong></span>. Pour lire ces pdf, vous devez posséder un logiciel comme Adobe Reader, que vous pouvez <a href="https://get.adobe.com/fr/reader/">télécharger gratuitement ici</a>.</p>
 
-    <br/><h4>Dossiers d'anciens combattants</h4>
+    <br/><h2>Dossiers d'anciens combattants</h2>
 
     <ul>
 		<li><a href="http://archives.genealexis.fr/album/13-carlier-druon-joseph" title="version numérisée du dossier d'ancien combattant de Druon Joseph CARLIER">
@@ -89,7 +89,7 @@
 
 	</ul>
 
-    <br/><h4>Historique des bataillons de chasseurs</h4>
+    <br/><h2>Historique des bataillons de chasseurs</h2>
     
 	<ul>
 		<li><a href="pdf/Historique-12-BC.pdf">Historique du 12e bataillon de chasseurs</a><br />(Gallica / Service historique de la Défense)</li>
@@ -97,7 +97,7 @@
 
     <br /><br />    
         
-    <h4>Historique de l&#39;Armée d&#39;Afrique</h4>
+    <h2>Historique de l&#39;Armée d&#39;Afrique</h2>
     
 	<ul>
 		<li><a href="http://gallica.bnf.fr/ark:/12148/bpt6k6342646q">
@@ -107,7 +107,7 @@
 
     <br /><br />
 
-    <h4>Historiques des régiments d&#39;infanterie</h4>
+    <h2>Historiques des régiments d&#39;infanterie</h2>
     
 	<ul>
        	<li><a href="pdf/historique_du_33eRI.pdf">Historique du 33e Régiment d'Infanterie</a><br />(anonyme, Imprimerie J. Dumoulin, Paris, 1920 / Numérisé par Daniel Crozat)</li>
@@ -119,7 +119,7 @@
 
     <br /><br />
 
-    <h4>Historiques des régiments d&#39;infanterie territoriale</h4>
+    <h2>Historiques des régiments d&#39;infanterie territoriale</h2>
     
 	<ul>
         <li><a href="pdf/historique_du_2e_RIT.pdf">Historique du 2e Régiment d'Infanterie Territoriale</a><br />(Historique numérisé par Paul Chagnoux en 2006)</li>
@@ -127,15 +127,17 @@
         <li><a href="pdf/3eRIT.pdf">Historique du 3e Régiment d&#39;Infanterie Territoriale</a><br />(Version retranscrite)</li>
 	</ul>
     
-<br /><br />
-<h4>Historiques des régiments d&#39;artillerie de campagne</h4>
+	<br /><br />
+	
+	<h2>Historiques des régiments d&#39;artillerie de campagne</h2>
     
 	<ul>
         <li><a href="pdf/Historique-15-RAC.pdf">Historique du 15e Régiment d'Artillerie de Campagne</a><br />(Gallica / Service historique de la Défense)</li>    
 	</ul>
         
-<br /><br />
-<h4>Vie quotidienne des soldats</h4>
+	<br /><br />
+	
+	<h2>Vie quotidienne des soldats</h2>
 
         <ul>
             <li><a href="pdf/fiche-objet-uniformes-14-18.pdf">L’uniforme du fantassin français en 1914 et 1915</a><br/>(Musée de l’Armée - Hôtel des Invalides)</li>
@@ -147,8 +149,9 @@
             <li>Les oubliés de la Grande Guerre<br />(par Annette Becker)</li>
         </ul>
         
-<br /><br />
-<h4>Ouvrages sur la Grande Guerre</h4>
+	<br /><br />
+	
+	<h2>Ouvrages sur la Grande Guerre</h2>
     
     <ul>
     	<li><a href="pdf/hanotaux-tome 03.pdf">Histoire illustrée de la guerre de 1914 (tome 3)</a><br />(Gabriel Hanotaux de l'Académie Française, 1916)</li>
@@ -160,28 +163,31 @@
         <li>Août 1914, La Bataille de Sarrebourg<br />(Joseph Elmerich, 1993)</li>
         <li><a href="http://www.amazon.fr/gp/product/2227487194/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2227487194&linkCode=as2&tag=lagenealogent-21">Encyclopédie de la Grande Guerre</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2227487194" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Editions Bayard / sous la direction de Stephane Audouin-Rouzeau et Jean-Jacques Becker)</li>
         <li><a href="http://www.amazon.fr/gp/product/270119198X/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=270119198X&linkCode=as2&tag=lagenealogent-21">Les Grandes Guerres 1914-1945</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=270119198X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-<br />(Editions Belins / ouvrage dirigé par Henry Rousso)</li>
+		<br />(Editions Belins / ouvrage dirigé par Henry Rousso)</li>
         <li>Les collections de l&#39;histoire n°61</li>
       
     </ul>
     
-<br /><br />
-<h4>Presse&nbsp; ancienne</h4>
+	<br /><br />
+	
+	<h2>Presse&nbsp; ancienne</h2>
     
     <ul>
       <li><a href="http://gallica.bnf.fr/ark:/12148/cb32732967q/date">Bulletin Religieux de l'Archidiocèse de Rouen</a><br />(Gallica / Bibliothèque nationale de France)      </li>
       <li><a href="http://gallica.bnf.fr/ark:/12148/cb32826480g/date">Nouvelles de France : chronique hebdomadaire de la presse française </a> <br />(Gallica / Bibliothèque nationale de France)      </li>
     </ul>
     
-<br /><br />
-<h4>Doctorats et thèses</h4>
+	<br /><br />
+	
+	<h2>Doctorats et thèses</h2>
     
     <ul>
     	<li>Prisonnier pendant la Grande Guerre, la captivité de guerre en Allemagne, 1914–1921<br />(thèse rédigée par Uta Hinz sous la direction de Gerd Krumeich et soutenue par elle à l’université de Fribourg en 2000)</li>
     </ul>
     
-<br /><br/>
-<h4>Documents officiels</h4>
+	<br /><br/>
+	
+	<h2>Documents officiels</h2>
     
     <ul>
     	<li><a href="pdf/jorf-03-07-1930.pdf">Journal Officiel de la République française n°156 du 3 juillet 1930</a><br />(Gallica / Bibliothèque nationale de France)<br />Attention, le document fait presque 78 Mo, il peut mettre du temps à se télécharger...</li>
@@ -192,8 +198,9 @@
 
     </ul>
     
-<br /><br/>
-<h4>Guides de recherche</h4>
+	<br /><br/>
+	
+	<h2>Guides de recherche</h2>
     
     <ul>
         <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>
@@ -201,11 +208,14 @@
         <li><a href="http://www.rfgenealogie.com">Les médailles et décorations</a><br />(Martin Média / Revue Française de Généalogie)</li>
     </ul>
     
-<br /><br/>
-<h4>Sites web</h4>
+	<br /><br/>
+	
+	<h2>Sites web</h2>
     
 	<ul>
 		<li>Les livres d'or des soldats morts pour la France (Archives Nationales)</li>
+        <li><a href="http://www.bel-memorial.org">Bel-Memorial (Belgique)</a></li>
+        <li><a href="https://www.wardeadregister.be/fr">Dead War Register (Belgique)</a></li>
 		<li><a href="http://archivesdepartementales.lenord.fr">Archives Départementales du Nord</a></li>
         <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/">Mémoire des Hommes</a> (Ministère de la Défense)</li>
         <li><a href="http://www.memorial-genweb.org/~memorial2/">Mémorial-GenWeb</a></li>

@@ -114,7 +114,7 @@
 
 <p>Dès le 15 août 1915, et à l'initiative d'un prisonnier anglais nommé KAMPS, les autorités allemandes mettent en place 24 boîtes aux lettres réparties à travers le camps, ainsi qu'un bureau de poste (le Post Office R. X. D.) situé à côté du corps de garde. Cette poste privée, exclusivement réservée à un usage à l'intérieur du camp, a pour but la simplification de la distribution du courrier aux prisonniers qui n'ont plus besoin d'aller le chercher eux mêmes.</p>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
 
 <ul>
     <li>La Lanterne du 27 juillet 1916 (disponible sur Gallica)</li>

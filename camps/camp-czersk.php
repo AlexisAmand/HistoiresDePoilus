@@ -122,7 +122,7 @@
 
 <p>En 1923, la "Gazette de Bayonne, de Biarritz et du Pays Basque" annonce dans un article daté du 12 août que les corps de 49 soldats français morts en captivité au camp de Czersk vont être rapatriés.</p>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
 
 <ul>
     <li>Gazette de Bayonne, de Biarritz et du Pays Basque du 12 août 1923 (disponible sur Gallica)

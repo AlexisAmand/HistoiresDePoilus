@@ -189,7 +189,7 @@
 
 <br /><br />
 
-    <h4>Tombes de guerre du Commonwealth</h4>
+    <h2>Tombes de guerre du Commonwealth</h2>
     <p>Le cimetière communal d&#39;Eth contient aussi 9 tombes du Commonwealth.</p>
     <p>&nbsp;</p>
 

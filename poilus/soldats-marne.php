@@ -4,14 +4,13 @@
 
 <meta charset="utf-8">
           
-<title>Biographie et parcours du soldat Alexandre Ernest MAILLART - Histoires de Poilus</title>
-
-<meta content="Parcours de Alexandre Ernest MAILLART, soldat pendant la Première Guerre Mondiale et membre de la 6e Section de Chemin de Fer de Campagne" name="description">
+<title>Histoires de Poilus - Quelques poilus de la Marne</title>
+<meta content="Liste d'individus de la Marne en âge de participer à la Grande Guerre dont la parenté et la mobilisation n'ont pas encore été prouvées" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-         
+   
 </head>   
 
 <body>
@@ -58,7 +57,7 @@
 <aside>
 	<ul>
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-    	<li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
+    	<li><a href="../poilus.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php" >CARIN Théophile</a></li>
@@ -73,14 +72,14 @@
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
-        <li><a href="MAILLART-Alexandre.php" class="AsideSelected">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
-        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
-        <li><a href="autres.php">Les soldats du Nord</a></li>
-        <li><a href="soldats-belgique.php">Les soldats du Belgique</a></li>
+        <li><a href="soldats-ardennes.php">les soldats des ardennes</a></li>
+        <li><a href="soldats-marne.php" class="asideselected">les soldats de la marne</a></li>
+        <li><a href="autres.php">les soldats du nord</a></li>
+        <li><a href="soldats-belgique.php">les soldats du belgique</a></li>
+        
    </ul>
    
     <div id="pubaside">
@@ -99,28 +98,21 @@
 
 <article>
 
-<h1>MAILLART Alexandre Ernest</h1>
+<h1>Les poilus de la Marne</h1>
 
-<p><strong>Alexandre Ernest MAILLART </strong>est né le 24 juillet 1874 à <a href="../releves/betheniville.php">Bétheniville</a>, fils d’Achille Onésiphore et Julie Adèle BALTAZART, elle-même fille de Jean-Baptiste et Julie Joséphine KRAUTH (mes sosas n°116 et n°117).&nbsp; Alexandre est le cousin d&#39;<a href="BALTAZART-Ernest-Auguste.php">Ernest Auguste BALTAZART</a>.</p>
-    <p>Le 18 septembre 1899, Alexandre épouse à Boult-sur-Suippe (Marne) Marie Berthe GAUCHET, âgée de 25 ans, fille légitime d’Hyppolyte et Marie-Zélie SOMMELIER. Lors de son mariage, Alexandre travaille pour la Compagnie des Chemins de Fer de l’Est. Leur fils Marcel naît à Bar-le-Duc (Meuse) le 9 mai 1901, rue des romains.</p>
+<ul>   
 
-<figure>
-    <a href="images/matricule-alexandre-maillart.jpg" id="single_image" title="Extrait de sa fiche matricule">
-    <img src="miniatures/matricule-alexandre-maillart.jpg" alt="Extrait de la fiche matricule d'Alexandre MAILLART"/>
-    </a>
-    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir)</figcaption>
-</figure>
+    <li><strong>Jules Alphonse ASTIER</strong>, né le 14 février 1872 à Bétheniville (Marne), petit-fils de mon aïeule Julie Joséphine KRAUTH via Louise Adèle BALTAZART. <br /><br /></li>
 
-<p>A la mobilisation, <strong>Alexandre</strong> est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des <strong>Sections de Chemins de Fer de Campagne</strong> du 2 août 1914 au 5 janvier 1919. Je sais que, pour de nombreux lecteurs, cette affectation ne fait pas de lui un poilu au sens strict du terme, car il n’était pas dans l’enfer de Verdun ou dans la boue des tranchées. Mais laissez-moi vous raconter la suite.</p>
+    <li><strong>Eugène Alexandre CARON</strong>, né le 16 avril 1869 à Montigny-sur-Vesle (Marne). Il rejoint la 6e section d'infirmiers le 3 août 1914. Le 24 août 1915, il est détaché dans une usine de Clermont-Ferrant.<br /><br /></li>
 
-<p>Il est inscrit au tableau spécial de la médaille militaire d’employé principal de 2e classe à la <strong>6e Section de Chemin de Fer de Campagne</strong> : <em>&quot;Détaché dans une gare depuis le 12 février 1915, il a assuré avec beaucoup de zèle, de sang-froid et sans défaillances le service de cette gare et jusqu’à ce que l’intensité du bombardement sur la ligne et sur la station l’ait obligé à s’en éloigner le 22 février 1916 au soir. Au cours de plus de 20 bombardements dirigés sur la localité et sur la voie ferrée, il a pris a chaque fois que les circonstances l’ont commandé les dispositions convenables pour empêcher les trains de franchir la zone bombardée et assurer leur passage à l’issue du bombardement. (arrêté ministériel du 20-4-16 et J.O du 23-4-16). La gare n'est pas indiquée sur le JO.&quot;</em></p>
+    <li><strong>Alexandre Ernest MAILLART</strong> est né le 23 juillet à Bétheniville, petit-fils de mon aïeule Julie Joséphine KRAUTH via Julie Adèle BALTAZART. Il est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des sections de chemins de fer de campagne du 2 août 1914 au 5 janvier 1919.<br /><br /></li>
 
-<h2>Sources et bibliographie</h2>
+    <li><strong>Léopold PAQUET</strong> est né le 5 décembre 1886 à Reims (Marne). Le 20 juin 1914, il épouse à Bétheniville Marie Hélène ARNOULD, la soeur de mon arriére-grand-pére. Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 août 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 août 1917 pour paralysie radiale du bras gauche. Il est décédé à Bétheniville le 10 octobre 1953.<br /><br /></li>
+
+</ul>
     
-    <ul>
-        <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>
-       
-    </ul>
+<p></p>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
@@ -138,7 +130,7 @@
     <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
 </footer>
 
-<?php include('../include/stats.inc'); ?> 
+<?php include('../include/stats.inc'); ?>
 
 <!-- javascript -->
 

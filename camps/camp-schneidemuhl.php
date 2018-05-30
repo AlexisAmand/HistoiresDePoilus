@@ -158,7 +158,7 @@
     <figcaption>Prisonniers anglais jouant au football<br />(source allemande)</figcaption>   
 </figure>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
 
 <ul>
     <li>Delcampe (pour les cartes postales)</li>

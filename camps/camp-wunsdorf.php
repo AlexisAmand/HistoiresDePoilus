@@ -140,7 +140,7 @@
 
 <p>1084 prisonniers arabes et 49 prisonniers indiens du camp sont envoyés rejoindre l&#39;armée ottomane entre 1916 et 1917: certains volontairements, d&#39;autres de force. Les prisonniers restant dans le camp en 1917 sont transférés dans des camps en Roumanie occupée.</p>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
 
 <ul>   
     <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>

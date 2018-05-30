@@ -176,7 +176,7 @@
     <figcaption>Diverses ethnies représentées au camp<br />(source allemande)</figcaption>
 </figure>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
 
 <ul>
   

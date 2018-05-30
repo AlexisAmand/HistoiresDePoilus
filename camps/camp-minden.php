@@ -152,7 +152,7 @@
         </video>
     </div>
 
-<h4>Les prisonniers au travail</h4>
+<h2>Les prisonniers au travail</h2>
 
 <figure>
     <a href="images/minden-05.jpg" id="single_image" title="La construction des chemins à Minden">
@@ -166,7 +166,7 @@
     <figcaption>Pose du chemin de fer portatif<br />(source allemande)</figcaption>
 </figure>
 
-<h4>La vie au camp n°1</h4>
+<h2>La vie au camp n°1</h2>
 
 <figure>
     <a href="images/minden-02.jpg" id="single_image" title="Distribution de dons patriotiques à Minden I">
@@ -180,7 +180,7 @@
     <figcaption>Salle de soldats au camp<br />(source allemande)</figcaption>
 </figure>
 
-<h4>La vie au camp n°2</h4>
+<h2>La vie au camp n°2</h2>
 
 <figure>
     <a href="images/minden-03.jpg" id="single_image" title="La cuisine et le menu à Minden II">
@@ -188,7 +188,7 @@
     <figcaption>Cuisine et menu<br />(source allemande)</figcaption>
 </figure>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
 
 <ul>  
     <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>

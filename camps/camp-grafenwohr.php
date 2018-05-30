@@ -195,7 +195,7 @@
 
 <p>En 1928, la nécropole de Sarrebourg, en Lorraine, accueille le Géant Enchainé, une oeuvre en provenance du cimetière français du camp de prisonniers de Grafenwöhr et réalisée par le sculpteur Frédéric STOLL, soldat du 347e R.I</p>
 
-<h4>Sources et bibliographie</h4>
+<h2>Sources et bibliographie</h2>
 
 <ul>
     <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
