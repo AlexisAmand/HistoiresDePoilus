@@ -15,8 +15,6 @@ g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.pare
 <noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
 
-
-
 <!-- Google Ana -->
 
 <script>
