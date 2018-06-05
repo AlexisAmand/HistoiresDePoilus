@@ -49,8 +49,7 @@
 
 	<ul>
         <li><a href="camp-bad-orb.php">Bad Orb</a></li>
-        <li><a href="camp-chemnitz.php" class="AsideSelected">Chemnitz</a></li>
-        <li><a href="camp-heuberg.php">Heuberg</a></li>
+        <li><a href="camp-chemnitz.php" class="AsideSelected">Chemnitz</a></li>       
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
@@ -64,6 +63,7 @@
         <li><a href="camp-hammelburg.php">Hammelburg</a></li>
         <li><a href="camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camp-herne.php">Herne</a></li>
+        <li><a href="camp-heuberg.php">Heuberg</a></li>
         <li><a href="camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camp-limburg.php">Limburg</a></li>
         <li><a href="camp-mannheim.php">Mannheim</a></li>        
