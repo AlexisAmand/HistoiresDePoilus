@@ -103,6 +103,12 @@
 
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
 
+<figure>    
+	<a href="images/Wetzlar/localisation-wetzlar.jpg" id="single_image" title="Localisation du camp de Wetzlar">
+    <img src="miniatures/Wetzlar/localisation-wetzlar.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Wetzlar"></a>
+    <figcaption>Localisation du camp de Wetzlar<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+</figure>  
+
 <figure>
     <a href="images/Wetzlar/wetzlar-01.jpg" id="single_image" title="Arrivage de vivre à Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-01.jpg" alt="Arrivage de vivre dans le camp de Wetzlar pendant la Première Guerre Mondiale"></a>

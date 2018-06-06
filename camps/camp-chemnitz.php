@@ -106,7 +106,7 @@
 
 <figure>
     <img src="miniatures/Chemnitz/carte-camp-chemnitz.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Chemnitz">
-    <figcaption>Localisation du camp de Chemnitz<br/>(source: BNF - Gallica)</figcaption>
+    <figcaption>Localisation du camp de Chemnitz<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>  
 
 <p>En novembre 1915, l'Office d'information des oeuvres de secours aux prisonniers de guerre est informé que tous les prisonniers civils appartenant au camp de Chemnitz viennent d’être transférés au camp de Grofsporitscg Bei Zittau (Saxe). Lors de la visite du camp le 12, le dépôt de prisonnier est installé à la caserne Friedrich August, située dans le quartier Ebensdorf.</p>

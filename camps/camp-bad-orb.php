@@ -105,7 +105,7 @@
 <figure>
     
     <img src="miniatures/Bad-Orb/carte-camp-bad-orb.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Bad Orb">
-    <figcaption>Localisation du camp de Bad Orb<br/>(source: BNF - Gallica)</figcaption>
+    <figcaption>Localisation du camp de Bad Orb<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>    
 
 <figure>

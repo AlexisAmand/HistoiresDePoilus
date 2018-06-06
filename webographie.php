@@ -78,21 +78,24 @@
         Le dossier d'ancien combattant de Druon Joseph CARLIER</a> (Archives Départementales du Nord)</li>
         <li><a href="http://archives.genealexis.fr/album/15-carlier-louis-abraham" title="version numérisée du dossier d'ancien combattant de Louis Abraham CARLIER">
         Le dossier d'ancien combattant de Louis Abraham CARLIER</a> (Archives Départementales du Nord)</li>
+        <li><a href="http://archives.genealexis.fr/album/16-delaux-oscar" title="version numérisée du dossier d'ancien combattant d'Oscar DELAUX">
+        Le dossier d'ancien combattant d'Oscar DELAUX</a> (Archives Départementales du Nord)</li>
         <li><a href="http://archives.genealexis.fr/image/115-page-01" title="version numérisée du dossier d'ancien combattant d'Auguste FIEVET">
         Le dossier d'ancien combattant d'Auguste FIEVET</a> (Archives Départementales du Nord)</li>
+        <li><a href="http://archives.genealexis.fr/album/18-grain-leon" title="version numérisée du dossier d'ancien combattant de Léon Albert GRAIN">
+        Le dossier d'ancien combattant de Léon Albert GRAIN</a> (Archives Départementales du Nord)</li>   
         <li><a href="http://archives.genealexis.fr/album/22-joly-noel" title="version numérisée du dossier d'ancien combattant de Noël JOLY">
         Le dossier d'ancien combattant de Noël JOLY</a> (Archives Départementales du Nord)</li>
         <li><a href="http://archives.genealexis.fr/album/20-letienne-florimond" title="version numérisée du dossier d'ancien combattant de Florimond LETIENNE">
         Le dossier d'ancien combattant de Florimond LETIENNE</a> (Archives Départementales du Nord)</li>
-        <li><a href="http://archives.genealexis.fr/album/18-grain-leon" title="version numérisée du dossier d'ancien combattant de Léon Albert GRAIN">
-        Le dossier d'ancien combattant de Léon Albert GRAIN</a> (Archives Départementales du Nord)</li>   
-
 	</ul>
 
-    <br/><h2>Historique des bataillons de chasseurs</h2>
+    <br /><br />
+    
+    <h2>Historique des bataillons de chasseurs</h2>
     
 	<ul>
-		<li><a href="pdf/Historique-12-BC.pdf">Historique du 12e bataillon de chasseurs</a><br />(Gallica / Service historique de la Défense)</li>
+		<li><a href="pdf/Historique-12-BC.pdf" title="Historique du 12e bataillon de chasseurs">Historique du 12e bataillon de chasseurs</a><br />(Gallica / Service historique de la Défense)</li>
 	</ul>
 
     <br /><br />    
@@ -100,7 +103,7 @@
     <h2>Historique de l&#39;Armée d&#39;Afrique</h2>
     
 	<ul>
-		<li><a href="http://gallica.bnf.fr/ark:/12148/bpt6k6342646q">
+		<li><a href="http://gallica.bnf.fr/ark:/12148/bpt6k6342646q" title="Historique du 4e bataillon d'infanterie légère d'Afrique">
         Historique du 3e bataillon de marche et du 4e bataillon d'infanterie légère d'Afrique</a><br />
         (Gallica / Service historique de la Défense)</li>
 	</ul>
@@ -110,11 +113,11 @@
     <h2>Historiques des régiments d&#39;infanterie</h2>
     
 	<ul>
-       	<li><a href="pdf/historique_du_33eRI.pdf">Historique du 33e Régiment d'Infanterie</a><br />(anonyme, Imprimerie J. Dumoulin, Paris, 1920 / Numérisé par Daniel Crozat)</li>
-        <li><a href="pdf/127-historique-14-18.pdf">Historique du 127e Régiment d'Infanterie</a><br />(anonyme, numérisé par Julien Brasseur)</li>
-        <li><a href="pdf/153eRI.pdf">Historique du 153e Régiment d'Infanterie</a><br/>(Historique numérisé par Paul Chagnoux en 2012)</li>
-        <li><a href="pdf/Historique-162-RI.pdf">Historique du 162e Régiment d'Infanterie</a><br/>(anonyme)</li>
-        <li><a href="pdf/Historique-164-RI.pdf">Historique du 164e Régiment d'Infanterie</a><br />(BDIC / Numérisé par Ancestramil)</li>
+       	<li><a href="pdf/historique_du_33eRI.pdf" title="Historique du 33e Régiment d'Infanterie">Historique du 33e Régiment d'Infanterie</a><br />(anonyme, Imprimerie J. Dumoulin, Paris, 1920 / Numérisé par Daniel Crozat)</li>
+        <li><a href="pdf/127-historique-14-18.pdf" title="Historique du 127e Régiment d'Infanterie">Historique du 127e Régiment d'Infanterie</a><br />(anonyme, numérisé par Julien Brasseur)</li>
+        <li><a href="pdf/153eRI.pdf" title="Historique du 153e Régiment d'Infanterie">Historique du 153e Régiment d'Infanterie</a><br/>(Historique numérisé par Paul Chagnoux en 2012)</li>
+        <li><a href="pdf/Historique-162-RI.pdf" title="Historique du 162e Régiment d'Infanterie">Historique du 162e Régiment d'Infanterie</a><br/>(anonyme)</li>
+        <li><a href="pdf/Historique-164-RI.pdf" title="Historique du 164e Régiment d'Infanterie">Historique du 164e Régiment d'Infanterie</a><br />(BDIC / Numérisé par Ancestramil)</li>
 	</ul>
 
     <br /><br />
@@ -122,9 +125,9 @@
     <h2>Historiques des régiments d&#39;infanterie territoriale</h2>
     
 	<ul>
-        <li><a href="pdf/historique_du_2e_RIT.pdf">Historique du 2e Régiment d'Infanterie Territoriale</a><br />(Historique numérisé par Paul Chagnoux en 2006)</li>
-        <li><a href="pdf/historique_du_3e_RIT.pdf">Historique du 3e Régiment d'Infanterie Territoriale</a><br />(Gallica / Service historique de la Défense)</li>
-        <li><a href="pdf/3eRIT.pdf">Historique du 3e Régiment d&#39;Infanterie Territoriale</a><br />(Version retranscrite)</li>
+        <li><a href="pdf/historique_du_2e_RIT.pdf" title="Historique du 2e Régiment d'Infanterie Territoriale">Historique du 2e Régiment d'Infanterie Territoriale</a><br />(Historique numérisé par Paul Chagnoux en 2006)</li>
+        <li><a href="pdf/historique_du_3e_RIT.pdf" title="Historique du 3e Régiment d'Infanterie Territoriale">Historique du 3e Régiment d'Infanterie Territoriale</a><br />(Gallica / Service historique de la Défense)</li>
+        <li><a href="pdf/3eRIT.pdf" title="Historique du 3e Régiment d'Infanterie Territoriale">Historique du 3e Régiment d&#39;Infanterie Territoriale</a><br />(Version retranscrite)</li>
 	</ul>
     
 	<br /><br />
@@ -132,7 +135,7 @@
 	<h2>Historiques des régiments d&#39;artillerie de campagne</h2>
     
 	<ul>
-        <li><a href="pdf/Historique-15-RAC.pdf">Historique du 15e Régiment d'Artillerie de Campagne</a><br />(Gallica / Service historique de la Défense)</li>    
+        <li><a href="pdf/Historique-15-RAC.pdf" title="Historique du 15e Régiment d'Artillerie de Campagne">Historique du 15e Régiment d'Artillerie de Campagne</a><br />(Gallica / Service historique de la Défense)</li>    
 	</ul>
         
 	<br /><br />
@@ -140,13 +143,22 @@
 	<h2>Vie quotidienne des soldats</h2>
 
         <ul>
-            <li><a href="pdf/fiche-objet-uniformes-14-18.pdf">L’uniforme du fantassin français en 1914 et 1915</a><br/>(Musée de l’Armée - Hôtel des Invalides)</li>
-            <li><a href="http://www.amazon.fr/gp/product/B005MOXY9S/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B005MOXY9S&linkCode=as2&tag=lagenealogent-21">L'uniforme et les armes des soldats de la guerre de 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=B005MOXY9S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br/>(Editions Casterman / Liliane et Fred Funcken)</li>
-            <li><a href="pdf/letraitementdesp00chriuoft.pdf">Le traitement des prisonniers français en Allemagne</a><br/>(Librairie Chapelot / Dr. de Christmas)</li>
-            <li><a href="pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a><br />(source allemande)</li>
-            <li><a href="pdf/aus-deutschen-kriegsgefangenenlagern.pdf">Aus deutschen Kriegsgefangenenlagern</a><br />(Deutsches Rotes Kreuz)</li>
-            <li>Prisonniers 1914-1918<br/>(Editions Sulton / Jean-Paul Briaste)</li>
-            <li>Les oubliés de la Grande Guerre<br />(par Annette Becker)</li>
+            <li><a href="pdf/souffrances_prisonniers_guerre_1914_1918.pdf" title="Les souffrances des prisonniers de guerre en 1914-1918 par Jean-Jules Dufour">
+            Les souffrances des prisonniers de guerre en 1914-1918</a><br/>(Par Jean-Jules Dufour)</li>
+            <li><a href="pdf/fiche-objet-uniformes-14-18.pdf">
+            L’uniforme du fantassin français en 1914 et 1915</a><br/>(Musée de l’Armée - Hôtel des Invalides)</li>
+            <li><a href="http://www.amazon.fr/gp/product/B005MOXY9S/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B005MOXY9S&linkCode=as2&tag=lagenealogent-21">
+            L'uniforme et les armes des soldats de la guerre de 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=B005MOXY9S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br/>(Editions Casterman / Liliane et Fred Funcken)</li>
+            <li><a href="pdf/letraitementdesp00chriuoft.pdf" title="Le traitement des prisonniers français en Allemagne par Dr. de Christmas">
+            Le traitement des prisonniers français en Allemagne</a><br/>(Librairie Chapelot / Dr. de Christmas)</li>
+            <li><a href="pdf/FoXIIa1133_qt.pdf">
+            Die Kriegsgefangenen in Deutschland</a><br />(source allemande)</li>
+            <li><a href="pdf/aus-deutschen-kriegsgefangenenlagern.pdf">
+            Aus deutschen Kriegsgefangenenlagern</a><br />(Deutsches Rotes Kreuz)</li>
+            <li><a href="https://amzn.to/2Jfz7DO" title="Prisonniers 1914-1918 par Jean-Paul Briaste">
+            Prisonniers 1914-1918</a><br/>(Editions Sulton / Jean-Paul Briaste)</li>
+            <li><a href="https://amzn.to/2xLG65W" title="Les oubliés de Grande Guerre par Annette Becker">
+            Les oubliés de la Grande Guerre</a><br />(par Annette Becker)</li>
         </ul>
         
 	<br /><br />

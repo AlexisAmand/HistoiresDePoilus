@@ -104,7 +104,7 @@
     
 <figure>
     <img src="miniatures/Friedrichsfeld/carte-camp-friedrichsfeld.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Friedrichsfeld">
-    <figcaption>Localisation du camp de Friedrichsfeld<br/>(source: BNF - Gallica)</figcaption>
+    <figcaption>Localisation du camp de Friedrichsfeld<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>      
     
 <p>Dans un rapport adressé au Ministère de la Guerre le 20 août 1914, le médecin major de 1e classe CHON, du 14e Régiment de Hussard, fait prisonnier à Ethe (Belgique) le 22 août 1914, emprisonné aux camps de Friedrichsfeld et Senne, puis ramené en Suisse pour raison de santé, rapporte que <em>&quot;le sous-chef du camp [de Friedrichsfeld], le Major BACH, avait donné l&#39;ordre de fusiller les fuyard et promettait une indemnité de 70 marks à tout homme qui rapporterait le cadavre d&#39;un français. Le fait nous a été rapporté par un ordonnance allemande qui se ventait d&#39;avoir abattu un prisonnier français dans ces conditions&quot;.</em></p>

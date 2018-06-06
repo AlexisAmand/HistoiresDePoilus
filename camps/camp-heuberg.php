@@ -105,7 +105,7 @@
 <figure>    
 	<a href="images/Heuberg/localisation-heuberg.jpg" id="single_image" title="Localisation du camp de Heuberg">
     <img src="miniatures/Heuberg/localisation-heuberg.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Heuberg"></a>
-    <figcaption>Localisation du camp de Heuberg<br/>(source: BNF - Gallica)</figcaption>
+    <figcaption>Localisation du camp de Heuberg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>  
 
 <figure>

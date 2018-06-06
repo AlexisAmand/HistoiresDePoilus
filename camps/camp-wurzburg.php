@@ -101,7 +101,17 @@
 
 <h1>Le camp de prisonniers de Würzburg</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p><p>Le camp de prisonniers de Würzburg était situé en Bavière (Allemagne). Les prisonniers du camp ont décrit avec beaucoup d'humour les profils de leurs gardiens (appelés <em>post</em> ou <em>posten</em>), qui vont du brave père de famille, le "<em>post doux [...] qui cause avec les prisonniers</em>", au stéréotype prussien, "<em>le post terrible [...] qui ne dit mot, tortille ses moustaches et qu'il ne ferait pas bon de contrarier</em>", en passant par le gardien austère, "<em>le post sérieux [...] qui voit en ville son groupe de prisonniers reluquer avec insistance vers les trottoirs, et qui est choqué, absolument choqué</em>".</p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p>
+
+<p></p>
+
+<p>Le camp de prisonniers de Würzburg était situé en Bavière (Allemagne). Les prisonniers du camp ont décrit avec beaucoup d'humour les profils de leurs gardiens (appelés <em>post</em> ou <em>posten</em>), qui vont du brave père de famille, le "<em>post doux [...] qui cause avec les prisonniers</em>", au stéréotype prussien, "<em>le post terrible [...] qui ne dit mot, tortille ses moustaches et qu'il ne ferait pas bon de contrarier</em>", en passant par le gardien austère, "<em>le post sérieux [...] qui voit en ville son groupe de prisonniers reluquer avec insistance vers les trottoirs, et qui est choqué, absolument choqué</em>".</p>
+
+<figure>    
+	<a href="images/Wurzburg/localisation-wurzburg.jpg" id="single_image" title="Localisation du camp de Würzburg">
+    <img src="miniatures/Wurzburg/localisation-wurzburg.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Würzburg"></a>
+    <figcaption>Localisation du camp de Würzburg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+</figure>  
 
 <p>Le « Rapports des délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne » indique qu’au 19 août 1916, il y a environ 1500 prisonniers dans le camp de Würzburg.</p>
 

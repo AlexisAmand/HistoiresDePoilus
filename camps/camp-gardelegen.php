@@ -104,7 +104,7 @@
 
 <figure>
     <img src="miniatures/Gardelegen/carte-camp-gardelegen.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Gardelegen">
-    <figcaption>Localisation du camp de Gardelegen<br/>(source: BNF - Gallica)</figcaption>
+    <figcaption>Localisation du camp de Gardelegen<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure> 
 
 <p>Les prisonniers avaient installé à Gardelegen un petit théâtre où les Français, les Anglais et les Belges donnaient de représentations. Il était également possible d’y donner des représentations cinématographiques.</p>

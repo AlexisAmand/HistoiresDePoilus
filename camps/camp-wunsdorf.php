@@ -107,7 +107,7 @@
 
 <figure>
     <img src="miniatures/Wunsdorf/carte-camp-zossen.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Zossen-Wünsdorf" width="360px">
-    <figcaption>Localisation du camp de Zossen<br/>(source: BNF - Gallica)</figcaption>
+    <figcaption>Localisation du camp de Zossen<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>  
 
 <p>En octobre 1914, il y a 15000 français, quelques russes et un petit nombre d’anglais. Les prisonniers sont alors logés dans des baraques en bois ou dans des  tentes, en attendant que la construction des baraques soit terminée. Ces baraques peuvent loger une compagnie et disposent d’une chambre à part pour les officiers. A l’automne 1914, la condition de vie des soldats est désastreuse : Outre la température très basse à l’intérieur des tentes, les hommes couchent sur de la paille étendue sur de la terre, avec une seule couverture pour se protéger du froid. En ce qui concerne la nourriture, les délégués du Gouvernement Espagnol précisent que les prisonniers ont une ration de pain de 500 grammes (la même que les soldats allemands), ou 750 grammes pour les soldats qui travaillent. Ils indiquent aussi que l’ordinaire d’un prisonnier se compose de café (matin), le légume et de viande (le midi) et d’un potage (le soir).</p>

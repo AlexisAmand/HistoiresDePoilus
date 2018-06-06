@@ -102,6 +102,12 @@
 
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><br /><p>Ce camp était situé à Giessen, en Hesse, dans le centre-ouest de l'Allemagne. On y dénombrait 900 hommes de troupes et 300 prisonniers civils.</p>
 
+<figure>    
+	<a href="images/Giessen/localisation-giessen.jpg" id="single_image" title="Localisation du camp de Giessen">
+    <img src="miniatures/Giessen/localisation-giessen.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Giessen"></a>
+    <figcaption>Localisation du camp de Giessen<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+</figure>  
+
 <figure>
     <a href="images/Giessen/giessen-04.jpg" id="single_image" title="Le camp de Giessen">
     <img src="miniatures/Giessen/giessen-04.jpg" alt="Vue du camp de prisonniers de Giessen pendant la Grande Guerre">

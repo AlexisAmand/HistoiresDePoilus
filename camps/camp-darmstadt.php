@@ -102,7 +102,7 @@
 <p>Ce camp était situé dans un vaste champ de manœuvres à quelques kilomètres de la ville de Darmstadt, en Hesse, dans le centre-ouest de l'Allemagne.. Il était constitué de grandes baraques en bois réunies en groupe de dix pouvant contenir un bataillon. Le camp était entouré d’un réseau de fils de fer et chaque bataillon (ensemble de 10 baraques) était à son tour entouré par un fils de fer.</p>  
 <figure>
     <img src="miniatures/Darmstadt/carte-camp-darmstadt.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Darmstadt">
-    <figcaption>Localisation du camp de Darmstadt<br/>(source: BNF - Gallica)</figcaption>
+    <figcaption>Localisation du camp de Darmstadt<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure> 
 
 <p>Louis GUINET a 27 ans quand il est fait prisonnier à Entre-deux-Eaux, près de Saint-Dié, le 29 août 1914. Il est évacué sur le camp de Darmstadt où il séjourne jusque juin 1915, date à laquelle il est envoyé au camp de représailles de <a href="camp-meyenburg.php">Meyenburg</a>. Sur son séjour à Darmstadt, il rapporte que la <em>nourriture était insuffisante et de mauvaise qualité.</em> et que les <em>prisonniers étaient traités avec brutalité</em>.</p>
