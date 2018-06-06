@@ -100,7 +100,19 @@
 
 <h1>Le camp de prisonniers de Limburg</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p><p>Le camp de Limburg était situé dans une région appellée Hesse-Nassau (en allemand Hessen-Nassau).</p><p>Le Rapport des Délégués du Gouvernement Espagnol du 27 avril 1916 indique que le camp est composé d’une série de baraques de 75 mètres de long et 12 mètres de large. Elles sont disposées sur deux rangées formées chacune de 24 baraques. Dans les intervalles qui existent entre les baraques avait été installées des cabinets d’aisances et les cantines. Les cuisines sont placées devant et derrière. Le chauffage se fait au moyen de poêles à charbon et l’éclairage est électrique.</p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p>
+
+<p></p>
+
+<p>Le camp de Limburg était situé dans une région appellée Hesse-Nassau (en allemand Hessen-Nassau).</p>
+
+<figure>    
+	<a href="images/Limburg/localisation-limburg.jpg" id="single_image" title="Localisation du camp de Limburg">
+    <img src="miniatures/Limburg/localisation-limburg.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Limburg"></a>
+    <figcaption>Localisation du camp de Limburg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+</figure> 
+
+<p>Le Rapport des Délégués du Gouvernement Espagnol du 27 avril 1916 indique que le camp est composé d’une série de baraques de 75 mètres de long et 12 mètres de large. Elles sont disposées sur deux rangées formées chacune de 24 baraques. Dans les intervalles qui existent entre les baraques avait été installées des cabinets d’aisances et les cantines. Les cuisines sont placées devant et derrière. Le chauffage se fait au moyen de poêles à charbon et l’éclairage est électrique.</p>
 
 <p>Il y avait au camp de Limburg une chapelle. Pour se distraire, les prisonniers avaient une bibliothèque riche de 2000 volumes. Une troupe théâtrale divertissait également les prisonniers. Un terrain était mis à disposition où, dimanche et fêtes, des équipes se livraient à des matchs de football.</p> 
 
