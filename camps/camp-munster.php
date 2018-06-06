@@ -110,6 +110,12 @@ span.MsoFootnoteReference
 
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p>Le camp de Munster était situé en Allemagne, dans la province de Westphalie (aujourd&#39;hui dans le land de Rhénanie-du-Nord-Westphalie) à quelques kilomètres de la frontière avec les Pays-Bas. En 1914, le commandant du dépôt de prisonniers de Munster est le Général en chef Freither VON BISSING, général de cavalerie.</p>
 
+<figure>    
+	<a href="images/Munster/localisation-munster.jpg" id="single_image" title="Localisation du camp de Munster">
+    <img src="miniatures/Munster/localisation-munster.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Munster"></a>
+    <figcaption>Localisation du camp de Munster<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+</figure> 
+
  <p>Charles PETIT, membre du 1er Régiment d'Artillerie, a été fait prisonnier à Maubeuge le 7 septembre 1914, et envoyé au camp de Munster. Le 25 juillet 1916, il est évacué vers la Suisse pour tuberculose pulmonaire. Dans un rapport, il raconte que <em>"pendant les premières six semaines, il n'y avait aucune installation pour loger les hommes, ni tentes, ni baraquements. Le nombre des prisonniers était de 24000; pour se mettre à l'abri, ils creusaient des trous dans la terre, en les couvrant tant bien que mal de mottes de gazon. Il n'y avait aucune installation de cuisine au début. La mortalité des prisonniers, à ce moment, était considérable. Les installations de baraquements n'ont été achevées que vers la fin de janvier 1915&quot;.</em></p>
 
 <figure>
@@ -120,7 +126,7 @@ span.MsoFootnoteReference
 </figure>
 
 <figure>
-    <a href="images/munster-01.jpg" id="single_image" title="Camp de Münster: Prisonniers occupés à fendre du bois">
+    <a href="images/munster-01.jpg" id="single_image" title="Prisonniers occupés à fendre du bois au Camp de Münster">
     <img src="miniatures/munster-01.jpg" alt="Prisonniers occupés à fendre du bois dans le camp de Münster pendant la Première Guerre Mondiale"></a>
     <figcaption>Prisonniers occupés à fendre du bois<br />(source allemande)</figcaption>
 </figure>
