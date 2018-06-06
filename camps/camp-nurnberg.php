@@ -100,35 +100,38 @@
 
 <article>
 
-<h1>Le camp de prisonniers de Nuremberg</h1>
+<h1>Le camp de prisonniers de Nüremberg</h1>
 
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
-    <p>Le premier numéro du Canard, le &quot;<em>Journal des Prisonniers de Guerre</em>&quot; du camp de Nürmberg (Nuremberg) paraît le 15 août 1916. Le journal est décrit comme un compagnon qui vivra avec les prisonniers les longues heures de l&#39;exil, dans l&#39;espoir de les faire s&#39;envoler un peu plus rapidement. Des numéros ont été numérisés et sont <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5673638t">disponibles sur le site de la BNF</a>.</p>
 
+<figure>    
+	<a href="images/Nurnberg/localisation-nurnberg.jpg" id="single_image" title="Localisation du camp de Nüremberg">
+    <img src="miniatures/Nurnberg/localisation-nurnberg.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Nüremberg"></a>
+    <figcaption>Localisation du camp de Nüremberg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+</figure> 
+
+<p>Le premier numéro du Canard, le &quot;<em>Journal des Prisonniers de Guerre</em>&quot; du camp de Nürmberg (Nuremberg) paraît le 15 août 1916. Le journal est décrit comme un compagnon qui vivra avec les prisonniers les longues heures de l&#39;exil, dans l&#39;espoir de les faire s&#39;envoler un peu plus rapidement. Des numéros ont été numérisés et sont <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5673638t">disponibles sur le site de la BNF</a>.</p>
 
 <figure>
     <a href="images/Nurnberg/le_canard_journal_des_prisonniers.jpg" id="single_image" title="Le Canard du 15 août 1916">
-    <img src="miniatures/Nurnberg/le_canard_journal_des_prisonniers.jpg" alt="Le premier exemplaire du canard, journal des prisonniers du camp de Nurmberg">
+    <img src="miniatures/Nurnberg/le_canard_journal_des_prisonniers.jpg" alt="Le premier exemplaire du canard, journal des prisonniers du camp de Nüremberg">
     </a>
     <figcaption>Le Canard<br />(Source: Gallica/BNF)</figcaption>
 </figure>
 
-<p>En mars 1918, le seul prisonnier belge se trouvant dans le camp de Nuremberg est transferé dans le camp d'Erlangen.</p>
-
-
+<p>En mars 1918, le seul prisonnier belge se trouvant dans le camp de Nüremberg est transferé dans le camp d'Erlangen.</p>
 
 <figure>
-    <a href="images/Nurnberg/nurnberg-01.jpg" id="single_image" title="Prisonniers de guerre à l'appel à Nuremberg">
-    <img src="miniatures/Nurnberg/nurnberg-01.jpg" alt="L'appel des prisonniers de guerre dans le camp de Nuremberg pendant la Première Guerre Mondiale">
+    <a href="images/Nurnberg/nurnberg-01.jpg" id="single_image" title="Prisonniers de guerre à l'appel à Nüremberg">
+    <img src="miniatures/Nurnberg/nurnberg-01.jpg" alt="L'appel des prisonniers de guerre dans le camp de Nüremberg pendant la Première Guerre Mondiale">
     </a>
     <figcaption>Prisonniers de guerre à l'appel<br />(source allemande)</figcaption>
 </figure>
 
 <h2>Sources et bibliographie</h2>
 
-<ul>
-    
-    <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
+<ul>   
+    <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</a></li>
     <li><a rel="nofollow" href="http://www.amazon.fr/gp/product/2708905228/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2708905228&linkCode=as2&tag=lagenealogent-21">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2708905228" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
 </ul>    
 

@@ -110,13 +110,13 @@
 </figure>  
 
 <figure>
-    <a href="images/Wetzlar/wetzlar-01.jpg" id="single_image" title="Arrivage de vivre à Wetzlar">
+    <a href="images/Wetzlar/wetzlar-01.jpg" id="single_image" title="Arrivage de vivres au camp de Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-01.jpg" alt="Arrivage de vivre dans le camp de Wetzlar pendant la Première Guerre Mondiale"></a>
     <figcaption>Arrivage de vivres<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Wetzlar/wetzlar-02.jpg" id="single_image" title="Chasseurs alpins au dîner à Wetzlar">
+    <a href="images/Wetzlar/wetzlar-02.jpg" id="single_image" title="Chasseurs alpins au dîner au camp de Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-02.jpg" alt="Chasseurs alpins pendant le dîner au camp de Wetzlar pendant la Grande Guerre"></a>
     <figcaption>Chasseurs alpins au dîner<br />(source allemande)</figcaption>
 </figure>
@@ -128,20 +128,20 @@
 </figure>
 
 <figure>
-    <a href="images/Wetzlar/wetzlar-04.jpg" id="single_image" title="En petit comité à Wetzlar">
+    <a href="images/Wetzlar/wetzlar-04.jpg" id="single_image" title="En petit comité au camp de Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-04.jpg" alt="Un groupe de prisonniers au camp de Wetzlard pendant la Première Guerre Mondiale"></a>
     <figcaption>En petit comité<br />(source allemande)</figcaption>
 </figure>
 
 
 <figure>
-    <a href="images/Wetzlar/wetzlar-05.jpg" id="single_image" title="Groupe de prisonniers russes à Wetzlar">
+    <a href="images/Wetzlar/wetzlar-05.jpg" id="single_image" title="Groupe de prisonniers russes au camp de Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-05.jpg" alt="Un groupe de prisonniers russes au camp de Wetzlard pendant la Première Guerre Mondiale"></a>
     <figcaption>Groupe de prisonniers russes<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Wetzlar/wetzlar-06.jpg" id="single_image" title="Groupe de prisonniers russes à Wetzlar">
+    <a href="images/Wetzlar/wetzlar-06.jpg" id="single_image" title="Groupe de prisonniers russes au camp de Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-06.jpg" alt="Un groupe de prisonniers russes au camp de Wetzlard pendant la Première Guerre Mondiale"></a>
     <figcaption>Groupe de prisonniers russes, Auguste au premier plan<br />(source allemande)</figcaption>
 </figure>
