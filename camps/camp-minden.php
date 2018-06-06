@@ -105,6 +105,12 @@
 
 <p>Les 2 camps de Minden étaient situés à Minderheide, un quartier de la ville. Le « lager I » était réservé aux prisonniers de guerre et le « lager II » aux autres prisonniers. Les deux camps furent réunis avant la visite des délégués Espagnols du 24 mars 1916. Le camp était constitué de baraques en bois contiguës par les angles et entourant une grande cour. Il est considéré comme le camp de plus dur.</p> 
 
+<figure>    
+	<a href="images/Minden/localisation-minden.jpg" id="single_image" title="Localisation du camp de Minden">
+    <img src="miniatures/Minden/localisation-minden.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Minden"></a>
+    <figcaption>Localisation du camp de Minden<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+</figure> 
+
 <p>Selon les délégués du Gouvernement Espagnol, Les dortoirs sont convenablement installés ; les lits, disposés sur deux rangées, sont composés de châssis en bois ; les paillasses sont bourrées de copeaux, chaque homme dispose de deux couvertures. Le chauffage se fait au moyen de grands poêles à charbon, l’éclairage est électrique. Dans chaque dortoir, il y a un large espace libre pour permettre aux prisonniers de se promener quand il pleut.</p>
 
 <table class="tab_camp">
