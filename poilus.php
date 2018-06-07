@@ -83,7 +83,7 @@
         <li><a href="poilus/soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="poilus/soldats-marne.php">Les soldats de la Marne</a></li>
         <li><a href="poilus/autres.php">Les soldats du Nord</a></li>
-        <li><a href="poilus/soldats-belgique.php" class="AsideSelected">Les soldats du Belgique</a></li>
+        <li><a href="poilus/soldats-belgique.php">Les soldats du Belgique</a></li>
    </ul>
  
     <div id="pubaside">
@@ -106,7 +106,7 @@
 
 <p>Avant de vous donner quelques chiffres, je vous propose de revenir avec vous sur le sens du mot « poilu », utilisé pour désigner les combattants français de la Grande Guerre. Contrairement aux idées reçues, le « poilu » ne doit pas son nom aux  mauvaises conditions d’hygiènes qui régnaient sur le front et qui auraient poussé les hommes à se laisser pousser la barbe et la moustache. Le terme « poilu » est en réalité apparu un siècle avant la Première Guerre Mondiale, sous le Premier Empire. Le linguiste français Albert DAUZAT indique qu’« <em>Avant d’être le soldat de la Marne, le « poilu » est le grognard d’Austerlitz, ce n’est pas l’homme à la barbe inculte, qui n’a pas le temps de se raser, ce serait trop pittoresque, c’est beaucoup mieux : c’est l’homme qui a du poil au bon endroit, pas dans la main ! </em>». Il précise également que c’est les civils de 1914 qui ont fait du poilu le soldat combattant.</p>
 
-<p>Dès l’été 1914, la France et l’Allemagne étaient en position de force. En effet, le service militaire obligatoire leur permettait de mobiliser un nombre très important d’hommes : 3,6 millions pour la France et 4 millions pour l’Allemagne.  Ces chiffres sont toutefois à relativiser car ils prennent en compte les territoriaux qui sont chargé de faire fonctionner l’administration de guerre et de garder les voies de communication (c’est par exemple le cas de <a href="poilus/JOLY-Noel-Jules.php">Noël JOLY</a>). Il faut donc ramener le nombre de combattants à 1,3 millions pour la France et 1,5 millions pour l’Allemagne. De plus, en cas de guerre, la classe première à marcher pouvait être appelée par anticipation. C'est pourquoi l'armée active comprenait également en août la classe 1913 (hommes nés en 1893) qui n'aurait dû être appelée qu'à l'automne. </p>
+<p>Dès l’été 1914, la France et l’Allemagne étaient en position de force. En effet, le service militaire obligatoire leur permettait de mobiliser un nombre très important d’hommes : 3,6 millions pour la France et 4 millions pour l’Allemagne.  Ces chiffres sont toutefois à relativiser car ils prennent en compte les territoriaux qui sont chargés de faire fonctionner l’administration de guerre et de garder les voies de communication (c’est par exemple le cas de <a href="poilus/JOLY-Noel-Jules.php">Noël JOLY</a>). Il faut donc ramener le nombre de combattants à 1,3 millions pour la France et 1,5 millions pour l’Allemagne. De plus, en cas de guerre, la classe première à marcher pouvait être appelée par anticipation. C'est pourquoi l'armée active comprenait également en août la classe 1913 (hommes nés en 1893) qui n'aurait dû être appelée qu'à l'automne. </p>
     <p>&nbsp;</p>
     
         <table class="tab_camp">

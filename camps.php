@@ -144,7 +144,7 @@
     <figcaption>Des prisonniers allemands à Toulouse<br/>(cliquez pour agrandir)</figcaption>
 </figure>
 
-    <p><em><strong>Note:</strong> Énormément de photographies sont issues d&#39;un ouvrage allemand paru en 1916 et intitulé &quot;<a href="pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a>&quot;. Je sais que l&#39;on peut me reprocher d&#39;avoir créer un site en reprenant bêtement les illustrations d&#39;un livre paru il y a 100 ans. A ceux-là, je répondrais humblement que je me suis contenté de faire un travail de classement pour que la recherche et la consultation soit plus facile et ainsi éviter aux chercheurs de parcourir tout le livre pour trouver la photo d&#39;un camp. J'en ai également profité pour supprimer les légendes racistes et nationalistes qui accompagnées les photos.</em></p>
+    <p><em><strong>Note:</strong> Énormément de photographies sont issues d&#39;un ouvrage allemand paru en 1916 et intitulé &quot;<a href="pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a>&quot;. Je sais que l&#39;on peut me reprocher d&#39;avoir créer un site en reprenant bêtement les illustrations d&#39;un livre paru il y a 100 ans. A ceux-là, je répondrais humblement que je me suis contenté de faire un travail de classement pour que la recherche et la consultation soit plus facile et ainsi éviter aux chercheurs de parcourir tout le livre pour trouver la photo d&#39;un camp. J'en ai également profité pour supprimer les légendes racistes et nationalistes qui accompagnaient les photos.</em></p>
     <p></p>
 
     <br />

@@ -176,8 +176,7 @@
         <li><a href="http://www.amazon.fr/gp/product/2227487194/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2227487194&linkCode=as2&tag=lagenealogent-21">Encyclopédie de la Grande Guerre</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2227487194" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Editions Bayard / sous la direction de Stephane Audouin-Rouzeau et Jean-Jacques Becker)</li>
         <li><a href="http://www.amazon.fr/gp/product/270119198X/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=270119198X&linkCode=as2&tag=lagenealogent-21">Les Grandes Guerres 1914-1945</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=270119198X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 		<br />(Editions Belins / ouvrage dirigé par Henry Rousso)</li>
-        <li>Les collections de l&#39;histoire n°61</li>
-      
+        <li>Les collections de l&#39;histoire n°61</li>      
     </ul>
     
 	<br /><br />
@@ -186,7 +185,7 @@
     
     <ul>
       <li><a href="http://gallica.bnf.fr/ark:/12148/cb32732967q/date">Bulletin Religieux de l'Archidiocèse de Rouen</a><br />(Gallica / Bibliothèque nationale de France)      </li>
-      <li><a href="http://gallica.bnf.fr/ark:/12148/cb32826480g/date">Nouvelles de France : chronique hebdomadaire de la presse française </a> <br />(Gallica / Bibliothèque nationale de France)      </li>
+      <li><a href="http://gallica.bnf.fr/ark:/12148/cb32826480g/date">Nouvelles de France : chronique hebdomadaire de la presse française </a> <br />(Gallica / Bibliothèque nationale de France)</li>
     </ul>
     
 	<br /><br />
@@ -207,7 +206,6 @@
         <li><a href="pdf/guide_methodo_lasesouvient_web.pdf">Combattants de la Grande Guerre</a><br />(Guide méthodologique de recherche aux Archives départementales)</li>
         <li><a href="pdf/rapports-gvt-espagnol.pdf">Rapports des délégués du gouvernement espagnol sur leurs visites dans les camps de prisonniers français en Allemagne 1914-1917.</a></li>
         <li><a href="pdf/convention-1907.pdf" title="texte de la Convention de la Haye de 1907">Convention de La Haye, 18 octobre 1907</a></li>
-
     </ul>
     
 	<br /><br/>
