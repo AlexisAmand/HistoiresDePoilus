@@ -57,7 +57,7 @@
 <aside>
 	<ul>
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-    	<li><a href="../poilus.php">BOURSIER Jules Henri</a></li>
+    	<li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php" >CARIN Théophile</a></li>
@@ -72,13 +72,14 @@
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
+        <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
         <li><a href="soldats-ardennes.php">les soldats des ardennes</a></li>
         <li><a href="soldats-marne.php" class="asideselected">les soldats de la marne</a></li>
         <li><a href="autres.php">les soldats du nord</a></li>
-        <li><a href="soldats-belgique.php">les soldats du belgique</a></li>
+        <li><a href="soldats-belgique.php">les soldats de belgique</a></li>
         
    </ul>
    

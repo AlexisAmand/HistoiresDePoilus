@@ -58,7 +58,6 @@
 <section>
 
 <aside>
-
 	<ul>
         <li><a href="poilus/BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
     	<li><a href="poilus/BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
@@ -83,7 +82,7 @@
         <li><a href="poilus/soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="poilus/soldats-marne.php">Les soldats de la Marne</a></li>
         <li><a href="poilus/autres.php">Les soldats du Nord</a></li>
-        <li><a href="poilus/soldats-belgique.php">Les soldats du Belgique</a></li>
+        <li><a href="poilus/soldats-belgique.php">Les soldats de Belgique</a></li>
    </ul>
  
     <div id="pubaside">

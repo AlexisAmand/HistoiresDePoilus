@@ -57,7 +57,7 @@
 <aside>
 	<ul>
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-    	<li><a href="../poilus.php">BOURSIER Jules Henri</a></li>
+    	<li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php" >CARIN Théophile</a></li>
@@ -72,13 +72,14 @@
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
+        <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
         <li><a href="autres.php" class="AsideSelected">Les soldats du Nord</a></li>
-        <li><a href="soldats-belgique.php">Les soldats du Belgique</a></li>
+        <li><a href="soldats-belgique.php">Les soldats de Belgique</a></li>
         
    </ul>
    
@@ -106,7 +107,7 @@
 
     <li><strong>Gervais BOUCHER</strong>: Bureau de Valenciennes, Classe 1900, Volume 2, matricule 775<br /><br /></li>
    
-    <li><strong>Edmond BOURSIER</strong>, frère de <a href="../poilus.php">Jules Henri</a>, né le 10 avril 1882, dont je n'ai pas encore pu trouver la fiche matricule. Etant âgé de 32 ans en 1914, je pense qu'il a du être mobilisé.<br /><br /></li>
+    <li><strong>Edmond BOURSIER</strong>, frère de <a href="BOURSIER-Jules.php">Jules Henri</a>, né le 10 avril 1882, dont je n'ai pas encore pu trouver la fiche matricule. En 1906, il est ajusteur et vit Rue De La Chevauchoire à Onnaing, avec son frére <a href="BOURSIER-Jules.php">Jules</a> et ses parents. Etant âgé de 32 ans en 1914, je pense qu'il a du être mobilisé.<br /><br /></li>
 
     <li><strong>Oscar Julien DELAUX</strong> est né à Roubaix le 13 novembre 1894, fils légitime d'Adolphe DELAUX et Joséphine RICHOMME (mes aïeux). Incorporé le 28 août 1914. Il passe successivement par le 165e Régiment d'Infanterie (le 29 août 1914), le 33e Bataillon de Marche (le 2 février 1915) et le 53e Régiment d'Infanterie (le 21 mars 1915). Il est cité à l'ordre général n°38 du 30 octobre 1915 pendant son "séjour" au sein du 53e Régiment d'Infanterie.<br /><br /></li>
     
@@ -120,8 +121,18 @@
 
 <ul>
 
-    <li><strong>Augustin HANZE</strong> est né Coulsore (Nord) le 6 février 1886. Le 5 mars 1910, il épouse à Valenciennes Berthe DUSART, la cousine germaine d'<a href="FONTAINE-Henri-Gustave.php">Henri Gustave FONTAINE</a> (mon arriére-arriére-grand-pére). Rappelé à l'activité par le décrét de Mobilisation Générale du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'hôpital temporaire n°5 de Verdun. Son nom figure sur le Monument aux Morts de Coulsore (où il était né) et sur les plaques commémoratives du square de l’Armistice à Carcassonne (où il était serrurier).<br /><br /></li>
+    <li><strong>Augustin HANZE</strong> est né Cousolre (Nord) le 6 février 1886, fils légitime de Désiré et Laure DELENS. Selon le recensement de 1906, il est serrurier et vit Route Nationale à Cousolre en compagnie de ses parents et de sa soeur Germaine (née en 1891). Le 5 mars 1910, il épouse à Valenciennes Berthe DUSART, la cousine germaine d'<a href="FONTAINE-Henri-Gustave.php">Henri Gustave FONTAINE</a> (mon arriére-arriére-grand-pére). Rappelé à l'activité par le décrét de Mobilisation Générale du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'hôpital temporaire n°5 de Verdun. Son nom figure sur le Monument aux Morts de Coulsore (où il était né) et sur les plaques commémoratives du square de l’Armistice à Carcassonne (où il était serrurier). Pour la petite histoire, Louis PERGAUD (1882-1915), prix Goncourt et auteur de "La Guerre des Boutons" (publié en 1912) a disparu durant la même bataille, dans la nuit du 7 au 8 avril 1915.<br /><br /></li>
+
+</ul>
+
+	<figure>
+    <a href="images/momument-cousolre.jpg" id="single_image" title=" ">
+    <img src="miniatures/momument-cousolre.jpg" alt=" "/></a>
+    <figcaption>Inauguration du monument de Cousolre<br />(Le 29 juillet 1923)</figcaption>
+    </figure>
     
+<ul>
+
     <li><strong>Emile MASCART</strong> est né à Onnaing le 24 janvier 1887, fils légitime de Romain et Marie Thérèse LEBRUN. Mes ancêtres communs avec Emile sont Hierosme MASCART (1658-1720) et Marie MARTIN (1653-1722), un couple originaire de Quarouble. Avant la guerre, Emile excerce la profession de traceur en constructions metalliques chez LEMAIRE et vit rue Saint Joseph à Onnaing. Il est rappelé à l'activité par le décret du 1 août 1914 et arrive au 91 Régiment d'Infanterie le 3. L'année qui suit, le 14 septembre, il est détaché aux Fonderies de Firminy (Loire) où on produit les cannons de 155 mm. Il est affecté au 86e Régiment d'Infanterie par la circulaire ministérielle du 25 mai 1917 mais maintenu détaché. Il est envoyé en congé illimité le 10 avril 1919 et se retire rue d'Estreux à Onnaing où il décède le jeudi 20 février 1941.<br ><br ></li>
 
 	<li><strong>Jules MAGNY</strong>, né le 18 août 1892 à Onnaing (Nord). Le 6 septembre 1916, soldat mitrailleur, il a,  par son calme et la précision de son tir, entravé une tentative de contre attaque allemande. Nommé caporal le 5 décembre 1917, il est ensuite prisonnier de guerre du 31 mai au 14 décembre 1918. Il était titulaire de la croix de guerre avec étoile de bronze, de la médaille commémorative et de la médaille interalliée. Abel, le frére de Jules MAGNY, épouse la fille de <a href="JOLY-Noel-Jules.php">Noël Jules JOLY</a>.<br /><br /></li>

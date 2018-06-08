@@ -79,7 +79,7 @@
         <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
         <li><a href="autres.php">Les soldats du Nord</a></li>
-        <li><a href="soldats-belgique.php">Les soldats du Belgique</a></li>
+        <li><a href="soldats-belgique.php">Les soldats de Belgique</a></li>
    </ul>
    
       <div id="pubaside">
