@@ -100,17 +100,7 @@
 
 <h1>Les poilus des Ardennes</h1>
 
-<ul>   
-
-    <li><strong>Jules Alphonse ASTIER</strong>, né le 14 février 1872 à Bétheniville (Marne), petit-fils de mon aïeule Julie Joséphine KRAUTH via Louise Adèle BALTAZART. <br /><br /></li>
-
-    <li><strong>Eugène Alexandre CARON</strong>, né le 16 avril 1869 à Montigny-sur-Vesle (Marne). Il rejoint la 6e section d'infirmiers le 3 août 1914. Le 24 août 1915, il est détaché à l'usine Saint-Remy de Clermont-Ferrant.<br /><br /></li>
-
-    <li><strong>Alexandre Ernest MAILLART</strong> est né le 23 juillet à Bétheniville (Marne), petit-fils de mon aïeule Julie Joséphine KRAUTH via Julie Adèle BALTAZART. Il est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des sections de chemins de fer de campagne du 2 août 1914 au 5 janvier 1919.<br /><br /></li>
-
-    <li><strong>Léopold PAQUET</strong> est né le 5 décembre 1886 à Reims (Marne). Le 20 juin 1914, il épouse à Bétheniville Marie Hélène ARNOULD, la soeur de mon arriére-grand-pére. Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 août 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 août 1917 pour paralysie radiale du bras gauche. Il est décédé à Bétheniville le 10 octobre 1953.<br /><br /></li>
-
-</ul>
+<p>Bientôt...</p>
 
 <p></p>
 

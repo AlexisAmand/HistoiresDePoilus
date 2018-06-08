@@ -126,6 +126,7 @@
 <p>R.E - Régiment étranger</p>
 <p>R.G - Régiment du Génie</p>
 <p>R.I - Régiment d'Infanterie</p>
+<p>R.I.C - Régiment d'Infanterie Coloniale</p>
 <p>R.I.T - Régiment d'Infanterie Territoriale</p>
 <p>R.M.Z - Régiment de Marche des Zouaves</p>
 <p>R.T - Régiment de Tirailleurs</p>

@@ -79,8 +79,7 @@
         <li><a href="soldats-ardennes.php">les soldats des ardennes</a></li>
         <li><a href="soldats-marne.php" class="asideselected">les soldats de la marne</a></li>
         <li><a href="autres.php">les soldats du nord</a></li>
-        <li><a href="soldats-belgique.php">les soldats de belgique</a></li>
-        
+        <li><a href="soldats-belgique.php">les soldats de belgique</a></li>        
    </ul>
    
     <div id="pubaside">
@@ -107,13 +106,21 @@
 
     <li><strong>Eugène Alexandre CARON</strong>, né le 16 avril 1869 à Montigny-sur-Vesle (Marne). Il rejoint la 6e section d'infirmiers le 3 août 1914. Le 24 août 1915, il est détaché dans une usine de Clermont-Ferrant.<br /><br /></li>
 
-    <li><strong>Alexandre Ernest MAILLART</strong> est né le 23 juillet à Bétheniville, petit-fils de mon aïeule Julie Joséphine KRAUTH via Julie Adèle BALTAZART. Il est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des sections de chemins de fer de campagne du 2 août 1914 au 5 janvier 1919.<br /><br /></li>
+    <li><strong>Alexandre Ernest MAILLART</strong> est né le 23 juillet 1874 à Bétheniville, petit-fils de mon aïeule Julie Joséphine KRAUTH via Julie Adèle BALTAZART. Il est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des sections de chemins de fer de campagne du 2 août 1914 au 5 janvier 1919.<br /><br /></li>
 
     <li><strong>Léopold PAQUET</strong> est né le 5 décembre 1886 à Reims (Marne). Le 20 juin 1914, il épouse à Bétheniville Marie Hélène ARNOULD, la soeur de mon arriére-grand-pére. Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 août 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 août 1917 pour paralysie radiale du bras gauche. Il est décédé à Bétheniville le 10 octobre 1953.<br /><br /></li>
 
 </ul>
     
 <p></p>
+
+<p>A lire également:</p>
+
+	<ul>
+        <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
+        <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
+        <li><a href="MICHEL-Firmin.php">MICHEL Firmin (Mort pour la France)</a></li>    
+   </ul>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

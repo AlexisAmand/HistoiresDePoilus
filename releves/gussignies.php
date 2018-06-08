@@ -4,13 +4,13 @@
 
 <meta charset="utf-8">
           
-<title>Relevé des morts pour la France de Saultain - Histoires de Poilus</title>
-<meta content="relevés des soldats et des civils de Saultain morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or">
+<title>Relevé des morts pour la France de Gussignies - Histoires de Poilus</title>
+<meta content="relevés des soldats et des civils de Gussignies morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or">
     
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-  
+                  
 </head>
 
 <body>
@@ -64,19 +64,19 @@
         <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
         <li><a href="daix.php">Daix (21)</a></li>
         <li><a href="eth.php">Eth (59)</a></li>
-
+      
         <li><a href="feucherolles.php">Feucherolles (78)</a></li>
         <li><a href="frencq.php">Frencq (62)</a></li>
         <li><a href="gelannes.php">Gélannes (10)</a></li>
-        <li><a href="gussignies.php">Gussignies (59)</a></li>
+        <li><a href="gussignies.php"  class="AsideSelected">Gussignies (59)</a></li>
         <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-    	<li><a href="lourches.php">Lourches (59)</a></li>
-
-        <li><a href="onnaing.php">Onnaing (59)</a></li>   
+        <li><a href="lourches.php">Lourches (59)</a></li>
+        
+        <li><a href="onnaing.php">Onnaing (59)</a></li>  
         <li><a href="quarouble.php">Quarouble (59)</a></li>
         <li><a href="roeulx.php">Roeulx (59)</a></li>
         <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
-        <li><a href="saultain.php" class="AsideSelected">Saultain (59)</a></li>
+        <li><a href="saultain.php">Saultain (59)</a></li>
         <li><a href="sebourg.php">Sebourg (59)</a></li>
 
         <li><a href="verpel.php">Verpel (08)</a></li>
@@ -101,197 +101,220 @@
 
 <article>
 
-<h1>Relevé des morts pour la France à Saultain</h1>
+<h1>Relevé des morts pour la France à Gussignies</h1>
 
-    <p>Voici la liste des morts pour la France  de Saultain (Nord) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit commentaire</a>.</p>
-    
-<br />
+<p>(Relevé en cours)</p>
+
+<p>Voici la liste des morts pour la France et des victimes civiles de Gussignies (Nord) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit commentaire</a>.</p>
+
+<p></p>
 
 <table>
   <thead>
   <tr>
-    <td width="158px">Nom et prénom(s)</td>
+    <td width="148px">Nom et prénom(s)</td>
     <td width="158px">Date et lieu<br />de naissance</td>
     <td width="158px">Date et lieu<br />de décès</td>
-    <td width="70px">Corps</td>
+    <td width="70px">Grade</td>
+    <td width="55px">Corps</td>
     <td width="90px">Genre<br />de mort</td>
    </tr>
    </thead>
   <tr>
-    <td>BAILLEUX<br/>Adolphe</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
+    <td>DUPONT<br />Léonard</td>
+    <td>26 mai 1890<br />à Gussignies</td>
+    <td>23 septembre 1914<br />à </td>
+    <td>soldat<br >2e classe</td>
+    <td>25e B.C</td>
+    <td>Tué à l'ennemi</td>
+    </tr>
   <tr>
-    <td>BASQUIN<br/>Léon</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr> 
+    <td>HOSTELART<br />Jean Baptiste</td>
+    <td>7 août 1885<br />à Gussignies</td>
+    <td>20 octobre 1914<br />à Vailly (02)</td>
+    <td>soldat</td>
+    <td>106e R.I</td>
+    <td>Tué à l'ennemi</td>
+    </tr>
   <tr>
-    <td>BERTEAU<br/>Georges</td>
+    <td>LEROY<br />Paul</td>
+    <td>&nbsp;</td>
+    <td>1914</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
+    </tr>
   <tr>
-    <td>BLAREAU<br/>Henri</td>
+    <td>SEGERS<br />Jules</td>
+    <td>&nbsp;</td>
+    <td>1914</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td colspan="2"><strong>Victime civile</strong></td>   
-  </tr>   
+    <td>&nbsp;</td>
+    </tr>
+  <tr>
+    <td>DEBIEVE<br />Celestin</td>
+    <td>8 mars 1893<br />à Gussignies</td>
+    <td>5 mars 1915<br />à Vauquois (Meuse)</td>
+    <td>Caporal</td>
+    <td>42e R.I.C</td>
+    <td>&nbsp;</td>
+    </tr>
+  <tr>
+    <td>DEGORGUE<br />Emile</td>
+    <td>&nbsp;</td>
+    <td>1915</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+      
+  <tr>
+    <td>DESCAMPS<br />Marcel</td>
+    <td>&nbsp;</td>
+    <td>1915</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+  <tr>
+    <td>DESMONCHAUX<br />Louis</td>
+    <td>&nbsp;</td>
+    <td>1915</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+  <tr>
+    <td>DUBOIS<br />Auguste</td>
+    <td>&nbsp;</td>
+    <td>1915</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+  <tr>
+    <td>COLOT<br />Georges Albert</td>
+    <td>4 novembre 1884<br />à Gussignies</td>
+    <td>24 février 1916<br />à Verdun (Meuse)</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+  <tr>
+    <td>DUPONT<br />Jules</td>
+    <td>&nbsp;</td>
+    <td>1916</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
     <tr>
-    <td>COCHE<br/>Chrysoline</td>
+    <td>DENIS<br />Léon</td>
     <td>&nbsp;</td>
+    <td>1917</td>
+    <td colspan="2">Victime civile</td>
     <td>&nbsp;</td>
-    <td colspan="2"><strong>Victime civile</strong></td>   
-  </tr> 
+    </tr>
   <tr>
-    <td>DEHON<br/>Désiré</td>
+    <td>BATON<br>Louis</td>
     <td>&nbsp;</td>
+    <td>1918</td>
+    <td colspan="2">Victime civile</td>
     <td>&nbsp;</td>
-    <td colspan="2"><strong>Victime civile</strong></td>   
-  </tr> 
+    </tr>       
   <tr>
-    <td>DUHAUT<br/>François</td>
+    <td>COLOT<br />Louis</td>
+    <td>&nbsp;</td>
+    <td>1918</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>    
-    <tr>
-    <td>HACART<br/>Héloïse</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td colspan="2"><strong>Victime civile</strong></td>   
-  </tr> 
+    </tr>
   <tr>
-    <td>HOURDEAU<br/>Émile</td>
+    <td>DESCAMPS<br />Albert</td>
+    <td>12 février 1875<br />à Gussignies</td>
+    <td>1918</td>
     <td>&nbsp;</td>
+    <td>4e R.I.T</td>
     <td>&nbsp;</td>
+    </tr>
+      <tr>
+    <td>DELFOSSE<br />Clément</td>
     <td>&nbsp;</td>
+    <td>1918</td>
+    <td colspan="2">Victime civile</td>
     <td>&nbsp;</td>
-  </tr>
+    </tr>
   <tr>
-    <td>HUYSMAN<br/>Clément</td>
+    <td>DELHAYE<br />Alfred</td>
+    <td>&nbsp;</td>
+    <td>1918</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
+    </tr>
   <tr>
-    <td>HUYSMAN<br/>Léon</td>
+    <td>DRUART<br />Eusebe</td>
+    <td>&nbsp;</td>
+    <td>1918</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+    </tr>
+	<tr>
+    <td>FUMIERE<br />Julien</td>
     <td>&nbsp;</td>
-  </tr>
+    <td>1918</td>
+    <td colspan="2">Victime civile</td>
+    <td>&nbsp;</td>
+    </tr>
   <tr>
-    <td>LABOUREAU<br/>Albert</td>
+    <td>JOSELIER<br />Gustave</td>
+    <td>&nbsp;</td>
+    <td>1918</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
+    </tr>
   <tr>
-    <td>LABOUREAU<br/>Émile</td>
+    <td>LECOMTE<br />Julien</td>
     <td>&nbsp;</td>
+    <td>1918</td>
+    <td colspan="2">Victime civile</td>
     <td>&nbsp;</td>
+    </tr>    
+   <tr>
+    <td>LOISEAU<br />François</td>
     <td>&nbsp;</td>
+    <td>1918</td>
+    <td colspan="2">Victime civile</td>
     <td>&nbsp;</td>
-  </tr>
+    </tr>     
   <tr>
-    <td>LASSERON<br/>Georges</td>
+    <td>PANGRAZZI<br>Camille</td>
+    <td>&nbsp;</td>
+    <td>1918</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
+    </tr>
   <tr>
-    <td>LECONTE<br/>Laurent</td>
+    <td>PERSEAU<br />Jules</td>
+    <td>&nbsp;</td>
+    <td>1918</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr> 
+    </tr>
+
   <tr>
-    <td>LEGROS<br/>Pierre</td>
+    <td>WAROQUIER<br />Gustave</td>
     <td>&nbsp;</td>
+    <td>1918</td>
+    <td colspan="2">Victime civile</td>
     <td>&nbsp;</td>
-    <td colspan="2"><strong>Victime civile</strong></td>   
-  </tr>   
-  <tr>
-    <td>LIBAN<br/>Gaston</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>  
-  <tr>
-    <td>LORY<br/>Nestor</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>MONTROEUL<br/>Ernest</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>MOUFTIER<br/>Maria</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td colspan="2"><strong>Victime civile</strong></td>   
-  </tr> 
-  <tr>
-    <td>REMY<br/>Paul</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>RIQUET<br/>Rosine</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td colspan="2"><strong>Victime civile</strong></td>   
-  </tr>   
-  <tr>
-    <td>SAINTIN<br/>Albert</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>TAQUET<br/>Jules</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>WARCHEZ<br/>Albert</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>WUILLOT<br/>Gustave</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>                  
+    </tr>
 </table>
 
 <p class="sources">
@@ -326,6 +349,7 @@ g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.pare
 </script>
 <noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
+
 
 
 <!-- Google Ana -->

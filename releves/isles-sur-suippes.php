@@ -68,6 +68,7 @@
         <li><a href="feucherolles.php">Feucherolles (78)</a></li>
         <li><a href="frencq.php">Frencq (62)</a></li>
         <li><a href="gelannes.php">Gélannes (10)</a></li>
+        <li><a href="gussignies.php">Gussignies (59)</a></li>
         <li><a href="isles-sur-suippes.php" class="AsideSelected">Isles-sur-Suippes (51)</a></li>
         <li><a href="lourches.php">Lourches (59)</a></li>
         

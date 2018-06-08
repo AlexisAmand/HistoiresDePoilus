@@ -154,6 +154,30 @@
     
 <p></p>
 
+<p>A lire également:</p>
+
+	<ul>
+
+    	<li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
+        <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
+        <li><a href="CARIN-Leon.php">CARIN Léon (Mort pour la France)</a></li>
+        <li><a href="CARIN-Theophile.php" >CARIN Théophile</a></li>
+        <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
+        <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
+        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (Mort pour la France)</a></li>
+        <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
+        <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
+        <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
+        <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
+        <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
+        <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
+        <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
+        <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (Mort pour la France)</a></li>
+        <li><a href="VELU-Adrien.php">VELU Adrien (Mort pour la France)</a></li>
+        
+   </ul>   
+
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
 </p>
