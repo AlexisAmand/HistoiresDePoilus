@@ -152,9 +152,9 @@
 <p>Dans <cite>Westfalen in Ersten Weltkrieg</cite>, l&#39;historien allemand Rainer PÖPPINGHEGE évalue à 25240 le nombre total de soldats prisonniers dans le camp de Minden à la fin de la Première Guerre Mondiale.</p><p>Le <a href="http://www.mindenermuseum.de">Musée de Minden</a> à mis en ligne une video qui permet de faire une &quot;visite 3D&quot; dans le camp de prisonniers. (durée: 4 min 35)</p>
 
     <div class="video">
-        <video controls preload>
+        <video controls>
             <source src="../videos/Minderheide-1915.mp4" type="audio/mp4"> <!-- largeur 480px  -->
-            <p>Votre navigateur ne prend pas en charge cette vidéo</p>
+            Votre navigateur ne prend pas en charge cette vidéo.
         </video>
     </div>
 
