@@ -113,7 +113,7 @@
     <h2>Historiques des régiments d&#39;infanterie</h2>
     
 	<ul>
-       	<li><a href="pdf/historique_du_33eRI.pdf" title="Historique du 33e Régiment d'Infanterie">Historique du 33e Régiment d'Infanterie</a><br />(anonyme, Imprimerie J. Dumoulin, Paris, 1920 / Numérisé par Daniel Crozat)</li>
+       	<li>Historique du 33e Régiment d'Infanterie<br />(anonyme, Imprimerie J. Dumoulin, Paris, 1920 / Numérisé par Daniel Crozat)</li>
         <li><a href="pdf/127-historique-14-18.pdf" title="Historique du 127e Régiment d'Infanterie">Historique du 127e Régiment d'Infanterie</a><br />(anonyme, numérisé par Julien Brasseur)</li>
         <li><a href="pdf/153eRI.pdf" title="Historique du 153e Régiment d'Infanterie">Historique du 153e Régiment d'Infanterie</a><br/>(Historique numérisé par Paul Chagnoux en 2012)</li>
         <li><a href="pdf/Historique-162-RI.pdf" title="Historique du 162e Régiment d'Infanterie">Historique du 162e Régiment d'Infanterie</a><br/>(anonyme)</li>
@@ -214,7 +214,7 @@
     
     <ul>
         <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>
-        <li><a href="http://www.rfgenealogie.com/le-magazine/19-1914-1918-recherchez-vos-ancetres-soldats">Recherchez vos ancêtres soldats et leur famille (1914-1918)</a><br />(Martin Média / Revue Française de Généalogie)</li>
+        <li><a href="https://amzn.to/2NuoqQb">Recherchez vos ancêtres soldats et leur famille (1914-1918)</a><br />(Martin Média / Revue Française de Généalogie)</li>
         <li><a href="http://www.rfgenealogie.com">Les médailles et décorations</a><br />(Martin Média / Revue Française de Généalogie)</li>
     </ul>
     

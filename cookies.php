@@ -56,7 +56,7 @@
        
 </nav>
 
-<section style="background-color:#FFFFFF;">
+<section>
 
 <article style="margin-left:0px;">
 
@@ -70,12 +70,16 @@
 <h2>Sont-ils dangereux ?</h2>
 
 <p>Étant de simples fichiers de texte, les cookies ne sont pas exécutables. <strong>Ils ne sont ni des logiciels espions ni des virus</strong>, bien que des cookies provenant de certains sites soient détectés par plusieurs logiciels antivirus parce qu'ils permettent aux utilisateurs d'être suivis quand ils ont visité plusieurs sites. La plupart des navigateurs récents permettent aux utilisateurs de décider s'ils acceptent ou rejettent les cookies. Les utilisateurs peuvent aussi choisir la durée de stockage des cookies. Toutefois, <strong>le rejet complet des cookies rend certains sites inutilisables</strong>. Par exemple, les paniers d'achat de magasins ou les sites qui exigent une connexion à l'aide d'identifiants (utilisateur et mot de passe).</p><p></p>
-    
-<h2>Pourquoi des cookies sur ce site ?</h2>
-
-<p>Les cookies me permettent.....</p><p></p><p><em>(Source: <a href="https://fr.wikipedia.org/wiki/Cookie_(informatique)">Wikipedia</a>)</em></p><p></p><p>Pour plus d&#39;informations, je vous invite à vous rendre sur le site de la CNIL, <a href="http://www.cnil.fr/vos-droits/vos-traces/les-cookies/">rubrique Cookies</a>. L&#39;organisme a également mis en ligne une petite vidéo explicative que je vous propose ci-dessous.</p>
+<p>Pour plus d&#39;informations, je vous invite à vous rendre sur le site de la CNIL, <a href="http://www.cnil.fr/vos-droits/vos-traces/les-cookies/">rubrique Cookies</a>. L&#39;organisme a également mis en ligne une petite vidéo explicative que je vous propose ci-dessous.</p>
 
 <iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x16lt53" allowfullscreen></iframe>
+ 
+    <div class="video">
+        <video controls>
+            <source src="http://www.dailymotion.com/embed/video/x16lt53" type="video/dailymotion"> <!-- largeur 480px  -->
+            Votre navigateur ne prend pas en charge cette vidéo.
+        </video>
+    </div> 
   
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

@@ -153,7 +153,7 @@
 
     <div class="video">
         <video controls>
-            <source src="../videos/Minderheide-1915.mp4" type="audio/mp4"> <!-- largeur 480px  -->
+            <source src="../videos/Minderheide-1915.mp4" type="video/mp4"> <!-- largeur 480px  -->
             Votre navigateur ne prend pas en charge cette vidéo.
         </video>
     </div>
