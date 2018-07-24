@@ -71,6 +71,7 @@
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php" class="AsideSelected">GRAIN Louis</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
@@ -99,7 +100,7 @@
 
 <article style="margin-left: 200px;">
 
-<h1>GRAIN Louis</h1>
+<h1>Louis GRAIN</h1>
 
 <p><strong>Louis GRAIN</strong>, le père de mon arrière-grand-mère, est né le 21 juin 1876 à Villers-Guislain (Nord). Il est le fils légitime de Louis GRAIN, domestique âgé de 19 ans et Joséphine VELU, âgé de 17 ans. Le 18 mai 1895 à Villers-Guislain, il épouse en premières noces Martine VELU (1875-1935). Son frère <a href="GRAIN-Leon-Albert.php">Léon Albert</a> a aussi été mobilisé. En 1906, <strong>Louis</strong> est tisseur et vit à Villers-Guislain (Rue Neuve) en compagnie de son épouse Martine, ses filles Marguerite et Marthe et son fils Marcel.</p>
 
@@ -118,7 +119,7 @@
 
 <figure>
     <a href="images/forts-maubeuge.jpg" id="single_image" title="L'emplacement des forts de la place forte de Maubeuge en 1914">
-    <img src="images/mini/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/> 
+    <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/> 
     </a>
     <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
 </figure>
@@ -140,7 +141,7 @@
 
 <br/><h2>C'est fini pour Maubeuge...</h2>
 
-<p>Le 7 septembre, à 11 heures 30, le Drapeau blanc est aperçu sur un clocher de Maubeuge. La Place de Maubeuge a capitulé. <strong>Louis GRAIN</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> furent entièrement fait prisonnier et furent parmi les 45 000 combattants de la poche de Maubeuge à être internés dans les camps allemands dont celui de Chemnitz, entre Dresde et Zwickau,  où ira Louis. </p>
+<p>Le 7 septembre, à 11 heures 30, le Drapeau blanc est aperçu sur un clocher de Maubeuge. La Place de Maubeuge a capitulé. <strong>Louis GRAIN</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> furent entièrement fait prisonnier et furent parmi les 45 000 combattants de la poche de Maubeuge à être internés dans les camps allemands dont celui de <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">Chemnitz</a>, entre Dresde et Zwickau,  où ira Louis. </p>
 
 <figure>
     <a id="single_image0" href="images/camp-de-chemnitz.jpg" title="le camp de Chemnitz pendant la Première Guerre Mondiale">
@@ -149,7 +150,7 @@
 </figure>
 
     <p style="font-size: 14px">
-  Selon son dossier d'ancien combattant, <strong>Louis</strong> est libéré du <a href="../camps/camp-chemnitz.php">camp de Chemnitz</a> le 8 janvier 1919. </p>
+  Selon son dossier d'ancien combattant, <strong>Louis</strong> est libéré du <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de Chemnitz</a> le 8 janvier 1919. </p>
 
 <br /><h2>...mais à Villers-Guislain, la guerre arrive.</h2>
 
@@ -161,13 +162,13 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-        <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Archives et Cultures / Yves Buffetaut)</li>
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
         <li><a href="../pdf/Maubeuge-1914-Duvivier.pdf">Maubeuge 1914</a> (Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
         <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a> (source allemande)</li>
         <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf">Aus deutschen Kriegsgefangenenlagern</a> (Deutsches Rotes Kreuz)</li>
         <li><a href="http://amzn.to/2rvOovF">Prisonniers 1914-1918</a> (Editions Sulton / Jean-Paul Briaste)</li>
         <li>Archives de la Croix Rouge</li>
-        <li>Archives du Nord</li>
+        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
     </ul>
 
 <p class="sources">

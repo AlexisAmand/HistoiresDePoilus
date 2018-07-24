@@ -63,6 +63,7 @@
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
@@ -91,7 +92,7 @@
 
 <article>
 
-<h1>FIEVET Charles Augustin</h1>
+<h1>Charles Augustin FIEVET</h1>
 
 <p><strong>Charles Augustin FIEVET</strong>, le père de mon arrière-grand-père (Kleber pour ceux qui lisent régulièrement <a href="http://www.genealexis.fr">mon blog</a>), est né le dimanche 3 décembre 1882 à Lille (Nord). Il est le fils de Charles Jules Henri, fileur de Coton, âgé de 28 ans et de Marie Roseline LOHIEZ, âgée de 19 ans. Il a pour frère <a href="FIEVET-Auguste-Victor.php">Auguste Victor</a>. </p>
 
@@ -153,7 +154,7 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-        <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
        
     </ul>
 

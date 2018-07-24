@@ -71,6 +71,7 @@
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
@@ -99,7 +100,7 @@
 
 <article>
 
-<h1>CARLIER Louis Abraham</h1>
+<h1>Louis Abraham CARLIER</h1>
 
 <p><strong>Louis Abraham CARLIER</strong>, frère de <a href="CARLIER-Druon-Joseph.php" title="Voir la biographie du poilu Druon Joseph CARLIER">Druon Joseph</a>, est né 17 décembre 1871 à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> (Nord). Comme lui, il est le fils de Druon Joseph CARLIER et de Sidonie Célestine PATOU. Ouvrier agricole chez LENGRAND à Sebourg, Louis s'unit avec Volaine GRAVELLE. Le couple aura 5 enfants: Valérine (née en 1869), Louis Druon (né en 1898), Yvonne (née en 1901), Louise (née en 1903) et Blondine Clémence (née en 1908). En 1906, il est ouvrier agricole chez Lengrand et vit à Sebourg (Rue de l&#39;église) avec son épouse, Volcide GRAVELLE, et ses 4 enfants: Olia, Louis, Yvonne et Louise.</p>
 
@@ -198,13 +199,13 @@
     
     <ul>
     	<li><a href="http://archives.genealexis.fr/album/15-carlier-louis-abraham" title="version numérisée du dossier d'ancien combattant de Louis Abraham CARLIER">Le dossier d'ancien combattant de Louis Abraham CARLIER</a></li>
-        <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Archives et Cultures / Yves Buffetaut)</li>
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
         <li><a href="../pdf/Maubeuge-1914-Duvivier.pdf" title="La Bataille de Maubeuge en septembre 1914">Maubeuge 1914</a> (Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
         <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a> (source allemande)</li>
         <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf">Aus deutschen Kriegsgefangenenlagern</a> (Deutsches Rotes Kreuz)</li>
         <li><a href="http://amzn.to/2rvOovF">Prisonniers 1914-1918</a> (Editions Sulton / Jean-Paul Briaste)</li>
         <li>Archives de la Croix Rouge</li>
-        <li>Archives du Nord</li>
+        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
     </ul>
 
 <p class="sources">

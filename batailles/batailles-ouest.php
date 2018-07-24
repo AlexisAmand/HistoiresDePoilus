@@ -6,7 +6,7 @@
             <title>Les batailles du front de l'Europe de l'Ouest pendant la Grande Guerre - Histoires de Poilus</title>
             <meta content="Liste des batailles qui se sont déroulées sur le front de l'Europe de l'Ouest pendant Première Guerre Mondiale (1914-1918)." name="description">
   
-            <link rel="stylesheet" href="css/style.css">    
+            <link rel="stylesheet" href="../css/style.css">    
             <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
             <link rel="icon" type="image/png" href="/images/favicon.png" />
                     
@@ -15,7 +15,7 @@
 
         <!-- code js pour l'avertissement sur les cookies -->
 
-        <script src="js/cookiechoices.js"></script>
+        <script src="../js/cookiechoices.js"></script>
         <script>
           document.addEventListener('DOMContentLoaded', function(event) {
             cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
@@ -27,29 +27,27 @@
 	
             <div id="rezo">
             <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-            <img src="images/facebook.png" />
+            <img src="../images/facebook.png" />
             </a>
-            <img src="images/googleplus.png" />
+            <img src="../images/googleplus.png" />
             <a href="https://twitter.com/alexisamand?lang=fr" title="me suivre sur Twitter">
-            <img src="images/twitter.png" />
+            <img src="../images/twitter.png" />
             </a>
             </div>
-
-
       
-            <a href="index.php" title="retour sur la page d'accueil du site">
-            <img src="images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
+            <a href="../index.php" title="retour sur la page d'accueil du site">
+            <img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
 
         </header>
    
         <nav>
-	        <a href="contact.php">Contact</a>
-            <a href="webographie.php">Webographie</a>
-            <a href="lieux.php" class="NavSelected">Les Batailles</a>
-            <a href="camps.php">Les Camps</a>
-            <a href="releves.php">Les Relevés</a>
-            <a href="poilus.php">Les Poilus</a>
-	        <a href="index.php">Accueil</a>       
+	        <a href="../contact.php">Contact</a>
+            <a href="../webographie.php">Webographie</a>
+            <a href="../lieux.php">Les Batailles</a>
+            <a href="../camps.php">Les Camps</a>
+            <a href="../releves.php">Les Relevés</a>
+            <a href="../poilus.php">Les Poilus</a>
+	        <a href="../index.php" class="NavSelected">Accueil</a>       
         </nav>
 
 		<div id="navbis">
@@ -65,13 +63,13 @@
 
 	        <article>
 
-<h1>Les Batailles de l'Europe de l'Ouest (1914)</h1>
+<h1>Les Batailles de l'Europe de l'Ouest</h1>
 
 <h3>L'année 1914</h3>
 
 <figure>
-    <a href="batailles/images/yser.jpg" id="single_image" title="La Bataille de l'Yser (1914)">
-    <img src="batailles/images/miniatures/yser.jpg" alt="la bataille de l'Yser pendant la Grande Guerre"></a>
+    <a href="images/yser.jpg" id="single_image" title="La Bataille de l'Yser (1914)">
+    <img src="images/miniatures/yser.jpg" alt="la bataille de l'Yser pendant la Grande Guerre"></a>
     <figcaption>La Bataille de l'Yser (1914)<br />(source: BNF / Gallica)</figcaption>
 </figure>
 
@@ -278,8 +276,8 @@
 <h3>L'année 1917</h3>
 
 <figure>
-    <a href="poilus/images/Assaut-chemin-des-dames.jpg" id="single_image" title="Soldats français sur le Chemin des Dames">
-    <img src="poilus/miniatures/Assaut-chemin-des-dames.jpg" alt="Des soldats français à l'assaut au Chemin de Dames"/></a>
+    <a href="../poilus/images/Assaut-chemin-des-dames.jpg" id="single_image" title="Soldats français sur le Chemin des Dames">
+    <img src="../poilus/miniatures/Assaut-chemin-des-dames.jpg" alt="Des soldats français à l'assaut au Chemin de Dames"/></a>
 	<figcaption>Assaut français sur le Chemin des Dames<br />(cliquez pour agrandir - Archives du Queensland, Australie)</figcaption>
 </figure>
                
@@ -359,8 +357,8 @@
 <h3>L'année 1918</h3>
  
 <figure>
-    <a href="batailles/images/bois-belleau.jpg" id="single_image" title="Les soldats américains au Bois Belleau">
-    <img src="batailles/images/miniatures/bois-belleau.jpg" alt="les troupes américaines au Bois Belleau pendant la Première Geurre Mondiale"></a>
+    <a href="images/bois-belleau.jpg" id="single_image" title="Les soldats américains au Bois Belleau">
+    <img src="images/miniatures/bois-belleau.jpg" alt="les troupes américaines au Bois Belleau pendant la Première Geurre Mondiale"></a>
     <figcaption>La brigade marine Americaine au Bois de Belleau.<br />(Georges Scott, 1921)</figcaption>
 </figure>
     
@@ -467,10 +465,10 @@
 </section>
 
 <footer>
-	<a href="mentions.php">Mentions Légales</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="../mentions.php">Mentions Légales</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="cookies.php">Cookies</a>
+    <a href="../cookies.php">Cookies</a>
     <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
 </footer>
 
@@ -479,7 +477,7 @@
 <!-- javascript -->
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="js/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Histoires de Poilus - Quelques poilus du Nord</title>
-<meta content="Liste d'individus du Nord en âge de participer à la Grande Guerre dont la parenté et la mobilisation n'ont pas encore été prouvées" name="description">
+<title>Histoires de Poilus - Liste de quelques poilus du Nord</title>
+<meta content="Petites biographies de soldats de ma famille ayant participé à la Premiére Guerre Mondiale et ayant vécu dans le Nord" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -70,6 +70,7 @@
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
@@ -118,33 +119,19 @@
     <img src="miniatures/carte-oscar-delaux.png" alt="Carte du combattant d'Oscar DELAUX"/></a>
     <figcaption>Carte du combattant d'Oscar DELAUX<br> (Source: Archives Départementales du Nord)</figcaption>
     </figure>
-
-<ul>
-
-    <li><strong>Augustin HANZE</strong> est né Cousolre (Nord) le 6 février 1886, fils légitime de Désiré HANZE et Laure DELENS. Selon le recensement de 1906, il est serrurier et vit Route Nationale à Cousolre en compagnie de ses parents et de sa soeur Germaine (née en 1891). Le 5 mars 1910, il épouse à Valenciennes Berthe DUSART, la cousine germaine d'<a href="FONTAINE-Henri-Gustave.php">Henri Gustave FONTAINE</a> (mon arriére-arriére-grand-pére). Rappelé à l'activité par le décrét de Mobilisation Générale du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'hôpital temporaire n°5 de Verdun. Son nom figure sur le Monument aux Morts de Coulsore (où il était né) et sur les plaques commémoratives du square de l’Armistice à Carcassonne (où il était serrurier). Pour la petite histoire, Louis PERGAUD (1882-1915), prix Goncourt et auteur de "La Guerre des Boutons" (publié en 1912) a disparu durant la même bataille, dans la nuit du 7 au 8 avril 1915.<br /><br /></li>
-
-</ul>
-
-	<figure>
-    <a href="images/momument-cousolre.jpg" id="single_image" title="Inauguration du monument de Cousolre">
-    <img src="miniatures/momument-cousolre.jpg" alt="Inauguration du monument de Cousolre le 29 juillet 1923"/></a>
-    <figcaption>Inauguration du monument de Cousolre<br />(Le 29 juillet 1923)</figcaption>
-    </figure>
     
 <ul>
 
 	<li><strong>Alfred PELEZ</strong> (ou PELLEZ selon les sources) est né le 13 juin 1872 à Onnaing, fils de mes ancêtres François PELEZ (1843-1884) et Louise DASNOIS (1847-1878). Avant la guerre, Alfred vit dans le Pas-de-Calais en passant successivement par Annezin (1896), Montigny-en-Gohelle (1896), Fouquières-les-lens (1906) et enfin Rouvroy (1912). Il est rappelé à l'activité par le décrêt du 1er août 1914 et mis en sursis aux Mines de la Loire dès le 9 février 1915. A l'époque, il vit à Saint Genest-Lerpt dans la Loire.<br /><br /></li>
 	
-	
-
     <li><strong>Emile MASCART</strong> est né à Onnaing le 24 janvier 1887, fils légitime de Romain et Marie Thérèse LEBRUN. Mes ancêtres communs avec Emile sont Hierosme MASCART (1658-1720) et Marie MARTIN (1653-1722), un couple originaire de Quarouble. Avant la guerre, Emile excerce la profession de traceur en constructions metalliques chez LEMAIRE et vit rue Saint Joseph à Onnaing. Il est rappelé à l'activité par le décret du 1 août 1914 et arrive au 91 Régiment d'Infanterie le 3. L'année qui suit, le 14 septembre, il est détaché aux Fonderies de Firminy (Loire) où on produit les cannons de 155 mm. Il est affecté au 86e Régiment d'Infanterie par la circulaire ministérielle du 25 mai 1917 mais maintenu détaché. Il est envoyé en congé illimité le 10 avril 1919 et se retire rue d'Estreux à Onnaing où il décède le jeudi 20 février 1941.<br ><br ></li>
 
 	<li><strong>Léon MASCART</strong> est né à Onnaing le 30 janvier 1874. Avant la guerre (1906), il est mineur à la Fosse de Cuvinot et vit "au Trié" à Onnaing avec son épouse Maire FINET. Frére d'Emile (ci-dessus), il est maintenu en surcis aux Mines d'Anzin à la mobilisation. Le 17 décembre 1914, par le bulletin n°63, il est mis en sursis aux mines de Bruay (Pas-de-Calais) où il est entré en fonction le 28 octobre de la même année. Il est rayé de la mine le 15 janvier 1919 et est envoyé en congés illimité le 12 février 1919. Il se retire à Onnaing, Rue de l'Eglise.<br /><br /></li>
 	
 	<figure>
-    <a href="http://cartespostalesanciennes.genealexis.fr/image/168-fosse-cuvinot-a-onnaing-vers-1900" id="single_image" title="La Fosse de Cuvinot">
-    <img src="http://cartespostalesanciennes.genealexis.fr/image/onnaing/168-fosse_cuvinot_a_onnaing_vers_1900.jpg" width="450px" alt="La Fosse de Cuvinot à Onnaing"/></a>
-    <figcaption>La Fosse de Cuvinot</figcaption>
+	    <a href="http://cartespostalesanciennes.genealexis.fr/image/168-fosse-cuvinot-a-onnaing-vers-1900" id="single_image" title="La Fosse de Cuvinot à Onnaing">
+	    <img src="http://cartespostalesanciennes.genealexis.fr/image/onnaing/168-fosse_cuvinot_a_onnaing_vers_1900.jpg" width="450px" alt="La Fosse de Cuvinot à Onnaing"/></a>
+	    <figcaption>La Fosse de Cuvinot</figcaption>
     </figure>
 	
 	<li><strong>Jules MAGNY</strong>, né le 18 août 1892 à Onnaing (Nord). Le 6 septembre 1916, soldat mitrailleur, il a,  par son calme et la précision de son tir, entravé une tentative de contre attaque allemande. Nommé caporal le 5 décembre 1917, il est ensuite prisonnier de guerre du 31 mai au 14 décembre 1918. Il était titulaire de la croix de guerre avec étoile de bronze, de la médaille commémorative et de la médaille interalliée. Abel, le frére de Jules MAGNY, épouse la fille de <a href="JOLY-Noel-Jules.php">Noël Jules JOLY</a>.<br /><br /></li>
@@ -182,6 +169,7 @@
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>

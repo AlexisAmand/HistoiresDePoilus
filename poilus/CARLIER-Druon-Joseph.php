@@ -62,6 +62,7 @@
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
@@ -90,7 +91,7 @@
 
 <article>
 
-<h1>CARLIER Druon Joseph</h1>
+<h1>Druon Joseph CARLIER</h1>
 
 <p><strong>Druon Joseph CARLIER</strong>, père de mon arrière-grand-mère, est né le samedi 15 avril 1876 à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> (Nord). Il est le fils de Druon Joseph CARLIER, ouvrier, âgé de 49 ans et de Sidonie Célestine PATOU, ouvrière, âgée de 42 ans. A sa naissance, il a pour frères et sœurs : Gustave (né en 1864), Maria Sidonie (née en 1865), Marie Zélia (née en 1869) et <a href="CARLIER-Louis-Abraham.php">Louis Abraham</a> (né en 1871). En 1906, il vit au hameau de Sebourquiaux avec son épouse Angèle DANHIEZ et ses deux filles Lucia (mon arrière-grand-mère) et Maria.</p>
 
@@ -139,7 +140,7 @@
 
 <figure>
     <a href="images/forts-maubeuge.jpg" id="single_image" title="L'emplacement des forts de la place forte de Maubeuge en 1914">
-    <img src="images/mini/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/> 
+    <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/> 
     </a>
     <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
 </figure>
@@ -172,13 +173,13 @@
     
     <ul>
         <li><a href="http://archives.genealexis.fr/album/13-carlier-druon-joseph" title="version numérisée du dossier d'ancien combattant de Druon Joseph CARLIER">Le dossier d'ancien combattant de Druon Joseph CARLIER</a></li>
-        <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Archives et Cultures / Yves Buffetaut)</li>
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
         <li><a href="../pdf/Maubeuge-1914-Duvivier.pdf" title="La Bataille de Maubeuge en septembre 1914">Maubeuge 1914</a> (Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
         <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a> (source allemande)</li>
         <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf">Aus deutschen Kriegsgefangenenlagern</a> (Deutsches Rotes Kreuz)</li>
         <li><a href="http://amzn.to/2rvOovF">Prisonniers 1914-1918</a> (Editions Sulton / Jean-Paul Briaste)</li>
         <li>Archives de la Croix Rouge</li>
-        <li>Archives du Nord</li>
+        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
     </ul>
 
 <p class="sources">

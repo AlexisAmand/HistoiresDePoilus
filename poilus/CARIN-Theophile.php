@@ -71,6 +71,7 @@
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
@@ -99,7 +100,7 @@
 
 <article>
 
-<h1>CARIN Théophile</h1>
+<h1>Théophile CARIN</h1>
 
 <p><strong>Théophile  CARIN</strong> est né le 19 août 1879 à Lourches (Nord), fils légitime de  François Louis CARIN et de Pauline DUSSART. Il s'unit avec Zélia  BRASSEUR (née en 1886), mon arrière-arrière-grand-mère,  le  vendredi 14 août 1908 à Lourches. <strong>Théophile</strong> n'est pas parent avec moi. Il a juste épousé une de mes aïeules.</p>
 
@@ -191,7 +192,7 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-        <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
        
     </ul>
 

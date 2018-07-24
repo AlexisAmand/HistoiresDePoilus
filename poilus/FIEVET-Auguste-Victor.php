@@ -73,6 +73,7 @@
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
@@ -101,7 +102,7 @@
 
 <article>
 
-<h1>FIEVET Auguste Victor</h1>
+<h1>Auguste Victor FIEVET</h1>
 
 <p><strong>Auguste Victor FIEVET</strong> est né à Lille (Nord) le 8 janvier 1890. Il est le fils légitime de Charles Jules FIEVET, fileur de coton, âgé de 28 ans et de Marie Roseline LOHIEZ, âgée de 19 ans. Il a pour frère <a href="FIEVET-Charles-Augustin.php">Charles Augustin</a>.</p>
 
@@ -180,7 +181,7 @@
     <figcaption>La ferme du Rond Chêne sur une carte de Dinant<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-    <p>En quelques minutes, 90 hommes sont mis hors de combat dont <strong>Auguste</strong> qui est blessé par balle au pied droit, à la cheville et à la main. Il est évacué à l’<strong>hôpital 31 de Nantes</strong> et devient invalide à 40%. Selon les Archives Municipales de Nantes, l'hôpital 31 était situé dans l'ancien séminaire de philosophie, rue Saint-Clément  et avait une capacité de 300 lits. Il fonctionne du 25 août 1914 au 24 septembre 1916.</p>
+    <p>En quelques minutes, 90 hommes sont mis hors de combat dont <strong>Auguste</strong> qui est blessé par balle au pied droit, à la cheville et à la main. Il est évacué à <a href="../hopitaux/hopitaux.php" title="Les hôpitaux pendant la Grande Guerre">l’hôpital 31 de Nantes</a> et devient invalide à 40%. Selon les Archives Municipales de Nantes, l'hôpital 31 était situé dans l'ancien séminaire de philosophie, rue Saint-Clément  et avait une capacité de 300 lits. Il fonctionne du 25 août 1914 au 24 septembre 1916.</p>
 
 <figure>
     <a href="" id="single_image"  id="single_image" title="Les hôpitaux de Nantes">
@@ -213,7 +214,7 @@
     
     <ul>
     	<li><a href="http://archives.genealexis.fr/image/115-page-01" title="version numérisée du dossier d'ancien combattant d'Auguste FIEVET">Le dossier d'ancien combattant d'Auguste FIEVET</a></li>
-        <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>
+        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
        
     </ul>
 

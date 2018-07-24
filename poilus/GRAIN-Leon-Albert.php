@@ -70,6 +70,7 @@
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php" class="AsideSelected">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
@@ -98,7 +99,7 @@
 
 <article>
 
-<h1>Grain Léon Albert</h1>
+<h1>Léon Albert GRAIN</h1>
 
 <p>Frère de <a href="GRAIN-Louis.php" title="voir la page consacrée à Louis Grain">Louis</a>, <strong>Léon Albert GRAIN</strong> est né le vendredi 26 décembre 1879 à Villers-Guislain (Nord). Il est le fils légitime de Louis GRAIN, domestique âgé de 19 ans et Joséphine VELU, âgé de 17 ans. En 1906, Léon est tisseur et vit Rue du Catelet à Villers-Guislain en compagnie de son épouse Angèle BERCHON et de leur fille Lucie.</p>
 
@@ -126,7 +127,7 @@
 
 <figure>
     <a href="images/forts-maubeuge.jpg" id="single_image" title="L'emplacement des forts de la place forte de Maubeuge en 1914">
-    <img src="images/mini/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/> 
+    <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/> 
     </a>
     <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
 </figure>
@@ -144,7 +145,7 @@
 
 <br/><h2>La chute de Maubeuge</h2>
 
-<p><strong>Léon Albert</strong> est fait prisonnier le 8 septembre à 1914 à Maubeuge et envoyé à Chemnitz, un <a href="../camps/camp-chemnitz.php">camp de prisonniers de Chemnitz</a>  situé en Saxe, entre Dresde et Zwickau, au Sud-est de Leipzig. Pour rappel, 46000 soldats français ont été fait prisonniers à la suite de la chute de la ville Maubeuge.</p>
+<p><strong>Léon Albert</strong> est fait prisonnier le 8 septembre à 1914 à Maubeuge et envoyé à Chemnitz, un <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de prisonniers de Chemnitz</a>  situé en Saxe, entre Dresde et Zwickau, au Sud-est de Leipzig. Pour rappel, 46000 soldats français ont été fait prisonniers à la suite de la chute de la ville Maubeuge.</p>
 
 <figure>
     <a href="images/camp-de-chemnitz.jpg" id="single_image" title="Le camp de Chemnitz pendant la Grande Guerre">
@@ -159,13 +160,13 @@
     
     <ul>   	
     	<li><a href="http://archives.genealexis.fr/album/18-grain-leon" title="version numérisée du dossier d'ancien combattant de Léon Albert GRAIN">Le dossier d'ancien combattant de Léon Albert GRAIN</a></li>   
-        <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Archives et Cultures / Yves Buffetaut)</li>
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
         <li><a href="../pdf/Maubeuge-1914-Duvivier.pdf" title="La Bataille de Maubeuge en septembre 1914">Maubeuge 1914</a> (Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
         <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a> (source allemande)</li>
         <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf">Aus deutschen Kriegsgefangenenlagern</a> (Deutsches Rotes Kreuz)</li>
         <li><a href="http://amzn.to/2rvOovF">Prisonniers 1914-1918</a> (Editions Sulton / Jean-Paul Briaste)</li>
         <li>Archives de la Croix Rouge</li>
-        <li>Archives du Nord</li>
+        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
     </ul>
 
 <p class="sources">

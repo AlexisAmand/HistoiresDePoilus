@@ -71,6 +71,7 @@
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php" class="AsideSelected">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
@@ -99,7 +100,7 @@
 
 <article>
 
-<h1>LETIENNE Florimond</h1>
+<h1>Florimond LETIENNE</h1>
 
 <p><strong>Florimond LETIENNE</strong>, le beau frère d'<a href="FIEVET-Auguste-Victor.php" title="lien vers la page consacrée à Auguste FIEVET">Auguste</a> et <a href="FIEVET-Charles-Augustin.php" title="lien vers la page consacrée à Charles FIEVET">Charles FIEVET</a>, est né le 19 octobre 1873 à Roubaix (Nord), fils légitime de Henri Joseph LETIENNE et de Adéle Fileline DEGOBERT. Le 12 novembre 1898 à Roubaix, Florimond épouse Marie DELAUX, fille légitime d&#39;Adolphe (1856-1906) et Joséphine RICHOMME (1857 - ? ), et soeur de Nathalie DELAUX (1885 - 1952), mon arrière-arrière-grand-mère.</p>
 
@@ -113,8 +114,8 @@
     <p>Selon le recensement de 1906, Florimond est rattacheur et vit Rue des Longues à Haies à Roubaix, en compagnie de Marie Lucie et de ses enfants : Léonie, Georges et Charles. La Rue des Longues Haies était situé dans un quartier populaire de Roubaix. Longue de près 1 km, on y trouvait des usines, des estaminets, des commerces, le Mont de Piété ou encore les Bains Municipaux. La rue était aussi un labyrinthe de courées parmi lesquelles la Cour Mulliez, où vivait la famille LETIENNE. On rencontrait cette rue en remontant la Rue de Lannoy vers l'église Sainte Elisabeth, elle s'étendait parallèlement au Boulevard Gambetta, en une longue ligne droite.</p> 
     
 <figure>
-    <a href="images/roubaix_Longues_Haies.jpg" id="single_image" title="La Rue des Longues Haies à Roubaix">
-    <img src="miniatures/roubaix_Longues_Haies.jpg" alt="La Rue des Longues Haies et le Mont de piété à Roubaix">
+    <a href="images/roubaix_longues_haies.jpg" id="single_image" title="La Rue des Longues Haies à Roubaix">
+    <img src="miniatures/roubaix_longues_haies.jpg" alt="La Rue des Longues Haies et le Mont de piété à Roubaix">
     </a>
     <figcaption>La Rue des Longues Haies et le Mont de Piété (Roubaix)<br /> (source : Bibliothèque Numérique de Roubaix)</figcaption>
 </figure>   
@@ -136,7 +137,7 @@
     	
     
     	<li><a href="http://archives.genealexis.fr/album/20-letienne-florimond" title="version numérisée du dossier d'ancien combattant de Florimond LETIENNE">Le dossier d'ancien combattant de Florimond LETIENNE</a> (Archives Départementales du Nord)</li>
-        <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Archives et Cultures / Yves Buffetaut)</li>
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
        
     </ul>     
  

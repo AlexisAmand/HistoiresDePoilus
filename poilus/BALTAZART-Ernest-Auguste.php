@@ -70,6 +70,7 @@
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
@@ -98,7 +99,7 @@
 
 <article>
 
-<h1>BALTAZART Ernest Auguste</h1>
+<h1>Ernest Auguste BALTAZART</h1>
 
 <p><strong>Ernest Auguste BALTAZART</strong> est né le samedi 21 juillet 1872 à <a href="http://cartespostalesanciennes.genealexis.fr/album/63-betheniville" title="cartes postales anciennes de Bétheniville sur le site Genealexis">Bétheniville</a> (Marne), fils de Ernest Louis, menuisier, et de Anne Joseph LEDUC, domestique. Le 26 avril 1897, il épouse Marie Eugènie HUET à Bétheniville et ils partent vivre Rue de la Cochette.</p>
 
@@ -161,7 +162,7 @@
     <ul>
         <li>"Le Monde Illustré" du 15 juillet 1922</li>
     	<li><a href="../pdf/matricule-baltazart-ernest.pdf" title="Fiche matricule d'Ernest Auguste BALTAZART">Fiche matricule d'Ernest Auguste BALTAZART</a></li>
-        <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>
+        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
        
     </ul>
 

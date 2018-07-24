@@ -4,7 +4,7 @@
 
 <meta charset="utf-8">
           
-<title>Les hopitaux pendant la Grande Guerre - Histoires de Poilus</title>
+<title>Les hopitaux de XXX pendant la Grande Guerre - Histoires de Poilus</title>
 <meta content=" " name="description">
 
 <link rel="stylesheet" href="../css/style.css">
@@ -60,18 +60,18 @@
 	<ul>
       
 		<li><a href="hopitaux-ara.php">Auvergne-Rhône-Alpes</a></li>
-		<li><a href="#">Bourgogne-Franche-Comté</a></li>
-		<li><a href="#">Bretagne</a></li>
-		<li><a href="#">Centre-Val de Loire</a></li>
-		<li><a href="#">Corse</a></li>
-		<li><a href="#">Grand Est</a></li>
-		<li><a href="#">Hauts-de-France</a></li>
-		<li><a href="#">Île-de-France</a></li>
-		<li><a href="#">Normandie</a></li>
-		<li><a href="#">Nouvelle-Aquitaine</a></li>
-		<li><a href="#">Occitanie</a></li>
-		<li><a href="#">Pays de la Loire</a></li>
-		<li><a href="#">Provence-Alpes-Côte d'Azur</a></li>
+		<li><a href="hopitaux-bfc.php">Bourgogne-Franche-Comté</a></li>
+		<li><a href="hopitaux-bre.php">Bretagne</a></li>
+		<li><a href="hopitaux-cvl.php">Centre-Val de Loire</a></li>
+		<li><a href="hopitaux-cor.php">Corse</a></li>
+		<li><a href="hopitaux-ges.php">Grand Est</a></li>
+		<li><a href="hopitaux-hdf.php">Hauts-de-France</a></li>
+		<li><a href="hopitaux-idf.php">Île-de-France</a></li>
+		<li><a href="hopitaux-nor.php">Normandie</a></li>
+		<li><a href="hopitaux-naq.php" class="AsideSelected">Nouvelle-Aquitaine</a></li>
+		<li><a href="hopitaux-occ.php">Occitanie</a></li>
+		<li><a href="hopitaux-pdl.php">Pays de la Loire</a></li>
+		<li><a href="hopitaux-pac.php">Provence-Alpes-Côte d'Azur</a></li>
              
      </ul>
  
@@ -93,14 +93,13 @@
 
 <h1>Les hopitaux</h1>
 
-<p>Regroupés dans des hôpitaux d’évacuation puis transportés par train sanitaire, les blessés pouvaient être répartis dans différentes structures après, parfois, un bref séjour dans un hôpital dit <em>"de passage"</em>:</p>
+<h2>cognac-HC-45<h2>
 
-<p>- un hôpital militaire classique</p>
-<p>- un hôpital complémentaire, contrôlé par le Service de Santé des Armées, (HC)</p>
-<p>- un hôpital auxiliaire, contrôlé par la Croix-Rouge et géré par l’une de ses trois composantes,</p>
-<p>- un hôpital bénévole, souvent appelé « ambulance », d’initiative privée (HB). Les hôpitaux bénévoles étaient souvent installés dans des locaux réquisitionnés (écoles, casino, bateaux,…) et ils pouvaient être d’importance variable et parfois éphémères.</p>
-
-<h2>hôpital temporaire n°18 de Corbineau</h2>
+    <figure>
+    <a href="images/cognac-HC-45.jpg" id="single_image" title="L'hôpital complémentaire n°45 à Cognac">
+   	<img src="miniatures/cognac-HC-45.jpg" alt="L'hôpital complémentaire n°45 à Cognac"></a>
+    	<figcaption> </figcaption>
+    </figure>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

@@ -70,6 +70,7 @@
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
@@ -98,7 +99,7 @@
 
 <article>
 
-<h1>CARIN Edouard</h1>
+<h1>Edouard CARIN</h1>
 
 <p><strong>Edouard CARIN</strong> est né le 5 août 1884 à Lourches (Nord),  fils légitime de  François Louis CARIN et de Pauline DUSSART.<strong> Edouard</strong> est le frère de <a href="CARIN-Theophile.php">Théophile</a>, l'époux de mon arrière-arrière-grand-mère Zélia BRASSEUR. En 1906, il vit chez ses parents à Lourches (Rue Beauvois) en compagnie de ses parents et ses frères et soeurs: Alfred, Appoline, Clara, Joseph, <a href="CARIN-Leon.php">Léon</a>, Celeste et François.</p> 
 
@@ -148,7 +149,7 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-        <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
        
     </ul>
 

@@ -213,7 +213,7 @@
 	<h2>Guides de recherche</h2>
     
     <ul>
-        <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>
+        <li><a href="https://amzn.to/2LqzGM2">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
         <li><a href="https://amzn.to/2NuoqQb">Recherchez vos ancêtres soldats et leur famille (1914-1918)</a><br />(Martin Média / Revue Française de Généalogie)</li>
         <li><a href="http://www.rfgenealogie.com">Les médailles et décorations</a><br />(Martin Média / Revue Française de Généalogie)</li>
     </ul>

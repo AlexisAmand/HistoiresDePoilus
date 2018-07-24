@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Histoires de Poilus - Quelques poilus des Ardennes</title>
-<meta content="Liste d'individus des Ardennes en âge de participer à la Grande Guerre dont la parenté et la mobilisation n'ont pas encore été prouvées" name="description">
+<title>Histoires de Poilus - Liste de quelques poilus des Ardennes</title>
+<meta content="Petites biographies de soldats de ma famille ayant participé à la Premiére Guerre Mondiale et ayant vécu dans le Ardennes" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -70,6 +70,7 @@
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>

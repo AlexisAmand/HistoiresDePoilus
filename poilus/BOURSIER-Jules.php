@@ -72,6 +72,7 @@
      <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
      <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
      <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
+     <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
      <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
      <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
      <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
@@ -101,7 +102,7 @@
 
 <article id="articlemenu">
 
-<h1>BOURSIER Jules Henri</h1>
+<h1>Jules Henri BOURSIER</h1>
 
 <p><strong>Jules Henri BOURSIER</strong> est né à Onnaing (Nord) le 7 décembre 1879, fils légitime de Edmond François BOURSIER, cultivateur, et de Julia JUDES. En 1906, il est chaudronnier et vit chez ses parents à Onnaing (Rue De La Chevauchoire), avec son frère Edouard. Le 19 novembre de la même année, il épouse Suzanne Hyacinthe GODIN (1879-1939). </p> 
       
@@ -176,13 +177,13 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-        <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Archives et Cultures / Yves Buffetaut)</li>
+        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
         <li><a href="../pdf/Maubeuge-1914-Duvivier.pdf">Maubeuge 1914</a> (Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
         <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a> (source allemande)</li>
         <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf">Aus deutschen Kriegsgefangenenlagern</a> (Deutsches Rotes Kreuz)</li>
         <li><a href="http://amzn.to/2rvOovF">Prisonniers 1914-1918</a> (Editions Sulton / Jean-Paul Briaste)</li>
         <li>Archives de la Croix Rouge</li>
-        <li>Archives du Nord</li>
+        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
     </ul>
 
 <p class="sources">

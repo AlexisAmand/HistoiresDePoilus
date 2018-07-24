@@ -71,6 +71,7 @@
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php" class="AsideSelected">MAILLART Alexandre Ernest</a></li>
@@ -99,7 +100,7 @@
 
 <article>
 
-<h1>MAILLART Alexandre Ernest</h1>
+<h1>Alexandre Ernest MAILLART</h1>
 
 <p><strong>Alexandre Ernest MAILLART </strong>est né le 24 juillet 1874 à <a href="../releves/betheniville.php">Bétheniville</a>, fils d’Achille Onésiphore et Julie Adèle BALTAZART, elle-même fille de Jean-Baptiste et Julie Joséphine KRAUTH (mes sosas n°116 et n°117).&nbsp; Alexandre est le cousin d&#39;<a href="BALTAZART-Ernest-Auguste.php">Ernest Auguste BALTAZART</a>.</p>
     <p>Le 18 septembre 1899, Alexandre épouse à Boult-sur-Suippe (Marne) Marie Berthe GAUCHET, âgée de 25 ans, fille légitime d’Hyppolyte et Marie-Zélie SOMMELIER. Lors de son mariage, Alexandre travaille pour la Compagnie des Chemins de Fer de l’Est. Leur fils Marcel naît à Bar-le-Duc (Meuse) le 9 mai 1901, rue des romains.</p>
@@ -118,7 +119,7 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-        <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
        
     </ul>
 

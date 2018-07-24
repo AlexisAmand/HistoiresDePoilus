@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Histoires de Poilus - Liste de quelques jasses de Belgique</title>
-<meta content="Petites biographies de soldats de ma famille ayant participé à la Premiére Guerre Mondiale et ayant vécu dans en Belgique" name="description">
+<title>Biographie du soldat HANZE - Histoires de Poilus</title>
+<meta content=" " name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -70,17 +70,17 @@
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+        <li><a href="hanze-augustin.php" class="AsideSelected">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
+       <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
         <li><a href="autres.php">Les soldats du Nord</a></li>
-        <li><a href="soldats-belgique.php" class="AsideSelected">Les soldats de Belgique</a></li>
+        <li><a href="soldats-belgique.php">Les soldats de Belgique</a></li>
         
    </ul>
    
@@ -99,28 +99,27 @@
 </aside>
 
 <article>
-
-<h1>Les jasses de Belgique</h1>
-
-<ul>   
-    <li><strong>Jules AMAND</strong> est né à Boussu (Belgique) le 24 novembre 1888, fils de Jules AMAND et Antoinette AMAND. Soldat de 2e classe et milicien au sein du 9e Régiment de Ligne pendant la Grande Guerre sous le matricule 109/54524. Sa fiche sepulture indique qu'il est probable qu'il soit tombé au combat le 6 août 1914 au Bois Saint-Jean à Ougrée (prés de Liége) étant entendu que son livret de mobilisation a été retrouvé sur le champ de bataille de cette commune. L'ancêtre que j'ai en commun avec lui est Jean Joseph AMAND, mon sosa n°256, 8 générations avant moi. (source: <a href="https://www.wardeadregister.be/fr">Dead War Register</a>)<br /><br /></li>
-</ul>
-
-    <figure>
-    <a href="images/ougree.jpg" id="single_image" title="Jules AMAND sur le monument d'Ougrée en Belgique">
-    <img src="miniatures/ougree.jpg" alt="Jules AMAND sur le monument d'Ougrée en Belgique"/></a>
-    <figcaption>Jules sur le monument d'Ougrée<br> (Source: <a href="http://www.bel-memorial.org">Bel-Memorial</a>)</figcaption>
-    </figure>
-
-<p></p>
-
-<h2>Les soldats dont la parenté reste à confirmer</h2>
-
-    <ul>
-        <li>Né le 19 octobre 1890 à Condé-sur-l'Escaut (59) mais déclaré à Bernissart, <strong>Raoul Charles Jules QUINTIN</strong> fait partie de l'Armée Belge. Il porte le numéro de matricule 101/57096 et est mort pour sa patrie le 26 août 1914. (source: <a href="https://www.wardeadregister.be/fr">Dead War Register</a>)<br /><br /></li> 
-    </ul>
     
-<p></p>
+<h1>Augustin HANZE</h1>
+
+<p>Augustin HANZE est né Cousolre (Nord) le 6 février 1886, fils légitime de Désiré HANZE et Laure DELENS. Selon le recensement de 1906, il est serrurier et vit Route Nationale à Cousolre en compagnie de ses parents et de sa soeur Germaine (née en 1891). Le 5 mars 1910, il épouse à Valenciennes Berthe DUSART, la cousine germaine d'<a href="FONTAINE-Henri-Gustave.php">Henri Gustave FONTAINE</a> (mon arriére-arriére-grand-pére). Rappelé à l'activité par le décrét de Mobilisation Générale du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août.</p> 
+
+<p>Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le Monument aux Morts de Coulsore (où il était né) et sur les plaques commémoratives du square de l’Armistice à Carcassonne (où il était serrurier).</p>
+
+	<figure>
+	    <a href="images/momument-cousolre.jpg" id="single_image" title="Inauguration du monument de Cousolre">
+	    <img src="miniatures/momument-cousolre.jpg" alt="Inauguration du monument de Cousolre le 29 juillet 1923"/></a>
+	    <figcaption>Inauguration du monument de Cousolre<br />(Le 29 juillet 1923)</figcaption>
+    </figure>
+    
+<p>Pour la petite histoire, Louis PERGAUD (1882-1915), prix Goncourt et auteur de "La Guerre des Boutons" (publié en 1912) a disparu durant la même bataille, dans la nuit du 7 au 8 avril 1915.</p>    
+        
+<h2>Sources et bibliographie</h2>
+    
+    <ul>
+        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
+        <li>Archives départementales du Nord</li>
+    </ul> 
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

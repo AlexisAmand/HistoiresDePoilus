@@ -72,6 +72,7 @@
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
@@ -100,13 +101,13 @@
 
 <article>
 
-<h1>VELU Adrien</h1>
+<h1 style="background-image: url('images/flag_of_france.png');background-repeat:no-repeat;">Adrien VELU</h1>
 
 <p><strong>Adrien Velu</strong> est un "cousin" né à Villers-Guislain (Nord) le 1 janvier 1889, fils légitime de Marc Ferdinand VELU et Marie Joséphine Angèle VELU, deux cousins germains. Le 16 avril 1910,  Adrien épouse Apolline BRIOT.</p>
 
 <figure>
-    <a href="images/matricule-adrien-velu.jpg" id="single_image">
-    <img src="miniatures/matricule-adrien-velu.jpg" alt=" "/>
+    <a href="images/matricule-adrien-velu.jpg" id="single_image" title="Extrait de la fiche matricule d'Adrien VELU">
+    <img src="miniatures/matricule-adrien-velu.jpg" alt="Extrait de la fiche matricule d'Adrien VELU"/>
     </a>
     <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir - Archives Départementales du Nord)</figcaption>
 </figure>
@@ -128,11 +129,11 @@
 
 <br/><h2>Adrien, mort pour la France</h2>
 
-<p><strong>Adrien</strong> contracte la fièvre typhoïde pendant son service et est déclaré mort pour la France le 2 avril 1915 à l'hôpital temporaire n°18 de Corbineau (<a href="http://cartespostalesanciennes.genealexis.fr/album/85-chalons-sur-marne" title="cartes postales anciennes de Châlons-sur-Marne sur le site Genealexis">Châlons-sur-Marne</a>, devenu  Châlons-en-Champagne depuis le 17 novembre 1995).</p>
+<p><strong>Adrien</strong> contracte la fièvre typhoïde pendant son service et est déclaré mort pour la France le 2 avril 1915 à <a href="../hopitaux/hopitaux.php"  title="Les hôpitaux pendant la Grande Guerre">l'hôpital temporaire n°18 de Corbineau</a> (Châlons-sur-Marne, devenu  Châlons-en-Champagne depuis le 17 novembre 1995).</p>
 
 <figure>
     <a href="sources/VELU-Adrien-mpf.jpg" id="single_image" title="Adrien VELU, mort pour la France">
-    <img src="miniatures/VELU-Adrien-mpf.jpg" alt="Fiche mort pour la France d'Adrien VELU"/>
+    <img src="miniatures/VELU-Adrien-mpf.jpg" alt="Fiche de mort pour la France d'Adrien VELU"/>
     </a>
     <figcaption>Adrien VELU, mort pour la France<br />(cliquez pour agrandir)</figcaption>
 </figure>
@@ -149,7 +150,7 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-        <li><a href="http://www.amazon.fr/gp/product/2350772527/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2350772527&linkCode=as2&tag=lagenealogent-21&linkId=HNX7OPFIJC2CK7G3">Retrouvez l'histoire de votre grand-père en 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2350772527" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Archives et Cultures / Yves Buffetaut)</li>
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
        
     </ul>
 

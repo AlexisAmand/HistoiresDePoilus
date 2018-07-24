@@ -60,18 +60,18 @@
 	<ul>
       
 		<li><a href="hopitaux-ara.php">Auvergne-Rhône-Alpes</a></li>
-		<li><a href="#">Bourgogne-Franche-Comté</a></li>
-		<li><a href="#">Bretagne</a></li>
-		<li><a href="#">Centre-Val de Loire</a></li>
-		<li><a href="#">Corse</a></li>
-		<li><a href="#">Grand Est</a></li>
-		<li><a href="#">Hauts-de-France</a></li>
-		<li><a href="#">Île-de-France</a></li>
-		<li><a href="#">Normandie</a></li>
-		<li><a href="#">Nouvelle-Aquitaine</a></li>
-		<li><a href="#">Occitanie</a></li>
-		<li><a href="#">Pays de la Loire</a></li>
-		<li><a href="#">Provence-Alpes-Côte d'Azur</a></li>
+		<li><a href="hopitaux-bfc.php">Bourgogne-Franche-Comté</a></li>
+		<li><a href="hopitaux-bre.php">Bretagne</a></li>
+		<li><a href="hopitaux-cvl.php">Centre-Val de Loire</a></li>
+		<li><a href="hopitaux-cor.php">Corse</a></li>
+		<li><a href="hopitaux-ges.php">Grand Est</a></li>
+		<li><a href="hopitaux-hdf.php">Hauts-de-France</a></li>
+		<li><a href="hopitaux-idf.php" class="AsideSelected">Île-de-France</a></li>
+		<li><a href="hopitaux-nor.php">Normandie</a></li>
+		<li><a href="hopitaux-naq.php">Nouvelle-Aquitaine</a></li>
+		<li><a href="hopitaux-occ.php">Occitanie</a></li>
+		<li><a href="hopitaux-pdl.php">Pays de la Loire</a></li>
+		<li><a href="hopitaux-pac.php">Provence-Alpes-Côte d'Azur</a></li>
              
      </ul>
  
@@ -93,14 +93,28 @@
 
 <h1>Les hopitaux</h1>
 
-<p>Regroupés dans des hôpitaux d’évacuation puis transportés par train sanitaire, les blessés pouvaient être répartis dans différentes structures après, parfois, un bref séjour dans un hôpital dit <em>"de passage"</em>:</p>
 
-<p>- un hôpital militaire classique</p>
-<p>- un hôpital complémentaire, contrôlé par le Service de Santé des Armées, (HC)</p>
-<p>- un hôpital auxiliaire, contrôlé par la Croix-Rouge et géré par l’une de ses trois composantes,</p>
-<p>- un hôpital bénévole, souvent appelé « ambulance », d’initiative privée (HB). Les hôpitaux bénévoles étaient souvent installés dans des locaux réquisitionnés (écoles, casino, bateaux,…) et ils pouvaient être d’importance variable et parfois éphémères.</p>
+<h2>Hôpital de Saint-Mandé</h2>
 
-<h2>hôpital temporaire n°18 de Corbineau</h2>
+<p>Cet hopital militaire était situé à l'Hôpital Militaire Bégin à Saint-Mandé, dans le Val-de-Marne. Il doit son nom à Louis Jacques Bégin (1793-1859), chirurgien militaire de l'Empire.</p>
+
+    <figure>
+    <a href="images/hopital-begin.jpg" id="single_image" title="l'hôpital militaire Bégin">
+    <img src="miniatures/hopital-begin.jpg" alt="L'entrée de l'hôpital militaire Bégin pendant la guerre"></a>
+   		<figcaption>L'entrée de l'hôpital militaire Bégin</figcaption>
+    </figure>
+   
+    <figure>
+    <a href="images/begin-cuisine.jpg" id="single_image" title="l'hôpital militaire Bégin">
+    <img src="miniatures/begin-cuisine.jpg" alt="Les cuisines de l'hôpital militaire Bégin pendant la guerre"></a>
+    	<figcaption>Les cuisines de l'hôpital militaire Bégin</figcaption>
+    </figure>
+
+    <figure>
+    <a href="images/hopital-begin-cours.jpg" id="single_image" title="l'hôpital militaire Bégin">
+   	<img src="miniatures/hopital-begin-cours.jpg" alt="La cour intérieure de l'hôpital militaire Bégin pendant la guerre"></a>
+    	<figcaption>La cour intérieure de l'hôpital militaire Bégin</figcaption>
+    </figure>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

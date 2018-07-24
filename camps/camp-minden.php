@@ -153,9 +153,8 @@
 
     <div class="video">
         <video controls>
-            <source src="../videos/Minderheide-1915.mp4" type="video/mp4"> <!-- largeur 480px  -->
-            Votre navigateur ne prend pas en charge cette vidéo.
-        </video>
+            <source src="../videos/Minderheide-1915.mp4" type="video/mp4">
+		</video>
     </div>
 
 <h2>Les prisonniers au travail</h2>

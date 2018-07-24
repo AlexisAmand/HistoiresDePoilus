@@ -73,6 +73,7 @@
         <li><a href="poilus/FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="poilus/GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="poilus/GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="poilus/hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="poilus/JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="poilus/LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="poilus/MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
