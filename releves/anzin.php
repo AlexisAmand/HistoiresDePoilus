@@ -155,7 +155,7 @@
   <tr>
     <td>AUDIN<br />Arthur Victor </td>
     <td>le 14 novembre 1886<br />à Le Quesnoy (59)</td>
-    <td>le 5 septembre 1919<br />à L'hôpital mixte de Valenciennes (59)</td>
+    <td>le 5 septembre 1919<br />à <a href="../hopitaux/hopitaux-hdf.php">L'hôpital mixte de Valenciennes (59)</a></td>
     <td>?</td>
     <td>maladie</td>
     </tr>
@@ -176,7 +176,7 @@
   <tr>
     <td>BASILY<br />Georges </td>
     <td>le 30 juillet 1886<br />à Anzin (59)</td>
-    <td>le 1er avril 1918<br />à l'hôtipal temporaire<br />n°11 du lycée Jeanne Hachette de Beauvais (80)</td>
+    <td>le 1er avril 1918<br />à <a href="../hopitaux/hopitaux-hdf.php">l'hôtipal temporaire<br />n°11 du lycée Jeanne Hachette de Beauvais (80)</a></td>
     <td>?</td>
     <td>blessures de guerre</td>
   </tr>
@@ -377,22 +377,16 @@
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td>BROSSARD<br />
-François</td>
-    <td>Le 24 novembre 1884<br />
-        à Denain (Nord)</td>
-    <td>Le 23 février 1916<br />
-        à Herlebois (Meuse)</td>
+    <td>BROSSARD<br />François</td>
+    <td>Le 24 novembre 1884<br />à Denain (Nord)</td>
+    <td>Le 23 février 1916<br />à Herlebois (Meuse)</td>
     <td>327e R.I</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td>BUTIN<br />
-Henri Jean-Baptiste</td>
-    <td>Le 16 janvier 1880<br />
-        à Valenciennes (Nord)</td>
-    <td>Le 24 octobre 1914<br />
-        à la Harazée (Marne)</td>
+    <td>BUTIN<br />Henri Jean-Baptiste</td>
+    <td>Le 16 janvier 1880<br />à Valenciennes (Nord)</td>
+    <td>Le 24 octobre 1914<br />à la Harazée (Marne)</td>
     <td>91e R.I</td>
     <td>&nbsp;</td>
   </tr>
@@ -416,35 +410,7 @@ Henri Jean-Baptiste</td>
     <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
 </footer>
 
-<!-- Piwik -->
-<script type="text/javascript">
-var _paq = _paq || [];
-_paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-_paq.push(['trackPageView']);
-_paq.push(['enableLinkTracking']);
-(function() {
-var u="//www.genealexis.fr/piwik/";
-_paq.push(['setTrackerUrl', u+'piwik.php']);
-_paq.push(['setSiteId', 4]);
-var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-})();
-</script>
-<noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
-<!-- End Piwik Code -->
-
-
-
-<!-- Google Ana -->
-
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-11509906-21', 'auto');
-ga('send', 'pageview');
-</script>   
+<?php include('../include/stats.inc'); ?>
 
 <!-- javascript -->
 

@@ -105,13 +105,13 @@
 <p>Le nombre de prisonniers belge dans ce camp est passé de 12 à la fin de l'année 1917 à 1 au mois de juin 1918.</p>
 
 <figure>
-    <a href="images/Guben/guben-01.jpg" title=" " id="single_image" title="Le camp de Guben">
+    <a href="images/Guben/guben-01.jpg" id="single_image" title="Le camp de Guben">
     <img src="miniatures/Guben/guben-01.jpg" alt="des prisonniers dans le camp de Guben pendant la Grande Guerre"></a>
     <figcaption>Au camp de prisonniers</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Guben/guben-02.jpg" title=" " id="single_image" title="Le camp de Guben">
+    <a href="images/Guben/guben-02.jpg" id="single_image" title="Le camp de Guben">
     <img src="miniatures/Guben/guben-02.jpg" alt="des gardes du camps de prisonniers de Guben reçoivent leurs mots d'ordre pendant la Première Guerre Mondiale"></a>
     <figcaption>Les gardes reçoivent le mot d'ordre</figcaption>
 </figure>

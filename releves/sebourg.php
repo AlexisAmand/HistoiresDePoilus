@@ -127,15 +127,11 @@
 <table>
   <thead>
   <tr>
-    <td width="158">Nom et prénom(s)</td>
-    <td width="158">Date et lieu
-      <br />
-      de naissance</td>
-    <td width="158">Date et lieu
-      <br />
-      de décès</td>
-    <td width="45">Classe</td>
-    <td width="70">Corps</td>
+    <td class="l1">Nom et prénom(s)</td>
+    <td class="l2">Date et lieu<br />de naissance</td>
+    <td class="l3">Date et lieu<br />de décès</td>
+    <td class="l4">Classe</td>
+    <td class="l5">Corps</td>
    </tr>
    </thead>
   <tr>

@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Les hopitaux pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content=" " name="description">
+<title>Les hopitaux de la Bretagne pendant la Grande Guerre - Histoires de Poilus</title>
+<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles de Bretagne pendant la Premiére Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -91,7 +91,29 @@
 
 <article>
 
-<h1>Les hopitaux</h1>
+<h1>Les hôpitaux</h1>
+
+<h2>Dinard</h2>
+
+<p>L'hôpital complémentaire n°28 était installé à l'hôtel Royal et son annexe, l'hôtel Emeraude, situés près de la grande plage à Dinard. Ils avaient été convertis en hôtipaux dès le début de la guerre.</p>
+
+<h2>Pont-Croix</h2>
+
+<p>L'hôpital complémentaire n°37 était situé au séminaire de Pont-Croix.</p>
+
+<h2>Rennes</h2>
+
+	<figure>
+	<a href="images/rennes-ht-5.jpg" id="single_image" title="L'hôpital temporaire n°5 (Rennes)">
+    <img src="miniatures/rennes-ht-5.jpg" alt="L'hôpital temporaire n°5 à la Facultés des lettres de Rennes"></a>
+        <figcaption>Hôpital temporaire n°5<br />à la Faculté des lettres</figcaption>
+    </figure>
+    
+	<figure>
+	<a href="images/rennes-ht-41.jpg" id="single_image" title="L'hôpital temporaire n°41 (Rennes)">
+    <img src="miniatures/rennes-ht-41.jpg" alt="L'hôpital temporaire n°41 à la Faculté de droit de Rennes"></a>
+        <figcaption>Hôpital temporaire n°41<br />à la Faculté de droit</figcaption>
+    </figure>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

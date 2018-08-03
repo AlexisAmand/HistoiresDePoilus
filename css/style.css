@@ -95,7 +95,7 @@ footer a:visited,footer a:hover{color:#e2ede4;text-decoration:underline}
 .fancybox-ie #fancybox-bg-sw{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='fancybox/fancy_shadow_sw.png',sizingMethod='scale')}
 .fancybox-ie #fancybox-bg-w{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='fancybox/fancy_shadow_w.png',sizingMethod='scale')}
 .fancybox-ie #fancybox-bg-nw{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='fancybox/fancy_shadow_nw.png',sizingMethod='scale')}
-table{border-collapse:collapse;width:100%;margin-left:auto;margin-right:auto;text-align:left;font-size:13px;margin-bottom:50px}
+
 td{border-width:1px;border-style:solid;border-color:#3a4247;padding:5px}
 thead{background-color:#D3CECE}
 tr{height:47px}
@@ -113,3 +113,32 @@ figure{text-align:center;color:#363535;font-size:12px;margin-bottom:35px}
 #colindex figure{text-align:center;color:#363535;font-size:12px;margin-bottom:35px}
 .logo {margin-top:40px; margin-left:72px;}
 #pubaside{text-align:center;margin-top:20px;}
+
+/* largeur des tableaux pour les relevés */
+
+table{border-collapse:collapse;/* width:100%; */margin-left:auto;margin-right:auto;text-align:left;font-size:13px;margin-bottom:50px}
+
+.l1
+	{
+	width:26%;
+	}
+
+.l2
+	{
+	width:25%;
+	}
+	
+.l3
+	{
+	width:25%px;
+	}
+
+.l4
+	{
+	width:12%;
+	}
+
+.l5
+	{
+	width:12%;
+	}

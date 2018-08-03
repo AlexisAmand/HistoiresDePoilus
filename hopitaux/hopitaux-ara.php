@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Les hopitaux pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content=" " name="description">
+<title>Les hopitaux d'Auvergne-Rhône-Alpes pendant la Grande Guerre - Histoires de Poilus</title>
+<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles d'Auvergne-Rhône-Alpes pendant la Premiére Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -91,7 +91,31 @@
 
 <article>
 
-<h1>Les hopitaux</h1>
+<h1>Les hôpitaux</h1>
+
+<h2>Saint-Chamond</h2>
+
+<p>A Saint-Chamond, l'accueil hospitalier des soldats blessés ou convalescents se fait à l'École supérieure de jeunes filles (hôpital auxiliaire n°10) et au collège Sainte-Marie (hôpital complémentaire n°94).</p>
+
+    <figure>
+    <a href="images/saint-chamond-ha-94.jpg" id="single_image" title="L'hôpital auxiliaire n°94 (Saint-Chamond)">
+   	<img src="miniatures/saint-chamond-ha-94.jpg" alt="L'hôpital auxiliaire n°94, situé à l'Institution Sainte Marie de Saint-Chamond"></a>
+    	<figcaption>L'hôpital auxiliaire n°94,<br />situé à l'Institution Sainte Marie</figcaption>
+    </figure>
+
+<h2>Vichy</h2>
+
+    <figure>
+    <a href="images/vichy-ht-48.jpg" id="single_image" title="L'hôpital complémentaire n°48 (Vichy)">
+   	<img src="miniatures/vichy-ht-48.jpg" alt="L'hôpital complémentaire n°48 à l'Hôtel de bains de Vichy"></a>
+    	<figcaption>L'hôpital complémentaire n°48,<br />situé à l'Hôtel des bains</figcaption>
+    </figure>
+    
+    <figure>
+    <a href="images/vichy-ht-54.jpg" id="single_image" title="L'hôpital complémentaire n°54 (Vichy)">
+   	<img src="miniatures/vichy-ht-54.jpg" alt="L'hôpital complémentaire n°54 à l'Hôtel Beaujolais de Vichy"></a>
+    	<figcaption>L'hôpital complémentaire n°54,<br />situé à l'Hôtel Beaujolais</figcaption>
+    </figure>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

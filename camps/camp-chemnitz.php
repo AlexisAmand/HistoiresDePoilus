@@ -135,7 +135,7 @@
 <p>La même année, suite à une visite dans les camps de prisonniers français en Allemagne, les délégués du gouvernement espagnol décrivent les baraques du camp de Chemnitz comme <em>&quot;de grandes salles ayant 15m de large sur 120m de long. Les lits (matelas de fibres de bois et 2 couvertures) sont placés perpendiculairement au sens de la longueur; au centre et sur toute la longueur du local sont installés des tables et des bancs. Il reste néanmoins un espace suffisant pour le passage&quot;</em>.</p> 
     
 <figure>
-    <a href="images/Chemnitz/chemnitz-01.jpg" id="single_image" title=" ">
+    <a href="images/Chemnitz/chemnitz-01.jpg" id="single_image" title="L'intérieur d'une baraque de Chemnitz">
     <img src="miniatures/Chemnitz/chemnitz-01.jpg" alt="L'intérieur d'une baraque du camp de prisonniers de Chemnitz">
     </a>
     <figcaption>L'intérieur d'une baraque<br />(Carte postale)</figcaption>

@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Les hopitaux pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content=" " name="description">
+<title>Les hopitaux de l'Île-de-France pendant la Grande Guerre - Histoires de Poilus</title>
+<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles de l'Île-de-France pendant la Premiére Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -91,8 +91,11 @@
 
 <article>
 
-<h1>Les hopitaux</h1>
+<h1>Les hôpitaux</h1>
 
+<h2>Paris</h2>
+
+<p>L'Hôpital du gouvernement italien pour les blessés de Guerre Français (également appelé Hôpital de L'ambassade d’Italie) était situé au 41 quai d'Orsay à Paris. C'était un des hôpitaux complémentaires de l’hôpital militaire du Val-de-Grâce et également un des rares hôpitaux complémentaires à disposer de la radiologie.</p>
 
 <h2>Hôpital de Saint-Mandé</h2>
 

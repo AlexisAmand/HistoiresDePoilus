@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Les hopitaux de XXX pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content=" " name="description">
+<title>Les hopitaux d'Occitanie pendant la Grande Guerre - Histoires de Poilus</title>
+<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles d'Occitanie pendant la Premiére Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -14,6 +14,8 @@
 </head>
 
 <body>
+
+
 
 <script src="../js/cookiechoices.js"></script>
 
@@ -93,15 +95,37 @@
 
 <h1>Les hopitaux</h1>
 
-pamiers-HC-67.jpg
+<h2>Alet-les-Bains</h2>
+
+<p>Dès 1914, Pierre Cubat (ancien cuisinier des tsars Alexandre II, Alexandre III et Nicolas II) ouvre un hôpital complémentaire dans sa maison, qui pourra recevoir jusqu'à 50 blessés.</p> 
+
+<h2>Béziers</h2>
+
+<p>Durant la Première Guerre mondiale, sous le contrôle du Service de santé, le collège Henri IV  devient l'hôpital complémentaire n°29 du 15 août 1914 au 29 décembre 1918. Il disposait d'une unité de petite chirurgie, de consultation ORL, d'un cabinet d'ophtalmologie et de 467 lits. D'autres lieux ont été également réquisitionnés dans la ville durant cette période, tel que le collège de jeunes filles (collège Paul Riquet) avec 130 lits et le pavillon du Sacré Cœur (Lycée Privé Sacré-Coeur) avec 105 lits.</p>
+
+<h2>Cahors</h2>
 
     <figure>
-    <a href="images/pamiers-HC-67.jpg" id="single_image" title="L'hôpital complémentaire n°67 à Pamiers">
-   	<img src="miniatures/pamiers-HC-67.jpg" alt="L'hôpital complémentaire n°67 à Pamiers"></a>
-    	<figcaption> </figcaption>
+    <a href="images/cahors-ht-23.jpg" id="single_image" title="Hôpital temporaire n°23 (Cahors)">
+   	<img src="miniatures/cahors-ht-23.jpg" alt="Hôpital temporaire n°23 de Cahors au Lycée Gambetta"></a>
+    	<figcaption>L'hôpital temporaire n°23,<br />installé au Lycée Gambetta</figcaption>
     </figure>
 
-<h2>hôpital St Hippolyte du Fort</h2>
+<h2>Montauban</h2>
+
+	<figure>
+	<a href="images/montauban-ht-25.jpg" id="single_image" title="Hôpital temporaire n°25 (Montauban)">
+    <img src="miniatures/montauban-ht-25.jpg" alt="L'hôpital temporaire n°25 au pensionnat Jeanne d'Arc de Montauban"></a>
+        <figcaption>L'hôpital temporaire n°25<br />situé au pensionnat Jeanne d'Arc</figcaption>
+    </figure>
+
+<h2>Pamiers</h2>
+
+    <figure>
+    <a href="images/pamiers-HC-67.jpg" id="single_image" title="L'hôpital complémentaire n°67 (Pamiers)">
+   	<img src="miniatures/pamiers-HC-67.jpg" alt="L'hôpital complémentaire n°67 de Pamiers, en Ariège"></a>
+    	<figcaption>L'hôpital complémentaire n°67</figcaption>
+    </figure>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

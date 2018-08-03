@@ -181,7 +181,7 @@
     <figcaption>La ferme du Rond Chêne sur une carte de Dinant<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-    <p>En quelques minutes, 90 hommes sont mis hors de combat dont <strong>Auguste</strong> qui est blessé par balle au pied droit, à la cheville et à la main. Il est évacué à <a href="../hopitaux/hopitaux.php" title="Les hôpitaux pendant la Grande Guerre">l’hôpital 31 de Nantes</a> et devient invalide à 40%. Selon les Archives Municipales de Nantes, l'hôpital 31 était situé dans l'ancien séminaire de philosophie, rue Saint-Clément  et avait une capacité de 300 lits. Il fonctionne du 25 août 1914 au 24 septembre 1916.</p>
+    <p>En quelques minutes, 90 hommes sont mis hors de combat dont <strong>Auguste</strong> qui est blessé par balle au pied droit, à la cheville et à la main. Il est évacué à <a href="../hopitaux/hopitaux-pdl.php" title="Les hôpitaux pendant la Grande Guerre">l’hôpital 31 de Nantes</a> et devient invalide à 40%. Selon les Archives Municipales de Nantes, l'hôpital 31 était situé dans l'ancien séminaire de philosophie, rue Saint-Clément  et avait une capacité de 300 lits. Il fonctionne du 25 août 1914 au 24 septembre 1916.</p>
 
 <figure>
     <a href="" id="single_image"  id="single_image" title="Les hôpitaux de Nantes">

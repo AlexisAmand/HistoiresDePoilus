@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Les hopitaux pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content=" " name="description">
+<title>Les hopitaux de Centre-Val de Loire pendant la Grande Guerre - Histoires de Poilus</title>
+<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles de Centre-Val de Loire pendant la Premiére Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -91,7 +91,7 @@
 
 <article>
 
-<h1>Les hopitaux</h1>
+<h1>Les hôpitaux</h1>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

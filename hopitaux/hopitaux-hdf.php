@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Les hopitaux de XXX pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content=" " name="description">
+<title>Les hopitaux des Hauts-de-France pendant la Grande Guerre - Histoires de Poilus</title>
+<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles des Hauts-de-France pendant la Premiére Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -91,27 +91,19 @@
 
 <article>
 
-<h1>Les hopitaux</h1>
+<h1>Les hôpitaux</h1>
 
-<h2>hôpital Lamartine (Dunkerque)</h2>
+<h2>Amiens</h2>
 
-<h2>hôpital n°13 de Courlandon (80)</h2>
-
-<h2>hôpital militaire de Doullens (80)</h2>
-
-<h2>Hôpital militaire temporaire n°51 de Calais</h2>
-
-<p>L’hôpital militaire temporaire n°51 de Calais était géré par le Service de Santé des Armées. Il était situé à la maison de commerce Leweng et Weinberg, 92 rue Gambetta. Il comportait 110 lits et a fonctionné dès le 26 décembre 1914.</p>
-
-<h2>HB n° 4 bis d'Amiens</h2>
+<p>HB n° 4 bis ?</p>
 
 <p>Grand Séminaire, 61 rue Saint-Fuscien - 246 lits - Fonctionne du 23 septembre 1914 au 8 décembre 1915 - A cette date devient HC n° 105</p>
    
-<h2>Hôpital mixte d'Amiens</h2>
+<p>Hôpital mixte ?</p>
 
 	<figure>
-	<a href="images/hopital-mixte-amiens.jpeg" id="single_image" title="L'hopital mixte d'Amiens pendant la Grande Guerre">
-    <img src="miniatures/hopital-mixte-amiens.jpeg" alt="L'hopital mixte d'Amiens pendant la Premiére Guerre Mondiale"></a>
+	<a href="images/hopital-mixte-amiens.jpeg" id="single_image" title="L'hôpital mixte d'Amiens">
+    <img src="miniatures/hopital-mixte-amiens.jpeg" alt="L'hôpital mixte installé à l'Hôtel Dieu d'Amiens"></a>
         <figcaption>
         Localisation d'un projectile sur un blessé<br />
         à l'Hôtel Dieu d'Amiens (Hôpital Mixte) en octobre 1914<br/>
@@ -119,9 +111,43 @@
         </figcaption>
     </figure>
 
+<h2>Beauvais</h2>
+
+<p>hôtipal temporaire n°11 du lycée Jeanne Hachette de Beauvais (80) ?</p>
+
+<h2>Breuil-le-Sec</h2>
+
+	<figure>
+	<a href="images/breuil-ht-36.jpg" id="single_image" title="Hôpital temporaire n°36 (Breuil-le-Sec)">
+    <img src="miniatures/breuil-ht-36.jpg" alt="Hôpital temporaire n°36 de Breuil-le-Sec"></a>
+        <figcaption>Hôpital temporaire n°36</figcaption>
+    </figure>
+
+<h2>Calais</h2>
+
+<h2>Hôpital militaire temporaire n°51 de Calais</h2>
+
+<p>L’hôpital militaire temporaire n°51 de Calais était géré par le Service de Santé des Armées. Il était situé à la maison de commerce Leweng et Weinberg, 92 rue Gambetta. Il comportait 110 lits et a fonctionné dès le 26 décembre 1914.</p>
+
+<h2>Courlandon (80)</h2>
+
+<p>hôpital n°13 ?</p>
+
+<h2>Doullens (80)</h2>
+
+<p>hôpital militaire ?</p>
+
+<h2>Dunkerque</h2>
+
+<p>hôpital Lamartine ?</p>
+
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
 </p>
+
+<h2>Valenciennes</h2>
+
+<p>hôpital mixte ?</p>
 
 </article>
 

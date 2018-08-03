@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Les hopitaux de XXX pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content=" " name="description">
+<title>Les hopitaux du Grand-Est pendant la Grande Guerre - Histoires de Poilus</title>
+<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles du Grand-Est pendant la Premiére Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -91,14 +91,14 @@
 
 <article>
 
-<h1>Les hopitaux</h1>
+<h1>Les hôpitaux</h1>
 
-<h2>Hôpital de complementaire n°6 de Troyes</h2>
+<h2>Troyes</h2>
 
     <figure>
-    <a href="images/troyes-HC-6.jpg" id="single_image" title="L'hôpital complémentaire n°6 à Troyes">
-   	<img src="miniatures/troyes-HC-6.jpg" alt="L'hôpital complémentaire n°6 à Troyes"></a>
-    	<figcaption> </figcaption>
+    <a href="images/troyes-HC-6.jpg" id="single_image" title="L'hôpital complémentaire n°6 (Troyes)">
+   	<img src="miniatures/troyes-HC-6.jpg" alt="L'hôpital complémentaire n°6 dans le lycée de Troyes"></a>
+    <figcaption>L'hôpital complémentaire n°6,<br />situé dans le lycée</figcaption>
     </figure>
 
 <h2>hôpital temporaire n°5 de Verdun</h2>

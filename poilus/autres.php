@@ -120,7 +120,7 @@
     <figcaption>Carte du combattant d'Oscar DELAUX<br> (Source: Archives Départementales du Nord)</figcaption>
     </figure>
     
-<ul>
+	<ul>
 
 	<li><strong>Alfred PELEZ</strong> (ou PELLEZ selon les sources) est né le 13 juin 1872 à Onnaing, fils de mes ancêtres François PELEZ (1843-1884) et Louise DASNOIS (1847-1878). Avant la guerre, Alfred vit dans le Pas-de-Calais en passant successivement par Annezin (1896), Montigny-en-Gohelle (1896), Fouquières-les-lens (1906) et enfin Rouvroy (1912). Il est rappelé à l'activité par le décrêt du 1er août 1914 et mis en sursis aux Mines de la Loire dès le 9 février 1915. A l'époque, il vit à Saint Genest-Lerpt dans la Loire.<br /><br /></li>
 	
@@ -128,11 +128,15 @@
 
 	<li><strong>Léon MASCART</strong> est né à Onnaing le 30 janvier 1874. Avant la guerre (1906), il est mineur à la Fosse de Cuvinot et vit "au Trié" à Onnaing avec son épouse Maire FINET. Frére d'Emile (ci-dessus), il est maintenu en surcis aux Mines d'Anzin à la mobilisation. Le 17 décembre 1914, par le bulletin n°63, il est mis en sursis aux mines de Bruay (Pas-de-Calais) où il est entré en fonction le 28 octobre de la même année. Il est rayé de la mine le 15 janvier 1919 et est envoyé en congés illimité le 12 février 1919. Il se retire à Onnaing, Rue de l'Eglise.<br /><br /></li>
 	
+	</ul>
+	
 	<figure>
 	    <a href="http://cartespostalesanciennes.genealexis.fr/image/168-fosse-cuvinot-a-onnaing-vers-1900" id="single_image" title="La Fosse de Cuvinot à Onnaing">
 	    <img src="http://cartespostalesanciennes.genealexis.fr/image/onnaing/168-fosse_cuvinot_a_onnaing_vers_1900.jpg" width="450px" alt="La Fosse de Cuvinot à Onnaing"/></a>
 	    <figcaption>La Fosse de Cuvinot</figcaption>
     </figure>
+	
+	<ul>
 	
 	<li><strong>Jules MAGNY</strong>, né le 18 août 1892 à Onnaing (Nord). Le 6 septembre 1916, soldat mitrailleur, il a,  par son calme et la précision de son tir, entravé une tentative de contre attaque allemande. Nommé caporal le 5 décembre 1917, il est ensuite prisonnier de guerre du 31 mai au 14 décembre 1918. Il était titulaire de la croix de guerre avec étoile de bronze, de la médaille commémorative et de la médaille interalliée. Abel, le frére de Jules MAGNY, épouse la fille de <a href="JOLY-Noel-Jules.php">Noël Jules JOLY</a>.<br /><br /></li>
 

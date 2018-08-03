@@ -221,33 +221,33 @@
 <p>Le 23 mai 2017, j'ai été contacté par Muriel Dupuis Mallinger. Elle m'a raconté qu'Emilien Ordonnaud, son arriére-grand-pére, a été blessé et fait prisonnier le 28 août 1914 à Moislain dans la Somme puis emprisonné au camp du Limburg. Il travaillait dans une ferme. Elle ne sait pas si c'était en même temps ou ensuite. Il est resté en Allemagne jusqu'en 1918. Elle m'a gentiment permis de partager avec vous les photos qu'elle m'a envoyé.</p>
 
 <figure>
-    <a href="images/Limburg/groupe.jpg" id="single_image" title=" ">
+    <a href="images/Limburg/groupe.jpg" id="single_image" title="un groupe de prisonniers dans le camp de Limburg">
     <img src="miniatures/Limburg/groupe.jpg" alt="un groupe de prisonniers dans le camp de Limburg pendant la Premiére Guerre Mondiale"></a>
-    <figcaption>(source: Muriel Dupuis Mallinger)</figcaption>
+    <figcaption>Un groupe de prisonniers<br />(source: Muriel Dupuis Mallinger)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Limburg/groupe-neige.jpg" id="single_image" title=" ">
+    <a href="images/Limburg/groupe-neige.jpg" id="single_image" title="un groupe de prisonniers dans le camp de Limburg">
     <img src="miniatures/Limburg/groupe-neige.jpg" alt="un groupe de prisonniers dans le camp de Limburg pendant la Premiére Guerre Mondiale"></a>
-    <figcaption>(source: Muriel Dupuis Mallinger)</figcaption>
+    <figcaption>Un groupe de prisonniers<br />(source: Muriel Dupuis Mallinger)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Limburg/ordonnaud-detmold.jpg" id="single_image" title=" ">
-    <img src="miniatures/Limburg/ordonnaud-detmold.jpg" alt=" "></a>
-    <figcaption>(source: Muriel Dupuis Mallinger)</figcaption>
+    <a href="images/Limburg/ordonnaud-detmold.jpg" id="single_image" title="portrait de Emilien Ordonnaud au camp de Limburg">
+    <img src="miniatures/Limburg/ordonnaud-detmold.jpg" alt="portrait de Emilien Ordonnaud, prisonnier au camp de Limburg"></a>
+    <figcaption>Portrait de Emilien Ordonnaud<br />(source: Muriel Dupuis Mallinger)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Limburg/ordonnaud-hopital.jpg" id="single_image" title=" ">
+    <a href="images/Limburg/ordonnaud-hopital.jpg" id="single_image" title="L'hôpital du camp de Limburg">
     <img src="miniatures/Limburg/ordonnaud-hopital.jpg" alt="L'hôpital du camp de Limburg pendant la Premiére Guerre Mondiale"></a>
-    <figcaption>(source: Muriel Dupuis Mallinger)</figcaption>
+    <figcaption>L'hôpital du camp de Limburg<br />(source: Muriel Dupuis Mallinger)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Limburg/ordonnaud-limburg.jpg" id="single_image" title=" ">
-    <img src="miniatures/Limburg/ordonnaud-limburg.jpg" alt=" "></a>
-    <figcaption>(source: Muriel Dupuis Mallinger)</figcaption>
+    <a href="images/Limburg/ordonnaud-limburg.jpg" id="single_image" title="portrait de Emilien Ordonnaud au camp de Limburg">
+    <img src="miniatures/Limburg/ordonnaud-limburg.jpg" alt="portrait de Emilien Ordonnaud, prisonnier au camp de Limburg"></a>
+    <figcaption>Portrait de Emilien Ordonnaud<br />(source: Muriel Dupuis Mallinger)</figcaption>
 </figure>
 
 <h2>Sources et bibliographie</h2>

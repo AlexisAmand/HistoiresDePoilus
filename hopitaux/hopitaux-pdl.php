@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Les hopitaux de XXX pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content=" " name="description">
+<title>Les hopitaux des Pays de la Loire pendant la Grande Guerre - Histoires de Poilus</title>
+<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles des Pays de la Loire pendant la Premiére Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -91,11 +91,29 @@
 
 <article>
 
-<h1>Les hopitaux</h1>
+<h1>Les hôpitaux</h1>
 
-<h2>Hôpital n°31 de Nantes</h2>
+<h2>Nantes</h2>
 
-<p>Selon les Archives Municipales de Nantes, l'hôpital 31 était situé dans l'ancien séminaire de philosophie, rue Saint-Clément  et avait une capacité de 300 lits. Il fonctionne du 25 août 1914 au 24 septembre 1916.</p> 
+	<figure>
+	<a href="images/nantes-ht-3.jpg" id="single_image" title="L'hôpital temporaire n°3 (Nantes)">
+    <img src="miniatures/nantes-ht-3.jpg" alt="Une salle de l'hôpital temporaire n°3 de Nantes pendant la Grande Guerre"></a>
+        <figcaption>Une salle de l'hôpital temporaire n°3,<br>situé rue Mondésir</figcaption>
+    </figure>
+
+	<figure>
+	<a href="images/nantes-ht-3-1.jpg" id="single_image" title="L'hôpital temporaire n°3 (Nantes)">
+    <img src="miniatures/nantes-ht-3-1.jpg" alt="Une salle de l'hôpital temporaire n°3 de Nantes pendant la Grande Guerre"></a>
+        <figcaption>Une salle de l'hôpital temporaire n°3,<br>situé rue Mondésir</figcaption>
+    </figure>
+    
+	<figure>
+	<a href="images/nantes-ht-3-2.jpg" id="single_image" title="L'hôpital temporaire n°3 (Nantes)">
+    <img src="miniatures/nantes-ht-3-2.jpg" alt="Une salle de l'hôpital temporaire n°3 de Nantes pendant la Grande Guerre"></a>
+        <figcaption>Une salle de l'hôpital temporaire n°3,<br>situé rue Mondésir</figcaption>
+    </figure>    
+
+<p>Selon les Archives Municipales de Nantes, il existait un hôpital n°31, situé dans l'ancien séminaire de philosophie, rue Saint-Clément. Il avait une capacité de 300 lits et a fonctionné du 25 août 1914 au 24 septembre 1916.</p> 
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

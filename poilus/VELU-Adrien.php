@@ -129,7 +129,7 @@
 
 <br/><h2>Adrien, mort pour la France</h2>
 
-<p><strong>Adrien</strong> contracte la fièvre typhoïde pendant son service et est déclaré mort pour la France le 2 avril 1915 à <a href="../hopitaux/hopitaux.php"  title="Les hôpitaux pendant la Grande Guerre">l'hôpital temporaire n°18 de Corbineau</a> (Châlons-sur-Marne, devenu  Châlons-en-Champagne depuis le 17 novembre 1995).</p>
+<p><strong>Adrien</strong> contracte la fièvre typhoïde pendant son service et est déclaré mort pour la France le 2 avril 1915 à <a href="../hopitaux/hopitaux-ges.php"  title="Les hôpitaux pendant la Grande Guerre">l'hôpital temporaire n°18 de Corbineau</a> (Châlons-sur-Marne, devenu  Châlons-en-Champagne depuis le 17 novembre 1995).</p>
 
 <figure>
     <a href="sources/VELU-Adrien-mpf.jpg" id="single_image" title="Adrien VELU, mort pour la France">

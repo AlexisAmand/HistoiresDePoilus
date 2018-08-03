@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Les hopitaux pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content=" " name="description">
+<title>Les hopitaux de Provence-Alpes-Côte d'Azur pendant la Grande Guerre - Histoires de Poilus</title>
+<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles de Provence-Alpes-Côte d'Azur pendant la Premiére Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -91,7 +91,15 @@
 
 <article>
 
-<h1>Les hopitaux</h1>
+<h1>Les hôpitaux</h1>
+
+<h2>Beaulieu-sur-Mer</h2>
+
+<p>Au début de la Première Guerre Mondiale, l'hôtel Bristol de Beaulieu-sur-Mer est converti en hôpital militaire pour accueillir les blessés revenus du front, comme beaucoup des palaces et grands hôtels de la Côte d'Azur. Il devient l'hôpital complémentaire n°28, et le restera jusqu'en 1916.</p>
+
+<h2>Menton</h2>
+
+<p>Hôpital complémentaire n°52 de Menton était situé à l'Hôtel Carlton, boulevard de la Madone. Il fonctionne à partir du 11 juin 1915.</p>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

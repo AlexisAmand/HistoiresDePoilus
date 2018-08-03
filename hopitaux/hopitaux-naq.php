@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Les hopitaux de XXX pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content=" " name="description">
+<title>Les hopitaux de Nouvelle-Aquitaine pendant la Grande Guerre - Histoires de Poilus</title>
+<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles de Nouvelle-Aquitaine pendant la Premiére Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -91,14 +91,24 @@
 
 <article>
 
-<h1>Les hopitaux</h1>
+<h1>Les hôpitaux</h1>
 
-<h2>cognac-HC-45<h2>
+<h2>Bordeaux</h2>
+
+<p>Pendant la Première Guerre mondiale, le lycée, qui porte aujourd'hui le nom de Camille-Jullian, est transformé en hôpital complémentaire.</p>
 
     <figure>
-    <a href="images/cognac-HC-45.jpg" id="single_image" title="L'hôpital complémentaire n°45 à Cognac">
-   	<img src="miniatures/cognac-HC-45.jpg" alt="L'hôpital complémentaire n°45 à Cognac"></a>
-    	<figcaption> </figcaption>
+    <a href="images/borderaux-ht-19.jpg" id="single_image" title="hôpital complémentaire (Bordeaux)">
+   	<img src="miniatures/borderaux-ht-19.jpg" alt="L'hôpital complémentaire dans le lycée de Bordeaux"></a>
+    	<figcaption>L'hôpital complémentaire,<br />installé dans le lycée.</figcaption>
+    </figure>
+
+<h2>Cognac</h2>
+
+    <figure>
+    <a href="images/cognac-HC-45.jpg" id="single_image" title="L'hôpital complémentaire n°45 (Cognac)">
+   	<img src="miniatures/cognac-HC-45.jpg" alt="L'hôpital complémentaire n°45 de Cognac, situé rue de la Providence"></a>
+    	<figcaption>L'hôpital complémentaire n°45,<br />situé rue de la Providence à Cognac</figcaption>
     </figure>
 
 <p class="sources">

@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Les hopitaux pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content=" " name="description">
+<title>Les hopitaux de Bourgogne-Franche-Comté pendant la Grande Guerre - Histoires de Poilus</title>
+<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles de Bourgogne-Franche-Comté pendant la Premiére Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -91,7 +91,23 @@
 
 <article>
 
-<h1>Les hopitaux</h1>
+<h1>Les hôpitaux</h1>
+
+<h2>Chatillon-sur-Seine</h2>
+
+	<figure>
+	<a href="images/chatillon-ht-69" id="single_image" title="Hôpital temporaire n°69 (Chatillon-sur-Seine)">
+    <img src="miniatures/chatillon-ht-69" alt="L'hôpital temporaire n°69 de Chatillon-sur-Seine"></a>
+        <figcaption>L'hôpital temporaire n°69</figcaption>
+    </figure>
+
+<h2>Sens</h2>
+
+	<figure>
+	<a href="images/sens-ht-31.jpg" id="single_image" title="L'hôpital temporaire n°31 (Sens)">
+    <img src="miniatures/sens-ht-31.jpg" alt="L'hôpital temporaire n°31 dans l'ancien grand séminaire de Sens'"></a>
+        <figcaption>L'hôpital temporaire n°31,<br />situé dans l'ancien grand séminaire</figcaption>
+    </figure>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
