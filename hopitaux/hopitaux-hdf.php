@@ -141,13 +141,27 @@
 
 <p>hôpital Lamartine ?</p>
 
+<h2>Valenciennes</h2>
+
+<p>L'hôpital mixte de Valenciennes était situé dans l'une des l'ailes de l'hôpital Général (aujourd'hui connu sous le nom d'Hôpital du Hainaut).</p>
+
+	<figure>
+	<a href="images/valenciennes-hmx.jpg" id="single_image" title=" ">
+    <img src="miniatures/valenciennes-hmx.jpg" alt=" "></a>
+        <figcaption> </figcaption>
+    </figure>
+
+<p>Dés 1914, la Société de secours aux blessés militaires (S.S.B.M.) met en place deux hôpitaux auxiliaires situés au collège Notre-Dame (HA n°2) et au lycée de jeunes filles (HA n°2 bis). Ils fonctionnent jusque novembre 1915, date à laquelle les Allemands occupent les structures sanitaires de la Valenciennes.</p>
+
+	<figure>
+	<a href="images/valenciennes-ha-2.jpg" id="single_image" title="L'hôpitaux auxiliaires n°2 bis au lycée de jeunes filles (Valenciennes)">
+    <img src="miniatures/valenciennes-ha-2.jpg" alt="L'hôpitaux auxiliaires n°2 bis de Valenciennes situé au lycée de jeunes filles"></a>
+        <figcaption>Le lycée de jeunes filles où sera installé<br />l'hôpital auxiliaire n°2 bis</figcaption>
+    </figure>
+
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
 </p>
-
-<h2>Valenciennes</h2>
-
-<p>hôpital mixte ?</p>
 
 </article>
 

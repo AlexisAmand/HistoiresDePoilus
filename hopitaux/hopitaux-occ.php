@@ -103,6 +103,12 @@
 
 <p>Durant la Première Guerre mondiale, sous le contrôle du Service de santé, le collège Henri IV  devient l'hôpital complémentaire n°29 du 15 août 1914 au 29 décembre 1918. Il disposait d'une unité de petite chirurgie, de consultation ORL, d'un cabinet d'ophtalmologie et de 467 lits. D'autres lieux ont été également réquisitionnés dans la ville durant cette période, tel que le collège de jeunes filles (collège Paul Riquet) avec 130 lits et le pavillon du Sacré Cœur (Lycée Privé Sacré-Coeur) avec 105 lits.</p>
 
+<figure>
+<a href="images/beziers-ht.jpg" id="single_image" title="Hôpital temporaire (Béziers)">
+<img src="miniatures/beziers-ht.jpg" alt="Hôpital temporaire n°23 de Cahors au Collége Henri IV"></a>
+    <figcaption>L'hôpital temporaire de Béziers,<br />au Collége Henri IV</figcaption>
+</figure>
+
 <h2>Cahors</h2>
 
     <figure>
@@ -110,6 +116,14 @@
    	<img src="miniatures/cahors-ht-23.jpg" alt="Hôpital temporaire n°23 de Cahors au Lycée Gambetta"></a>
     	<figcaption>L'hôpital temporaire n°23,<br />installé au Lycée Gambetta</figcaption>
     </figure>
+
+<h2>Gimont</h2>
+
+<ul>
+    <li>l'hôpital de Gimont fut l'hôpital militaire temporaire n°40</li>
+    <li>l'hôpital militaire temporaire n°40 à Gondom</li>
+    <li>Hôpital temporaire n. 40 bis (collège et Cahuzac) ?</li>
+</ul>    
 
 <h2>Montauban</h2>
 
