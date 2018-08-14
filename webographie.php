@@ -52,15 +52,13 @@
 </header>
    
 <nav>
-
-	<a href="contact.php">Contact</a>
+    <a href="contact.php">Contact</a>
     <a href="webographie.php" class="NavSelected">Webographie</a>
     <a href="lieux.php">Les Batailles</a>
     <a href="camps.php">Les Camps</a>
     <a href="releves.php">Les Relevés</a>
-    <a href="poilus.php">Les Poilus</a>
-	<a href="index.php">Accueil</a>
-       
+    <a href="/hopitaux/hopitaux.php">Les Hôpitaux</a>
+    <a href="poilus.php">Les Poilus</a>     
 </nav>
 
 <section>
@@ -106,6 +104,14 @@
 		<li><a href="http://gallica.bnf.fr/ark:/12148/bpt6k6342646q" title="Historique du 4e bataillon d'infanterie légère d'Afrique">
         Historique du 3e bataillon de marche et du 4e bataillon d'infanterie légère d'Afrique</a><br />
         (Gallica / Service historique de la Défense)</li>
+	</ul>
+
+    <br /><br />
+
+    <h2>Historiques des régiments d'artillerie</h2>
+    
+	<ul>
+       	<li><a href="pdf/53eRA.pdf">Historique des 53e et 253e Régiments d'Artillerie</a><br />(Anonyme, de Bussac, 1923) numérisé par Jean-François Joly</li>
 	</ul>
 
     <br /><br />
@@ -219,13 +225,25 @@
     </ul>
     
 	<br /><br/>
-	
-	<h2>Sites web</h2>
+
+    <h2>Recherches en Belgique</h2>
     
 	<ul>
-		<li>Les livres d'or des soldats morts pour la France (Archives Nationales)</li>
         <li><a href="http://www.bel-memorial.org">Bel-Memorial (Belgique)</a></li>
         <li><a href="https://www.wardeadregister.be/fr">Dead War Register (Belgique)</a></li>
+        <li><a href="http://arch.arch.be/">Les Archives de l’État  (Belgique)</a></li>      
+        <li><a href="http://grandeguerre.icrc.org/fr">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
+        <li><a href="http://monumentsmorts.univ-lille3.fr/">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
+	</ul>
+
+    <br /><br/>
+	
+	<h2>Recherches en France </h2>
+    
+	<ul>
+		<li>Les livres d'or des soldats morts pour la France (Archives Nationales)</li>     
+        <li><a href="http://archives.cg08.fr/">Archives Départementales des Ardennes</a></li>
+        <li><a href="http://archives.marne.fr/">Archives Départementales de la Marne</a></li>
 		<li><a href="http://archivesdepartementales.lenord.fr">Archives Départementales du Nord</a></li>
         <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/">Mémoire des Hommes</a> (Ministère de la Défense)</li>
         <li><a href="http://www.memorial-genweb.org/~memorial2/">Mémorial-GenWeb</a></li>

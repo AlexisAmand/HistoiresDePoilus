@@ -4,7 +4,7 @@
 
 <meta charset="utf-8">
           
-<title>Les hopitaux de l'Île-de-France pendant la Grande Guerre - Histoires de Poilus</title>
+<title>Les hôpitaux de l'Île-de-France pendant la Grande Guerre - Histoires de Poilus</title>
 <meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles de l'Île-de-France pendant la Premiére Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
@@ -99,7 +99,7 @@
 
 <h2>Hôpital de Saint-Mandé</h2>
 
-<p>Cet hopital militaire était situé à l'Hôpital Militaire Bégin à Saint-Mandé, dans le Val-de-Marne. Il doit son nom à Louis Jacques Bégin (1793-1859), chirurgien militaire de l'Empire.</p>
+<p>Cet hôpital militaire était situé à l'Hôpital Militaire Bégin à Saint-Mandé, dans le Val-de-Marne. Il doit son nom à Louis Jacques Bégin (1793-1859), chirurgien militaire de l'Empire.</p>
 
     <figure>
     <a href="images/hopital-begin.jpg" id="single_image" title="l'hôpital militaire Bégin">

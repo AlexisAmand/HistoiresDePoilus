@@ -60,18 +60,16 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family:'Open Sans',sans-serif; 
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color:#3b4247;
   text-align: left;
-  background-color: #fff;
-  
   background-attachment:fixed;
   background-repeat:repeat;
   background-position:center top;
-  background-image:url(../images/fond3.jpg);
+  background-color:#3b4247;
   
 }
 
@@ -93,7 +91,6 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  text-align: justify;
 }
 
 abbr[title],
@@ -384,7 +381,7 @@ h2, .h2 {
 }
 
 h3, .h3 {
-  font-size: 1.75rem;
+  font-size: 1.25rem;
 }
 
 h4, .h4 {
@@ -560,7 +557,6 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-  background-color: #eFeFeF;
 }
 
 @media (min-width: 576px) {
@@ -583,7 +579,7 @@ pre code {
 
 @media (min-width: 1200px) {
   .container {
-    max-width: 1140px;
+    max-width: 960px;
   }
 }
 
@@ -3889,17 +3885,17 @@ input[type="button"].btn-block {
 
 .nav-link {
   display: block;
-  padding: 0.5rem 1rem;
-  margin-left: 3px;
-  margin-right: 3px;
-  background-color:#5b5b5b;
-  color:#e2ede4;
-  width: 114px;
+  padding: 8px;
+
+  background-color: #5b5b5b;
+
 }
 
 .nav-link:hover, .nav-link:focus {
   text-decoration: none;
-  background-color:#e2ede4;
+  background-color: #e2ede4;
+ 
+
 }
 
 .nav-link.disabled {
@@ -3907,22 +3903,43 @@ input[type="button"].btn-block {
 }
 
 .nav-tabs {
-  border-bottom: 1px solid #dee2e6;
+  /* border-bottom: 1px solid #dee2e6;  */ 
 }
 
 .nav-tabs .nav-item {
   margin-bottom: -1px;
+
+  margin-left: 2px;
+  margin-right: 2px;
+
 }
 
 .nav-tabs .nav-link {
+  
+  /*
+
   border: 1px solid transparent;
+
   border-top-left-radius: 0.25rem;
   border-top-right-radius: 0.25rem;
+  
+  border-bottom-left-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+
+  border-color: #dee2e6 #dee2e6 #fff;
+
+  */
+
+  width:112px;
+
+  color:#e2ede4;
+  text-decoration: none;
 }
 
 .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
   border-color: #e9ecef #e9ecef #dee2e6;
-}
+   color:#5b5b5b;
+  }
 
 .nav-tabs .nav-link.disabled {
   color: #6c757d;
@@ -3933,8 +3950,9 @@ input[type="button"].btn-block {
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
   color: #495057;
-  background-color: #fff;
+  background-color: #efefef;
   border-color: #dee2e6 #dee2e6 #fff;
+  height: 55px;
 }
 
 .nav-tabs .dropdown-menu {
@@ -4022,7 +4040,6 @@ input[type="button"].btn-block {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
-  text-align: center;
 }
 
 .navbar-nav .nav-link {
@@ -6081,7 +6098,7 @@ button.close {
 }
 
 .bg-primary {
-  background-color: #5b5b5b; !important;
+  background-color: #007bff !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6091,7 +6108,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #364046; !important;
+  background-color: #6c757d !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -9036,16 +9053,3 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
-
-/* ajout perso */
-
-header 
-	{
-	height: 175px;
-	}
-	
-header img
-	{
-	margin-top: 40px;
-	margin-left: 72px;
-	}

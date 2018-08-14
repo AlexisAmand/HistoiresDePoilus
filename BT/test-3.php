@@ -14,28 +14,14 @@
 <!-- CSS -->
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-
-<!-- link href="css/custom.css" rel="stylesheet" -->	
-
-
-<link href="bootstrap/dist/css/bootstrap.perso.css" rel="stylesheet">	
-
+<link href="css/bootstrap.perso.css" rel="stylesheet">	
 <link rel="stylesheet" href="css/style.css">
 
 <!-- Javascript -->
 
 <script src="js/jquery-3.3.1.min.js"></script>   
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="bootstrap/dist/js/bootstrap.min.js"></script>
-
-
-<style>
-
-.NavSelected{
-    color: #5b5b5b;
-}
-
-</style>
+<script src="js/bootstrap.min.js"></script>
 
 </head>
 
@@ -79,50 +65,50 @@
 
 <div class="row"  style="background-color:#364046;">
 
-	<div  class="col-md-12">
+	<nav class="col-md-12 navbar navbar-expand-lg navbar-light bg-light">
 
-		<nav class="navbar navbar-expand-lg navbar-light">
-	  		<a class="navbar-brand" href="#"></a>
-	  		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-	    	<span class="navbar-toggler-icon"></span>
-		  	</button>
-	
-		  	<div class="collapse navbar-collapse" id="navbarSupportedContent">
-		  
-		    <ul class="navbar-nav">
-		      <li class="nav-item">
-		        <a class="nav-link Active" href="#" style="color:#e2ede4;">Accueil</a>
-		      </li>
-		      <li class="nav-item" >
-		        <a class="nav-link NavSelected" href="#" style="color:#5b5b5b;">Les Poilus</a>
-		      </li>
-		      <li class="nav-item">
-		        <a class="nav-link" href="#" style="color:#e2ede4;">Les Relevés</a>
-		      </li>
-		      <li class="nav-item">
-		        <a class="nav-link" href="#" style="color:#e2ede4;">Les Camps</a>
-		      </li>
-		      <li class="nav-item">
-		        <a class="nav-link" href="#" style="color:#e2ede4;">Les Batailles</a>
-		      </li>
-		      <li class="nav-item">
-		        <a class="nav-link" href="#" style="color:#e2ede4;">Webographie</a>
-		      </li>
-		      <li class="nav-item">
-		        <a class="nav-link" href="#" style="color:#e2ede4;">Contact</a>
-		      </li>
-		    </ul>
-		    
-		  </div>
-		</nav>
-    
-   </div>
-       
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+
+    <ul class="navbar-nav mr-auto mt-2 mt-lg-0  nav nav-tabs">
+
+            <li class="nav-item">
+                <a class="nav-link active" href="#">Accueil</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Les poilus</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Les Relevés</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Les Camps</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Les Batailles</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Webographie</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Contact</a>
+            </li>
+
+    </ul>
+
+  </div>
+</nav>
+
+	</nav>
+ 
 </div>
 
 <section class="row">
 
-<aside class="col-md-3">
+<aside class="col-md-3 ">
 
 	<ul>
         <li><a href="poilus/BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
@@ -196,7 +182,7 @@
     <p>&nbsp;</p>
 
 <figure>
-    <img src="../HistoiresDePoilus/poilus/miniatures/volontaires-britanniques.jpg" alt="des volontaires britanniques en 1914" class="img-fluid">
+    <img src="../poilus/miniatures/volontaires-britanniques.jpg" alt="des volontaires britanniques en 1914" class="img-fluid">
     <figcaption>Volontaires britanniques en août 1914<br />(source : Imperial War Museums)</figcaption>
 </figure>
   

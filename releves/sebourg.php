@@ -59,8 +59,8 @@
     <a href="../lieux.php">Les Batailles</a>
     <a href="../camps.php">Les Camps</a>
     <a href="../releves.php" class="NavSelected">Les Relevés</a>
-    <a href="../poilus.php">Les Poilus</a>
-    <a href="../index.php">Accueil</a>
+    <a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
+    <a href="../poilus.php">Les Poilus</a> 
    
 </nav>
 

@@ -4,7 +4,7 @@
 
 <meta charset="utf-8">
           
-<title>Les hopitaux du Grand-Est pendant la Grande Guerre - Histoires de Poilus</title>
+<title>Les hôpitaux du Grand-Est pendant la Grande Guerre - Histoires de Poilus</title>
 <meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles du Grand-Est pendant la Premiére Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">

@@ -4,7 +4,7 @@
 
 <meta charset="utf-8">
           
-<title>Les hopitaux d'Occitanie pendant la Grande Guerre - Histoires de Poilus</title>
+<title>Les hôpitaux d'Occitanie pendant la Grande Guerre - Histoires de Poilus</title>
 <meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles d'Occitanie pendant la Premiére Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">

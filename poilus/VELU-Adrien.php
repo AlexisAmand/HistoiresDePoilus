@@ -101,9 +101,9 @@
 
 <article>
 
-<h1 style="background-image: url('images/flag_of_france.png');background-repeat:no-repeat;">Adrien VELU</h1>
+<h1>Adrien VELU</h1>
 
-<p><strong>Adrien Velu</strong> est un "cousin" né à Villers-Guislain (Nord) le 1 janvier 1889, fils légitime de Marc Ferdinand VELU et Marie Joséphine Angèle VELU, deux cousins germains. Le 16 avril 1910,  Adrien épouse Apolline BRIOT.</p>
+<p><strong>Adrien VELU</strong> est un "cousin" né à Villers-Guislain (Nord) le 1 janvier 1889, fils légitime de Marc Ferdinand VELU et Marie Joséphine Angèle VELU, deux cousins germains. Le 16 avril 1910,  Adrien épouse Apolline BRIOT.</p>
 
 <figure>
     <a href="images/matricule-adrien-velu.jpg" id="single_image" title="Extrait de la fiche matricule d'Adrien VELU">
@@ -151,14 +151,12 @@
     
     <ul>
          <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
-       
+      
     </ul>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
 </p>
-
-
 
 </article>
 

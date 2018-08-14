@@ -15,23 +15,17 @@ h1{
 	margin-bottom: 30px;
 	}
 
-	/*
-h3{font-size:22px;margin-bottom:12px}
-h2{font-size:16px;margin-bottom:12px}
-*/
-
 *{margin:0;padding:0}
 
 a:link{color:#000;text-decoration:underline}
 
 a:visited,a:hover{color:#3b4247;text-decoration:underline}
 
-nav{
-	
+nav{	
 	z-index:5;
 	
 	background-color:#364046;
-	height:41px;
+	height: 32px;
 	text-align:center;
 	padding-bottom:5px;
 	float: right;

@@ -42,15 +42,13 @@
 </header>
   
 <nav>
-
-<a href="../contact.php">Contact</a>
-<a href="../webographie.php">Webographie</a>
-<a href="../lieux.php">Les Batailles</a>
-<a href="../camps.php">Les Camps</a>
-<a href="../releves.php">Les Relevés</a>
-<a href="../poilus.php" class="NavSelected">Les Poilus</a>
-<a href="../index.php">Accueil</a>
-   
+    <a href="../contact.php">Contact</a>
+    <a href="../webographie.php">Webographie</a>
+    <a href="../lieux.php">Les Batailles</a>
+    <a href="../camps.php">Les Camps</a>
+    <a href="../releves.php">Les Relevés</a>
+    <a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
+    <a href="../poilus.php" class="NavSelected">Les Poilus</a>
 </nav>
 
 <section>

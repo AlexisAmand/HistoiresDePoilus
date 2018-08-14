@@ -41,22 +41,22 @@
         </header>
    
         <nav>
-	        <a href="contact.php">Contact</a>
+	      <a href="contact.php">Contact</a>
             <a href="webographie.php">Webographie</a>
             <a href="lieux.php" class="NavSelected">Les Batailles</a>
             <a href="camps.php">Les Camps</a>
             <a href="releves.php">Les Relevés</a>
-            <a href="poilus.php">Les Poilus</a>
-	        <a href="index.php">Accueil</a>       
+            <a href="hopitaux/hopitaux.php">Les Hôpitaux</a>
+            <a href="poilus.php">Les Poilus</a>     
         </nav>
 
 		<div id="navbis">
-			<a href="batailles-est.php">L'Europe de l'Est</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a href="batailles-ouest.php">L'Europe de l'Ouest</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a href="batailles-italie.php">Le Front Italien</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a href="batailles-afrique.php">Le Front Africain</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a href="batailles-orient.php">Le Front du Moyen-Orient</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a href="batailles-balkans.php">Le Front des Balkans</a>
+			<a href="batailles/batailles-est.php">L'Europe de l'Est</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="batailles/batailles-ouest.php">L'Europe de l'Ouest</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="batailles/batailles-italie.php">Le Front Italien</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="batailles/batailles-afrique.php">Le Front Africain</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="batailles/batailles-orient.php">Le Front du Moyen-Orient</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="batailles/batailles-balkans.php">Le Front des Balkans</a>
 		</div>
 
         <section>

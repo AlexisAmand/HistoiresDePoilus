@@ -14,29 +14,14 @@
 <!-- CSS -->
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-
-<!-- link href="css/custom.css" rel="stylesheet" -->	
-
-
-<link href="bootstrap/dist/css/bootstrap.perso.css" rel="stylesheet">	
-
+<link href="css/bootstrap.perso.css" rel="stylesheet">	
 <link rel="stylesheet" href="css/style.css">
 
 <!-- Javascript -->
 
 <script src="js/jquery-3.3.1.min.js"></script>   
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="bootstrap/dist/js/bootstrap.min.js"></script>
-
-<script src="js/responsive-tabs.js"></script>  
-
-<style>
-
-.NavSelected{
-    color: #5b5b5b;
-}
-
-</style>
+<script src="js/bootstrap.min.js"></script>
 
 </head>
 
@@ -84,22 +69,25 @@
 
         <ul class="nav nav-tabs justify-content-end">
             <li class="nav-item">
-                <a class="nav-link active" href="#">Rubrique 1</a>
+                <a class="nav-link active" href="#">Accueil</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Rubrique 2</a>
+                <a class="nav-link" href="#">Les poilus</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Rubrique 3</a>
+                <a class="nav-link" href="#">Les Relevés</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Rubrique 4</a>
+                <a class="nav-link" href="#">Les Camps</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Rubrique 5</a>
+                <a class="nav-link" href="#">Les Batailles</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Rubrique 6</a>
+                <a class="nav-link" href="#">Webographie</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Contact</a>
             </li>
         </ul>
 
@@ -180,10 +168,11 @@
 </div>    
 
 <p>Les Britanniques, de leur côté, ne peuvent aligner qu’une armée professionnelle d’environ 100 000 hommes car la conscription n’existe pas au début de la guerre (elle sera mise en place en 1916). En attendant, ils peuvent uniquement compter sur le volontariat. La Russie et l’Autriche-Hongrie disposent quant à elles respectivement de 1,3 et 1,1 millions d’hommes.</p>
-    <p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <figure>
-    <img src="../HistoiresDePoilus/poilus/miniatures/volontaires-britanniques.jpg" alt="des volontaires britanniques en 1914" class="img-fluid">
+    <img src="../poilus/miniatures/volontaires-britanniques.jpg" alt="des volontaires britanniques en 1914" class="img-fluid">
     <figcaption>Volontaires britanniques en août 1914<br />(source : Imperial War Museums)</figcaption>
 </figure>
   
@@ -295,7 +284,7 @@
 
 </div>
 
-    <p>Pour simplifier la lecture de ce site, j&#39;ai regroupé dans cette rubrique tous les hommes ayant été mobilisés, qu&#39;ils soient combattant ou non.</p>
+<p>Pour simplifier la lecture de ce site, j&#39;ai regroupé dans cette rubrique tous les hommes ayant été mobilisés, qu&#39;ils soient combattant ou non.</p>
 
 </article>
 
@@ -309,8 +298,9 @@
 		<a href="mentions.php">Mentions Légales</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     	<a href="contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     	<a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    	<a href="cookies.php">Cookies</a>
-    	<br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés	   	
+        <a href="cookies.php">Cookies</a>
+        
+    	<p>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés</p>	   	
     
     </div>
     	

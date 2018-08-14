@@ -4,7 +4,7 @@
 
 <meta charset="utf-8">
           
-<title>Les hopitaux des Hauts-de-France pendant la Grande Guerre - Histoires de Poilus</title>
+<title>Les hôpitaux des Hauts-de-France pendant la Grande Guerre - Histoires de Poilus</title>
 <meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles des Hauts-de-France pendant la Premiére Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">

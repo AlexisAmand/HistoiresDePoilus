@@ -13,7 +13,6 @@
                    
 </head>
 
-
 <body>
 <!-- code js pour l'avertissement sur les cookies -->
 
@@ -43,15 +42,13 @@
 </header>
    
 <nav>
-
     <a href="../contact.php">Contact</a>
     <a href="../webographie.php">Webographie</a>
     <a href="../lieux.php">Les Batailles</a>
     <a href="../camps.php">Les Camps</a>
     <a href="../releves.php">Les Relevés</a>
+    <a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
     <a href="../poilus.php" class="NavSelected">Les Poilus</a>
-    <a href="../index.php">Accueil</a>
-
 </nav>
 
 <section>
@@ -214,15 +211,12 @@
     
     <ul>
     	<li><a href="http://archives.genealexis.fr/image/115-page-01" title="version numérisée du dossier d'ancien combattant d'Auguste FIEVET">Le dossier d'ancien combattant d'Auguste FIEVET</a></li>
-        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
-       
+        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>     
     </ul>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
 </p>
-
-
 
 </article>
 

@@ -48,8 +48,8 @@
     <a href="../lieux.php">Les Batailles</a>
     <a href="../camps.php">Les Camps</a>
     <a href="../releves.php">Les Relevés</a>
+    <a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
     <a href="../poilus.php" class="NavSelected">Les Poilus</a>
-    <a href="../index.php">Accueil</a>  
 </nav>
 
 <section>
@@ -77,7 +77,7 @@
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-       <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
+        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
         <li><a href="autres.php" class="AsideSelected">Les soldats du Nord</a></li>
         <li><a href="soldats-belgique.php">Les soldats de Belgique</a></li>
@@ -104,7 +104,7 @@
 
 <ul>
 
-	<li><strong>Raphaël Joseph BOTTIAU</strong>, petit-fils de mon sosa n°80 et de sa 2e épouse. Il arrive au 15e Régiment d'Artillerie de Campagne le 11 août 1914. Libéré provisoirement le 19 août 1914, il est fait prisonnier le 24 août à Quarouble et interné derrière les lignes.<br /><br /></li>
+	<li><strong>Raphaël Joseph BOTTIAU</strong> est né le 26 janvier 1880 à Quarouble, fils légitime de Antoine Joseph BOTTIAU et de Léopoldine Augustine JOLY (elle même fille de mon sosa n°80 et de sa 2e épouse). Il arrive au 15e Régiment d'Artillerie de Campagne le 11 août 1914. Libéré provisoirement le 19 août 1914, il est fait prisonnier le 24 août à Quarouble et interné derrière les lignes. Raphaël est envoyé en congés illimité le 12 février 1919 par le dépot démobilisateurd du 15e Régiment d'Artillerie et se retire à Quarouble, où il décède le 19 mars 1926 à son domicile de la Rue du Moulin.<br /><br /></li>
 
     <li><strong>Gervais BOUCHER</strong>: Bureau de Valenciennes, Classe 1900, Volume 2, matricule 775<br /><br /></li>
    

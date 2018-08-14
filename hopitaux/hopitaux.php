@@ -4,7 +4,7 @@
 
 <meta charset="utf-8">
           
-<title>Les hopitaux pendant la Grande Guerre - Histoires de Poilus</title>
+<title>Les hôpitaux pendant la Grande Guerre - Histoires de Poilus</title>
 <meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles pendant la Premiére Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
@@ -97,7 +97,7 @@
 
 <h2>Les hôpitaux militaires classiques</h2>
 
-<h2>Les hôpitaux auxiliaires (HA)<h2>
+<h2>Les hôpitaux auxiliaires (HA)</h2>
 
 <p>contrôlé par la Croix-Rouge et géré par l’une de ses trois composantes</p>
 

@@ -43,15 +43,13 @@
 </header>
    
 <nav>
-
     <a href="contact.php">Contact</a>
     <a href="webographie.php">Webographie</a>
     <a href="lieux.php">Les Batailles</a>
     <a href="camps.php">Les Camps</a>
-    <a href="releves.php" class="NavSelected">Les relevés</a>
-    <a href="poilus.php">Les Poilus</a>
-    <a href="index.php">Accueil</a>
-   
+    <a href="releves.php" class="NavSelected">Les Relevés</a>
+    <a href="/hopitaux/hopitaux.php">Les Hôpitaux</a>
+    <a href="poilus.php">Les Poilus</a>     
 </nav>
 
 <section>

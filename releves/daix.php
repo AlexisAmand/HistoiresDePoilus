@@ -48,8 +48,8 @@
     <a href="../lieux.php">Les Batailles</a>
     <a href="../camps.php">Les Camps</a>
     <a href="../releves.php" class="NavSelected">Les Relevés</a>
-    <a href="../poilus.php">Les Poilus</a>
-    <a href="../index.php">Accueil</a>
+    <a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
+    <a href="../poilus.php">Les Poilus</a> 
    
 </nav>
 
@@ -157,7 +157,7 @@
   <tr>
     <td>DUBATON<br />Henri</td>
     <td>Le 28 août 1876<br />à Lucenay-le-Duc<br />(Côte-d&#39;Or)</td>
-    <td>Le 1er juin 1917<br />à <a href="../hopitaux/hopitaux-ges.php">l&#39;Hôpital de complementaire<br />de Troyes (Aube)</a></td>
+    <td>Le 1er juin 1917<br />à <a href="../hopitaux/hopitaux-ges.php">l&#39;hôpital de complementaire<br />de Troyes (Aube)</a></td>
     <td>15e R.A</td>
     <td>maladie</td>
   </tr>
