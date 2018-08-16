@@ -127,7 +127,7 @@
 <ul>
     <li>Gazette de Bayonne, de Biarritz et du Pays Basque du 12 août 1923 (disponible sur Gallica)
     <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
-    <li><a rel="nofollow" href="http://www.amazon.fr/gp/product/2708905228/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2708905228&linkCode=as2&tag=lagenealogent-21">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2708905228" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
+    <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
 </ul>    
 
 <p class="sources">

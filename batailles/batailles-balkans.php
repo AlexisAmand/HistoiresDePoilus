@@ -3,7 +3,7 @@
         <head>
             <meta charset="utf-8">
        
-            <title>Les batailles du front des Balkans pendant la Grande Guerre - Histoires de Poilus</title>
+            <title>Les batailles du front des Balkans pendant la Grande Guerre (1914-1918) - Histoires de Poilus</title>
             <meta content="Liste des batailles qui se sont déroulées sur le front des Balkans pendant la Première Guerre Mondiale (1914 à 1918)." name="description">
 
             <link rel="stylesheet" href="../css/style.css">    
@@ -68,6 +68,23 @@
 
 			<p>Cette page sera mise à jour au fur et à mesure des découvertes.</p>
 			<p>&nbsp;</p>
+
+            <table>
+                <thead>
+                    <tr>
+                            <td class="l25">Lieu</td>
+                            <td class="l25">Bataille</td>
+                            <td class="l25">Date</td>
+                            <td class="l25">Issue</td>
+                    </tr>
+                </thead> 
+                <tr>
+				    <td> </td>
+				    <td> </td>
+				    <td> </td>
+				    <td> </td>
+				</tr> 
+            </table>
 
 			<p class="sources">
 			<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

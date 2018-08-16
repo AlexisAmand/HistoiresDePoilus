@@ -105,8 +105,8 @@
 <p>Le "Journal du Collectionneur de Timbres" n°4330 daté du 1 août 1916 estime à 4000 ou 5000 le nombre de prisonniers anglais présents dans le camp de Ruhleben. Il précise également qu'ils sont internés dans 8 grandes baraques. Toujours selon la même source, les Anglais auraient même réussi à supporter l'épreuve en se donnant l'illusion d'être en villégiature dans un coin perdu de la Grande-Bretagne. A la même époque, un rapport de l'Ambassadeur des Etats-Unis à Berlin est quant à lui alarmant. Il dépeint en effet la situation comme intolérable en décrivant des civils entassés à 64 dans des écuries de 10 m sur 13, dans une obscurité ne permettant même pas de lire. Il décrit également un système de chauffage inadapté et des prisonniers ne pouvant même pas sécher leurs vêtements entre deux appels sous la pluie.<p>
 
 <figure>   
-    <a href="images/Ruhleben/Ruhleben-01.jpg" title="">    
-    <img src="miniatures/Ruhleben/Ruhleben-01.jpg" id="single_image" alt=""></a>
+    <a href="images/Ruhleben/Ruhleben-01.jpg" title="Des prisonniers anglais à Ruhleben">    
+    <img src="miniatures/Ruhleben/Ruhleben-01.jpg" id="single_image" alt="Des prisonniers anglais dans le camp de Ruhleben pendant la Grande Guerre"></a>
     <figcaption>Des Anglais à Ruhleben<br/>(source: BNF - Gallica et La Guerre Mondiale : bulletin quotidien illustré)</figcaption>
 </figure>    
 

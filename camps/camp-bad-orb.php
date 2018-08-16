@@ -102,8 +102,8 @@
 
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
 
-<figure>
-    
+<figure>    
+    <a href="images/Bad-Orb/carte-camp-bad-orb.jpg" id="single_image" title="Localisation du camp de Bad-Orb">
     <img src="miniatures/Bad-Orb/carte-camp-bad-orb.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Bad Orb">
     <figcaption>Localisation du camp de Bad Orb<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>    
@@ -112,8 +112,7 @@
     <a href="images/Bad-Orb/bad-orb-01.jpg" id="single_image" title="Le camp de Bad-Orb">
     <img src="miniatures/Bad-Orb/bad-orb-01.jpg" alt="arrivée de prisonniers français au camp de Bad Orb pendant la Première Guerre Mondiale">
     </a>
-    <figcaption>Arrivée de prisonniers français (vers 1915)
-    <br />(source allemande)</figcaption>
+    <figcaption>Arrivée de prisonniers français (vers 1915)<br />(source allemande)</figcaption>
 </figure>
 
 <h2>Sources et bibliographie</h2>
@@ -121,7 +120,7 @@
 <ul>
     <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
     <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>
-    <li><a rel="nofollow" href="http://www.amazon.fr/gp/product/2708905228/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2708905228&linkCode=as2&tag=lagenealogent-21">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2708905228" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
+    <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
 </ul>    
 
 <p class="sources">

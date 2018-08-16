@@ -3,7 +3,7 @@
         <head>
             <meta charset="utf-8">
        
-            <title>Les batailles du front de l'Europe de l'Est pendant la Grande Guerre - Histoires de Poilus</title>
+            <title>Les batailles du front de l'Europe de l'Est pendant la Grande Guerre (1914-1918) - Histoires de Poilus</title>
             <meta content="Liste des batailles qui se sont déroulées sur le front de l'Europe de l'Est pendant la Première Guerre Mondiale (1914 à 1918)." name="description">
    
             <link rel="stylesheet" href="../css/style.css">    
@@ -70,10 +70,10 @@
             <table>
   				<thead>
 				    <tr>
-				        <td style="width:25%">Lieu</td>
-				        <td style="width:25%">Bataille</td>
-				        <td style="width:25%">Date</td>
-				        <td style="width:25%">Issue</td>
+				        <td class="l25">Lieu</td>
+				        <td class="l25">Bataille</td>
+				        <td class="l25">Date</td>
+				        <td class="l25">Issue</td>
 				    </tr>
 				</thead>  
 				    <tr>

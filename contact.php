@@ -1,8 +1,16 @@
 <?php  
-    define( 'MAIL_TO', /* >>>>> */'alexis.amand@gmail.com'/* <<<<< */ );  //ajouter votre courriel  
-    define( 'MAIL_FROM', 'utilisateur@domaine.tld' ); // valeur par défaut  
-    define( 'MAIL_OBJECT', 'objet du message' ); // valeur par défaut  
-    define( 'MAIL_MESSAGE', 'votre message' ); // valeur par défaut  
+    
+    /* email cible */
+    define( 'MAIL_TO', 'alexis.amand@gmail.com' );   
+
+    /* email de l'expéditeur par défaut */
+    define( 'MAIL_FROM', ' ' ); 
+
+    /* objet du mail par défaut */
+    define( 'MAIL_OBJECT', ' ' ); 
+
+    /* message par défaut */
+    define( 'MAIL_MESSAGE', ' ' );
 
     $mailSent = false; // drapeau qui aiguille l'affichage du formulaire OU du récapitulatif  
     $errors = array(); // tableau des erreurs de saisie  
@@ -31,6 +39,7 @@
  / Logiquement, les parties message, To: et Subject: pourraient servir aussi à injecter quelque chose,  mais la fonction mail()  
  / filtre bien les deux dernières, et la première est le message, et à partir du moment où on a sauté une ligne dans l'envoi du mail,  
  / c'est considéré comme du texte; le message ne saurait donc rester qu'un message.*/  
+
         $message = filter_input( INPUT_POST, 'message', FILTER_UNSAFE_RAW );  
         if( $message === NULL OR $message === false OR empty( $message ) OR $message === MAIL_MESSAGE ) // si le message fourni est vide ou égale à la valeur par défaut  
         {  
@@ -70,30 +79,8 @@
 <link rel="stylesheet" href="css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-   
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>  
-   
-<script type="text/javascript" src="js/jquery.fancybox-1.3.4.pack.js"></script>
-
-    
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-
-	
-	
-	$("a#single_image").fancybox();
-	
-	
-	
-}); 
-</script>  
-            
-      
+                  
 </head>
-
-   
-
 
 <body>
 
@@ -105,7 +92,6 @@
       'Ok', 'En savoir plus', 'cookies.php');
   });
 </script>
-
 
 <header>
 	
@@ -140,7 +126,6 @@
 
 <h1>Pour me contacter</h1>
          
- 
 <?php  
     if( $mailSent === true ) // si le message a bien été envoyé, on affiche le récapitulatif  
     {  

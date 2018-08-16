@@ -154,16 +154,16 @@
 <p>Dès le lendemain (le 14 août), le <strong>33e Régiment d'Infanterie</strong> partait, par alerte, à deux heures, dans la direction de Dinant (Belgique) et allait avoir l'honneur de participer au premier choc sérieux en Belgique, entre l'armée française et l'armée allemande.</p>
 
 <figure>
-    <a href="" id="single_image" title="">
+    <a href="images/Dinant-1914.jpg" id="single_image" title="La Citadelle de Dinant, début 1914">
     <img src="miniatures/Dinant-1914.jpg"  alt="La citadelle de Dinant au début de 1914 sur une carte postale ancienne"/>
     </a>
-    <figcaption>La citadelle de Dinant, début 1914</figcaption>
+    <figcaption>La Citadelle de Dinant, début 1914</figcaption>
 </figure>
 
 <p>Les Allemands, ayant Bruxelles pour objectif, s'avançaient en masses compactes. Une armée au nord, s'était heurtée aux forts de Liège (Belgique), une autre avait franchi la Meuse entre Liège et Namur. <br /><br />Le même jour, les Allemands signalent leur présence par une audacieuse reconnaissance et dessine une courte attaque contre nos lignes. Des autos-mitrailleuses allemandes, débouchant de la rive droite de la Meuse par le pont d'Anseremme (Belgique), à 4 kilomètres au sud de Dinant, dispersèrent le poste français et ouvrirent le passage à un escadron de uhlans qui s'avança sur la rive gauche jusqu'à Anthée. Cet escadron fut accueilli, à dix-sept heures, par les mitrailleuses du <strong>33e Régiment d'Infanterie </strong>qui étaient en position au nord du village; arrêté net, il rebroussa chemin. </p><p>Le 15 août, les Allemands attaquent Dinant avec des forces imposantes. La ville, partagée en deux parties par le fleuve, est dominée, sur la rive droite, par la citadelle, qui surplombe le terrain d'une centaine de mètres. Au sud de celle-ci, se trouve la tour de Montfort. Ce furent les deux premiers objectifs visés par les Allemands. Malgré l'héroïque résistance du 148e R.I., ces deux points tombèrent entre les mains de l'ennemi, qui utilisa ces positions pour écraser de ses feux, toute la rive gauche du fleuve.<br /><br /> Le<strong> 33e Régiment d'Infanterie</strong>, accouru d'Anthée, prit position, à cinq heures, le long de la voie ferrée. Deux compagnies, 10e (capitaine CARTON), 12e (capitaine BATAILLE), reçurent l'ordre d'aller réoccuper la citadelle. Le mouvement fut conduit d'une façon si rapide, que les Allemands, surpris, s'enfuirent, abandonnant la position. Mais peu après, la citadelle fut soumise à un feu d'artillerie tellement violent que la forteresse s'effondra de toutes parts, ensevelissant une partie des occupants et un certain nombre d'habitants.</p>
 
 <figure>
-    <a href="" id="single_image" title="">
+    <a href="" id="single_image" title="Dinant détruite en 1914">
     <img src="miniatures/dinant_detruite_1914.jpg"  alt="La ville de Dinant après les combats d'août 1914"/>
     </a>
     <figcaption>Dinant détruite en 1914</figcaption>
@@ -194,7 +194,7 @@
 <p><strong>Auguste</strong> reçoit la croix de guerre "étoile de vermeil" en août 1920 puis  la médaille militaire par décret du 11 avril 1962. Ma mère a très bien connu Auguste. Elle se souvient par exemple d'un cadre contenant un &quot;diplôme&quot; et une médaille il aurait également tenu un magasin de chaussures en face de la place de Thiers à Bruay-sur-l'-Escaut.</p>
 
 <figure>
-    <a href="sources/fav-matricule-01.jpg" id="single_image" title="">
+    <a href="sources/fav-matricule-01.jpg" id="single_image" title="Extrait de la fiche matricule d'Auguste Victor FIEVET">
     <img src="miniatures/fav-matricule-01.jpg" alt="Extrait de la fiche matricule d'Auguste Victor FIEVET"/>
     </a>
     <figcaption>Extrait de sa fiche matricule</figcaption>

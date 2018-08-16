@@ -136,8 +136,8 @@
 <p>Son nom figure sur le Monument aux Morts de Roeulx (Nord) où il vivait avant la Première Guerre Mondiale. Pour info, Edouard et Théophile ont 2 autres frères, <a href="CARIN-Leon.php">Léon</a> et Alfred, qui ont également combattu pour la France pendant la Grande Guerre.</p>
 
 <figure>
-    <a href="sources/CARIN-edouard-mpf.JPG"  id="single_image" title="">
-    <img src="miniatures/CARIN-edouard-mpf.JPG" alt=""/>
+    <a href="sources/CARIN-edouard-mpf.JPG"  id="single_image" title="Edouard CARIN, mort pour la France">
+    <img src="miniatures/CARIN-edouard-mpf.JPG" alt="Fiche de mort pour la France d'Edouard CARIN"/>
     </a>
     <figcaption>Edouard, mort pour la France.<br />(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
 </figure>

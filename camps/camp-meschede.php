@@ -102,46 +102,45 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
 
 <figure>
+    <a href="images/Meschede/camp-meschede.jpg" id="single_image" title="Localisation du camp de Meschede">
+    <img src="miniatures/Meschede/camp-meschede.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Meschede"></a>
+    <figcaption>Localisation du camp de Meschede<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+</figure> 
+
+<figure>
     <a href="images/Meschede/meschede-01.jpg" id="single_image" title="Un groupe de prisonniers devant un baraquement à Meschede">
     <img src="miniatures/Meschede/meschede-01.jpg" alt="Un groupe de prisonniers devant un baraquement du camp de Meschede pendant la Première Guerre Mondiale"></a>
-    <figcaption>Groupe de prisonniers devant un baraquement 
-    <br />(source allemande)</figcaption>
+    <figcaption>Groupe de prisonniers devant un baraquement<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Meschede/meschede-02.jpg" id="single_image" title="La grande rue du camp de Meschede">
     <img src="miniatures/Meschede/meschede-02.jpg" alt="La grande rue du camp de prisonniers de Meschede pendant la Grande Guerre"></a>
-    <figcaption>La grande rue du camp
-    <br />(source allemande)</figcaption>
+    <figcaption>La grande rue du camp<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Meschede/meschede-03.jpg" id="single_image" title="Le personnel de cuisine à Meschede">
     <img src="miniatures/Meschede/meschede-03.jpg" alt="Le personnel de la cuisine du camp de prisonniers de Meschede pendant la Première Guerre Mondiale"></a>
-    <figcaption>Le personnel de cuisine
-    <br />(source allemande)</figcaption>
+    <figcaption>Le personnel de cuisine<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Meschede/meschede-04.jpg" id="single_image" title="Vaccination contre la fièvre typhoïde à Meschede">
     <img src="miniatures/Meschede/meschede-04.jpg" alt="La vaccination contre la fièvre typhoïde au camp de Meschede pendant la Première Guerre Mondiale"></a>
-    <figcaption>Vaccination contre la fièvre typhoïde
-    <br />(source allemande)</figcaption>
+    <figcaption>Vaccination contre la fièvre typhoïde<br />(source allemande)</figcaption>
 </figure>
-
 
 <figure>
     <a href="images/Meschede/meschede-05.jpg" id="single_image" title="Une des six salles de l'infirmerie de Meschede">
     <img src="miniatures/Meschede/meschede-05.jpg" alt="Une des six salles de l'infirmerie du camp de prisonniers de Meschede pendant la Première Guerre Mondiale"></a>
-    <figcaption>Une des six salles de l'infirmerie
-    <br />(source allemande)</figcaption>
+    <figcaption>Une des six salles de l'infirmerie<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Meschede/meschede-06.jpg" id="single_image" title="Le camp de Meschede et son infirmerie">
     <img src="miniatures/Meschede/meschede-06.jpg" alt="Le camp de Meschede et son infirmerie vue à vol d'oiseau"></a>
-    <figcaption>Camp et infirmerie, vue à vol d'oiseau
-    <br />(source allemande)</figcaption>
+    <figcaption>Camp et infirmerie, vue à vol d'oiseau<br />(source allemande)</figcaption>
 </figure>
 
 <h2>Sources et bibliographie</h2>

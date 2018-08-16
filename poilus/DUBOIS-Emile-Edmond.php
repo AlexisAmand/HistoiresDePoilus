@@ -103,7 +103,7 @@
 <p><strong>Émile Edmond DUBOIS</strong>, le beau frère de <a href="GRAIN-Louis.php">Louis GRAIN</a> et de <a href="GRAIN-Leon-Albert.php">Léon GRAIN</a>, est né le 25 janvier 1880 à Villers-Guislain (Nord). Il est le fils légitime de Désiré Émile et Catherine Vénérose BROYE. En 1906, il est tisseur et vit à Villers-Guislain (Rue Hérode) avec ses parents, sa soeur Malvina et son frère Christophe. Le 3 décembre 1907, il épouse Fortunée Luce GRAIN à Villers-Guislain.</p>
 
 <figure>
-    <a href="images/census-villers-guislain-1906.jpg" id="single_image" title="">
+    <a href="images/census-villers-guislain-1906.jpg" id="single_image" title="Extrait du recensement de Villers-Guislain">
     <img src="miniatures/census-villers-guislain-1906.jpg" alt="Extrait du recensement de Villers-Guislain de 1906">
     </a>
     <figcaption>Extrait du recensement de Villers-Guislain<br />(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption> 
@@ -114,7 +114,7 @@
 <p>Âgé de 34 ans au moment de la mobilisation, il intègre le <strong>94e Régiment d'Infanterie</strong> qui donnera naissance au <strong>294e Régiment d’Infanterie</strong>. En effet, à la mobilisation, chaque régiment d'active crée un régiment de réserve dont le numéro est le sien plus 200.  Je pense que c’est ce qui explique que sa fiche matricule indique qu’il fait parti du 94e alors que sa fiche de mort pour la France indique le 294e.</p>
 
 <figure>
-    <a href="sources/DUBOIS-Emile-Edmond-matricule.jpg" id="single_image" title="">
+    <a href="sources/DUBOIS-Emile-Edmond-matricule.jpg" id="single_image" title="Extrait de la fiche matricule d'Émile DUBOIS">
     <img src="miniatures/DUBOIS-Emile-Edmond-matricule.jpg" alt="Extrait de la fiche matricule d'Émile DUBOIS"/>
     </a>
     <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption> 
@@ -132,8 +132,8 @@
     <p><em>&quot;La 56e Division d&#39;Infanterie a pour mission de ralentir la marche de l’ennemi dont les avant-gardes cherchent à se rapprocher de Paris. Le 2 septembre, le régiment en arrière garde de la 56e Division d&#39;Infanterie, reçoit l’ordre de tenir les lisères de Senlis jusqu’à 13 heures. Dès l’aube, les éléments avancés de l’ennemi attaquent, mais ne parviennent pas, malgré le tir acharné de leur artillerie, à nous déloger et le Régiment résiste sur les positions qui ont été assignées jusqu’à 15 heures, se replie ensuite par les bois et par la ville de Senlis. Le 3, le Régiment se dégage et se replie sur Ory-la-Ville, le Lieutenant Colonel DUPERRIER, malade, est évacué et le Chef de Bataillon SELVA prend le commandement du régiment. Le 4, le Régiment cantonne à Dammartin-en-Goele, et prend le lendemain la direction de l’Est, se dirigeant vers Saint-Soupplet.&quot;</em></p>
     
 <figure>
-    <a href="images/Cpa_Senlis.jpg" id="single_image" title="">
-    <img src="miniatures/Cpa_Senlis.jpg" alt="Senlis incendiée par les Allemands en 1914 sur une carte postale ancienne">
+    <a href="images/Cpa_Senlis.jpg" id="single_image" title="Senlis incendiée par les Allemands en 1914">
+    <img src="miniatures/Cpa_Senlis.jpg" alt="Senlis incendiée par les Allemands pendant la Grande Guerre sur une carte postale ancienne">
     </a>
     <figcaption>Senlis incendiée par les Allemands le 2 septembre 1914<br />(cliquez pour agrandir)</figcaption> 
 </figure>
@@ -143,9 +143,8 @@
     <p><em>&quot;L’Armée Française prend l’offensive, le 294e Régiment d'Infanterie prend par en 1ère ligne au combat d’Etrépilly et attaque la ferme de Champfleury, dont il s’empare le 5 septembre. Le 6 et le 7, les combats se succèdent très violents et le Régiment poursuivant l’ennemi continue sa progression vers l’Aisne.&quot;</em></p>
 
 <figure>
-    <a href="images/ferme-de-champfleury.jpg" id="single_image" title="">
-    <img src="miniatures/ferme-de-champfleury.jpg" alt="la ferme de Champfleury après les bombardements de septembre 1914">
-    </a>
+    <a href="images/ferme-de-champfleury.jpg" id="single_image" title="La ferme de Champfleury en 1914">
+    <img src="miniatures/ferme-de-champfleury.jpg" alt="La ferme de Champfleury après les bombardements de septembre 1914"></a>
     <figcaption>La ferme de Champfleury après le bombardement<br />(cliquez pour agrandir)</figcaption> 
 </figure>
 
@@ -158,18 +157,16 @@
     <p>L&#39;historique du 294e R.I continue :<em> &quot;Le repli ennemi s’est arrêté ; les Allemands sont solidement organisés au Sud de Roye. Le Régiment en première ligne vient s’installer aussitôt débarqué à cheval sur la voie ferrée Roye – Compiègne à la hauteur du passage à niveau de Beuvraigne et de l’église de ce village où nos patrouilles se sont heurtées aux avants postes ennemis.&quot;</em></p> 
         
 <figure>
-    <a href="images/Beuvraignes-1914jpg.jpg" id="single_image" title="">
-    <img src="miniatures/Beuvraignes-1914jpg.jpg"  alt="Le village de Beuvraignes pendant la Première Guerre Mondiale"/>
-    </a>
+    <a href="images/Beuvraignes-1914jpg.jpg" id="single_image" title="Beuvraignes pendant la Grande Guuerre">
+    <img src="miniatures/Beuvraignes-1914jpg.jpg"  alt="Le village de Beuvraignes pendant la Première Guerre Mondiale"/></a>
     <figcaption>Le village de Beuvraignes pendant la Grande Guerre<br/>(source: Wikipedia - cliquez pour agrandir)</figcaption>
 </figure>        
         
 <p><em>Les 3, 4 et 5 octobre, des combats acharnés sont livrés pour la possession du village, l’ennemi nous opposant des forces bien supérieures en nombre. De part et d’autre les contres attaques se succèdent aux attaques et nos hommes se battent au corps à corps dans les rues et les maisons du village. Malgré des pertes importantes, (le Régiment ne compte plus que 400 hommes environ), l’ennemi ne parvient pas à nous chasser des lisières Sud du village et nous faisons une centaine de prisonniers dont deux officiers. Le 7, le régiment passe en seconde ligne, relevé par d’autres éléments de la 56e Division d'Infanterie gagne les villages de Bus et de Tilloloy, incorpore un renfort de 600 hommes et repasse en première ligne le 10 occupant le Bois allongé. Le 11, un coup de main tenté à Beuvraignes par deux compagnies permet de gagner quelques maisons du village. Le 14, le Régiment est relevé par le 92e Régiment d&#39;Infanterie Du 14 au 30, la Division passe en réserve mobile d’Armée aux environs de Montdidier.</em></p>
 
 <figure>
-    <a href="images/montdidier-1914-1918.jpg" id="single_image" title="">
-    <img src="miniatures/montdidier-1914-1918.jpg"  alt="Les ruines de Montdidier pendant la Première Guerre Mondiale"/>
-    </a>
+    <a href="images/montdidier-1914-1918.jpg" id="single_image" title="Les ruines de Montdidier">
+    <img src="miniatures/montdidier-1914-1918.jpg"  alt="Les ruines de Montdidier pendant la Première Guerre Mondiale"/></a>
     <figcaption>Les ruines de Montdidier (date inconnue)<br />(cliquez pour agrandir)</figcaption>
 </figure>  
 
@@ -179,7 +176,7 @@
     <p>&nbsp;</p>
 
 <figure>
-    <a href="images/souain-soldats.jpg" id="single_image" title="">
+    <a href="images/souain-soldats.jpg" id="single_image" title="Victimes françaises à Souain en 1915">
     <img src="miniatures/souain-soldats.jpg"  alt="Des soldats français décédés suite à l'assaut du 7 octobre à Souain dans journal Le Miroir"/>
     </a>
     <figcaption>Des soldats français décédés suite à l'assaut du 7 octobre<br/>(source: Gallica / Le Miroir du 24 octobre 1915)</figcaption>

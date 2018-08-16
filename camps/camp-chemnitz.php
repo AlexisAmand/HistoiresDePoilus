@@ -105,6 +105,7 @@
 <p>Ce camp est situé à Chemnitz, dans le Vogtland, une région située à l'est de l'Allemagne à la limite de la Saxe et de la Bavière.</p>
 
 <figure>
+    <a href="images/Chemnitz/carte-camp-chemnitz.jpg" id="single_image" title="Localisation du camp de Chemnitz"> 
     <img src="miniatures/Chemnitz/carte-camp-chemnitz.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Chemnitz">
     <figcaption>Localisation du camp de Chemnitz<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>  
@@ -140,9 +141,8 @@
     </a>
     <figcaption>L'intérieur d'une baraque<br />(Carte postale)</figcaption>
 </figure>  
-    
-    
-    <p>Ils précisent aussi que les prisonniers sont <em>&quot;affectés à différents métiers comme dans les autres dépôts ; le salaire des ouvriers travaillant dans  les fabriques est de 1 mark par jour en dehors des frais de leur entretien&quot;</em>.</p>
+       
+<p>Ils précisent aussi que les prisonniers sont <em>&quot;affectés à différents métiers comme dans les autres dépôts ; le salaire des ouvriers travaillant dans  les fabriques est de 1 mark par jour en dehors des frais de leur entretien&quot;</em>.</p>
  
 <figure>
     <a href="images/chemnitz-01.jpg" id="single_image" title="L'atelier de charronnerie">
@@ -163,7 +163,7 @@
 <h2>Sources et bibliographie</h2>
 
 <ul>
-    <li><a rel="nofollow" href="http://www.amazon.fr/gp/product/2708905228/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2708905228&linkCode=as2&tag=lagenealogent-21">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2708905228" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
+    <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>   
     <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
     <li>Rapports des délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne, 1914-1917</li>
     <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre, 1924)</li>

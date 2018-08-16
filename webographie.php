@@ -153,12 +153,10 @@
             Les souffrances des prisonniers de guerre en 1914-1918</a><br/>(Par Jean-Jules Dufour)</li>
             <li><a href="pdf/fiche-objet-uniformes-14-18.pdf">
             L’uniforme du fantassin français en 1914 et 1915</a><br/>(Musée de l’Armée - Hôtel des Invalides)</li>
-            <li><a href="http://www.amazon.fr/gp/product/B005MOXY9S/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B005MOXY9S&linkCode=as2&tag=lagenealogent-21">
-            L'uniforme et les armes des soldats de la guerre de 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=B005MOXY9S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br/>(Editions Casterman / Liliane et Fred Funcken)</li>
+            <li><a href="https://amzn.to/2vNzdh1">L'uniforme et les armes des soldats de la guerre de 1914-1918</a><br/>(Editions Casterman / Liliane et Fred Funcken)</li>
             <li><a href="pdf/letraitementdesp00chriuoft.pdf" title="Le traitement des prisonniers français en Allemagne par Dr. de Christmas">
             Le traitement des prisonniers français en Allemagne</a><br/>(Librairie Chapelot / Dr. de Christmas)</li>
-            <li><a href="pdf/FoXIIa1133_qt.pdf">
-            Die Kriegsgefangenen in Deutschland</a><br />(source allemande)</li>
+            <li><a href="pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a><br />(source allemande)</li>
             <li><a href="pdf/aus-deutschen-kriegsgefangenenlagern.pdf">
             Aus deutschen Kriegsgefangenenlagern</a><br />(Deutsches Rotes Kreuz)</li>
             <li><a href="https://amzn.to/2Jfz7DO" title="Prisonniers 1914-1918 par Jean-Paul Briaste">
@@ -174,15 +172,34 @@
     <ul>
     	<li><a href="pdf/hanotaux-tome 03.pdf">Histoire illustrée de la guerre de 1914 (tome 3)</a><br />(Gabriel Hanotaux de l'Académie Française, 1916)</li>
         <li><a href="pdf/Maubeuge-1914-Duvivier.pdf">Maubeuge 1914</a><br />(Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
-        <li><a href="pdf/labatailledelamarnes-01-hanotaux.pdf">La Bataille de la Marne (tome1)</a><br />(University of Toronto / Gabriel Hanotaux)</li>
+        <li><a href="pdf/labatailledelamarnes-01-hanotaux.pdf">La Bataille de la Marne (tome 1)</a><br />(University of Toronto / Gabriel Hanotaux)</li>
 		<li><a href="pdf/souvenirsdelacampagnedelamarne.pdf">Souvenirs de la Campagne de la Marne</a><br />(Brigham Young University / Baron Von Hausen, 1922)</li>
         <li><a href="pdf/recquignies-1914.pdf">Petite histoire de Recquignies et Rocq en 1914</a><br/>(Anonyme)</li>
-        <li><a href="http://www.amazon.fr/gp/product/2262018960/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2262018960&linkCode=as2&tag=lagenealogent-21">La Grande Guerre des français, 1914-1918</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2262018960" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Editions Perrin / Jean-Baptiste Durosselle, 1994)</li>
+        <li><a href="https://amzn.to/2vLNtXK">La Grande Guerre des français, 1914-1918</a><br />(Editions Perrin / Jean-Baptiste Durosselle, 1994)</li>
         <li>Août 1914, La Bataille de Sarrebourg<br />(Joseph Elmerich, 1993)</li>
-        <li><a href="http://www.amazon.fr/gp/product/2227487194/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2227487194&linkCode=as2&tag=lagenealogent-21">Encyclopédie de la Grande Guerre</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=2227487194" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br />(Editions Bayard / sous la direction de Stephane Audouin-Rouzeau et Jean-Jacques Becker)</li>
-        <li><a href="http://www.amazon.fr/gp/product/270119198X/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=270119198X&linkCode=as2&tag=lagenealogent-21">Les Grandes Guerres 1914-1945</a><img src="http://ir-fr.amazon-adsystem.com/e/ir?t=lagenealogent-21&l=as2&o=8&a=270119198X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-		<br />(Editions Belins / ouvrage dirigé par Henry Rousso)</li>
-        <li>Les collections de l&#39;histoire n°61</li>      
+        <li><a href="https://amzn.to/2MvPvVA">Encyclopédie de la Grande Guerre</a><br />(Editions Bayard / sous la direction de Stephane Audouin-Rouzeau et Jean-Jacques Becker)</li>
+        <li><a href="https://amzn.to/2ODtfGA">Les Grandes Guerres 1914-1945</a><br />(Editions Belins / ouvrage dirigé par Henry Rousso)</li>
+    </ul>
+
+<br /><br />
+	
+	<h2>Revues sur la Grande Guerre</h2>
+    
+    <p>Ces revues sont protégées par le droit d'auteur, je ne peux pas vous les proposer en téléchargement.</p>
+
+    <ul>
+        <li>Hachette, Connaissances de l'histoire, Hors-Serie n°1 : Avions de Première Guerre Mondiale (1979)</li>
+        <li>Enquete sur l'Histoire n°12 : 1914-1918, la Grande Guerre (Automne 1994)</li>
+        <li>Histoire de la cavalerie n°13 : La cavalerie italienne dans la Première Guerre mondiale (2007)</li>
+        <li>Histoire de la cavalerie n°16 : La cavalerie britannique dans la Première Guerre mondiale (2007)</li>
+        <li>Histoire de la cavalerie n°31 : la cavalerie arabe dans la Première Guerre mondiale (2008)</li>
+        <li>Histoire de la cavalerie n°37 : La cavalerie française dans la Première Guerre Mondiale (2008)</li>             
+        <li>Histoire de la cavalerie n°41 : la cavalerie austro-hongroise dans la Première Guerre Mondiale (2008)</li>  
+        <li>Géo Histoire n°12 : La Première Guerre Mondiale (Décembre 2013 - Janvier 2014)</li>
+        <li>Géo Histoire n°13 : La Première Guerre Mondiale (février 2014 - Mars 2014)</li>
+        <li>Géo Histoire Hors-Serie n°2 : L'album référence de la Grande Guerre (Octobre 2014 - Novembre 2014)</li>
+        <li>Science et Vie Junior Hors-Serie n°107 : Première Guerre Mondiale (Aout 2014)</li>
+        <li>Les collections de l'histoire n°61</li>
     </ul>
     
 	<br /><br />

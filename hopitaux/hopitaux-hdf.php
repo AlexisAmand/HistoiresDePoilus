@@ -146,8 +146,8 @@
 <p>L'hôpital mixte de Valenciennes était situé dans l'une des l'ailes de l'hôpital Général (aujourd'hui connu sous le nom d'Hôpital du Hainaut).</p>
 
 	<figure>
-	<a href="images/valenciennes-hmx.jpg" id="single_image" title=" ">
-    <img src="miniatures/valenciennes-hmx.jpg" alt=" "></a>
+	<a href="images/valenciennes-hmx.jpg" id="single_image" title="L'hôpital mixte de Valenciennes">
+    <img src="miniatures/valenciennes-hmx.jpg" alt="L'hôpital mixte de Valenciennes pendant la Grande Guerre"></a>
         <figcaption> </figcaption>
     </figure>
 
