@@ -104,8 +104,7 @@
 
 <figure>
     <a href="images/anzin-rue-kleber.jpg" id="single_image" title="La rue Kléber à Anzin">
-    <img src="miniatures/anzin-rue-kleber.jpg" alt="La rue Kléber à Anzin"/>
-    </a>
+    <img src="miniatures/anzin-rue-kleber.jpg" alt="La rue Kléber à Anzin"/></a>
     <figcaption>La Rue Kléber à Anzin<br />(Source: BM de Valenciennes)</figcaption>
 </figure>
 
@@ -113,8 +112,7 @@
 
 <figure>
     <a href="portraits/tous-les-grand-peres.jpg" id="single_image" title="La famille FONTAINE">
-    <img src="miniatures/tous-les-grand-peres.jpg" alt="La famille FONTAINE "/>
-    </a>
+    <img src="miniatures/tous-les-grand-peres.jpg" alt="La famille FONTAINE "/></a>
     <figcaption>Henri Gustave, debout avec le chapeau<br />(Source: Archives familiales)</figcaption>
 </figure>
 
@@ -128,15 +126,13 @@
 
 <figure>
     <a href="images/anzin-1914-01.jpg"  id="single_image" title="La Croix d'Anzin">
-    <img src="miniatures/anzin-1914-01.jpg" alt="La Croix D'Anzin en pendant la Première Guerre Mondiale (1914-1918) sur une carte postale ancienne"/>
-    </a>
+    <img src="miniatures/anzin-1914-01.jpg" alt="La Croix D'Anzin en pendant la Première Guerre Mondiale (1914-1918) sur une carte postale ancienne"/></a>
     <figcaption>La Croix d'Anzin détruite en 1914-18</figcaption>
 </figure>
 
 <figure>
     <a href="images/anzin-1914-02.jpg"  id="single_image" title="Le retour des évacués à Anzin en 1918">
-    <img src="miniatures/anzin-1914-02.jpg" alt="Le retour des évacués à Anzin après la guerre en 1918"/>
-    </a>
+    <img src="miniatures/anzin-1914-02.jpg" alt="Le retour des évacués à Anzin après la guerre en 1918"/></a>
     <figcaption>Le retour des évacués en 1918</figcaption>
 </figure>
 

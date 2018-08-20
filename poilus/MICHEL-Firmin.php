@@ -104,7 +104,12 @@
 
 <p><strong>Firmin MICHEL</strong>, le beau frère de mon arrière grand-mère (la fille de <a href="GRAIN-Louis.php" title="lien vers la page consacrée à Louis Grain">Louis GRAIN</a>), est né le 12 mars 1894 à Saint-Hilaire-Le-Petit (Marne). Il est le fils de Sosthène MICHEL et de Marie Françoise Zélie COLIN. A sa naissance, il a 3 frères: Henri Hilaire né en 1890, Julien né en 1897 et Denis né en 1900.</p>
 
-<br/>
+<figure>
+    <a href="images/arbre-michel.png" id="single_image" title="Arbre généalogique simplifié de la famille MICHEL">
+    <img src="miniatures/arbre-michel.png" alt="Arbre généalogique simplifié de la famille MICHEL" style="box-shadow:none;width:650px;"/>
+    </a>
+    <figcaption>Arbre simplifié de la famille MICHEL<br />(cliquez pour agrandir)</figcaption>
+</figure>
 
 <h2>La mobilisation d'août 1914</h2>
 

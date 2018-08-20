@@ -5,7 +5,7 @@
 <meta charset="utf-8">
           
 <title>Histoires de Poilus - Liste de quelques poilus de la Marne</title>
-<meta content="Petites biographies de soldats de ma famille ayant participé à la Premiére Guerre Mondiale et ayant vécu dans le Marne" name="description">
+<meta content="Petites biographies de soldats de ma famille ayant participé à la Premiére Guerre Mondiale et ayant vécu dans la Marne" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -105,11 +105,25 @@
 
     <li><strong>Jules Alphonse ASTIER</strong>, né le 14 février 1872 à Bétheniville (Marne), petit-fils de mon aïeule Julie Joséphine KRAUTH via Louise Adèle BALTAZART. <br /><br /></li>
 
-    <li><strong>Eugène Alexandre CARON</strong>, né le 16 avril 1869 à Montigny-sur-Vesle (Marne). Il rejoint la 6e section d'infirmiers le 3 août 1914. Le 24 août 1915, il est détaché dans une usine de Clermont-Ferrant.<br /><br /></li>
+    <li><strong>Eugène Alexandre CARON</strong>, né le 16 avril 1869 à Montigny-sur-Vesle (Marne), fils de Pierre Alexandre et de Zélia Celestine HUILLERET. Avant la Grande Guerre, il vit à Reims, successivement 164 Rue du Barbâtre (1895) et 28 Rue de Savoie (1910), où il excerce la profession de mécanicien. A la mobilisation, il rejoint la 6e section d'infirmiers le 3 août 1914. Le 24 août 1915, il est détaché dans une usine de Clermont-Ferrant.<br /><br /></li>
 
-    <li><strong>Alexandre Ernest MAILLART</strong> est né le 23 juillet 1874 à Bétheniville, petit-fils de mon aïeule Julie Joséphine KRAUTH via Julie Adèle BALTAZART. Il est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des sections de chemins de fer de campagne du 2 août 1914 au 5 janvier 1919.<br /><br /></li>
+</ul>
 
-    <li><strong>Léopold PAQUET</strong> est né le 5 décembre 1886 à Reims (Marne). Le 20 juin 1914, il épouse à Bétheniville Marie Hélène ARNOULD, la soeur de mon arriére-grand-pére. Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 août 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 août 1917 pour paralysie radiale du bras gauche. Il est décédé à Bétheniville le 10 octobre 1953.<br /><br /></li>
+<figure>
+    <a href="sources/caron-matricule.jpg" id="single_image" title="Extrait de la fiche matricule d'Eugène">
+    <img src="miniatures/caron-matricule.jpg" alt="Extrait de la fiche matricule d'Eugène Alexandre CARON"/></a>
+    <figcaption>Extrait de la fiche matricule d'Eugène<br />(Source: Archives Départementales de la Marne)</figcaption>
+</figure>
+
+<figure>
+    <a href="images/reims-barbatre.jpg" id="single_image" title="la Rue du Barbâtre à Reims">
+    <img src="miniatures/reims-barbatre.jpg" alt="la Rue du Barbâtre à Reims sur une carte postale ancienne"/></a>
+    <figcaption>la Rue du Barbâtre<br />(Source: Delcampe)</figcaption>
+</figure>
+
+<ul>
+
+    <li><strong>Léopold PAQUET</strong> est né le 5 décembre 1886 à Reims (Marne), fils légitime de François PAQUET et Marie LEFEVRE. Le 20 juin 1914, il épouse à Bétheniville Marie Hélène ARNOULD, la soeur de mon arriére-grand-pére. Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 août 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 août 1917 pour paralysie radiale du bras gauche, juste aprés la Bataille des Ardennes. Il est décédé à Bétheniville le 10 octobre 1953.<br /><br /></li>
 
 </ul>
     

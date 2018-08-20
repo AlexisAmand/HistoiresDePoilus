@@ -117,7 +117,7 @@
 	<figure>
     <a href="images/carte-oscar-delaux.png" id="single_image" title="Carte d'ancien combattant d'Oscar DELAUX">
     <img src="miniatures/carte-oscar-delaux.png" alt="Carte du combattant d'Oscar DELAUX"/></a>
-    <figcaption>Carte du combattant d'Oscar DELAUX<br> (Source: Archives Départementales du Nord)</figcaption>
+    <figcaption>Carte du combattant d'Oscar DELAUX<br>(Source: Archives Départementales du Nord)</figcaption>
     </figure>
     
 	<ul>

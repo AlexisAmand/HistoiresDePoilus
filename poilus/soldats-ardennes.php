@@ -5,7 +5,7 @@
 <meta charset="utf-8">
           
 <title>Histoires de Poilus - Liste de quelques poilus des Ardennes</title>
-<meta content="Petites biographies de soldats de ma famille ayant participé à la Premiére Guerre Mondiale et ayant vécu dans le Ardennes" name="description">
+<meta content="Petites biographies de soldats de ma famille ayant participé à la Premiére Guerre Mondiale et ayant vécu dans les Ardennes" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>

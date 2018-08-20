@@ -107,8 +107,7 @@
 
 <figure>
     <a href="images/matricule-adrien-velu.jpg" id="single_image" title="Extrait de la fiche matricule d'Adrien VELU">
-    <img src="miniatures/matricule-adrien-velu.jpg" alt="Extrait de la fiche matricule d'Adrien VELU"/>
-    </a>
+    <img src="miniatures/matricule-adrien-velu.jpg" alt="Extrait de la fiche matricule d'Adrien VELU"/></a>
     <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir - Archives Départementales du Nord)</figcaption>
 </figure>
 
@@ -120,8 +119,7 @@
     
 <figure>
     <a href="images/Assaut-chemin-des-dames.jpg" id="single_image" title="Soldats français sur le Chemin des Dames">
-    <img src="miniatures/Assaut-chemin-des-dames.jpg" alt="Des soldats français à l'assaut au Chemin de Dames"/>
-    </a>
+    <img src="miniatures/Assaut-chemin-des-dames.jpg" alt="Des soldats français à l'assaut au Chemin de Dames"/></a>
     <figcaption>Assaut français sur le Chemin des Dames<br />(cliquez pour agrandir - Archives du Queensland, Australie)</figcaption>
 </figure>
     

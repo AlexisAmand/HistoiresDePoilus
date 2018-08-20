@@ -91,7 +91,16 @@
 
 <h1>Druon Joseph CARLIER</h1>
 
-<p><strong>Druon Joseph CARLIER</strong>, père de mon arrière-grand-mère, est né le samedi 15 avril 1876 à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> (Nord). Il est le fils de Druon Joseph CARLIER, ouvrier, âgé de 49 ans et de Sidonie Célestine PATOU, ouvrière, âgée de 42 ans. A sa naissance, il a pour frères et sœurs : Gustave (né en 1864), Maria Sidonie (née en 1865), Marie Zélia (née en 1869) et <a href="CARLIER-Louis-Abraham.php">Louis Abraham</a> (né en 1871). En 1906, il vit au hameau de Sebourquiaux avec son épouse Angèle DANHIEZ et ses deux filles Lucia (mon arrière-grand-mère) et Maria.</p>
+<p><strong>Druon Joseph CARLIER</strong>, père de mon arrière-grand-mère, est né le samedi 15 avril 1876 à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> (Nord). Il est le fils de Druon Joseph CARLIER, ouvrier, âgé de 49 ans et de Sidonie Célestine PATOU, ouvrière, âgée de 42 ans.</p>
+
+<figure>
+    <a href="images/arbre-carlier.png" id="single_image" title="Arbre généalogique simplifié de la famille JOLY-CARLIER">
+    <img src="miniatures/arbre-carlier.png" alt="Arbre généalogique simplifié de la famille JOLY-CARLIER" style="box-shadow:none;width:650px;"/>
+    </a>
+    <figcaption>Arbre simplifié de la famille JOLY-CARLIER<br />(cliquez pour agrandir)</figcaption>
+</figure>
+
+<p>Pour simplifier les choses, je n'ai pas représenté tous les membres de la famille sur l'arbre ci-dessus, mais à sa naissance, Druon a pour frères et sœurs : Gustave (né en 1864), Maria Sidonie (née en 1865), Marie Zélia (née en 1869) et <a href="CARLIER-Louis-Abraham.php">Louis Abraham</a> (né en 1871). En 1906, il vit au hameau de Sebourquiaux avec son épouse Angèle DANHIEZ et ses deux filles Lucia (mon arrière-grand-mère) et Maria.</p>
 
 <figure>
     <a href="sources/carlier-druon-matricule-01.jpg" id="single_image" title="Druon Joseph CARLIER - Extrait de sa fiche matricule">

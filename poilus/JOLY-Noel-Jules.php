@@ -101,7 +101,15 @@
 <h1>Noël Jules JOLY</h1>
 
 <p><strong>Noël Jules JOLY</strong>, père de mon arrière-grand-père, est né le 26 décembre 1873 à <a href="http://genealexis.fr/cartes-postales/quarouble.php" title="Histoire de Quarouble">Quarouble</a> (Nord). Il est le fils légitime de Jules JOLY, âgé de 32 ans, et de Cressance Appoline DUEE, âgé de 22 ans. En 1906, Noël est mouleur en creux à la faïencerie d&#39;Onnaing où il vit, rue basse, en compagnie de son épouse Adélaïde PELEZ, qu&#39;il a épousé à Quarouble le 9 décembre 1895, et de ses enfants Alfred, Louise et Noël (mon arrière-grand-père).</p>
-    <p>Pour la petite histoire, Lucia CARLIER (fille de <a href="CARLIER-Druon-Joseph.php" title="lien vers la page consacrée à Druon Carlier">Druon CARLIER</a>) épouse Noël JOLY (le fils de <a href="JOLY-Noel-Jules.php">Noël Jules JOLY) </a>le 24 septembre 1927 à Onnaing. </p>
+
+<figure>
+    <a href="images/arbre-joly.png" id="single_image" title="Arbre généalogique simplifié de la famille JOLY">
+    <img src="miniatures/arbre-joly.png" alt="Arbre généalogique simplifié de la famille JOLY" style="box-shadow:none;width:650px;"/>
+    </a>
+    <figcaption>Arbre simplifié de la famille JOLY<br />(cliquez pour agrandir)</figcaption>
+</figure>
+
+<p>Pour la petite histoire, Lucia CARLIER (fille de <a href="CARLIER-Druon-Joseph.php" title="lien vers la page consacrée à Druon Carlier">Druon CARLIER</a>) épouse Noël JOLY (le fils de <a href="JOLY-Noel-Jules.php">Noël Jules JOLY) </a>le 24 septembre 1927 à Onnaing. </p>
   
 <figure>
     <a href="portraits/joly-noel-jules.jpg" id="single_image" title="Portrait de Noël Jules JOLY">
