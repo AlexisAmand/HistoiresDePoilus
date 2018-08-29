@@ -62,21 +62,25 @@
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php" >CARIN Théophile</a></li>
+
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
+
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="FROIDUROT-Alfred.php" class="AsideSelected">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
+        
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
         <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
@@ -118,7 +122,7 @@
 
 <p>Après la guerre, le 9 août 1919 à Dijon (Côte-d'Or), Alfred épouse Lucienne ARNOULD, la cousine de mon arrière-grand-père. Je sais que jusque là, son parcours est le même que tant d'autres, celui d’un jeune homme qui passe de long mois dans la boue et la crasse, alors je vais continuer un peu mon histoire.</p>
 
-<p>Pendant la Seconde Guerre Eclate, Alfred est un commerçant domicilié à la cité ouvrière d'Antibes (Alpes-Maritimes). Était-il allé à Antibes suite à l'évacuation ? Je ne sais pas encore, quoi qu'il soit, il rejoint les Forces françaises de l'intérieur (FFI) et est arrêté le 9 août 1944 par la Gestapo cannoise à la suite de l'arrestation de Marcel Neydorff. Il est emprisonné dans les cellules de la villa Montfleury, siège de la Gestapo cannoise et est torturé. Il est assassiné avec 7 autres résistants au sous-sol de la villa Montfleury le 15 août 1944. Son nom est inscrit sur la stèle commémorative de la villa Montfleury à Cannes (Alpes-Maritimes). Il est reconnu Mort pour la France et est inhumé au cimetière communal de Rabiac à Antibes.</p>
+<p>Quand la Seconde Guerre Mondiale éclate, Alfred est un commerçant domicilié à la cité ouvrière d'Antibes (Alpes-Maritimes). Était-il allé à Antibes suite à l'évacuation ? Je ne sais pas encore, quoi qu'il soit, il rejoint les Forces françaises de l'intérieur (FFI) et est arrêté le 9 août 1944 par la Gestapo cannoise à la suite de l'arrestation de Marcel Neydorff. Il est emprisonné dans les cellules de la villa Montfleury, siège de la Gestapo cannoise et est torturé. Il est assassiné avec 7 autres résistants au sous-sol de la villa Montfleury le 15 août 1944. Son nom est inscrit sur la stèle commémorative de la villa Montfleury à Cannes (Alpes-Maritimes). Il est reconnu Mort pour la France et est inhumé au cimetière communal de Rabiac à Antibes.</p>
 
 <figure>
     <a href="images/villa-montfleury-cannes.jpg" id="single_image" title="La Villa Montfleury à Cannes">

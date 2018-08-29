@@ -29,16 +29,14 @@
 	
     <div id="rezo">
     	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="images/facebook.png" />
-        </a>
-        <img src="images/googleplus.png" /> 
+        <img src="../images/facebook.png" alt="logo facebook" /></a>
+        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
 	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="images/twitter.png" />
-        </a>
+        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
     </div>
     
-<a href="index.php" title="retour sur la page d'accueil du site">
-<img src="images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
+<a href="../index.php" title="Retour sur la page d'accueil du site">
+<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
 </header>
    
@@ -56,31 +54,35 @@
 
 <aside>
 
-	<ul>
-        <li><a href="releves/anzin.php">Anzin (59)</a></li>
-    	<li><a href="releves/betheniville.php">Bétheniville (51)</a></li>
-        <li><a href="releves/bry.php">Bry (59)</a></li>
-        <li><a href="releves/capelle.php">Capelle-sur-Ecaillon (59)</a></li>
-        <li><a href="releves/daix.php">Daix (21)</a></li>        
-        <li><a href="releves/eth.php">Eth (59)</a></li>
+<ul>
+    <li><a href="releves/anzin.php">Anzin (59)</a></li>
+    <li><a href="releves/betheniville.php">Bétheniville (51)</a></li>
+    <li><a href="releves/bry.php">Bry (59)</a></li>
+    <li><a href="releves/coulsore.php">Coulsore (59)</a></li>
+    <li><a href="releves/capelle.php">Capelle-sur-Ecaillon (59)</a></li>
 
-        <li><a href="releves/feucherolles.php">Feucherolles (78)</a></li>
-        <li><a href="releves/frencq.php">Frencq (62)</a></li>
-        <li><a href="releves/gelannes.php">Gélannes (10)</a></li>
-        <li><a href="releves/isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
+    <li><a href="releves/daix.php">Daix (21)</a></li>        
+    <li><a href="releves/eth.php">Eth (59)</a></li>
+    <li><a href="releves/feucherolles.php">Feucherolles (78)</a></li>
+    <li><a href="releves/frencq.php">Frencq (62)</a></li>
+    <li><a href="releves/gelannes.php">Gélannes (10)</a></li>
 
-    	<li><a href="releves/lourches.php">Lourches (59)</a></li>
-        <li><a href="releves/onnaing.php">Onnaing (59)</a></li>      
-        <li><a href="releves/quarouble.php">Quarouble (59)</a></li>
-        <li><a href="releves/roeulx.php">Roeulx (59)</a></li>
-        <li><a href="releves/saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
-        <li><a href="releves/saultain.php">Saultain (59)</a></li>
-        <li><a href="releves/sebourg.php">Sebourg (59)</a></li>
-        <li><a href="releves/verpel.php">Verpel (08)</a></li>
-        <li><a href="releves/vicq.php">Vicq (59)</a></li>
-        <li><a href="releves/villers-guislain.php">Villers-Guislain (59)</a></li>     
-        <li><a href="releves/wargnies.php">Wargnies-le-Grand (59)</a></li>   
-   </ul>
+    <li><a href="releves/gussignies.php">Gussignies (59)</a></li>
+    <li><a href="releves/isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
+    <li><a href="releves/lourches.php">Lourches (59)</a></li>
+    <li><a href="releves/onnaing.php">Onnaing (59)</a></li>      
+    <li><a href="releves/quarouble.php">Quarouble (59)</a></li>
+
+    <li><a href="releves/roeulx.php">Roeulx (59)</a></li>
+    <li><a href="releves/saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
+    <li><a href="releves/saultain.php">Saultain (59)</a></li>
+    <li><a href="releves/sebourg.php">Sebourg (59)</a></li>
+    <li><a href="releves/verpel.php">Verpel (08)</a></li>
+
+    <li><a href="releves/vicq.php">Vicq (59)</a></li>
+    <li><a href="releves/villers-guislain.php">Villers-Guislain (59)</a></li>     
+    <li><a href="releves/wargnies.php">Wargnies-le-Grand (59)</a></li>   
+</ul>
  
     <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -100,7 +102,7 @@
 
 <h1>Relevés</h1>
 
-<p>Dans cette partie du site, vous trouverez quelques relevés de <strong>morts pour la France</strong> réalisés en associant les données des monuments aux morts avec celle du site &quot;Mémoire des Hommes&quot; et d'autres sites d'archives. J'ai réalisé ce travail de mémoire pour les communes où j'ai pu trouver des hommes de ma famille qui ont été mobilisés pendant la Grande Guerre.</p>
+<p>Dans cette partie du site, vous trouverez quelques relevés de <strong>morts pour la France</strong> réalisés en associant les données des monuments aux morts avec celle du site "Mémoire des Hommes" et d'autres sites d'archives. J'ai réalisé ce travail de mémoire pour les communes où j'ai pu trouver des hommes de ma famille qui ont été mobilisés pendant la Grande Guerre.</p>
 
 <p></p>
 <p>&nbsp;</p>
@@ -113,11 +115,11 @@
 <p>B.D - Bataillon de Douaniers</p>
 <p>B.M.A - Bataillon de Marche d'Afrique</p>
 <p>C.M.D - Corps Militaire des Douanes</p>
-<p>C.O.A - Section de Commis et Ouvriers militaires d&#39;Administration</p>
+<p>C.O.A - Section de Commis et Ouvriers militaires d'Administration</p>
 <p>C.P - Cuirassier à Pied</p>
 <p>G.A - Groupe d'aviation</p>
 <p>R.A - Régiment d'Artillerie</p>
-<p>R.A.L - Régiment d&#39;Artillerie Lourde</p>
+<p>R.A.L - Régiment d'Artillerie Lourde</p>
 <p>R.A.P - Régiment d'Artillerie à Pied</p>
 <p>R.C - Régiment de Cuirassiers</p>
 <p>R.D - Régiment de Dragons</p>
@@ -137,7 +139,7 @@
 <h2>Liste des sources utilisées</h2>
 
 <p>- <a href="http://monumentsmorts.univ-lille3.fr">http://monumentsmorts.univ-lille3.fr</a></p>
-<p>- Livres d&#39;or des morts pour la France (Archives Nationales)</p>
+<p>- Livres d'or des morts pour la France (Archives Nationales)</p>
 <p>- Mémoires des Hommes</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

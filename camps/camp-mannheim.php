@@ -53,31 +53,37 @@
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
+
         <li><a href="camp-friedberg.php">Friedberg</a></li>
         <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camp-giessen.php">Giessen</a></li>
         <li><a href="camp-gorlitz.php">Görlitz</a></li>
+
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
         <li><a href="camp-guben.php">Guben</a></li>
         <li><a href="camp-hammelburg.php">Hammelburg</a></li>
         <li><a href="camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camp-herne.php">Herne</a></li>
+
         <li><a href="camp-heuberg.php">Heuberg</a></li>
         <li><a href="camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camp-limburg.php">Limburg</a></li>
         <li><a href="camp-mannheim.php" class="AsideSelected">Mannheim</a></li>        
         <li><a href="camp-meschede.php">Meschede</a></li>
+
         <li><a href="camp-merzdorf.php">Merzdorf</a></li>
         <li><a href="camp-meyenburg.php">Meyenburg</a></li>
     	<li><a href="camp-minden.php">Minden</a></li>
         <li><a href="camp-munster.php">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
+
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
+        
         <li><a href="camp-zerbst.php">Zerbst</a></li>
         <li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li> 
    </ul>
@@ -106,7 +112,7 @@
     <figcaption>Localisation du camp de Mannheim<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure> 
 
-<p>Evacué sur le camp de Mannheim, Gaston Roussel, membre du Ier Régiment de Zouaves y a vécu au premier semestre 1916. Transféré en Suisse le 25 juillet 1916 pour tuberculose pulmonaire, il raconte que le camp manquait de bancs et de sièges, ce qui obligeait les prisonniers à rester debout, puisqu&#39;on leur défendait de s&#39;asseoir sur leurs sacs de couchage. Il raconte également que <em>&quot;la nourriture à Mannheim était excessivement mauvaise, et que les prisonniers étaient brutalisés. La punition au poteau n&#39;y était pas employée, mais les hommes étaient envoyés au cachot sous des prétextes futiles&quot;&quot;</em>".</p>
+<p>Evacué sur le camp de Mannheim, Gaston Roussel, membre du Ier Régiment de Zouaves y a vécu au premier semestre 1916. Transféré en Suisse le 25 juillet 1916 pour tuberculose pulmonaire, il raconte que le camp manquait de bancs et de sièges, ce qui obligeait les prisonniers à rester debout, puisqu'on leur défendait de s'asseoir sur leurs sacs de couchage. Il raconte également que <em>"la nourriture à Mannheim était excessivement mauvaise, et que les prisonniers étaient brutalisés. La punition au poteau n'y était pas employée, mais les hommes étaient envoyés au cachot sous des prétextes futiles""</em>".</p>
  
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

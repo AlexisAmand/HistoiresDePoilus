@@ -60,21 +60,25 @@
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
+
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
+
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+
         <li><a href="JOLY-Noel-Jules.php" class="AsideSelected">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
+        
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
         <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
@@ -100,7 +104,7 @@
 
 <h1>Noël Jules JOLY</h1>
 
-<p><strong>Noël Jules JOLY</strong>, père de mon arrière-grand-père, est né le 26 décembre 1873 à <a href="http://genealexis.fr/cartes-postales/quarouble.php" title="Histoire de Quarouble">Quarouble</a> (Nord). Il est le fils légitime de Jules JOLY, âgé de 32 ans, et de Cressance Appoline DUEE, âgé de 22 ans. En 1906, Noël est mouleur en creux à la faïencerie d&#39;Onnaing où il vit, rue basse, en compagnie de son épouse Adélaïde PELEZ, qu&#39;il a épousé à Quarouble le 9 décembre 1895, et de ses enfants Alfred, Louise et Noël (mon arrière-grand-père).</p>
+<p><strong>Noël Jules JOLY</strong>, père de mon arrière-grand-père, est né le 26 décembre 1873 à <a href="http://genealexis.fr/cartes-postales/quarouble.php" title="Histoire de Quarouble">Quarouble</a> (Nord). Il est le fils légitime de Jules JOLY, âgé de 32 ans, et de Cressance Appoline DUEE, âgé de 22 ans. En 1906, Noël est mouleur en creux à la faïencerie d'Onnaing où il vit, rue basse, en compagnie de son épouse Adélaïde PELEZ, qu'il a épousé à Quarouble le 9 décembre 1895, et de ses enfants Alfred, Louise et Noël (mon arrière-grand-père).</p>
 
 <figure>
     <a href="images/arbre-joly.png" id="single_image" title="Arbre généalogique simplifié de la famille JOLY">
@@ -127,7 +131,7 @@
     <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<br/><h2> Noël et le &quot;Centre de résistance de Rocq&quot;</h2>
+<br/><h2> Noël et le "Centre de résistance de Rocq"</h2>
 
 <p>Selon son dossier d’ancien combattant, <strong>Noël Jules</strong> fait partie de la 16e batterie du 13e groupe auxiliaire du <strong>1er Régiment d’Artillerie à Pied</strong> sous les ordres du capitaine Lafeuille (voir document en bas de la page). Pourquoi une telle différence entre la fiche matricule, qui indique le 2e R.I.T, et sa carte d'ancien combattant qui indique 1er R.A.P ? Mystère...!</p><p>Les soldats du 1er Régiment d’Artillerie à Pied étaient stationnés sur l’ensemble qui prendra le nom de « Centre de résistance de Rocq ». </p><p>Le 2 septembre 1914, le bombardement reprend sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance. </p>
     
@@ -148,7 +152,7 @@
 
 <br/><h2>La chute de Maubeuge</h2>
 
-<p>Le Gouverneur fait rassembler les drapeaux de la garnison le 4 septembre. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e , 2e , 3e  et 4e  territorial et enfin celui du 1er régiment d'artillerie à pied. Le lendemain, a 7 heures du matin, les drapeaux de la garnison sont brûlés dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
+<p>Le Gouverneur fait rassembler les drapeaux de la garnison le 4 septembre. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e , 2e , 3e  et 4e  territorial et enfin celui du 1er régiment d'artillerie à pied. Le lendemain, à 7 heures du matin, les drapeaux de la garnison sont brûlés dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
 
 <figure>
     <a href="images/Maubeuge-caserne-joyeuse.jpg" id="single_image" title="La caserne Joyeuse (Maubeuge) avant 1914">
@@ -166,7 +170,7 @@
     <figcaption>Une baraque à Friedrichsfeld<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-    <p><strong>Noël Jules</strong> est libéré le 18 décembre 1918 et envoyé en congé illimité le 11 février 1919 par le 1er d&#39;artillerie. Il se retire à Onnaing, rue Émile Zola.</p>
+    <p><strong>Noël Jules</strong> est libéré le 18 décembre 1918 et envoyé en congé illimité le 11 février 1919 par le 1er d'artillerie. Il se retire à Onnaing, rue Émile Zola.</p>
 
 <br /><h2>L'après guerre de Noël</h2>
 
@@ -178,7 +182,7 @@
     <figcaption>Carte d'ancien combattant ayant appartenu à Noël<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<br/><p>Cependant le 3 décembre 1947,<strong> Noël Jules</strong> apprend qu’il n’a plus droit à la carte du combattant au titre de l’<a href="sources/jorf-3-juillet-1930.php" title="lien vers le décrêt du 1er juillet 1930">article 2 du décret du 1er juillet 1930</a>. En effet, il était présent au <strong>1er Régiment d’Artillerie à Pied</strong> comme auxiliaire d’artillerie de places fortes et il s’agissait d’un « emploi non combattant ». Il faut bien comprendre que les régiments de territoriaux constitués par des hommes de 43 à 49 ans n&#39;avaient pas pour vocation principale de participer à des combats mais plutôt d&#39;occuper toutes les tâches non combattantes.</p>
+<br/><p>Cependant le 3 décembre 1947,<strong> Noël Jules</strong> apprend qu’il n’a plus droit à la carte du combattant au titre de l’<a href="sources/jorf-3-juillet-1930.php" title="lien vers le décrêt du 1er juillet 1930">article 2 du décret du 1er juillet 1930</a>. En effet, il était présent au <strong>1er Régiment d’Artillerie à Pied</strong> comme auxiliaire d’artillerie de places fortes et il s’agissait d’un « emploi non combattant ». Il faut bien comprendre que les régiments de territoriaux constitués par des hommes de 43 à 49 ans n'avaient pas pour vocation principale de participer à des combats mais plutôt d'occuper toutes les tâches non combattantes.</p>
 
 <figure>
     <a href="sources/JOLY-carte-combattant.jpg" id="single_image" title="Dossier d'ancien combattant de Noël Jules JOLY (extrait)">

@@ -54,31 +54,37 @@
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
+
         <li><a href="camp-friedberg.php">Friedberg</a></li>
         <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camp-giessen.php">Giessen</a></li>
         <li><a href="camp-gorlitz.php">Görlitz</a></li>
+
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
         <li><a href="camp-guben.php">Guben</a></li>
         <li><a href="camp-hammelburg.php" class="AsideSelected">Hammelburg</a></li>
         <li><a href="camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camp-herne.php">Herne</a></li>
+
         <li><a href="camp-heuberg.php">Heuberg</a></li>
         <li><a href="camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camp-limburg.php">Limburg</a></li>
         <li><a href="camp-mannheim.php">Mannheim</a></li>        
         <li><a href="camp-meschede.php">Meschede</a></li>
+
         <li><a href="camp-merzdorf.php">Merzdorf</a></li>
         <li><a href="camp-meyenburg.php">Meyenburg</a></li>
     	<li><a href="camp-minden.php">Minden</a></li>
         <li><a href="camp-munster.php">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
+
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
+        
         <li><a href="camp-zerbst.php">Zerbst</a></li>
         <li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li> 
    </ul>
@@ -101,7 +107,7 @@
 
 <h1>Le camp de prisonniers de Hammelburg</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
 <figure>    
 	<a href="images/Hammelburg/localisation-hammelburg.jpg" id="single_image" title="Localisation du camp de Hammelburg">
@@ -111,7 +117,7 @@
 
 <p>Le camp de Hammelburg était situé en Franconie, dans le Land de Bavière. Dans son ouvrage intitulé <cite>Août 1914. La Bataille de Sarrebourg</cite>, Joseph ELMERICH précise que la Bavière, qui avait fourni sa propre armée, avait préparé trois camps destinés à recevoir les prisonniers: <a href="camp-lechfeld.php" title="lien vers la page consacrée au camp de Lechfeld">le camp de Lechfeld</a> (3600 prisonniers), le camp de Hammelburg (4470 prisonniers) et enfin celui de <a href="camp-grafenwohr.php" title="lien vers la page consacrée au camp de Grafenwohr">Grafenwöhr</a> (10500 prisonniers). </p>
 
-<p>Charles LEWINE, membre du 245e de ligne, a été fait prisonnier à Villerzy le 23 août 1914 et interné au camp de Hammelburg. Dans un rapport écrit suite à son évacuation en Suisse pour laryngite et tuberculose pulmonaire le 24 mai 1916, il raconte que <em>&quot;les paillasses, dans ce camp, n&#39;étaient changées que tous les cinq à six mois, elles grouillaient de vermine. La nourriture était bonne au début, mais devint plus tard, mauvaise et insuffisante. On trouvait dans le pain de la sciure de bois et de la paille hâchée. Il y a eu dans ce camp, une petite épidémie de variole&quot;</em>.</p>
+<p>Charles LEWINE, membre du 245e de ligne, a été fait prisonnier à Villerzy le 23 août 1914 et interné au camp de Hammelburg. Dans un rapport écrit suite à son évacuation en Suisse pour laryngite et tuberculose pulmonaire le 24 mai 1916, il raconte que <em>"les paillasses, dans ce camp, n'étaient changées que tous les cinq à six mois, elles grouillaient de vermine. La nourriture était bonne au début, mais devint plus tard, mauvaise et insuffisante. On trouvait dans le pain de la sciure de bois et de la paille hachée. Il y a eu dans ce camp, une petite épidémie de variole"</em>.</p>
 
 <p>En octobre 1915, l'effectif des nécessiteux était d'environ 375. On comptait 15 blessés, 40 fiévreux et 70 convalescents.</p>
 

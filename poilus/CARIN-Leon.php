@@ -61,21 +61,25 @@
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php" class="AsideSelected">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
+
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
+
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
+        
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
 		<li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
@@ -126,9 +130,9 @@
     <figcaption>La Place de l'Hôtel de Ville de Roanne.<br/>(cliquez pour agrandir)</figcaption>
 </figure>   
     
-   <p>Il arrive au corps en tant que soldat de 2e classe le 18 février 1915, sous le matricule 8611.  Le 4 octobre 1915, il passe au <strong>153e Régiment d'Infanterie</strong> (6e compagnie selon le JMO) avec lequel il participe à l&#39;attaque française déclenchée sur l&#39;ouvrage de la défaite (Près de Ripont, en Champagne). A cette occasion, lui et son régiment seront soumis pour la première fois à un bombardement d&#39;obus toxiques. Les 153e e 146e Régiments d&#39;Infanterie tiendront le secteur jusqu&#39;au 22 décembre 1915, date à laquelle le 153e sera transféré en Lorraine, en voiture, sur un lieu qui sera le témoin muet de la Bataille de Verdun.</p>
+   <p>Il arrive au corps en tant que soldat de 2e classe le 18 février 1915, sous le matricule 8611.  Le 4 octobre 1915, il passe au <strong>153e Régiment d'Infanterie</strong> (6e compagnie selon le JMO) avec lequel il participe à l'attaque française déclenchée sur l'ouvrage de la défaite (Près de Ripont, en Champagne). A cette occasion, lui et son régiment seront soumis pour la première fois à un bombardement d'obus toxiques. Les 153e e 146e Régiments d'Infanterie tiendront le secteur jusqu'au 22 décembre 1915, date à laquelle le 153e sera transféré en Lorraine, en voiture, sur un lieu qui sera le témoin muet de la Bataille de Verdun.</p>
 
-    <p>En réserve de Division d&#39;Infanterie, le 153e se porte successivement au sud du fort de Froideterre (le 26 février 1916) et en première ligne devant le Bois Albin, à côté de Douaumont&nbsp; (le 29 février). Quand il est relevé le 11 mars de la même année, le 153e dénombre 1200 morts et disparus mais est toutefois récompensé par une citation à l&#39;ordre de l&#39;armée accordée le 4 avril à la 39e division.</p>
+    <p>En réserve de Division d'Infanterie, le 153e se porte successivement au sud du fort de Froideterre (le 26 février 1916) et en première ligne devant le Bois Albin, à côté de Douaumont&nbsp; (le 29 février). Quand il est relevé le 11 mars de la même année, le 153e dénombre 1200 morts et disparus mais est toutefois récompensé par une citation à l'ordre de l'armée accordée le 4 avril à la 39e division.</p>
   
 <figure>
     
@@ -137,7 +141,7 @@
     <figcaption>Plan de l'ouvrage de Froideterre<br />(source: <a href="http://www.verdun-meuse.fr/">http://www.verdun-meuse.fr/</a>) </figcaption>
 </figure>
 
-    <p>Léon CARIN est quant à lui porté disparu le 7 avril 1916 à Haucourt (Meuse, et non Marne comme indiqué sur la fiche matricule) alors que son régiment venait juste de s&#39;installer pour relever le 69e Régiment d&#39;Infanterie à Hautcourt et vers l&#39;ouvrage de Palavas. Son nom est indiqué sur la liste des disparus du JMO du 153e R.I. (page 16). </p>
+    <p>Léon CARIN est quant à lui porté disparu le 7 avril 1916 à Haucourt (Meuse, et non Marne comme indiqué sur la fiche matricule) alors que son régiment venait juste de s'installer pour relever le 69e Régiment d'Infanterie à Hautcourt et vers l'ouvrage de Palavas. Son nom est indiqué sur la liste des disparus du JMO du 153e R.I. (page 16). </p>
 
 <figure>
     <a href="images/153eRI-JMO.jpg"  id="single_image" title="Extrait du Journal des marches et des opérations du 153e RI">

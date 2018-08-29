@@ -62,21 +62,25 @@
         <li><a href="poilus/CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="poilus/CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="poilus/CARIN-Theophile.php">CARIN Théophile</a></li>
+
         <li><a href="poilus/CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="poilus/CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
         <li><a href="poilus/DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="poilus/FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="poilus/FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
+
         <li><a href="poilus/FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="poilus/FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="poilus/GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="poilus/GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="poilus/hanze-augustin.php">HANZE Augustin</a></li>
+
         <li><a href="poilus/JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="poilus/LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="poilus/MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="poilus/MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="poilus/ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
+        
         <li><a href="poilus/VELU-Adrien.php">VELU Adrien (+)</a></li>
         <li><a href="poilus/soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="poilus/soldats-marne.php">Les soldats de la Marne</a></li>
@@ -114,7 +118,7 @@
                 <td>1911 et 1912</td>
             </tr>
             <tr>
-                <td style="background-color:#D3CECE;">Réserve de l&#39;armée active</td>
+                <td style="background-color:#D3CECE;">Réserve de l'armée active</td>
                 <td>Nés entre 1881 et 1890</td>
                 <td>1901 et 1910</td>
             </tr>
@@ -124,7 +128,7 @@
                 <td>1895 et 1900</td>
             </tr>
             <tr>
-                <td style="background-color:#D3CECE;">Réserve de l&#39;armée territoriale</td>
+                <td style="background-color:#D3CECE;">Réserve de l'armée territoriale</td>
                 <td>Nés entre 1869 et 1874</td>
                 <td>1889 et 1894</td>
             </tr>
@@ -242,7 +246,7 @@
         </tr>
     </table>
 
-    <p>Pour simplifier la lecture de ce site, j&#39;ai regroupé dans cette rubrique tous les hommes ayant été mobilisés, qu&#39;ils soient combattant ou non.</p>
+    <p>Pour simplifier la lecture de ce site, j'ai regroupé dans cette rubrique tous les hommes ayant été mobilisés, qu'ils soient combattant ou non.</p>
 
     <p class="sources">
     <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

@@ -50,34 +50,39 @@
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
+
         <li><a href="camp-friedberg.php">Friedberg</a></li>
         <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camp-giessen.php">Giessen</a></li>
         <li><a href="camp-gorlitz.php">Görlitz</a></li>
+
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
         <li><a href="camp-guben.php">Guben</a></li>
         <li><a href="camp-hammelburg.php">Hammelburg</a></li>
         <li><a href="camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camp-herne.php">Herne</a></li>
+
         <li><a href="camp-heuberg.php">Heuberg</a></li>
         <li><a href="camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camp-limburg.php">Limburg</a></li>
         <li><a href="camp-mannheim.php">Mannheim</a></li>        
         <li><a href="camp-meschede.php">Meschede</a></li>
+
         <li><a href="camp-merzdorf.php">Merzdorf</a></li>
         <li><a href="camp-meyenburg.php">Meyenburg</a></li>
     	<li><a href="camp-minden.php">Minden</a></li>
         <li><a href="camp-munster.php">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
+
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
+
         <li><a href="camp-zerbst.php" class="AsideSelected">Zerbst</a></li>
-        <li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li> 
-        
+        <li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li>        
    </ul>
  
     <div id="pubaside">
@@ -98,7 +103,7 @@
 
 <h1>Le camp de Zerbst</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
 <figure>    
 	<a href="images/Zerbst/localisation-zerbst.jpg" id="single_image" title="Localisation du camp de Zerbst">
@@ -106,7 +111,9 @@
     <figcaption>Localisation du camp de Zerbst<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>  
     
-<p>Ce camp était situé à Zerbst, une ville d'Allemagne située dans le land actuel de Saxe-Anhalt.</p><p>Le 28 juin 1917, les membres du comité de secours &quot;Franco-Belge&quot; sont incarcérés pendant 106 jours à la prison de Gommen. Ils sont accusés d&#39;avoir transmis un document de la Kommandantur à la France. Le 11 octobre 1917, ils sont envoyés au camp de Alten-Grabow. Parmi les 106 coupables désignés par les Allemands figure deux belges: le premier maréchal des logis de gendarmerie COGNIAUX et le caporal LESQUOIS, originaire de Sommethonne-les-Virton.</p>
+<p>Ce camp était situé à Zerbst, une ville d'Allemagne située dans le land actuel de Saxe-Anhalt.</p>
+
+<!--p>Le 28 juin 1917, les membres du comité de secours "Franco-Belge" sont incarcérés pendant 106 jours à la prison de Gommen. Ils sont accusés d'avoir transmis un document de la Kommandantur à la France. Le 11 octobre 1917, ils sont envoyés au camp de Alten-Grabow. Parmi les 106 coupables désignés par les Allemands figure deux belges: le premier maréchal des logis de gendarmerie COGNIAUX et le caporal LESQUOIS, originaire de Sommethonne-les-Virton.</p-->
 
 <figure>
     <a href="images/Zerbst/zerbst-01.jpg" id="single_image" title="Vue du camp de Zerbst">

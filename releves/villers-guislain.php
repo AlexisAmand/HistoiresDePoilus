@@ -26,18 +26,16 @@
 
 <header>
 	
-    <div id="rezo">
-    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png"    alt="logo facebook"   />
-        </a>
-        <img src="../images/googleplus.png"    alt="logo Google Plus"   /> 
-	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png"    alt="logo Twitter"   />
-        </a>
-    </div>
-    
-<a href="../index.php" title="retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
+  <div id="rezo">
+    <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
+      <img src="../images/facebook.png" alt="logo facebook" /></a>
+      <img src="../images/googleplus.png" alt="logo Google Plus" /> 
+    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
+      <img src="../images/twitter.png" alt="logo Twitter"   /></a>
+  </div>
+  
+<a href="../index.php" title="Retour sur la page d'accueil du site">
+<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
 </header>
    
@@ -57,33 +55,35 @@
 
 <aside>
 
-	<ul>
-        <li><a href="anzin.php">Anzin (59)</a></li>
-    	<li><a href="betheniville.php">Bétheniville (51)</a></li>
-        <li><a href="bry.php">Bry (59)</a></li>
-        <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
-        <li><a href="daix.php">Daix (21)</a></li>
-        <li><a href="eth.php">Eth (59)</a></li>
-        
-        <li><a href="feucherolles.php">Feucherolles (78)</a></li>
-        <li><a href="frencq.php">Frencq (62)</a></li>
-        <li><a href="gelannes.php">Gélannes (10)</a></li>
-        <li><a href="gussignies.php">Gussignies (59)</a></li>
-        <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-        <li><a href="lourches.php">Lourches (59)</a></li>
+<ul>
+  <li><a href="anzin.php">Anzin (59)</a></li>
+  <li><a href="betheniville.php">Bétheniville (51)</a></li>
+  <li><a href="bry.php">Bry (59)</a></li>
+  <li><a href="coulsore.php">Coulsore (59)</a></li>
+  <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
 
-        <li><a href="onnaing.php">Onnaing (59)</a></li>       
-        <li><a href="quarouble.php">Quarouble (59)</a></li>
-        <li><a href="roeulx.php">Roeulx (59)</a></li>
-        <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
-        <li><a href="saultain.php">Saultain (59)</a></li>
-        <li><a href="sebourg.php">Sebourg (59)</a></li>
+  <li><a href="daix.php">Daix (21)</a></li>
+  <li><a href="eth.php">Eth (59)</a></li>
+  <li><a href="feucherolles.php">Feucherolles (78)</a></li>
+  <li><a href="frencq.php">Frencq (62)</a></li>
+  <li><a href="gelannes.php">Gélannes (10)</a></li>
 
-        <li><a href="verpel.php">Verpel (08)</a></li>
-        <li><a href="vicq.php">Vicq (59)</a></li>
-        <li><a href="villers-guislain.php"  class="AsideSelected">Villers-Guislain (59)</a></li>
-        <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
-   </ul>
+  <li><a href="gussignies.php">Gussignies (59)</a></li>
+  <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
+  <li><a href="lourches.php">Lourches (59)</a></li>
+  <li><a href="onnaing.php">Onnaing (59)</a></li>       
+  <li><a href="quarouble.php">Quarouble (59)</a></li>
+
+  <li><a href="roeulx.php">Roeulx (59)</a></li>
+  <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
+  <li><a href="saultain.php">Saultain (59)</a></li>
+  <li><a href="sebourg.php">Sebourg (59)</a></li>
+  <li><a href="verpel.php">Verpel (08)</a></li>
+
+  <li><a href="vicq.php">Vicq (59)</a></li>
+  <li><a href="villers-guislain.php"  class="AsideSelected">Villers-Guislain (59)</a></li>
+  <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
+</ul>
    
     <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -105,14 +105,16 @@
 
 <p>(Relevé en cours)</p>
 
-    <figure>
-        <img src="images/mini/monument-villers-guislain.jpg" alt="Le monuments aux Morts pour la France de Villers-Guislain">
-        <figcaption>Le Monument aux Morts de Villers-Guislain<br />(Source: Université de Lille 3)</figcaption>
-    </figure>
+  <figure>
+      <img src="images/mini/monument-villers-guislain.jpg" alt="Le monuments aux Morts pour la France de Villers-Guislain">
+      <figcaption>Le Monument aux Morts de Villers-Guislain<br />(Source: Université de Lille 3)</figcaption>
+  </figure>
 	
 <p></p>
-    <p>Voici la liste des morts pour la France de Villers-Guislain (Nord) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit commentaire</a>.</p>
-<br />
+
+<p>Voici la liste des morts pour la France de Villers-Guislain (Nord) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit commentaire</a>.</p>
+
+<p></p>
 
 <table>
   <thead>
@@ -123,9 +125,8 @@
     <td width="45px">Classe</td>
     <td width="70px">Corps</td>
     <td width="90px">Genre<br />de mort</td>
-   </tr>
-   </thead>
-    
+  </tr>
+  </thead>   
   <tr>
     <td>BARBARE<br />André</td>
     <td>Le 10 mai 1890<br />à Villers-Guislain (59)</td>
@@ -133,7 +134,7 @@
     <td>1910</td>
     <td>1er R.I</td>
     <td>tué à l'ennemi</td>
-    </tr>
+  </tr>
   <tr>
     <td>BARBARE<br />Jean</td>
     <td>&nbsp;</td>
@@ -141,7 +142,7 @@
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    </tr>
+  </tr>
   <tr>
     <td>BEGARD<br />Georges Louis Désiré</td>
     <td>Le 16 décembre 1873<br />à Villers-Guislain (59)</td>
@@ -149,7 +150,7 @@
     <td>1893</td>
     <td>12e R.I.T</td>
     <td>tué à l'ennemi</td>
-    </tr>
+  </tr>
   <tr>
     <td>BOITELLE<br />Georges Joseph Guislain</td>
     <td>Le 5 juillet 1882<br />à Villers-Guislain (59)</td>
@@ -157,7 +158,7 @@
     <td>1902</td>
     <td>361e R.I</td>
     <td>maladie contractée<br />aux armées</td>
-    </tr>
+  </tr>
   <tr>
     <td>BROIE<br />Alexis</td>
     <td>Le 23 décembre 1892<br />à Villers-Guislain (59)</td>
@@ -165,7 +166,7 @@
     <td>1912</td>
     <td>127e R.I</td>
     <td>tué à l'ennemi</td>
-    </tr>
+  </tr>
   <tr>
     <td>BROIE<br />Jules</td>
     <td>Le 9 avril 1895<br />à Villers-Guislain (59)<br /></td>
@@ -173,7 +174,7 @@
     <td>1915</td>
     <td>106e R.I</td>
     <td>Blessure de guerre</td>
-    </tr>
+  </tr>
   <tr>
     <td>BROIE<br />Louis Hubert</td>
     <td>Le 7 février 1877<br />à Villers-Guislain (59)</td>
@@ -181,7 +182,7 @@
     <td>1897</td>
     <td>3e R.I.T</td>
     <td>des suites de maladie</td>
-    </tr>
+  </tr>
   <tr>
     <td>BROUETTE<br />Léon Louis Florentin</td>
     <td>Le 12 février 1893<br />à Villers-Faucon (80)</td>

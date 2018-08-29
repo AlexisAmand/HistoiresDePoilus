@@ -53,31 +53,37 @@
         <li><a href="camp-czersk.php" class="AsideSelected">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
+
         <li><a href="camp-friedberg.php">Friedberg</a></li>
         <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camp-giessen.php">Giessen</a></li>
         <li><a href="camp-gorlitz.php">Görlitz</a></li>
+
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
         <li><a href="camp-guben.php">Guben</a></li>
         <li><a href="camp-hammelburg.php">Hammelburg</a></li>
         <li><a href="camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camp-herne.php">Herne</a></li>
+
         <li><a href="camp-heuberg.php">Heuberg</a></li>
         <li><a href="camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camp-limburg.php">Limburg</a></li>
         <li><a href="camp-mannheim.php">Mannheim</a></li>        
         <li><a href="camp-meschede.php">Meschede</a></li>
+
         <li><a href="camp-merzdorf.php">Merzdorf</a></li>
         <li><a href="camp-meyenburg.php">Meyenburg</a></li>
     	<li><a href="camp-minden.php">Minden</a></li>
         <li><a href="camp-munster.php">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
+
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
+        
         <li><a href="camp-zerbst.php">Zerbst</a></li>
         <li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li> 
    </ul>
@@ -100,7 +106,7 @@
 
 <h1>Le camp de prisonniers de Czersk</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><br /><p>Le camp de Czersk était situé en Poméranie (Prusse Orientale).</p><p>En 1918, pour les pansements comme pour la nourriture de nombreux erzatz règnent, comme en témoigne une note&nbsp; de service du lazaret du camp de Czersk datée d&#39;août qui recommande <em>&quot;qu&#39;en ce qui concerne le matériel de pansement, l&#39;économie la plus grand doit être pratiquée, comme ont doit aussi tendre à le pratiquer rigoussement dans les hôpitaux allemands.&quot;</em></p><br />
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br /><p>Le camp de Czersk était situé en Poméranie (Prusse Orientale).</p><p>En 1918, pour les pansements comme pour la nourriture de nombreux erzatz règnent, comme en témoigne une note&nbsp; de service du lazaret du camp de Czersk datée d'août qui recommande <em>"qu'en ce qui concerne le matériel de pansement, l'économie la plus grand doit être pratiquée, comme ont doit aussi tendre à le pratiquer rigoureusement dans les hôpitaux allemands."</em></p><br />
 
 <figure>
     <a href="images/Czersk/Czersk-01.jpg" id="single_image" title="Le camp de Czersk">

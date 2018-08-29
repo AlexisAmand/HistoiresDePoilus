@@ -26,18 +26,16 @@
 
 <header>
 	
-    <div id="rezo">
-    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png"    alt="logo facebook"   />
-        </a>
-        <img src="../images/googleplus.png"    alt="logo Google Plus"   /> 
-	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png"    alt="logo Twitter"   />
-        </a>
-    </div>
-    
-<a href="../index.php" title="retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
+  <div id="rezo">
+    <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
+      <img src="../images/facebook.png" alt="logo facebook" /></a>
+      <img src="../images/googleplus.png" alt="logo Google Plus" /> 
+    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
+      <img src="../images/twitter.png" alt="logo Twitter"   /></a>
+  </div>
+  
+<a href="../index.php" title="Retour sur la page d'accueil du site">
+<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
 </header>
    
@@ -57,33 +55,35 @@
 
 <aside>
 
-	<ul>
-        <li><a href="anzin.php">Anzin (59)</a></li>
-    	<li><a href="betheniville.php">Bétheniville (51)</a></li>
-        <li><a href="bry.php">Bry (59)</a></li>
-        <li><a href="capelle.php"  class="AsideSelected">Capelle-sur-Ecaillon (59)</a></li>
-        <li><a href="daix.php">Daix (21)</a></li>
-        <li><a href="eth.php">Eth (59)</a></li>
-   
-        <li><a href="feucherolles.php">Feucherolles (78)</a></li>
-        <li><a href="frencq.php">Frencq (62)</a></li>
-        <li><a href="gelannes.php">Gélannes (10)</a></li>
-        <li><a href="gussignies.php">Gussignies (59)</a></li>
-        <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-    	<li><a href="lourches.php">Lourches (59)</a></li>
-        
-        <li><a href="onnaing.php">Onnaing (59)</a></li>    
-        <li><a href="quarouble.php">Quarouble (59)</a></li>
-        <li><a href="roeulx.php">Roeulx (59)</a></li>
-        <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
-        <li><a href="saultain.php">Saultain (59)</a></li>
-        <li><a href="sebourg.php">Sebourg (59)</a></li>
-        
-        <li><a href="verpel.php">Verpel (08)</a></li>
-        <li><a href="vicq.php">Vicq (59)</a></li>
-        <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
-        <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
-   </ul>
+<ul>
+  <li><a href="anzin.php">Anzin (59)</a></li>
+  <li><a href="betheniville.php">Bétheniville (51)</a></li>
+  <li><a href="bry.php">Bry (59)</a></li>
+  <li><a href="coulsore.php">Coulsore (59)</a></li>
+  <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
+
+  <li><a href="daix.php">Daix (21)</a></li>
+  <li><a href="eth.php">Eth (59)</a></li>
+  <li><a href="feucherolles.php">Feucherolles (78)</a></li>
+  <li><a href="frencq.php">Frencq (62)</a></li>
+  <li><a href="gelannes.php">Gélannes (10)</a></li>
+
+  <li><a href="gussignies.php">Gussignies (59)</a></li>
+  <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
+  <li><a href="lourches.php">Lourches (59)</a></li>
+  <li><a href="onnaing.php">Onnaing (59)</a></li>    
+  <li><a href="quarouble.php">Quarouble (59)</a></li>
+
+  <li><a href="roeulx.php">Roeulx (59)</a></li>
+  <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
+  <li><a href="saultain.php">Saultain (59)</a></li>
+  <li><a href="sebourg.php">Sebourg (59)</a></li>
+  <li><a href="verpel.php">Verpel (08)</a></li>
+
+  <li><a href="vicq.php">Vicq (59)</a></li>
+  <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
+  <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
+</ul>
    
     <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -103,12 +103,13 @@
 
 <h1>Relevé des morts pour la France à Capelle-sur-Ecaillon</h1>
 
-	<p style="text-align:center;">
-    - Cette page est en cours de rédaction -
-    </p>
+<p style="text-align:center;">- Cette page est en cours de rédaction -</p>
 	
 <p></p>
-    <p>Voici la liste des morts pour la France et des victimes civiles de Capelle-sur-Ecaillon (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php">laissant un petit message.</a></p>
+
+<p>Voici la liste des morts pour la France et des victimes civiles de Capelle-sur-Ecaillon (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php">laissant un petit message.</a></p>
+
+<p></p>
 
 <table>
   <thead>
@@ -144,7 +145,7 @@
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>Photo<br/>du monument</td>
-    </tr>
+  </tr>
   <tr>
     <td>DECOSTER<br/>Edouard Gaston</td>
     <td>11 octobre 1882<br/>Saint-Pol-sur-Mer</td>
@@ -152,24 +153,24 @@
     <td>12 décembre 1914<br/>Orléans (Loiret)</td>
     <td>Radié</td>
     <td>Livre<br/>d'or</td>
-    </tr>
-   <tr>
+  </tr>
+  <tr>
     <td>LECAIL<br/>Adèle</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>Victime<br/>civile</td>
     <td>Photo<br/>du monument</td>
-    </tr>
-    <tr>
+  </tr>
+  <tr>
     <td>MALAQUIN<br/>Edmond</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>Victime<br/>civile</td>
     <td>Photo<br/>du monument</td>
-    </tr>
-    <tr>
+  </tr>
+  <tr>
     <td>NOISETTE<br/>Hubert</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -184,7 +185,7 @@
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>Photo<br/>du monument</td>
-    </tr> 
+  </tr> 
     
   </table>
 
@@ -204,35 +205,7 @@
     <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
 </footer>
 
-<!-- Piwik -->
-<script type="text/javascript">
-var _paq = _paq || [];
-_paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-_paq.push(['trackPageView']);
-_paq.push(['enableLinkTracking']);
-(function() {
-var u="//www.genealexis.fr/piwik/";
-_paq.push(['setTrackerUrl', u+'piwik.php']);
-_paq.push(['setSiteId', 4]);
-var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-})();
-</script>
-<noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
-<!-- End Piwik Code -->
-
-
-
-<!-- Google Ana -->
-
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-11509906-21', 'auto');
-ga('send', 'pageview');
-</script>   
+<?php include('../include/stats.inc'); ?>
 
 <!-- javascript -->
 

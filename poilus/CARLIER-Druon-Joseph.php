@@ -50,22 +50,26 @@
     	<li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
-        <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>      
+        <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>   
+
         <li><a href="CARLIER-Druon-Joseph.php" class="AsideSelected">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
+
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
+        
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
         <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
@@ -109,7 +113,7 @@
     <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
 </figure>
 
-<p>Durant son service militaire, <strong>Druon Joseph CARLIER</strong> est incorporé comme soldat de 2e classe au <strong>1er Régiment d’Infanterie</strong> sous le matricule n°8102 le 15 novembre 1897. C'est un régiment qui est né en 1479 et est issu des &quot;bandes de Picardie&quot;. Il a traversé toutes les époques en participant à toutes les campagnes qui ont fait la France.</p>
+<p>Durant son service militaire, <strong>Druon Joseph CARLIER</strong> est incorporé comme soldat de 2e classe au <strong>1er Régiment d’Infanterie</strong> sous le matricule n°8102 le 15 novembre 1897. C'est un régiment qui est né en 1479 et est issu des "bandes de Picardie". Il a traversé toutes les époques en participant à toutes les campagnes qui ont fait la France.</p>
 <p>En application de la décision ministérielle du 21 septembre 1898, il passe au <strong>1er Régiment d’Infanterie de Marine</strong> le 1er décembre 1898 et est immatriculé sous le n° A 7225. Le 16 septembre 1899, il devient soldat de 1e classe. Il ne s’agit pas d’un grade mais plutôt d’une distinction qui permettrait d’accéder ensuite au grade de caporal. Il est envoyé en congé en attendant son passage dans la réserve avec un certificat de bonne conduite accordé le 28 septembre 1900.</p>
 
 <figure>
@@ -173,7 +177,7 @@
     <a href="sources/druon-carlier-ancien-combattant.jpg" id="single_image" title="La carte d'ancien combattant de Druon Joseph CARLIER">
     <img src="miniatures/druon-carlier-ancien-combattant.jpg" alt="carte d'ancien combattant de Druon CARLIER"/>
     </a>
-    <figcaption>Carte d&#39;ancien combattant ayant appartenu à Druon</figcaption>
+    <figcaption>Carte d'ancien combattant ayant appartenu à Druon</figcaption>
 </figure>
 
 <h2>Sources et bibliographie</h2>

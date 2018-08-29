@@ -108,7 +108,7 @@
   </tr>    
   <tr>
         <td>Belgique</td>
-        <td>Le Siège d&#39;Anvers</td>
+        <td>Le Siège d'Anvers</td>
         <td>Du 28 septembre 1914<br />au 10 octobre 1914</td>
         <td>Victoire allemande</td>
   </tr>    
@@ -120,20 +120,20 @@
   </tr>    
   <tr>
         <td>Fleuve Yser<br />(Belgique)</td>
-        <td>La Bataille de l&#39;Yser</td>
+        <td>La Bataille de l'Yser</td>
         <td>Du 16 octobre 1914<br />au 31 octobre 1914</td>
         <td>Victoire franco-belge</td>
   </tr>    
   <tr>
         <td>Flandres<br />(Belgique)</td>
-        <td>La 1er Bataille d&#39;Ypres</td>
+        <td>La 1er Bataille d'Ypres</td>
         <td>Du 29 octobre 1914<br />au 24 novembre 1914</td>
         <td>Victoire décisive alliée</td>
   </tr>    
   <tr>
         <td>France et Belgique</td>
         <td>La course à la mer</td>
-        <td>D&#39;octobre 1914<br />à novembre 1914</td>
+        <td>D'octobre 1914<br />à novembre 1914</td>
         <td>&nbsp;</td>
   </tr>    
   <tr>
@@ -178,7 +178,7 @@
   </tr>    
   <tr>
         <td rowspan="4">Flandres<br />(Belgique)</td>
-        <td rowspan="4">La 2e Bataille d&#39;Ypres</td>
+        <td rowspan="4">La 2e Bataille d'Ypres</td>
         <td>Bataille de Gravenstafel</td>
         <td>Du 22 avril 1915<br />au 23 avril 1915</td>
         <td rowspan="4">Indécise</td>
@@ -197,7 +197,7 @@
   </tr>    
   <tr>
         <td>Artois<br />(France)</td>
-        <td colspan="2">La Bataille de l&#39;Artois</td>
+        <td colspan="2">La Bataille de l'Artois</td>
         <td>Du 8 mai 1915<br />au 25 juin 1915</td>
         <td>Indécise</td>
   </tr>    
@@ -215,7 +215,7 @@
   </tr>    
   <tr>
         <td>Artois<br />(France)</td>
-        <td colspan="2">La Bataille de l&#39;Artois</td>
+        <td colspan="2">La Bataille de l'Artois</td>
         <td>Du 15 septembre 1915<br />au 4 novembre 1915</td>
         <td>Indécise</td>
   </tr>    
@@ -255,7 +255,7 @@
   </tr>    
   <tr>
         <td>Pas-de-Calais<br />(France)</td>
-        <td>La Bataille d&#39;Hulluch</td>
+        <td>La Bataille d'Hulluch</td>
         <td>Du 27 avril 1916<br />au 29 avril 1916</td>
         <td>Victoire britannique</td>
   </tr>    
@@ -299,7 +299,7 @@
   </tr>    
   <tr>
         <td>Pas-de-Calais<br />(Arras)</td>
-        <td>La Bataille d&#39;Arras</td>
+        <td>La Bataille d'Arras</td>
         <td>Du 9 avril 1917<br />au 16 mai 1917</td>
         <td><em>Statu quo</em></td>
   </tr>    
@@ -329,7 +329,7 @@
   </tr>    
   <tr>
         <td>Flandres<br />(Belgique)</td>
-        <td>La Bataille de Passchendaele<br />(La 3e Bataille d&#39;Ypres)</td>
+        <td>La Bataille de Passchendaele<br />(La 3e Bataille d'Ypres)</td>
         <td>Du 31 juillet 1917<br />au 6 novembre 1917</td>
         <td>Indécise</td>
   </tr>    
@@ -358,8 +358,8 @@
  
 <figure>
     <a href="images/bois-belleau.jpg" id="single_image" title="Les soldats américains au Bois Belleau">
-    <img src="images/miniatures/bois-belleau.jpg" alt="les troupes américaines au Bois Belleau pendant la Première Geurre Mondiale"></a>
-    <figcaption>La brigade marine Americaine au Bois de Belleau.<br />(Georges Scott, 1921)</figcaption>
+    <img src="images/miniatures/bois-belleau.jpg" alt="les troupes américaines au Bois Belleau pendant la Première Guerre Mondiale"></a>
+    <figcaption>La brigade marine Américaine au Bois de Belleau.<br />(Georges Scott, 1921)</figcaption>
 </figure>
     
   <table>
@@ -375,18 +375,18 @@
         <td>Nord (France) et Flandres (Belgique)</td>
         <td colspan="2">Les Offensives de Printemps<br />(ou Bataille du Kaiser)</td>
         <td>Du 21 mars 1918<br />au 3 juin 1918</td>
-        <td>Echec de l&#39;offensive allemande</td>
+        <td>Echec de l'offensive allemande</td>
   </tr>    
   <tr>
         <td>Flandres<br />
             (Belgique)</td>
-        <td colspan="2">La Bataille de la Lys<br />(ou 4e Bataille d&#39;Ypres)</td>
+        <td colspan="2">La Bataille de la Lys<br />(ou 4e Bataille d'Ypres)</td>
         <td>Du 9 avril 1918<br />au 29 avril 1918</td>
         <td>Indécise</td>
   </tr>    
   <tr>
         <td>Aisne<br />(France)</td>
-        <td colspan="2">La 3e Bataille de l&#39;Aisne</td>
+        <td colspan="2">La 3e Bataille de l'Aisne</td>
         <td>Du 27 mai 1918<br />au 17 juillet 1918</td>
         <td>Avancée allemande stoppée</td>
   </tr>    
@@ -421,22 +421,22 @@
         <td>Victoire alliée</td>
   </tr>    
   <tr>
-        <td rowspan="6">D&#39;Amiens (France) à Mons (Belgique)</td>
+        <td rowspan="6">D'Amiens (France) à Mons (Belgique)</td>
         <td rowspan="6">Les 100 jours</td>
         <td>Troisième Bataille de Picardie</td>
         <td>Du 8 août 1918<br />au 14 septembre 1918</td>
         <td rowspan="6">Victoire offensive des Alliés</td>
   </tr>    
   <tr>
-        <td>Poussée vers la position d&#39;Hindeburg</td>
+        <td>Poussée vers la position d'Hindeburg</td>
         <td>Du 29 août 1918<br />au 20 septembre 1918</td>
   </tr>    
   <tr>
-        <td>Bataille de Champagne et d&#39;Argonne</td>
+        <td>Bataille de Champagne et d'Argonne</td>
         <td>Du 26 septembre 1918<br />au 15 octobre 1918</td>
   </tr>    
   <tr>
-        <td>Bataille de l&#39;Oise, de la Serre et de l&#39;Aisne</td>
+        <td>Bataille de l'Oise, de la Serre et de l'Aisne</td>
         <td>Du 29 septembre 1918<br />au 30 octobre 1918</td>
   </tr>    
   <tr>

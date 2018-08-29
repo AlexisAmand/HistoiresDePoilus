@@ -60,21 +60,25 @@
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
+
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php" class="AsideSelected">CARLIER Louis Abraham</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
+
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>        
+        
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
         <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
@@ -109,7 +113,7 @@
     <figcaption>Arbre simplifié de la famille CARLIER<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<p>Comme lui, il est le fils de Druon Joseph CARLIER et de Sidonie Célestine PATOU. Ouvrier agricole chez LENGRAND à Sebourg, Louis s'unit avec Volaine GRAVELLE. Le couple aura 5 enfants: Valérine (née en 1869), Louis Druon (né en 1898), Yvonne (née en 1901), Louise (née en 1903) et Blondine Clémence (née en 1908). En 1906, il est ouvrier agricole chez Lengrand et vit à Sebourg (Rue de l&#39;église) avec son épouse, Volcide GRAVELLE, et ses 4 enfants: Olia, Louis, Yvonne et Louise.</p>
+<p>Comme lui, il est le fils de Druon Joseph CARLIER et de Sidonie Célestine PATOU. Ouvrier agricole chez LENGRAND à Sebourg, Louis s'unit avec Volaine GRAVELLE. Le couple aura 5 enfants: Valérine (née en 1869), Louis Druon (né en 1898), Yvonne (née en 1901), Louise (née en 1903) et Blondine Clémence (née en 1908). En 1906, il est ouvrier agricole chez Lengrand et vit à Sebourg (Rue de l'église) avec son épouse, Volcide GRAVELLE, et ses 4 enfants: Olia, Louis, Yvonne et Louise.</p>
 
 <br/><h2>La mobilisation d'août 1914</h2>
 

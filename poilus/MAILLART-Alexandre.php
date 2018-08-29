@@ -62,21 +62,25 @@
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php" >CARIN Théophile</a></li>
+
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
+
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php" class="AsideSelected">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
+        
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
         <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
@@ -102,25 +106,30 @@
 
 <h1>Alexandre Ernest MAILLART</h1>
 
-<p><strong>Alexandre Ernest MAILLART </strong>est né le 24 juillet 1874 à <a href="../releves/betheniville.php">Bétheniville</a>, fils d’Achille Onésiphore et Julie Adèle BALTAZART, elle-même fille de Jean-Baptiste et Julie Joséphine KRAUTH (mes sosas n°116 et n°117).&nbsp; Alexandre est le cousin d&#39;<a href="BALTAZART-Ernest-Auguste.php">Ernest Auguste BALTAZART</a>.</p>
-    <p>Le 18 septembre 1899, Alexandre épouse à Boult-sur-Suippe (Marne) Marie Berthe GAUCHET, âgée de 25 ans, fille légitime d’Hyppolyte et Marie-Zélie SOMMELIER. Lors de son mariage, Alexandre travaille pour la Compagnie des Chemins de Fer de l’Est. Leur fils Marcel naît à Bar-le-Duc (Meuse) le 9 mai 1901, rue des romains.</p>
+<p><strong>Alexandre Ernest MAILLART </strong>est né le 24 juillet 1874 à <a href="../releves/betheniville.php">Bétheniville</a>, fils d’Achille Onésiphore et Julie Adèle BALTAZART, elle-même fille de Jean-Baptiste et Julie Joséphine KRAUTH (mes sosas n°116 et n°117).&nbsp; Alexandre est le cousin d'<a href="BALTAZART-Ernest-Auguste.php">Ernest Auguste BALTAZART</a>.</p>
+
+<figure>
+    <a href="images/arbre-maillart.png" id="single_image" title="Arbre simplifié de la famille MAILLART-BALTAZART">
+    <img src="miniatures/arbre-maillart.png" alt="Arbre généalogique simplifié de la famille MAILLART-BALTAZART" style="box-shadow:none;width:650px;"/></a>
+    <figcaption>Arbre simplifié de la famille MAILLART-BALTAZART<br />(cliquez pour agrandir)</figcaption>
+</figure>
+
+<p>Le 18 septembre 1899, Alexandre épouse à Boult-sur-Suippe (Marne) Marie Berthe GAUCHET, âgée de 25 ans, fille légitime d’Hyppolyte et Marie-Zélie SOMMELIER. Lors de son mariage, Alexandre travaille pour la Compagnie des Chemins de Fer de l’Est. Leur fils Marcel naît à Bar-le-Duc (Meuse) le 9 mai 1901, rue des romains.</p>
 
 <figure>
     <a href="images/matricule-alexandre-maillart.jpg" id="single_image" title="Extrait de sa fiche matricule">
-    <img src="miniatures/matricule-alexandre-maillart.jpg" alt="Extrait de la fiche matricule d'Alexandre MAILLART"/>
-    </a>
+    <img src="miniatures/matricule-alexandre-maillart.jpg" alt="Extrait de la fiche matricule d'Alexandre MAILLART"/></a>
     <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
 <p>A la mobilisation, <strong>Alexandre</strong> est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des <strong>Sections de Chemins de Fer de Campagne</strong> du 2 août 1914 au 5 janvier 1919. Je sais que, pour de nombreux lecteurs, cette affectation ne fait pas de lui un poilu au sens strict du terme, car il n’était pas dans l’enfer de Verdun ou dans la boue des tranchées. Mais laissez-moi vous raconter la suite.</p>
 
-<p>Il est inscrit au tableau spécial de la médaille militaire d’employé principal de 2e classe à la <strong>6e Section de Chemin de Fer de Campagne</strong> : <em>&quot;Détaché dans une gare depuis le 12 février 1915, il a assuré avec beaucoup de zèle, de sang-froid et sans défaillances le service de cette gare et jusqu’à ce que l’intensité du bombardement sur la ligne et sur la station l’ait obligé à s’en éloigner le 22 février 1916 au soir. Au cours de plus de 20 bombardements dirigés sur la localité et sur la voie ferrée, il a pris a chaque fois que les circonstances l’ont commandé les dispositions convenables pour empêcher les trains de franchir la zone bombardée et assurer leur passage à l’issue du bombardement. (arrêté ministériel du 20-4-16 et J.O du 23-4-16). La gare n'est pas indiquée sur le JO.&quot;</em></p>
+<p>Il est inscrit au tableau spécial de la médaille militaire d’employé principal de 2e classe à la <strong>6e Section de Chemin de Fer de Campagne</strong> : <em>"Détaché dans une gare depuis le 12 février 1915, il a assuré avec beaucoup de zèle, de sang-froid et sans défaillances le service de cette gare et jusqu’à ce que l’intensité du bombardement sur la ligne et sur la station l’ait obligé à s’en éloigner le 22 février 1916 au soir. Au cours de plus de 20 bombardements dirigés sur la localité et sur la voie ferrée, il a pris a chaque fois que les circonstances l’ont commandé les dispositions convenables pour empêcher les trains de franchir la zone bombardée et assurer leur passage à l’issue du bombardement. (arrêté ministériel du 20-4-16 et J.O du 23-4-16). La gare n'est pas indiquée sur le JO."</em></p>
 
 <h2>Sources et bibliographie</h2>
     
     <ul>
-         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
-       
+        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
     </ul>
 
 <p class="sources">

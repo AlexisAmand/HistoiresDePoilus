@@ -4,13 +4,13 @@
 
 <meta charset="utf-8">
           
-<title>Relevé des morts pour la France de Feucherolles - Histoires de Poilus</title>
-<meta content="relevés des soldats et des civils de Feucherolles (Yvelines) morts pour la France pendant la Première Guerre Mondiale (1914-1918)">
+<title>Relevé des morts pour la France de Coulsore - Histoires de Poilus</title>
+<meta content="relevés des soldats et des civils de Coulsore morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or">
     
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-                
+                   
 </head>
 
 <body>
@@ -26,14 +26,14 @@
 
 <header>
 	
-  <div id="rezo">
-    <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-      <img src="../images/facebook.png" alt="logo facebook" /></a>
-      <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-      <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-  </div>
-  
+    <div id="rezo">
+    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
+        <img src="../images/facebook.png" alt="logo facebook" /></a>
+        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
+	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
+        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
+    </div>
+    
 <a href="../index.php" title="Retour sur la page d'accueil du site">
 <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
@@ -56,56 +56,56 @@
 <aside>
 
 <ul>
-  <li><a href="anzin.php">Anzin (59)</a></li>
-  <li><a href="betheniville.php">Bétheniville (51)</a></li>
-  <li><a href="bry.php">Bry (59)</a></li>
-  <li><a href="coulsore.php">Coulsore (59)</a></li>
-  <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
+    <li><a href="anzin.php">Anzin (59)</a></li>
+    <li><a href="betheniville.php">Bétheniville (51)</a></li>
+    <li><a href="bry.php">Bry (59)</a></li>
+    <li><a href="coulsore.php" class="AsideSelected">Coulsore (59)</a></li>
+    <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
 
-  <li><a href="daix.php">Daix (21)</a></li>
-  <li><a href="eth.php">Eth (59)</a></li>
-  <li><a href="feucherolles.php"  class="AsideSelected">Feucherolles (78)</a></li>
-  <li><a href="frencq.php">Frencq (62)</a></li>
-  <li><a href="gelannes.php">Gélannes (10)</a></li>
+    <li><a href="daix.php">Daix (21)</a></li>
+    <li><a href="eth.php">Eth (59)</a></li>
+    <li><a href="feucherolles.php">Feucherolles (78)</a></li>
+    <li><a href="frencq.php">Frencq (62)</a></li>
+    <li><a href="gelannes.php">Gélannes (10)</a></li>
 
-  <li><a href="gussignies.php">Gussignies (59)</a></li>
-  <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-  <li><a href="lourches.php">Lourches (59)</a></li>
-  <li><a href="onnaing.php">Onnaing (59)</a></li>     
-  <li><a href="quarouble.php">Quarouble (59)</a></li>
+    <li><a href="gussignies.php">Gussignies (59)</a></li>
+    <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
+    <li><a href="lourches.php">Lourches (59)</a></li>
+    <li><a href="onnaing.php">Onnaing (59)</a></li>    
+    <li><a href="quarouble.php">Quarouble (59)</a></li>
 
-  <li><a href="roeulx.php">Roeulx (59)</a></li>
-  <li><a href="saint-hilaire-le-petit.php" >Saint-Hilaire-le-Petit (51)</a></li>
-  <li><a href="saultain.php">Saultain (59)</a></li>
-  <li><a href="sebourg.php">Sebourg (59)</a></li>
-  <li><a href="verpel.php">Verpel (08)</a></li>
+    <li><a href="roeulx.php">Roeulx (59)</a></li>
+    <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
+    <li><a href="saultain.php">Saultain (59)</a></li>
+    <li><a href="sebourg.php">Sebourg (59)</a></li>
+    <li><a href="verpel.php">Verpel (08)</a></li>
 
-  <li><a href="vicq.php">Vicq (59)</a></li>
-  <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
-  <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
+    <li><a href="vicq.php">Vicq (59)</a></li>
+    <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
+    <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
 </ul>
    
-      <div id="pubaside">
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <!-- Poilus -->
-    <ins class="adsbygoogle"
-     style="display:inline-block;width:160px;height:600px"
-     data-ad-client="ca-pub-1550427609493753"
-     data-ad-slot="8236218848"></ins>
-    <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-   </div>
+<div id="pubaside">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Poilus -->
+<ins class="adsbygoogle"
+    style="display:inline-block;width:160px;height:600px"
+    data-ad-client="ca-pub-1550427609493753"
+    data-ad-slot="8236218848"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
    
 </aside>
 
 <article>
 
-<h1>Relevé des morts pour la France à Feucherolles</h1>
+<h1>Relevé des morts pour la France à Coulsore</h1>
 
-<p>Voici la liste des morts pour la France de Feucherolles (Yvelines) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit commentaire</a>.</p>
-
-<p>Cette liste a été publiée une première fois sur mon ancien site "La Généalogie Entre Amis".</p>
+<p>(Relevé en cours)</p>
+	
+<p>Voici la liste des morts pour la France et des victimes civiles de Coulsore (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php">laissant un petit message.</a></p>
 
 <p></p>
 
@@ -115,235 +115,292 @@
     <td width="158px">Nom et prénom(s)</td>
     <td width="158px">Date et lieu<br />de naissance</td>
     <td width="158px">Date et lieu<br />de décès</td>
+    <td width="45px">Classe</td>
     <td width="70px">Corps</td>
     <td width="90px">Genre<br />de mort</td>
    </tr>
    </thead>
-   <tr>
-    <td>AUFFRAY<br />Jean-François</td>
-    <td>10 janvier 1878<br />Feucherolles</td>
-    <td>22 avril 1917<br>Bouleuse (Marne)</td>
-    <td>403e RI</td>
-    <td>&nbsp;</td>
-  </tr> 
   <tr>
-    <td>BRAJEUL<br />Yves Marie</td>
-    <td>1er février 1880<br />Trévé (Côtes d'Armor)</td>
-    <td>23 décembre 1914<br />Verdun (Meuse)</td>
-    <td>255e RI</td>
+    <td>BATAILLE<br />Emile Joseph</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td>CHAMBRIN<br />Henri Émile<br /></td>
+    <td>BASTIEN<br />Emile Ghislain</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>BAUDUIN<br />Jean Baptiste Joseph</td>
+    <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     </tr>
-  <tr>
-    <td>CLAREC<br />Edouard Gustave</td>
+    <tr>
+    <td>BERRIER<br />Léon</td>
     <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>disparu</td>
-    </tr>
-  <tr>
-    <td>COLLON<br />Adolphe</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>CRENO<br />Théophile Marie</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     </tr>
-  <tr>
-    <td>DANO<br />Yves Marie Pascal</td>
+    <tr>
+    <td>BERTRAND<br>Albert</td>
     <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    </tr>
-  <tr>
-    <td>DOMALAIN<br />Louis Marie</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     </tr>
-  <tr>
-    <td>FOUQUE<br />Ernest André</td>
+    <tr>
+    <td>BIGOT<br />Jules</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>HERVE<br />François Victor</td>
     <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>BLAMPAIN<br />Aimable</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>HIAUX<br />Lucien Joseph</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>BONGNIART<br />Georges</td>
     <td>&nbsp;</td>
-    <td>disparu</td>
-  </tr>
-  <tr>
-    <td>HILLION<br />Victor Marie</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>LAPIERRE<br />Gustave</td>
+    </tr>
+    <tr>
+    <td>BRASSEUR<br />Jules</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>disparu</td>
-  </tr>
-  <tr>
-    <td>LAURENT<br />Paul Télésphore</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>BRICHANT<br />Aimé Elie</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>LAVAULT<br />André</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>BRUYERE<br />Jules</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>LAVAULT<br />Marie Louis</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>LEROY<br />Émile Charles</td>
+    </tr>
+    <tr>
+    <td>CAMPENS<br />Constant</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>LIEGE<br />Auguste Émile</td>
     <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>CLADET<br />Alfred Jules</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>MARIE<br />Léon</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>CLAUX<br />Hippolyte</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>MENAGER<br />Émile Henri</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>COLLARD<br />Ernest Walbert</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>MEURO<br />Raymond</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>MORET<br />Georges Alfred</td>
+    </tr>
+    <tr>
+    <td>COULONVAL<br />Adonis Renalde</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>NOGRET<br />Albert Léon</td>
     <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>COUTURE<br />Paul Gustave</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>disparu</td>
-  </tr>
-  <tr>
-    <td>PAULET<br />Mathurin</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>DAMART<br />Honoré</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>POISNEUF<br />François Marie</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>PRUNIER<br />Eugène Adolphe</td>
+    </tr>
+    <tr>
+    <td>DECAMPS<br />Georges</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    <td>disparu</td>
-  </tr>
-  <tr>
-    <td>RAOUL<br />Narcisse</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>DEDUIT<br />Jean Baptiste Henri</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>RAULT<br />Eugène François</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>DEGRICOURT<br />Emile</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>SIMON<br />Eugène Marie</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>SOLAIRE<br />Anatole Edmond</td>
+    </tr>
+    <tr>
+    <td>DEHU<br />Paul</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>THEFFO<br />Jean Marie</td>
     <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>DEHU<br />Raymond Prosper</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>ZIMMERMAN<br />Jean Henri</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>DELANNOY<br>Henri</td>
     <td>&nbsp;</td>
-    <td>disparu</td>
-  </tr>
-  </table>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>DUBOIS<br />Ulysse</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>DUPREZ<br />Alfred</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>FIEVET<br />Camille</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>GAFFORY<br />Toussaint</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>GEORGE<br />Alphonse Louis</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>GEORGE<br />Fernand Emile</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>GIBON<br/>Louis</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>HANNECART<br />Arthur Ernest</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>HANOTEAUX<br />Louis</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td><a href="../poilus/hanze-augustin">HANZE<br />Augustin Joseph</a></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+    <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+</table>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
@@ -377,7 +434,6 @@ g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.pare
 </script>
 <noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
-
 
 
 <!-- Google Ana -->

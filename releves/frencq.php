@@ -26,18 +26,16 @@
 
 <header>
 	
-    <div id="rezo">
-    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png"    alt="logo facebook"   />
-        </a>
-        <img src="../images/googleplus.png"    alt="logo Google Plus"   /> 
-	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png"    alt="logo Twitter"   />
-        </a>
-    </div>
-    
-<a href="../index.php" title="retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
+  <div id="rezo">
+    <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
+      <img src="../images/facebook.png" alt="logo facebook" /></a>
+      <img src="../images/googleplus.png" alt="logo Google Plus" /> 
+    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
+      <img src="../images/twitter.png" alt="logo Twitter"   /></a>
+  </div>
+  
+<a href="../index.php" title="Retour sur la page d'accueil du site">
+<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
 </header>
    
@@ -57,33 +55,35 @@
 
 <aside>
 
-	<ul>
-        <li><a href="anzin.php">Anzin (59)</a></li>
-    	<li><a href="betheniville.php">Bétheniville (51)</a></li>
-        <li><a href="bry.php">Bry (59)</a></li>
-        <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
-        <li><a href="daix.php">Daix (21)</a></li>
-        <li><a href="eth.php">Eth (59)</a></li>
+<ul>
+  <li><a href="anzin.php">Anzin (59)</a></li>
+  <li><a href="betheniville.php">Bétheniville (51)</a></li>
+  <li><a href="bry.php">Bry (59)</a></li>
+  <li><a href="coulsore.php">Coulsore (59)</a></li>
+  <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
 
-        <li><a href="feucherolles.php">Feucherolles (78)</a></li>
-        <li><a href="frencq.php"  class="AsideSelected">Frencq (62)</a></li>
-        <li><a href="gelannes.php">Gélannes (10)</a></li>
-        <li><a href="gussignies.php">Gussignies (59)</a></li>
-        <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-        <li><a href="lourches.php">Lourches (59)</a></li>
+  <li><a href="daix.php">Daix (21)</a></li>
+  <li><a href="eth.php">Eth (59)</a></li>
+  <li><a href="feucherolles.php">Feucherolles (78)</a></li>
+  <li><a href="frencq.php"  class="AsideSelected">Frencq (62)</a></li>
+  <li><a href="gelannes.php">Gélannes (10)</a></li>
 
-        <li><a href="onnaing.php">Onnaing (59)</a></li>     
-        <li><a href="quarouble.php">Quarouble (59)</a></li>
-        <li><a href="roeulx.php">Roeulx (59)</a></li>
-        <li><a href="saint-hilaire-le-petit.php" >Saint-Hilaire-le-Petit (51)</a></li>
-        <li><a href="saultain.php">Saultain (59)</a></li>
-        <li><a href="sebourg.php">Sebourg (59)</a></li>
+  <li><a href="gussignies.php">Gussignies (59)</a></li>
+  <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
+  <li><a href="lourches.php">Lourches (59)</a></li>
+  <li><a href="onnaing.php">Onnaing (59)</a></li>     
+  <li><a href="quarouble.php">Quarouble (59)</a></li>
 
-        <li><a href="verpel.php">Verpel (08)</a></li>
-        <li><a href="vicq.php">Vicq (59)</a></li>
-        <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
-        <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
-   </ul>
+  <li><a href="roeulx.php">Roeulx (59)</a></li>
+  <li><a href="saint-hilaire-le-petit.php" >Saint-Hilaire-le-Petit (51)</a></li>
+  <li><a href="saultain.php">Saultain (59)</a></li>
+  <li><a href="sebourg.php">Sebourg (59)</a></li>
+  <li><a href="verpel.php">Verpel (08)</a></li>
+
+  <li><a href="vicq.php">Vicq (59)</a></li>
+  <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
+  <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
+</ul>
    
       <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -107,7 +107,9 @@
 
 <p>Voici la liste des morts pour la France de Frencq (Pas-de-Calais) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit commentaire</a>.</p>
 
-<p>Cette liste a été publiée une première fois sur mon ancien site &quot;La Généalogie Entre Amis&quot;.</p>
+<p>Cette liste a été publiée une première fois sur mon ancien site "La Généalogie Entre Amis".</p>
+
+<p></p>
 
 <figure>
     <a href="images/monument-frencq.jpg" id="single_image" title="Le Monument aux Morts de Frencq">
@@ -115,6 +117,8 @@
     </a>
     <figcaption>Le monument commémoratif<br />(cliquez pour agrandir)</figcaption>
 </figure>
+
+<p></p>
 
 <table>
       <thead>  
@@ -127,320 +131,280 @@
       </tr>
       </thead>  
       <tr>
-        <td>BLIN<br />
-            Jean </td>
+        <td>BLIN<br />Jean </td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>Lieutenant</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>BLIN<br />
-            Fran&ccedil;ois</td>
+        <td>BLIN<br />François</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>BOMY<br />
-            Alphonse</td>
+        <td>BOMY<br />Alphonse</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>BOMY<br />
-            Fran&ccedil;ois</td>
+        <td>BOMY<br />Fran&ccedil;ois</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>BOULOGNE<br />
-            Auguste</td>
+        <td>BOULOGNE<br />Auguste</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>CHARTAUX<br />
-            Lucien</td>
+        <td>CHARTAUX<br />Lucien</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>DELHAYE<br />
-            Auguste Alexandre </td>
+        <td>DELHAYE<br />Auguste Alexandre </td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>DELHAYE<br />
-            Auguste Elis&eacute;e </td>
+        <td>DELHAYE<br />Auguste Elis&eacute;e </td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>DEPRE<br />
-            Gustave</td>
+        <td>DEPRE<br />Gustave</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>DE ROSAMEL<br />
-            Edouard</td>
+        <td>DE ROSAMEL<br />Edouard</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>Commandant</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>DOUCHIN<br />
-            Ulysse</td>
+        <td>DOUCHIN<br />Ulysse</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>DOUCHIN<br />
-            Louis</td>
+        <td>DOUCHIN<br />Louis</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>DUQUESNOY<br />
-            Cl&eacute;ment</td>
+        <td>DUQUESNOY<br />Cl&eacute;ment</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>FICHEUX<br />
-            Émile</td>
+        <td>FICHEUX<br />Émile</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>FOESS<br />
-            Charles</td>
+        <td>FOESS<br />Charles</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>FASQUEL<br />
-            Joseph</td>
+        <td>FASQUEL<br />Joseph</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>FOURDINIER<br />
-            Amable</td>
+        <td>FOURDINIER<br />Amable</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>FRERE<br />
-            Jean Baptiste</td>
+        <td>FRERE<br />Jean Baptiste</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>FRERE<br />
-            Andr&eacute;</td>
+        <td>FRERE<br />Andr&eacute;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>FRERE<br />
-            Auguste</td>
+        <td>FRERE<br />Auguste</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>FRERE<br />
-            Alexandre</td>
+        <td>FRERE<br />Alexandre</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>FRERE<br />
-            Edouard</td>
+        <td>FRERE<br />Edouard</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>HEQUET<br />
-            Bartholom&eacute;e</td>
+        <td>HEQUET<br />Bartholom&eacute;e</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>Capitaine</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>HODICQ<br />
-            Antoine</td>
+        <td>HODICQ<br />Antoine</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>HODICQ<br />
-            Raoul</td>
+        <td>HODICQ<br />Raoul</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>JENNEQUIN<br />
-            Alexandre</td>
+        <td>JENNEQUIN<br />Alexandre</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>KERTANTE<br />
-            Julien</td>
+        <td>KERTANTE<br />Julien</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>LAMARRE<br />
-            Louis</td>
+        <td>LAMARRE<br />Louis</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>LEBAS<br />
-            Émile</td>
+        <td>LEBAS<br />Émile</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>LEBAS<br />
-            Fran&ccedil;ois</td>
+        <td>LEBAS<br />Fran&ccedil;ois</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>LEBLOND<br />
-            Raoul</td>
+        <td>LEBLOND<br />Raoul</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>MARCQ<br />
-            Eug&egrave;ne</td>
+        <td>MARCQ<br />Eug&egrave;ne</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>MARCQ<br />
-            Francis</td>
+        <td>MARCQ<br />Francis</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>MARTEL<br />
-            Georges</td>
+        <td>MARTEL<br />Georges</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>MARTEL<br />
-            Louis</td>
+        <td>MARTEL<br />Louis</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>MIONNET<br />
-            Albert</td>
+        <td>MIONNET<br />Albert</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>MIONNET<br />
-            Louis</td>
+        <td>MIONNET<br />Louis</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>MIONNET<br />
-            Marcel</td>
+        <td>MIONNET<br />Marcel</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>SERGENT<br />
-            Auguste</td>
+        <td>SERGENT<br />Auguste</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>TROLLE<br />
-            Auguste</td>
+        <td>TROLLE<br />Auguste</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>

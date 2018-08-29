@@ -99,7 +99,7 @@
 				        <td>Victoire allemande</td>
 				  	</tr>    
 				  	<tr>
-				        <td>Sud de l&#39;Angola</td>
+				        <td>Sud de l'Angola</td>
 				        <td>La Bataille de Naulila</td>
 				        <td>Le 18 decembre 1914</td>
 				        <td>Victoire allemande</td>
@@ -124,10 +124,10 @@
 				        <td>Perte de Bukoba par les Allemands</td>
 				    </tr>    
 				    <tr>
-				        <td>Sud de l&#39;Angola</td>
-				        <td>La Bataille de Mongua<br />(ou Bataille d&#39;Omongwa)</td>
+				        <td>Sud de l'Angola</td>
+				        <td>La Bataille de Mongua<br />(ou Bataille d'Omongwa)</td>
 				        <td>Du 18 août 1915<br />au 20 août 1915</td>
-				        <td>Victoire des portuguais</td>
+				        <td>Victoire des portugais</td>
 				    </tr>    
 				    <tr>
 				        <td>Près du Kilimandjaro</td>

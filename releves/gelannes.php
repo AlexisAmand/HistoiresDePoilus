@@ -26,21 +26,19 @@
 
 <header>
 	
-    <div id="rezo">
-    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png"    alt="logo facebook"   />
-        </a>
-        <img src="../images/googleplus.png"    alt="logo Google Plus"   /> 
-	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png"    alt="logo Twitter"   />
-        </a>
-    </div>
-    
-<a href="../index.php" title="retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
+  <div id="rezo">
+    <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
+      <img src="../images/facebook.png" alt="logo facebook" /></a>
+      <img src="../images/googleplus.png" alt="logo Google Plus" /> 
+    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
+      <img src="../images/twitter.png" alt="logo Twitter"   /></a>
+  </div>
+  
+<a href="../index.php" title="Retour sur la page d'accueil du site">
+<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
 </header>
-   
+
 <nav>
 
     <a href="../contact.php">Contact</a>
@@ -57,33 +55,35 @@
 
 <aside>
 
-	<ul>
-        <li><a href="anzin.php">Anzin (59)</a></li>
-    	<li><a href="betheniville.php">Bétheniville (51)</a></li>
-        <li><a href="bry.php">Bry (59)</a></li>
-        <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
-        <li><a href="daix.php">Daix (21)</a></li>
-        <li><a href="eth.php">Eth (59)</a></li>
+<ul>
+  <li><a href="anzin.php">Anzin (59)</a></li>
+  <li><a href="betheniville.php">Bétheniville (51)</a></li>
+  <li><a href="bry.php">Bry (59)</a></li>
+  <li><a href="coulsore.php">Coulsore (59)</a></li>
+  <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
 
-        <li><a href="feucherolles.php">Feucherolles (78)</a></li>
-        <li><a href="frencq.php">Frencq (62)</a></li>
-        <li><a href="gelannes.php"  class="AsideSelected">Gélannes (10)</a></li>
-        <li><a href="gussignies.php">Gussignies (59)</a></li>
-        <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-    	<li><a href="lourches.php">Lourches (59)</a></li>
-        
-        <li><a href="onnaing.php">Onnaing (59)</a></li>     
-        <li><a href="quarouble.php">Quarouble (59)</a></li>
-        <li><a href="roeulx.php">Roeulx (59)</a></li>
-        <li><a href="saint-hilaire-le-petit.php" >Saint-Hilaire-le-Petit (51)</a></li>
-        <li><a href="saultain.php">Saultain (59)</a></li>
-        <li><a href="sebourg.php">Sebourg (59)</a></li>
-        
-        <li><a href="verpel.php">Verpel (08)</a></li>
-        <li><a href="vicq.php">Vicq (59)</a></li>
-        <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
-        <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
-   </ul>
+  <li><a href="daix.php">Daix (21)</a></li>
+  <li><a href="eth.php">Eth (59)</a></li>
+  <li><a href="feucherolles.php">Feucherolles (78)</a></li>
+  <li><a href="frencq.php">Frencq (62)</a></li>
+  <li><a href="gelannes.php"  class="AsideSelected">Gélannes (10)</a></li>
+
+  <li><a href="gussignies.php">Gussignies (59)</a></li>
+  <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
+  <li><a href="lourches.php">Lourches (59)</a></li>
+  <li><a href="onnaing.php">Onnaing (59)</a></li>     
+  <li><a href="quarouble.php">Quarouble (59)</a></li>
+
+  <li><a href="roeulx.php">Roeulx (59)</a></li>
+  <li><a href="saint-hilaire-le-petit.php" >Saint-Hilaire-le-Petit (51)</a></li>
+  <li><a href="saultain.php">Saultain (59)</a></li>
+  <li><a href="sebourg.php">Sebourg (59)</a></li>
+  <li><a href="verpel.php">Verpel (08)</a></li>
+
+  <li><a href="vicq.php">Vicq (59)</a></li>
+  <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
+  <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
+</ul>
    
       <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -107,7 +107,9 @@
 
 <p>Voici la liste des morts pour la France de Gélannes (Aube) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit commentaire</a>.</p>
 
-<p>Cette liste a été publiée une première fois sur mon ancien site &quot;La Généalogie Entre Amis&quot;.</p><br />
+<p>Cette liste a été publiée une première fois sur mon ancien site "La Généalogie Entre Amis".</p><br />
+
+<p></p>
 
 <table>
     <thead>
@@ -120,256 +122,203 @@
       </tr>
     </thead>
       <tr>
-        <td>
-            <div align="left">DOUINE<br />
-                N</div></td>
-        <td>&nbsp;</td>
-        <td>
-            1914</td>
-   
-        <td>
-            &nbsp;</td>
-   
-        <td>
-            &nbsp;</td>
-   
-      </tr>
-      <tr>
-        <td>
-            <div align="left">DULIN<br />
-                L</div></td>
+        <td>DOUINE<br />N</td>
         <td>&nbsp;</td>
         <td>1914</td>
-        
         <td>&nbsp;</td>
-        
+        <td>&nbsp;</td>  
+      </tr>
+      <tr>
+        <td>DULIN<br />L</td>
         <td>&nbsp;</td>
-        
+        <td>1914</td>       
+        <td>&nbsp;</td>       
+        <td>&nbsp;</td>      
       </tr>
       <tr>
-          <td>
-            <div align="left">JEANNET<br />
-                H</div></td>
-          <td>&nbsp;</td>
-          <td>1914</td>
-     
-          <td>&nbsp;</td>
-     
-          <td>&nbsp;</td>
-     
-      </tr>
-      <tr>
-        <td><div align="left">JACQUES<br />
-            E</div></td>
+        <td>JEANNET<br />H</td>
         <td>&nbsp;</td>
-        <td>
-            1914</td>
-   
-        <td>
-            &nbsp;</td>
-   
-        <td>
-            &nbsp;</td>
-   
+        <td>1914</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>    
       </tr>
       <tr>
-          <td>
-            <div align="left">PELLERIN<br />
-                L</div></td>
-   <td>&nbsp;</td>
-          <td> 1914
-</td>
-          <td> &nbsp;</td>
-          <td> &nbsp;</td>
+        <td>JACQUES<br />E</td>
+        <td>&nbsp;</td>
+        <td>1914</td> 
+        <td>&nbsp;</td>
+        <td>&nbsp;</td> 
       </tr>
       <tr>
-        <td>GHERVOT 
-            <br />
-            A</td>
+        <td>PELLERIN<br />L</td>
+        <td>&nbsp;</td>
+        <td> 1914</td>
+        <td> &nbsp;</td>
+        <td> &nbsp;</td>
+      </tr>
+      <tr>
+        <td>GHERVOT<br />A</td>
         <td>&nbsp;</td>
         <td>1915</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>CERCUEIL<br />
-            Y</td>
+        <td>CERCUEIL<br />Y</td>
         <td>&nbsp;</td>
         <td>1915</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>DUCHAT<br />
-            L</td>
+        <td>DUCHAT<br />L</td>
         <td>&nbsp;</td>
         <td>1915</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>GARNIER<br />
-            F</td>
+        <td>GARNIER<br />F</td>
         <td>&nbsp;</td>
         <td>1915</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>GRADOS<br />
-            P</td>
+        <td>GRADOS<br />P</td>
         <td>&nbsp;</td>
         <td>1915</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>JEANSON<br />
-            G</td>
+        <td>JEANSON<br />G</td>
         <td>&nbsp;</td>
         <td>1915</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>MANSUY<br />
-            AL</td>
+        <td>MANSUY<br />AL</td>
         <td>&nbsp;</td>
         <td>1915</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>MANSUY<br />
-            AD</td>
+        <td>MANSUY<br />AD</td>
         <td>&nbsp;</td>
         <td>1915</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>PETITEAU<br />
-            M</td>
+        <td>PETITEAU<br />M</td>
         <td>&nbsp;</td>
         <td>1915</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>PALLIER<br />
-            W</td>
+        <td>PALLIER<br />W</td>
         <td>&nbsp;</td>
         <td>1915</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>ROUZEAU<br />
-            F</td>
+        <td>ROUZEAU<br />F</td>
         <td>&nbsp;</td>
         <td>1915</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>ROUSSEAU<br />
-            C</td>
+        <td>ROUSSEAU<br />C</td>
         <td>&nbsp;</td>
         <td>1915</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>BLANCHOT<br />
-            M</td>
+        <td>BLANCHOT<br />M</td>
         <td>&nbsp;</td>
         <td>1916</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>CARON<br />
-            L</td>
+        <td>CARON<br />L</td>
         <td>&nbsp;</td>
         <td>1916</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>REINERT<br />
-            E</td>
+        <td>REINERT<br />E</td>
         <td>&nbsp;</td>
         <td>1916</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>BRULEY<br />
-            O</td>
+        <td>BRULEY<br />O</td>
         <td>&nbsp;</td>
         <td>1917</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>CHAMBRILLON<br />
-            V</td>
+        <td>CHAMBRILLON<br />V</td>
         <td>&nbsp;</td>
         <td>1917</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>PONSARD<br />
-            H</td>
+        <td>PONSARD<br />H</td>
         <td>&nbsp;</td>
         <td>1917</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>VOITRIN<br />
-            L</td>
+        <td>VOITRIN<br />L</td>
         <td>&nbsp;</td>
         <td>1917</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>BEAUDOIN<br />
-            M</td>
+        <td>BEAUDOIN<br />M</td>
         <td>&nbsp;</td>
         <td>1918</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>CHASSEIGNE<br />
-            M</td>
+        <td>CHASSEIGNE<br />M</td>
         <td>&nbsp;</td>
         <td>1918</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>GARNIER<br />
-            J</td>
+        <td>GARNIER<br />J</td>
         <td>&nbsp;</td>
         <td>1918</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>REMES<br />
-            L</td>
+        <td>REMES<br />L</td>
         <td>&nbsp;</td>
         <td>1918</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>PHILIPPON<br />
-            M</td>
+        <td>PHILIPPON<br />M</td>
         <td>&nbsp;</td>
         <td>1919</td>
         <td>&nbsp;</td>

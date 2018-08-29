@@ -61,21 +61,25 @@
         <li><a href="CARIN-Edouard.php" class="AsideSelected">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
+
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
+
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
+        
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
 		<li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
@@ -111,13 +115,13 @@
 </figure>
      
 <figure>
-    <a href="images/Carin-Edouard-1884.jpg"  id="single_image" title="Acte de naissace d'Edouard CARIN">
+    <a href="images/Carin-Edouard-1884.jpg"  id="single_image" title="Acte de naissance d'Edouard CARIN">
     <img src="miniatures/Carin-Edouard-1884.jpg" alt="Copie de l'acte de naissance d'Edouard CARIN"/>
     </a>
     <figcaption>Acte de naissance d'Edouard.<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
 </figure>
      
-<p>Je possède très peu de renseignements sur lui, car sa fiche matricule n'est pas disponible aux Archives Départementales. Ma seule piste pour l'instant ? Une fiche du site &quot;Mémoire des Hommes&quot; qui indique qu'il faisait partie du 162e Régiment d'Infanterie et qu'il est mort des suites de ses blessures le 19 mars 1916 à Bras dans la Meuse alors que le 162e RI est en train de défendre la rive droite, entre Bras et Louvemont, depuis le 10.</p>
+<p>Je possède très peu de renseignements sur lui, car sa fiche matricule n'est pas disponible aux Archives Départementales. Ma seule piste pour l'instant ? Une fiche du site "Mémoire des Hommes" qui indique qu'il faisait partie du 162e Régiment d'Infanterie et qu'il est mort des suites de ses blessures le 19 mars 1916 à Bras dans la Meuse alors que le 162e RI est en train de défendre la rive droite, entre Bras et Louvemont, depuis le 10.</p>
 
 <figure>
     <a href="images/bras-sur-meuse.jpg" id="single_image" title="Les ruines du village de Bras-sur-Meuse">

@@ -60,31 +60,37 @@ span.MsoFootnoteReference
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
+
         <li><a href="camp-friedberg.php">Friedberg</a></li>
         <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camp-giessen.php">Giessen</a></li>
         <li><a href="camp-gorlitz.php">Görlitz</a></li>
+
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
         <li><a href="camp-guben.php">Guben</a></li>
         <li><a href="camp-hammelburg.php">Hammelburg</a></li>
         <li><a href="camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camp-herne.php">Herne</a></li>
+
         <li><a href="camp-heuberg.php">Heuberg</a></li>
         <li><a href="camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camp-limburg.php">Limburg</a></li>
         <li><a href="camp-mannheim.php">Mannheim</a></li>        
         <li><a href="camp-meschede.php">Meschede</a></li>
+
         <li><a href="camp-merzdorf.php">Merzdorf</a></li>
         <li><a href="camp-meyenburg.php">Meyenburg</a></li>
     	<li><a href="camp-minden.php">Minden</a></li>
         <li><a href="camp-munster.php" class="AsideSelected">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
+
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
+        
         <li><a href="camp-zerbst.php">Zerbst</a></li>
         <li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li> 
 
@@ -108,7 +114,7 @@ span.MsoFootnoteReference
 
 <h1>Le camp de prisonniers de Munster</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p>Le camp de Munster était situé en Allemagne, dans la province de Westphalie (aujourd&#39;hui dans le land de Rhénanie-du-Nord-Westphalie) à quelques kilomètres de la frontière avec les Pays-Bas. En 1914, le commandant du dépôt de prisonniers de Munster est le Général en chef Freither VON BISSING, général de cavalerie.</p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p>Le camp de Munster était situé en Allemagne, dans la province de Westphalie (aujourd'hui dans le land de Rhénanie-du-Nord-Westphalie) à quelques kilomètres de la frontière avec les Pays-Bas. En 1914, le commandant du dépôt de prisonniers de Munster est le Général en chef Freither VON BISSING, général de cavalerie.</p>
 
 <figure>    
 	<a href="images/Munster/localisation-munster.jpg" id="single_image" title="Localisation du camp de Munster">
@@ -116,7 +122,7 @@ span.MsoFootnoteReference
     <figcaption>Localisation du camp de Munster<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure> 
 
- <p>Charles PETIT, membre du 1er Régiment d'Artillerie, a été fait prisonnier à Maubeuge le 7 septembre 1914, et envoyé au camp de Munster. Le 25 juillet 1916, il est évacué vers la Suisse pour tuberculose pulmonaire. Dans un rapport, il raconte que <em>"pendant les premières six semaines, il n'y avait aucune installation pour loger les hommes, ni tentes, ni baraquements. Le nombre des prisonniers était de 24000; pour se mettre à l'abri, ils creusaient des trous dans la terre, en les couvrant tant bien que mal de mottes de gazon. Il n'y avait aucune installation de cuisine au début. La mortalité des prisonniers, à ce moment, était considérable. Les installations de baraquements n'ont été achevées que vers la fin de janvier 1915&quot;.</em></p>
+ <p>Charles PETIT, membre du 1er Régiment d'Artillerie, a été fait prisonnier à Maubeuge le 7 septembre 1914, et envoyé au camp de Munster. Le 25 juillet 1916, il est évacué vers la Suisse pour tuberculose pulmonaire. Dans un rapport, il raconte que <em>"pendant les premières six semaines, il n'y avait aucune installation pour loger les hommes, ni tentes, ni baraquements. Le nombre des prisonniers était de 24000; pour se mettre à l'abri, ils creusaient des trous dans la terre, en les couvrant tant bien que mal de mottes de gazon. Il n'y avait aucune installation de cuisine au début. La mortalité des prisonniers, à ce moment, était considérable. Les installations de baraquements n'ont été achevées que vers la fin de janvier 1915".</em></p>
 
 <figure>
     <a href="images/friedrichsfeld-chapelle.jpg" id="single_image" title="Camp de Friedrichsfeld: La chapelle">
@@ -139,7 +145,7 @@ span.MsoFootnoteReference
 
 <h2>Le camp de Munster I (dit camp de l'Haus-Spital)</h2>
 
-<p>Dans <cite>Westfalen in Ersten Weltkrieg</cite>, l&#39;historien allemand Rainer PÖPPINGHEGE évalue à 20947 le nombre de soldats prisonniers dans le camp de Münster I à la fin de la Première Guerre Mondiale. Les délégués du Gouvernement Espagnol précisent que l’effectif est de 1894 prisonniers pour le camp même et 18052 répartis dans les hôpitaux et les différents détachements de travail (le 11 juin 1918). Le camp de Münster I était situé à 5 km à l'ouest de la ville.</p>
+<p>Dans <cite>Westfalen in Ersten Weltkrieg</cite>, l'historien allemand Rainer PÖPPINGHEGE évalue à 20947 le nombre de soldats prisonniers dans le camp de Münster I à la fin de la Première Guerre Mondiale. Les délégués du Gouvernement Espagnol précisent que l’effectif est de 1894 prisonniers pour le camp même et 18052 répartis dans les hôpitaux et les différents détachements de travail (le 11 juin 1918). Le camp de Münster I était situé à 5 km à l'ouest de la ville.</p>
 
 <table class="tab_camp">
     <caption class="legende" align="bottom">Effectif du camp au 11 juin 1918</caption>
@@ -158,7 +164,7 @@ span.MsoFootnoteReference
         <td>64</td>
     </tr>
     <tr>
-        <td>Portuguais</td>
+        <td>Portugais</td>
         <td>20</td>
     </tr>
     <tr>
@@ -229,12 +235,12 @@ span.MsoFootnoteReference
 
 <h2>Le camp de Münster II (dit camp de Rennbahn)</h2>
 
-    <p>Ce camp était situé à l&#39;est de Münster, à l&#39;emplacement d&#39;un champ de course.</p>
+    <p>Ce camp était situé à l'est de Münster, à l'emplacement d'un champ de course.</p>
 
-    <p>En octobre 1915, les prisonniers sont répartis dans 4 baraquements (appelés blocks). Ils forment chacun un rectangle en pleine campagne. Les dits baraquements sont décrits comme étant en planches à double cloison et éclairés à l’électricité. Les hommes disposent d’une paillasse et de deux couvertures, de lavabos ainsi que de bains-douches. Les chambres sont chauffées par des poëles. Chaque block dispose également d’une infirmerie dont le service est assuré par un infirmier français. Si un malade est gravement atteint, il est transporté dans un lazaret qui se trouve à l’extérieur du camp. Plusieurs aumôniers se trouvent à Munster II. Il y avait également un séminaire où des prêtes allemands et français des cours pour permettre à des séminaristes prisonniers, sous certaines conditions,&nbsp; de continuer leurs études. </p>
-    <p>A partir du mois de mars 1917, les représentations théâtrales au camp de Münster II sont suspendues. <cite>L'Exilé</cite> (Organe des Prisonniers du <a href="camp-hammelburg.php">camp d'Hammelburg</a>) précise qu&#39;elles sont remplacées par des conférences payantes (5 à 10 pfenning, pour les nécessiteux, l&#39;entrée est gratuite). La recette est versée au fond de secours du camp. </p>
+    <p>En octobre 1915, les prisonniers sont répartis dans 4 baraquements (appelés blocks). Ils forment chacun un rectangle en pleine campagne. Les dits baraquements sont décrits comme étant en planches à double cloison et éclairés à l’électricité. Les hommes disposent d’une paillasse et de deux couvertures, de lavabos ainsi que de bains-douches. Les chambres sont chauffées par des poêles. Chaque block dispose également d’une infirmerie dont le service est assuré par un infirmier français. Si un malade est gravement atteint, il est transporté dans un lazaret qui se trouve à l’extérieur du camp. Plusieurs aumôniers se trouvent à Munster II. Il y avait également un séminaire où des prêtes allemands et français des cours pour permettre à des séminaristes prisonniers, sous certaines conditions,&nbsp; de continuer leurs études. </p>
+    <p>A partir du mois de mars 1917, les représentations théâtrales au camp de Münster II sont suspendues. <cite>L'Exilé</cite> (Organe des Prisonniers du <a href="camp-hammelburg.php">camp d'Hammelburg</a>) précise qu'elles sont remplacées par des conférences payantes (5 à 10 pfenning, pour les nécessiteux, l'entrée est gratuite). La recette est versée au fond de secours du camp. </p>
 
-<p>Dans <em>Westfalen in Ersten Weltkrieg</em>, l&#39;historien allemand Rainer PÖPPINGHEGE évalue à 47911 le nombre de soldats prisonniers dans le camp de Münster II à la fin de la Première Guerre Mondiale.</p>
+<p>Dans <em>Westfalen in Ersten Weltkrieg</em>, l'historien allemand Rainer PÖPPINGHEGE évalue à 47911 le nombre de soldats prisonniers dans le camp de Münster II à la fin de la Première Guerre Mondiale.</p>
     <p>&nbsp;</p>
 
 <table class="tab_camp">
@@ -254,7 +260,7 @@ span.MsoFootnoteReference
         <td>262</td>
     </tr>
     <tr>
-        <td>Portuguais</td>
+        <td>portugais</td>
         <td>173</td>
     </tr>
     <tr>
@@ -311,7 +317,7 @@ span.MsoFootnoteReference
 
 <ul>
     <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
-    <li><span>Bulletin de l&#39;Office d&#39;information des oeuvres de secours aux prisonniers de guerre (n°13 du 27 septembre 1915)</span></li>
+    <li><span>Bulletin de l'Office d'information des oeuvres de secours aux prisonniers de guerre (n°13 du 27 septembre 1915)</span></li>
     <li>Journal "Le Temps" du 15 septembre 1915</li>
     <li><a href="../pdf/book02.pdf">Le traitement des prisonniers français en Allemagne</a> (J. De Christmas, 1917)</li>
     <li>Histoire Anecdotique de la Guerre de 14-15 (Volume 10)</li>

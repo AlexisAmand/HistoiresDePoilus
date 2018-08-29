@@ -53,31 +53,37 @@
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
+
         <li><a href="camp-friedberg.php">Friedberg</a></li>
         <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camp-giessen.php">Giessen</a></li>
         <li><a href="camp-gorlitz.php">Görlitz</a></li>
+
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
         <li><a href="camp-guben.php">Guben</a></li>
         <li><a href="camp-hammelburg.php">Hammelburg</a></li>
         <li><a href="camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camp-herne.php">Herne</a></li>
+
         <li><a href="camp-heuberg.php">Heuberg</a></li>
         <li><a href="camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camp-limburg.php">Limburg</a></li>
         <li><a href="camp-mannheim.php">Mannheim</a></li>        
         <li><a href="camp-meschede.php">Meschede</a></li>
+
         <li><a href="camp-merzdorf.php">Merzdorf</a></li>
         <li><a href="camp-meyenburg.php">Meyenburg</a></li>
     	<li><a href="camp-minden.php">Minden</a></li>
         <li><a href="camp-munster.php">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
+
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camp-wetzlar.php" class="AsideSelected">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
+        
         <li><a href="camp-zerbst.php">Zerbst</a></li>
         <li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li> 
      
@@ -101,13 +107,15 @@
 
 <h1>Le camp de prisonniers de Wetzlar</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p>
 
 <figure>    
 	<a href="images/Wetzlar/localisation-wetzlar.jpg" id="single_image" title="Localisation du camp de Wetzlar">
     <img src="miniatures/Wetzlar/localisation-wetzlar.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Wetzlar"></a>
     <figcaption>Localisation du camp de Wetzlar<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>  
+
+<p>Fin 1915, des prisonniers du camp de Wetzlar sont évacués vers les camps de <a href="camp-giessen.php">Giessen</a>, <a href="camp-limburg.php">Limburg</a>, Holzminden, <a href="camp-meschede.php">Meschede</a>, Stendal et <a href="camp-darmstadt.php">Darmstadt</a>. Le commandant du camp de Wetzlar fait savoir que les colis destinés aux prisonniers évacués sur les camps ci-dessus, suivront le destinataire: Quant aux colis qui ne porteront l'adresse d'aucun bénéficiaire nommément désigné, ils seront attribués aux prisonniers français du camp de Giessen.</p>
 
 <figure>
     <a href="images/Wetzlar/wetzlar-01.jpg" id="single_image" title="Arrivage de vivres au camp de Wetzlar">
@@ -151,6 +159,7 @@
 <ul>
     <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>  
     <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
+    <li>L'Echo d'Alger du 20 décembre 1915</li>
 </ul>    
 
 <p class="sources">

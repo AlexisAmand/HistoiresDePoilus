@@ -5,7 +5,7 @@
 <meta charset="utf-8">
           
 <title>Les hôpitaux de l'Île-de-France pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles de l'Île-de-France pendant la Premiére Guerre Mondiale" name="description">
+<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles de l'Île-de-France pendant la Première Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>

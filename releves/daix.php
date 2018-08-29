@@ -26,18 +26,16 @@
 
 <header>
 	
-    <div id="rezo">
-    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png"    alt="logo facebook"   />
-        </a>
-        <img src="../images/googleplus.png"    alt="logo Google Plus"   /> 
-	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png"    alt="logo Twitter"   />
-        </a>
-    </div>
-    
-<a href="../index.php" title="retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
+  <div id="rezo">
+    <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
+      <img src="../images/facebook.png" alt="logo facebook" /></a>
+      <img src="../images/googleplus.png" alt="logo Google Plus" /> 
+    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
+      <img src="../images/twitter.png" alt="logo Twitter"   /></a>
+  </div>
+  
+<a href="../index.php" title="Retour sur la page d'accueil du site">
+<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
 </header>
    
@@ -57,33 +55,35 @@
 
 <aside>
 
-	<ul>
-        <li><a href="anzin.php">Anzin (59)</a></li>
-    	<li><a href="betheniville.php">Bétheniville (51)</a></li>
-        <li><a href="bry.php">Bry (59)</a></li>
-        <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
-        <li><a href="daix.php" class="AsideSelected">Daix (21)</a></li>
-        <li><a href="eth.php">Eth (59)</a></li>
-        
-        <li><a href="feucherolles.php">Feucherolles (78)</a></li>
-        <li><a href="frencq.php">Frencq (62)</a></li>
-        <li><a href="gelannes.php">Gélannes (10)</a></li>
-        <li><a href="gussignies.php">Gussignies (59)</a></li>
-        <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-        <li><a href="lourches.php">Lourches (59)</a></li>
-        
-        <li><a href="onnaing.php">Onnaing (59)</a></li>     
-        <li><a href="quarouble.php">Quarouble (59)</a></li>
-        <li><a href="roeulx.php">Roeulx (59)</a></li>
-        <li><a href="saint-hilaire-le-petit.php" >Saint-Hilaire-le-Petit (51)</a></li>
-        <li><a href="saultain.php">Saultain (59)</a></li>
-        <li><a href="sebourg.php">Sebourg (59)</a></li>
+<ul>
+  <li><a href="anzin.php">Anzin (59)</a></li>
+  <li><a href="betheniville.php">Bétheniville (51)</a></li>
+  <li><a href="bry.php">Bry (59)</a></li>
+  <li><a href="coulsore.php">Coulsore (59)</a></li>
+  <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
 
-        <li><a href="verpel.php">Verpel (08)</a></li>
-        <li><a href="vicq.php">Vicq (59)</a></li>
-        <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
-        <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
-   </ul>
+  <li><a href="daix.php" class="AsideSelected">Daix (21)</a></li>
+  <li><a href="eth.php">Eth (59)</a></li>
+  <li><a href="feucherolles.php">Feucherolles (78)</a></li>
+  <li><a href="frencq.php">Frencq (62)</a></li>
+  <li><a href="gelannes.php">Gélannes (10)</a></li>
+
+  <li><a href="gussignies.php">Gussignies (59)</a></li>
+  <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
+  <li><a href="lourches.php">Lourches (59)</a></li>
+  <li><a href="onnaing.php">Onnaing (59)</a></li>     
+  <li><a href="quarouble.php">Quarouble (59)</a></li>
+
+  <li><a href="roeulx.php">Roeulx (59)</a></li>
+  <li><a href="saint-hilaire-le-petit.php" >Saint-Hilaire-le-Petit (51)</a></li>
+  <li><a href="saultain.php">Saultain (59)</a></li>
+  <li><a href="sebourg.php">Sebourg (59)</a></li>
+  <li><a href="verpel.php">Verpel (08)</a></li>
+
+  <li><a href="vicq.php">Vicq (59)</a></li>
+  <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
+  <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
+</ul>
    
       <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -107,7 +107,9 @@
 
 <p>Voici la liste des morts pour la France de Daix (Côte-d'Or) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit commentaire</a>.</p>
 
-<p>Cette liste a été publiée une première fois sur mon ancien site &quot;La Généalogie Entre Amis&quot;.</p>
+<p>Cette liste a été publiée une première fois sur mon ancien site "La Généalogie Entre Amis".</p>
+
+<p></p>
 
 <table>
   <thead>
@@ -131,12 +133,12 @@
     <td>Le 8 septembre 1895<br />à Daix<sup>1</sup></td>
     <td>Le 26 septembre 1915<br />à Aix-Noulette (P. de Calais)</td>
     <td>149e R.I</td>
-    <td>tué à l&#39;ennemi</td>
+    <td>tué à l'ennemi</td>
   </tr>
   <tr>
     <td>BOUSSAGEON<br />Paul</td>
-    <td>Le 3 avril 1882<br />à Echigey (Côte-d&#39;Or)</td>
-    <td>Le 28 Octobre 1916<br />à l&#39;ambulance de Souhesmes (Meuse)</td>
+    <td>Le 3 avril 1882<br />à Echigey (Côte-d'Or)</td>
+    <td>Le 28 Octobre 1916<br />à l'ambulance de Souhesmes (Meuse)</td>
     <td>11e R.I</td>
     <td>blessure de guerre</td>
   </tr>
@@ -156,17 +158,17 @@
   </tr>
   <tr>
     <td>DUBATON<br />Henri</td>
-    <td>Le 28 août 1876<br />à Lucenay-le-Duc<br />(Côte-d&#39;Or)</td>
-    <td>Le 1er juin 1917<br />à <a href="../hopitaux/hopitaux-ges.php">l&#39;hôpital de complementaire<br />de Troyes (Aube)</a></td>
+    <td>Le 28 août 1876<br />à Lucenay-le-Duc<br />(Côte-d'Or)</td>
+    <td>Le 1er juin 1917<br />à <a href="../hopitaux/hopitaux-ges.php">l'hôpital de complementaire<br />de Troyes (Aube)</a></td>
     <td>15e R.A</td>
     <td>maladie</td>
   </tr>
   <tr>
     <td>FREROT<br />Eugène Nicolas</td>
-    <td>Le 4 janvier 1877<br />à Malain (Côte-d&#39;Or)</td>
-    <td>Le 21 décembre 1914<br />dans la forêst d&#39;Apremont<br />(Meuse)</td>
+    <td>Le 4 janvier 1877<br />à Malain (Côte-d'Or)</td>
+    <td>Le 21 décembre 1914<br />dans la forêst d'Apremont<br />(Meuse)</td>
     <td>27e R.I</td>
-    <td>tué à l&#39;ennemi</td>
+    <td>tué à l'ennemi</td>
   </tr>
   <tr>
     <td>GAUTHEY<br />Émile Jean-Baptiste</td>
@@ -177,14 +179,14 @@
     </tr>
   <tr>
     <td>JOURNOT<br />Adrien Paul</td>
-    <td>Le 2 août 1898<br />à Poncey-sur-l&#39;Ignon<br />(Côte-d&#39;Or)</td>
+    <td>Le 2 août 1898<br />à Poncey-sur-l'Ignon<br />(Côte-d'Or)</td>
     <td>Le 25 août 1914<br />à Saint-Barbe (Vosges)</td>
     <td>10e B.C</td>
     <td>disparu</td>
     </tr>
   <tr>
     <td>JOURNOT<br />Léon Fergent</td>
-    <td>Le 3 juillet 1887<br />à Pluvet (Côte-d&#39;Or)</td>
+    <td>Le 3 juillet 1887<br />à Pluvet (Côte-d'Or)</td>
     <td>Le 26 octobre 1918<br />à Abbécourt (Aisne)</td>
     <td>248e R.A</td>
     <td>maladie</td>
@@ -194,11 +196,11 @@
     <td>Le 9 août 1890<br />à Daix</td>
     <td>Le 5 septembre 1916<br />à Soyecourt (somme)</td>
     <td>3e B.C.P</td>
-    <td>tué à l&#39;ennemi</td>
+    <td>tué à l'ennemi</td>
   </tr>
   <tr>
     <td>PIGNON<br />Paul Théodule</td>
-    <td>Le 3 juillet 1875<br />à Val Suzon (Côte-d&#39;Or)</td>
+    <td>Le 3 juillet 1875<br />à Val Suzon (Côte-d'Or)</td>
     <td>Le 29 juin 1916<br />à Toul (Meurthe-et-Moselle)</td>
     <td>95e R.I.T</td>
     <td>maladie</td>

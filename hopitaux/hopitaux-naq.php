@@ -5,7 +5,7 @@
 <meta charset="utf-8">
           
 <title>Les hôpitaux de Nouvelle-Aquitaine pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles de Nouvelle-Aquitaine pendant la Premiére Guerre Mondiale" name="description">
+<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles de Nouvelle-Aquitaine pendant la Première Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>

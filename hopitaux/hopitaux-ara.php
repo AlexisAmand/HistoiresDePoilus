@@ -5,7 +5,7 @@
 <meta charset="utf-8">
           
 <title>Les hôpitaux d'Auvergne-Rhône-Alpes pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles d'Auvergne-Rhône-Alpes pendant la Premiére Guerre Mondiale" name="description">
+<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles d'Auvergne-Rhône-Alpes pendant la Première Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -103,7 +103,7 @@
     	<figcaption>L'hôpital auxiliaire n°94,<br />situé à l'Institution Sainte Marie</figcaption>
     </figure>
 
-<p>Le <em>Bulletin de la Société de secours aux bléssés militaires</em> daté d'avril 1919 précise que l'hôpital auxiliaire n°10 comprenait une vaste salle d'opération avec salle vitrée isolée pour les opérations, pharmacie et radiographie compléte attenante, mécanothérapie et bains de lumière; de nombreux dortoirs, contenant 115 lits, une très grande cuisine avec chauffage au gaz et au charbon, un réfectoire pour 115 blessés et au autre plus petit pour les officiers, un préau ombragé d'arbres pour l'été et un fumoir-théâtre pour l'hiver, enfin des salles de douches, des caves des dépôts.</p>
+<p>Le <em>Bulletin de la Société de secours aux blessés militaires</em> daté d'avril 1919 précise que l'hôpital auxiliaire n°10 comprenait une vaste salle d'opération avec salle vitrée isolée pour les opérations, pharmacie et radiographie complète attenante, mécanothérapie et bains de lumière; de nombreux dortoirs, contenant 115 lits, une très grande cuisine avec chauffage au gaz et au charbon, un réfectoire pour 115 blessés et au autre plus petit pour les officiers, un préau ombragé d'arbres pour l'été et un fumoir-théâtre pour l'hiver, enfin des salles de douches, des caves des dépôts.</p>
 
     <figure>
     <a href="images/saint-chamond-ht-10.jpg" id="single_image" title="L'hôpital auxiliaire n°10 (Saint-Chamond)">

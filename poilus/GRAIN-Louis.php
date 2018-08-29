@@ -60,21 +60,25 @@
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
+
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
+
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php" class="AsideSelected">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
+        
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
         <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
@@ -104,8 +108,7 @@
 
 <figure>
     <a href="images/arbre-grain.png" id="single_image" title="Arbre généalogique simplifié de la famille GRAIN">
-    <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" style="box-shadow:none;width:650px;"/>
-    </a>
+    <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" style="box-shadow:none;width:650px;"/></a>
     <figcaption>Arbre simplifié de la famille GRAIN<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
@@ -159,7 +162,7 @@
 
 <br /><h2>...mais à Villers-Guislain, la guerre arrive.</h2>
 
-<p>Dans son ouvrage &quot;La France Occupée&quot;, Philippe Nivet raconte que le village de Villers-Guislain, où sont nés <a href="GRAIN-Louis.php">Louis</a> et <a href="GRAIN-Leon-Albert.php">Léon Albert GRAIN</a>, est occupé depuis 1914. En 1916, les Allemands ont demandé à la mairie une dizaine de jeune fille pour placer les cartouches dans les bandes de chargement; comme aucune volontaire ne s'est présentée, les Allemands en ont emprisonné 4 pendant 2 heures et ont fait savoir qu'ils mettraient toutes les filles en prison si la commune ne présentaient pas des volontaires. Six jeunes filles se sont finalement résignées à la faire le travail exigé. </p>
+<p>Dans son ouvrage "La France Occupée", Philippe Nivet raconte que le village de Villers-Guislain, où sont nés <a href="GRAIN-Louis.php">Louis</a> et <a href="GRAIN-Leon-Albert.php">Léon Albert GRAIN</a>, est occupé depuis 1914. En 1916, les Allemands ont demandé à la mairie une dizaine de jeune fille pour placer les cartouches dans les bandes de chargement; comme aucune volontaire ne s'est présentée, les Allemands en ont emprisonné 4 pendant 2 heures et ont fait savoir qu'ils mettraient toutes les filles en prison si la commune ne présentaient pas des volontaires. Six jeunes filles se sont finalement résignées à la faire le travail exigé. </p>
 
 <div id="note1"></div>
 <p style="font-size: 12px"><sup>1</sup> En cas de guerre, la classe première à marcher pouvait être appelée par anticipation. C'est pourquoi l'armée active comprenait également en août la classe 1913 (hommes nés en 1893) qui n'aurait dû être appelée qu'à l'automne.</p>

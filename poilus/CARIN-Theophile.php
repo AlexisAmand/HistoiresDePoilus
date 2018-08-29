@@ -60,22 +60,26 @@
     	<li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
-        <li><a href="CARIN-Theophile.php" class="AsideSelected">CARIN Théophile</a></li>      
+        <li><a href="CARIN-Theophile.php" class="AsideSelected">CARIN Théophile</a></li>   
+
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
+
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
+        
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
 		<li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
@@ -155,11 +159,11 @@
     <figcaption>Extrait de sa fiche matricule<br />(Cliquez pour agrandir)</figcaption>
 </figure>
   
-<br /><p>Du 6 août 1914  au 28 août 1914, <strong>Théophile CARIN</strong> est dit &quot;à l'intérieur - Camp simple&quot;. Cela signifie que  le soldat était très en retrait des combats et peut-être au dépôt de son régiment. Je pense que <strong>Théophile</strong> était juste en attente de son transfert en Algérie.</p>
+<br /><p>Du 6 août 1914  au 28 août 1914, <strong>Théophile CARIN</strong> est dit "à l'intérieur - Camp simple". Cela signifie que  le soldat était très en retrait des combats et peut-être au dépôt de son régiment. Je pense que <strong>Théophile</strong> était juste en attente de son transfert en Algérie.</p>
 
 <br/><h2>Théophile en Afrique</h2>
 
-<p>Du 29 septembre 1914 au 14 août 1916, Théophile est affecté &quot;<strong>Aux armées d’Algérie</strong>&quot;.</p><p> A partir du 9 août 1916, <strong>Théophile CARIN</strong> passe au <strong>4e Bataillon d’Infanterie Légère d’Afrique</strong> jusqu'au 16 août 1918, date de sa fusion avec le 5e bataillon d'Afrique. Le 4e bataillon est successivement commandé par le chef de bataillon Ardit, puis par le chef de bataillon FLOUCAUT de FOURCROY.</p>
+<p>Du 29 septembre 1914 au 14 août 1916, Théophile est affecté "<strong>Aux armées d’Algérie</strong>".</p><p> A partir du 9 août 1916, <strong>Théophile CARIN</strong> passe au <strong>4e Bataillon d’Infanterie Légère d’Afrique</strong> jusqu'au 16 août 1918, date de sa fusion avec le 5e bataillon d'Afrique. Le 4e bataillon est successivement commandé par le chef de bataillon Ardit, puis par le chef de bataillon FLOUCAUT de FOURCROY.</p>
 
 <figure>
     <a href="images/tatahouine.jpg" id="single_image" title="Tatahouine (Tunisie) - Vu d'ensemble du camp">

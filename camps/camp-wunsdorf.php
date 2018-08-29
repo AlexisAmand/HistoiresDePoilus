@@ -53,31 +53,37 @@
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
+
         <li><a href="camp-friedberg.php">Friedberg</a></li>
         <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camp-giessen.php">Giessen</a></li>
         <li><a href="camp-gorlitz.php">Görlitz</a></li>
+
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
         <li><a href="camp-guben.php">Guben</a></li>
         <li><a href="camp-hammelburg.php">Hammelburg</a></li>
         <li><a href="camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camp-herne.php">Herne</a></li>
+
         <li><a href="camp-heuberg.php">Heuberg</a></li>
         <li><a href="camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camp-limburg.php">Limburg</a></li>
         <li><a href="camp-mannheim.php">Mannheim</a></li>        
         <li><a href="camp-meschede.php">Meschede</a></li>
+
         <li><a href="camp-merzdorf.php">Merzdorf</a></li>
         <li><a href="camp-meyenburg.php">Meyenburg</a></li>
     	<li><a href="camp-minden.php">Minden</a></li>
         <li><a href="camp-munster.php">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
+
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
+        
         <li><a href="camp-zerbst.php">Zerbst</a></li>
         <li><a href="camp-wunsdorf.php" class="AsideSelected">Zossen-Wünsdorf </a></li>
       
@@ -101,7 +107,7 @@
 
 <h1>Le camp de prisonniers de Zossen-Wünsdorf</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p>
 
 <p>Le camp de Zossen-Wünsdorf était situé dans le Brandenburg (à 30 km au sud de Berlin). Il était également connu sous le nom de « Camp du Croissant » ou « Wuensdorf-Zossen ».</p>
 
@@ -138,7 +144,7 @@
     <figcaption>Un groupe de prisonniers<br />(source allemande)</figcaption>
 </figure>
 
-<p>1084 prisonniers arabes et 49 prisonniers indiens du camp sont envoyés rejoindre l&#39;armée ottomane entre 1916 et 1917: certains volontairements, d&#39;autres de force. Les prisonniers restant dans le camp en 1917 sont transférés dans des camps en Roumanie occupée.</p>
+<p>1084 prisonniers arabes et 49 prisonniers indiens du camp sont envoyés rejoindre l'armée ottomane entre 1916 et 1917: certains volontairement, d'autres de force. Les prisonniers restant dans le camp en 1917 sont transférés dans des camps en Roumanie occupée.</p>
 
 <h2>Sources et bibliographie</h2>
 

@@ -53,31 +53,37 @@
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
+
         <li><a href="camp-friedberg.php">Friedberg</a></li>
         <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camp-giessen.php">Giessen</a></li>
         <li><a href="camp-gorlitz.php">Görlitz</a></li>
+
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
         <li><a href="camp-guben.php">Guben</a></li>
         <li><a href="camp-hammelburg.php">Hammelburg</a></li>
         <li><a href="camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camp-herne.php">Herne</a></li>
+
         <li><a href="camp-heuberg.php">Heuberg</a></li>
         <li><a href="camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camp-limburg.php">Limburg</a></li>
         <li><a href="camp-mannheim.php">Mannheim</a></li>        
         <li><a href="camp-meschede.php">Meschede</a></li>
+
         <li><a href="camp-merzdorf.php">Merzdorf</a></li>
         <li><a href="camp-meyenburg.php">Meyenburg</a></li>
     	<li><a href="camp-minden.php">Minden</a></li>
         <li><a href="camp-munster.php">Munster</a></li> 
         <li><a href="camp-nurnberg.php" class="AsideSelected">Nuremberg</a></li>
+
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
+        
         <li><a href="camp-zerbst.php">Zerbst</a></li>
         <li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li> 
         
@@ -102,7 +108,7 @@
 
 <h1>Le camp de prisonniers de Nüremberg</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p>
 
 <figure>    
 	<a href="images/Nurnberg/localisation-nurnberg.jpg" id="single_image" title="Localisation du camp de Nüremberg">
@@ -110,7 +116,7 @@
     <figcaption>Localisation du camp de Nüremberg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure> 
 
-<p>Le premier numéro du Canard, le &quot;<em>Journal des Prisonniers de Guerre</em>&quot; du camp de Nürmberg (Nuremberg) paraît le 15 août 1916. Le journal est décrit comme un compagnon qui vivra avec les prisonniers les longues heures de l&#39;exil, dans l&#39;espoir de les faire s&#39;envoler un peu plus rapidement. Des numéros ont été numérisés et sont <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5673638t">disponibles sur le site de la BNF</a>.</p>
+<p>Le premier numéro du Canard, le "<em>Journal des Prisonniers de Guerre</em>" du camp de Nürmberg (Nuremberg) paraît le 15 août 1916. Le journal est décrit comme un compagnon qui vivra avec les prisonniers les longues heures de l'exil, dans l'espoir de les faire s'envoler un peu plus rapidement. Des numéros ont été numérisés et sont <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5673638t">disponibles sur le site de la BNF</a>.</p>
 
 <figure>
     <a href="images/Nurnberg/le_canard_journal_des_prisonniers.jpg" id="single_image" title="Le Canard du 15 août 1916">
@@ -119,7 +125,7 @@
     <figcaption>Le Canard<br />(Source: Gallica/BNF)</figcaption>
 </figure>
 
-<p>En mars 1918, le seul prisonnier belge se trouvant dans le camp de Nüremberg est transferé dans le camp d'Erlangen.</p>
+<p>En mars 1918, le seul prisonnier belge se trouvant dans le camp de Nüremberg est transféré dans le camp d'Erlangen.</p>
 
 <figure>
     <a href="images/Nurnberg/nurnberg-01.jpg" id="single_image" title="Prisonniers de guerre à l'appel à Nüremberg">

@@ -67,7 +67,7 @@
 
 	<h1>Biblio-webographie</h1>
     
-    <p>Vous trouverez sur cette page la liste de toutes les ressources qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. Il peut s'agir de sites web, de livres ou même de revues. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php">me contacter</a> si vous avec une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c&#39;est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p>Certains documents sont <span class="auto-style1"><strong>des pdf</strong></span>, selon la configuration de votre ordinateur, ils peuvent <span  class="auto-style1"><strong>mettre un petit moment à s&#39;afficher</strong></span>. Pour lire ces pdf, vous devez posséder un logiciel comme Adobe Reader, que vous pouvez <a href="https://get.adobe.com/fr/reader/">télécharger gratuitement ici</a>.</p>
+    <p>Vous trouverez sur cette page la liste de toutes les ressources qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. Il peut s'agir de sites web, de livres ou même de revues. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php">me contacter</a> si vous avec une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p>Certains documents sont <span class="auto-style1"><strong>des pdf</strong></span>, selon la configuration de votre ordinateur, ils peuvent <span  class="auto-style1"><strong>mettre un petit moment à s'afficher</strong></span>. Pour lire ces pdf, vous devez posséder un logiciel comme Adobe Reader, que vous pouvez <a href="https://get.adobe.com/fr/reader/">télécharger gratuitement ici</a>.</p>
 
     <br/><h2>Dossiers d'anciens combattants</h2>
 
@@ -98,7 +98,7 @@
 
     <br /><br />    
         
-    <h2>Historique de l&#39;Armée d&#39;Afrique</h2>
+    <h2>Historique de l'Armée d'Afrique</h2>
     
 	<ul>
 		<li><a href="http://gallica.bnf.fr/ark:/12148/bpt6k6342646q" title="Historique du 4e bataillon d'infanterie légère d'Afrique">
@@ -116,7 +116,7 @@
 
     <br /><br />
 
-    <h2>Historiques des régiments d&#39;infanterie</h2>
+    <h2>Historiques des régiments d'infanterie</h2>
     
 	<ul>
        	<li>Historique du 33e Régiment d'Infanterie<br />(anonyme, Imprimerie J. Dumoulin, Paris, 1920 / Numérisé par Daniel Crozat)</li>
@@ -128,17 +128,17 @@
 
     <br /><br />
 
-    <h2>Historiques des régiments d&#39;infanterie territoriale</h2>
+    <h2>Historiques des régiments d'infanterie territoriale</h2>
     
 	<ul>
         <li><a href="pdf/historique_du_2e_RIT.pdf" title="Historique du 2e Régiment d'Infanterie Territoriale">Historique du 2e Régiment d'Infanterie Territoriale</a><br />(Historique numérisé par Paul Chagnoux en 2006)</li>
         <li><a href="pdf/historique_du_3e_RIT.pdf" title="Historique du 3e Régiment d'Infanterie Territoriale">Historique du 3e Régiment d'Infanterie Territoriale</a><br />(Gallica / Service historique de la Défense)</li>
-        <li><a href="pdf/3eRIT.pdf" title="Historique du 3e Régiment d'Infanterie Territoriale">Historique du 3e Régiment d&#39;Infanterie Territoriale</a><br />(Version retranscrite)</li>
+        <li><a href="pdf/3eRIT.pdf" title="Historique du 3e Régiment d'Infanterie Territoriale">Historique du 3e Régiment d'Infanterie Territoriale</a><br />(Version retranscrite)</li>
 	</ul>
     
 	<br /><br />
 	
-	<h2>Historiques des régiments d&#39;artillerie de campagne</h2>
+	<h2>Historiques des régiments d'artillerie de campagne</h2>
     
 	<ul>
         <li><a href="pdf/Historique-15-RAC.pdf" title="Historique du 15e Régiment d'Artillerie de Campagne">Historique du 15e Régiment d'Artillerie de Campagne</a><br />(Gallica / Service historique de la Défense)</li>    
@@ -177,7 +177,7 @@
         <li><a href="pdf/recquignies-1914.pdf">Petite histoire de Recquignies et Rocq en 1914</a><br/>(Anonyme)</li>
         <li><a href="https://amzn.to/2vLNtXK">La Grande Guerre des français, 1914-1918</a><br />(Editions Perrin / Jean-Baptiste Durosselle, 1994)</li>
         <li>Août 1914, La Bataille de Sarrebourg<br />(Joseph Elmerich, 1993)</li>
-        <li><a href="https://amzn.to/2MvPvVA">Encyclopédie de la Grande Guerre</a><br />(Editions Bayard / sous la direction de Stephane Audouin-Rouzeau et Jean-Jacques Becker)</li>
+        <li><a href="https://amzn.to/2MvPvVA">Encyclopédie de la Grande Guerre</a><br />(Editions Bayard / sous la direction de Stéphane Audouin-Rouzeau et Jean-Jacques Becker)</li>
         <li><a href="https://amzn.to/2ODtfGA">Les Grandes Guerres 1914-1945</a><br />(Editions Belins / ouvrage dirigé par Henry Rousso)</li>
     </ul>
 
@@ -188,8 +188,8 @@
     <p>Ces revues sont protégées par le droit d'auteur, je ne peux pas vous les proposer en téléchargement.</p>
 
     <ul>
-        <li>Hachette, Connaissances de l'histoire, Hors-Serie n°1 : Avions de Première Guerre Mondiale (1979)</li>
-        <li>Enquete sur l'Histoire n°12 : 1914-1918, la Grande Guerre (Automne 1994)</li>
+        <li>Hachette, Connaissances de l'histoire, Hors-Série n°1 : Avions de Première Guerre Mondiale (1979)</li>
+        <li>Enquête sur l'Histoire n°12 : 1914-1918, la Grande Guerre (Automne 1994)</li>
         <li>Histoire de la cavalerie n°13 : La cavalerie italienne dans la Première Guerre mondiale (2007)</li>
         <li>Histoire de la cavalerie n°16 : La cavalerie britannique dans la Première Guerre mondiale (2007)</li>
         <li>Histoire de la cavalerie n°31 : la cavalerie arabe dans la Première Guerre mondiale (2008)</li>
@@ -197,8 +197,8 @@
         <li>Histoire de la cavalerie n°41 : la cavalerie austro-hongroise dans la Première Guerre Mondiale (2008)</li>  
         <li>Géo Histoire n°12 : La Première Guerre Mondiale (Décembre 2013 - Janvier 2014)</li>
         <li>Géo Histoire n°13 : La Première Guerre Mondiale (février 2014 - Mars 2014)</li>
-        <li>Géo Histoire Hors-Serie n°2 : L'album référence de la Grande Guerre (Octobre 2014 - Novembre 2014)</li>
-        <li>Science et Vie Junior Hors-Serie n°107 : Première Guerre Mondiale (Aout 2014)</li>
+        <li>Géo Histoire Hors-Série n°2 : L'album référence de la Grande Guerre (Octobre 2014 - Novembre 2014)</li>
+        <li>Science et Vie Junior Hors-Série n°107 : Première Guerre Mondiale (Août 2014)</li>
         <li>Les collections de l'histoire n°61</li>
     </ul>
     
@@ -266,7 +266,7 @@
         <li><a href="http://www.memorial-genweb.org/~memorial2/">Mémorial-GenWeb</a></li>
         <li><a href="http://grandeguerre.icrc.org/fr">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
         <li><a href="http://prisonniers-de-guerre-1914-1918.chez-alice.fr/lestroupes.htm">Prisonniers de guerre 14-18</a></li>
-        <li><a href="http://www.association14-18.org/index.htm">@ssociation 14-18</a></li>
+        <li><a href="http://www.association14-18.org/index.htm">Association 14-18</a></li>
         <li><a href="http://monumentsmorts.univ-lille3.fr/">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
 	</ul>
       

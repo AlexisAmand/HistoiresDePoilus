@@ -39,16 +39,14 @@
 	
     <div id="rezo">
     	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png"    alt="logo facebook"   />
-        </a>
-        <img src="../images/googleplus.png"    alt="logo Google Plus"   /> 
+        <img src="../images/facebook.png" alt="logo facebook" /></a>
+        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
 	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png"    alt="logo Twitter"   />
-        </a>
+        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
     </div>
     
-<a href="../index.php" title="retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
+<a href="../index.php" title="Retour sur la page d'accueil du site">
+<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
 </header>
    
@@ -65,35 +63,38 @@
 </nav>
 
 <section>
+
 <aside>
 
-	<ul>
-        <li><a href="anzin.php">Anzin (59)</a></li>
-    	<li><a href="betheniville.php">Bétheniville (51)</a></li>
-        <li><a href="bry.php">Bry (59)</a></li>
-        <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
-        <li><a href="daix.php">Daix (21)</a></li>
-        <li><a href="eth.php">Eth (59)</a></li>
+<ul>
+    <li><a href="anzin.php">Anzin (59)</a></li>
+    <li><a href="betheniville.php">Bétheniville (51)</a></li>
+    <li><a href="bry.php">Bry (59)</a></li>
+    <li><a href="coulsore.php">Coulsore (59)</a></li>
+    <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
 
-        <li><a href="feucherolles.php">Feucherolles (78)</a></li>
-        <li><a href="frencq.php">Frencq (62)</a></li>
-        <li><a href="gelannes.php">Gélannes (10)</a></li>
-        <li><a href="gussignies.php">Gussignies (59)</a></li>
-        <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-        <li><a href="lourches.php">Lourches (59)</a></li>
+    <li><a href="daix.php">Daix (21)</a></li>
+    <li><a href="eth.php">Eth (59)</a></li>
+    <li><a href="feucherolles.php">Feucherolles (78)</a></li>
+    <li><a href="frencq.php">Frencq (62)</a></li>
+    <li><a href="gelannes.php">Gélannes (10)</a></li>
 
-        <li><a href="onnaing.php">Onnaing (59)</a></li>       
-        <li><a href="quarouble.php">Quarouble (59)</a></li>
-        <li><a href="roeulx.php">Roeulx (59)</a></li>
-        <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
-        <li><a href="saultain.php">Saultain (59)</a></li>
-        <li><a href="sebourg.php"  class="AsideSelected">Sebourg (59)</a></li>
+    <li><a href="gussignies.php">Gussignies (59)</a></li>
+    <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
+    <li><a href="lourches.php">Lourches (59)</a></li>
+    <li><a href="onnaing.php">Onnaing (59)</a></li>       
+    <li><a href="quarouble.php">Quarouble (59)</a></li>
 
-        <li><a href="verpel.php">Verpel (08)</a></li>
-        <li><a href="vicq.php">Vicq (59)</a></li>
-        <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
-        <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
-   </ul>
+    <li><a href="roeulx.php">Roeulx (59)</a></li>
+    <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
+    <li><a href="saultain.php">Saultain (59)</a></li>
+    <li><a href="sebourg.php"  class="AsideSelected">Sebourg (59)</a></li>
+    <li><a href="verpel.php">Verpel (08)</a></li>
+
+    <li><a href="vicq.php">Vicq (59)</a></li>
+    <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
+    <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
+</ul>
    
       <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -113,7 +114,9 @@
 
 <h1>Relevé des morts pour la France à Sebourg</h1>
 
-<p>Voici la liste des morts pour la France  et des victimes civiles de Sebourg (Nord) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant un petit commentaire. Cette liste a été établie en combinant les livres d&#39;or disponibles aux Archives Nationales et les fiches du site &quot;Mémoire des hommes&quot;.</p>
+<p>Voici la liste des morts pour la France  et des victimes civiles de Sebourg (Nord) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant un petit commentaire. Cette liste a été établie en combinant les livres d'or disponibles aux Archives Nationales et les fiches du site "Mémoire des hommes".</p>
+
+<p></p>
 
 <figure>
     <a href="images/monument-sebourg.jpg" id="single_image" title="Le Monument aux Morts de Sebourg">
@@ -122,7 +125,7 @@
     <figcaption>Le Monument aux Morts<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-
+<p></p>
 
 <table>
   <thead>
@@ -522,7 +525,7 @@ Philippe Ildefonse</td>
         à Valenciennes (Nord)</td>
     <td>28 octobre 1914 à bord
         <br />
-        du torpilleur &quot;Le mousquet&quot;</td>
+        du torpilleur "Le mousquet"</td>
     <td>apprenti<br />
         marin</td>
     <td>&nbsp;</td>

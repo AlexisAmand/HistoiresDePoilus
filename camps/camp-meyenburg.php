@@ -53,31 +53,37 @@
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
+
         <li><a href="camp-friedberg.php">Friedberg</a></li>
         <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camp-giessen.php">Giessen</a></li>
         <li><a href="camp-gorlitz.php">Görlitz</a></li>
+
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
         <li><a href="camp-guben.php">Guben</a></li>
         <li><a href="camp-hammelburg.php">Hammelburg</a></li>
         <li><a href="camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camp-herne.php">Herne</a></li>
+
         <li><a href="camp-heuberg.php">Heuberg</a></li>
         <li><a href="camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camp-limburg.php">Limburg</a></li>
         <li><a href="camp-mannheim.php">Mannheim</a></li>        
         <li><a href="camp-meschede.php">Meschede</a></li>
+
         <li><a href="camp-merzdorf.php">Merzdorf</a></li>
         <li><a href="camp-meyenburg.php" class="AsideSelected">Meyenburg</a></li>
     	<li><a href="camp-minden.php">Minden</a></li>
         <li><a href="camp-munster.php">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
+
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
+        
         <li><a href="camp-zerbst.php">Zerbst</a></li>
         <li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li> 
    </ul>
@@ -101,7 +107,7 @@
 <h1>Le camp de prisonniers de Meyenburg</h1>
 
 <p>
-Lucien THEAUD est membre du 70e R.I. Il est fait prisonnier à Lille, où il se trouve, car il est atteint de dysentrie. Après un séjour de 2 mois dans un hôpital de Lille, il est transféré au <a href="camp-limburg.php">camp de Limburg</a>, puis au camp de représailles de Celle avant d'entre envoyé au camp de Meyenburg, dans le Brandebourg, en Allemagne où il travaille à l'asséchement des marais. Il décrit les installations de Meyenburg comme très rudimentaires: baraques trop petites, des soldats qui mangent sur leurs paillasses de la nourriture très mauvaise et des hommes qui s'évanouissent pendant la punition "au poteau".
+Lucien THEAUD est membre du 70e R.I. Il est fait prisonnier à Lille, où il se trouve, car il est atteint de dysenterie. Après un séjour de 2 mois dans un hôpital de Lille, il est transféré au <a href="camp-limburg.php">camp de Limburg</a>, puis au camp de représailles de Celle avant d'entre envoyé au camp de Meyenburg, dans le Brandebourg, en Allemagne où il travaille à l'asséchement des marais. Il décrit les installations de Meyenburg comme très rudimentaires: baraques trop petites, des soldats qui mangent sur leurs paillasses de la nourriture très mauvaise et des hommes qui s'évanouissent pendant la punition "au poteau".
 </p>
 
 <h2>Source</h2>

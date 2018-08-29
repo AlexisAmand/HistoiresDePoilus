@@ -161,7 +161,7 @@
                 <td>1911 et 1912</td>
             </tr>
             <tr>
-                <td style="background-color:#D3CECE;">Réserve de l&#39;armée active</td>
+                <td style="background-color:#D3CECE;">Réserve de l'armée active</td>
                 <td>Nés entre 1881 et 1890</td>
                 <td>1901 et 1910</td>
             </tr>
@@ -171,7 +171,7 @@
                 <td>1895 et 1900</td>
             </tr>
             <tr>
-                <td style="background-color:#D3CECE;">Réserve de l&#39;armée territoriale</td>
+                <td style="background-color:#D3CECE;">Réserve de l'armée territoriale</td>
                 <td>Nés entre 1869 et 1874</td>
                 <td>1889 et 1894</td>
             </tr>
@@ -294,7 +294,7 @@
 
 </div>
 
-    <p>Pour simplifier la lecture de ce site, j&#39;ai regroupé dans cette rubrique tous les hommes ayant été mobilisés, qu&#39;ils soient combattant ou non.</p>
+    <p>Pour simplifier la lecture de ce site, j'ai regroupé dans cette rubrique tous les hommes ayant été mobilisés, qu'ils soient combattant ou non.</p>
 
 </article>
 

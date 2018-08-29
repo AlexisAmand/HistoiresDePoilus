@@ -54,33 +54,39 @@
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
+
         <li><a href="camp-friedberg.php">Friedberg</a></li>
         <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camp-giessen.php">Giessen</a></li>
         <li><a href="camp-gorlitz.php">Görlitz</a></li>
+
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
         <li><a href="camp-guben.php">Guben</a></li>
         <li><a href="camp-hammelburg.php">Hammelburg</a></li>
         <li><a href="camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camp-herne.php">Herne</a></li>
+
         <li><a href="camp-heuberg.php">Heuberg</a></li>
         <li><a href="camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camp-limburg.php">Limburg</a></li>
         <li><a href="camp-mannheim.php">Mannheim</a></li>        
         <li><a href="camp-meschede.php">Meschede</a></li>
+
         <li><a href="camp-merzdorf.php">Merzdorf</a></li>
         <li><a href="camp-meyenburg.php">Meyenburg</a></li>
     	<li><a href="camp-minden.php" class="AsideSelected">Minden</a></li>
         <li><a href="camp-munster.php">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
+
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
+
         <li><a href="camp-zerbst.php">Zerbst</a></li>
-        
+        <li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li>         
    </ul>
  
     <div id="pubaside">
@@ -101,7 +107,7 @@
 
 <h1>Le camp de prisonniers de Minden</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
 <p>Les 2 camps de Minden étaient situés à Minderheide, un quartier de la ville. Le « lager I » était réservé aux prisonniers de guerre et le « lager II » aux autres prisonniers. Les deux camps furent réunis avant la visite des délégués Espagnols du 24 mars 1916. Le camp était constitué de baraques en bois contiguës par les angles et entourant une grande cour. Il est considéré comme le camp de plus dur.</p> 
 
@@ -149,7 +155,7 @@
     </tr>
 </table>
      
-<p>Dans <cite>Westfalen in Ersten Weltkrieg</cite>, l&#39;historien allemand Rainer PÖPPINGHEGE évalue à 25240 le nombre total de soldats prisonniers dans le camp de Minden à la fin de la Première Guerre Mondiale.</p><p>Le <a href="http://www.mindenermuseum.de">Musée de Minden</a> à mis en ligne une video qui permet de faire une &quot;visite 3D&quot; dans le camp de prisonniers. (durée: 4 min 35)</p>
+<p>Dans <cite>Westfalen in Ersten Weltkrieg</cite>, l'historien allemand Rainer PÖPPINGHEGE évalue à 25240 le nombre total de soldats prisonniers dans le camp de Minden à la fin de la Première Guerre Mondiale.</p><p>Le <a href="http://www.mindenermuseum.de">Musée de Minden</a> à mis en ligne une video qui permet de faire une "visite 3D" dans le camp de prisonniers. (durée: 4 min 35)</p>
 
     <div class="video">
         <video controls>

@@ -92,11 +92,11 @@
 					    <td>Tannenberg<br />(Prusse-Orientale)</td>
 					    <td>Bataille de Tannenberg</td>
 					    <td>du 26 août 1914<br />au 30 août 1914</td>
-					    <td>Victore allemande</td>
+					    <td>Victoire allemande</td>
 					</tr>  
   					<tr>
-        				<td>Près de l&#39;ile d&#39;Odensholm<br />(Mer Baltique)</td>
-        				<td>Combat naval de l&#39;Île d&#39;Odensholm</td>
+        				<td>Près de l'ile d'Odensholm<br />(Mer Baltique)</td>
+        				<td>Combat naval de l'Île d'Odensholm</td>
         				<td>26 août 1914</td>
        					<td>Victoire russe</td>
  					</tr>  
@@ -110,13 +110,13 @@
         				<td>Krasnik<br />(actuelle Pologne)</td>
         				<td>Bataille de Krasnik</td>
         				<td>du 23 août 1914<br />au 25 août 1914</td>
-        				<td>Victoire de l&#39;Autriche-Hongrie</td>
+        				<td>Victoire de l'Autriche-Hongrie</td>
   					</tr>    
   					<tr>
         				<td>Kamarow<br />(actuelle Pologne)</td>
         				<td>Bataille de Kamarow</td>
         				<td>du 26 août 1914<br />au 2 septembre 1914</td>
-        				<td>Victoire de l&#39;Autriche-Hongrie</td>
+        				<td>Victoire de l'Autriche-Hongrie</td>
   					</tr>    
   					<tr>
         				<td>Mazurie<br />(Prusse-Orientale)</td>
@@ -146,7 +146,7 @@
         				<td>Limanowa<br />(Galicie)</td>
         				<td>Bataille de Limanowa</td>
         				<td>Du 1er décembre 1914<br />au 13 décembre 1914</td>
-        				<td>Arrêt de l&#39;offensive russe</td>
+        				<td>Arrêt de l'offensive russe</td>
   					</tr>    
   					<tr>
         				<td>Bolimov<br />(Pologne)</td>

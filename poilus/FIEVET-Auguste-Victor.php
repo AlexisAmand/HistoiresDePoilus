@@ -61,21 +61,25 @@
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
+
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php" class="AsideSelected">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
+
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
+        
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
         <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
@@ -149,7 +153,7 @@
 
 <p>Mais cette brigade vient de recevoir l'ordre de se porter vers l'Est. Le <strong>1er corps</strong> doit, de ce fait, assurer sa couverture par ses propres moyens. Le régiment reçoit, en conséquence, l'ordre d'aller garder les ponts de la Meuse, dans la région de Monthermé (Ardennes) ainsi que les ponts de Fumay (Ardennes). II séjourne trois jours à Fumay. Le 13 août 1914, <strong>Auguste</strong> et le <strong>33e Régiment d'Infanterie</strong> entre à Treignes, en Belgique, salué par des acclamations enthousiastes et des cris prolongés de «Vive la France !».</p>
 
-<br/><h2>La &quot;bataille de Dinant&quot;</h2>
+<br/><h2>La "bataille de Dinant"</h2>
 
 <p>Dès le lendemain (le 14 août), le <strong>33e Régiment d'Infanterie</strong> partait, par alerte, à deux heures, dans la direction de Dinant (Belgique) et allait avoir l'honneur de participer au premier choc sérieux en Belgique, entre l'armée française et l'armée allemande.</p>
 
@@ -191,7 +195,7 @@
 
 <br/><h2>L'après-guerre d'Auguste</h2>
 
-<p><strong>Auguste</strong> reçoit la croix de guerre "étoile de vermeil" en août 1920 puis  la médaille militaire par décret du 11 avril 1962. Ma mère a très bien connu Auguste. Elle se souvient par exemple d'un cadre contenant un &quot;diplôme&quot; et une médaille il aurait également tenu un magasin de chaussures en face de la place de Thiers à Bruay-sur-l'-Escaut.</p>
+<p><strong>Auguste</strong> reçoit la croix de guerre "étoile de vermeil" en août 1920 puis  la médaille militaire par décret du 11 avril 1962. Ma mère a très bien connu Auguste. Elle se souvient par exemple d'un cadre contenant un "diplôme" et une médaille il aurait également tenu un magasin de chaussures en face de la place de Thiers à Bruay-sur-l'-Escaut.</p>
 
 <figure>
     <a href="sources/fav-matricule-01.jpg" id="single_image" title="Extrait de la fiche matricule d'Auguste Victor FIEVET">

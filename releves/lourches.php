@@ -44,16 +44,14 @@
 	
     <div id="rezo">
     	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png"    alt="logo facebook"/>
-        </a>
-        <img src="../images/googleplus.png"    alt="logo Google Plus"   /> 
+        <img src="../images/facebook.png" alt="logo facebook" /></a>
+        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
 	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png"    alt="logo Twitter"   />
-        </a>
+        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
     </div>
     
-<a href="../index.php" title="retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
+<a href="../index.php" title="Retour sur la page d'accueil du site">
+<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
 </header>
    
@@ -72,33 +70,35 @@
 
 <aside>
 
-	<ul>
-        <li><a href="anzin.php">Anzin (59)</a></li>
-    	<li><a href="betheniville.php">Bétheniville (51)</a></li>
-        <li><a href="bry.php">Bry (59)</a></li>
-        <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
-        <li><a href="daix.php">Daix (21)</a></li>
-        <li><a href="eth.php">Eth (59)</a></li>
-        
-        <li><a href="feucherolles.php">Feucherolles (78)</a></li>
-        <li><a href="frencq.php">Frencq (62)</a></li>
-        <li><a href="gelannes.php">Gélannes (10)</a></li>
-        <li><a href="gussignies.php">Gussignies (59)</a></li>
-        <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-        <li><a href="lourches.php"  class="AsideSelected">Lourches (59)</a></li>
-        
-        <li><a href="onnaing.php">Onnaing (59)</a></li>        
-        <li><a href="quarouble.php">Quarouble (59)</a></li>
-        <li><a href="roeulx.php">Roeulx (59)</a></li>
-        <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
-        <li><a href="saultain.php">Saultain (59)</a></li>
-        <li><a href="sebourg.php">Sebourg (59)</a></li>
+<ul>
+    <li><a href="anzin.php">Anzin (59)</a></li>
+    <li><a href="betheniville.php">Bétheniville (51)</a></li>
+    <li><a href="bry.php">Bry (59)</a></li>
+    <li><a href="coulsore.php">Coulsore (59)</a></li>
+    <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
 
-        <li><a href="verpel.php">Verpel (08)</a></li>
-        <li><a href="vicq.php">Vicq (59)</a></li>
-        <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
-        <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
-   </ul>
+    <li><a href="daix.php">Daix (21)</a></li>
+    <li><a href="eth.php">Eth (59)</a></li>
+    <li><a href="feucherolles.php">Feucherolles (78)</a></li>
+    <li><a href="frencq.php">Frencq (62)</a></li>
+    <li><a href="gelannes.php">Gélannes (10)</a></li>
+
+    <li><a href="gussignies.php">Gussignies (59)</a></li>
+    <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
+    <li><a href="lourches.php"  class="AsideSelected">Lourches (59)</a></li>
+    <li><a href="onnaing.php">Onnaing (59)</a></li>        
+    <li><a href="quarouble.php">Quarouble (59)</a></li>
+
+    <li><a href="roeulx.php">Roeulx (59)</a></li>
+    <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
+    <li><a href="saultain.php">Saultain (59)</a></li>
+    <li><a href="sebourg.php">Sebourg (59)</a></li>
+    <li><a href="verpel.php">Verpel (08)</a></li>
+
+    <li><a href="vicq.php">Vicq (59)</a></li>
+    <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
+    <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
+</ul>
    
       <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -122,6 +122,8 @@
 
 <p>Voici la liste des morts pour la France et des victimes civiles de Lourches (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php">laissant un petit message.</a></p>
 
+<p></p>
+
 <figure>
     <a href="images/lourches-monument-aux-morts.jpg" id="single_image" title="Le Monument aux Morts de Lourches">
     <img src="images/mini/lourches-monument-aux-morts.jpg" alt="le Monument aux Morts pour la France de Lourches sur une carte postale ancienne"/>
@@ -129,6 +131,7 @@
     <figcaption>Le Monument aux Morts, Place Carnot.<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
+<p></p>
 
 <table>
   <thead>
@@ -156,7 +159,7 @@
         Le Priez (Somme)</td>
     <td>soldat</td>
     <td>1er R.I</td>
-    <td>tué à l&#39;ennemi</td>
+    <td>tué à l'ennemi</td>
     </tr>
   <tr>
     <td>BAILLEUX<br />
@@ -169,7 +172,7 @@
         Minaucourt (Marne)</td>
     <td>soldat</td>
     <td>127e R.I</td>
-    <td>tué à l&#39;ennemi</td>
+    <td>tué à l'ennemi</td>
     </tr>
   <tr>
     <td>BAILLEUX<br />
@@ -208,7 +211,7 @@
         Maricourt (Somme)</td>
     <td>soldat</td>
     <td>127e R.I</td>
-    <td>tué à l&#39;ennemi</td>
+    <td>tué à l'ennemi</td>
     </tr>
   <tr>
     <td>BAUDUIN<br />
@@ -222,7 +225,7 @@
     <td>canonnier<br />
         servant</td>
     <td>256e R.A</td>
-    <td>tué à l&#39;ennemi</td>
+    <td>tué à l'ennemi</td>
     </tr>
   <tr>
     <td>BAUMAN<br />
@@ -248,7 +251,7 @@
         Saint-Hilaire-le-Grand (Marne)</td>
     <td>soldat</td>
     <td>161e R.I</td>
-    <td>tué à l&#39;ennemu</td>
+    <td>tué à l'ennemu</td>
     </tr>
   <tr>
     <td>BELPEER<br />
@@ -650,7 +653,7 @@
     <td>2 février 1889 à<br />
         Anor (Nord)</td>
     <td class="auto-style2">5 mai 1915 à<br />
-        Bois d&#39;Ailly (Meuse)</td>
+        Bois d'Ailly (Meuse)</td>
     <td>sergent</td>
     <td>8e R.I</td>
     <td>&nbsp;</td>
@@ -684,7 +687,7 @@
         <a href="http://cartespostalesanciennes.genealexis.fr/album/37-beuvrages" title="cartes postales anciennes de Beuvrages sur le site Genealexis">Beuvrages</a> (Nord)</td>
     <td class="auto-style2">30 octobre 1914 à
         <br />
-        Foret de l&#39;Argonne (Meuse)</td>
+        Foret de l'Argonne (Meuse)</td>
     <td>soldat</td>
     <td>4e R.I</td>
     <td>&nbsp;</td>

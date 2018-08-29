@@ -53,30 +53,37 @@
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
+
         <li><a href="camp-friedberg.php">Friedberg</a></li>
         <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camp-giessen.php">Giessen</a></li>
         <li><a href="camp-gorlitz.php">Görlitz</a></li>
+
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
         <li><a href="camp-guben.php">Guben</a></li>
         <li><a href="camp-hammelburg.php">Hammelburg</a></li>
         <li><a href="camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camp-herne.php">Herne</a></li>
+
         <li><a href="camp-heuberg.php">Heuberg</a></li>
         <li><a href="camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camp-limburg.php">Limburg</a></li>
         <li><a href="camp-mannheim.php">Mannheim</a></li>
         <li><a href="camp-meschede.php" class="AsideSelected">Meschede</a></li>
+
         <li><a href="camp-merzdorf.php">Merzdorf</a></li>
+        <li><a href="camp-meyenburg.php">Meyenburg</a></li>
     	<li><a href="camp-minden.php">Minden</a></li>
         <li><a href="camp-munster.php">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
+
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
+
         <li><a href="camp-zerbst.php">Zerbst</a></li>
         <li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li> 
    </ul>
@@ -99,13 +106,15 @@
 
 <h1>Le camp de prisonniers de Meschede</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><p></p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p>
 
 <figure>
     <a href="images/Meschede/camp-meschede.jpg" id="single_image" title="Localisation du camp de Meschede">
     <img src="miniatures/Meschede/camp-meschede.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Meschede"></a>
     <figcaption>Localisation du camp de Meschede<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure> 
+
+<p>Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php">Wetzlar</a> arrivent au camp de Meschede.</p>
 
 <figure>
     <a href="images/Meschede/meschede-01.jpg" id="single_image" title="Un groupe de prisonniers devant un baraquement à Meschede">
@@ -147,6 +156,7 @@
 
 <ul>   
     <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+    <li>L'Echo d'Alger du 20 décembre 1915</li>
 </ul>  
 
 <p class="sources">

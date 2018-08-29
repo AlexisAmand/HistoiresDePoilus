@@ -5,7 +5,7 @@
 <meta charset="utf-8">
           
 <title>Histoires de Poilus - Liste de quelques poilus de la Marne</title>
-<meta content="Petites biographies de soldats de ma famille ayant participé à la Premiére Guerre Mondiale et ayant vécu dans la Marne" name="description">
+<meta content="Petites biographies de soldats de ma famille ayant participé à la Première Guerre Mondiale et ayant vécu dans la Marne" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -61,21 +61,25 @@
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php" >CARIN Théophile</a></li>
+
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
+
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
+        
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
         <li><a href="soldats-ardennes.php">les soldats des ardennes</a></li>
         <li><a href="soldats-marne.php" class="asideselected">les soldats de la marne</a></li>
@@ -105,7 +109,7 @@
 
     <li><strong>Jules Alphonse ASTIER</strong>, né le 14 février 1872 à Bétheniville (Marne), petit-fils de mon aïeule Julie Joséphine KRAUTH via Louise Adèle BALTAZART. <br /><br /></li>
 
-    <li><strong>Eugène Alexandre CARON</strong>, né le 16 avril 1869 à Montigny-sur-Vesle (Marne), fils de Pierre Alexandre et de Zélia Celestine HUILLERET. Avant la Grande Guerre, il vit à Reims, successivement 164 Rue du Barbâtre (1895) et 28 Rue de Savoie (1910), où il excerce la profession de mécanicien. A la mobilisation, il rejoint la 6e section d'infirmiers le 3 août 1914. Le 24 août 1915, il est détaché dans une usine de Clermont-Ferrant.<br /><br /></li>
+    <li><strong>Eugène Alexandre CARON</strong>, né le 16 avril 1869 à Montigny-sur-Vesle (Marne), fils de Pierre Alexandre et de Zélia Celestine HUILLERET. Avant la Grande Guerre, il vit à Reims, successivement 164 Rue du Barbâtre (1895) et 28 Rue de Savoie (1910), où il exerce la profession de mécanicien. A la mobilisation, il rejoint la 6e section d'infirmiers le 3 août 1914. Le 24 août 1915, il est détaché dans une usine de Clermont-Ferrant.<br /><br /></li>
 
 </ul>
 
@@ -123,7 +127,7 @@
 
 <ul>
 
-    <li><strong>Léopold PAQUET</strong> est né le 5 décembre 1886 à Reims (Marne), fils légitime de François PAQUET et Marie LEFEVRE. Le 20 juin 1914, il épouse à Bétheniville Marie Hélène ARNOULD, la soeur de mon arriére-grand-pére. Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 août 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 août 1917 pour paralysie radiale du bras gauche, juste aprés la Bataille des Ardennes. Il est décédé à Bétheniville le 10 octobre 1953.<br /><br /></li>
+    <li><strong>Léopold PAQUET</strong> est né le 5 décembre 1886 à Reims (Marne), fils légitime de François PAQUET et Marie LEFEVRE. Le 20 juin 1914, il épouse à Bétheniville Marie Hélène ARNOULD, la soeur de mon arrière-grand-père. Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 août 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 août 1917 pour paralysie radiale du bras gauche, juste après la Bataille des Ardennes. Il est décédé à Bétheniville le 10 octobre 1953.<br /><br /></li>
 
 </ul>
     

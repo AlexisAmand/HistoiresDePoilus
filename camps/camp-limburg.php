@@ -53,31 +53,37 @@
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
+
         <li><a href="camp-friedberg.php">Friedberg</a></li>
         <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camp-giessen.php">Giessen</a></li>
         <li><a href="camp-gorlitz.php">Görlitz</a></li>
+
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
         <li><a href="camp-guben.php">Guben</a></li>
         <li><a href="camp-hammelburg.php">Hammelburg</a></li>
         <li><a href="camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camp-herne.php">Herne</a></li>
+
         <li><a href="camp-heuberg.php">Heuberg</a></li>
         <li><a href="camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camp-limburg.php" class="AsideSelected">Limburg</a></li>
         <li><a href="camp-mannheim.php">Mannheim</a></li>        
         <li><a href="camp-meschede.php">Meschede</a></li>
+
         <li><a href="camp-merzdorf.php">Merzdorf</a></li>
         <li><a href="camp-meyenburg.php">Meyenburg</a></li>
     	<li><a href="camp-minden.php">Minden</a></li>
         <li><a href="camp-munster.php">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
+
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
+        
         <li><a href="camp-zerbst.php">Zerbst</a></li>
         <li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li> 
    </ul>
@@ -100,11 +106,11 @@
 
 <h1>Le camp de prisonniers de Limburg</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
 <p></p>
 
-<p>Le camp de Limburg était situé dans une région appellée Hesse-Nassau (en allemand Hessen-Nassau).</p>
+<p>Le camp de Limburg était situé dans une région appelée Hesse-Nassau (en allemand Hessen-Nassau).</p>
 
 <figure>    
 	<a href="images/Limburg/localisation-limburg.jpg" id="single_image" title="Localisation du camp de Limburg">
@@ -216,19 +222,21 @@
     <figcaption>Vue prise depuis la tour <br />(source allemande)</figcaption>
 </figure>
 
+<p>Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php">Wetzlar</a> arrivent au camp de Limburg.</p>
+
 <h3>Emilien Ordonnaud</h3>
 
-<p>Le 23 mai 2017, j'ai été contacté par Muriel Dupuis Mallinger. Elle m'a raconté qu'Emilien Ordonnaud, son arriére-grand-pére, a été blessé et fait prisonnier le 28 août 1914 à Moislain dans la Somme puis emprisonné au camp du Limburg. Il travaillait dans une ferme. Elle ne sait pas si c'était en même temps ou ensuite. Il est resté en Allemagne jusqu'en 1918. Elle m'a gentiment permis de partager avec vous les photos qu'elle m'a envoyé.</p>
+<p>Le 23 mai 2017, j'ai été contacté par Muriel Dupuis Mallinger. Elle m'a raconté qu'Emilien Ordonnaud, son arrière-grand-père, a été blessé et fait prisonnier le 28 août 1914 à Moislain dans la Somme puis emprisonné au camp du Limburg. Il travaillait dans une ferme. Elle ne sait pas si c'était en même temps ou ensuite. Il est resté en Allemagne jusqu'en 1918. Elle m'a gentiment permis de partager avec vous les photos qu'elle m'a envoyé.</p>
 
 <figure>
     <a href="images/Limburg/groupe.jpg" id="single_image" title="un groupe de prisonniers dans le camp de Limburg">
-    <img src="miniatures/Limburg/groupe.jpg" alt="un groupe de prisonniers dans le camp de Limburg pendant la Premiére Guerre Mondiale"></a>
+    <img src="miniatures/Limburg/groupe.jpg" alt="un groupe de prisonniers dans le camp de Limburg pendant la Première Guerre Mondiale"></a>
     <figcaption>Un groupe de prisonniers<br />(source: Muriel Dupuis Mallinger)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Limburg/groupe-neige.jpg" id="single_image" title="un groupe de prisonniers dans le camp de Limburg">
-    <img src="miniatures/Limburg/groupe-neige.jpg" alt="un groupe de prisonniers dans le camp de Limburg pendant la Premiére Guerre Mondiale"></a>
+    <img src="miniatures/Limburg/groupe-neige.jpg" alt="un groupe de prisonniers dans le camp de Limburg pendant la Première Guerre Mondiale"></a>
     <figcaption>Un groupe de prisonniers<br />(source: Muriel Dupuis Mallinger)</figcaption>
 </figure>
 
@@ -240,7 +248,7 @@
 
 <figure>
     <a href="images/Limburg/ordonnaud-hopital.jpg" id="single_image" title="L'hôpital du camp de Limburg">
-    <img src="miniatures/Limburg/ordonnaud-hopital.jpg" alt="L'hôpital du camp de Limburg pendant la Premiére Guerre Mondiale"></a>
+    <img src="miniatures/Limburg/ordonnaud-hopital.jpg" alt="L'hôpital du camp de Limburg pendant la Première Guerre Mondiale"></a>
     <figcaption>L'hôpital du camp de Limburg<br />(source: Muriel Dupuis Mallinger)</figcaption>
 </figure>
 
@@ -257,6 +265,7 @@
     <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>
     <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre, 1924)</li>
     <li>Rapports des délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne, 1914-1917</li>  
+    <li>L'Echo d'Alger du 20 décembre 1915</li>
 </ul>    
 
 <p class="sources">

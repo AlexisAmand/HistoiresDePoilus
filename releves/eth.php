@@ -57,33 +57,35 @@
 
 <aside>
 
-	<ul>
-        <li><a href="anzin.php">Anzin (59)</a></li>
-    	<li><a href="betheniville.php">Bétheniville (51)</a></li>
-        <li><a href="bry.php">Bry (59)</a></li>
-        <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
-        <li><a href="daix.php">Daix (21)</a></li>
-        <li><a href="eth.php"  class="AsideSelected">Eth (59)</a></li>
+<ul>
+    <li><a href="anzin.php">Anzin (59)</a></li>
+    <li><a href="betheniville.php">Bétheniville (51)</a></li>
+    <li><a href="bry.php">Bry (59)</a></li>
+    <li><a href="coulsore.php">Coulsore (59)</a></li>
+    <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
 
-        <li><a href="feucherolles.php">Feucherolles (78)</a></li>
-        <li><a href="frencq.php">Frencq (62)</a></li>
-        <li><a href="gelannes.php">Gélannes (10)</a></li>
-        <li><a href="gussignies.php">Gussignies (59)</a></li>
-        <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-    	<li><a href="lourches.php">Lourches (59)</a></li>
+    <li><a href="daix.php">Daix (21)</a></li>
+    <li><a href="eth.php"  class="AsideSelected">Eth (59)</a></li>
+    <li><a href="feucherolles.php">Feucherolles (78)</a></li>
+    <li><a href="frencq.php">Frencq (62)</a></li>
+    <li><a href="gelannes.php">Gélannes (10)</a></li>
 
-        <li><a href="onnaing.php">Onnaing (59)</a></li>   
-        <li><a href="quarouble.php">Quarouble (59)</a></li>
-        <li><a href="roeulx.php">Roeulx (59)</a></li>
-        <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
-        <li><a href="saultain.php">Saultain (59)</a></li>
-        <li><a href="sebourg.php">Sebourg (59)</a></li>
+    <li><a href="gussignies.php">Gussignies (59)</a></li>
+    <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
+    <li><a href="lourches.php">Lourches (59)</a></li>
+    <li><a href="onnaing.php">Onnaing (59)</a></li>   
+    <li><a href="quarouble.php">Quarouble (59)</a></li>
 
-        <li><a href="verpel.php">Verpel (08)</a></li>
-        <li><a href="vicq.php">Vicq (59)</a></li>
-        <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
-        <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
-   </ul>
+    <li><a href="roeulx.php">Roeulx (59)</a></li>
+    <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
+    <li><a href="saultain.php">Saultain (59)</a></li>
+    <li><a href="sebourg.php">Sebourg (59)</a></li>
+    <li><a href="verpel.php">Verpel (08)</a></li>
+    
+    <li><a href="vicq.php">Vicq (59)</a></li>
+    <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
+    <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
+</ul>
    
       <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -103,14 +105,16 @@
 
 <h1>Relevé des morts pour la France à Eth</h1>
 
-    <p>Voici la liste des morts pour la France  de Eth (Nord) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit commentaire</a>.</p>
-    
+<p>Voici la liste des morts pour la France  de Eth (Nord) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit commentaire</a>.</p>
+
+<p></p>
+
     <figure>
         <img src="images/mini/monument-eth.jpg" alt="Le Monument aux Morts pour la France à Eth">
         <figcaption>Le Monument aux Morts d'Eth,<br />dans le petit cimetière.</figcaption>
     </figure>
 
-<br />
+<p></p>
 
 <table>
   <thead>
@@ -134,7 +138,7 @@
     <td>Le 11 mai 1885<br />à Eth (Nord)</td>
     <td>Le 30 octobre 1914<br />à Vailly-sur-Aisne (Aisne)</td>
     <td>306e R.I</td>
-    <td>Tué à l&#39;ennemi</td>
+    <td>Tué à l'ennemi</td>
     </tr>
   <tr>
     <td>CHEVAL<br />Henri</td>
@@ -153,9 +157,9 @@
   <tr>
     <td>DASSONVILLE<br />Henri</td>
     <td>Le 11 décembre 1894<br />à Eth (Nord)</td>
-    <td>Le 24 décembre 1916<br />à l&#39;Est de Berny (Somme)</td>
+    <td>Le 24 décembre 1916<br />à l'Est de Berny (Somme)</td>
     <td>95e R.I</td>
-    <td>Tué à l&#39;ennemi</td>
+    <td>Tué à l'ennemi</td>
     </tr>
   <tr>
     <td>FOLET<br />
@@ -163,7 +167,7 @@
     <td>Le 24 décembre 1890<br />à Valenciennes (Nord)</td>
     <td>Le 9 décembre 1914<br />à Saint-Hubert (Marne)</td>
     <td>91e R.I</td>
-    <td>Tué à l&#39;ennemi</td>
+    <td>Tué à l'ennemi</td>
     </tr>
   <tr>
     <td>HONORE<br />Zéphyr Georges</td>
@@ -184,14 +188,14 @@
     <td>Le 28 janvier 1893<br />à Eth (Nord)</td>
     <td>Le 23 août 1914<br />à St-Gérard (Fosse)<br />(Belgique)</td>
     <td>43e R.I</td>
-    <td>Tué à l&#39;ennemi</td>
+    <td>Tué à l'ennemi</td>
     </tr>
   </table>
 
 <br /><br />
 
     <h2>Tombes de guerre du Commonwealth</h2>
-    <p>Le cimetière communal d&#39;Eth contient aussi 9 tombes du Commonwealth.</p>
+    <p>Le cimetière communal d'Eth contient aussi 9 tombes du Commonwealth.</p>
     <p>&nbsp;</p>
 
     <table>

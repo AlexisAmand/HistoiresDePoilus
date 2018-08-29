@@ -63,21 +63,25 @@
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
+
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
+
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
+        
         <li><a href="VELU-Adrien.php" class="AsideSelected">VELU Adrien (+)</a></li>
         <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
@@ -111,11 +115,11 @@
     <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir - Archives Départementales du Nord)</figcaption>
 </figure>
 
-<p>Inscrit sous le n°1 de la liste de Marcoing, Adrien est incorporé au <strong>1er Régiment d&#39;Infanterie</strong> qu&#39;il rejoint le 3 octobre 1910 en tant que soldat de 2e classe. Il est envoyé en congé le 25 septembre 1912 en attendant son passage dans la réserve de l&#39;armée active avec <em>certificat de bonne conduite accordé.</em></p>
+<p>Inscrit sous le n°1 de la liste de Marcoing, Adrien est incorporé au <strong>1er Régiment d'Infanterie</strong> qu'il rejoint le 3 octobre 1910 en tant que soldat de 2e classe. Il est envoyé en congé le 25 septembre 1912 en attendant son passage dans la réserve de l'armée active avec <em>certificat de bonne conduite accordé.</em></p>
 
 <br/><h2>Adrien et le Ier R.I</h2>
 
-<p>A la mobilisation, <strong>Adrien VELU</strong> rejoint le <strong>1er Régiment d'Infanterie</strong> en tant que soldat de 2e classe. Le régiment part de Cambrai par voie ferrée dès le 5 août et arrive à Rumigny le même jour. Le 1er R.I s&#39;est illustré en Argonne, à Verdun, au Chemin des Dames, dans la Somme, dans l&#39;Aisne et pendant la Bataille de la Marne.</p> 
+<p>A la mobilisation, <strong>Adrien VELU</strong> rejoint le <strong>1er Régiment d'Infanterie</strong> en tant que soldat de 2e classe. Le régiment part de Cambrai par voie ferrée dès le 5 août et arrive à Rumigny le même jour. Le 1er R.I s'est illustré en Argonne, à Verdun, au Chemin des Dames, dans la Somme, dans l'Aisne et pendant la Bataille de la Marne.</p> 
     
 <figure>
     <a href="images/Assaut-chemin-des-dames.jpg" id="single_image" title="Soldats français sur le Chemin des Dames">
@@ -123,7 +127,7 @@
     <figcaption>Assaut français sur le Chemin des Dames<br />(cliquez pour agrandir - Archives du Queensland, Australie)</figcaption>
 </figure>
     
-<p>3300 de ses hommes, dont <strong>Adrien</strong>, donneront leurs vies et lui vaudront quatre citations à l&#39;ordre de l&#39;armée. Le 19 octobre 1918, le Général de CASTELNAU le décore de la fourragère au couleur de la médaille militaire.</p>
+<p>3300 de ses hommes, dont <strong>Adrien</strong>, donneront leurs vies et lui vaudront quatre citations à l'ordre de l'armée. Le 19 octobre 1918, le Général de CASTELNAU le décore de la fourragère au couleur de la médaille militaire.</p>
 
 <br/><h2>Adrien, mort pour la France</h2>
 

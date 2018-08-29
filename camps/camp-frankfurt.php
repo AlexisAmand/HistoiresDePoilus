@@ -53,31 +53,37 @@
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camp-frankfurt.php" class="AsideSelected">Francfort-sur-le-Main</a></li>
+
         <li><a href="camp-friedberg.php">Friedberg</a></li>
         <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camp-giessen.php">Giessen</a></li>
         <li><a href="camp-gorlitz.php">Görlitz</a></li>
+
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
         <li><a href="camp-guben.php">Guben</a></li>
         <li><a href="camp-hammelburg.php">Hammelburg</a></li>
         <li><a href="camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camp-herne.php">Herne</a></li>
+
         <li><a href="camp-heuberg.php">Heuberg</a></li>
         <li><a href="camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camp-limburg.php">Limburg</a></li>
         <li><a href="camp-mannheim.php">Mannheim</a></li>        
         <li><a href="camp-meschede.php">Meschede</a></li>
+
         <li><a href="camp-merzdorf.php">Merzdorf</a></li>
         <li><a href="camp-meyenburg.php">Meyenburg</a></li>
     	<li><a href="camp-minden.php">Minden</a></li>
         <li><a href="camp-munster.php">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
+
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
+        
         <li><a href="camp-zerbst.php">Zerbst</a></li>
         <li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li> 
    </ul>
@@ -100,7 +106,7 @@
 
 <h1>Le camp de prisonniers de Francfort-sur-le-Main</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p><br /><p>Le camp de Francfort a/Main a été créé au début de l’année 1918. Un rapport de l’Office central belge pour les prisonniers de guerre indique qu’il était installé dans une école entourée d’un grillage, pour éviter tout contact avec l’extérieur. Les dortoirs contenaient chacun 6 à 8 lits garnis d’une paillasse rembourrée d’algues marines, d’un traversin et de deux couvertures. En mai 1918, le camp de Höchst-a/Main est réuni à celui de Francfort a/Main. L’évacuation de se camp s’est faite très rapidement le 18 novembre 1918, par Nancy.</p> 
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br /><p>Le camp de Francfort a/Main a été créé au début de l’année 1918. Un rapport de l’Office central belge pour les prisonniers de guerre indique qu’il était installé dans une école entourée d’un grillage, pour éviter tout contact avec l’extérieur. Les dortoirs contenaient chacun 6 à 8 lits garnis d’une paillasse rembourrée d’algues marines, d’un traversin et de deux couvertures. En mai 1918, le camp de Höchst-a/Main est réuni à celui de Francfort a/Main. L’évacuation de se camp s’est faite très rapidement le 18 novembre 1918, par Nancy.</p> 
 
 <figure>
     <a href="images/Frankfurt/frankfurt-01.jpg" id="single_image" title="des français dans le camp de Frankfurt">

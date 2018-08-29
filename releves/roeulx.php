@@ -28,16 +28,14 @@
 	
     <div id="rezo">
     	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png"    alt="logo facebook"   />
-        </a>
-        <img src="../images/googleplus.png"    alt="logo Google Plus"   /> 
+        <img src="../images/facebook.png" alt="logo facebook" /></a>
+        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
 	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png"    alt="logo Twitter"   />
-        </a>
+        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
     </div>
     
-<a href="../index.php" title="retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
+<a href="../index.php" title="Retour sur la page d'accueil du site">
+<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
 </header>
    
@@ -57,32 +55,35 @@
 
 <aside>
 
-	<ul>
-        <li><a href="anzin.php">Anzin (59)</a></li>
-    	<li><a href="betheniville.php">Bétheniville (51)</a></li>
-        <li><a href="bry.php">Bry (59)</a></li>
-        <li><a href="daix.php">Daix (21)</a></li>
-        <li><a href="eth.php">Eth (59)</a></li>
-   
-        <li><a href="feucherolles.php">Feucherolles (78)</a></li>
-        <li><a href="frencq.php">Frencq (62)</a></li>
-        <li><a href="gelannes.php">Gélannes (10)</a></li>
-        <li><a href="gussignies.php">Gussignies (59)</a></li>
-        <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-    	<li><a href="lourches.php">Lourches (59)</a></li>
-        
-        <li><a href="onnaing.php">Onnaing (59)</a></li>    
-        <li><a href="quarouble.php">Quarouble (59)</a></li>
-        <li><a href="roeulx.php"  class="AsideSelected">Roeulx (59)</a></li>
-        <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
-        <li><a href="saultain.php">Saultain (59)</a></li>
-        <li><a href="sebourg.php">Sebourg (59)</a></li>
-        
-        <li><a href="verpel.php">Verpel (08)</a></li>
-        <li><a href="vicq.php">Vicq (59)</a></li>
-        <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
-        <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
-   </ul>
+<ul>
+    <li><a href="anzin.php">Anzin (59)</a></li>
+    <li><a href="betheniville.php">Bétheniville (51)</a></li>
+    <li><a href="bry.php">Bry (59)</a></li>
+    <li><a href="coulsore.php">Coulsore (59)</a></li>
+    <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
+
+    <li><a href="daix.php">Daix (21)</a></li>
+    <li><a href="eth.php">Eth (59)</a></li>
+    <li><a href="feucherolles.php">Feucherolles (78)</a></li>
+    <li><a href="frencq.php">Frencq (62)</a></li>
+    <li><a href="gelannes.php">Gélannes (10)</a></li>
+
+    <li><a href="gussignies.php">Gussignies (59)</a></li>
+    <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
+    <li><a href="lourches.php">Lourches (59)</a></li>
+    <li><a href="onnaing.php">Onnaing (59)</a></li>    
+    <li><a href="quarouble.php">Quarouble (59)</a></li>
+
+    <li><a href="roeulx.php"  class="AsideSelected">Roeulx (59)</a></li>
+    <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
+    <li><a href="saultain.php">Saultain (59)</a></li>
+    <li><a href="sebourg.php">Sebourg (59)</a></li>
+    <li><a href="verpel.php">Verpel (08)</a></li>
+
+    <li><a href="vicq.php">Vicq (59)</a></li>
+    <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
+    <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
+</ul>
    
     <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -102,23 +103,18 @@
 
 <h1>Relevé des morts pour la France à Roeulx</h1>
 
-	<p style="text-align:center;">
-    - Cette page est en cours de rédaction -
-    </p>
-	
+<p>(Relevé en cours)</p>
+
+<p>Voici la liste des morts pour la France et des victimes civiles de Roeulx (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php">laissant un petit message.</a></p>
+
 <p></p>
-    <p>Voici la liste des morts pour la France et des victimes civiles de Roeulx (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php">laissant un petit message.</a></p>
 
 <table>
   <thead>
   <tr>
     <td width="158px">Nom et prénom(s)</td>
-    <td width="158px">Date et lieu
-      <br />
-      de naissance</td>
-    <td width="158px">Date et lieu
-      <br />
-      de décès</td>
+    <td width="158px">Date et lieu<br />de naissance</td>
+    <td width="158px">Date et lieu<br />de décès</td>
     <td width="45px">Classe</td>
     <td width="70px">Corps</td>
     <td width="90px">Genre<br />de mort</td>

@@ -78,64 +78,64 @@
 				    </tr>
 				</thead>  
   					<tr>
-        				<td>Vallée de l&#39;Isonzo<br />(Italie)</td>
-        				<td>La 1ère Bataille de l&#39;Isonzo</td>
+        				<td>Vallée de l'Isonzo<br />(Italie)</td>
+        				<td>La 1ère Bataille de l'Isonzo</td>
         				<td>Du 23 juin 1915<br />au 7 juillet 1915</td>
         				<td>Victoire tactique austro-hongroise</td>
   					</tr>    
   					<tr>
-        				<td>Vallée de l&#39;Isonzo<br />(Italie)</td>
-        				<td>La 2e Bataille de l&#39;Isonzo</td>
+        				<td>Vallée de l'Isonzo<br />(Italie)</td>
+        				<td>La 2e Bataille de l'Isonzo</td>
         				<td>Du 18 juillet 1915<br />au 3 août 1915</td>
         				<td>Victoire austro-hongroise</td>
   					</tr>    
   					<tr>
-				        <td>Vallée de l&#39;Isonzo<br />(Italie)</td>
-				        <td>La 3e Bataille de l&#39;Isonzo</td>
+				        <td>Vallée de l'Isonzo<br />(Italie)</td>
+				        <td>La 3e Bataille de l'Isonzo</td>
 				        <td>Du 18 octobre 1915<br />au 4 novembre 1915</td>
 				        <td>Victoire austro-hongroise</td>
  					</tr>  
   					<tr>
-				        <td>Vallée de l&#39;Isonzo<br />(Italie)</td>
-				        <td>La 4e Bataille de l&#39;Isonzo</td>
+				        <td>Vallée de l'Isonzo<br />(Italie)</td>
+				        <td>La 4e Bataille de l'Isonzo</td>
 				        <td>Du 10 novembre 1915<br />au 2 décembre 1915</td>
-				        <td>Echec de l&#39;offensive italienne</td>
+				        <td>Echec de l'offensive italienne</td>
   					</tr>  
   					<tr>
-				        <td>Vallée de l&#39;Isonzo<br />(Italie)</td>
-				        <td>La 5e Bataille de l&#39;Isonzo</td>
+				        <td>Vallée de l'Isonzo<br />(Italie)</td>
+				        <td>La 5e Bataille de l'Isonzo</td>
 				        <td>Du 9 mars 1916<br />au 15 mars 1916</td>
 				        <td>Victoire austro-hongroise</td>
   					</tr>    
   					<tr>
-				        <td>Vallée de l&#39;Isonzo<br />(Italie)</td>
-				        <td>La 6e Bataille de l&#39;Isonzo<br />(ou Bataille de Gorizia)</td>
+				        <td>Vallée de l'Isonzo<br />(Italie)</td>
+				        <td>La 6e Bataille de l'Isonzo<br />(ou Bataille de Gorizia)</td>
 				        <td>Du 6 août 1916<br />au 17 août 1916</td>
 				        <td>Victoire italienne</td>
 					</tr>    
 				  	<tr>
-        				<td>Vallée de l&#39;Isonzo<br />(Italie)</td>
-        				<td>La 7e Bataille de l&#39;Isonzo</td>
+        				<td>Vallée de l'Isonzo<br />(Italie)</td>
+        				<td>La 7e Bataille de l'Isonzo</td>
         				<td>Du 14 septembre 1916<br />au 18 septembre 1916</td>
         				<td>Offensive italienne repoussée</td>
   					</tr>    
   					<tr>
-        				<td>Vallée de l&#39;Isonzo<br />(Italie)</td>
-        				<td>La 8e Bataille de l&#39;Isonzo</td>
+        				<td>Vallée de l'Isonzo<br />(Italie)</td>
+        				<td>La 8e Bataille de l'Isonzo</td>
         				<td>Du 10 octobre 1916<br />au&nbsp; 12 octobre 1916</td>
         				<td>Offensive italienne repoussée</td>
   					</tr>    
   					<tr>
-        				<td>Vallée de l&#39;Isonzo<br />(Italie)</td>
-        				<td>La 9e Bataille de l&#39;Isonzo</td>
+        				<td>Vallée de l'Isonzo<br />(Italie)</td>
+        				<td>La 9e Bataille de l'Isonzo</td>
         				<td>Du 31 octobre 1916<br />au 4 novembre 1916</td>
-        				<td>Succès limité de l&#39;offensive italienne</td>
+        				<td>Succès limité de l'offensive italienne</td>
   					</tr>    
 					<tr>
-        				<td>Vallée de l&#39;Isonzo<br />(Italie)</td>
-        				<td>La 10e Bataille de l&#39;Isonzo</td>
+        				<td>Vallée de l'Isonzo<br />(Italie)</td>
+        				<td>La 10e Bataille de l'Isonzo</td>
         				<td>Du 10 mai 1917<br />au 8 juin 1917</td>
-        				<td>Succès limité de l&#39;offensive italienne</td>
+        				<td>Succès limité de l'offensive italienne</td>
   					</tr>    
   					<tr>
 				        <td>Province de Vivence<br />(Italie)</td>
@@ -144,14 +144,14 @@
 				        <td>Victoire italienne</td>
   					</tr>    
   				    <tr>
-				        <td>Vallée de l&#39;Isonzo<br />(Italie)</td>
-				        <td>La 11e Bataille de l&#39;Isonzo</td>
+				        <td>Vallée de l'Isonzo<br />(Italie)</td>
+				        <td>La 11e Bataille de l'Isonzo</td>
 				        <td>Du 18 août 1917<br />au 12 septembre 1917</td>
 				        <td><em>Statu quo</em></td>
 				    </tr>    
                     <tr>
-        				<td>Vallée de l&#39;Isonzo<br />(Italie)</td>
-        				<td>La 12e Bataille de l&#39;Isonzo<br />(ou Bataille de Caporetto)</td>
+        				<td>Vallée de l'Isonzo<br />(Italie)</td>
+        				<td>La 12e Bataille de l'Isonzo<br />(ou Bataille de Caporetto)</td>
         				<td>Du 24 octobre 1917<br />au 9 novembre 1917</td>
         				<td>Victoire austro-allemande</td>
   					</tr>          

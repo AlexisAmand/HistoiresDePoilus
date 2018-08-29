@@ -5,7 +5,7 @@
 <meta charset="utf-8">
           
 <title>Les hôpitaux de la Bretagne pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles de Bretagne pendant la Premiére Guerre Mondiale" name="description">
+<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles de Bretagne pendant la Première Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -95,7 +95,7 @@
 
 <h2>Dinard</h2>
 
-<p>L'hôpital complémentaire n°28 était installé à l'hôtel Royal et son annexe, l'hôtel Emeraude, situés près de la grande plage à Dinard. Ils avaient été convertis en hôtipaux dès le début de la guerre.</p>
+<p>L'hôpital complémentaire n°28 était installé à l'hôtel Royal et son annexe, l'hôtel Emeraude, situés près de la grande plage à Dinard. Ils avaient été convertis en hôpitaux dès le début de la guerre.</p>
 
 <h2>Pont-Croix</h2>
 

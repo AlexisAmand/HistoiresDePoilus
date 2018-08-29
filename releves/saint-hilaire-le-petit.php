@@ -41,18 +41,16 @@
 
 <header>
 	
-    <div id="rezo">
-    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png"    alt="logo facebook"/>
-        </a>
-        <img src="../images/googleplus.png"    alt="logo Google Plus"   /> 
-	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png"    alt="logo Twitter"   />
-        </a>
-    </div>
-    
-<a href="../index.php" title="retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
+  <div id="rezo">
+    <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
+      <img src="../images/facebook.png" alt="logo facebook" /></a>
+      <img src="../images/googleplus.png" alt="logo Google Plus" /> 
+    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
+      <img src="../images/twitter.png" alt="logo Twitter"   /></a>
+  </div>
+  
+<a href="../index.php" title="Retour sur la page d'accueil du site">
+<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
 </header>
    
@@ -72,33 +70,35 @@
 
 <aside>
 
-	<ul>
-        <li><a href="anzin.php">Anzin (59)</a></li>
-    	<li><a href="betheniville.php">Bétheniville (51)</a></li>
-        <li><a href="bry.php">Bry (59)</a></li>
-        <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
-        <li><a href="daix.php">Daix (21)</a></li>
-        <li><a href="eth.php">Eth (59)</a></li>
-   
-        <li><a href="feucherolles.php">Feucherolles (78)</a></li>
-        <li><a href="frencq.php">Frencq (62)</a></li>
-        <li><a href="gelannes.php">Gélannes (10)</a></li>
-        <li><a href="gussignies.php">Gussignies (59)</a></li>
-        <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-        <li><a href="lourches.php">Lourches (59)</a></li>
+<ul>
+  <li><a href="anzin.php">Anzin (59)</a></li>
+  <li><a href="betheniville.php">Bétheniville (51)</a></li>
+  <li><a href="bry.php">Bry (59)</a></li>
+  <li><a href="coulsore.php">Coulsore (59)</a></li>
+  <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
 
-        <li><a href="onnaing.php">Onnaing (59)</a></li>        
-        <li><a href="quarouble.php">Quarouble (59)</a></li>
-        <li><a href="roeulx.php">Roeulx (59)</a></li>
-        <li><a href="saint-hilaire-le-petit.php"  class="AsideSelected">Saint-Hilaire-le-Petit (51)</a></li>
-        <li><a href="saultain.php">Saultain (59)</a></li>
-        <li><a href="sebourg.php">Sebourg (59)</a></li>
+  <li><a href="daix.php">Daix (21)</a></li>
+  <li><a href="eth.php">Eth (59)</a></li>
+  <li><a href="feucherolles.php">Feucherolles (78)</a></li>
+  <li><a href="frencq.php">Frencq (62)</a></li>
+  <li><a href="gelannes.php">Gélannes (10)</a></li>
 
-        <li><a href="verpel.php">Verpel (08)</a></li>
-        <li><a href="vicq.php">Vicq (59)</a></li>
-        <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
-        <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
-   </ul>
+  <li><a href="gussignies.php">Gussignies (59)</a></li>
+  <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
+  <li><a href="lourches.php">Lourches (59)</a></li>
+  <li><a href="onnaing.php">Onnaing (59)</a></li>        
+  <li><a href="quarouble.php">Quarouble (59)</a></li>
+
+  <li><a href="roeulx.php">Roeulx (59)</a></li>
+  <li><a href="saint-hilaire-le-petit.php"  class="AsideSelected">Saint-Hilaire-le-Petit (51)</a></li>
+  <li><a href="saultain.php">Saultain (59)</a></li>
+  <li><a href="sebourg.php">Sebourg (59)</a></li>
+  <li><a href="verpel.php">Verpel (08)</a></li>
+
+  <li><a href="vicq.php">Vicq (59)</a></li>
+  <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
+  <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
+</ul>
    
       <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -118,7 +118,9 @@
 
 <h1>Relevé des morts pour la France à Saint-Hilaire-le-Petit</h1>
 
-<p>Voici le relevé des morts pour la France de Saint-Hilaire-le-Petit (Marne) pendant la Grande Guerre. Cette liste a été établie avec le Livre d&#39;Or et les fiches disponibles sur le site Mémoire des Hommes.</p>
+<p>Voici le relevé des morts pour la France de Saint-Hilaire-le-Petit (Marne) pendant la Grande Guerre. Cette liste a été établie avec le Livre d'Or et les fiches disponibles sur le site Mémoire des Hommes.</p>
+
+<p></p>
 
 <table>
   <thead>
@@ -161,7 +163,7 @@
     <td>Le 19 mars 1915<br />aux Eparges (Meuse)</td>
     <td>soldat</td>
     <td>132e R.I</td>
-    <td>Tué à l&#39;ennemi</td>
+    <td>Tué à l'ennemi</td>
   </tr>
   <tr>
     <td>COLIN<br />Lucien Jean-Baptiste</td>
@@ -169,7 +171,7 @@
     <td>Le 25 septembre 1915<br />à St-Hilaire-le-Grand (Marne)</td>
     <td>Maréchal<br />des logis</td>
     <td>46e R.A</td>
-    <td>Tué à l&#39;ennemi</td>
+    <td>Tué à l'ennemi</td>
     </tr>
   <tr>
     <td>COUTANT<br />Henri Charles</td>
@@ -177,7 +179,7 @@
     <td>Le 18 juillet 1918<br />à Passy-en-Valois (Aisne)</td>
     <td>soldat</td>
     <td>110e R.I</td>
-    <td>Tué à l&#39;ennemi</td>
+    <td>Tué à l'ennemi</td>
   </tr>
   <tr>
     <td>DELAGLOYE<br />Léon André</td>
@@ -185,7 +187,7 @@
     <td>Le 25 septembre 1915<br />à St-Hilaire-le-Grand (Marne)</td>
     <td>Maréchal<br />des logis</td>
     <td>46e R.A</td>
-    <td>Tué à l&#39;ennemi</td>
+    <td>Tué à l'ennemi</td>
   </tr>
   <tr>
     <td>FLOQUET<br />Fernand André</td>
@@ -193,7 +195,7 @@
     <td>Le 29 janvier 1915<br />au Bois de la Gruère (Marne)</td>
     <td>soldat</td>
     <td>161e R.I</td>
-    <td>Tué à l&#39;ennemi</td>
+    <td>Tué à l'ennemi</td>
     </tr>
   <tr>
     <td>FONTAINE<br />Paul Alfred</td>
@@ -201,7 +203,7 @@
     <td>Le 13 mars 1916<br />à Glorieux (Meuse)</td>
     <td>soldat</td>
     <td>35e R.I.T</td>
-    <td>Tué à l&#39;ennemi</td>
+    <td>Tué à l'ennemi</td>
     </tr>
   <tr>
     <td>GUYOT<br />Gaston Louis</td>
@@ -209,7 +211,7 @@
     <td>Le 14 mai 1917<br />à Royere (Aisne)</td>
     <td>soldat</td>
     <td>29e B.C.P</td>
-    <td>Tué à l&#39;ennemi</td>
+    <td>Tué à l'ennemi</td>
     </tr>
   <tr>
     <td>HENNEQUIN<br />Adolphe Raymond</td>
@@ -217,7 +219,7 @@
     <td>Le 31 mai 1918<br />à Try (Marne)</td>
     <td>brigadier</td>
     <td>28e R.D</td>
-    <td>Tué à l&#39;ennemi</td>
+    <td>Tué à l'ennemi</td>
   </tr>
   <tr>
     <td>HENNEQUIN<br />Émile Paul</td>
@@ -233,7 +235,7 @@
     <td>Le 6 avril 1918<br />à Cuvilly (Oise)</td>
     <td>maréchal<br />des logis</td>
     <td>32e R.A</td>
-    <td>Tué à l&#39;ennemi</td>
+    <td>Tué à l'ennemi</td>
   </tr>
   <tr>
     <td>LALLEMENT<br />René Émile</td>
@@ -241,7 +243,7 @@
     <td>Le 19 juillet 1918<br />à Prosnes (Marne)</td>
     <td>soldat</td>
     <td>124e R.I</td>
-    <td>Tué à l&#39;ennemi</td>
+    <td>Tué à l'ennemi</td>
   </tr>
   <tr>
     <td>LEFEVRE<br />Julien Henri</td>
@@ -257,7 +259,7 @@
     <td>Le 2 octobre 1918<br />à Gemeenhof (Belgique)</td>
     <td>soldat</td>
     <td>152e R.I</td>
-    <td>Tué à l&#39;ennemi</td>
+    <td>Tué à l'ennemi</td>
   </tr>
   <tr>
     <td>MASSON<br />Paul Eugène</td>
@@ -265,7 +267,7 @@
     <td>Le 16 août 1915<br />à Souchez (Pas-de-Calais)</td>
     <td>soldat</td>
     <td>60e B.C.P<br />8e comp.</td>
-    <td>Tué à l&#39;ennemi</td>
+    <td>Tué à l'ennemi</td>
   </tr>
 </table>
 

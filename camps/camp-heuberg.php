@@ -53,31 +53,37 @@
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
+
         <li><a href="camp-friedberg.php">Friedberg</a></li>
         <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camp-giessen.php">Giessen</a></li>
         <li><a href="camp-gorlitz.php">Görlitz</a></li>
+
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
         <li><a href="camp-guben.php">Guben</a></li>
         <li><a href="camp-hammelburg.php">Hammelburg</a></li>
         <li><a href="camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camp-herne.php">Herne</a></li>
+
         <li><a href="camp-heuberg.php" class="AsideSelected">Heuberg</a></li>
         <li><a href="camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camp-limburg.php">Limburg</a></li>
         <li><a href="camp-mannheim.php">Mannheim</a></li>        
         <li><a href="camp-meschede.php">Meschede</a></li>
+
         <li><a href="camp-merzdorf.php">Merzdorf</a></li>
         <li><a href="camp-meyenburg.php">Meyenburg</a></li>
     	<li><a href="camp-minden.php">Minden</a></li>
         <li><a href="camp-munster.php">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
+
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
+        
         <li><a href="camp-zerbst.php">Zerbst</a></li>
         <li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li> 
    </ul>
@@ -100,7 +106,7 @@
 
 <h1>Le camp de prisonniers de Heuberg</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu&#39;elles sont issues d&#39;ouvrages ou d&#39;archives allemandes et qu&#39;elles ne sont donc pas très objectives.</em></p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
 <figure>    
 	<a href="images/Heuberg/localisation-heuberg.jpg" id="single_image" title="Localisation du camp de Heuberg">
@@ -114,12 +120,12 @@
     <figcaption>L'arrivée au camp<br />(source allemande)</figcaption>
 </figure>
 
-<p>Le 2 septembre 1916, le Bulletin de l'Office d'information des oeuvres de secours aux prisonniers de guerre indique qu'au camp de Heuberg fonctionne différentes commissions qui sont composées par un adjudant ou sous-officier par compagnie. Ces commissions ont été élues par ces adjudants et sont ignorées par le commandemant allemend, sauf celle des  nécessiteux. On se réunit deux fois par mois pour discuter toutes les questions intéressant les prisonniers français. Il y a des commissions de nécessiteux, jeux, théâtre, bibliothèque, cimetière et contrôle. Le comité des nécessiteux est composé des chefs de section de chaque compagnie, et a pour président, l'adjudant GAUDINEAU. Outre les envois reçus de France, la caisse des nécessiteux est alimentée par un versement mensuel prélevé sur les recettes du théâtre.</p> 
+<p>Le 2 septembre 1916, le Bulletin de l'Office d'information des oeuvres de secours aux prisonniers de guerre indique qu'au camp de Heuberg fonctionne différentes commissions qui sont composées par un adjudant ou sous-officier par compagnie. Ces commissions ont été élues par ces adjudants et sont ignorées par le commandement allemand, sauf celle des  nécessiteux. On se réunit deux fois par mois pour discuter toutes les questions intéressant les prisonniers français. Il y a des commissions de nécessiteux, jeux, théâtre, bibliothèque, cimetière et contrôle. Le comité des nécessiteux est composé des chefs de section de chaque compagnie, et a pour président, l'adjudant GAUDINEAU. Outre les envois reçus de France, la caisse des nécessiteux est alimentée par un versement mensuel prélevé sur les recettes du théâtre.</p> 
 
 <h2>Sources et bibliographie</h2>
 
 <ul>
-    <li>Bulletin de l'Office d'information des oeuvres de secours aux prisonniers de guerre (Dispo sur Gallica)</li>
+    <li>Bulletin de l'Office d'information des oeuvres de secours aux prisonniers de guerre (Disponible sur Gallica)</li>
     <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
 </ul>    
 

@@ -4004,6 +4004,10 @@ input[type="button"].btn-block {
   -ms-flex-pack: justify;
   justify-content: space-between;
   padding: 0.5rem 1rem;
+
+
+  margin-bottom: 0px;
+
 }
 
 .navbar > .container,
@@ -4074,6 +4078,10 @@ input[type="button"].btn-block {
   background-color: transparent;
   border: 1px solid transparent;
   border-radius: 0.25rem;
+
+
+  background-color: #efefef;
+ 
 }
 
 .navbar-toggler:hover, .navbar-toggler:focus {
@@ -6158,7 +6166,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  /* background-color: #f8f9fa !important; */
 }
 
 a.bg-light:hover, a.bg-light:focus,

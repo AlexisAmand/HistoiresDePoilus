@@ -61,21 +61,25 @@
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php" >CARIN Théophile</a></li>
+
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
+
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php" class="AsideSelected">HANZE Augustin</a></li>
+
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
+        
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
         <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
@@ -102,7 +106,7 @@
     
 <h1>Augustin HANZE</h1>
 
-<p>Augustin HANZE est né Cousolre (Nord) le 6 février 1886, fils légitime de Désiré HANZE et Laure DELENS. Selon le recensement de 1906, il est serrurier et vit Route Nationale à Cousolre en compagnie de ses parents et de sa soeur Germaine (née en 1891). Le 5 mars 1910, il épouse à Valenciennes Berthe DUSART, la cousine germaine d'<a href="FONTAINE-Henri-Gustave.php">Henri Gustave FONTAINE</a> (mon arriére-arriére-grand-pére).</p> 
+<p>Augustin HANZE est né Cousolre (Nord) le 6 février 1886, fils légitime de Désiré HANZE et Laure DELENS. Selon le recensement de 1906, il est serrurier et vit Route Nationale à Cousolre en compagnie de ses parents et de sa soeur Germaine (née en 1891). Le 5 mars 1910, il épouse à Valenciennes Berthe DUSART, la cousine germaine d'<a href="FONTAINE-Henri-Gustave.php">Henri Gustave FONTAINE</a> (mon arrière-arrière-grand-père).</p> 
 
 <figure>
     <a href="images/arbre-hanze.png" id="single_image" title="Arbre généalogique simplifié de la famille HANZE">
@@ -111,7 +115,7 @@
     <figcaption>Arbre simplifié de la famille HANZE<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<p>Rappelé à l'activité par le décrét de Mobilisation Générale du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux-ges.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le Monument aux Morts de Coulsore (où il était né) et sur les plaques commémoratives du square de l’Armistice à Carcassonne (où il était serrurier).</p>
+<p>Rappelé à l'activité par le décret de Mobilisation Générale du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux-ges.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le <a href="../releves/coulsore.php">Monument aux Morts de Coulsore</a> (où il était né) et sur les plaques commémoratives du square de l’Armistice à Carcassonne (où il était serrurier).</p>
 
 	<figure>
 	    <a href="images/momument-cousolre.jpg" id="single_image" title="Inauguration du monument de Cousolre">
