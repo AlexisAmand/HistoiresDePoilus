@@ -170,7 +170,7 @@
   <tr>
     <td>BROIE<br />Jules</td>
     <td>Le 9 avril 1895<br />à Villers-Guislain (59)<br /></td>
-    <td>Le 27 septembre 1915<br />à <a href="http://cartespostalesanciennes.genealexis.fr/album/87-souain" title="cartes postales ancienne de Souain sur le site Genealexis">Souain</a> (51)</td>
+    <td>Le 27 septembre 1915<br />à <a href="http://cartespostalesanciennes.genealexis.fr/album/87-souain" title="cartes postales ancienne de Souain sur le site Genealexis">Souain(51)</a></td>
     <td>1915</td>
     <td>106e R.I</td>
     <td>Blessure de guerre</td>
@@ -329,15 +329,15 @@
   </tr>
   <tr>
     <td><a href="../poilus/DUBOIS-Emile-Edmond.php">DUBOIS<br />Émile Edmond</a></td>
+    <td>Le 25 janvier 1880<br />à Villers-Guislain (59)</td>
+    <td>Le 8 octobre 1915<br />à Souain (51)</td>
     <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>294e R.I</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>DUBOIS<br />Fernand Hilaire Guislain</td>
-    <td>Le 14 janvier 1888 <br />à Villers-Guislain (59)</td>
+    <td>Le 14 janvier 1888 <br / >à Villers-Guislain (59)</td>
     <td>Le 25 août 1914<br />Ambulance n°10 à Follepeuxé (Belgique)</td>
     <td>1908</td>
     <td>43e R.I</td>
@@ -352,7 +352,7 @@
     <td>Maladie</td>
   </tr>
   <tr>
-    <td>DUBOIS<br />Jean Charles</td>
+    <td><a href="autres.php#dubois">DUBOIS<br />Jean Charles</a></td>
     <td>Le 8 février 1893<br />à Villers-Guislain (59)</td>
     <td>Le 18 octobre 1914<br />à Verdun (55)</td>
     <td>1913</td>
@@ -448,7 +448,7 @@
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td>LAMANDIN<br />Georges</td>
+    <td><a href="../poilus/autres.php#lamandin">LAMANDIN<br />Georges</a></td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>

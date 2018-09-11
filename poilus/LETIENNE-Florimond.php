@@ -102,7 +102,7 @@
 
 <h1>Florimond LETIENNE</h1>
 
-<p><strong>Florimond LETIENNE</strong>, le beau frère d'<a href="FIEVET-Auguste-Victor.php" title="lien vers la page consacrée à Auguste FIEVET">Auguste</a> et <a href="FIEVET-Charles-Augustin.php" title="lien vers la page consacrée à Charles FIEVET">Charles FIEVET</a>, est né le 19 octobre 1873 à Roubaix (Nord), fils légitime de Henri Joseph LETIENNE et de Adéle Fileline DEGOBERT. Le 12 novembre 1898 à Roubaix, Florimond épouse Marie DELAUX, fille légitime d'Adolphe (1856-1906) et Joséphine RICHOMME (1857 - ? ), et soeur de Nathalie DELAUX (1885 - 1952), mon arrière-arrière-grand-mère.</p>
+<p><strong>Florimond LETIENNE</strong>, le beau frère d'<a href="FIEVET-Auguste-Victor.php" title="lien vers la page consacrée à Auguste FIEVET">Auguste</a> et <a href="FIEVET-Charles-Augustin.php" title="lien vers la page consacrée à Charles FIEVET">Charles FIEVET</a>, est né le 19 octobre 1873 à Roubaix (Nord), fils légitime de Henri Joseph LETIENNE et de Adéle Fileline DEGOBERT. Le 12 novembre 1898 à Roubaix, Florimond épouse Marie DELAUX, fille légitime d'Adolphe (1856-1906) et Joséphine RICHOMME (1857 - ? ), et sœur de Nathalie DELAUX (1885 - 1952), mon arrière-arrière-grand-mère.</p>
 
     <figure>
         <a href="images/letienne-florimond-1873.jpg" id="single_image" title="Acte de naissance de Florimond LETIENNE">

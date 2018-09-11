@@ -103,7 +103,7 @@
 
 <h1>Relevé des morts pour la France à Bétheniville</h1>
 
-<p>Voici la liste des morts pour la France de <a href="http://cartespostalesanciennes.genealexis.fr/album/63-betheniville" title="cartes postales anciennes de Bétheniville sur le site Genealexis">Bétheniville</a> (Marne) pendant le premier conflit mondial. Cette page sera mise à jour au fur et à mesure des découvertes que j'aurais l'occasion de faire. Ce relevé a été réalisé avec le Livre d'Or des soldats morts pour la France pour la commune de Bétheniville, puis complété avec le site "Mémoire des Hommes". Comme je ne suis à l'abris d'une erreur de retranscription,  n'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit commentaire</a>.</p>
+<p>Voici la liste des morts pour la France de <a href="http://cartespostalesanciennes.genealexis.fr/album/63-betheniville" title="cartes postales anciennes de Bétheniville sur le site Genealexis">Bétheniville</a> (Marne) pendant le premier conflit mondial. Cette page sera mise à jour au fur et à mesure des découvertes que j'aurais l'occasion de faire. Ce relevé a été réalisé avec le Livre d'Or des soldats morts pour la France pour la commune de Bétheniville, puis complété avec le site "Mémoire des Hommes". Comme je ne suis à l'abris d'une erreur de retranscription,  n'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit message</a>.</p>
 
 <p></p>
 

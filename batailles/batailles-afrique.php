@@ -101,7 +101,7 @@
 				  	<tr>
 				        <td>Sud de l'Angola</td>
 				        <td>La Bataille de Naulila</td>
-				        <td>Le 18 decembre 1914</td>
+				        <td>Le 18 décembre 1914</td>
 				        <td>Victoire allemande</td>
 				  	</tr>  
 				 

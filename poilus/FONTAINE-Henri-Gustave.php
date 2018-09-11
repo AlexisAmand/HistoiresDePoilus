@@ -104,7 +104,7 @@
 
 <h1>Henri Gustave Fontaine</h1>
 
-<p><strong>Henri Gustave FONTAINE</strong>, le père de mon arrière-grand-mère, est né le 24 février 1890 à Anzin (Nord). Il est le fils légitime de Henri François FONTAINE, ouvrier mineur, âgé de 32 ans et de Désirée BAR, âgée de 26 ans. En 1906, Henri est journalier. Il vit Rue Kléber à Anzin avec ses parents et ses frères et soeurs: Virginie, Désirée, Gustave, Marie et Léonie.</p>
+<p><strong>Henri Gustave FONTAINE</strong>, le père de mon arrière-grand-mère, est né le 24 février 1890 à Anzin (Nord). Il est le fils légitime de Henri François FONTAINE, ouvrier mineur, âgé de 32 ans et de Désirée BAR, âgée de 26 ans. En 1906, Henri est journalier. Il vit Rue Kléber à Anzin avec ses parents et ses frères et sœurs: Virginie, Désirée, Gustave, Marie et Léonie.</p>
 
 <figure>
     <a href="images/anzin-rue-kleber.jpg" id="single_image" title="La rue Kléber à Anzin">

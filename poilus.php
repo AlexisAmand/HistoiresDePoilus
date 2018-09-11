@@ -134,7 +134,6 @@
             </tr>
         </table>
     
-
 <p>Les Britanniques, de leur côté, ne peuvent aligner qu’une armée professionnelle d’environ 100 000 hommes car la conscription n’existe pas au début de la guerre (elle sera mise en place en 1916). En attendant, ils peuvent uniquement compter sur le volontariat. La Russie et l’Autriche-Hongrie disposent quant à elles respectivement de 1,3 et 1,1 millions d’hommes.</p>
 
 <figure>

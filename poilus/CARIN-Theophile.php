@@ -121,7 +121,7 @@
     <figcaption>Extrait de sa fiche matricule<br />(Cliquez pour agrandir)</figcaption>
 </figure>
   
-<p>Selon le recensement de 1906, Théophile a plusieurs frères et soeurs, tous nés et déclarés à Lourches: Elise (née en 1873), François Louis (né en 1875), Jean-Baptiste (né en 1880), <a href="CARIN-Edouard.php">Edouard</a> (né le 5 août 1884), Célina (née en 1886),  Appoline (née en 1890), Clara (née en 1892), <a href="CARIN-Leon.php">Léon</a> (né en 1896).</p>
+<p>Selon le recensement de 1906, Théophile a plusieurs frères et sœurs, tous nés et déclarés à Lourches: Elise (née en 1873), François Louis (né en 1875), Jean-Baptiste (né en 1880), <a href="CARIN-Edouard.php">Edouard</a> (né le 5 août 1884), Célina (née en 1886),  Appoline (née en 1890), Clara (née en 1892), <a href="CARIN-Leon.php">Léon</a> (né en 1896).</p>
 
 <figure>
     <a href="images/mairie-de-lourches.jpg" id="single_image" title="La mairie de Lourches">

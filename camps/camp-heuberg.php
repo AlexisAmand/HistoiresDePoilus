@@ -122,6 +122,12 @@
 
 <p>Le 2 septembre 1916, le Bulletin de l'Office d'information des oeuvres de secours aux prisonniers de guerre indique qu'au camp de Heuberg fonctionne différentes commissions qui sont composées par un adjudant ou sous-officier par compagnie. Ces commissions ont été élues par ces adjudants et sont ignorées par le commandement allemand, sauf celle des  nécessiteux. On se réunit deux fois par mois pour discuter toutes les questions intéressant les prisonniers français. Il y a des commissions de nécessiteux, jeux, théâtre, bibliothèque, cimetière et contrôle. Le comité des nécessiteux est composé des chefs de section de chaque compagnie, et a pour président, l'adjudant GAUDINEAU. Outre les envois reçus de France, la caisse des nécessiteux est alimentée par un versement mensuel prélevé sur les recettes du théâtre.</p> 
 
+<figure>
+    <a href="images/Heuberg/theatre.jpg" id="single_image" title=" ">
+    <img src="miniatures/Heuberg/theatre.jpg" alt=" "></a>   
+    <figcaption>Théâtre improvisé</figcaption>
+</figure>
+
 <h2>Sources et bibliographie</h2>
 
 <ul>

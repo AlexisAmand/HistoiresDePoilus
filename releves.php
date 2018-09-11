@@ -29,14 +29,14 @@
 	
     <div id="rezo">
     	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
+        <img src="images/facebook.png" alt="logo facebook" /></a>
+        <img src="images/googleplus.png" alt="logo Google Plus" /> 
 	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
+        <img src="images/twitter.png" alt="logo Twitter"   /></a>
     </div>
     
-<a href="../index.php" title="Retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+<a href="index.php" title="Retour sur la page d'accueil du site">
+<img src="images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
 </header>
    
@@ -46,7 +46,7 @@
     <a href="lieux.php">Les Batailles</a>
     <a href="camps.php">Les Camps</a>
     <a href="releves.php" class="NavSelected">Les Relevés</a>
-    <a href="/hopitaux/hopitaux.php">Les Hôpitaux</a>
+    <a href="hopitaux/hopitaux.php">Les Hôpitaux</a>
     <a href="poilus.php">Les Poilus</a>     
 </nav>
 

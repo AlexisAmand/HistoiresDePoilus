@@ -58,17 +58,17 @@
 
 	<article style="margin-left:0px;">
 
-<h1>Erreur 404</h1>
+    <h1>Erreur 404</h1>
    
-<p>Oups ! La page que vous demandez n'a pas été trouvée !<br />Peut-être a t-elle été déplacée ou supprimée ?</p>
+    <p>Oups ! La page que vous demandez n'a pas été trouvée !<br />Peut-être a t-elle été déplacée ou supprimée ?</p>
 
-<figure><img src="/images/periscope.jpg" alt=""/></figure>
+    <figure><img src="/images/periscope.jpg" alt=""/></figure>
     
-<p class="sources">
-<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
-</p>
+    <p class="sources">
+    <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
+    </p>
 
-</article>
+  </article>
 
 </section>
 

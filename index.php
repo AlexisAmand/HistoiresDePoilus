@@ -59,7 +59,7 @@
 
             <div id="colindex">
     
-            <p>A l’origine, je devais continuer ma série d’articles sur le thème de la Première Guerre Mondiale en vous parlant de mes poilus sur mon site <a href="http://www.genealexis.fr">Genealexis</a>. Mouais… dit comme ça, je m’aperçois que c’est loin d’être génial.</p>
+            <p>A l’origine, je devais continuer ma série d’articles sur le thème de la Première Guerre Mondiale en vous parlant de mes poilus sur mon site <a href="http://www.genealexis.fr">Genealexis</a>. Mouais… dit comme ça, je m'aperçois que c’est loin d’être génial.</p>
 
                 <figure>
                 <img src="images/image-diapo-1.jpg" alt="Affiche pour la mobilisation générale" />

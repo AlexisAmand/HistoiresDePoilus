@@ -119,14 +119,13 @@
 <p>En novembre 1915, l'Office d'information des oeuvres de secours aux prisonniers de guerre est informé que tous les prisonniers civils appartenant au camp de Chemnitz viennent d’être transférés au camp de Grofsporitscg Bei Zittau (Saxe). Lors de la visite du camp le 12, le dépôt de prisonnier est installé à la caserne Friedrich August, située dans le quartier Ebensdorf.</p>
 
 <figure>
-    <img src="miniatures/Chemnitz/caserne-friedrich-august.jpg" id="single_image" alt="La caserne Friedrich August à Chemnitz" >
+    <img src="miniatures/Chemnitz/caserne-friedrich-august.jpg" id="single_image" alt="La caserne Friedrich August à Chemnitz" ></a>
     <figcaption>La Caserne Friedrich August<br/>(Carte postale)</figcaption>
 </figure>  
 
 <figure>
     <a href="images/chemnitz-census-01.jpg" id="single_image" title="Répartition des prisonniers en 1915">
-    <img src="miniatures/chemnitz-census-01.jpg" alt="répartition des prisonniers en fonction des nationalités à l'intérieur du camp de Chemnitz"/>
-    </a>
+    <img src="miniatures/chemnitz-census-01.jpg" alt="répartition des prisonniers en fonction des nationalités à l'intérieur du camp de Chemnitz"/></a>
     <figcaption>Répartition des prisonniers en 1915<br />(Cliquez pour agrandir)</figcaption>
 </figure>
 
@@ -134,8 +133,7 @@
 
 <figure>
     <a href="images/chemnitz-cholera.jpg" id="single_image" title="La vaccination contre le choléra">
-    <img src="miniatures/chemnitz-cholera.jpg" alt="la vaccination contre le choléra au camp de Chemnitz">
-    </a>
+    <img src="miniatures/chemnitz-cholera.jpg" alt="la vaccination contre le choléra au camp de Chemnitz"></a>
     <figcaption>La vaccination contre le choléra<br />(source allemande)</figcaption>
 </figure>
 
@@ -143,8 +141,7 @@
     
 <figure>
     <a href="images/Chemnitz/chemnitz-01.jpg" id="single_image" title="L'intérieur d'une baraque de Chemnitz">
-    <img src="miniatures/Chemnitz/chemnitz-01.jpg" alt="L'intérieur d'une baraque du camp de prisonniers de Chemnitz">
-    </a>
+    <img src="miniatures/Chemnitz/chemnitz-01.jpg" alt="L'intérieur d'une baraque du camp de prisonniers de Chemnitz"></a>
     <figcaption>L'intérieur d'une baraque<br />(Carte postale)</figcaption>
 </figure>  
        
@@ -152,15 +149,13 @@
  
 <figure>
     <a href="images/chemnitz-01.jpg" id="single_image" title="L'atelier de charronnerie">
-    <img src="miniatures/chemnitz-01.jpg" alt="L'atelier de charronnerie du camp de Chemnitz">
-    </a>
+    <img src="miniatures/chemnitz-01.jpg" alt="L'atelier de charronnerie du camp de Chemnitz"></a>
     <figcaption>L'atelier de charronnerie<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
     <a href="images/chemnitz-concert.jpg" id="single_image" title="Concert de dimanche des prisonniers">
-    <img src="miniatures/chemnitz-concert.jpg" alt="Le concert du dimanche au camp de Chemnitz">
-    </a>
+    <img src="miniatures/chemnitz-concert.jpg" alt="Le concert du dimanche au camp de Chemnitz"></a>
     <figcaption>Concert de dimanche des prisonniers<br />(source allemande)</figcaption>
 </figure>
 

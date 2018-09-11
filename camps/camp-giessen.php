@@ -116,8 +116,7 @@
 
 <figure>
     <a href="images/Giessen/giessen-04.jpg" id="single_image" title="Le camp de Giessen">
-    <img src="miniatures/Giessen/giessen-04.jpg" alt="Vue du camp de prisonniers de Giessen pendant la Grande Guerre">
-    </a>
+    <img src="miniatures/Giessen/giessen-04.jpg" alt="Vue du camp de prisonniers de Giessen pendant la Grande Guerre"></a>
     <figcaption>Vue du camp de Giessen<br />(Carte postale)</figcaption>
 </figure>
 
@@ -125,29 +124,25 @@
 
 <figure>
     <a href="images/Giessen/giessen-01.jpg" id="single_image" title="Le camp de Giessen">
-    <img src="miniatures/Giessen/giessen-01.jpg" alt="un groupe de sous-officiers français au camp de Giessen pendant la Grande Guerre">
-    </a>
+    <img src="miniatures/Giessen/giessen-01.jpg" alt="un groupe de sous-officiers français au camp de Giessen pendant la Grande Guerre"></a>
     <figcaption>Groupe de sous-officiers français<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Giessen/giessen-02.jpg" id="single_image" title="Le camp de Giessen">
-    <img src="miniatures/Giessen/giessen-02.jpg" alt="Groupe de la 12e compagnie au camp de Giessen pendant la Première Guerre Mondiale">
-    </a>
+    <img src="miniatures/Giessen/giessen-02.jpg" alt="Groupe de la 12e compagnie au camp de Giessen pendant la Première Guerre Mondiale"></a>
     <figcaption>Groupe de la 12e compagnie<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Giessen/giessen-03.jpg" id="single_image" title="Le camp de Giessen">
-    <img src="miniatures/Giessen/giessen-03.jpg" alt="Le nettoyage des tables et des chaises au camp de Giessen pendant la Première Guerre Mondiale">
-    </a>
+    <img src="miniatures/Giessen/giessen-03.jpg" alt="Le nettoyage des tables et des chaises au camp de Giessen pendant la Première Guerre Mondiale"></a>
     <figcaption>Nettoyage des tables et des chaises<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Giessen/giessen-05.jpg" id="single_image"  title="Le camp de Giessen">
-    <img src="miniatures/Giessen/giessen-05.jpg" alt="Vue du camp de prisonniers de Giessen pendant la Première Guerre Mondiale">
-    </a>
+    <img src="miniatures/Giessen/giessen-05.jpg" alt="Vue du camp de prisonniers de Giessen pendant la Première Guerre Mondiale"></a>
     <figcaption>Vue du camp de Giessen<br />Carte postale)</figcaption>
 </figure>
 

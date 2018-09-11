@@ -5,7 +5,7 @@
 <meta charset="utf-8">
           
 <title>Mentions légales - Histoires de Poilus</title>
-<meta content="metions légales du site 'Histoires de poilus'. Coordonnées de l'éditeur et de hébergeur du site." name="description">
+<meta content="mentions légales du site 'Histoires de poilus'. Coordonnées de l'éditeur et de hébergeur du site." name="description">
 
 <link rel="stylesheet" href="css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>

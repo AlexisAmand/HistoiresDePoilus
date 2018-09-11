@@ -97,14 +97,20 @@
 
 <p>L'Hôpital du gouvernement italien pour les blessés de Guerre Français (également appelé Hôpital de L'ambassade d’Italie) était situé au 41 quai d'Orsay à Paris. C'était un des hôpitaux complémentaires de l’hôpital militaire du Val-de-Grâce et également un des rares hôpitaux complémentaires à disposer de la radiologie.</p>
 
+    <figure>
+    <a href="images/hopital-begin.jpg" id="single_image" title="l'hôpital militaire Bégin">
+    <img src="miniatures/hopital-begin.jpg" alt="L'entrée de l'hôpital militaire Bégin pendant la guerre"></a>
+   		<figcaption>L'entrée de l'hôpital militaire Bégin</figcaption>
+    </figure>
+
 <h2>Hôpital de Saint-Mandé</h2>
 
 <p>Cet hôpital militaire était situé à l'Hôpital Militaire Bégin à Saint-Mandé, dans le Val-de-Marne. Il doit son nom à Louis Jacques Bégin (1793-1859), chirurgien militaire de l'Empire.</p>
 
     <figure>
-    <a href="images/hopital-begin.jpg" id="single_image" title="l'hôpital militaire Bégin">
-    <img src="miniatures/hopital-begin.jpg" alt="L'entrée de l'hôpital militaire Bégin pendant la guerre"></a>
-   		<figcaption>L'entrée de l'hôpital militaire Bégin</figcaption>
+    <a href="images/paris-chaptal.jpg" id="single_image" title=" ">
+    <img src="miniatures/paris-chaptal.jpg" alt=" "></a>
+   		<figcaption>paris-chaptal</figcaption>
     </figure>
    
     <figure>

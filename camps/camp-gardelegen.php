@@ -117,22 +117,19 @@
 
 <figure>
     <a href="images/camps_prisonniers_gardelegen.jpg" id="single_image" title="La cantine du camp de Gardelegen">
-    <img src="miniatures/camps_prisonniers_gardelegen.jpg" alt="la cantine du camp de prisonniers de Gardelegen pendant la Grande Guerre">
-    </a>
+    <img src="miniatures/camps_prisonniers_gardelegen.jpg" alt="la cantine du camp de prisonniers de Gardelegen pendant la Grande Guerre"></a>
     <figcaption>La cantine à Gardelegen<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
     <a href="images/camps_prisonniers_gardelegen_01.jpg" id="single_image" title="Le Lazaret de Gardelegen">
-    <img src="miniatures/camps_prisonniers_gardelegen_01.jpg" alt="le lazaret du camp de prisonniers de Gardelegen pendant la Première Guerre Mondiale">
-    </a>
+    <img src="miniatures/camps_prisonniers_gardelegen_01.jpg" alt="le lazaret du camp de prisonniers de Gardelegen pendant la Première Guerre Mondiale"></a>
     <figcaption>Le lazaret de Gardelegen<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
     <a href="images/monument-gardelegen.jpg" id="single_image" title="Le camp de Gardelegen">
-    <img src="miniatures/monument-gardelegen.jpg" alt="le monument aux prisonniers morts en captivité dans le camp de Gardelegen pendant la Première Guerre Mondiale">
-    </a>
+    <img src="miniatures/monument-gardelegen.jpg" alt="le monument aux prisonniers morts en captivité dans le camp de Gardelegen pendant la Première Guerre Mondiale"></a>
     <figcaption>Le monument à la mémoire des prisonniers morts en captivité<br />(Carte postale)</figcaption>
 </figure>
 

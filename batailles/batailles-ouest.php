@@ -451,7 +451,7 @@
         <td>Nord<br />(France)</td>
         <td colspan="2">La 2e Bataille de Cambrai</td>
         <td>Du 8 octobre 1918<br />au 10 octobre 1918</td>
-        <td>Victoire des alliées</td>
+        <td>Victoire des alliés</td>
   </tr> 
   </table>    
                 

@@ -103,7 +103,7 @@
 
 <h1>Relevé des morts pour la France à Feucherolles</h1>
 
-<p>Voici la liste des morts pour la France de Feucherolles (Yvelines) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit commentaire</a>.</p>
+<p>Voici la liste des morts pour la France de Feucherolles (Yvelines) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit message</a>.</p>
 
 <p>Cette liste a été publiée une première fois sur mon ancien site "La Généalogie Entre Amis".</p>
 

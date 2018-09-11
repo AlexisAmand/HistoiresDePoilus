@@ -106,7 +106,7 @@
 
 <h1>Le camp de prisonniers de Friedrichsfeld</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p><p>Le <strong>camp de Friedrichsfeld</strong> était  en Rhénanie du Nord, à proximité des villes de Duisbourg et Cologne ainsi qu'à proximité de la frontière entre l'Allemagne et les Pays-Bas. Il disposait d'un Lazarett (hôpital militaire) et d'une chapelle. Dans <cite><a href="../webographie.php">Westfalen in Ersten Weltkrieg</a></cite>, l'historien allemand Rainer PÖPPINGHEGE évalue à 79161 le nombre de soldats prisonniers dans le camp de Friedrichsfeld à la fin de la Première Guerre Mondiale.</p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p><p>Le <strong>camp de Friedrichsfeld</strong> était  en Rhénanie du Nord, à proximité des villes de Duisbourg et Cologne ainsi qu'à proximité de la frontière entre l'Allemagne et les Pays-Bas. Il disposait d'un Lazaret (hôpital militaire) et d'une chapelle. Dans <cite><a href="../webographie.php">Westfalen in Ersten Weltkrieg</a></cite>, l'historien allemand Rainer PÖPPINGHEGE évalue à 79161 le nombre de soldats prisonniers dans le camp de Friedrichsfeld à la fin de la Première Guerre Mondiale.</p>
     
 <figure>
     <img src="miniatures/Friedrichsfeld/carte-camp-friedrichsfeld.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Friedrichsfeld">

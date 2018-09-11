@@ -106,7 +106,7 @@
     
 <h1>Augustin HANZE</h1>
 
-<p>Augustin HANZE est né Cousolre (Nord) le 6 février 1886, fils légitime de Désiré HANZE et Laure DELENS. Selon le recensement de 1906, il est serrurier et vit Route Nationale à Cousolre en compagnie de ses parents et de sa soeur Germaine (née en 1891). Le 5 mars 1910, il épouse à Valenciennes Berthe DUSART, la cousine germaine d'<a href="FONTAINE-Henri-Gustave.php">Henri Gustave FONTAINE</a> (mon arrière-arrière-grand-père).</p> 
+<p>Augustin HANZE est né Cousolre (Nord) le 6 février 1886, fils légitime de Désiré HANZE et Laure DELENS. Selon le recensement de 1906, il est serrurier et vit Route Nationale à Cousolre en compagnie de ses parents et de sa sœur Germaine (née en 1891). Le 5 mars 1910, il épouse à Valenciennes Berthe DUSART, la cousine germaine d'<a href="FONTAINE-Henri-Gustave.php">Henri Gustave FONTAINE</a> (mon arrière-arrière-grand-père).</p> 
 
 <figure>
     <a href="images/arbre-hanze.png" id="single_image" title="Arbre généalogique simplifié de la famille HANZE">

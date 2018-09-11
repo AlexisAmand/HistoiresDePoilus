@@ -104,7 +104,7 @@
 
 <h1>Émile Edmond DUBOIS</h1>
 
-<p><strong>Émile Edmond DUBOIS</strong>, le beau frère de <a href="GRAIN-Louis.php">Louis GRAIN</a> et de <a href="GRAIN-Leon-Albert.php">Léon GRAIN</a>, est né le 25 janvier 1880 à Villers-Guislain (Nord). Il est le fils légitime de Désiré Émile et Catherine Vénérose BROYE. En 1906, il est tisseur et vit à Villers-Guislain (Rue Hérode) avec ses parents, sa soeur Malvina et son frère Christophe. Le 3 décembre 1907, il épouse Fortunée Luce GRAIN à Villers-Guislain.</p>
+<p><strong>Émile Edmond DUBOIS</strong>, le beau frère de <a href="GRAIN-Louis.php">Louis GRAIN</a> et de <a href="GRAIN-Leon-Albert.php">Léon GRAIN</a>, est né le 25 janvier 1880 à Villers-Guislain (Nord). Il est le fils légitime de Désiré Émile et Catherine Vénérose BROYE. En 1906, il est tisseur et vit à Villers-Guislain (Rue Hérode) avec ses parents, sa sœur Malvina et son frère Christophe. Le 3 décembre 1907, il épouse Fortunée Luce GRAIN à Villers-Guislain.</p>
 
 <figure>
     <a href="images/arbre-grain.png" id="single_image" title="Arbre généalogique simplifié de la famille DUBOIS-GRAIN">

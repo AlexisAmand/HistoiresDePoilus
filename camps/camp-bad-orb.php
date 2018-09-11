@@ -110,14 +110,13 @@
 
 <figure>    
     <a href="images/Bad-Orb/carte-camp-bad-orb.jpg" id="single_image" title="Localisation du camp de Bad-Orb">
-    <img src="miniatures/Bad-Orb/carte-camp-bad-orb.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Bad Orb">
+    <img src="miniatures/Bad-Orb/carte-camp-bad-orb.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Bad Orb"></a>
     <figcaption>Localisation du camp de Bad Orb<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>    
 
 <figure>
     <a href="images/Bad-Orb/bad-orb-01.jpg" id="single_image" title="Le camp de Bad-Orb">
-    <img src="miniatures/Bad-Orb/bad-orb-01.jpg" alt="arrivée de prisonniers français au camp de Bad Orb pendant la Première Guerre Mondiale">
-    </a>
+    <img src="miniatures/Bad-Orb/bad-orb-01.jpg" alt="arrivée de prisonniers français au camp de Bad Orb pendant la Première Guerre Mondiale"></a>
     <figcaption>Arrivée de prisonniers français (vers 1915)<br />(source allemande)</figcaption>
 </figure>
 
