@@ -11,32 +11,8 @@
 <link rel="stylesheet" href="../../css/style.css">
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-   
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>   
-<script type="text/javascript" src="../../js/jquery.fancybox-1.3.4.pack.js"></script>
-<script type="text/javascript" src="../../js/diapo.js"></script>
-
-
-
-<script type="text/javascript">  
-  $(document).ready(function()
-  	{
-	$("a#single_image").fancybox();
-	}); 
-
-$(document).ready(function()
-	{
-    $(".diaporama").diaporama(
-		{
-	    animationSpeed: "slow",
-        delay:2
-    	});
- 	});
-</script>  
                  
 </head>
-
-   
 
 <body>
 
@@ -111,25 +87,27 @@ echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod());
     <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
 </footer>
 
-<!-- Piwik -->
-<script type="text/javascript">
-  var _paq = _paq || [];
-  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//www.genealexis.fr/piwik/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', 4]);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
-<!-- End Piwik Code -->
+<?php include('../../include/stats.inc'); ?> 
 
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="../../js/diapo.js"></script>
 
+<!-- javascript -->
+
+<script type="text/javascript">  
+  $(document).ready(function() {
+	$("a#single_image").fancybox();
+  }); 
+
+$(document).ready(function() {
+    $(".diaporama").diaporama(
+		  {
+	    animationSpeed: "slow",
+      delay:2
+    	});
+ 	});
+</script>  
 
 </body>
-
 </html>

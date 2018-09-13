@@ -5,6 +5,7 @@
 <meta charset="utf-8">
           
 <title>Biographie et parcours du soldat DUBOIS Émile Edmond - Histoires de Poilus</title>
+
 <meta content="parcours de Émile Edmond DUBOIS, soldat guislanais pendant la Première Guerre Mondiale. Il était membre du 294e Régiment d’Infanterie et mort pour la France à Souain en 1915" name="description">
     
 <link rel="stylesheet" href="../css/style.css">

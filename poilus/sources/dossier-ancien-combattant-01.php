@@ -2,39 +2,16 @@
 <html lang="fr">
 <head>
 
-    <meta charset="utf-8">
+<meta charset="utf-8">
           
 <title>Histoires de Poilus - Dossier d'ancien combattant de FIEVET Auguste Victor</title>
 
 <meta content="Extrait du dossier d'ancien combattant d'Auguste Victor FIEVET" name="description">
-
-    <link rel="stylesheet" href="../../css/style.css">
-
+<link rel="stylesheet" href="../../css/style.css">
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-   
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>  
-   
-<script type="text/javascript" src="../../js/jquery.fancybox-1.3.4.pack.js"></script>
-
-
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-
-	
-	
-	$("a#single_image").fancybox();
-	
-	
-	
-}); 
-</script>  
-            
-      
+               
 </head>
-
-   
 
 <body>
 
@@ -60,43 +37,65 @@
     
 <a href="../../index.php"><img src="../../images/logo.png" alt="" class="logo" title="retour sur la page d'accueil du site"/></a>
 
-
 </header>
    
 <nav>
-
-	<a href="../../contact.php">Contact</a>
-    <a href="../../webographie.php">la webographie</a>
+    <a href="../../contact.php">Contact</a>
+    <a href="../../webographie.php">Webographie</a>
     <a href="../../lieux.php">Les Batailles</a>
+    <a href="../../camps.php">Les Camps</a>
     <a href="../../releves.php">Les Relevés</a>
-    <a href="../../poilus.php">Les Poilus</a>
-	<a href="../../index.php">Accueil</a>
-
-
-
-    
+    <a href="../../hopitaux/hopitaux.php">Les Hôpitaux</a>
+    <a href="../../poilus.php" class="NavSelected">Les Poilus</a>
 </nav>
 
 <section>
 
 <aside style="border-top:10px solid #FFFFFF;">
-
 	<ul>
-    	<li><a href="../../poilus.php">BOURSIER Jules Henri</a></li>
+        <li><a href="../BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
+    	<li><a href="../BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
+        <li><a href="../CARIN-Edouard.php">CARIN Edouard (+)</a></li>
+        <li><a href="../CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="../CARIN-Theophile.php">CARIN Théophile</a></li>
+
         <li><a href="../CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="../CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="../DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
-        <li><a href="../FIEVET-Auguste-Victor.php" class="AsideSelected">FIEVET Auguste Victor</a></li>
+        <li><a href="../DUBOIS-Emile-Edmond.php" class="AsideSelected">DUBOIS Émile Edmond (+)</a></li>
+        <li><a href="../FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="../FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
+
         <li><a href="../FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
+        <li><a href="../FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="../GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="../GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="../hanze-augustin.php">HANZE Augustin</a></li>
+
         <li><a href="../JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="../LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
+        <li><a href="../MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="../MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
+        <li><a href="../ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
+        
         <li><a href="../VELU-Adrien.php">VELU Adrien (+)</a></li>
+        <li><a href="../soldats-ardennes.php">Les soldats des Ardennes</a></li>
+        <li><a href="../soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="../autres.php">Les soldats du Nord</a></li>
+        <li><a href="../soldats-belgique.php">Les soldats de Belgique</a></li>
    </ul>
+
+   <div id="pubaside">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Poilus -->
+    <ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-1550427609493753"
+     data-ad-slot="8236218848"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+   </div>
+
 </aside>
 
 <article>
@@ -130,27 +129,27 @@ echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod());
     <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
 </footer>
 
-<!-- Piwik -->
-<script type="text/javascript">
-  var _paq = _paq || [];
-  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//www.genealexis.fr/piwik/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', 4]);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<noscript><p><img src="//www.genealexis.fr/piwik/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
-<!-- End Piwik Code -->
+<?php include('../../include/stats.inc'); ?> 
 
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="../../js/diapo.js"></script>
 
+<!-- javascript -->
 
+<script type="text/javascript">  
+  $(document).ready(function() {
+	$("a#single_image").fancybox();
+  }); 
 
+$(document).ready(function() {
+    $(".diaporama").diaporama(
+		  {
+	    animationSpeed: "slow",
+      delay:2
+    	});
+ 	});
+</script>  
 
 </body>
-
 </html>
