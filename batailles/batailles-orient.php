@@ -26,17 +26,15 @@
         <header>
 	
             <div id="rezo">
-            <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-            <img src="../images/facebook.png" />
-            </a>
-            <img src="../images/googleplus.png" />
-            <a href="https://twitter.com/alexisamand?lang=fr" title="me suivre sur Twitter">
-            <img src="../images/twitter.png" />
-            </a>
+                <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
+                <img src="../images/facebook.png" alt="logo facebook"/></a>
+                <img src="../images/googleplus.png" alt="logo Google Plus"/> 
+                <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
+                <img src="../images/twitter.png" alt="logo Twitter"/></a>
             </div>
-      
-            <a href="../index.php" title="retour sur la page d'accueil du site">
-            <img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
+            
+        <a href="../index.php" title="retour sur la page d'accueil du site">
+        <img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
 
         </header>
    
