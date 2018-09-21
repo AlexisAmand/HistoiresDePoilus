@@ -56,33 +56,33 @@
 <aside>
 
 <ul>
-  <li><a href="anzin.php">Anzin (59)</a></li>
-  <li><a href="betheniville.php">Bétheniville (51)</a></li>
-  <li><a href="bry.php">Bry (59)</a></li>
-  <li><a href="coulsore.php">Coulsore (59)</a></li>
-  <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
+  <li><a href="anzin.php">Anzin (Nord)</a></li>
+  <li><a href="betheniville.php">Bétheniville (Marne)</a></li>
+  <li><a href="bry.php">Bry (Nord)</a></li>
+  <li><a href="coulsore.php">Coulsore (Nord)</a></li>
+  <li><a href="capelle.php">Capelle-sur-Ecaillon (Nord)</a></li>
 
   <li><a href="daix.php">Daix (21)</a></li>
-  <li><a href="eth.php">Eth (59)</a></li>
+  <li><a href="eth.php">Eth (Nord)</a></li>
   <li><a href="feucherolles.php">Feucherolles (78)</a></li>
   <li><a href="frencq.php">Frencq (62)</a></li>
   <li><a href="gelannes.php">Gélannes (10)</a></li>
 
-  <li><a href="gussignies.php"  class="AsideSelected">Gussignies (59)</a></li>
-  <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-  <li><a href="lourches.php">Lourches (59)</a></li>
-  <li><a href="onnaing.php">Onnaing (59)</a></li>  
-  <li><a href="quarouble.php">Quarouble (59)</a></li>
+  <li><a href="gussignies.php"  class="AsideSelected">Gussignies (Nord)</a></li>
+  <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (Marne)</a></li>
+  <li><a href="lourches.php">Lourches (Nord)</a></li>
+  <li><a href="onnaing.php">Onnaing (Nord)</a></li>  
+  <li><a href="quarouble.php">Quarouble (Nord)</a></li>
 
-  <li><a href="roeulx.php">Roeulx (59)</a></li>
-  <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
-  <li><a href="saultain.php">Saultain (59)</a></li>
-  <li><a href="sebourg.php">Sebourg (59)</a></li>
-  <li><a href="verpel.php">Verpel (08)</a></li>
+  <li><a href="roeulx.php">Roeulx (Nord)</a></li>
+  <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (Marne)</a></li>
+  <li><a href="saultain.php">Saultain (Nord)</a></li>
+  <li><a href="sebourg.php">Sebourg (Nord)</a></li>
+  <li><a href="verpel.php">Verpel (Ardennes)</a></li>
 
-  <li><a href="vicq.php">Vicq (59)</a></li>
-  <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
-  <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>   
+  <li><a href="vicq.php">Vicq (Nord)</a></li>
+  <li><a href="villers-guislain.php">Villers-Guislain (Nord)</a></li>
+  <li><a href="wargnies.php">Wargnies-le-Grand (Nord)</a></li>   
 </ul>
    
       <div id="pubaside">
@@ -107,7 +107,13 @@
 
 <p>Voici la liste des morts pour la France et des victimes civiles de Gussignies (Nord) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit commentaire</a>.</p>
 
-<p></p>
+<p>
+Sources:
+<ul>
+  <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
+  <li>Mémoire des Hommes (Ministère de la Défense)</li>
+</ul>  
+</p>
 
 <table>
   <thead>
@@ -127,64 +133,63 @@
     <td>soldat<br >2e classe</td>
     <td>25e B.C</td>
     <td>Tué à l'ennemi</td>
-    </tr>
+  </tr>
   <tr>
     <td>HOSTELART<br />Jean Baptiste</td>
     <td>7 août 1885<br />à Gussignies</td>
-    <td>20 octobre 1914<br />à Vailly (02)</td>
+    <td>20 octobre 1914<br />à Vailly (Aisne)</td>
     <td>soldat</td>
     <td>106e R.I</td>
     <td>Tué à l'ennemi</td>
-    </tr>
+  </tr>
   <tr>
-    <td>LEROY<br />Paul</td>
-    <td>&nbsp;</td>
-    <td>1914</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    </tr>
+    <td>LEROY<br />Paul Jean François</td>
+    <td>14 avril 1886<br />à Rocroy (Ardennes)</td>
+    <td>26 juillet 1917<br />à Mont-Haut (Marne)</td>
+    <td>soldat</td>
+    <td>330e R.I</td>
+    <td>Mort sur le champ de bataille</td>
+  </tr>
   <tr>
-    <td>SEGERS<br />Jules</td>
-    <td>&nbsp;</td>
-    <td>1914</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    </tr>
+    <td>SEGERS<br />Jules Elisée</td>
+    <td>3 novembre 1875<br />à Fourmies (Nord)</td>
+    <td>2 septembre 1914<br />à Maubeuge (Nord)</td>
+    <td>soldat<br >2e classe</td>
+    <td>407e R.I</td>
+    <td>Tué à l'ennemi</td>
+  </tr>
   <tr>
     <td>DEBIEVE<br />Celestin</td>
     <td>8 mars 1893<br />à Gussignies</td>
     <td>5 mars 1915<br />à Vauquois (Meuse)</td>
     <td>Caporal</td>
     <td>42e R.I.C</td>
-    <td>&nbsp;</td>
-    </tr>
+    <td>Tué à l'ennemi</td>
+  </tr>
   <tr>
     <td>DEGORGUE<br />Emile</td>
-    <td>&nbsp;</td>
-    <td>1915</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    </tr>
-      
+    <td>26 mai 1881<br />à Frasnoy (Nord)</td>
+    <td>16 février 1915<br />à Minaucourt (Marne)</td>
+    <td>soldat</td>
+    <td>84e R.I</td>
+    <td>Tué à l'ennemi</td>
+  </tr>     
   <tr>
-    <td>DESCAMPS<br />Marcel</td>
+    <td>DESCAMPS<br />Marcel Alphonse</td>
+    <td>12 septembre 1894<br />à Gussignies</td>
+    <td>20 janvier 1915<br />à Marbotte (Meuse)</td>
+    <td>Soldat<br />2e classe</td>
+    <td>95e R.I</td>
     <td>&nbsp;</td>
-    <td>1915</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    </tr>
+  </tr>
   <tr>
-    <td>DESMONCHAUX<br />Louis</td>
+    <td>DESMONCHAUX<br />Louis Jean Baptiste</td>
+    <td>11 septembre 1886<br />à Brillon (Nord)</td>
+    <td>19 mai 1915<br />à Vauquois (Meuse)</td>
+    <td>ss-lieut</td>
+    <td>76e R.I</td>
     <td>&nbsp;</td>
-    <td>1915</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    </tr>
+  </tr>
   <tr>
     <td>DUBOIS<br />Auguste</td>
     <td>&nbsp;</td>
@@ -192,15 +197,15 @@
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    </tr>
+  </tr>
   <tr>
     <td>COLOT<br />Georges Albert</td>
     <td>4 novembre 1884<br />à Gussignies</td>
     <td>24 février 1916<br />à Verdun (Meuse)</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    </tr>
+    <td>2e canonnier servant</td>
+    <td>102e R.A.L</td>
+    <td>Tué à l'ennemi</td>
+  </tr>
   <tr>
     <td>DUPONT<br />Jules</td>
     <td>&nbsp;</td>
@@ -208,21 +213,21 @@
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    </tr>
-    <tr>
+  </tr>
+  <tr>
     <td>DENIS<br />Léon</td>
     <td>&nbsp;</td>
     <td>1917</td>
-    <td colspan="2">Victime civile</td>
+    <td colspan="2"><strong>Victime civile</strong></td>
     <td>&nbsp;</td>
-    </tr>
+  </tr>
   <tr>
     <td>BATON<br>Louis</td>
     <td>&nbsp;</td>
     <td>1918</td>
-    <td colspan="2">Victime civile</td>
+    <td colspan="2"><strong>Victime civile</strong></td>
     <td>&nbsp;</td>
-    </tr>       
+  </tr>       
   <tr>
     <td>COLOT<br />Louis</td>
     <td>&nbsp;</td>
@@ -230,7 +235,7 @@
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    </tr>
+  </tr>
   <tr>
     <td>DESCAMPS<br />Albert</td>
     <td>12 février 1875<br />à Gussignies</td>
@@ -238,14 +243,14 @@
     <td>&nbsp;</td>
     <td>4e R.I.T</td>
     <td>&nbsp;</td>
-    </tr>
-      <tr>
+  </tr>
+  <tr>
     <td>DELFOSSE<br />Clément</td>
     <td>&nbsp;</td>
     <td>1918</td>
-    <td colspan="2">Victime civile</td>
+    <td colspan="2"><strong>Victime civile</strong></td>
     <td>&nbsp;</td>
-    </tr>
+  </tr>
   <tr>
     <td>DELHAYE<br />Alfred</td>
     <td>&nbsp;</td>
@@ -253,7 +258,7 @@
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    </tr>
+  </tr>
   <tr>
     <td>DRUART<br />Eusebe</td>
     <td>&nbsp;</td>
@@ -261,14 +266,14 @@
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    </tr>
+  </tr>
 	<tr>
     <td>FUMIERE<br />Julien</td>
     <td>&nbsp;</td>
     <td>1918</td>
-    <td colspan="2">Victime civile</td>
+    <td colspan="2"><strong>Victime civile</strong></td>
     <td>&nbsp;</td>
-    </tr>
+  </tr>
   <tr>
     <td>JOSELIER<br />Gustave</td>
     <td>&nbsp;</td>
@@ -276,21 +281,21 @@
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    </tr>
+  </tr>
   <tr>
     <td>LECOMTE<br />Julien</td>
     <td>&nbsp;</td>
     <td>1918</td>
-    <td colspan="2">Victime civile</td>
+    <td colspan="2"><strong>Victime civile</strong></td>  
     <td>&nbsp;</td>
-    </tr>    
+  </tr>    
    <tr>
     <td>LOISEAU<br />François</td>
     <td>&nbsp;</td>
     <td>1918</td>
-    <td colspan="2">Victime civile</td>
+    <td colspan="2"><strong>Victime civile</strong></td>
     <td>&nbsp;</td>
-    </tr>     
+  </tr>     
   <tr>
     <td>PANGRAZZI<br>Camille</td>
     <td>&nbsp;</td>
@@ -298,7 +303,7 @@
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    </tr>
+  </tr>
   <tr>
     <td>PERSEAU<br />Jules</td>
     <td>&nbsp;</td>
@@ -306,13 +311,12 @@
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
-    </tr>
-
+  </tr>
   <tr>
     <td>WAROQUIER<br />Gustave</td>
     <td>&nbsp;</td>
     <td>1918</td>
-    <td colspan="2">Victime civile</td>
+    <td colspan="2"><strong>Victime civile</strong></td>  
     <td>&nbsp;</td>
     </tr>
 </table>

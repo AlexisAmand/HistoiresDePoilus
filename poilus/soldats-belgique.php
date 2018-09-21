@@ -28,18 +28,16 @@
 <header>
 	
     <div id="rezo">
-    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png"    alt="logo facebook"   />
-        </a>
-        <img src="../images/googleplus.png"    alt="logo Google Plus"   /> 
-	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png"    alt="logo Twitter"   />
-        </a>
+      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
+        <img src="../images/facebook.png" alt="logo facebook" /></a>
+        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
+      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
+        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
     </div>
     
-<a href="../index.php" title="retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
-
+  <a href="../index.php" title="Retour sur la page d'accueil du site">
+  <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+  
 </header>
    
 <nav>
@@ -128,7 +126,7 @@
 <h2>Les soldats dont la parenté reste à confirmer</h2>
 
     <ul>
-        <li>Né le 19 octobre 1890 à Condé-sur-l'Escaut (59) mais déclaré à Bernissart, <strong>Raoul Charles Jules QUINTIN</strong> fait partie de l'Armée Belge. Il porte le numéro de matricule 101/57096 et est mort pour sa patrie le 26 août 1914. (source: <a href="https://www.wardeadregister.be/fr">Dead War Register</a>)<br /><br /></li> 
+        <li>Né le 19 octobre 1890 à Condé-sur-l'Escaut (Nord) mais déclaré à Bernissart, <strong>Raoul Charles Jules QUINTIN</strong> fait partie de l'Armée Belge. Il porte le numéro de matricule 101/57096 et est mort pour sa patrie le 26 août 1914. (source: <a href="https://www.wardeadregister.be/fr">Dead War Register</a>)<br /><br /></li> 
     </ul>
     
 <p></p>

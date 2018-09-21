@@ -67,33 +67,33 @@
 <aside>
 
 <ul>
-    <li><a href="anzin.php">Anzin (59)</a></li>
-    <li><a href="betheniville.php">Bétheniville (51)</a></li>
-    <li><a href="bry.php">Bry (59)</a></li>
-    <li><a href="coulsore.php">Coulsore (59)</a></li>
-    <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
+    <li><a href="anzin.php">Anzin (Nord)</a></li>
+    <li><a href="betheniville.php">Bétheniville (Marne)</a></li>
+    <li><a href="bry.php">Bry (Nord)</a></li>
+    <li><a href="coulsore.php">Coulsore (Nord)</a></li>
+    <li><a href="capelle.php">Capelle-sur-Ecaillon (Nord)</a></li>
 
     <li><a href="daix.php">Daix (21)</a></li>
-    <li><a href="eth.php">Eth (59)</a></li>
+    <li><a href="eth.php">Eth (Nord)</a></li>
     <li><a href="feucherolles.php">Feucherolles (78)</a></li>
     <li><a href="frencq.php">Frencq (62)</a></li>
     <li><a href="gelannes.php">Gélannes (10)</a></li>
 
-    <li><a href="gussignies.php">Gussignies (59)</a></li>
-    <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-    <li><a href="lourches.php">Lourches (59)</a></li>
-    <li><a href="onnaing.php">Onnaing (59)</a></li>       
-    <li><a href="quarouble.php">Quarouble (59)</a></li>
+    <li><a href="gussignies.php">Gussignies (Nord)</a></li>
+    <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (Marne)</a></li>
+    <li><a href="lourches.php">Lourches (Nord)</a></li>
+    <li><a href="onnaing.php">Onnaing (Nord)</a></li>       
+    <li><a href="quarouble.php">Quarouble (Nord)</a></li>
 
-    <li><a href="roeulx.php">Roeulx (59)</a></li>
-    <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
-    <li><a href="saultain.php">Saultain (59)</a></li>
-    <li><a href="sebourg.php"  class="AsideSelected">Sebourg (59)</a></li>
-    <li><a href="verpel.php">Verpel (08)</a></li>
+    <li><a href="roeulx.php">Roeulx (Nord)</a></li>
+    <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (Marne)</a></li>
+    <li><a href="saultain.php">Saultain (Nord)</a></li>
+    <li><a href="sebourg.php"  class="AsideSelected">Sebourg (Nord)</a></li>
+    <li><a href="verpel.php">Verpel (Ardennes)</a></li>
 
-    <li><a href="vicq.php">Vicq (59)</a></li>
-    <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
-    <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
+    <li><a href="vicq.php">Vicq (Nord)</a></li>
+    <li><a href="villers-guislain.php">Villers-Guislain (Nord)</a></li>
+    <li><a href="wargnies.php">Wargnies-le-Grand (Nord)</a></li>        
 </ul>
    
       <div id="pubaside">
@@ -204,18 +204,18 @@ Antoine</td>
 
     </tr>
   <tr>
-    <td><b>CABY <br />
-      Marcel</b></td>
-    <td><b></b></td>
-    <td><b>26 octobre 1918</b></td>
-    <td colspan="2"><b>victime civile</b></td>
+    <td><strong>CABY <br />
+      Marcel</strong></td>
+    <td><strong></strong></td>
+    <td><strong>26 octobre 1918</strong></td>
+    <td colspan="2"><strong>victime civile</strong></td>
   </tr>
   <tr>
-    <td><b>CANIAUX <br />
-      Malvina</b></td>
-    <td><b></b></td>
-    <td><b>26 mai 1918</b></td>
-    <td colspan="2"><b>victime civile</b></td>
+    <td><strong>CANIAUX <br />
+      Malvina</strong></td>
+    <td><strong></strong></td>
+    <td><strong>26 mai 1918</strong></td>
+    <td colspan="2"><strong>victime civile</strong></td>
   </tr>
   <tr>
     <td>CARDON<br />
@@ -329,11 +329,11 @@ Jean Baptiste</td>
     <td>327e R.I</td>
   </tr>
   <tr>
-    <td><b>DELCROIX<br />
-Albert</b></td>
-    <td><b></b></td>
-    <td><b>26 août 1918</b></td>
-    <td colspan="2"><b>victime civile</b></td>
+    <td><strong>DELCROIX<br />
+Albert</strong></td>
+    <td><strong></strong></td>
+    <td><strong>26 août 1918</strong></td>
+    <td colspan="2"><strong>victime civile</strong></td>
   </tr>
   <tr>
     <td>DELFOSSE<br />
@@ -458,11 +458,11 @@ Nestor </td>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td><b>GRAVELLE<br />
-Albert</b></td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td colspan="2"><b>victime civile</b></td>
+    <td><strong>GRAVELLE<br />
+Albert</strong></td>
+    <td><strong></strong></td>
+    <td><strong></strong></td>
+    <td colspan="2"><strong>victime civile</strong></td>
   </tr>
   <tr>
     <td>GRAVELLE<br />
@@ -495,11 +495,11 @@ Philippe Ildefonse</td>
     <td>91e R.I.T</td>
   </tr>
   <tr>
-    <td><b>HOT <br />
-      Auguste</b></td>
-    <td><b></b></td>
-    <td><b>30 mai 1917</b></td>
-    <td colspan="2"><b>victime civile</b></td>
+    <td><strong>HOT <br />
+      Auguste</strong></td>
+    <td><strong></strong></td>
+    <td><strong>30 mai 1917</strong></td>
+    <td colspan="2"><strong>victime civile</strong></td>
   </tr>
   <tr>
     <td>HOT <br />
@@ -512,11 +512,11 @@ Philippe Ildefonse</td>
     <td>91e R.I</td>
   </tr>
   <tr>
-    <td><b>HOUZE <br />
-      Émile</b></td>
-    <td><b></b></td>
-    <td><b>30 mai 1917</b></td>
-    <td colspan="2"><b>victime civile</b></td>
+    <td><strong>HOUZE <br />
+      Émile</strong></td>
+    <td><strong></strong></td>
+    <td><strong>30 mai 1917</strong></td>
+    <td colspan="2"><strong>victime civile</strong></td>
   </tr>
   <tr>
     <td>HOUZE <br />
@@ -534,8 +534,8 @@ Philippe Ildefonse</td>
     <td class="auto-style2">JOSPIN<br />
 Edmond</td>
     <td>&nbsp;</td>
-    <td><b>5 novembre 1918</b></td>
-    <td colspan="2"><b>victime civile</b></td>
+    <td><strong>5 novembre 1918</strong></td>
+    <td colspan="2"><strong>victime civile</strong></td>
   </tr>
   <tr>
     <td>LECERF <br />
@@ -566,11 +566,11 @@ Odon Louis </td>
     <td>152e R.I</td>
   </tr>
   <tr>
-    <td><b>LIERMAN<br />
-Aldebert</b></td>
-    <td><b></b></td>
-    <td><b>25 octobre 1918</b></td>
-    <td colspan="2"><b>victime civile</b></td>
+    <td><strong>LIERMAN<br />
+Aldebert</strong></td>
+    <td><strong></strong></td>
+    <td><strong>25 octobre 1918</strong></td>
+    <td colspan="2"><strong>victime civile</strong></td>
   </tr>
   <tr>
     <td>MALAQUIN <br />
@@ -652,11 +652,11 @@ Victor Druon</td>
     <td>148e R.I</td>
   </tr>
   <tr>
-    <td><b>PATOU <br />
-      Druon</b></td>
-    <td><b></b></td>
-    <td><b>5 novembre 1918</b></td>
-    <td colspan="2"><b>victime civile</b></td>
+    <td><strong>PATOU <br />
+      Druon</strong></td>
+    <td><strong></strong></td>
+    <td><strong>5 novembre 1918</strong></td>
+    <td colspan="2"><strong>victime civile</strong></td>
   </tr>
   <tr>
     <td>PISSON <br />
@@ -707,11 +707,11 @@ Ernest </td>
     <td>2e R.I.T</td>
   </tr>
   <tr>
-    <td><b>VANHOUTJEGHEM<br />
-Henri</b></td>
-    <td><b></b></td>
+    <td><strong>VANHOUTJEGHEM<br />
+Henri</strong></td>
+    <td><strong></strong></td>
     <td><span class="auto-style2" style="color: rgb(53, 53, 53); font-family: Asap, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255);">10 novembre 1918</span></td>
-    <td colspan="2"><b>victime civile</b></td>
+    <td colspan="2"><strong>victime civile</strong></td>
   </tr>
   <tr>
     <td>WABRE<br />

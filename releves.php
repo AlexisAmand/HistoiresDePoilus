@@ -55,33 +55,51 @@
 <aside>
 
 <ul>
-    <li><a href="releves/anzin.php">Anzin (59)</a></li>
-    <li><a href="releves/betheniville.php">Bétheniville (51)</a></li>
-    <li><a href="releves/bry.php">Bry (59)</a></li>
-    <li><a href="releves/coulsore.php">Coulsore (59)</a></li>
-    <li><a href="releves/capelle.php">Capelle-sur-Ecaillon (59)</a></li>
 
-    <li><a href="releves/daix.php">Daix (21)</a></li>        
-    <li><a href="releves/eth.php">Eth (59)</a></li>
-    <li><a href="releves/feucherolles.php">Feucherolles (78)</a></li>
-    <li><a href="releves/frencq.php">Frencq (62)</a></li>
-    <li><a href="releves/gelannes.php">Gélannes (10)</a></li>
+<li style="padding: 6px;padding-left: 6px;font-size: 14px;padding-left: 13px;color: #e1ede3;background-color: #364046;">Nord</li>
 
-    <li><a href="releves/gussignies.php">Gussignies (59)</a></li>
-    <li><a href="releves/isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-    <li><a href="releves/lourches.php">Lourches (59)</a></li>
-    <li><a href="releves/onnaing.php">Onnaing (59)</a></li>      
-    <li><a href="releves/quarouble.php">Quarouble (59)</a></li>
+<li><a href="releves/anzin.php">Anzin</a></li>
+<li><a href="releves/bry.php">Bry</a></li>
+<li><a href="releves/coulsore.php">Coulsore</a></li>
+<li><a href="releves/capelle.php">Capelle-sur-Ecaillon</a></li>
+<li><a href="releves/eth.php">Eth</a></li>
+<li><a href="releves/gussignies.php">Gussignies</a></li>
+<li><a href="releves/lourches.php">Lourches</a></li>
+<li><a href="releves/onnaing.php">Onnaing</a></li>    
+<li><a href="releves/quarouble.php">Quarouble</a></li>
+<li><a href="releves/roeulx.php">Roeulx</a></li>
+<li><a href="releves/saultain.php">Saultain</a></li>
+<li><a href="releves/sebourg.php">Sebourg</a></li>
+<li><a href="releves/vicq.php">Vicq</a></li>
+<li><a href="releves/villers-guislain.php">Villers-Guislain</a></li>
+<li><a href="releves/wargnies.php">Wargnies-le-Grand</a></li>    
+ 
+<li style="padding: 6px;padding-left: 6px;font-size: 14px;padding-left: 13px;color: #e1ede3;background-color: #364046;">Marne</li>
 
-    <li><a href="releves/roeulx.php">Roeulx (59)</a></li>
-    <li><a href="releves/saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
-    <li><a href="releves/saultain.php">Saultain (59)</a></li>
-    <li><a href="releves/sebourg.php">Sebourg (59)</a></li>
-    <li><a href="releves/verpel.php">Verpel (08)</a></li>
+<li><a href="releves/betheniville.php">Bétheniville</a></li>
+<li><a href="releves/isles-sur-suippes.php">Isles-sur-Suippes</a></li>
+<li><a href="releves/saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit</a></li>
 
-    <li><a href="releves/vicq.php">Vicq (59)</a></li>
-    <li><a href="releves/villers-guislain.php">Villers-Guislain (59)</a></li>     
-    <li><a href="releves/wargnies.php">Wargnies-le-Grand (59)</a></li>   
+<li style="padding: 6px;padding-left: 6px;font-size: 14px;padding-left: 13px;color: #e1ede3;background-color: #364046;">Côte-d'Or</li>
+
+<li><a href="releves/daix.php">Daix</a></li>
+
+<li style="padding: 6px;padding-left: 6px;font-size: 14px;padding-left: 13px;color: #e1ede3;background-color: #364046;">Yvelines</li>
+
+<li><a href="releves/feucherolles.php">Feucherolles</a></li>
+
+<li style="padding: 6px;padding-left: 6px;font-size: 14px;padding-left: 13px;color: #e1ede3;background-color: #364046;">Pas-de-Calais</li>
+
+<li><a href="releves/frencq.php">Frencq</a></li>
+
+<li style="padding: 6px;padding-left: 6px;font-size: 14px;padding-left: 13px;color: #e1ede3;background-color: #364046;">Aube</li>
+
+<li><a href="releves/gelannes.php">Gélannes</a></li>
+
+<li style="padding: 6px;padding-left: 6px;font-size: 14px;padding-left: 13px;color: #e1ede3;background-color: #364046;">Ardennes</li>
+
+<li><a href="releves/verpel.php">Verpel</a></li>
+
 </ul>
  
     <div id="pubaside">

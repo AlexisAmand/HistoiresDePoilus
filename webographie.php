@@ -11,15 +11,6 @@
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
                    
-    <style type="text/css">
-        .auto-style1 {
-            color: #990000;
-        }
-        .auto-style2 {
-            text-decoration: underline;
-        }
-        </style>
-                   
 </head>
 
 <body>
@@ -37,18 +28,16 @@
 <header>
 	
     <div id="rezo">
-    <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-    <img src="images/facebook.png" />
-    </a>
-    <img src="images/googleplus.png" />
-    <a href="https://twitter.com/alexisamand?lang=fr" title="me suivre sur Twitter">
-    <img src="images/twitter.png" />
-    </a>
+      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
+        <img src="images/facebook.png" alt="logo facebook" /></a>
+        <img src="images/googleplus.png" alt="logo Google Plus" /> 
+      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
+        <img src="images/twitter.png" alt="logo Twitter"   /></a>
     </div>
-      
-<a href="index.php" title="retour sur la page d'accueil du site">
-<img src="images/logo.png" alt="" class="logo" alt="Histoires de Poilus"/></a>
-
+    
+  <a href="index.php" title="Retour sur la page d'accueil du site">
+  <img src="images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+  
 </header>
    
 <nav>

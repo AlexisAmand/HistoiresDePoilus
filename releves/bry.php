@@ -56,33 +56,33 @@
 <aside>
 
 <ul>
-    <li><a href="anzin.php">Anzin (59)</a></li>
-    <li><a href="betheniville.php">Bétheniville (51)</a></li>
-    <li><a href="bry.php"  class="AsideSelected">Bry (59)</a></li>
-    <li><a href="coulsore.php">Coulsore (59)</a></li>
-    <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
+    <li><a href="anzin.php">Anzin (Nord)</a></li>
+    <li><a href="betheniville.php">Bétheniville (Marne)</a></li>
+    <li><a href="bry.php"  class="AsideSelected">Bry (Nord)</a></li>
+    <li><a href="coulsore.php">Coulsore (Nord)</a></li>
+    <li><a href="capelle.php">Capelle-sur-Ecaillon (Nord)</a></li>
 
     <li><a href="daix.php">Daix (21)</a></li>
-    <li><a href="eth.php">Eth (59)</a></li>
+    <li><a href="eth.php">Eth (Nord)</a></li>
     <li><a href="feucherolles.php">Feucherolles (78)</a></li>
     <li><a href="frencq.php">Frencq (62)</a></li>
     <li><a href="gelannes.php">Gélannes (10)</a></li>
 
-    <li><a href="gussignies.php">Gussignies (59)</a></li>
-    <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-    <li><a href="lourches.php">Lourches (59)</a></li>
-    <li><a href="onnaing.php">Onnaing (59)</a></li>      
-    <li><a href="quarouble.php">Quarouble (59)</a></li>
+    <li><a href="gussignies.php">Gussignies (Nord)</a></li>
+    <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (Marne)</a></li>
+    <li><a href="lourches.php">Lourches (Nord)</a></li>
+    <li><a href="onnaing.php">Onnaing (Nord)</a></li>      
+    <li><a href="quarouble.php">Quarouble (Nord)</a></li>
 
-    <li><a href="roeulx.php">Roeulx (59)</a></li>
-    <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
-    <li><a href="saultain.php">Saultain (59)</a></li>
-    <li><a href="sebourg.php">Sebourg (59)</a></li>
-    <li><a href="verpel.php">Verpel (08)</a></li>
+    <li><a href="roeulx.php">Roeulx (Nord)</a></li>
+    <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (Marne)</a></li>
+    <li><a href="saultain.php">Saultain (Nord)</a></li>
+    <li><a href="sebourg.php">Sebourg (Nord)</a></li>
+    <li><a href="verpel.php">Verpel (Ardennes)</a></li>
 
-    <li><a href="vicq.php">Vicq (59)</a></li>
-    <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
-    <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
+    <li><a href="vicq.php">Vicq (Nord)</a></li>
+    <li><a href="villers-guislain.php">Villers-Guislain (Nord)</a></li>
+    <li><a href="wargnies.php">Wargnies-le-Grand (Nord)</a></li>        
 </ul>
    
       <div id="pubaside">
@@ -108,159 +108,109 @@
 <p></p>
 
 <table>
-  <thead>
-  <tr>
-    <td width="158px">Nom et prénom(s)</td>
-    <td width="158px">Date et lieu
-      <br />
-      de naissance</td>
-    <td>Date et lieu
-      <br />
-      de décès</td>
-    <td width="45px">Grade</td>
-    <td width="70px">Corps</td>
-    <td width="90px">Genre<br />de mort</td>
-   </tr>
-   </thead>
-  <tr>
-    <td>BERTRAND<br />
-        Gustave</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <thead>
+    <tr>
+        <td width="158px">Nom et prénom(s)</td>
+        <td width="158px">Date et lieu<br />de naissance</td>
+        <td>Date et lieu<br />de décès</td>
+        <td width="45px">Grade</td>
+        <td width="70px">Corps</td>
+        <td width="90px">Genre<br />de mort</td>
     </tr>
- 
-  <tr>
-    <td>CARLIER<br />
-        Robert Léon Hervé</td>
-    <td>Le 26 décembre 1894<br />
-        à Bry (Nord)</td>
-    <td>Le 24 décembre 1914<br />
-        à Bois de la Gruerie (Marne)</td>
-    <td>soldat</td>
-    <td>147e R.I</td>
-    <td>tué 
-        <br />
-        à l'ennemi</td>
+    </thead>
+    <tr>
+        <td>BERTRAND<br />Gustave</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
     </tr>
- 
-  <tr>
-    <td>DELATTE<br />
-        Henri Pierre Joseph</td>
-    <td>Le 8 mars 1877<br />
-        à Bry (Nord)</td>
-    <td>Le 13 juin 1917<br />
-        à <a href="../camps/camp-herne.php">Börnig</a> (Allemagne)</td>
-    <td>soldat</td>
-    <td>4e R.I.T</td>
-    <td>Dysenterie</td>
+    <tr>
+        <td>CARLIER<br />Robert Léon Hervé</td>
+        <td>Le 26 décembre 1894<br />à Bry</td>
+        <td>Le 24 décembre 1914<br />à Bois de la Gruerie (Marne)</td>
+        <td>soldat</td>
+        <td>147e R.I</td>
+        <td>tué<br />à l'ennemi</td>
     </tr>
- 
-  <tr>
-    <td>DELATTE<br />
-        Victor Louis</td>
-    <td>Le 17 avril 1887<br />
-        à Bry (Nord)</td>
-    <td>Le 8 juin 1916<br />
-        à Fleury (Marne)</td>
-    <td>soldat</td>
-    <td>291e R.I</td>
-    <td>tué<br />
-        à l'ennemi</td>
+    <tr>
+        <td>DELATTE<br />Henri Pierre Joseph</td>
+        <td>Le 8 mars 1877<br />à Bry</td>
+        <td>Le 13 juin 1917<br />à <a href="../camps/camp-herne.php">Börnig</a> (Allemagne)</td>
+        <td>soldat</td>
+        <td>4e R.I.T</td>
+        <td>Dysenterie</td>
     </tr>
- 
-  <tr>
-    <td><b>JUPIN<br />
-        Jeanne</b></td>
-    <td><b></b></td>
-    <td>&nbsp;</td>
-    <td colspan="3"><b>victime civile</b></td>
+    <tr>
+        <td>DELATTE<br />Victor Louis</td>
+        <td>Le 17 avril 1887<br />à Bry</td>
+        <td>Le 8 juin 1916<br />à Fleury (Marne)</td>
+        <td>soldat</td>
+        <td>291e R.I</td>
+        <td>tué<br />à l'ennemi</td>
     </tr>
- 
-  <tr>
-    <td>LAMBOTTE<br />
-        Hubert</td>
-    <td>Le 30 mai 1893<br />
-        à Bry (Nord)</td>
-    <td>Le 24 octobre 1914<br />
-        à Trèves (Allemagne)</td>
-    <td>caporal</td>
-    <td>147e R.I</td>
-    <td>blessures
-        <br />
-        de guerre</td>
+    <tr>
+        <td><strong>JUPIN<br />Jeanne</strong></td>
+        <td><strong></strong></td>
+        <td>&nbsp;</td>
+        <td colspan="3"><strong>victime civile</strong></td>
     </tr>
- 
-  <tr>
-    <td>LECERF<br />
-        Auguste Célestin</td>
-    <td>Le 26 août 1890<br />
-        à Bry (Nord)</td>
-    <td>Le 26 juillet 1916 à la ferme des Marquises (Marne)</td>
-    <td>brigadier</td>
-    <td>11e C.P</td>
-    <td>éclat de torpille</td>
+    <tr>
+        <td>LAMBOTTE<br />Hubert</td>
+        <td>Le 30 mai 1893<br />à Bry</td>
+        <td>Le 24 octobre 1914<br />à Trèves (Allemagne)</td>
+        <td>caporal</td>
+        <td>147e R.I</td>
+        <td>blessures<br />de guerre</td>
     </tr>
- 
-  <tr>
-    <td>LOOCK<br />
-        Henri</td>
-    <td>&nbsp;</td>
-    <td class="auto-style2">&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <tr>
+        <td>LECERF<br />Auguste Célestin</td>
+        <td>Le 26 août 1890<br />à Bry</td>
+        <td>Le 26 juillet 1916 à la ferme des Marquises (Marne)</td>
+        <td>brigadier</td>
+        <td>11e C.P</td>
+        <td>éclat de torpille</td>
+    </tr> 
+    <tr>
+        <td>LOOCK<br />Henri</td>
+        <td>&nbsp;</td>
+        <td class="auto-style2">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
     </tr>
- 
-  <tr>
-    <td>REMY<br />
-        Léon Achille</td>
-    <td>Le 27 juillet 1883<br />
-        à Sebourg (Nord)</td>
-    <td>Le 26 novembre 1918<br />
-        à <a href="../camps/camp-herne.php">Börnig</a> (Allemagne)</td>
-    <td>soldat</td>
-    <td>1er R.A.P</td>
-    <td>décédé 
-        <br />
-        en captivité</td>
+    <tr>
+        <td>REMY<br />Léon Achille</td>
+        <td>Le 27 juillet 1883<br />à Sebourg (Nord)</td>
+        <td>Le 26 novembre 1918<br />à <a href="../camps/camp-herne.php">Börnig</a> (Allemagne)</td>
+        <td>soldat</td>
+        <td>1er R.A.P</td>
+        <td>décédé<br />en captivité</td>
     </tr>
- 
-  <tr>
-    <td>SOTTIAUX<br />
-        Ernest</td>
-    <td>&nbsp;</td>
-    <td class="auto-style2">&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <tr>
+        <td>SOTTIAUX<br />Ernest</td>
+        <td>&nbsp;</td>
+        <td class="auto-style2">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
     </tr>
- 
-  <tr>
-    <td><b>TAQUET<br />
-        Ancèle</b></td>
-    <td><b></b></td>
-    <td>&nbsp;</td>
-    <td colspan="3"><b>victime civile</b></td>
+    <tr>
+        <td><strong>TAQUET<br />Ancèle</strong></td>
+        <td><strong></strong></td>
+        <td>&nbsp;</td>
+        <td colspan="3"><strong>victime civile</strong></td>
     </tr>
- 
-  <tr>
-    <td>VRAND<br />
-        Jean Baptiste</td>
-    <td>Le 17 avril 1867<br />
-        à Bry (Nord)</td>
-    <td>Le 7 septembre 1914<br />
-        à Maubeuge (Nord)</td>
-    <td>sergent</td>
-    <td>C.M.D</td>
-    <td>tué
-        <br />
-        à l'ennemi</td>
+    <tr>
+        <td>VRAND<br />Jean Baptiste</td>
+        <td>Le 17 avril 1867<br />à Bry</td>
+        <td>Le 7 septembre 1914<br />à Maubeuge (Nord)</td>
+        <td>sergent</td>
+        <td>C.M.D</td>
+        <td>tué<br />à l'ennemi</td>
     </tr>
- 
-  </table>
+</table>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

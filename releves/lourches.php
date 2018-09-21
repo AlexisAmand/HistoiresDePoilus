@@ -71,33 +71,33 @@
 <aside>
 
 <ul>
-    <li><a href="anzin.php">Anzin (59)</a></li>
-    <li><a href="betheniville.php">Bétheniville (51)</a></li>
-    <li><a href="bry.php">Bry (59)</a></li>
-    <li><a href="coulsore.php">Coulsore (59)</a></li>
-    <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
+    <li><a href="anzin.php">Anzin (Nord)</a></li>
+    <li><a href="betheniville.php">Bétheniville (Marne)</a></li>
+    <li><a href="bry.php">Bry (Nord)</a></li>
+    <li><a href="coulsore.php">Coulsore (Nord)</a></li>
+    <li><a href="capelle.php">Capelle-sur-Ecaillon (Nord)</a></li>
 
     <li><a href="daix.php">Daix (21)</a></li>
-    <li><a href="eth.php">Eth (59)</a></li>
+    <li><a href="eth.php">Eth (Nord)</a></li>
     <li><a href="feucherolles.php">Feucherolles (78)</a></li>
     <li><a href="frencq.php">Frencq (62)</a></li>
     <li><a href="gelannes.php">Gélannes (10)</a></li>
 
-    <li><a href="gussignies.php">Gussignies (59)</a></li>
-    <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-    <li><a href="lourches.php"  class="AsideSelected">Lourches (59)</a></li>
-    <li><a href="onnaing.php">Onnaing (59)</a></li>        
-    <li><a href="quarouble.php">Quarouble (59)</a></li>
+    <li><a href="gussignies.php">Gussignies (Nord)</a></li>
+    <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (Marne)</a></li>
+    <li><a href="lourches.php"  class="AsideSelected">Lourches (Nord)</a></li>
+    <li><a href="onnaing.php">Onnaing (Nord)</a></li>        
+    <li><a href="quarouble.php">Quarouble (Nord)</a></li>
 
-    <li><a href="roeulx.php">Roeulx (59)</a></li>
-    <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
-    <li><a href="saultain.php">Saultain (59)</a></li>
-    <li><a href="sebourg.php">Sebourg (59)</a></li>
-    <li><a href="verpel.php">Verpel (08)</a></li>
+    <li><a href="roeulx.php">Roeulx (Nord)</a></li>
+    <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (Marne)</a></li>
+    <li><a href="saultain.php">Saultain (Nord)</a></li>
+    <li><a href="sebourg.php">Sebourg (Nord)</a></li>
+    <li><a href="verpel.php">Verpel (Ardennes)</a></li>
 
-    <li><a href="vicq.php">Vicq (59)</a></li>
-    <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
-    <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
+    <li><a href="vicq.php">Vicq (Nord)</a></li>
+    <li><a href="villers-guislain.php">Villers-Guislain (Nord)</a></li>
+    <li><a href="wargnies.php">Wargnies-le-Grand (Nord)</a></li>        
 </ul>
    
       <div id="pubaside">
@@ -540,13 +540,13 @@
     <td>&nbsp;</td>
     </tr>
   <tr>
-    <td><b>CACHEUX <br />
-      Celina</b></td>
-    <td><b></b></td>
+    <td><strong>CACHEUX <br />
+      Celina</strong></td>
+    <td><strong></strong></td>
     <td class="auto-style4">&nbsp;</td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b>victime civile</b></td>
+    <td><strong></strong></td>
+    <td><strong></strong></td>
+    <td><strong>victime civile</strong></td>
     </tr>
   <tr>
     <td>CACHEUX<br />
@@ -572,15 +572,15 @@
     <td>&nbsp;</td>
     </tr>
   <tr>
-    <td><b>CAMPIN <br />
-      Joséphine</b></td>
-    <td><b>6 août 1894 à 
+    <td><strong>CAMPIN <br />
+      Joséphine</strong></td>
+    <td><strong>6 août 1894 à 
         <br />
-        Lourches (Nord)</b></td>
+        Lourches (Nord)</strong></td>
     <td class="auto-style4">12 octobre 1918 à Lourches (Nord)</td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b>victime civile</b></td>
+    <td><strong></strong></td>
+    <td><strong></strong></td>
+    <td><strong>victime civile</strong></td>
     </tr>
   <tr>
     <td><a href="../poilus/CARIN-Edouard.php">CARIN<br />
@@ -639,13 +639,13 @@
     <td>&nbsp;</td>
     </tr>
   <tr>
-    <td><b>CHEVRON <br />
-      Henri</b></td>
-    <td><b></b></td>
+    <td><strong>CHEVRON <br />
+      Henri</strong></td>
+    <td><strong></strong></td>
     <td class="auto-style4">&nbsp;</td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b>victime civile</b></td>
+    <td><strong></strong></td>
+    <td><strong></strong></td>
+    <td><strong>victime civile</strong></td>
     </tr>
   <tr>
     <td>COLINET<br />
@@ -760,124 +760,124 @@
     <td>&nbsp;</td>
     </tr>
   <tr>
-    <td><b>DESBLEUMORTIER <br />
-      Léon</b></td>
-    <td><b></b></td>
+    <td><strong>DESBLEUMORTIER <br />
+      Léon</strong></td>
+    <td><strong></strong></td>
     <td class="auto-style4">&nbsp;</td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b>victime civile</b></td>
+    <td><strong></strong></td>
+    <td><strong></strong></td>
+    <td><strong>victime civile</strong></td>
     </tr>
   <tr>
-    <td><b>LEDENT <br />
-      Désiré</b></td>
-    <td><b></b></td>
+    <td><strong>LEDENT <br />
+      Désiré</strong></td>
+    <td><strong></strong></td>
     <td class="auto-style4">&nbsp;</td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b>victime civile</b></td>
+    <td><strong></strong></td>
+    <td><strong></strong></td>
+    <td><strong>victime civile</strong></td>
     </tr>
   <tr>
-    <td><b>LAUDE<br />
-Arthur</b></td>
-    <td><b></b></td>
+    <td><strong>LAUDE<br />
+Arthur</strong></td>
+    <td><strong></strong></td>
     <td class="auto-style4">&nbsp;</td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b>victime civile</b></td>
+    <td><strong></strong></td>
+    <td><strong></strong></td>
+    <td><strong>victime civile</strong></td>
     </tr>
   <tr>
-    <td><b>LANGRAND<br />
-Adolphe</b></td>
-    <td><b></b></td>
-    <td class="auto-style2"><b>25 janvier 1919 à
+    <td><strong>LANGRAND<br />
+Adolphe</strong></td>
+    <td><strong></strong></td>
+    <td class="auto-style2"><strong>25 janvier 1919 à
         <br />
-        Lourches (Nord).</b></td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b>victime civile</b></td>
+        Lourches (Nord).</strong></td>
+    <td><strong></strong></td>
+    <td><strong></strong></td>
+    <td><strong>victime civile</strong></td>
   </tr>
   <tr>
-    <td><b>LEDENT <br />
-      Auguste</b></td>
-    <td><b></b></td>
+    <td><strong>LEDENT <br />
+      Auguste</strong></td>
+    <td><strong></strong></td>
     <td class="auto-style4">&nbsp;</td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b>victime civile</b></td>
+    <td><strong></strong></td>
+    <td><strong></strong></td>
+    <td><strong>victime civile</strong></td>
   </tr>
   <tr>
-    <td><b>MAILIOT<br />
-Rosalie</b></td>
-    <td><b>6 janvier 1874 à Lourches (Nord).</b></td>
+    <td><strong>MAILIOT<br />
+Rosalie</strong></td>
+    <td><strong>6 janvier 1874 à Lourches (Nord).</strong></td>
     <td class="auto-style4">12 octobre 1918 à Lourches (Nord).</td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b>victime civile</b></td>
+    <td><strong></strong></td>
+    <td><strong></strong></td>
+    <td><strong>victime civile</strong></td>
   </tr>
   <tr>
-    <td><b>NEVE <br />
-      Catherine</b></td>
-    <td><b>20 janvier 1886 à Lourches (Nord).</b></td>
+    <td><strong>NEVE <br />
+      Catherine</strong></td>
+    <td><strong>20 janvier 1886 à Lourches (Nord).</strong></td>
     <td class="auto-style4">12 octobre 1918 à Lourches (Nord).</td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b>victime civile</b></td>
+    <td><strong></strong></td>
+    <td><strong></strong></td>
+    <td><strong>victime civile</strong></td>
   </tr>
   <tr>
-    <td><b>MILLECAMP <br />
-      Éloi</b></td>
-    <td><b>28 mai 1866 à<br />
-        eruwelz (Belgique) </b></td>
+    <td><strong>MILLECAMP <br />
+      Éloi</strong></td>
+    <td><strong>28 mai 1866 à<br />
+        eruwelz (Belgique) </strong></td>
     <td class="auto-style4">7 octobre 1918 à Lourches (Nord).</td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b>victime civile</b></td>
+    <td><strong></strong></td>
+    <td><strong></strong></td>
+    <td><strong>victime civile</strong></td>
   </tr>
   <tr>
-    <td><b>PARENT <br />
-      Célestin</b></td>
-    <td><b></b></td>
+    <td><strong>PARENT <br />
+      Célestin</strong></td>
+    <td><strong></strong></td>
     <td class="auto-style4">&nbsp;</td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b>victime civile</b></td>
+    <td><strong></strong></td>
+    <td><strong></strong></td>
+    <td><strong>victime civile</strong></td>
   </tr>
   <tr>
-    <td><b>PONCHAUT<br />
-Victor</b></td>
-    <td><b></b></td>
+    <td><strong>PONCHAUT<br />
+Victor</strong></td>
+    <td><strong></strong></td>
     <td class="auto-style4">&nbsp;</td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b>victime civile</b></td>
+    <td><strong></strong></td>
+    <td><strong></strong></td>
+    <td><strong>victime civile</strong></td>
   </tr>
   <tr>
-    <td><b>QUINCHON <br />
-      François</b></td>
-    <td><b></b></td>
+    <td><strong>QUINCHON <br />
+      François</strong></td>
+    <td><strong></strong></td>
     <td class="auto-style4">&nbsp;</td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b>victime civile</b></td>
+    <td><strong></strong></td>
+    <td><strong></strong></td>
+    <td><strong>victime civile</strong></td>
   </tr>
   <tr>
-    <td><b>SZEWERYL <br />
-      Ladislas</b></td>
-    <td><b></b></td>
+    <td><strong>SZEWERYL <br />
+      Ladislas</strong></td>
+    <td><strong></strong></td>
     <td class="auto-style4">&nbsp;</td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b>victime civile</b></td>
+    <td><strong></strong></td>
+    <td><strong></strong></td>
+    <td><strong>victime civile</strong></td>
   </tr>
   <tr>
-    <td><b>TISON <br />
-      Émilienne</b></td>
-    <td><b></b></td>
+    <td><strong>TISON <br />
+      Émilienne</strong></td>
+    <td><strong></strong></td>
     <td class="auto-style4">&nbsp;</td>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b>victime civile</b></td>
+    <td><strong></strong></td>
+    <td><strong></strong></td>
+    <td><strong>victime civile</strong></td>
   </tr>
 </table>
 

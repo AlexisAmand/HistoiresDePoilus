@@ -28,18 +28,16 @@
 <header>
 	
     <div id="rezo">
-    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png"    alt="logo facebook"   />
-        </a>
-        <img src="../images/googleplus.png"    alt="logo Google Plus"   /> 
-	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png"    alt="logo Twitter"   />
-        </a>
+      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
+        <img src="../images/facebook.png" alt="logo facebook" /></a>
+        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
+      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
+        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
     </div>
     
-<a href="../index.php" title="retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
-
+  <a href="../index.php" title="Retour sur la page d'accueil du site">
+  <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+  
 </header>
    
 <nav>
@@ -108,12 +106,11 @@
 
 <p>Augustin HANZE est né Cousolre (Nord) le 6 février 1886, fils légitime de Désiré HANZE et Laure DELENS. Selon le recensement de 1906, il est serrurier et vit Route Nationale à Cousolre en compagnie de ses parents et de sa sœur Germaine (née en 1891). Le 5 mars 1910, il épouse à Valenciennes Berthe DUSART, la cousine germaine d'<a href="FONTAINE-Henri-Gustave.php">Henri Gustave FONTAINE</a> (mon arrière-arrière-grand-père).</p> 
 
-<figure>
-    <a href="images/arbre-hanze.png" id="single_image" title="Arbre généalogique simplifié de la famille HANZE">
-    <img src="miniatures/arbre-hanze.png" alt="Arbre généalogique simplifié de la famille HANZE" style="box-shadow:none;width:650px;"/>
-    </a>
-    <figcaption>Arbre simplifié de la famille HANZE<br />(cliquez pour agrandir)</figcaption>
-</figure>
+    <figure>
+        <a href="images/arbre-hanze.png" id="single_image" title="Arbre généalogique simplifié de la famille HANZE">
+        <img src="miniatures/arbre-hanze.png" alt="Arbre généalogique simplifié de la famille HANZE" style="box-shadow:none;width:650px;"/></a>
+        <figcaption>Arbre simplifié de la famille HANZE<br />(cliquez pour agrandir)</figcaption>
+    </figure>
 
 <p>Rappelé à l'activité par le décret de Mobilisation Générale du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux-ges.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le <a href="../releves/coulsore.php">Monument aux Morts de Coulsore</a> (où il était né) et sur les plaques commémoratives du square de l’Armistice à Carcassonne (où il était serrurier).</p>
 

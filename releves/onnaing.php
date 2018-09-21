@@ -56,33 +56,33 @@
 <aside>
 
 <ul>
-  <li><a href="anzin.php">Anzin (59)</a></li>
-  <li><a href="betheniville.php">Bétheniville (51)</a></li>
-  <li><a href="bry.php">Bry (59)</a></li>
-  <li><a href="coulsore.php">Coulsore (59)</a></li>
-  <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
+  <li><a href="anzin.php">Anzin (Nord)</a></li>
+  <li><a href="betheniville.php">Bétheniville (Marne)</a></li>
+  <li><a href="bry.php">Bry (Nord)</a></li>
+  <li><a href="coulsore.php">Coulsore (Nord)</a></li>
+  <li><a href="capelle.php">Capelle-sur-Ecaillon (Nord)</a></li>
 
   <li><a href="daix.php">Daix (21)</a></li>
-  <li><a href="eth.php">Eth (59)</a></li>
+  <li><a href="eth.php">Eth (Nord)</a></li>
   <li><a href="feucherolles.php">Feucherolles (78)</a></li>
   <li><a href="frencq.php">Frencq (62)</a></li>
   <li><a href="gelannes.php">Gélannes (10)</a></li>
 
-  <li><a href="gussignies.php">Gussignies (59)</a></li>
-  <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-  <li><a href="lourches.php">Lourches (59)</a></li>
-  <li><a href="onnaing.php"  class="AsideSelected">Onnaing (59)</a></li>  
-  <li><a href="quarouble.php">Quarouble (59)</a></li>
+  <li><a href="gussignies.php">Gussignies (Nord)</a></li>
+  <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (Marne)</a></li>
+  <li><a href="lourches.php">Lourches (Nord)</a></li>
+  <li><a href="onnaing.php"  class="AsideSelected">Onnaing (Nord)</a></li>  
+  <li><a href="quarouble.php">Quarouble (Nord)</a></li>
 
-  <li><a href="roeulx.php">Roeulx (59)</a></li>
-  <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
-  <li><a href="saultain.php">Saultain (59)</a></li>
-  <li><a href="sebourg.php">Sebourg (59)</a></li>
-  <li><a href="verpel.php">Verpel (08)</a></li>
+  <li><a href="roeulx.php">Roeulx (Nord)</a></li>
+  <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (Marne)</a></li>
+  <li><a href="saultain.php">Saultain (Nord)</a></li>
+  <li><a href="sebourg.php">Sebourg (Nord)</a></li>
+  <li><a href="verpel.php">Verpel (Ardennes)</a></li>
 
-  <li><a href="vicq.php">Vicq (59)</a></li>
-  <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
-  <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
+  <li><a href="vicq.php">Vicq (Nord)</a></li>
+  <li><a href="villers-guislain.php">Villers-Guislain (Nord)</a></li>
+  <li><a href="wargnies.php">Wargnies-le-Grand (Nord)</a></li>        
 </ul>
    
       <div id="pubaside">
@@ -595,7 +595,7 @@
     </tr>
   <tr>
     <td>GUSTIN<br />Henri</td>
-    <td>le 27 mars 1881<br />à Bermerain (59)</td>
+    <td>le 27 mars 1881<br />à Bermerain (Nord)</td>
     <td>le 17 mars 1915<br />à ? (Allemagne)</td>
     <td>soldat</td>
     <td>2e R.I.T</td>
@@ -603,7 +603,7 @@
     </tr>
   <tr>
     <td>HOURRIEZ<br />Arthur Georges</td>
-    <td>le 30 octobre 1889<br />à Onnaing (59)</td>
+    <td>le 30 octobre 1889<br />à Onnaing (Nord)</td>
     <td>le 27 novembre 1914<br />à Saint-Hubert (Belgique)</td>
     <td>caporal</td>
     <td>91e R.I</td>
@@ -611,16 +611,16 @@
     </tr>
   <tr>
     <td>JOLY<br />Henri Alcide</td>
-    <td>le 26 mars 1894<br />à Onnaing (59)</td>
-    <td>le 27 octobre 1916<br />à Douaumont (55)</td>
+    <td>le 26 mars 1894<br />à Onnaing (Nord)</td>
+    <td>le 27 octobre 1916<br />à Douaumont (Meuse)</td>
     <td>soldat</td>
     <td>321e R.I</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>JOUGLET<br />Charles Émile</td>
-    <td>le 5 mars 1894<br />à Rombies (59)</td>
-    <td>le 26 août 1916<br />à Beaumont (55)</td>
+    <td>le 5 mars 1894<br />à Rombies (Nord)</td>
+    <td>le 26 août 1916<br />à Beaumont (Meuse)</td>
     <td>soldat</td>
     <td>155e R.I</td>
     <td>&nbsp;</td>
@@ -635,8 +635,8 @@
   </tr>
   <tr>
     <td>JOUGLET<br />Léon François</td>
-    <td>le 7 octobre 1887<br />à Rombies (59)</td>
-    <td>le 27 mai 1917<br />à Mont-Cornillet (51)</td>
+    <td>le 7 octobre 1887<br />à Rombies (Nord)</td>
+    <td>le 27 mai 1917<br />à Mont-Cornillet (Marne)</td>
     <td>soldat</td>
     <td>366e R.I</td>
     <td>&nbsp;</td>
@@ -651,15 +651,15 @@
   </tr>
   <tr>
     <td>LAMBECQ<br />Léon Louis</td>
-    <td>le 24 janvier 1885<br />à Onnaing (59)</td>
-    <td>le 10 juin 1915<br />à Colincamps (80)</td>
+    <td>le 24 janvier 1885<br />à Onnaing (Nord)</td>
+    <td>le 10 juin 1915<br />à Colincamps (Somme)</td>
     <td>soldat</td>
     <td>327e R.I</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>LAMBECQ<br />Léonard</td>
-    <td>le 26 septembre 1889<br />à Onnaing (59)</td>
+    <td>le 26 septembre 1889<br />à Onnaing (Nord)</td>
     <td>le 7 novembre 1914<br />à Lyon (69)</td>
     <td>soldat</td>
     <td>91e R.I</td>
@@ -667,16 +667,16 @@
   </tr>
   <tr>
     <td>LANNOY<br />Auguste Maurice</td>
-    <td>le 16 avril 1894<br />à Onnaing (59)</td>
-    <td>le 19 février 1915<br />à Mesnil-les-Hurlus (51)</td>
+    <td>le 16 avril 1894<br />à Onnaing (Nord)</td>
+    <td>le 19 février 1915<br />à Mesnil-les-Hurlus (Marne)</td>
     <td>soldat</td>
     <td>73e R.I</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>LANSELLE<br />Georges Émile</td>
-    <td>le 15 septembre 1893<br />à Onnaing (59)</td>
-    <td>le 27 juin 1916<br />à Verdun (55)</td>
+    <td>le 15 septembre 1893<br />à Onnaing (Nord)</td>
+    <td>le 27 juin 1916<br />à Verdun (Meuse)</td>
     <td>soldat</td>
     <td>106e B.C.P</td>
     <td>&nbsp;</td>
@@ -699,32 +699,32 @@
     </tr>
   <tr>
     <td>LEBRUN<br />Jules</td>
-    <td>le 10 novembre 1883<br />à Onnaing (59)</td>
-    <td>le 16 janvier 1915<br />à Glorieux (55)</td>
+    <td>le 10 novembre 1883<br />à Onnaing (Nord)</td>
+    <td>le 16 janvier 1915<br />à Glorieux (Meuse)</td>
     <td>soldat</td>
     <td>166e R.I</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>LEBRUN<br />Louis</td>
-    <td>le 24 janvier 1892<br />à Denain (59)</td>
-    <td>le 7 janvier 1915<br />au Bois de la Gruerie (51)</td>
+    <td>le 24 janvier 1892<br />à Denain (Nord)</td>
+    <td>le 7 janvier 1915<br />au Bois de la Gruerie (Marne)</td>
     <td>soldat</td>
     <td>147e R.I</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>LECLERCQ<br />Fernand</td>
-    <td>le 29 avril 1886<br />à Englefontaine (59)</td>
-    <td>le 28 novembre 1915<br />à Verdun (55)</td>
+    <td>le 29 avril 1886<br />à Englefontaine (Nord)</td>
+    <td>le 28 novembre 1915<br />à Verdun (Meuse)</td>
     <td>soldat</td>
     <td>164e R.I</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>LECLERCQ<br />René</td>
-    <td>le 21 juillet 1893<br />à Onnaing (59)</td>
-    <td>le 7 juin 1916<br />à Douaumont (55)</td>
+    <td>le 21 juillet 1893<br />à Onnaing (Nord)</td>
+    <td>le 7 juin 1916<br />à Douaumont (Meuse)</td>
     <td>sergent</td>
     <td>291e R.I</td>
     <td>&nbsp;</td>
@@ -739,15 +739,15 @@
     </tr>
   <tr>
     <td>LECOMPTE<br />Léonard</td>
-    <td>le 24 mars 1894<br />à Anzin (59)</td>
-    <td>le 20 janvier 1915<br />au Bois de la Gruerie (51)</td>
+    <td>le 24 mars 1894<br />à Anzin (Nord)</td>
+    <td>le 20 janvier 1915<br />au Bois de la Gruerie (Marne)</td>
     <td>soldat</td>
     <td>151e R.I</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>LEDUC<br />Léon Joseph</td>
-    <td>le 31 janvier 1878<br />à Onnaing (59)</td>
+    <td>le 31 janvier 1878<br />à Onnaing (Nord)</td>
     <td>le 2 janvier 1915<br />à Minderheide (Allemagne) </td>
     <td>soldat</td>
     <td>2e R.I.T</td>
@@ -755,32 +755,32 @@
   </tr>
   <tr>
     <td>LEMAIRE<br />Alfred Louis Henri Joseph</td>
-    <td>le 27 février 1893<br />à Bruay-sur-Escaut (59)</td>
-    <td>le 28 février 1915<br />à Mesnil-les-Hurlus (51)</td>
+    <td>le 27 février 1893<br />à Bruay-sur-Escaut (Nord)</td>
+    <td>le 28 février 1915<br />à Mesnil-les-Hurlus (Marne)</td>
     <td>caporal</td>
     <td>127e R.I</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>LENNE<br />Jules François</td>
-    <td>le 29 avril 1885<br />à Villers-les-Guise (02)</td>
-    <td>le 25 avril 1915<br />Saint-Remy (55)</td>
+    <td>le 29 avril 1885<br />à Villers-les-Guise (Aisne)</td>
+    <td>le 25 avril 1915<br />Saint-Remy (Meuse)</td>
     <td>soldat</td>
     <td>25e B.C.P</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>LENNE<br />Victor</td>
-    <td>le 16 octobre 1879<br />à Onnaing (59)</td>
-    <td>le 25 septembre 1915<br />à Auberive-sur-Suippe (51)</td>
+    <td>le 16 octobre 1879<br />à Onnaing (Nord)</td>
+    <td>le 25 septembre 1915<br />à Auberive-sur-Suippe (Marne)</td>
     <td>soldat</td>
     <td>315e R.I</td>
     <td>&nbsp;</td>
   </tr>
     <tr>
     <td>LERAT<br />Ferdinand</td>
-    <td>le 27 novembre 1893<br />à Onnaing (59)</td>
-    <td>le 21 février 1915<br />à Vienne-le-Chateau (51)</td>
+    <td>le 27 novembre 1893<br />à Onnaing (Nord)</td>
+    <td>le 21 février 1915<br />à Vienne-le-Chateau (Marne)</td>
     <td>soldat</td>
     <td>151e R.I</td>
     <td>&nbsp;</td>
@@ -795,24 +795,24 @@
     </tr>
     <tr>
     <td>LESAGE<br />Clément</td>
-    <td>le 1er janvier 1881<br />à Hérin (59)</td>
-    <td>le 8 avril 1915<br />à Fresnes en Woevre (55)</td>
+    <td>le 1er janvier 1881<br />à Hérin (Nord)</td>
+    <td>le 8 avril 1915<br />à Fresnes en Woevre (Meuse)</td>
     <td>soldat</td>
     <td>166e R.I</td>
     <td>&nbsp;</td>
     </tr>
     <tr>
     <td>LIBERT<br />Alfred François</td>
-    <td>le 6 mars 1880<br />à Onnaing (59)</td>
-    <td>le 3 mai 1916<br />à Mort-Homme (55)</td>
+    <td>le 6 mars 1880<br />à Onnaing (Nord)</td>
+    <td>le 3 mai 1916<br />à Mort-Homme (Meuse)</td>
     <td>soldat</td>
     <td>161e R.I</td>
     <td>&nbsp;</td>
     </tr>
     <tr>
     <td>LOCQUET<br />Jules</td>
-    <td>le 17 novembre 1894<br />à Denain (59)</td>
-    <td>le 17 mars 1915<br />à Vitry-le-François (51)</td>
+    <td>le 17 novembre 1894<br />à Denain (Nord)</td>
+    <td>le 17 mars 1915<br />à Vitry-le-François (Marne)</td>
     <td>soldat</td>
     <td>120e R.I</td>
     <td>&nbsp;</td>
@@ -835,7 +835,7 @@
   </tr>
   <tr>
     <td>&nbsp;MAGNY <br />Edmond</td>
-    <td>Le 6 juillet 1900<br />à Onnaing (59)</td>
+    <td>Le 6 juillet 1900<br />à Onnaing (Nord)</td>
     <td>le 31 octobre 1918</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>

@@ -56,33 +56,33 @@
 <aside>
 
 <ul>
-  <li><a href="anzin.php">Anzin (59)</a></li>
-  <li><a href="betheniville.php">Bétheniville (51)</a></li>
-  <li><a href="bry.php">Bry (59)</a></li>
-  <li><a href="coulsore.php">Coulsore (59)</a></li>
-  <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
+  <li><a href="anzin.php">Anzin (Nord)</a></li>
+  <li><a href="betheniville.php">Bétheniville (Marne)</a></li>
+  <li><a href="bry.php">Bry (Nord)</a></li>
+  <li><a href="coulsore.php">Coulsore (Nord)</a></li>
+  <li><a href="capelle.php">Capelle-sur-Ecaillon (Nord)</a></li>
 
   <li><a href="daix.php">Daix (21)</a></li>
-  <li><a href="eth.php">Eth (59)</a></li>
+  <li><a href="eth.php">Eth (Nord)</a></li>
   <li><a href="feucherolles.php">Feucherolles (78)</a></li>
   <li><a href="frencq.php">Frencq (62)</a></li>
   <li><a href="gelannes.php">Gélannes (10)</a></li>
 
-  <li><a href="gussignies.php">Gussignies (59)</a></li>
-  <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-  <li><a href="lourches.php">Lourches (59)</a></li>
-  <li><a href="onnaing.php">Onnaing (59)</a></li>       
-  <li><a href="quarouble.php">Quarouble (59)</a></li>
+  <li><a href="gussignies.php">Gussignies (Nord)</a></li>
+  <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (Marne)</a></li>
+  <li><a href="lourches.php">Lourches (Nord)</a></li>
+  <li><a href="onnaing.php">Onnaing (Nord)</a></li>       
+  <li><a href="quarouble.php">Quarouble (Nord)</a></li>
 
-  <li><a href="roeulx.php">Roeulx (59)</a></li>
-  <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
-  <li><a href="saultain.php">Saultain (59)</a></li>
-  <li><a href="sebourg.php">Sebourg (59)</a></li>
-  <li><a href="verpel.php">Verpel (08)</a></li>
+  <li><a href="roeulx.php">Roeulx (Nord)</a></li>
+  <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (Marne)</a></li>
+  <li><a href="saultain.php">Saultain (Nord)</a></li>
+  <li><a href="sebourg.php">Sebourg (Nord)</a></li>
+  <li><a href="verpel.php">Verpel (Ardennes)</a></li>
 
-  <li><a href="vicq.php">Vicq (59)</a></li>
-  <li><a href="villers-guislain.php"  class="AsideSelected">Villers-Guislain (59)</a></li>
-  <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
+  <li><a href="vicq.php">Vicq (Nord)</a></li>
+  <li><a href="villers-guislain.php"  class="AsideSelected">Villers-Guislain (Nord)</a></li>
+  <li><a href="wargnies.php">Wargnies-le-Grand (Nord)</a></li>        
 </ul>
    
     <div id="pubaside">
@@ -129,8 +129,8 @@
   </thead>   
   <tr>
     <td>BARBARE<br />André</td>
-    <td>Le 10 mai 1890<br />à Villers-Guislain (59)</td>
-    <td>Le 1 janvier 1915<br />à La Hazarée (51)</td>
+    <td>Le 10 mai 1890<br />à Villers-Guislain (Nord)</td>
+    <td>Le 1 janvier 1915<br />à La Hazarée (Marne)</td>
     <td>1910</td>
     <td>1er R.I</td>
     <td>tué à l'ennemi</td>
@@ -145,7 +145,7 @@
   </tr>
   <tr>
     <td>BEGARD<br />Georges Louis Désiré</td>
-    <td>Le 16 décembre 1873<br />à Villers-Guislain (59)</td>
+    <td>Le 16 décembre 1873<br />à Villers-Guislain (Nord)</td>
     <td>Le 24 janvier 1916<br />à Steenstraat, Het-Sas (Belgique)</td>
     <td>1893</td>
     <td>12e R.I.T</td>
@@ -153,31 +153,31 @@
   </tr>
   <tr>
     <td>BOITELLE<br />Georges Joseph Guislain</td>
-    <td>Le 5 juillet 1882<br />à Villers-Guislain (59)</td>
-    <td>le 10 janvier 1915<br />à l'hôpital militaire<br />de Doullens (80)</td>
+    <td>Le 5 juillet 1882<br />à Villers-Guislain (Nord)</td>
+    <td>le 10 janvier 1915<br />à l'hôpital militaire<br />de Doullens (Somme)</td>
     <td>1902</td>
     <td>361e R.I</td>
     <td>maladie contractée<br />aux armées</td>
   </tr>
   <tr>
     <td>BROIE<br />Alexis</td>
-    <td>Le 23 décembre 1892<br />à Villers-Guislain (59)</td>
-    <td>Le 5 septembre 1916<br />à Maurepas (80)</td>
+    <td>Le 23 décembre 1892<br />à Villers-Guislain (Nord)</td>
+    <td>Le 5 septembre 1916<br />à Maurepas (Somme)</td>
     <td>1912</td>
     <td>127e R.I</td>
     <td>tué à l'ennemi</td>
   </tr>
   <tr>
     <td>BROIE<br />Jules</td>
-    <td>Le 9 avril 1895<br />à Villers-Guislain (59)<br /></td>
-    <td>Le 27 septembre 1915<br />à <a href="http://cartespostalesanciennes.genealexis.fr/album/87-souain" title="cartes postales ancienne de Souain sur le site Genealexis">Souain(51)</a></td>
+    <td>Le 9 avril 1895<br />à Villers-Guislain (Nord)<br /></td>
+    <td>Le 27 septembre 1915<br />à <a href="http://cartespostalesanciennes.genealexis.fr/album/87-souain" title="cartes postales ancienne de Souain sur le site Genealexis">Souain(Marne)</a></td>
     <td>1915</td>
     <td>106e R.I</td>
     <td>Blessure de guerre</td>
   </tr>
   <tr>
     <td>BROIE<br />Louis Hubert</td>
-    <td>Le 7 février 1877<br />à Villers-Guislain (59)</td>
+    <td>Le 7 février 1877<br />à Villers-Guislain (Nord)</td>
     <td>Le 9 juillet 1916<br />l'Hôpital de<br />Sainte-Mandé (Seine)<br /></td>
     <td>1897</td>
     <td>3e R.I.T</td>
@@ -185,8 +185,8 @@
   </tr>
   <tr>
     <td>BROUETTE<br />Léon Louis Florentin</td>
-    <td>Le 12 février 1893<br />à Villers-Faucon (80)</td>
-    <td>Le 31 mai 1917<br />à l'hôpital n°13 de<br />Courlandon (80)</td>
+    <td>Le 12 février 1893<br />à Villers-Faucon (Somme)</td>
+    <td>Le 31 mai 1917<br />à l'hôpital n°13 de<br />Courlandon (Somme)</td>
     <td>1913</td>
     <td>29e R.I<br />2e G.A</td>
     <td>Chute d'avion</td>
@@ -194,7 +194,7 @@
   <tr>
     <td>BRUNELLE<br />Georges</td>
     <td>Le 27 décembre 1875<br />à Paris (75)</td>
-    <td>Le 31 octobre 1916<br />à Souain (51)</td>
+    <td>Le 31 octobre 1916<br />à Souain (Marne)</td>
     <td>1913</td>
     <td>1er R.I</td>
     <td>tué à l'ennemi</td>
@@ -321,23 +321,23 @@
   </tr>
   <tr>
     <td>DUBOIS<br />Aristide Augustin Eugène</td>
-    <td>Le 13 juin 1884<br />à Villers-Guislain (59)</td>
-    <td>Le 4 avril 1918<br />à l'Hôpital mixte d'Amiens (80)</td>
+    <td>Le 13 juin 1884<br />à Villers-Guislain (Nord)</td>
+    <td>Le 4 avril 1918<br />à l'Hôpital mixte d'Amiens (Somme)</td>
     <td>1904</td>
     <td>5e. S.C.F.C</td>
     <td>blessures de guerre</td>
   </tr>
   <tr>
     <td><a href="../poilus/DUBOIS-Emile-Edmond.php">DUBOIS<br />Émile Edmond</a></td>
-    <td>Le 25 janvier 1880<br />à Villers-Guislain (59)</td>
-    <td>Le 8 octobre 1915<br />à Souain (51)</td>
+    <td>Le 25 janvier 1880<br />à Villers-Guislain (Nord)</td>
+    <td>Le 8 octobre 1915<br />à Souain (Marne)</td>
     <td>&nbsp;</td>
     <td>294e R.I</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>DUBOIS<br />Fernand Hilaire Guislain</td>
-    <td>Le 14 janvier 1888 <br / >à Villers-Guislain (59)</td>
+    <td>Le 14 janvier 1888 <br / >à Villers-Guislain (Nord)</td>
     <td>Le 25 août 1914<br />Ambulance n°10 à Follepeuxé (Belgique)</td>
     <td>1908</td>
     <td>43e R.I</td>
@@ -345,24 +345,24 @@
   </tr>
   <tr>
     <td>DUBOIS<br />Henri Eugène</td>
-    <td>Le 5 novembre 1878<br />à Villers-Guislain (59)</td>
-    <td>Le 8 novembre 1918<br />à Amiens (80)</td>
+    <td>Le 5 novembre 1878<br />à Villers-Guislain (Nord)</td>
+    <td>Le 8 novembre 1918<br />à Amiens (Somme)</td>
     <td>1898</td>
     <td>3e R.I.T</td>
     <td>Maladie</td>
   </tr>
   <tr>
     <td><a href="autres.php#dubois">DUBOIS<br />Jean Charles</a></td>
-    <td>Le 8 février 1893<br />à Villers-Guislain (59)</td>
-    <td>Le 18 octobre 1914<br />à Verdun (55)</td>
+    <td>Le 8 février 1893<br />à Villers-Guislain (Nord)</td>
+    <td>Le 18 octobre 1914<br />à Verdun (Meuse)</td>
     <td>1913</td>
     <td>164e R.I</td>
     <td>Maladie contractée en service</td>
   </tr>
   <tr>
     <td>DUBOIS<br />Léon Joseph</td>
-    <td>Le 27 mai 1882<br />à Villers-Guislain (59)</td>
-    <td>Le 25 septembre 1915<br />à Saint-Hilaire-le-Grand (51)</td>
+    <td>Le 27 mai 1882<br />à Villers-Guislain (Nord)</td>
+    <td>Le 25 septembre 1915<br />à Saint-Hilaire-le-Grand (Marne)</td>
     <td>1902</td>
     <td>161e RI</td>
     <td>tué à l'ennemi</td>

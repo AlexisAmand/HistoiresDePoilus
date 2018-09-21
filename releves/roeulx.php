@@ -56,33 +56,33 @@
 <aside>
 
 <ul>
-    <li><a href="anzin.php">Anzin (59)</a></li>
-    <li><a href="betheniville.php">Bétheniville (51)</a></li>
-    <li><a href="bry.php">Bry (59)</a></li>
-    <li><a href="coulsore.php">Coulsore (59)</a></li>
-    <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
+    <li><a href="anzin.php">Anzin (Nord)</a></li>
+    <li><a href="betheniville.php">Bétheniville (Marne)</a></li>
+    <li><a href="bry.php">Bry (Nord)</a></li>
+    <li><a href="coulsore.php">Coulsore (Nord)</a></li>
+    <li><a href="capelle.php">Capelle-sur-Ecaillon (Nord)</a></li>
 
     <li><a href="daix.php">Daix (21)</a></li>
-    <li><a href="eth.php">Eth (59)</a></li>
+    <li><a href="eth.php">Eth (Nord)</a></li>
     <li><a href="feucherolles.php">Feucherolles (78)</a></li>
     <li><a href="frencq.php">Frencq (62)</a></li>
     <li><a href="gelannes.php">Gélannes (10)</a></li>
 
-    <li><a href="gussignies.php">Gussignies (59)</a></li>
-    <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-    <li><a href="lourches.php">Lourches (59)</a></li>
-    <li><a href="onnaing.php">Onnaing (59)</a></li>    
-    <li><a href="quarouble.php">Quarouble (59)</a></li>
+    <li><a href="gussignies.php">Gussignies (Nord)</a></li>
+    <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (Marne)</a></li>
+    <li><a href="lourches.php">Lourches (Nord)</a></li>
+    <li><a href="onnaing.php">Onnaing (Nord)</a></li>    
+    <li><a href="quarouble.php">Quarouble (Nord)</a></li>
 
-    <li><a href="roeulx.php"  class="AsideSelected">Roeulx (59)</a></li>
-    <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
-    <li><a href="saultain.php">Saultain (59)</a></li>
-    <li><a href="sebourg.php">Sebourg (59)</a></li>
-    <li><a href="verpel.php">Verpel (08)</a></li>
+    <li><a href="roeulx.php"  class="AsideSelected">Roeulx (Nord)</a></li>
+    <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (Marne)</a></li>
+    <li><a href="saultain.php">Saultain (Nord)</a></li>
+    <li><a href="sebourg.php">Sebourg (Nord)</a></li>
+    <li><a href="verpel.php">Verpel (Ardennes)</a></li>
 
-    <li><a href="vicq.php">Vicq (59)</a></li>
-    <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
-    <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>        
+    <li><a href="vicq.php">Vicq (Nord)</a></li>
+    <li><a href="villers-guislain.php">Villers-Guislain (Nord)</a></li>
+    <li><a href="wargnies.php">Wargnies-le-Grand (Nord)</a></li>        
 </ul>
    
     <div id="pubaside">

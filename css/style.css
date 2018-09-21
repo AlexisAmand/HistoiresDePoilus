@@ -19,7 +19,7 @@ article img{box-shadow:1px 1px 12px #555;margin-bottom:6px;margin-top:12px}
 article p{text-align:justify;margin-bottom:15px;font-size:.9em}
 article ul li{text-align:justify;margin-left:35px;font-size:14px}
 article .right{text-align:right;}
-aside{width:200px;/*float:left*/;background-color:#5b5b5b;display:table-cell}
+
 aside ul{margin-top:1px;list-style-type:none;border-top:1px solid #e2ede4}
 aside ul li{border-bottom:1px solid#e2ede4}
 aside ul li a:link,aside ul li a:visited{display:block;color:#e2ede4;text-decoration:none;padding:6px;font-size:14px;padding-left:13px}
@@ -104,7 +104,9 @@ tr{height:47px}
 figure{text-align:center;color:#363535;font-size:12px;margin-bottom:35px}
 .video{text-align:center;margin-bottom:45px}
 .legende{text-align:center;color:#363535;font-size:12px;margin-bottom:35px;margin-top:4px}
+
 .tab_camp{border-collapse:collapse;width:450px;margin-left:auto;margin-right:auto;text-align:center;font-size:13px}
+
 #navbis{width:957px;margin-left:auto;margin-right:auto;background-color:#5b5b5b;color:#e2ede4;font-size:.9em;text-align:center;padding-top:4px;padding-bottom:4px}
 #navbis a:link,#navbis a:visited{color:#e2ede4;text-decoration:none;padding:4px}
 #navbis a:hover{color:#5b5b5b;background-color:#e2ede4;text-decoration:none;padding:4px}
@@ -122,4 +124,15 @@ table{border-collapse:collapse;width:100%;margin-left:auto;margin-right:auto;tex
 	{
 	width:25%;
 	}
+
+/* ------------- */
+/* nouveau aside */
+/* ------------- */
+
+aside{width:200px;/*float:left*/;background-color:#5b5b5b;
+	
+	display:table-cell;
+}
+
+.asideheader {border-left: 5px solid #e1ede3;padding: 6px;padding-left: 6px;font-size: 14px;padding-left: 13px;color: #e1ede3;background-color: #364046;}
 

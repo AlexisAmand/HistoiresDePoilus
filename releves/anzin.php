@@ -56,33 +56,51 @@
 <aside>
 
 <ul>
-  <li><a href="anzin.php"  class="AsideSelected">Anzin (59)</a></li>
-  <li><a href="betheniville.php">Bétheniville (51)</a></li>
-  <li><a href="bry.php">Bry (59)</a></li>
-  <li><a href="coulsore.php">Coulsore (59)</a></li>
-  <li><a href="capelle.php">Capelle-sur-Ecaillon (59)</a></li>
 
-  <li><a href="daix.php">Daix (21)</a></li>
-  <li><a href="eth.php">Eth (59)</a></li>
-  <li><a href="feucherolles.php">Feucherolles (78)</a></li>
-  <li><a href="frencq.php">Frencq (62)</a></li>
-  <li><a href="gelannes.php">Gélannes (10)</a></li>
+  <li class="asideheader">Nord</li>
 
-  <li><a href="gussignies.php">Gussignies (59)</a></li>
-  <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (51)</a></li>
-  <li><a href="lourches.php">Lourches (59)</a></li>
-  <li><a href="onnaing.php">Onnaing (59)</a></li>    
-  <li><a href="quarouble.php">Quarouble (59)</a></li>
+  <li><a href="anzin.php"  class="AsideSelected">Anzin</a></li>
+  <li><a href="bry.php">Bry</a></li>
+  <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
+  <li><a href="coulsore.php">Coulsore</a></li> 
+  <li><a href="eth.php">Eth</a></li>
+  <li><a href="gussignies.php">Gussignies</a></li>
+  <li><a href="lourches.php">Lourches</a></li>
+  <li><a href="onnaing.php">Onnaing</a></li>    
+  <li><a href="quarouble.php">Quarouble</a></li>
+  <li><a href="roeulx.php">Roeulx</a></li>
+  <li><a href="saultain.php">Saultain</a></li>
+  <li><a href="sebourg.php">Sebourg</a></li>
+  <li><a href="vicq.php">Vicq</a></li>
+  <li><a href="villers-guislain.php">Villers-Guislain</a></li>
+  <li><a href="wargnies.php">Wargnies-le-Grand</a></li>    
+   
+  <li class="asideheader">Marne</li>
 
-  <li><a href="roeulx.php">Roeulx (59)</a></li>
-  <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (51)</a></li>
-  <li><a href="saultain.php">Saultain (59)</a></li>
-  <li><a href="sebourg.php">Sebourg (59)</a></li>
-  <li><a href="verpel.php">Verpel (08)</a></li>
+  <li><a href="betheniville.php">Bétheniville</a></li>
+  <li><a href="isles-sur-suippes.php">Isles-sur-Suippes</a></li>
+  <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit</a></li>
+  
+  <li class="asideheader">Côte-d'Or</li>
 
-  <li><a href="vicq.php">Vicq (59)</a></li>
-  <li><a href="villers-guislain.php">Villers-Guislain (59)</a></li>
-  <li><a href="wargnies.php">Wargnies-le-Grand (59)</a></li>         
+  <li><a href="daix.php">Daix</a></li>
+  
+  <li class="asideheader">Yvelines</li>
+
+  <li><a href="feucherolles.php">Feucherolles</a></li>
+
+  <li class="asideheader">Pas-de-Calais</li>
+
+  <li><a href="frencq.php">Frencq</a></li>
+
+  <li class="asideheader">Aube</li>
+
+  <li><a href="gelannes.php">Gélannes</a></li>
+
+  <li class="asideheader">Ardennes</li>
+
+  <li><a href="verpel.php">Verpel</a></li>
+  
 </ul>
    
       <div id="pubaside">
@@ -111,8 +129,7 @@
 
 <figure>
     <a href="images/monument-anzin.jpg" id="single_image" title="Le monument aux Morts d'Anzin">
-    <img src="images/mini/monument-anzin.jpg" alt="le Monument aux Morts dans le cimetière d'Anzin sur une carte postale ancienne"/>
-    </a>
+    <img src="images/mini/monument-anzin.jpg" alt="le Monument aux Morts dans le cimetière d'Anzin sur une carte postale ancienne"/></a>
     <figcaption>Le Monument aux Morts de la guerre 1914-1918<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
@@ -127,11 +144,11 @@
     <td width="70px">Corps</td>
     <td width="90px">Genre<br />de mort</td>
    </tr>
-   </thead>
+  </thead>
   <tr>
     <td>ADONEL<br />Henri</td>
-    <td>le 27 mai 1896 <br />à Anzin (59)</td>
-    <td>le 5 juin 1917<br />au Mont Haut (51)</td>
+    <td>le 27 mai 1896 <br />à Anzin (Nord)</td>
+    <td>le 5 juin 1917<br />au Mont Haut (Marne)</td>
     <td>365e R.I</td>
     <td>tué à l'ennemi par un éclat d'obus</td>
   </tr>
@@ -144,119 +161,119 @@
     </tr>
   <tr>
     <td>ANTHEUNUS<br />Charles Adolphe</td>
-    <td>le 15 mai 1892<br />à Roubaix (59)</td>
+    <td>le 15 mai 1892<br />à Roubaix (Nord)</td>
     <td>le 14 mars 1915 <br />à Niewport (Belgique)</td>
     <td>1er R.Z</td>
     <td>tué à l'ennemi</td>
   </tr>
   <tr>
     <td>AUBRETON<br />Lucien Louis</td>
-    <td>le 5 août 1889<br />à Anzin (59)</td>
-    <td>mars 1915<br />à Mesnil-les-Hurlus (51)</td>
+    <td>le 5 août 1889<br />à Anzin (Nord)</td>
+    <td>mars 1915<br />à Mesnil-les-Hurlus (Marne)</td>
     <td>18e B.C.P</td>
     <td>tué à l'ennemi</td>
   </tr>
   <tr>
     <td>AUDIN<br />Arthur Victor </td>
-    <td>le 14 novembre 1886<br />à Le Quesnoy (59)</td>
-    <td>le 5 septembre 1919<br />à <a href="../hopitaux/hopitaux-hdf.php">L'hôpital mixte de Valenciennes (59)</a></td>
+    <td>le 14 novembre 1886<br />à Le Quesnoy (Nord)</td>
+    <td>le 5 septembre 1919<br />à <a href="../hopitaux/hopitaux-hdf.php">L'hôpital mixte de Valenciennes (Nord)</a></td>
     <td>?</td>
     <td>maladie</td>
     </tr>
   <tr>
     <td>BAL<br />Fernand</td>
-    <td>le 28 avril 1895<br />à Anzin (59)</td>
-    <td>le 22 avril 1916<br />au Mort-Homme (55)</td>
+    <td>le 28 avril 1895<br />à Anzin (Nord)</td>
+    <td>le 22 avril 1916<br />au Mort-Homme (Meuse)</td>
     <td>150e R.I</td>
     <td>tué à l'ennemi</td>
     </tr>
   <tr>
     <td>BARMARIN<br />François Eugène Louis </td>
-    <td>le 26 février 1885<br />à Anzin (59)</td>
-    <td>le 30 août 1914<br />à Franqueville (02)</td>
+    <td>le 26 février 1885<br />à Anzin (Nord)</td>
+    <td>le 30 août 1914<br />à Franqueville (Aisne)</td>
     <td>327e R.I</td>
     <td>tué à l'ennemi</td>
   </tr>
   <tr>
     <td>BASILY<br />Georges </td>
-    <td>le 30 juillet 1886<br />à Anzin (59)</td>
-    <td>le 1er avril 1918<br />à <a href="../hopitaux/hopitaux-hdf.php">l'hôpital temporaire<br />n°11 du lycée Jeanne Hachette de Beauvais (80)</a></td>
+    <td>le 30 juillet 1886<br />à Anzin (Nord)</td>
+    <td>le 1er avril 1918<br />à <a href="../hopitaux/hopitaux-hdf.php">l'hôpital temporaire<br />n°11 du lycée Jeanne Hachette de Beauvais (Somme)</a></td>
     <td>?</td>
     <td>blessures de guerre</td>
   </tr>
   <tr>
     <td>BASTIEN<br />Gustave Léon</td>
-    <td>le 17 juin 1892<br />à Anzin (59)</td>
-    <td>le 3 mars 1915<br />à Mesnil-les-Hurlus (51)</td>
+    <td>le 17 juin 1892<br />à Anzin (Nord)</td>
+    <td>le 3 mars 1915<br />à Mesnil-les-Hurlus (Marne)</td>
     <td>9e B.C.P</td>
     <td>tué à l'ennemi</td>
   </tr>
   <tr>
     <td>BAUDUHIN <br />Gaston</td>
-    <td>le 12 mars 1895<br />à Valenciennes (59)</td>
-    <td>le 21 février 1916<br />secteur d'Herdebois (55)</td>
+    <td>le 12 mars 1895<br />à Valenciennes (Nord)</td>
+    <td>le 21 février 1916<br />secteur d'Herdebois (Meuse)</td>
     <td>243e R.I</td>
     <td>tué à l'ennemi</td>
   </tr>
   <tr>
     <td>BAURIN<br />Henri</td>
-    <td>le 31 janvier 1896<br />à Anzin (59)</td>
-    <td>le 16 septembre 1916<br />à Berny-en-Santerre (80)</td>
+    <td>le 31 janvier 1896<br />à Anzin (Nord)</td>
+    <td>le 16 septembre 1916<br />à Berny-en-Santerre (Somme)</td>
     <td>9e B.C</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>BAVAY<br />Auguste Gabriel</td>
-    <td>le 30 septembre 1887<br />à Saultain (59)</td>
-    <td>le 8 avril 1915<br />à Trévausaux (55)</td>
+    <td>le 30 septembre 1887<br />à Saultain (Nord)</td>
+    <td>le 8 avril 1915<br />à Trévausaux (Meuse)</td>
     <td>366e R.I</td>
     <td>tué au bombardement de Trévausaux</td>
   </tr>
   <tr>
     <td>BEAUCHAMP<br />Lucien </td>
-    <td>le 2 septembre 1894<br />à Anzin (59)</td>
-    <td>le 5 avril 1915<br />à Maizery (55)</td>
+    <td>le 2 septembre 1894<br />à Anzin (Nord)</td>
+    <td>le 5 avril 1915<br />à Maizery (Meuse)</td>
     <td>91e R.I</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>BEAUCHAMP <br />Maurice Paul Benoit </td>
-    <td>le 1 septembre 1895<br />à Anzin (59)</td>
-    <td>le 14 septembre 1918<br />à Courlandon (51)</td>
+    <td>le 1 septembre 1895<br />à Anzin (Nord)</td>
+    <td>le 14 septembre 1918<br />à Courlandon (Marne)</td>
     <td>1er B.M.A</td>
     <td>tué à l'ennemi</td>
   </tr>
   <tr>
     <td>BECK<br />Adrien </td>
-    <td>le 11 novembre 1883<br />à Anzin (59)</td>
-    <td>le 12 octobre 1914<br />à Bagatelle (51)</td>
+    <td>le 11 novembre 1883<br />à Anzin (Nord)</td>
+    <td>le 12 octobre 1914<br />à Bagatelle (Marne)</td>
     <td>91e R.I</td>
     <td>tué à l'ennemi</td>
   </tr>
   <tr>
     <td>BERTEAUX<br />Gaston </td>
-    <td>Le 13 juillet 1883<br />à Saint-Amand (59)</td>
+    <td>Le 13 juillet 1883<br />à Saint-Amand (Nord)</td>
     <td>Le 15 octobre 1914<br />à Berry-au-Bac (Aisne)</td>
     <td>127e R.I</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>BINET<br />Alcide Joseph </td>
-    <td>Le 24 mars 1871<br />à Douai (59)</td>
+    <td>Le 24 mars 1871<br />à Douai (Nord)</td>
     <td>Le 8 avril 1917<br />à Dieulouard (M. et Moselle)</td>
     <td>95e R.I.T</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>BLAISE<br />Constant </td>
-    <td>Le 14 janvier 1891<br />à La Sentinelle (59)</td>
+    <td>Le 14 janvier 1891<br />à La Sentinelle (Nord)</td>
     <td>Le 28 avril 1915<br />à Het-Sas (Belgique)</td>
     <td>9e R.M.Z</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
     <td>BLANCHAR<br />Jean-Baptiste </td>
-    <td>Le 17 août 1890<br />à Valenciennes (59)</td>
+    <td>Le 17 août 1890<br />à Valenciennes (Nord)</td>
     <td>Le 29 septembre 1914<br />à La Chalade (Meuse)</td>
     <td>18e B. C. P.</td>
     <td>&nbsp;</td>

@@ -27,18 +27,16 @@
 <header>
 	
     <div id="rezo">
-    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" />
-        </a>
-        <img src="../images/googleplus.png" /> 
-	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" />
-        </a>
+      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
+        <img src="../images/facebook.png" alt="logo facebook" /></a>
+        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
+      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
+        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
     </div>
     
-<a href="../index.php" title="retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
-
+  <a href="../index.php" title="Retour sur la page d'accueil du site">
+  <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+  
 </header>
    
 <?php include('../include/nav.inc'); ?>
@@ -155,8 +153,7 @@
     <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>
     <li><a href="../pdf/book02.pdf">Le traitement des prisonniers français en Allemagne</a> (J. De Christmas, 1917)</li>
     <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre, 1924)</li>
-    <li>Delcampe (pour les cartes postales)</li>
-   
+    <li>Delcampe (pour les cartes postales)</li>  
 </ul>    
 
 <p class="sources">

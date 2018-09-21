@@ -113,7 +113,7 @@
 
 <h2>Beauvais</h2>
 
-<p>hôpital temporaire n°11 du lycée Jeanne Hachette de Beauvais (80) ?</p>
+<p>hôpital temporaire n°11 du lycée Jeanne Hachette de Beauvais (Somme) ?</p>
 
 <h2>Breuil-le-Sec</h2>
 
@@ -129,11 +129,11 @@
 
 <p>L’hôpital militaire temporaire n°51 de Calais était géré par le Service de Santé des Armées. Il était situé à la maison de commerce Leweng et Weinberg, 92 rue Gambetta. Il comportait 110 lits et a fonctionné dès le 26 décembre 1914.</p>
 
-<h2>Courlandon (80)</h2>
+<h2>Courlandon (Somme)</h2>
 
 <p>hôpital n°13 ?</p>
 
-<h2>Doullens (80)</h2>
+<h2>Doullens (Somme)</h2>
 
 <p>hôpital militaire ?</p>
 
