@@ -56,33 +56,51 @@
 <aside>
 
 <ul>
-  <li><a href="anzin.php">Anzin (Nord)</a></li>
-  <li><a href="betheniville.php">Bétheniville (Marne)</a></li>
-  <li><a href="bry.php">Bry (Nord)</a></li>
-  <li><a href="coulsore.php">Coulsore (Nord)</a></li>
-  <li><a href="capelle.php">Capelle-sur-Ecaillon (Nord)</a></li>
 
-  <li><a href="daix.php">Daix (21)</a></li>
-  <li><a href="eth.php">Eth (Nord)</a></li>
-  <li><a href="feucherolles.php">Feucherolles (78)</a></li>
-  <li><a href="frencq.php">Frencq (62)</a></li>
-  <li><a href="gelannes.php">Gélannes (10)</a></li>
+<li class="asideheader">Nord</li>
 
-  <li><a href="gussignies.php">Gussignies (Nord)</a></li>
-  <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (Marne)</a></li>
-  <li><a href="lourches.php">Lourches (Nord)</a></li>
-  <li><a href="onnaing.php">Onnaing (Nord)</a></li>   
-  <li><a href="quarouble.php">Quarouble (Nord)</a></li>
+<li><a href="anzin.php">Anzin</a></li>
+<li><a href="bry.php">Bry</a></li>
+<li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
+<li><a href="cousolre.php">cousolre</a></li> 
+<li><a href="eth.php">Eth</a></li>
+<li><a href="gussignies.php">Gussignies</a></li>
+<li><a href="lourches.php">Lourches</a></li>
+<li><a href="onnaing.php">Onnaing</a></li>    
+<li><a href="quarouble.php">Quarouble</a></li>
+<li><a href="roeulx.php">Roeulx</a></li>
+<li><a href="saultain.php"  class="AsideSelected">Saultain</a></li>
+<li><a href="sebourg.php">Sebourg</a></li>
+<li><a href="vicq.php">Vicq</a></li>
+<li><a href="villers-guislain.php">Villers-Guislain</a></li>
+<li><a href="wargnies.php">Wargnies-le-Grand</a></li>    
+ 
+<li class="asideheader">Marne</li>
 
-  <li><a href="roeulx.php">Roeulx (Nord)</a></li>
-  <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (Marne)</a></li>
-  <li><a href="saultain.php" class="AsideSelected">Saultain (Nord)</a></li>
-  <li><a href="sebourg.php">Sebourg (Nord)</a></li>
-  <li><a href="verpel.php">Verpel (Ardennes)</a></li>
+<li><a href="betheniville.php">Bétheniville</a></li>
+<li><a href="isles-sur-suippes.php">Isles-sur-Suippes</a></li>
+<li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit</a></li>
 
-  <li><a href="vicq.php">Vicq (Nord)</a></li>
-  <li><a href="villers-guislain.php">Villers-Guislain (Nord)</a></li>
-  <li><a href="wargnies.php">Wargnies-le-Grand (Nord)</a></li>        
+<li class="asideheader">Côte-d'Or</li>
+
+<li><a href="daix.php">Daix</a></li>
+
+<li class="asideheader">Yvelines</li>
+
+<li><a href="feucherolles.php">Feucherolles</a></li>
+
+<li class="asideheader">Pas-de-Calais</li>
+
+<li><a href="frencq.php">Frencq</a></li>
+
+<li class="asideheader">Aube</li>
+
+<li><a href="gelannes.php">Gélannes</a></li>
+
+<li class="asideheader">Ardennes</li>
+
+<li><a href="verpel.php">Verpel</a></li>
+
 </ul>
    
       <div id="pubaside">

@@ -62,7 +62,7 @@
   <li><a href="anzin.php"  class="AsideSelected">Anzin</a></li>
   <li><a href="bry.php">Bry</a></li>
   <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
-  <li><a href="coulsore.php">Coulsore</a></li> 
+  <li><a href="cousolre.php">cousolre</a></li> 
   <li><a href="eth.php">Eth</a></li>
   <li><a href="gussignies.php">Gussignies</a></li>
   <li><a href="lourches.php">Lourches</a></li>

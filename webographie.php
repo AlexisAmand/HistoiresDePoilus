@@ -46,7 +46,7 @@
     <a href="lieux.php">Les Batailles</a>
     <a href="camps.php">Les Camps</a>
     <a href="releves.php">Les Relevés</a>
-    <a href="/hopitaux/hopitaux.php">Les Hôpitaux</a>
+    <a href="hopitaux/hopitaux.php">Les Hôpitaux</a>
     <a href="poilus.php">Les Poilus</a>     
 </nav>
 
@@ -56,7 +56,7 @@
 
 	<h1>Biblio-webographie</h1>
     
-    <p>Vous trouverez sur cette page la liste de toutes les ressources qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. Il peut s'agir de sites web, de livres ou même de revues. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php">me contacter</a> si vous avec une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p>Certains documents sont <span class="auto-style1"><strong>des pdf</strong></span>, selon la configuration de votre ordinateur, ils peuvent <span  class="auto-style1"><strong>mettre un petit moment à s'afficher</strong></span>. Pour lire ces pdf, vous devez posséder un logiciel comme Adobe Reader, que vous pouvez <a href="https://get.adobe.com/fr/reader/">télécharger gratuitement ici</a>.</p>
+    <p>Vous trouverez sur cette page la liste de toutes les ressources qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. Il peut s'agir de sites web, de livres ou même de revues. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php">me contacter</a> si vous avec une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p>Certains documents sont <strong>des pdf</strong>, selon la configuration de votre ordinateur, ils peuvent <strong>mettre un petit moment à s'afficher</strong>. Pour lire ces pdf, vous devez posséder un logiciel comme Adobe Reader, que vous pouvez <a href="https://get.adobe.com/fr/reader/">télécharger gratuitement ici</a>.</p>
 
     <br/><h2>Dossiers d'anciens combattants</h2>
 

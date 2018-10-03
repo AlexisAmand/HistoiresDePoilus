@@ -58,7 +58,8 @@
 <aside>
 
 	<ul>
-      
+        <li class="asideheader">Hôpitaux français</li>
+
 		<li><a href="hopitaux-ara.php">Auvergne-Rhône-Alpes</a></li>
 		<li><a href="hopitaux-bfc.php">Bourgogne-Franche-Comté</a></li>
 		<li><a href="hopitaux-bre.php">Bretagne</a></li>
@@ -73,7 +74,7 @@
 		<li><a href="hopitaux-pdl.php">Pays de la Loire</a></li>
 		<li><a href="hopitaux-pac.php">Provence-Alpes-Côte d'Azur</a></li>
              
-     </ul>
+    </ul>
  
     <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

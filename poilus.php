@@ -35,7 +35,6 @@
 	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
         <img src="images/twitter.png" />
         </a>
-
     </div>
     
 <a href="index.php" title="retour sur la page d'accueil du site">
@@ -49,14 +48,14 @@
     <a href="lieux.php">Les Batailles</a>
     <a href="camps.php">Les Camps</a>
     <a href="releves.php">Les Relevés</a>
-    <a href="/hopitaux/hopitaux.php">Les Hôpitaux</a>
+    <a href="hopitaux/hopitaux.php">Les Hôpitaux</a>
     <a href="poilus.php" class="NavSelected">Les Poilus</a>     
 </nav>
 
 <section>
 
 <aside>
-	<ul>
+<ul>
         <li class="asideheader">Ardennes</li>
 
         <li><a href="poilus/soldats-ardennes.php">Les soldats des Ardennes</a></li>
@@ -119,147 +118,179 @@
 
 <p>Avant de vous donner quelques chiffres, je vous propose de revenir avec vous sur le sens du mot « poilu », utilisé pour désigner les combattants français de la Grande Guerre. Contrairement aux idées reçues, le « poilu » ne doit pas son nom aux  mauvaises conditions d’hygiènes qui régnaient sur le front et qui auraient poussé les hommes à se laisser pousser la barbe et la moustache. Le terme « poilu » est en réalité apparu un siècle avant la Première Guerre Mondiale, sous le Premier Empire. Le linguiste français Albert DAUZAT indique qu’« <em>Avant d’être le soldat de la Marne, le « poilu » est le grognard d’Austerlitz, ce n’est pas l’homme à la barbe inculte, qui n’a pas le temps de se raser, ce serait trop pittoresque, c’est beaucoup mieux : c’est l’homme qui a du poil au bon endroit, pas dans la main ! </em>». Il précise également que c’est les civils de 1914 qui ont fait du poilu le soldat combattant.</p>
 
+<figure>
+    <img src="poilus/miniatures/depart-des-poilus-Albert-Herter.jpg" alt=" ">
+    <figcaption>Légende TODO</figcaption>
+</figure>
+
 <p>Dès l’été 1914, la France et l’Allemagne étaient en position de force. En effet, le service militaire obligatoire leur permettait de mobiliser un nombre très important d’hommes : 3,6 millions pour la France et 4 millions pour l’Allemagne.  Ces chiffres sont toutefois à relativiser car ils prennent en compte les territoriaux qui sont chargés de faire fonctionner l’administration de guerre et de garder les voies de communication (c’est par exemple le cas de <a href="poilus/JOLY-Noel-Jules.php">Noël JOLY</a> ou d'<a href="poilus/MAILLART-Alexandre.php">Alexandre MAILLART</a>). Il faut donc ramener le nombre de combattants à 1,3 millions pour la France et 1,5 millions pour l’Allemagne. De plus, en cas de guerre, la classe première à marcher pouvait être appelée par anticipation. C'est pourquoi l'armée active comprenait également en août la classe 1913 (hommes nés en 1893) qui n'aurait dû être appelée qu'à l'automne. </p>
 
-        <table class="tab_camp">
-        <caption class="legende" align="bottom">Répartitions des classes mobilisées en 1914<br/>(source: http://www.association14-18.org)</caption>
-            <tr>
-                <td style="background-color:#D3CECE;">Armée active</td>
-                <td>Nés entre 1891 et 1892</td>
-                <td>1911 et 1912</td>
-            </tr>
-            <tr>
-                <td style="background-color:#D3CECE;">Réserve de l'armée active</td>
-                <td>Nés entre 1881 et 1890</td>
-                <td>1901 et 1910</td>
-            </tr>
-            <tr>
-                <td style="background-color:#D3CECE;">Armée territoriale</td>
-                <td>Nés entre 1875 et 1880</td>
-                <td>1895 et 1900</td>
-            </tr>
-            <tr>
-                <td style="background-color:#D3CECE;">Réserve de l'armée territoriale</td>
-                <td>Nés entre 1869 et 1874</td>
-                <td>1889 et 1894</td>
-            </tr>
-        </table>
+    <table class="tab_camp">
+        <tr>
+            <td style="background-color:#D3CECE;">Armée active</td>
+            <td>Nés entre 1891 et 1892</td>
+            <td>1911 et 1912</td>
+        </tr>
+        <tr>
+            <td style="background-color:#D3CECE;">Réserve de l'armée active</td>
+            <td>Nés entre 1881 et 1890</td>
+            <td>1901 et 1910</td>
+        </tr>
+        <tr>
+            <td style="background-color:#D3CECE;">Armée territoriale</td>
+            <td>Nés entre 1875 et 1880</td>
+            <td>1895 et 1900</td>
+        </tr>
+        <tr>
+            <td style="background-color:#D3CECE;">Réserve de l'armée territoriale</td>
+            <td>Nés entre 1869 et 1874</td>
+            <td>1889 et 1894</td>
+        </tr>
+    </table>
     
 <p>Les Britanniques, de leur côté, ne peuvent aligner qu’une armée professionnelle d’environ 100 000 hommes car la conscription n’existe pas au début de la guerre (elle sera mise en place en 1916). En attendant, ils peuvent uniquement compter sur le volontariat. La Russie et l’Autriche-Hongrie disposent quant à elles respectivement de 1,3 et 1,1 millions d’hommes.</p>
 
 <figure>
     <img src="poilus/miniatures/volontaires-britanniques.jpg" alt="des volontaires britanniques en 1914">
-    <figcaption>Volontaires britanniques en août 1914<br />(source : Imperial War Museums)</figcaption>
+    <figcaption>Volontaires britanniques en août 1914<br />(source : <a href="https://www.iwm.org.uk/">Imperial War Museums</a>)</figcaption>
 </figure>
   
 <h2>Le bilan de la Grande Guerre</h2>
 
     <table class="tab_camp">
-        <caption class="legende" align="bottom">Mobilisés et tués en 14-18<br />(source: Histoire-Géo 3e - Hachette Education)</caption>
+        <caption align="bottom">Source TODO</caption>
         <thead>
         <tr>
             <td>&nbsp;</td>
-            <td>Mobilisés<br />(en millions)</td>
-            <td>Tués<br />(en millions)</td>
-            <td>%</td>
+            <td>Mobilisés</td>
+            <td>Tués et disparus</td>
+            <td>Blessés</td>
+            <td>Prisonniers</td>
         </tr>
         </thead>
         <tr>
-            <td>Empire Russe</td>
-            <td>14,5</td>
-            <td>1,7</td>
-            <td>11,7</td>
-        </tr>
-        <tr>
-            <td>France (+ colonies)</td>
-            <td>8,2</td>
-            <td>1,4</td>
-            <td>17</td>
-        </tr>
-        <tr>
-            <td>Royaume-Uni</td>
-            <td>6</td>
-            <td>0,8</td>
-            <td>13,3</td>
-        </tr>
-        <tr>
-            <td>Commonwealth </td>
-            <td>2,1</td>
-            <td>0,2</td>
-            <td>9,5</td>
-        </tr>
-        <tr>
-            <td>Italie</td>
-            <td>5,3</td>
-            <td>0,6</td>
-            <td>11,3</td>
-        </tr>
-        <tr>
-            <td>Etats-Unis</td>
-            <td>2,7</td>
-            <td>0,1</td>
-            <td>3,7</td>
-        </tr>
-        <tr>
-            <td>Serbie</td>
-            <td>0,8</td>
-            <td>0,3</td>
-            <td>37,5</td>
+            <td>Autriche-Hongrie</td>
+            <td> 9 000 000</td>
+            <td> 1 100 000</td>
+            <td> 3 620 000</td>
+            <td> 2 200 000</td>
         </tr>
         <tr>
             <td>Belgique</td>
-            <td>0,4</td>
-            <td>0,04</td>
-            <td>10</td>
+            <td>  365 000</td>
+            <td>   38 716</td>
+            <td>   44 686</td>
+            <td>   34 659</td>
         </tr>
         <tr>
-            <td>Empire allemand</td>
-            <td>13</td>
-            <td>2</td>
-            <td>15,4</td>
+            <td>Bulgarie</td>
+            <td>  400 000</td>
+            <td>   87 500</td>
+            <td>  152 390</td>
+            <td>   27 029</td> 
         </tr>
         <tr>
-            <td>Autriche-Hongrie</td>
-            <td>9</td>
-            <td>1,1</td>
-            <td>12,2</td>
+            <td>Empire Allemand</td>
+            <td>13 200 000</td>
+            <td> 2 033 700</td>
+            <td> 4 216 058</td>
+            <td> 1 152 000</td>
         </tr>
         <tr>
-            <td>Turquie</td>
-            <td>3</td>
-            <td>0,6</td>
-            <td>20</td>
+            <td>Empire Russe</td>
+            <td>18 100 000</td>
+            <td> 1 800 000</td>
+            <td> 4 950 000</td>
+            <td> 2 500 000</td>
         </tr>
         <tr>
-            <td>Royaume de Bulgarie</td>
-            <td>0,4</td>
-            <td>0,1</td>
-            <td>25</td>
+            <td>États-Unis</td>
+            <td>4 273 000</td>
+            <td>  114 000</td>
+            <td>  234 000</td>
+            <td>    4 526</td>
+        </tr>
+        <tr>
+            <td>France (+ Colonies)</td>
+            <td>7 891 000</td>
+            <td>1 375 800</td>
+            <td>4 266 000</td>
+            <td>  537 000</td>
+        </tr>
+        <tr>
+            <td>Grèce</td>
+            <td>  353 000</td>
+            <td>   26 000</td>
+            <td>   21 000</td>
+            <td>    1 000</td>
+        </tr>
+        <tr>
+            <td>Italie</td>
+            <td>5 615 000</td>
+            <td>  578 000</td>
+            <td>  947 000</td>
+            <td>  600 000</td>
+        </tr>
+        <tr>
+            <td>Japon</td>
+            <td>  800 000</td>
+            <td>      300</td>
+            <td>      907</td>
+            <td>        3</td>
+        </tr>
+        <tr>
+            <td>Monténégro</td>
+            <td>   50 000</td>
+            <td>    3 000</td>
+            <td>   10 000</td>
+            <td>    7 000</td>
+        </tr>
+        <tr>
+            <td>Portugal</td>
+            <td>  100 000</td>
+            <td>    7 222</td>
+            <td>   13 751</td>
+            <td>   12 318</td>
         </tr>
         <tr>
             <td>Roumanie</td>
-            <td>1</td>
-            <td>0,25</td>
-            <td>25</td>
+            <td>1 000 000</td>
+            <td>  250 706</td>
+            <td>  120 000</td>
+            <td>   80 000</td>           
         </tr>
         <tr>
-            <td>Autres</td>
-            <td>0,3</td>
-            <td>0,02</td>
-            <td>-</td>
+            <td>Royaume-Uni (+ Empire)</td>
+            <td>8 904 000</td>
+            <td>  908 371</td>
+            <td>2 090 212</td>
+            <td>  191 652</td>
+        </tr>
+        <tr>
+            <td>Serbie</td>
+            <td>  750 000</td>
+            <td>  278 000</td>
+            <td>  133 148</td>
+            <td>   15 958</td>
+        </tr>
+        <tr>
+            <td>Turquie</td>
+            <td> 2 998 000</td>
+            <td>   804 000</td>
+            <td>   400 000</td>
+            <td>   250 000</td>
         </tr>
         <tr>
             <td>Total</td>
-            <td>&nbsp;</td>
-            <td>9,21</td>
-            <td>13,8</td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td> </td>
         </tr>
     </table>
 
-    <p>Pour simplifier la lecture de ce site, j'ai regroupé dans cette rubrique tous les hommes ayant été mobilisés, qu'ils soient combattant ou non.</p>
-
     <p class="sources">
-    <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
+    Dernière modification effectuée le 25/09/2018 
     </p>
 
 </article>
@@ -271,7 +302,7 @@
     <a href="contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br /><br />Copyright &copy; 2014-2018 - Alexis AMAND<br />Tous droits réservés
 </footer>
 
 <?php include('include/stats.inc'); ?>

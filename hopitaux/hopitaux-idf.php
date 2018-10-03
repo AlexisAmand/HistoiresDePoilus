@@ -58,7 +58,8 @@
 <aside>
 
 	<ul>
-      
+        <li class="asideheader">Hôpitaux français</li>
+
 		<li><a href="hopitaux-ara.php">Auvergne-Rhône-Alpes</a></li>
 		<li><a href="hopitaux-bfc.php">Bourgogne-Franche-Comté</a></li>
 		<li><a href="hopitaux-bre.php">Bretagne</a></li>
@@ -73,7 +74,7 @@
 		<li><a href="hopitaux-pdl.php">Pays de la Loire</a></li>
 		<li><a href="hopitaux-pac.php">Provence-Alpes-Côte d'Azur</a></li>
              
-     </ul>
+    </ul>
  
     <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -106,12 +107,6 @@
 <h2>Hôpital de Saint-Mandé</h2>
 
 <p>Cet hôpital militaire était situé à l'Hôpital Militaire Bégin à Saint-Mandé, dans le Val-de-Marne. Il doit son nom à Louis Jacques Bégin (1793-1859), chirurgien militaire de l'Empire.</p>
-
-    <figure>
-    <a href="images/paris-chaptal.jpg" id="single_image" title=" ">
-    <img src="miniatures/paris-chaptal.jpg" alt=" "></a>
-   		<figcaption>paris-chaptal</figcaption>
-    </figure>
    
     <figure>
     <a href="images/begin-cuisine.jpg" id="single_image" title="l'hôpital militaire Bégin">
@@ -123,6 +118,12 @@
     <a href="images/hopital-begin-cours.jpg" id="single_image" title="l'hôpital militaire Bégin">
    	<img src="miniatures/hopital-begin-cours.jpg" alt="La cour intérieure de l'hôpital militaire Bégin pendant la guerre"></a>
     	<figcaption>La cour intérieure de l'hôpital militaire Bégin</figcaption>
+    </figure>
+
+    <figure>
+    <a href="images/paris-chaptal.jpg" id="single_image" title=" ">
+    <img src="miniatures/paris-chaptal.jpg" alt=" "></a>
+   		<figcaption>Hôpital temporaire Chaptal,<br />rue de Rome à Paris</figcaption>
     </figure>
 
 <p class="sources">

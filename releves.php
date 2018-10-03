@@ -56,11 +56,11 @@
 
 <ul>
 
-<li style="padding: 6px;padding-left: 6px;font-size: 14px;padding-left: 13px;color: #e1ede3;background-color: #364046;">Nord</li>
+<li class="asideheader">Nord</li>
 
 <li><a href="releves/anzin.php">Anzin</a></li>
 <li><a href="releves/bry.php">Bry</a></li>
-<li><a href="releves/coulsore.php">Coulsore</a></li>
+<li><a href="releves/cousolre.php">cousolre</a></li>
 <li><a href="releves/capelle.php">Capelle-sur-Ecaillon</a></li>
 <li><a href="releves/eth.php">Eth</a></li>
 <li><a href="releves/gussignies.php">Gussignies</a></li>
@@ -74,29 +74,29 @@
 <li><a href="releves/villers-guislain.php">Villers-Guislain</a></li>
 <li><a href="releves/wargnies.php">Wargnies-le-Grand</a></li>    
  
-<li style="padding: 6px;padding-left: 6px;font-size: 14px;padding-left: 13px;color: #e1ede3;background-color: #364046;">Marne</li>
+<li class="asideheader">Marne</li>
 
 <li><a href="releves/betheniville.php">Bétheniville</a></li>
 <li><a href="releves/isles-sur-suippes.php">Isles-sur-Suippes</a></li>
 <li><a href="releves/saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit</a></li>
 
-<li style="padding: 6px;padding-left: 6px;font-size: 14px;padding-left: 13px;color: #e1ede3;background-color: #364046;">Côte-d'Or</li>
+<li class="asideheader">Côte-d'Or</li>
 
 <li><a href="releves/daix.php">Daix</a></li>
 
-<li style="padding: 6px;padding-left: 6px;font-size: 14px;padding-left: 13px;color: #e1ede3;background-color: #364046;">Yvelines</li>
+<li class="asideheader">Yvelines</li>
 
 <li><a href="releves/feucherolles.php">Feucherolles</a></li>
 
-<li style="padding: 6px;padding-left: 6px;font-size: 14px;padding-left: 13px;color: #e1ede3;background-color: #364046;">Pas-de-Calais</li>
+<li class="asideheader">Pas-de-Calais</li>
 
 <li><a href="releves/frencq.php">Frencq</a></li>
 
-<li style="padding: 6px;padding-left: 6px;font-size: 14px;padding-left: 13px;color: #e1ede3;background-color: #364046;">Aube</li>
+<li class="asideheader">Aube</li>
 
 <li><a href="releves/gelannes.php">Gélannes</a></li>
 
-<li style="padding: 6px;padding-left: 6px;font-size: 14px;padding-left: 13px;color: #e1ede3;background-color: #364046;">Ardennes</li>
+<li class="asideheader">Ardennes</li>
 
 <li><a href="releves/verpel.php">Verpel</a></li>
 

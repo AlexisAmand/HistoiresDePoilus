@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Relevé des morts pour la France de Coulsore - Histoires de Poilus</title>
-<meta content="relevés des soldats et des civils de Coulsore morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or">
+<title>Relevé des morts pour la France de cousolre - Histoires de Poilus</title>
+<meta content="relevés des soldats et des civils de cousolre morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or">
     
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -56,33 +56,51 @@
 <aside>
 
 <ul>
-    <li><a href="anzin.php">Anzin (Nord)</a></li>
-    <li><a href="betheniville.php">Bétheniville (Marne)</a></li>
-    <li><a href="bry.php">Bry (Nord)</a></li>
-    <li><a href="coulsore.php" class="AsideSelected">Coulsore (Nord)</a></li>
-    <li><a href="capelle.php">Capelle-sur-Ecaillon (Nord)</a></li>
 
-    <li><a href="daix.php">Daix (21)</a></li>
-    <li><a href="eth.php">Eth (Nord)</a></li>
-    <li><a href="feucherolles.php">Feucherolles (78)</a></li>
-    <li><a href="frencq.php">Frencq (62)</a></li>
-    <li><a href="gelannes.php">Gélannes (10)</a></li>
+<li class="asideheader">Nord</li>
 
-    <li><a href="gussignies.php">Gussignies (Nord)</a></li>
-    <li><a href="isles-sur-suippes.php">Isles-sur-Suippes (Marne)</a></li>
-    <li><a href="lourches.php">Lourches (Nord)</a></li>
-    <li><a href="onnaing.php">Onnaing (Nord)</a></li>    
-    <li><a href="quarouble.php">Quarouble (Nord)</a></li>
+<li><a href="anzin.php"  class="AsideSelected">Anzin</a></li>
+<li><a href="bry.php">Bry</a></li>
+<li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
+<li><a href="cousolre.php"  class="AsideSelected">cousolre</a></li> 
+<li><a href="eth.php">Eth</a></li>
+<li><a href="gussignies.php">Gussignies</a></li>
+<li><a href="lourches.php">Lourches</a></li>
+<li><a href="onnaing.php">Onnaing</a></li>    
+<li><a href="quarouble.php">Quarouble</a></li>
+<li><a href="roeulx.php">Roeulx</a></li>
+<li><a href="saultain.php">Saultain</a></li>
+<li><a href="sebourg.php">Sebourg</a></li>
+<li><a href="vicq.php">Vicq</a></li>
+<li><a href="villers-guislain.php">Villers-Guislain</a></li>
+<li><a href="wargnies.php">Wargnies-le-Grand</a></li>    
+ 
+<li class="asideheader">Marne</li>
 
-    <li><a href="roeulx.php">Roeulx (Nord)</a></li>
-    <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit (Marne)</a></li>
-    <li><a href="saultain.php">Saultain (Nord)</a></li>
-    <li><a href="sebourg.php">Sebourg (Nord)</a></li>
-    <li><a href="verpel.php">Verpel (Ardennes)</a></li>
+<li><a href="betheniville.php">Bétheniville</a></li>
+<li><a href="isles-sur-suippes.php">Isles-sur-Suippes</a></li>
+<li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit</a></li>
 
-    <li><a href="vicq.php">Vicq (Nord)</a></li>
-    <li><a href="villers-guislain.php">Villers-Guislain (Nord)</a></li>
-    <li><a href="wargnies.php">Wargnies-le-Grand (Nord)</a></li>        
+<li class="asideheader">Côte-d'Or</li>
+
+<li><a href="daix.php">Daix</a></li>
+
+<li class="asideheader">Yvelines</li>
+
+<li><a href="feucherolles.php">Feucherolles</a></li>
+
+<li class="asideheader">Pas-de-Calais</li>
+
+<li><a href="frencq.php">Frencq</a></li>
+
+<li class="asideheader">Aube</li>
+
+<li><a href="gelannes.php">Gélannes</a></li>
+
+<li class="asideheader">Ardennes</li>
+
+<li><a href="verpel.php">Verpel</a></li>
+
 </ul>
    
 <div id="pubaside">
@@ -101,11 +119,11 @@
 
 <article>
 
-<h1>Relevé des morts pour la France à Coulsore</h1>
+<h1>Relevé des morts pour la France à cousolre</h1>
 
 <p>(Relevé en cours)</p>
 	
-<p>Voici la liste des morts pour la France et des victimes civiles de Coulsore (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php">laissant un petit message.</a></p>
+<p>Voici la liste des morts pour la France et des victimes civiles de cousolre (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php">laissant un petit message.</a></p>
 
   <figure>
 	    <a href="../poilus/images/momument-cousolre.jpg" id="single_image" title="Inauguration du monument de Cousolre">

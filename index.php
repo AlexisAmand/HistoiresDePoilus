@@ -27,13 +27,11 @@
         <header>
 	
             <div id="rezo">
-            <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-            <img src="images/facebook.png" />
-            </a>
-            <img src="images/googleplus.png" />
-            <a href="https://twitter.com/alexisamand?lang=fr" title="me suivre sur Twitter">
-            <img src="images/twitter.png" />
-            </a>
+            	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
+            		<img src="images/facebook.png" /></a>
+            		<img src="images/googleplus.png" />
+           	 	<a href="https://twitter.com/alexisamand?lang=fr" title="me suivre sur Twitter">
+            		<img src="images/twitter.png" /></a>
             </div>
       
             <a href="index.php" title="retour sur la page d'accueil du site">
