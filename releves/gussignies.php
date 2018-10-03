@@ -245,7 +245,7 @@ Sources:
     <td>65e B.C.P</td>
     <td>&nbsp;</td>
   </tr>
-    <tr>
+  <tr>
     <td>DUBOIS<br />Auguste</td>
     <td>&nbsp;</td>
     <td>1915</td>
@@ -253,10 +253,10 @@ Sources:
     <td>&nbsp;</td>
     <td>&nbsp;</td>
   </tr>
-    <tr>
+  <tr>
     <td>DUPONT<br />Jules Louis</td>
     <td>8 janvier 1874<br />à Gussignies</td>
-    <td>27 octobre 1916<br />au Lazaret de Hagen (Allemagne)</td>
+    <td>27 octobre 1916<br />au Lazaret de <a href="../camps/camp-hagen.php">Hagen</a> (Allemagne)</td>
     <td>soldat</td>
     <td>4e R.I.T</td>
     <td>&nbsp;</td>

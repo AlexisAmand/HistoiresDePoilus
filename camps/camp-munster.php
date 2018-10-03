@@ -69,6 +69,7 @@ span.MsoFootnoteReference
 
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
         <li><a href="camp-guben.php">Guben</a></li>
+        <li><a href="camp-hagen.php">Hagen</a></li>
         <li><a href="camp-hammelburg.php">Hammelburg</a></li>
         <li><a href="camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camp-herne.php">Herne</a></li>

@@ -65,39 +65,44 @@
 <aside>
 
 	<ul>
-
     	<li><a href="camps/camp-bad-orb.php">Bad Orb</a></li>
         <li><a href="camps/camp-chemnitz.php">Chemnitz</a></li>
         <li><a href="camps/camp-czersk.php">Czersk</a></li>
         <li><a href="camps/camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camps/camp-frankfurt.php">Francfort-sur-le-Main</a></li>
+        
         <li><a href="camps/camp-friedberg.php">Friedberg</a></li>
         <li><a href="camps/camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camps/camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camps/camp-giessen.php">Giessen</a></li>
         <li><a href="camps/camp-gorlitz.php">Görlitz</a></li>
+        
         <li><a href="camps/camp-grafenwohr.php">Grafenwöhr</a></li>
         <li><a href="camps/camp-guben.php">Guben</a></li>
+        <li><a href="camps/camp-hagen.php">Hagen</a></li>
         <li><a href="camps/camp-hammelburg.php">Hammelburg</a></li>
         <li><a href="camps/camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camps/camp-herne.php">Herne</a></li>
+        
         <li><a href="camps/camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camps/camp-limburg.php">Limburg</a></li>
         <li><a href="camps/camp-mannheim.php">Mannheim</a></li>        
         <li><a href="camps/camp-meschede.php">Meschede</a></li>
         <li><a href="camps/camp-merzdorf.php">Merzdorf</a></li>
+        
         <li><a href="camps/camp-meyenburg.php">Meyenburg</a></li>
     	<li><a href="camps/camp-minden.php">Minden</a></li>
         <li><a href="camps/camp-munster.php">Munster</a></li> 
         <li><a href="camps/camp-nurnberg.php">Nuremberg</a></li>
         <li><a href="camps/camp-regensburg.php">Regensburg</a></li> 
+        
         <li><a href="camps/camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camps/camp-schneidemuhl.php">Schneidemühl</a></li>   
         <li><a href="camps/camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camps/camp-wurzburg.php">Würzburg</a></li>
+        
         <li><a href="camps/camp-zerbst.php">Zerbst</a></li>
-        <li><a href="camps/camp-wunsdorf.php">Zossen-Wünsdorf</a></li>  
-          
+        <li><a href="camps/camp-wunsdorf.php">Zossen-Wünsdorf</a></li>            
    </ul>
  
     <div id="pubaside">
