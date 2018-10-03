@@ -142,39 +142,30 @@ Sources:
     <td width="70px">Grade</td>
     <td width="55px">Corps</td>
     <td width="90px">Genre<br />de mort</td>
-   </tr>
+  </tr>
    </thead>
   <tr>
-    <td>DUPONT<br />Léonard</td>
-    <td>26 mai 1890<br />à Gussignies</td>
-    <td>23 septembre 1914<br />à </td>
-    <td>soldat<br >2e classe</td>
-    <td>25e B.C</td>
+    <td>BATON<br>Louis</td>
+    <td>&nbsp;</td>
+    <td>1918</td>
+    <td colspan="2"><strong>Victime civile</strong></td>
+    <td>&nbsp;</td>
+  </tr>       
+  <tr>
+    <td>COLOT<br />Georges Albert</td>
+    <td>4 novembre 1884<br />à Gussignies</td>
+    <td>24 février 1916<br />à Verdun (Meuse)</td>
+    <td>2e canonnier servant</td>
+    <td>102e R.A.L</td>
     <td>Tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>HOSTELART<br />Jean Baptiste</td>
-    <td>7 août 1885<br />à Gussignies</td>
-    <td>20 octobre 1914<br />à Vailly (Aisne)</td>
-    <td>soldat</td>
-    <td>106e R.I</td>
-    <td>Tué à l'ennemi</td>
-  </tr>
-  <tr>
-    <td>LEROY<br />Paul Jean François</td>
-    <td>14 avril 1886<br />à Rocroy (Ardennes)</td>
-    <td>26 juillet 1917<br />à Mont-Haut (Marne)</td>
-    <td>soldat</td>
-    <td>330e R.I</td>
-    <td>Mort sur le champ de bataille</td>
-  </tr>
-  <tr>
-    <td>SEGERS<br />Jules Elisée</td>
-    <td>3 novembre 1875<br />à Fourmies (Nord)</td>
-    <td>2 septembre 1914<br />à Maubeuge (Nord)</td>
-    <td>soldat<br >2e classe</td>
-    <td>407e R.I</td>
-    <td>Tué à l'ennemi</td>
+    <td>COLOT<br />Louis</td>
+    <td>&nbsp;</td>
+    <td>1918</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
     <td>DEBIEVE<br />Celestin</td>
@@ -183,7 +174,7 @@ Sources:
     <td>Caporal</td>
     <td>42e R.I.C</td>
     <td>Tué à l'ennemi</td>
-  </tr>
+  </tr>  
   <tr>
     <td>DEGORGUE<br />Emile</td>
     <td>26 mai 1881<br />à Frasnoy (Nord)</td>
@@ -191,7 +182,37 @@ Sources:
     <td>soldat</td>
     <td>84e R.I</td>
     <td>Tué à l'ennemi</td>
-  </tr>     
+  </tr> 
+  <tr>
+    <td>DELFOSSE<br />Clément</td>
+    <td>&nbsp;</td>
+    <td>1918</td>
+    <td colspan="2"><strong>Victime civile</strong></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>DELHAYE<br />Alfred</td>
+    <td>&nbsp;</td>
+    <td>1918</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>DENIS<br />Léon</td>
+    <td>&nbsp;</td>
+    <td>1917</td>
+    <td colspan="2"><strong>Victime civile</strong></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>DESCAMPS<br />Albert</td>
+    <td>12 février 1875<br />à Gussignies</td>
+    <td>1918</td>
+    <td>&nbsp;</td>
+    <td>4e R.I.T</td>
+    <td>&nbsp;</td>
+  </tr>
   <tr>
     <td>DESCAMPS<br />Marcel Alphonse</td>
     <td>12 septembre 1894<br />à Gussignies</td>
@@ -209,6 +230,22 @@ Sources:
     <td>&nbsp;</td>
   </tr>
   <tr>
+    <td>DRUART<br />Eusebe</td>
+    <td>28 décembre 1874<br />à Gussignies</td>
+    <td>12 décembre 1918<br />à Roisin (Belgique)</td>
+    <td>Soldat</td>
+    <td>4e R.I.T</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>DRUART<br />Henri</td>
+    <td>4 mars 1891<br />à Gussignies</td>
+    <td>1er octobre 1915<br />à Chaumont (Haute-Marne)</td>
+    <td>2e classe</td>
+    <td>65e B.C.P</td>
+    <td>&nbsp;</td>
+  </tr>
+    <tr>
     <td>DUBOIS<br />Auguste</td>
     <td>&nbsp;</td>
     <td>1915</td>
@@ -216,81 +253,36 @@ Sources:
     <td>&nbsp;</td>
     <td>&nbsp;</td>
   </tr>
-  <tr>
-    <td>COLOT<br />Georges Albert</td>
-    <td>4 novembre 1884<br />à Gussignies</td>
-    <td>24 février 1916<br />à Verdun (Meuse)</td>
-    <td>2e canonnier servant</td>
-    <td>102e R.A.L</td>
-    <td>Tué à l'ennemi</td>
-  </tr>
-  <tr>
-    <td>DUPONT<br />Jules</td>
-    <td>&nbsp;</td>
-    <td>1916</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>DENIS<br />Léon</td>
-    <td>&nbsp;</td>
-    <td>1917</td>
-    <td colspan="2"><strong>Victime civile</strong></td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>BATON<br>Louis</td>
-    <td>&nbsp;</td>
-    <td>1918</td>
-    <td colspan="2"><strong>Victime civile</strong></td>
-    <td>&nbsp;</td>
-  </tr>       
-  <tr>
-    <td>COLOT<br />Louis</td>
-    <td>&nbsp;</td>
-    <td>1918</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>DESCAMPS<br />Albert</td>
-    <td>12 février 1875<br />à Gussignies</td>
-    <td>1918</td>
-    <td>&nbsp;</td>
+    <tr>
+    <td>DUPONT<br />Jules Louis</td>
+    <td>8 janvier 1874<br />à Gussignies</td>
+    <td>27 octobre 1916<br />au Lazaret de Hagen (Allemagne)</td>
+    <td>soldat</td>
     <td>4e R.I.T</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td>DELFOSSE<br />Clément</td>
-    <td>&nbsp;</td>
-    <td>1918</td>
-    <td colspan="2"><strong>Victime civile</strong></td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>DELHAYE<br />Alfred</td>
-    <td>&nbsp;</td>
-    <td>1918</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>DUPONT<br />Léonard Louis</td>
+    <td>26 mai 1890<br />à Gussignies</td>
+    <td>23 septembre 1914 octobre 1916<br />à Spada (Meuse)</td>
+    <td>2e classe</td>
+    <td>25e B.C.P</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td>DRUART<br />Eusebe</td>
-    <td>&nbsp;</td>
-    <td>1918</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-	<tr>
     <td>FUMIERE<br />Julien</td>
     <td>&nbsp;</td>
     <td>1918</td>
     <td colspan="2"><strong>Victime civile</strong></td>
     <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>HOSTELART<br />Jean Baptiste</td>
+    <td>7 août 1885<br />à Gussignies</td>
+    <td>20 octobre 1914<br />à Vailly (Aisne)</td>
+    <td>soldat</td>
+    <td>106e R.I</td>
+    <td>Tué à l'ennemi</td>
   </tr>
   <tr>
     <td>JOSELIER<br />Gustave</td>
@@ -307,13 +299,29 @@ Sources:
     <td colspan="2"><strong>Victime civile</strong></td>  
     <td>&nbsp;</td>
   </tr>    
-   <tr>
+  <tr>
+    <td>LEROY<br />Paul Jean François</td>
+    <td>14 avril 1886<br />à Rocroy (Ardennes)</td>
+    <td>26 juillet 1917<br />à Mont-Haut (Marne)</td>
+    <td>soldat</td>
+    <td>330e R.I</td>
+    <td>Mort sur le champ de bataille</td>
+  </tr>
+  <tr>
     <td>LOISEAU<br />François</td>
     <td>&nbsp;</td>
     <td>1918</td>
     <td colspan="2"><strong>Victime civile</strong></td>
     <td>&nbsp;</td>
   </tr>     
+  <tr>
+    <td>NALENNE<br />Oscar Joseph</td>
+    <td>18 novembre 1873<br />à Bousignies-a-Bac (Nord) </td>
+    <td>28 février 1915<br />à Beauséjour (Marne)</td>
+    <td>91e R.I</td>  
+    <td>soldat</td>
+    <td> </td>
+  </tr>
   <tr>
     <td>PANGRAZZI<br>Camille</td>
     <td>&nbsp;</td>
@@ -324,11 +332,27 @@ Sources:
   </tr>
   <tr>
     <td>PERSEAU<br />Jules</td>
+    <td>22 août 1882<br />à Gussignies</td>
+    <td>29 septembre 1918<br />à Sainte-Marie à Py</td>
+    <td>407e R.I</td>
+    <td>sergent</td>
     <td>&nbsp;</td>
-    <td>1918</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>SCHEFFER<br />Albert Athanase</td>
+    <td>14 décembre 1894<br />à Paris (XIe)</td>
+    <td>31 juillet 1915<br />à Argonne (Meuse)</td>
+    <td>46e R.A</td>
+    <td>brigadier</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>SEGERS<br />Jules Elisée</td>
+    <td>3 novembre 1875<br />à Fourmies (Nord)</td>
+    <td>2 septembre 1914<br />à Maubeuge (Nord)</td>
+    <td>soldat<br >2e classe</td>
+    <td>407e R.I</td>
+    <td>Tué à l'ennemi</td>
   </tr>
   <tr>
     <td>WAROQUIER<br />Gustave</td>
@@ -336,7 +360,7 @@ Sources:
     <td>1918</td>
     <td colspan="2"><strong>Victime civile</strong></td>  
     <td>&nbsp;</td>
-    </tr>
+  </tr>  
 </table>
 
 <p class="sources">
