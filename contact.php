@@ -166,8 +166,8 @@
                 <textarea name="message" id="message" rows="20" cols="80"><?php echo( $message ); ?></textarea>  
             </p>  
             <p>  
-                <input type="reset" name="reset" value="Effacer" />  
-                <input type="submit" name="send" value="Envoyer" />  
+                <input type="reset" name="reset" value="Effacer" style="float:left;display: block;background-color: #5b5b5b;width: 100px;padding: 8px;text-align: center;margin-left: 3px;color: #e2ede4;text-decoration: none;"/>  
+                <input type="submit" name="send" value="Envoyer" style="float:left;display: block;background-color: #5b5b5b;width: 100px;padding: 8px;text-align: center;margin-left: 3px;color: #e2ede4;text-decoration: none;"/>    
             </p>  
         </form>  
 <?php  

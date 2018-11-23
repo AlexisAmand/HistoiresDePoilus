@@ -118,14 +118,20 @@
 
 	<li><strong>Raphaël Joseph BOTTIAU</strong> est né le 26 janvier 1880 à Quarouble, fils légitime de Antoine Joseph BOTTIAU et de Léopoldine Augustine JOLY (elle même fille de mon sosa n°80 et de sa 2e épouse). Il arrive au 15e Régiment d'Artillerie de Campagne le 11 août 1914. Libéré provisoirement le 19 août 1914, il est fait prisonnier le 24 août à Quarouble et interné derrière les lignes. Raphaël est envoyé en congés illimité le 12 février 1919 par le dépôt démobilisateur du 15e Régiment d'Artillerie et se retire à Quarouble, où il décède le 19 mars 1926 à son domicile de la Rue du Moulin.<br /><br /></li>
 
-    <li><strong>Gervais BOUCHER</strong> est né le 31 mai 1880 à Onnaing (Nord) à quelques kilométres de Valenciennes. Fils légitime de Pierre Joseph et Anne Marie Lucette DELHAYE, il commence sa cariière militaire à l'âge de 20 ans quand il s'engage en tant que volontaire pour 3 ans le 17 octobre 1900 à la Mairie de Valenciennes. Il rejoint alors la 1ere compagnie d'ouvrier d'artillerie où il arrive le lendemain et est immatriculé sous le n°677. Durant son engagement, il suit une formation et devient ouvrier en bois. Son engagement terminé, il part vivre à Calais (62) avec le certificat de bonne conduite accordé. Le 5 Juin 1905, Gervais épouse à Onnaing Marie Céline MASCART, une descendante d'Antoine MASCART (1721-1797) et Michelle BRACONNIER (1684-1727), mes sosas n°644 et 645. Dix ans plus tard, quand la guerre éclate, il est rappelé à l'activité par le décret de mobilisation générale du 1er août 1914 et rejoint le 1er R.A.P Il est fait prisonnier à Maubeuge le 7 septembre 1914 et est envoyé en internement à <a href="../camps/camp-munster.php">Munster III</a> d'où il sera rappatrié le 8 décembre 1918. Il est envoyé en congés illimité le 17 février 1919 aprés une permission de 60 jours. Gervais est décédé à son domicile situé Rue de Mons à Valenciennes, le 27 décembre 1964.<br /><br /></li>
+    <li><strong>Gervais BOUCHER</strong> est né le 31 mai 1880 à Onnaing (Nord) à quelques kilométres de Valenciennes. Fils légitime de Pierre Joseph et Anne Marie Lucette DELHAYE, il commence sa cariière militaire à l'âge de 20 ans quand il s'engage en tant que volontaire pour 3 ans le 17 octobre 1900 à la Mairie de Valenciennes. Il rejoint alors la 1ere compagnie d'ouvrier d'artillerie où il arrive le lendemain et est immatriculé sous le n°677. Durant son engagement, il suit une formation et devient ouvrier en bois. Son engagement terminé, il part vivre à Calais (62) avec le certificat de bonne conduite accordé. Le 5 Juin 1905, Gervais épouse à Onnaing Marie Céline MASCART, une descendante d'Antoine MASCART (1721-1797) et Michelle BRACONNIER (1684-1727), mes sosas n°644 et 645. Dix ans plus tard, quand la guerre éclate, il est rappelé à l'activité par le décret de mobilisation générale du 1er août 1914 et rejoint le 1er R.A.P Il est fait prisonnier à Maubeuge le 7 septembre 1914 et est envoyé en internement à <a href="../camps/camp-munster.php" title="Le camp de prisonniers de Munster">Munster III</a> d'où il sera rappatrié le 8 décembre 1918. Il est envoyé en congés illimité le 17 février 1919 aprés une permission de 60 jours. Gervais est décédé à son domicile situé Rue de Mons à Valenciennes, le 27 décembre 1964.<br /><br /></li>
 
 </ul>    
 
     <figure>
-    <a href="images/mairie-valenciennes.jpg" id="single_image" title="La Place d'Armes de Valenciennes">
-    <img src="miniatures/mairie-valenciennes.jpg" alt="L'Hôtel de Ville de Valenciennes et la Place d'Armes" style="width:450px"/></a>
-    <figcaption>La Place d'Armes de Valenciennes,<br />avec vue sur l'Hôtel de Ville<br>(Source: Delcampe)</figcaption>
+        <a href="images/mairie-valenciennes.jpg" id="single_image" title="La Place d'Armes de Valenciennes">
+        <img src="miniatures/mairie-valenciennes.jpg" alt="L'Hôtel de Ville de Valenciennes et la Place d'Armes" style="width:450px"/></a>
+        <figcaption>La Place d'Armes de Valenciennes,<br />avec vue sur l'Hôtel de Ville<br>(Source: Delcampe)</figcaption>
+    </figure>
+
+    <figure>
+        <a href="../camps/images/camps_prisonniers_munster_01.jpg" id="single_image" title="Le retour des corvées à Münster III">
+        <img src="../camps/miniatures/camps_prisonniers_munster_01.jpg" alt="Des soldats de retour des corvées au camp de Münster III"></a>
+        <figcaption>Le retour des corvées à Munster III<br />(Carte postale)</figcaption>
     </figure>
 
 <ul>
@@ -137,9 +143,9 @@
 </ul>    
 
 	<figure>
-    <a href="images/carte-oscar-delaux.png" id="single_image" title="Carte d'ancien combattant d'Oscar DELAUX">
-    <img src="miniatures/carte-oscar-delaux.png" alt="Carte du combattant d'Oscar DELAUX"/></a>
-    <figcaption>Carte du combattant d'Oscar DELAUX<br>(Source: Archives Départementales du Nord)</figcaption>
+        <a href="images/carte-oscar-delaux.png" id="single_image" title="Carte d'ancien combattant d'Oscar DELAUX">
+        <img src="miniatures/carte-oscar-delaux.png" alt="Carte du combattant d'Oscar DELAUX"/></a>
+        <figcaption>Carte du combattant d'Oscar DELAUX<br>(Source: Archives Départementales du Nord)</figcaption>
     </figure>
     
 <ul>
@@ -151,6 +157,25 @@
     <li>Les données concernant <strong>Georges LAMANDIN</strong> m'ont été communiquées par son arrière-petite-fille.<br />
     Georges Jean Baptiste LAMANDIN  est né le 24 juin 1885 à Villers Guislain (Nord). Soldat de 2e classe 19e régiment d'infanterie, Georges est mort pour la France le 7 septembre 1914 à Champfleury (Seine et Marne). Champfleury est un hameau qui dépend de Montceaux-lès-Provins où il y a eu une terrible bataille le 6 septembre 1914. 300 000 obus sont tombés et 155 Soldats reposent dans 2 ossuaires auxquels il faut rajouter les tombes individuelles.<br /><br /></li>
  
+    <li><strong>Jules Joseph LESAGE</strong> ...<br />
+    
+    <table>
+        <tr>
+            <td>13 juillet 1917</td><td>Chez Me Veuve ARSENE<br/>Vieux Coron<br />à Barlin (Pas-de-Calais)</td>
+        </tr>
+        <tr>
+            <td>26 octobre 1920</td><td>Coron Tout Quitte<br />à Roeulx (Nord)</td>
+        </tr>
+        <tr>
+            <td>28 juin 1922</td><td>45 Rue Socrate<br />à Lourches (Nord)</td>
+        </tr>
+        <tr>
+            <td>8 septembre 1924</td><td>62 Rue de la République<br />à Roeulx (Nord)</td>            
+        </tr>
+    </table>
+
+    <br /><br /></li>
+
 	<li><strong>Alfred PELEZ</strong> (ou PELLEZ selon les sources) est né le 13 juin 1872 à Onnaing, fils de mes ancêtres François PELEZ (1843-1884) et Louise DASNOIS (1847-1878). Avant la guerre, Alfred vit dans le Pas-de-Calais en passant successivement par Annezin (1896), Montigny-en-Gohelle (1896), Fouquières-les-lens (1906) et enfin Rouvroy (1912). Il est rappelé à l'activité par le décret du 1er août 1914 et mis en sursis aux Mines de la Loire dès le 9 février 1915. A l'époque, il vit à Saint Genest-Lerpt dans la Loire.<br /><br /></li>
 	
     <li><strong>Emile MASCART</strong> est né à Onnaing le 24 janvier 1887, fils légitime de Romain et Marie Thérèse LEBRUN. Mes ancêtres communs avec Emile sont Hierosme MASCART (1658-1720) et Marie MARTIN (1653-1722), un couple originaire de Quarouble. Avant la guerre, Emile exerce la profession de traceur en constructions métalliques chez LEMAIRE et vit rue Saint Joseph à Onnaing. Il est rappelé à l'activité par le décret du 1 août 1914 et arrive au 91 Régiment d'Infanterie le 3. L'année qui suit, le 14 septembre, il est détaché aux Fonderies de Firminy (Loire) où on produit les cannons de 155 mm. Il est affecté au 86e Régiment d'Infanterie par la circulaire ministérielle du 25 mai 1917 mais maintenu détaché. Il est envoyé en congé illimité le 10 avril 1919 et se retire rue d'Estreux à Onnaing où il décède le jeudi 20 février 1941.<br ><br ></li>

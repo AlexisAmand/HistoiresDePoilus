@@ -116,17 +116,23 @@
 
 <ul>   
 
-    <li><strong>Jules Alphonse ASTIER</strong>, né le 14 février 1872 à Bétheniville (Marne), petit-fils de mon aïeule Julie Joséphine KRAUTH via Louise Adèle BALTAZART. <br /><br /></li>
-
-    <li><strong>Eugène Alexandre CARON</strong>, né le 16 avril 1869 à Montigny-sur-Vesle (Marne), fils de Pierre Alexandre et de Zélia Celestine HUILLERET. Avant la Grande Guerre, il vit à Reims, successivement 164 Rue du Barbâtre (1895) et 28 Rue de Savoie (1910), où il exerce la profession de mécanicien. A la mobilisation, il rejoint la 6e section d'infirmiers le 3 août 1914. Le 24 août 1915, il est détaché dans une usine de Clermont-Ferrant.<br /><br /></li>
+    <li><strong>Henri René ARNOULD</strong>    ...</li>
 
 </ul>
 
 <figure>
-    <a href="sources/caron-matricule.jpg" id="single_image" title="Extrait de la fiche matricule d'Eugène">
-    <img src="miniatures/caron-matricule.jpg" alt="Extrait de la fiche matricule d'Eugène Alexandre CARON"/></a>
-    <figcaption>Extrait de la fiche matricule d'Eugène<br />(Source: Archives Départementales de la Marne)</figcaption>
-</figure>
+    <a href="images/mont-homme.jpg" id="single_image" title=" ">
+    <img src="miniatures/mont-homme.jpg" alt=" " style="box-shadow:none"></a>
+    <figcaption>Les ascendants d'Ernest Auguste BALTAZART<br />(cliquez pour agrandir)</figcaption>
+</figure> 
+
+<ul>
+
+    <li><strong>Jules Alphonse ASTIERS</strong>, né le 14 février 1872 à Bétheniville (Marne), petit-fils de mon aïeule Julie Joséphine KRAUTH via Louise Adèle BALTAZART. <br /><br /></li>
+
+    <li><strong>Eugène Alexandre CARON</strong>, né le 16 avril 1869 à Montigny-sur-Vesle (Marne), fils de Pierre Alexandre et de Zélia Celestine HUILLERET. Avant la Grande Guerre, il vit à Reims, successivement 164 Rue du Barbâtre (1895) et 28 Rue de Savoie (1910), où il exerce la profession de mécanicien. A la mobilisation, il rejoint la 6e section d'infirmiers le 3 août 1914. Le 24 août 1915, il est détaché dans une usine de Clermont-Ferrant.<br /><br /></li>
+
+</ul>
 
 <figure>
     <a href="images/reims-barbatre.jpg" id="single_image" title="la Rue du Barbâtre à Reims">
