@@ -85,14 +85,14 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="autres.php">Autres poilus du Nord</a></li>
 
         <li class="asideheader">Marne</li>
         
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php"  class="AsideSelected">Les soldats de la Marne</a></li>
+        <li><a href="soldats-marne.php"  class="AsideSelected">Autres poilus de la Marne</a></li>
     	      
    </ul>
    
@@ -142,7 +142,37 @@
 
 <ul>
 
-    <li><strong>Léopold PAQUET</strong> est né le 5 décembre 1886 à Reims (Marne), fils légitime de François PAQUET et Marie LEFEVRE. Le 20 juin 1914, il épouse à Bétheniville Marie Hélène ARNOULD, la sœur de mon arrière-grand-père. Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 août 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 août 1917 pour paralysie radiale du bras gauche, juste après la Bataille des Ardennes. Il est décédé à Bétheniville le 10 octobre 1953.<br /><br /></li>
+    <li><strong>Léopold PAQUET</strong> est né le 5 décembre 1886 à Reims (Marne), fils légitime de François PAQUET et Marie LEFEVRE. Le 20 juin 1914, il épouse à Bétheniville Marie Hélène ARNOULD, la sœur de mon arrière-grand-père. Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 août 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 août 1917 pour paralysie radiale du bras gauche, juste après la Bataille des Ardennes. Il est décédé à Bétheniville le 10 octobre 1953.<br /><br />
+    
+    <table style="width:70%;caption-side: bottom;">
+    <caption>Liste des domiciles ... </caption>
+    <thead>
+        <tr>
+            <td>Dates</td>
+            <td>Adresses</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> </td>
+        </tr>
+    </tbody>   
+	</table>    
+        
+    </li>
 
 </ul>
     

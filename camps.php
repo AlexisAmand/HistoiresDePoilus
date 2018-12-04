@@ -40,7 +40,7 @@
     </div>
     
 <a href="index.php" title="retour sur la page d'accueil du site">
-<img src="images/logo.png" class="logo" alt="Histoires de Poilus"/></a>
+<img src="images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
 </header>
    

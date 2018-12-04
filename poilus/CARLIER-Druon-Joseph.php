@@ -25,8 +25,8 @@
         <img src="../images/twitter.png" alt="logo Twitter"   /></a>
     </div>
     
-  <a href="../index.php" title="Retour sur la page d'accueil du site">
-  <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+    <a href="../index.php" title="Retour sur la page d'accueil du site">
+    <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
   
 </header>
    
@@ -75,14 +75,14 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="autres.php">Autres poilus du Nord</a></li>
 
         <li class="asideheader">Marne</li>
         
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
     	      
    </ul>
    
@@ -121,6 +121,34 @@
     </a>
     <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
 </figure>
+
+<table style="width:70%;caption-side: bottom;">
+    <caption>Liste des domiciles de Druon</caption>
+    <thead>
+        <tr>
+            <td>Dates</td>
+            <td>Adresses</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+    </tbody>   
+</table>
 
 <p>Durant son service militaire, <strong>Druon Joseph CARLIER</strong> est incorporé comme soldat de 2e classe au <strong>1er Régiment d’Infanterie</strong> sous le matricule n°8102 le 15 novembre 1897. C'est un régiment qui est né en 1479 et est issu des "bandes de Picardie". Il a traversé toutes les époques en participant à toutes les campagnes qui ont fait la France.</p>
 <p>En application de la décision ministérielle du 21 septembre 1898, il passe au <strong>1er Régiment d’Infanterie de Marine</strong> le 1er décembre 1898 et est immatriculé sous le n° A 7225. Le 16 septembre 1899, il devient soldat de 1e classe. Il ne s’agit pas d’un grade mais plutôt d’une distinction qui permettrait d’accéder ensuite au grade de caporal. Il est envoyé en congé en attendant son passage dans la réserve avec un certificat de bonne conduite accordé le 28 septembre 1900.</p>

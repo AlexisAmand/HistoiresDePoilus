@@ -35,7 +35,8 @@
         </a>
     </div>
     
-<a href="../../index.php"><img src="../../images/logo.png" alt="" class="logo" title="retour sur la page d'accueil du site"/></a>
+<a href="../../index.php" title="Retour sur la page d'accueil du site">
+<img src="../../images/logo.png" class="logo" alt="retour sur la page d'accueil du site"/></a>
 
 </header>
    
@@ -79,8 +80,8 @@
         
         <li><a href="../VELU-Adrien.php">VELU Adrien (+)</a></li>
         <li><a href="../soldats-ardennes.php">Les soldats des Ardennes</a></li>
-        <li><a href="../soldats-marne.php">Les soldats de la Marne</a></li>
-        <li><a href="../autres.php">Les soldats du Nord</a></li>
+        <li><a href="../soldats-marne.php">Autres poilus de la Marne</a></li>
+        <li><a href="../autres.php">Autres poilus du Nord</a></li>
         <li><a href="../soldats-belgique.php">Les soldats de Belgique</a></li>
    </ul>
 
@@ -107,14 +108,11 @@ Extrait du dossier d'ancien combattant d'Auguste Victor FIEVET.<br />
 <a href="../FIEVET-Auguste-Victor.php">Retour à la page consacrée à Auguste Victor</a>. </p>
 
 <figure>
-<img src="dossier-ancien-combattant.jpg" alt=""/> 
+    <img src="dossier-ancien-combattant.jpg" alt="Dossier d'ancien combattant d'Auguste Victor FIEVET"/> 
 </figure>
 
-<p style="text-align:center;margin-top:130px;font-size: 12px;">
-<?php
-setlocale(LC_ALL,'french'); 
-echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod());
-?> 
+<p class="sources">
+<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
 </p>
 
 </article>

@@ -121,8 +121,8 @@
         <li><a href="poilus/ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="poilus/VELU-Adrien.php">VELU Adrien (+)</a></li>
         <li><a href="poilus/soldats-ardennes.php">Les soldats des Ardennes</a></li>
-        <li><a href="poilus/soldats-marne.php">Les soldats de la Marne</a></li>
-        <li><a href="poilus/autres.php">Les soldats du Nord</a></li>
+        <li><a href="poilus/soldats-marne.php">Autres poilus de la Marne</a></li>
+        <li><a href="poilus/autres.php">Autres poilus du Nord</a></li>
         <li><a href="poilus/soldats-belgique.php">Les soldats de Belgique</a></li>
    </ul>
     

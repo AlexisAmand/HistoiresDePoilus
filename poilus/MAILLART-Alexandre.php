@@ -86,14 +86,14 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="autres.php">Autres poilus du Nord</a></li>
 
         <li class="asideheader">Marne</li>
         
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="MAILLART-Alexandre.php"  class="AsideSelected">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
     	      
    </ul>
    
@@ -134,6 +134,34 @@
 <p>A la mobilisation, <strong>Alexandre</strong> est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des <strong>Sections de Chemins de Fer de Campagne</strong> du 2 août 1914 au 5 janvier 1919. Je sais que, pour de nombreux lecteurs, cette affectation ne fait pas de lui un poilu au sens strict du terme, car il n’était pas dans l’enfer de Verdun ou dans la boue des tranchées. Mais laissez-moi vous raconter la suite.</p>
 
 <p>Il est inscrit au tableau spécial de la médaille militaire d’employé principal de 2e classe à la <strong>6e Section de Chemin de Fer de Campagne</strong> : <em>"Détaché dans une gare depuis le 12 février 1915, il a assuré avec beaucoup de zèle, de sang-froid et sans défaillances le service de cette gare et jusqu’à ce que l’intensité du bombardement sur la ligne et sur la station l’ait obligé à s’en éloigner le 22 février 1916 au soir. Au cours de plus de 20 bombardements dirigés sur la localité et sur la voie ferrée, il a pris a chaque fois que les circonstances l’ont commandé les dispositions convenables pour empêcher les trains de franchir la zone bombardée et assurer leur passage à l’issue du bombardement. (arrêté ministériel du 20-4-16 et J.O du 23-4-16). La gare n'est pas indiquée sur le JO."</em></p>
+
+<table style="width:70%;caption-side: bottom;">
+    <caption>Liste des domiciles ...</caption>
+    <thead>
+        <tr>
+            <td>Dates</td>
+            <td>Adresses</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> </td>
+        </tr>
+    </tbody>   
+</table> 
 
 <h2>Sources et bibliographie</h2>
     

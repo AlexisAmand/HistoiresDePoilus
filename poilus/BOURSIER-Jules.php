@@ -85,14 +85,14 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="autres.php">Autres poilus du Nord</a></li>
 
         <li class="asideheader">Marne</li>
         
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
     	      
    </ul>
   
@@ -132,6 +132,34 @@
       <figcaption>Jules Henri BOURSIER<br/>(cliquez pour agrandir - source: Kamalaa/Geneanet)</figcaption>
     </figure>
 
+<table style="width:70%;caption-side: bottom;">
+    <caption>Liste des domiciles de Jules</caption>
+    <thead>
+        <tr>
+            <td>Dates</td>
+            <td>Adresses</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>30 décembre 1936</td>
+            <td>1 Rue Marcelin Berthelot<br />à Onnaing (Nord).</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+    </tbody>   
+</table>
+
 <br/><h2> La mobilisation d'août 1914</h2>
 
 <p><strong>Jules</strong> est âgé de 35 ans lors de mobilisation. Il est rappelé à l'activité et arrive au <strong>1er Régiment d'Artillerie à Pied</strong> le 2 août 1914. La portion centrale de ce régiment était à Dunkerque avec les 4e, 6e et 7e batteries, la 3e était à Boulogne, la 5e à Calais et enfin les 1ere et 2e étaient à Maubeuge. </p>
@@ -147,7 +175,6 @@
 <br/><h2>La chute de Maubeuge</h2>
 
 <p>Jules Henri BOURSIER est fait prisonnier de guerre à Maubeuge le 7 septembre 1914. Les troupes françaises de Maubeuge capturées à Maubeuge sont ensuite rassemblées à Rousies et une partie (dont Jules) est envoyée en internement  à <a href="../camps/camp-friedrichsfeld.php">Friedrichsfeld (Allemagne)</a>.</p>
-
 
 <br /><h2>La fin du calvaire</h2>
 
@@ -177,12 +204,10 @@
     </a>
     <figcaption>Le Monument aux Morts de la guerre 1914-1918<br />(cliquez pour agrandir)</figcaption>
 </figure>
-    
-    
+       
     <p>Le 5 novembre 1918, la Ville d’Onnaing est libérée. Les Canadiens sont à <a href="http://genealexis.fr/cartes-postales/quarouble.php" title="Histoire de Quarouble">Quarouble</a> et à Rombies et se dirigent vers la frontière belge. Huit soldats canadiens et un anglais sont tués. Ils ont leurs tombes au cimetière d’Onnaing. Le 11 Novembre, l’Allemagne signe l’Armistice à Rethondes avec les Alliés…</p>
     
     <p>Jules est décédé le 30 décembre 1936 à Onnaing, Rue Marcelin Berthelot.</p>
-
 
 <h2>Sources et bibliographie</h2>
     

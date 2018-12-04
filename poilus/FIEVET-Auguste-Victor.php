@@ -85,14 +85,14 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="autres.php">Autres poilus du Nord</a></li>
 
         <li class="asideheader">Marne</li>
         
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
     	      
    </ul>
    
@@ -124,6 +124,34 @@
     </a>
     <figcaption>Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
 </figure>
+
+<table style="width:70%;caption-side: bottom;border:1px solid red;">
+    <caption>Liste des domiciles d'Auguste</caption>
+    <thead>
+        <tr>
+            <td>Dates</td>
+            <td>Adresses</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>8 janvier 1890</td>
+            <td>rue du Grand Balcon<br />à Lille</td>
+        </tr>
+        <tr>
+            <td>11 mars 1922</td>
+            <td>248 rue Jean Jaurès<br />à Anzin</td>
+        </tr>
+        <tr>
+            <td>avril 1930</td>
+            <td>1 rue Jean Jaurès<br />à Petite-Forêt</td>
+        </tr>
+        <tr>
+            <td>17 décembre 1960</td>
+            <td>803 rue Jean Jaures<br />à Bruay-sur-L'Escaut</td>
+        </tr>
+    </tbody>   
+</table>
 
 <br/><h2>La mobilisation d'août 1914</h2>
 

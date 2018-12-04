@@ -84,14 +84,14 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="autres.php">Autres poilus du Nord</a></li>
 
         <li class="asideheader">Marne</li>
         
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
     	      
    </ul>
    
@@ -129,6 +129,34 @@
     <img src="miniatures/joly-noel-jules.jpg" alt="Portrait de Noël Jules JOLY"/></a>
     <figcaption>Portrait de Noël Jules<br />(cliquez pour agrandir)</figcaption>
 </figure>
+
+<table style="width:70%;caption-side: bottom;">
+    <caption>Titre du tableau</caption>
+    <thead>
+        <tr>
+            <td>Dates</td>
+            <td>Adresses</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+    </tbody>   
+</table>
 
 <br/><h2>La mobilisation d'août 1914</h2>
 
@@ -169,9 +197,16 @@
     <figcaption>La Caserne Joyeuse à Maubeuge<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<br/><h2>Prisonnier au camp de Friedrichsfeld</h2>
+<br/><h2>Prisonnier en Allemagne</h2>
 
-<p><strong>Noël Jules</strong> est fait prisonnier le 7 septembre. Les troupes françaises de Maubeuge capturées à Maubeuge sont ensuite rassemblées à Rousies et une partie (dont <strong>Noël Jules JOLY</strong>) est envoyée en internement  à <a href="../camps/camp-friedrichsfeld.php">Friedrichsfeld</a> (Allemagne) et <a href="../camps/camp-munster.php">Munster III</a>. <strong>Noël</strong> sera  interné du 7 septembre 1914 au 18 décembre 1918.</p>
+<figure>
+    <a href="images/matriculejulesjoly.jpg" id="single_image" title=" ">
+    <img src="miniatures/matriculejulesjoly.jpg"  alt=" "/></a>
+    <figcaption> </figcaption>
+</figure>
+
+
+<p><strong>Noël Jules</strong> est fait prisonnier le 7 septembre. Les troupes françaises de Maubeuge capturées à Maubeuge sont ensuite rassemblées à Rousies et une partie (dont <strong>Noël Jules JOLY</strong>) est envoyée en internement  à <a href="../camps/camp-friedrichsfeld.php">Friedrichsfeld</a> (Allemagne) et <a href="../camps/camp-munster.php">Munster III</a>. <strong>Noël</strong> sera  interné à Munster III du 7 septembre 1914 au 18 décembre 1918.</p>
 
 <figure>
     <a href="images/friedrichsfeld-baraque.jpg" id="single_image" title="Une baraque à l'intérieur de camp de prisonniers de Friedrichsfeld">

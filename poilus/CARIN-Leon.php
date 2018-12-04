@@ -85,14 +85,14 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="autres.php">Autres poilus du Nord</a></li>
 
         <li class="asideheader">Marne</li>
         
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
     	      
    </ul>
    
@@ -129,6 +129,34 @@
     </a>
     <figcaption>Extrait de sa fiche matricule.<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
 </figure>
+
+<table style="width:70%;caption-side: bottom;">
+    <caption>Liste des domiciles de Léon</caption>
+    <thead>
+        <tr>
+            <td>Dates</td>
+            <td>Adresses</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+    </tbody>   
+</table>
 
 <p>Léon s'est engagé pour la durée la guerre à la mairie de Roanne, où il vivait en tant que réfugié, le 16 février 1915 au titre du <strong>127e Régiment d'Infanterie</strong>. A la mobilisation, l'infanterie de ligne était composée de 173 régiments qui contenaient chacun 73 officiers et 3200 hommes.</p> 
     

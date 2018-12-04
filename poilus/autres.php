@@ -85,14 +85,14 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php"  class="AsideSelected">Les soldats du Nord</a></li>
+        <li><a href="autres.php"  class="AsideSelected">Autres poilus du Nord</a></li>
 
         <li class="asideheader">Marne</li>
         
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
     	      
    </ul>
    
@@ -124,7 +124,7 @@
 
     <figure>
         <a href="images/mairie-valenciennes.jpg" id="single_image" title="La Place d'Armes de Valenciennes">
-        <img src="miniatures/mairie-valenciennes.jpg" alt="L'Hôtel de Ville de Valenciennes et la Place d'Armes" style="width:450px"/></a>
+        <img src="miniatures/mairie-valenciennes.jpg" alt="L'Hôtel de Ville de Valenciennes et la Place d'Armes"/></a>
         <figcaption>La Place d'Armes de Valenciennes,<br />avec vue sur l'Hôtel de Ville<br>(Source: Delcampe)</figcaption>
     </figure>
 
@@ -159,7 +159,15 @@
  
     <li><strong>Jules Joseph LESAGE</strong> ...<br />
     
-    <table>
+    <table style="width:70%;caption-side: bottom;">
+        <caption>Liste des domiciles de Jules Joseph LESAGE</caption>
+	    <thead>
+	        <tr>
+	            <td>Dates</td>
+	            <td>Adresses</td>
+	        </tr>
+	    </thead>
+	    <tbody>
         <tr>
             <td>13 juillet 1917</td><td>Chez Me Veuve ARSENE<br/>Vieux Coron<br />à Barlin (Pas-de-Calais)</td>
         </tr>
@@ -172,13 +180,50 @@
         <tr>
             <td>8 septembre 1924</td><td>62 Rue de la République<br />à Roeulx (Nord)</td>            
         </tr>
+        </tbody>
     </table>
 
-    <br /><br /></li>
+    </li>
 
 	<li><strong>Alfred PELEZ</strong> (ou PELLEZ selon les sources) est né le 13 juin 1872 à Onnaing, fils de mes ancêtres François PELEZ (1843-1884) et Louise DASNOIS (1847-1878). Avant la guerre, Alfred vit dans le Pas-de-Calais en passant successivement par Annezin (1896), Montigny-en-Gohelle (1896), Fouquières-les-lens (1906) et enfin Rouvroy (1912). Il est rappelé à l'activité par le décret du 1er août 1914 et mis en sursis aux Mines de la Loire dès le 9 février 1915. A l'époque, il vit à Saint Genest-Lerpt dans la Loire.<br /><br /></li>
 	
-    <li><strong>Emile MASCART</strong> est né à Onnaing le 24 janvier 1887, fils légitime de Romain et Marie Thérèse LEBRUN. Mes ancêtres communs avec Emile sont Hierosme MASCART (1658-1720) et Marie MARTIN (1653-1722), un couple originaire de Quarouble. Avant la guerre, Emile exerce la profession de traceur en constructions métalliques chez LEMAIRE et vit rue Saint Joseph à Onnaing. Il est rappelé à l'activité par le décret du 1 août 1914 et arrive au 91 Régiment d'Infanterie le 3. L'année qui suit, le 14 septembre, il est détaché aux Fonderies de Firminy (Loire) où on produit les cannons de 155 mm. Il est affecté au 86e Régiment d'Infanterie par la circulaire ministérielle du 25 mai 1917 mais maintenu détaché. Il est envoyé en congé illimité le 10 avril 1919 et se retire rue d'Estreux à Onnaing où il décède le jeudi 20 février 1941.<br ><br ></li>
+    <li><strong>Emile MASCART</strong> est né à Onnaing le 24 janvier 1887, fils légitime de Romain et Marie Thérèse LEBRUN. Mes ancêtres communs avec Emile sont Hierosme MASCART (1658-1720) et Marie MARTIN (1653-1722), un couple originaire de Quarouble. Avant la guerre, Emile exerce la profession de traceur en constructions métalliques chez LEMAIRE et vit rue Saint Joseph à Onnaing. Il est rappelé à l'activité par le décret du 1 août 1914 et arrive au 91 Régiment d'Infanterie le 3. L'année qui suit, le 14 septembre, il est détaché aux Fonderies de Firminy (Loire) où on produit les cannons de 155 mm. Il est affecté au 86e Régiment d'Infanterie par la circulaire ministérielle du 25 mai 1917 mais maintenu détaché. Il est envoyé en congé illimité le 10 avril 1919 et se retire rue d'Estreux à Onnaing où il décède le jeudi 20 février 1941.<br />
+    
+    <figure>
+	    <a href="http://cartespostalesanciennes.genealexis.fr/image/loire/930-acierie-de-firminy.jpg" id="single_image" title="Les Fonderies de Firminy (Loire)">
+	    <img src="http://cartespostalesanciennes.genealexis.fr/image/loire/930-acierie-de-firminy.jpg" width="450px" alt="Les Fonderies de Firminy dans la Loire"/></a>
+	    <figcaption>Les Fonderies de Firminy (Loire)</figcaption>
+    </figure>
+    
+    <table style="width:70%;caption-side: bottom;">
+        <caption>Liste des domiciles d'Emile MASCART</caption>
+	    <thead>
+	        <tr>
+	            <td>Dates</td>
+	            <td>Adresses</td>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td>1906</td>
+	            <td>Rue Saint Joseph<br />à Onnaing (Nord)</td>
+	        </tr>
+	        <tr>
+	            <td>1914-1918</td>
+	            <td>Il est détaché<br />aux Fonderies de Firminy (Loire)</td>
+	        </tr>
+	        <tr>
+	            <td>5 janvier 1929</td>
+	            <td>12 rue Etienne DOLET<br />à Onnaing (Nord)</td>
+	        </tr>
+	        <tr>
+	            <td>20 février 1941</td>
+	            <td>17 rue d'Estreux<br />à Onnaing (Nord)</td>           
+	        </tr>
+        </tbody>
+    </table>
+    
+    </li>
 
 	<li><strong>Léon MASCART</strong> est né à Onnaing le 30 janvier 1874. Avant la guerre (1906), il est mineur à la Fosse de Cuvinot et vit "au Trié" à Onnaing avec son épouse Maire FINET. frère d'Emile (ci-dessus), il est maintenu en surcis aux Mines d'Anzin à la mobilisation. Le 17 décembre 1914, par le bulletin n°63, il est mis en sursis aux mines de Bruay (Pas-de-Calais) où il est entré en fonction le 28 octobre de la même année. Il est rayé de la mine le 15 janvier 1919 et est envoyé en congés illimité le 12 février 1919. Il se retire à Onnaing, Rue de l'Eglise.<br /><br /></li>
 	

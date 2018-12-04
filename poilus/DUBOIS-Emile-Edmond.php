@@ -85,14 +85,14 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="autres.php">Autres poilus du Nord</a></li>
 
         <li class="asideheader">Marne</li>
         
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
     	      
    </ul>
    
@@ -127,8 +127,36 @@
     <a href="images/census-villers-guislain-1906.jpg" id="single_image" title="Extrait du recensement de Villers-Guislain">
     <img src="miniatures/census-villers-guislain-1906.jpg" alt="Extrait du recensement de Villers-Guislain de 1906">
     </a>
-    <figcaption>Extrait du recensement de Villers-Guislain<br />(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption> 
+    <figcaption>Extrait du recensement de Villers-Guislain (1906)<br />(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption> 
 </figure>
+
+<table style="width:70%;caption-side: bottom;">
+    <caption>Liste des domiciles d'Emile</caption>
+    <thead>
+        <tr>
+            <td>Dates</td>
+            <td>Adresses</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+    </tbody>   
+</table>
 
 <br/><h2>La mobilisation d'août 1914</h2>
 
@@ -178,8 +206,8 @@
     <p>L'historique du 294e R.I continue :<em> "Le repli ennemi s’est arrêté ; les Allemands sont solidement organisés au Sud de Roye. Le Régiment en première ligne vient s’installer aussitôt débarqué à cheval sur la voie ferrée Roye – Compiègne à la hauteur du passage à niveau de Beuvraigne et de l’église de ce village où nos patrouilles se sont heurtées aux avants postes ennemis."</em></p> 
         
 <figure>
-    <a href="images/Beuvraignes-1914jpg.jpg" id="single_image" title="Beuvraignes pendant la Grande Guuerre">
-    <img src="miniatures/Beuvraignes-1914jpg.jpg"  alt="Le village de Beuvraignes pendant la Première Guerre Mondiale"/></a>
+    <a href="images/Beuvraignes-1914.jpg" id="single_image" title="Beuvraignes pendant la Grande Guuerre">
+    <img src="miniatures/Beuvraignes-1914.jpg"  alt="Le village de Beuvraignes pendant la Première Guerre Mondiale"/></a>
     <figcaption>Le village de Beuvraignes pendant la Grande Guerre<br/>(source: Wikipedia - cliquez pour agrandir)</figcaption>
 </figure>        
         
@@ -213,8 +241,7 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
-       
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>      
     </ul>
 
 <p class="sources">

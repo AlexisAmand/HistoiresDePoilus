@@ -85,14 +85,14 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="autres.php">Autres poilus du Nord</a></li>
 
         <li class="asideheader">Marne</li>
         
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
     	      
    </ul>
    
@@ -141,7 +141,7 @@
 
 <figure>
     <a href="sources/Carin-Edouard-livre-dor.jpg" id="single_image">
-    <img src="miniatures/Carin-Edouard-livre-dor.jpg" alt="Extrait du livre d'or des morts pour la France de la commune de "/>
+    <img src="miniatures/Carin-Edouard-livre-dor.jpg" alt="Extrait du livre d'or des morts pour la France de la commune de Roeulx"/>
     </a>
     <figcaption>Edouard dans le livre d'or des morts pour la France<br/>(cliquez pour agrandir - source: Archives Nationales)</figcaption>
 </figure>

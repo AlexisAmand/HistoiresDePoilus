@@ -85,14 +85,14 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="autres.php">Autres poilus du Nord</a></li>
 
         <li class="asideheader">Marne</li>
         
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
     	      
    </ul>
   
@@ -142,8 +142,8 @@
 <p>Du 20 août 1906 au 16 septembre 1906,  <strong>Théophile</strong> accomplit une première période d'exercice au sein du <strong>127e Régiment d’Infanterie</strong> qui est en garnison à Valenciennes depuis 1873. Du 1er juin 1909 au  17 juin 1909, il accomplit une 2e période d'exercice (toujours au sein du <strong>127e Régiment d’Infanterie</strong>). Les périodes d'exercice étaient organisées afin que ces réservistes restent opérationnels, même 10 ans après la fin de leur service militaire, trois périodes d'exercices sont organisées par les différentes lois de recrutement et circulaires ministérielles.</p>
 
 <figure>
-    <a href="sources/CARIN-matricule-01.jpg" id="single_image" title="Théophile CARIN - Extrait de sa fiche matricule">
-    <img src="miniatures/CARIN-matricule-01.jpg" alt="Extrait de la fiche matricule de Théophile CARIN"/>
+    <a href="sources/CARIN-matricule-01.jpg" id="single_image" title="Extrait de la fiche matricule de Théophile CARIN">
+    <img src="miniatures/CARIN-matricule-01.jpg" alt="Les périodes d'exercices de Théophile CARIN sur sa fiche matricule"/>
     </a>
     <figcaption>Extrait de sa fiche matricule<br />(Cliquez pour agrandir)</figcaption>
 </figure>
@@ -157,13 +157,41 @@
     <figcaption>Le tribunal d'Arras<br />(Cliquez pour agrandir)</figcaption>
 </figure>
 
+<table style="width:70%;caption-side: bottom;">
+    <caption>Liste des domiciles de Théophile</caption>
+    <thead>
+        <tr>
+            <td>Dates</td>
+            <td>Adresses</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+    </tbody>   
+</table>
+
 <h2>La mobilisation d'août 1914</h2>
   
 <p>Mobilisation générale! Comme la plupart des hommes de sa génération, <strong>Théophile</strong> est rappelé à l’activité et  arrive au <strong>1er groupe spécial</strong> le 6 août. À la mobilisation, chaque Corps d'Armée soulevait un <strong>Groupe Spécial</strong> (le numéro est celui du Corps d'Armée). Dans ces groupes étaient reversés les condamnés réservistes.</p>
   
 <figure>
-    <a href="sources/CARIN-matricule-02.jpg" id="single_image" title="Théophile CARIN - Extrait de sa fiche matricule">
-    <img src="miniatures/CARIN-matricule-02.jpg" alt="Extrait de la fiche matricule de Théophile CARIN"/>
+    <a href="sources/CARIN-matricule-02.jpg" id="single_image" title="Extrait de la fiche matricule de Théophile CARIN">
+    <img src="miniatures/CARIN-matricule-02.jpg" alt="La condamnation à de la prison sur la fiche matricule de Théophile CARIN"/>
     </a>
     <figcaption>Extrait de sa fiche matricule<br />(Cliquez pour agrandir)</figcaption>
 </figure>

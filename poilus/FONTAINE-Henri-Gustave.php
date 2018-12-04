@@ -84,14 +84,14 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="autres.php">Autres poilus du Nord</a></li>
 
         <li class="asideheader">Marne</li>
         
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
     	      
    </ul>
    
@@ -117,17 +117,45 @@
 
 <figure>
     <a href="images/anzin-rue-kleber.jpg" id="single_image" title="La rue Kléber à Anzin">
-    <img src="miniatures/anzin-rue-kleber.jpg" alt="La rue Kléber à Anzin"/></a>
-    <figcaption>La Rue Kléber à Anzin<br />(Source: BM de Valenciennes)</figcaption>
+    <img src="miniatures/anzin-rue-kleber.jpg" alt="La rue Kléber à Anzin sur une carte postale"/></a>
+    <figcaption>La Rue Kléber à Anzin<br />(Source: Bibliothèque municipale de Valenciennes)</figcaption>
 </figure>
 
     <p>Il s'unit à Valenciennes (Nord) avec Bertha CANONNE le 3 avril 1914. Bertha est la fille légitime de Nestor CANONNE et de Marie Eugénie DUCHÊNE. Le couple aura plusieurs enfants: Henri, Madeleine (mon arrière-grand-mère, qui épousera Kleber le fils de <a href="FIEVET-Charles-Augustin.php" title="Voir la page consacrée à Charles Augustin Fievet">Charles Augustin FIEVET</a>), René, Marcel et Marie-Louise.</p>
 
 <figure>
     <a href="portraits/tous-les-grand-peres.jpg" id="single_image" title="La famille FONTAINE">
-    <img src="miniatures/tous-les-grand-peres.jpg" alt="La famille FONTAINE "/></a>
+    <img src="miniatures/tous-les-grand-peres.jpg" alt="La famille FONTAINE"/></a>
     <figcaption>Henri Gustave, debout avec le chapeau<br />(Source: Archives familiales)</figcaption>
 </figure>
+
+<table style="width:70%;caption-side: bottom;">
+    <caption>Titre du tableau</caption>
+    <thead>
+        <tr>
+            <td>Dates</td>
+            <td>Adresses</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+    </tbody>   
+</table>
 
 <h2>La mobilisation d'août 1914</h2>
 

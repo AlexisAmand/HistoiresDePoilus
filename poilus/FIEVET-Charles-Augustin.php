@@ -75,14 +75,14 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="autres.php">Autres poilus du Nord</a></li>
 
         <li class="asideheader">Marne</li>
         
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
     	      
    </ul>
    
@@ -119,6 +119,38 @@
     </a>
     <figcaption>Charles Augustin FIEVET<br />(Source: Archives familiales)</figcaption>
 </figure>
+
+<table style="width:70%;caption-side: bottom;">
+    <caption>Liste des domiciles de Charles Augustin</caption>
+    <thead>
+        <tr>
+            <td>Dates</td>
+            <td>Adresses</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>3 décembre 1882</td>
+            <td>Rue de Poids<br/>à Lille</td>
+        </tr>
+        <tr>
+            <td>25 septembre 1908</td>
+            <td>Rue du Grand Balcon<br/>Impasse Saint Henri<br />à Lille</td>
+        </tr>
+        <tr>
+            <td>8 février 1914</td>
+            <td>73 Rue du Chauffour<br />(Gué du dit)<br />à Valenciennes</td>
+        </tr>
+        <tr>
+            <td>8 avril 1922</td>
+            <td>248 Rue Jean Jaurés<br />à Anzin</td>
+        </tr>       
+        <tr>
+            <td>16 février 1928</td>
+            <td>149 Rue du Chauffour<br />à Valenciennes</td>
+        </tr>
+    </tbody>   
+</table>
 
 <p>La photo ci-dessus date sans doute du début des années 20. Il s'agit d'un extrait d'une photo de groupe prise lors du conseil de révision de son fils Charles Jules Henri. De gauche à droite, on trouve Kleber Camille (né en 1910, fils de Charles Augustin), Charles Jules (pére de Charles Augustin), Charles Jules Henri (né en 1903) et Charles Augustin... j'espère que vous avez suivi avec attention...</p>
 

@@ -84,14 +84,14 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="autres.php">Autres poilus du Nord</a></li>
 
         <li class="asideheader">Marne</li>
         
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
     	      
    </ul>
    
@@ -123,6 +123,34 @@
 </figure>
 
 <p>Comme lui, il est le fils de Druon Joseph CARLIER et de Sidonie Célestine PATOU. Ouvrier agricole chez LENGRAND à Sebourg, Louis s'unit avec Volaine GRAVELLE. Le couple aura 5 enfants: Valérine (née en 1869), Louis Druon (né en 1898), Yvonne (née en 1901), Louise (née en 1903) et Blondine Clémence (née en 1908). En 1906, il est ouvrier agricole chez Lengrand et vit à Sebourg (Rue de l'église) avec son épouse, Volcide GRAVELLE, et ses 4 enfants: Olia, Louis, Yvonne et Louise.</p>
+
+<table style="width:70%;caption-side: bottom;">
+    <caption>Liste des domiciles de Louis</caption>
+    <thead>
+        <tr>
+            <td>Dates</td>
+            <td>Adresses</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+    </tbody>   
+</table>
 
 <br/><h2>La mobilisation d'août 1914</h2>
 
@@ -198,8 +226,8 @@
     </p>
 
 <figure>
-    <a href="images/convoi-08111918.jpg" id="single_image">
-    <img src="miniatures/convoi-08111918.jpg">
+    <a href="images/convoi-08111918.jpg" id="single_image" title="Convoi de l'internement du 8 novembre 1918">
+    <img src="miniatures/convoi-08111918.jpg" alt="Convoi de l'internement du 8 novembre 1918">
     </a>
     <figcaption>Convoi de l'internement du 8 novembre 1918<br />(cliquez pour agrandir)</figcaption>
 </figure>

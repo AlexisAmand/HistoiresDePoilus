@@ -87,14 +87,14 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php"  class="AsideSelected">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="autres.php">Autres poilus du Nord</a></li>
 
         <li class="asideheader">Marne</li>
         
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
     	      
    </ul>
    
@@ -123,6 +123,34 @@
     <img src="miniatures/matricule-adrien-velu.jpg" alt="Extrait de la fiche matricule d'Adrien VELU"/></a>
     <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir - Archives Départementales du Nord)</figcaption>
 </figure>
+
+<table style="width:70%;caption-side: bottom;">
+    <caption>Titre du tableau</caption>
+    <thead>
+        <tr>
+            <td>Dates</td>
+            <td>Adresses</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+    </tbody>   
+</table>
 
 <p>Inscrit sous le n°1 de la liste de Marcoing, Adrien est incorporé au <strong>1er Régiment d'Infanterie</strong> qu'il rejoint le 3 octobre 1910 en tant que soldat de 2e classe. Il est envoyé en congé le 25 septembre 1912 en attendant son passage dans la réserve de l'armée active avec <em>certificat de bonne conduite accordé.</em></p>
 

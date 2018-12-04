@@ -85,14 +85,14 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="autres.php">Autres poilus du Nord</a></li>
 
         <li class="asideheader">Marne</li>
         
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
     	      
    </ul>
    
@@ -121,6 +121,34 @@
         <img src="miniatures/arbre-hanze.png" alt="Arbre généalogique simplifié de la famille HANZE" style="box-shadow:none;width:650px;"/></a>
         <figcaption>Arbre simplifié de la famille HANZE<br />(cliquez pour agrandir)</figcaption>
     </figure>
+
+<table style="width:70%;caption-side: bottom;">
+    <caption>Liste des domiciles d'Auguste HANZE</caption>
+    <thead>
+        <tr>
+            <td>Dates</td>
+            <td>Adresses</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>11 avril 1906</td>
+            <td>Route Nationale<br /> à Cousolre (Nord)</td>
+        </tr>
+        <tr>
+            <td>20 janvier 1910</td>
+            <td>10 rue du Pont-Neuf<br />à Valenciennes (Nord)</td>
+        </tr>
+        <tr>
+            <td>2 octobre 1910</td>
+            <td>119 rue de Lille<br />à Valenciennes (Nord)</td>
+        </tr>
+        <tr>
+            <td>15 novembre 1912</td>
+            <td>rue de Maubeuge<br /> à Cousolre (Nord)</td>
+        </tr>
+    </tbody>   
+</table>    
 
 <p>Rappelé à l'activité par le décret de Mobilisation Générale du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux-ges.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le <a href="../releves/cousolre.php">Monument aux Morts de cousolre</a> (où il était né) et sur les plaques commémoratives du square de l’Armistice à Carcassonne (où il était serrurier).</p>
 

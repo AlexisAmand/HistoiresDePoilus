@@ -86,14 +86,14 @@
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Les soldats du Nord</a></li>
+        <li><a href="autres.php">Autres poilus du Nord</a></li>
 
         <li class="asideheader">Marne</li>
         
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
         <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Les soldats de la Marne</a></li>
+        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
     	      
    </ul>
    
@@ -119,9 +119,37 @@
 
 <figure>
     <a href="sources/Froidurot-Alfred-naissance-1898.jpg" id="single_image" title="Acte de naissance d'Alfred Froidurot">
-    <img src="miniatures/Froidurot-Alfred-naissance-1898.jpg"></a>
+    <img src="miniatures/Froidurot-Alfred-naissance-1898.jpg"  alt="Acte de naissance d'Alfred Froidurot"></a>
     <figcaption>Acte de naissance d'Alfred FROIDUROT<br />(source: Archives Départementales du Nord)</figcaption>
 </figure>
+
+<table style="width:70%;caption-side: bottom;">
+    <caption>Titre du tableau</caption>
+    <thead>
+        <tr>
+            <td>Dates</td>
+            <td>Adresses</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+    </tbody>   
+</table>
 
 <p>Alfred a tout juste 17 ans quand, le 2 juillet 1915 à Dijon, il s'engage comme volontaire pour la durée de la guerre au 17e Régiment de Dragons.</p> 
 
@@ -135,7 +163,7 @@
 
 <figure>
     <a href="images/villa-montfleury-cannes.jpg" id="single_image" title="La Villa Montfleury à Cannes">
-    <img src="miniatures/villa-montfleury-cannes.jpg"></a>
+    <img src="miniatures/villa-montfleury-cannes.jpg" alt="La Villa Montfleury sur une carte postale ancienne de Cannes"></a>
     <figcaption>La Villa Montfleury<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
@@ -143,15 +171,14 @@
 
 <figure>
     <a href="sources/Dossier-Leonore-Alfred.jpg" id="single_image" title="Extrait du dossier de la Légion d'Honneur d'Alfred Froidurot">
-    <img src="miniatures/Dossier-Leonore-Alfred.jpg"></a>
+    <img src="miniatures/Dossier-Leonore-Alfred.jpg" alt="Extrait du dossier de la Légion d'Honneur"></a>
     <figcaption>Extrait du dossier de Légion d'Honneur<br />(source: Archives Nationales)</figcaption>
 </figure>
 
 <h2>Sources et bibliographie</h2>
     
     <ul>
-         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
-       
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>       
     </ul>
 
 <p class="sources">
