@@ -123,45 +123,78 @@
     <figcaption>Arbre simplifié de la famille MAILLART-BALTAZART<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<p>Le 18 septembre 1899, Alexandre épouse à Boult-sur-Suippe (Marne) Marie Berthe GAUCHET, âgée de 25 ans, fille légitime d’Hyppolyte et Marie-Zélie SOMMELIER. Lors de son mariage, Alexandre travaille pour la Compagnie des Chemins de Fer de l’Est. Leur fils Marcel naît à Bar-le-Duc (Meuse) le 9 mai 1901, rue des romains.</p>
-
 <figure>
     <a href="images/matricule-alexandre-maillart.jpg" id="single_image" title="Extrait de sa fiche matricule">
     <img src="miniatures/matricule-alexandre-maillart.jpg" alt="Extrait de la fiche matricule d'Alexandre MAILLART"/></a>
     <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
-<p>A la mobilisation, <strong>Alexandre</strong> est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des <strong>Sections de Chemins de Fer de Campagne</strong> du 2 août 1914 au 5 janvier 1919. Je sais que, pour de nombreux lecteurs, cette affectation ne fait pas de lui un poilu au sens strict du terme, car il n’était pas dans l’enfer de Verdun ou dans la boue des tranchées. Mais laissez-moi vous raconter la suite.</p>
-
-<p>Il est inscrit au tableau spécial de la médaille militaire d’employé principal de 2e classe à la <strong>6e Section de Chemin de Fer de Campagne</strong> : <em>"Détaché dans une gare depuis le 12 février 1915, il a assuré avec beaucoup de zèle, de sang-froid et sans défaillances le service de cette gare et jusqu’à ce que l’intensité du bombardement sur la ligne et sur la station l’ait obligé à s’en éloigner le 22 février 1916 au soir. Au cours de plus de 20 bombardements dirigés sur la localité et sur la voie ferrée, il a pris a chaque fois que les circonstances l’ont commandé les dispositions convenables pour empêcher les trains de franchir la zone bombardée et assurer leur passage à l’issue du bombardement. (arrêté ministériel du 20-4-16 et J.O du 23-4-16). La gare n'est pas indiquée sur le JO."</em></p>
+<p>Le 18 septembre 1899, Alexandre épouse à Boult-sur-Suippe (Marne) Marie Berthe GAUCHET, âgée de 25 ans, fille légitime d’Hyppolyte et Marie-Zélie SOMMELIER. Lors de son mariage, Alexandre travaille pour la Compagnie des Chemins de Fer de l’Est. Leur fils Marcel naît à Bar-le-Duc (Meuse) le 9 mai 1901, rue des romains.</p>
 
 <table style="width:70%;caption-side: bottom;">
-    <caption>Liste des domiciles ...</caption>
+    <caption>Liste des domiciles d'Alexandre</caption>
     <thead>
         <tr>
             <td>Dates</td>
             <td>Adresses</td>
+            <td>Evénements Liés</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td> </td>
-            <td> </td>
+            <td>24 juillet 1874</td>
+            <td>Bétheniville (Marne)</td>
+            <td>Il naît chez ses parents.</td>
         </tr>
         <tr>
-            <td> </td>
-            <td> </td>
+        	<td>1876</td>
+        	<td>Rue de Pontfaverger<br />Chez ses parents<br />à Bétheniville</td>
+        	<td>Recensement de la population</td>
         </tr>
         <tr>
-            <td> </td>
-            <td> </td>
+        	<td>1881</td>
+        	<td>Rue du Neuf-Bourg<br />Chez ses parents<br />à Bétheniville</td>
+        	<td>Recensement de la population</td>
+        </tr>      
+        <tr>
+            <td>13 avril 1899</td>
+            <td>Pontfaverger (Marne)</td>
+            <td>Mise à jour de sa fiche matricule</td>
         </tr>
         <tr>
-            <td> </td>
-            <td> </td>
+            <td>11 janvier 1900</td>
+            <td>22 Rue des Romains<br />à Bar-le-Duc (Meuse)</td>
+            <td>Mise à jour de sa fiche matricule</td>
         </tr>
+        <tr>
+            <td>9 mai 1901</td>
+            <td>22 Rue des Romains<br />à Bar-le-Duc (Meuse)</td>
+            <td>Naissance de son fils Marcel</td>
+        </tr>
+        <tr>
+        	<td>1914-1919</td>
+        	<td colspan="2">Pendant la Grande Guerre, il est maintenu à son emploi au titre de la section des chemins de fer de campagne.</td>
+        </tr>	
     </tbody>   
-</table> 
+</table>
+
+<p>A la mobilisation, <strong>Alexandre</strong> est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des <strong>Sections de Chemins de Fer de Campagne</strong> du 2 août 1914 au 5 janvier 1919. Je sais que, pour de nombreux lecteurs, cette affectation ne fait pas de lui un poilu au sens strict du terme, car il n’était pas dans l’enfer de Verdun ou dans la boue des tranchées. Mais laissez-moi vous raconter la suite.</p>
+
+<p>Il est inscrit au tableau spécial de la médaille militaire d’employé principal de 2e classe à la <strong>6e Section de Chemin de Fer de Campagne</strong> : <em>"Détaché dans une gare depuis le 12 février 1915, il a assuré avec beaucoup de zèle, de sang-froid et sans défaillances le service de cette gare et jusqu’à ce que l’intensité du bombardement sur la ligne et sur la station l’ait obligé à s’en éloigner le 22 février 1916 au soir. Au cours de plus de 20 bombardements dirigés sur la localité et sur la voie ferrée, il a pris a chaque fois que les circonstances l’ont commandé les dispositions convenables pour empêcher les trains de franchir la zone bombardée et assurer leur passage à l’issue du bombardement. (arrêté ministériel du 20-4-16 et J.O du 23-4-16)."</em></p>
+
+<p>La gare n'est pas indiquée sur le JO.</p>
+
+<figure>
+    <a href="images/bethenville-place-munet-02.jpg" id="single_image" title="La Place du Munet avant la Grande Guerre">
+    <img src="miniatures/bethenville-place-munet-02.jpg" alt="La Place du Munet à Bétheniville où a vécu Alexandre MAILLART"/></a>
+    <figcaption>La Place du Munet avant la Grande Guerre<br />(cliquez pour agrandir)</figcaption>
+</figure>
+
+<figure>
+    <a href="images/bethenville-place-munet-01.jpg" id="single_image" title="La Place du Munet aprés la Grande Guerre">
+    <img src="miniatures/bethenville-place-munet-01.jpg" alt="La Place du Munet à Bétheniville où a vécu Alexandre MAILLART"/></a>
+    <figcaption>La Place du Munet aprés la Grande Guerre<br />(cliquez pour agrandir)</figcaption>
+</figure>
 
 <h2>Sources et bibliographie</h2>
     
