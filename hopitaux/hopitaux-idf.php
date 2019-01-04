@@ -122,7 +122,7 @@
 
     <figure>
     <a href="images/paris-chaptal.jpg" id="single_image" title=" ">
-    <img src="miniatures/paris-chaptal.jpg" alt=" "></a>
+    <img src="miniatures/paris-chaptal.jpg" alt="Hôpital temporaire Chaptal à Paris pendant la Grande Guerre"></a>
    		<figcaption>Hôpital temporaire Chaptal,<br />rue de Rome à Paris</figcaption>
     </figure>
 

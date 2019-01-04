@@ -121,8 +121,8 @@
 </ul>
 
 <figure>
-    <a href="images/mont-homme.jpg" id="single_image" title=" ">
-    <img src="miniatures/mont-homme.jpg" alt=" " style="box-shadow:none"></a>
+    <a href="images/mont-homme.jpg" id="single_image" title="Les ascendants d'Ernest Auguste BALTAZART">
+    <img src="miniatures/mont-homme.jpg" alt="Extrait de l'arbre généalogique d'Ernest Auguste BALTAZART" style="box-shadow:none"></a>
     <figcaption>Les ascendants d'Ernest Auguste BALTAZART<br />(cliquez pour agrandir)</figcaption>
 </figure> 
 

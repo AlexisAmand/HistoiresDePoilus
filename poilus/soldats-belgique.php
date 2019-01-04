@@ -120,8 +120,7 @@
 
     <figure>
         <a href="sources/amand-jules.jpg" id="single_image" title=" ">
-        <img src="miniatures/amand-jules.jpg" alt=" "/>
-        </a>
+        <img src="miniatures/amand-jules.jpg" alt=" "/></a>
         <figcaption> </figcaption>
     </figure>
 

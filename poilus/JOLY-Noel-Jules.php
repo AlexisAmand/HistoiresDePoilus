@@ -200,9 +200,9 @@
 <br/><h2>Prisonnier en Allemagne</h2>
 
 <figure>
-    <a href="images/matriculejulesjoly.jpg" id="single_image" title=" ">
-    <img src="miniatures/matriculejulesjoly.jpg"  alt=" "/></a>
-    <figcaption> </figcaption>
+    <a href="images/matriculejulesjoly.jpg" id="single_image" title="Extrait de sa fiche matricule">
+    <img src="miniatures/matriculejulesjoly.jpg"  alt="Extrait de la fiche matricule de Jules Joly"/></a>
+    <figcaption>Extrait de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
 </figure>
 
 
