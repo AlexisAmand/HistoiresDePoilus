@@ -1,38 +1,55 @@
 ﻿@charset "utf-8";
+
 body{color:#3b4247;font-family:'Open Sans',sans-serif;background-attachment:fixed;background-repeat:repeat;background-position:center top;background-color:#3b4247;background-image:url(../images/fond3.jpg);margin:0}
+
 .sources{text-align:center;margin-top:130px;font-size:12px}
+
 h1{font-size:26px;margin-bottom:30px}
 h3{font-size:22px;margin-bottom:12px}
 h2{font-size:16px;margin-bottom:12px}
 *{margin:0;padding:0}
+
 a:link{color:#000;text-decoration:underline}
 a:visited,a:hover{color:#3b4247;text-decoration:underline}
+
 nav{background-color:#364046;height:41px;width:960px;margin-left:auto;margin-right:auto;text-align:center;padding-bottom:5px}
 nav a:link,nav a:visited{float:right;display:block;background-color:#5b5b5b;width:100px;padding:8px;text-align:center;margin-left:3px;color:#e2ede4;text-decoration:none}
 nav a:hover{float:right;display:block;width:100px;padding:8px;text-align:center;margin-left:3px;color:#5b5b5b;background-color:#e2ede4;text-decoration:none}
 nav a.NavSelected{height:30px;background-color:#eFeFeF;color:#5b5b5b}
-header{background-color:#364046;height:175px;width:960px;margin-left:auto;margin-right:auto;margin-top:0}
-header a:link{color:#e2ede4;text-decoration:none}
-header a:hover{color:#e2ede4;text-decoration:underline}
+
 article{background-color:#eFeFeF;padding:20px;margin-left:200px;display:table-cell;padding-top:0}
 article img{box-shadow:1px 1px 12px #555;margin-bottom:6px;margin-top:12px}
 article p{text-align:justify;margin-bottom:15px;font-size:.9em}
 article ul li{text-align:justify;margin-left:35px;font-size:14px}
 article .right{text-align:right}
 
-aside ul{margin-top:1px;list-style-type:none;border-top:1px solid #e2ede4}
-aside ul li{border-bottom:1px solid#e2ede4}
-aside ul li a:link,aside ul li a:visited{display:block;color:#e2ede4;text-decoration:none;padding:6px;font-size:14px;padding-left:13px}
-aside ul li a:hover{display:block;color:#5b5b5b;background-color:#e2ede4;text-decoration:none;padding:6px;font-size:14px;padding-left:13px}
-aside ul li a.AsideSelected{color:#5b5b5b;background-color:#FFF;margin-right:-15px}
 section{width:960px;margin-left:auto;margin-right:auto;margin-top:0;display:table;background-color:#efefef;padding-top:25px}
-.menu{float:left;width:200px;height:200px;margin-left:13px;margin-right:14px;margin-top:25px;background-color:#B5AB8D;color:#3b4247}
-.menu h4{text-align:center;color:#3b4247}
-.menu ul li a:link,.menu ul li a:visited{text-decoration:none;color:#3b4247}
-.menu ul li a:hover{text-decoration:underline;color:#3b4247}
-footer{background-color:#3b4247;text-align:center;padding-top:15px;padding-bottom:15px;color:#FFF;font-size:12px;width:960px;margin-left:auto;margin-right:auto}
-footer a:link{color:#e2ede4;text-decoration:none}
-footer a:visited,footer a:hover{color:#e2ede4;text-decoration:underline}
+
+#navbis{width:957px;margin-left:auto;margin-right:auto;background-color:#5b5b5b;color:#e2ede4;font-size:.9em;text-align:center;padding-top:4px;padding-bottom:4px}
+#navbis a:link,#navbis a:visited{color:#e2ede4;text-decoration:none;padding:4px}
+#navbis a:hover{color:#5b5b5b;background-color:#e2ede4;text-decoration:none;padding:4px}
+
+#colindex{-moz-column-count:2;-webkit-column-count:2;-o-column-count:2;column-count:2;-moz-column-gap:40px;-webkit-column-gap:40px;-o-column-gap:40px;column-gap:40px;-webkit-column-rule-width:1px;-webkit-column-rule-color:silver;-webkit-column-rule-style:dashed;-moz-column-rule-width:1px;-moz-column-rule-color:silver;-moz-column-rule-style:dashed;-o-column-rule-width:1px;-o-column-rule-color:silver;-o-column-rule-style:dashed;column-rule-width:1px;column-rule-color:silver;column-rule-style:dashed;text-align:justify}
+#colindex img{box-shadow:1px 1px 12px #555}
+#colindex figure{text-align:center;color:#363535;font-size:12px;margin-bottom:35px}
+
+/* ------ */
+/* Header */
+/* ------ */
+
+header{background-color:#364046;height:175px;width:960px;margin-left:auto;margin-right:auto;margin-top:0}
+header a:link{color:#e2ede4;text-decoration:none}
+header a:hover{color:#e2ede4;text-decoration:underline}
+
+#rezo{float:right;padding-right:15px}
+#rezo img{width:50px;height:50px;padding-top:24px;padding-right:7px}
+
+.logo {margin-top:40px; margin-left:72px;}
+
+/* ----------------- */
+/* JQUERY - Fancybox */
+/* ----------------- */
+
 #single_image{text-decoration:none}
 
 #fancybox-loading{position:fixed;top:50%;left:50%;width:40px;height:40px;margin-top:-20px;margin-left:-20px;cursor:pointer;overflow:hidden;z-index:1104;display:none}
@@ -96,46 +113,26 @@ footer a:visited,footer a:hover{color:#e2ede4;text-decoration:underline}
 .fancybox-ie #fancybox-bg-w{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='fancybox/fancy_shadow_w.png',sizingMethod='scale')}
 .fancybox-ie #fancybox-bg-nw{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='fancybox/fancy_shadow_nw.png',sizingMethod='scale')}
 
-td{border-width:1px;border-style:solid;border-color:#3a4247;padding:5px}
-thead{background-color:#D3CECE}
-tr{height:47px}
-#rezo{float:right;padding-right:15px}
-#rezo img{width:50px;height:50px;padding-top:24px;padding-right:7px}
-figure{text-align:center;color:#363535;font-size:12px;margin-bottom:35px}
-.video{text-align:center;margin-bottom:45px}
+/* ----- */
+/* Aside */
+/* ----- */
 
-
-#navbis{width:957px;margin-left:auto;margin-right:auto;background-color:#5b5b5b;color:#e2ede4;font-size:.9em;text-align:center;padding-top:4px;padding-bottom:4px}
-#navbis a:link,#navbis a:visited{color:#e2ede4;text-decoration:none;padding:4px}
-#navbis a:hover{color:#5b5b5b;background-color:#e2ede4;text-decoration:none;padding:4px}
-#colindex{-moz-column-count:2;-webkit-column-count:2;-o-column-count:2;column-count:2;-moz-column-gap:40px;-webkit-column-gap:40px;-o-column-gap:40px;column-gap:40px;-webkit-column-rule-width:1px;-webkit-column-rule-color:silver;-webkit-column-rule-style:dashed;-moz-column-rule-width:1px;-moz-column-rule-color:silver;-moz-column-rule-style:dashed;-o-column-rule-width:1px;-o-column-rule-color:silver;-o-column-rule-style:dashed;column-rule-width:1px;column-rule-color:silver;column-rule-style:dashed;text-align:justify}
-#colindex img{box-shadow:1px 1px 12px #555}
-#colindex figure{text-align:center;color:#363535;font-size:12px;margin-bottom:35px}
-.logo {margin-top:40px; margin-left:72px;}
-#pubaside{text-align:center;margin-top:20px;}
-
-/* largeur des tableaux pour les batailles */
-
-.l25
-	{
-	width:25%;
-	}
-
-/* ------------- */
-/* nouveau aside */
-/* ------------- */
-
-aside{width:200px;/*float:left*/;background-color:#5b5b5b;
-	
-	display:table-cell;
-}
+aside ul{margin-top:1px;list-style-type:none;border-top:1px solid #e2ede4}
+aside ul li{border-bottom:1px solid#e2ede4}
+aside ul li a:link,aside ul li a:visited{display:block;color:#e2ede4;text-decoration:none;padding:6px;font-size:14px;padding-left:13px}
+aside ul li a:hover{display:block;color:#5b5b5b;background-color:#e2ede4;text-decoration:none;padding:6px;font-size:14px;padding-left:13px}
+aside ul li a.AsideSelected{color:#5b5b5b;background-color:#FFF;margin-right:-15px}
+aside{width:200px;/*float:left*/;background-color:#5b5b5b;display:table-cell;}
 
 .asideheader {border-left: 5px solid #e1ede3;padding: 6px;padding-left: 6px;font-size: 14px;padding-left: 13px;color: #e1ede3;background-color: #364046;}
 
-/* -------------- */
+#pubaside{text-align:center;margin-top:20px;}
 
+/* -------- */
+/* Tableaux
+/* -------- */
 
-.legende{text-align:center;color:#363535;font-size:12px;margin-bottom:35px;margin-top:4px}
+.l25 {width:25%;} /* largeur des tableaux pour les batailles */
 
 .tab_camp{border-collapse:collapse;width:650px;margin-left:auto;margin-right:auto;text-align:center;font-size:13px}
 
@@ -147,11 +144,8 @@ table
 	margin-right:auto;
 	text-align:left;
 	font-size:13px;
-
 	margin-bottom: 27px;
 	margin-top: 27px;
-
-	/* margin-bottom:50px */
 	}
 
 table caption 
@@ -159,6 +153,39 @@ table caption
 	text-align:center;
 	color:#363535;
 	font-size:12px;
-	/* margin-bottom:35px; */
 	margin-top:4px
 	}
+	
+td{border-width:1px;border-style:solid;border-color:#3a4247;padding:5px}
+
+thead{background-color:#D3CECE}
+
+tr{height:47px}
+
+/* ---------------- */
+/* Videos et images */ 
+/* ---------------- */
+
+.legende{text-align:center;color:#363535;font-size:12px;margin-bottom:35px;margin-top:4px}	
+	
+figure{text-align:center;color:#363535;font-size:12px;margin-bottom:35px}
+.video{text-align:center;margin-bottom:45px}	
+
+/* ------ */
+/* Footer */ 
+/* ------ */
+
+footer{background-color:#3b4247;text-align:center;padding-top:15px;padding-bottom:15px;color:#FFF;font-size:12px;width:960px;margin-left:auto;margin-right:auto}
+footer a:link{color:#e2ede4;text-decoration:none}
+footer a:visited,footer a:hover{color:#e2ede4;text-decoration:underline}
+
+/* css peut-être devenue inutiles */
+
+/*
+
+.menu{float:left;width:200px;height:200px;margin-left:13px;margin-right:14px;margin-top:25px;background-color:#B5AB8D;color:#3b4247}
+.menu h4{text-align:center;color:#3b4247}
+.menu ul li a:link,.menu ul li a:visited{text-decoration:none;color:#3b4247}
+.menu ul li a:hover{text-decoration:underline;color:#3b4247}	
+
+*/

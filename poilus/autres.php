@@ -116,9 +116,59 @@
 
 <ul>
 
-	<li><strong>Raphaël Joseph BOTTIAU</strong> est né le 26 janvier 1880 à Quarouble, fils légitime de Antoine Joseph BOTTIAU et de Léopoldine Augustine JOLY (elle même fille de mon sosa n°80 et de sa 2e épouse). Il arrive au 15e Régiment d'Artillerie de Campagne le 11 août 1914. Libéré provisoirement le 19 août 1914, il est fait prisonnier le 24 août à Quarouble et interné derrière les lignes. Raphaël est envoyé en congés illimité le 12 février 1919 par le dépôt démobilisateur du 15e Régiment d'Artillerie et se retire à Quarouble, où il décède le 19 mars 1926 à son domicile de la Rue du Moulin.<br /><br /></li>
-
-    <li><strong>Gervais BOUCHER</strong> est né le 31 mai 1880 à Onnaing (Nord) à quelques kilométres de Valenciennes. Fils légitime de Pierre Joseph et Anne Marie Lucette DELHAYE, il commence sa cariière militaire à l'âge de 20 ans quand il s'engage en tant que volontaire pour 3 ans le 17 octobre 1900 à la Mairie de Valenciennes. Il rejoint alors la 1ere compagnie d'ouvrier d'artillerie où il arrive le lendemain et est immatriculé sous le n°677. Durant son engagement, il suit une formation et devient ouvrier en bois. Son engagement terminé, il part vivre à Calais (62) avec le certificat de bonne conduite accordé. Le 5 Juin 1905, Gervais épouse à Onnaing Marie Céline MASCART, une descendante d'Antoine MASCART (1721-1797) et Michelle BRACONNIER (1684-1727), mes sosas n°644 et 645. Dix ans plus tard, quand la guerre éclate, il est rappelé à l'activité par le décret de mobilisation générale du 1er août 1914 et rejoint le 1er R.A.P Il est fait prisonnier à Maubeuge le 7 septembre 1914 et est envoyé en internement à <a href="../camps/camp-munster.php" title="Le camp de prisonniers de Munster">Munster III</a> d'où il sera rappatrié le 8 décembre 1918. Il est envoyé en congés illimité le 17 février 1919 aprés une permission de 60 jours. Gervais est décédé à son domicile situé Rue de Mons à Valenciennes, le 27 décembre 1964.<br /><br /></li>
+	<li><strong>Raphaël Joseph BOTTIAU</strong> est né le 26 janvier 1880 à Quarouble, fils légitime de Antoine Joseph BOTTIAU et de Léopoldine Augustine JOLY (elle même fille de mon sosa n°80 et de sa 2e épouse). Il arrive au 15e Régiment d'Artillerie de Campagne le 11 août 1914. Libéré provisoirement le 19 août 1914, il est fait prisonnier le 24 août à Quarouble et interné derrière les lignes. Raphaël est envoyé en congés illimité le 12 février 1919 par le dépôt démobilisateur du 15e Régiment d'Artillerie et se retire à Quarouble, où il décède le 19 mars 1926 à son domicile de la Rue du Moulin.<br /><br />
+	
+    <figure>
+        <a href="images/Bottiau-Raphael-1926.jpg" id="single_image" title="Acte de décès de Raphaël BOTTIAU">
+        <img src="miniatures/Bottiau-Raphael-1926.jpg" alt="Acte de décès de Raphaël BOTTIAU issu des AD du Nord"/></a>
+        <figcaption>Acte de décès de Raphaël BOTTIAU<br>(Source: Archives Départementales du Nord)</figcaption>
+    </figure>
+    
+	<br />Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+    <br />
+    
+    <table style="width:70%;caption-side: bottom;">
+        <caption>Liste des domiciles de Raphaël Joseph BOTTIAU</caption>
+	    <thead>
+	        <tr>
+	            <td>Dates</td>
+	            <td>Adresses</td>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td>26 janvier 1880</td><td>Quarouble (Nord)</td>
+	        </tr>
+	        <tr>
+	            <td>1906</td><td><a href="http://cartespostalesanciennes.genealexis.fr/image/436-valenciennes-rue-de-lille" title="L'entrée de la rue de Lille à Valenciennes">Rue de Lille</a><br />à Valenciennes (Nord)</td>
+	        </tr>
+	        <tr>
+	            <td>18 septembre 1907</td><td>"Pelissier chez Rivière"<br />à Albi (Tarn)</td>
+	        </tr>
+	        <tr>
+	            <td>26 janvier 1908</td><td>Rue du Marais<br />à Férin (Nord)</td>          
+	        </tr>
+	        <tr>
+	            <td>25 mai 1908</td><td>Bouligny (Meuse)</td>
+	        </tr>
+	        <tr>
+	            <td>29 décembre 1909</td><td>9 rue de Flandre<br />à Tunis (Tunisie)</td>
+	        </tr>
+	        <tr>
+	            <td>13 février 1910</td><td>Onnaing (Nord)</td>        
+	        </tr>
+	         <tr>
+	            <td>19 juillet 1924</td><td>Quarouble (Nord)</td>          
+	        </tr>
+	        <tr>
+	            <td>19 mars 1926</td><td>Rue du moulin<br />à Quarouble (Nord)</td>
+	        </tr>      
+        </tbody>
+    </table>
+      
+    </li>
+    
+    <li><strong>Gervais BOUCHER</strong> est né le 31 mai 1880 à Onnaing (Nord) à quelques kilométres de Valenciennes. Fils légitime de Pierre Joseph et Anne Marie Lucette DELHAYE, il commence sa cariière militaire à l'âge de 20 ans quand il s'engage en tant que volontaire pour 3 ans le 17 octobre 1900 à la Mairie de Valenciennes. Il rejoint alors la 1ere compagnie d'ouvrier d'artillerie où il arrive le lendemain et est immatriculé sous le n°677. Durant son engagement, il suit une formation et devient ouvrier en bois. Son engagement terminé, il part vivre à Calais (62) avec le certificat de bonne conduite accordé. Le 5 Juin 1905, Gervais épouse à Onnaing Marie Céline MASCART, une descendante d'Antoine MASCART (1721-1797) et Michelle BRACONNIER (1684-1727), mes sosas n°644 et 645. Dix ans plus tard, quand la guerre éclate, il est rappelé à l'activité par le décret de mobilisation générale du 1er août 1914 et rejoint le 1er R.A.P Il est fait prisonnier à Maubeuge le 7 septembre 1914 et est envoyé en internement à <a href="../camps/camp-munster.php" title="Le camp de prisonniers de Munster">Munster III</a> d'où il sera rappatrié le 8 décembre 1918. Il est envoyé en congés illimité le 17 février 1919 aprés une permission de 60 jours. Gervais est décédé à son domicile situé <a href="http://cartespostalesanciennes.genealexis.fr/image/421-valenciennes-le-depart-du-tramway-rue-de-mons" title="Le départ du Tramway, rue de Mons, à Valenciennes">Rue de Mons à Valenciennes</a>, le 27 décembre 1964.<br /><br /></li>
 
 </ul>    
 
@@ -151,7 +201,7 @@
 <ul>
 
     <span  id="dubois"></span>    
-    <li><strong>Jean Charles DUBOIS</strong> est né le 8 février 1893 à Villers-Guislain (Nord), il est le frère d'<a href="DUBOIS-Emile-Edmond.php">Emile Edmond</a>. Inscrit sous le n°99 de la liste du canton de Marcoing, il est incorporé au 164e Régiment d'Infanterie le 27 novembre 1913 où il arrive le dit jour. Il est décédé le 18 octobre 1914 à l'hôpital temporaire n°8 de Verdun dans la Meuse. Son nom figure sur le Monument aux morts et dans le livre d'or de Villers-Guislain.<br /><br /></li>
+    <li><strong>Jean Charles DUBOIS</strong> est né le 8 février 1893 à Villers-Guislain (Nord), il est le frère d'<a href="DUBOIS-Emile-Edmond.php" title="Biographie d'Emile Edmond DUBOIS">Emile Edmond</a>. Inscrit sous le n°99 de la liste du canton de Marcoing, il est incorporé au 164e Régiment d'Infanterie le 27 novembre 1913 où il arrive le dit jour. Il est décédé le 18 octobre 1914 à l'hôpital temporaire n°8 de Verdun dans la Meuse. Son nom figure sur le Monument aux morts et dans le livre d'or de Villers-Guislain.<br /><br /></li>
 
     <span  id="lamandin"></span>
     <li>Les données concernant <strong>Georges LAMANDIN</strong> m'ont été communiquées par son arrière-petite-fille.<br />
@@ -239,10 +289,10 @@
 	
 	<li><strong>Jules MAGNY</strong>, né le 18 août 1892 à Onnaing (Nord). Le 6 septembre 1916, soldat mitrailleur, il a,  par son calme et la précision de son tir, entravé une tentative de contre attaque allemande. Nommé caporal le 5 décembre 1917, il est ensuite prisonnier de guerre du 31 mai au 14 décembre 1918. Il était titulaire de la croix de guerre avec étoile de bronze, de la médaille commémorative et de la médaille interalliée. Abel, le frère de Jules MAGNY, épouse la fille de <a href="JOLY-Noel-Jules.php">Noël Jules JOLY</a>.<br /><br /></li>
 
-	<li><strong>Druon Adrien PATOU</strong> est né le 31 mars 1885 à Sebourg (Nord), et est le cousin germain de <a href="CARLIER-Druon-Joseph.php">Druon Joseph CARLIER</a> et <a href="CARLIER-Louis-Abraham.php">Louis Abraham CARLIER</a>. Je n'ai pas encore pu trouver sa fiche matricule car beaucoup de fiches sont manquantes pour l'année 1905 au bureau de Valenciennes.
+	<li><strong>Druon Adrien PATOU</strong> est né le 31 mars 1885 à Sebourg (Nord), et est le cousin germain de <a href="CARLIER-Druon-Joseph.php" title="Biographie du poilu Druon Joseph CARLIER">Druon Joseph CARLIER</a> et <a href="CARLIER-Louis-Abraham.php" title="Biographie du poilu Louis Abraham CARLIER">Louis Abraham CARLIER</a>. Je n'ai pas encore pu trouver sa fiche matricule car beaucoup de fiches sont manquantes pour l'année 1905 au bureau de Valenciennes.
     <br /><br /></li>
 
-    <li><strong>Eugène Fernand ROUSSEAUX</strong>, né en 1891 à Roubaix (Nord) et prisonnier de guerre au camp de <a href="../camps/camp-hammerstein.php">Hammerstein</a> puis à celui de <a href="../camps/camp-minden.php">Minden</a>. Eugène est le petit-fils de Léonie FIEVET (ma sosa n°97), et le cousin de <a href="FIEVET-Charles-Augustin.php">Charles</a> et <a href="FIEVET-Auguste-Victor.php">Auguste FIEVET</a> (par contre, ils n'ont que 3 de leurs 4 grand-parents en commun car Léonie a eu des enfants avec 2 hommes différents)<br /><br /></li>
+    <li><strong>Eugène Fernand ROUSSEAUX</strong>, né en 1891 à Roubaix (Nord) et prisonnier de guerre au camp de <a href="../camps/camp-hammerstein.php" title="Le camp de prisonniers de Hammerstein">Hammerstein</a> puis à celui de <a href="../camps/camp-minden.php" title="Le camp de prisonniers de Minden">Minden</a>. Eugène est le petit-fils de Léonie FIEVET (ma sosa n°97), et le cousin de <a href="FIEVET-Charles-Augustin.php">Charles</a> et <a href="FIEVET-Auguste-Victor.php" title="Biographie du poilu Auguste FIEVET">Auguste FIEVET</a> (par contre, ils n'ont que 3 de leurs 4 grand-parents en commun car Léonie a eu des enfants avec 2 hommes différents)<br /><br /></li>
 
 </ul>
 
