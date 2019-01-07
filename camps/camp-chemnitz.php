@@ -158,7 +158,11 @@
     <figcaption>Concert de dimanche des prisonniers<br />(source allemande)</figcaption>
 </figure>
 
-<p>En avril 1916, les délégués du Comité International de la Croix-Rouge, dans leur rapport sur leurs visites dans les camps allemands, décrivent dans les termes suivants la peine du peloton avec fardeau, qui, à Chemnitz, a remplacé le poteau: Le prisonnier est emmené sur le terrain d'exécution chargé d'un sac de 15 kilogrammes. Un feldwebel<sup style="font-size:8px;">1</sup> allemand commande un quart d'heure de pas accéléré; un quart d'heure de pas de gymnastique et accéléré; un quart d'heure de pas de gymnastique et de mouvements à genou et couché; un quart d'heure de gymnastique. Entre chaque quart d'heure, le prisonnier à 2 ou 3 minutes de repos. Dans certaines compagnies, un adjudant sous-officier français assiste à l'exécution de la peine.</p><p>Le camp de Chemnitz est évacué le 4 janvier 1919.</p><p></p><p style="font-size: 12px"><sup>1</sup> Le grade de feldwebel se popularise dans l'armée allemande au début du XIXe siècle. Plus haut grade de sous-officier jusqu'en 1918, au sein de la Deutsches Heer (nom de l'armée de terre allemande de 1871 à 1919). Le Feldwebel est alors en charge d'une compagnie. Selon le Larousse, il correspond au grade d'adjudant.</p><p></p>
+<p>En avril 1916, les délégués du Comité International de la Croix-Rouge, dans leur rapport sur leurs visites dans les camps allemands, décrivent dans les termes suivants la peine du peloton avec fardeau, qui, à Chemnitz, a remplacé le poteau: Le prisonnier est emmené sur le terrain d'exécution chargé d'un sac de 15 kilogrammes. Un feldwebel<sup>1</sup> allemand commande un quart d'heure de pas accéléré; un quart d'heure de pas de gymnastique et accéléré; un quart d'heure de pas de gymnastique et de mouvements à genou et couché; un quart d'heure de gymnastique. Entre chaque quart d'heure, le prisonnier à 2 ou 3 minutes de repos. Dans certaines compagnies, un adjudant sous-officier français assiste à l'exécution de la peine.</p><p>Le camp de Chemnitz est évacué le 4 janvier 1919.</p>
+
+<p></p>
+
+<p class="note"><sup>1</sup> Le grade de feldwebel se popularise dans l'armée allemande au début du XIXe siècle. Plus haut grade de sous-officier jusqu'en 1918, au sein de la Deutsches Heer (nom de l'armée de terre allemande de 1871 à 1919). Le Feldwebel est alors en charge d'une compagnie. Selon le Larousse, il correspond au grade d'adjudant.</p><p></p>
 
 <h2>Sources et bibliographie</h2>
 

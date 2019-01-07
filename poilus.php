@@ -127,22 +127,22 @@
 
     <table class="tab_camp">
         <tr>
-            <td style="background-color:#D3CECE;">Armée active</td>
+            <td class="TitreHorizontalTab">Armée active</td>
             <td>Nés entre 1891 et 1892</td>
             <td>1911 et 1912</td>
         </tr>
         <tr>
-            <td style="background-color:#D3CECE;">Réserve de l'armée active</td>
+            <td class="TitreHorizontalTab">Réserve de l'armée active</td>
             <td>Nés entre 1881 et 1890</td>
             <td>1901 et 1910</td>
         </tr>
         <tr>
-            <td style="background-color:#D3CECE;">Armée territoriale</td>
+            <td class="TitreHorizontalTab">Armée territoriale</td>
             <td>Nés entre 1875 et 1880</td>
             <td>1895 et 1900</td>
         </tr>
         <tr>
-            <td style="background-color:#D3CECE;">Réserve de l'armée territoriale</td>
+            <td class="TitreHorizontalTab">Réserve de l'armée territoriale</td>
             <td>Nés entre 1869 et 1874</td>
             <td>1889 et 1894</td>
         </tr>

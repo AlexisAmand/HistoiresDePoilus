@@ -156,11 +156,11 @@
   <table>
   <thead>
     <tr>
-        <td style="width:25%">Lieu</td>
-        <td style="width:25%" colspan="2">Bataille</td>
-        <td style="width:25%">Date</td>
-        <td style="width:25%">Issue</td>
-   </tr>
+            <td class="l25">Lieu</td>
+            <td class="l25">Bataille</td>
+            <td class="l25">Date</td>
+            <td class="l25">Issue</td>
+      </tr>
   </thead>  
   <tr>
         <td>Vosges<br />(France)</td>
@@ -239,11 +239,11 @@
   <table>
   <thead>
     <tr>
-        <td style="width:25%">Lieu</td>
-        <td style="width:25%">Bataille</td>
-        <td style="width:25%">Date</td>
-        <td style="width:25%">Issue</td>
-   </tr>
+            <td class="l25">Lieu</td>
+            <td class="l25">Bataille</td>
+            <td class="l25">Date</td>
+            <td class="l25">Issue</td>
+      </tr>
   </thead>         
   <tr>
         <td>Meuse<br />(France)</td>
@@ -282,11 +282,11 @@
   <table>
   <thead>
     <tr>
-        <td style="width:25%">Lieu</td>
-        <td style="width:25%">Bataille</td>
-        <td style="width:25%">Date</td>
-        <td style="width:25%">Issue</td>
-   </tr>
+            <td class="l25">Lieu</td>
+            <td class="l25">Bataille</td>
+            <td class="l25">Date</td>
+            <td class="l25">Issue</td>
+      </tr>
   </thead>
 
   <tr>
@@ -363,11 +363,11 @@
   <table>
   <thead>
     <tr>
-        <td style="width:25%">Lieu</td>
-        <td style="width:25%"  colspan="2">Bataille</td>
-        <td style="width:25%">Date</td>
-        <td style="width:25%">Issue</td>
-   </tr>
+            <td class="l25">Lieu</td>
+            <td class="l25">Bataille</td>
+            <td class="l25">Date</td>
+            <td class="l25">Issue</td>
+      </tr>
   </thead>        
   <tr>
         <td>Nord (France) et Flandres (Belgique)</td>
