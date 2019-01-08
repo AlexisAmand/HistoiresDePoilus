@@ -56,7 +56,7 @@
 
 	<h1>Biblio-webographie</h1>
     
-    <p>Vous trouverez sur cette page la liste de toutes les ressources qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. Il peut s'agir de sites web, de livres ou même de revues. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php">me contacter</a> si vous avec une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p>Certains documents sont <strong>des pdf</strong>, selon la configuration de votre ordinateur, ils peuvent <strong>mettre un petit moment à s'afficher</strong>. Pour lire ces pdf, vous devez posséder un logiciel comme Adobe Reader, que vous pouvez <a href="https://get.adobe.com/fr/reader/">télécharger gratuitement ici</a>.</p>
+    <p>Vous trouverez sur cette page la liste de toutes les ressources qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. Il peut s'agir de sites web, de livres ou même de revues. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php">me contacter</a> si vous avec une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p>Certains documents sont <strong>des pdf</strong>, selon la configuration de votre ordinateur, ils peuvent <strong>mettre un petit moment à s'afficher</strong>. Pour lire ces pdf, vous devez posséder un logiciel comme Adobe Reader, que vous pouvez <a href="https://get.adobe.com/fr/reader/" title=" ">télécharger gratuitement ici</a>.</p>
 
     <br/><h2>Dossiers d'anciens combattants</h2>
 
@@ -100,7 +100,7 @@
     <h2>Historiques des régiments d'artillerie</h2>
     
 	<ul>
-       	<li><a href="pdf/53eRA.pdf">Historique des 53e et 253e Régiments d'Artillerie</a><br />(Anonyme, de Bussac, 1923) numérisé par Jean-François Joly</li>
+       	<li><a href="pdf/53eRA.pdf" title=" ">Historique des 53e et 253e Régiments d'Artillerie</a><br />(Anonyme, de Bussac, 1923) numérisé par Jean-François Joly</li>
 	</ul>
 
     <br /><br />
@@ -140,13 +140,13 @@
         <ul>
             <li><a href="pdf/souffrances_prisonniers_guerre_1914_1918.pdf" title="Les souffrances des prisonniers de guerre en 1914-1918 par Jean-Jules Dufour">
             Les souffrances des prisonniers de guerre en 1914-1918</a><br/>(Par Jean-Jules Dufour)</li>
-            <li><a href="pdf/fiche-objet-uniformes-14-18.pdf">
+            <li><a href="pdf/fiche-objet-uniformes-14-18.pdf" title=" ">
             L’uniforme du fantassin français en 1914 et 1915</a><br/>(Musée de l’Armée - Hôtel des Invalides)</li>
-            <li><a href="https://amzn.to/2vNzdh1">L'uniforme et les armes des soldats de la guerre de 1914-1918</a><br/>(Editions Casterman / Liliane et Fred Funcken)</li>
+            <li><a href="https://amzn.to/2vNzdh1" title=" ">L'uniforme et les armes des soldats de la guerre de 1914-1918</a><br/>(Editions Casterman / Liliane et Fred Funcken)</li>
             <li><a href="pdf/letraitementdesp00chriuoft.pdf" title="Le traitement des prisonniers français en Allemagne par Dr. de Christmas">
             Le traitement des prisonniers français en Allemagne</a><br/>(Librairie Chapelot / Dr. de Christmas)</li>
-            <li><a href="pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a><br />(source allemande)</li>
-            <li><a href="pdf/aus-deutschen-kriegsgefangenenlagern.pdf">
+            <li><a href="pdf/FoXIIa1133_qt.pdf" title=" ">Die Kriegsgefangenen in Deutschland</a><br />(source allemande)</li>
+            <li><a href="pdf/aus-deutschen-kriegsgefangenenlagern.pdf" title=" ">
             Aus deutschen Kriegsgefangenenlagern</a><br />(Deutsches Rotes Kreuz)</li>
             <li><a href="https://amzn.to/2Jfz7DO" title="Prisonniers 1914-1918 par Jean-Paul Briaste">
             Prisonniers 1914-1918</a><br/>(Editions Sulton / Jean-Paul Briaste)</li>
@@ -159,15 +159,15 @@
 	<h2>Ouvrages sur la Grande Guerre</h2>
     
     <ul>
-    	<li><a href="pdf/hanotaux-tome 03.pdf">Histoire illustrée de la guerre de 1914 (tome 3)</a><br />(Gabriel Hanotaux de l'Académie Française, 1916)</li>
-        <li><a href="pdf/Maubeuge-1914-Duvivier.pdf">Maubeuge 1914</a><br />(Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
-        <li><a href="pdf/labatailledelamarnes-01-hanotaux.pdf">La Bataille de la Marne (tome 1)</a><br />(University of Toronto / Gabriel Hanotaux)</li>
-		<li><a href="pdf/souvenirsdelacampagnedelamarne.pdf">Souvenirs de la Campagne de la Marne</a><br />(Brigham Young University / Baron Von Hausen, 1922)</li>
-        <li><a href="pdf/recquignies-1914.pdf">Petite histoire de Recquignies et Rocq en 1914</a><br/>(Anonyme)</li>
-        <li><a href="https://amzn.to/2vLNtXK">La Grande Guerre des français, 1914-1918</a><br />(Editions Perrin / Jean-Baptiste Durosselle, 1994)</li>
+    	<li><a href="pdf/hanotaux-tome 03.pdf" title=" ">Histoire illustrée de la guerre de 1914 (tome 3)</a><br />(Gabriel Hanotaux de l'Académie Française, 1916)</li>
+        <li><a href="pdf/Maubeuge-1914-Duvivier.pdf" title=" ">Maubeuge 1914</a><br />(Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
+        <li><a href="pdf/labatailledelamarnes-01-hanotaux.pdf" title=" ">La Bataille de la Marne (tome 1)</a><br />(University of Toronto / Gabriel Hanotaux)</li>
+		<li><a href="pdf/souvenirsdelacampagnedelamarne.pdf" title=" ">Souvenirs de la Campagne de la Marne</a><br />(Brigham Young University / Baron Von Hausen, 1922)</li>
+        <li><a href="pdf/recquignies-1914.pdf" title=" ">Petite histoire de Recquignies et Rocq en 1914</a><br/>(Anonyme)</li>
+        <li><a href="https://amzn.to/2vLNtXK" title=" ">La Grande Guerre des français, 1914-1918</a><br />(Editions Perrin / Jean-Baptiste Durosselle, 1994)</li>
         <li>Août 1914, La Bataille de Sarrebourg<br />(Joseph Elmerich, 1993)</li>
-        <li><a href="https://amzn.to/2MvPvVA">Encyclopédie de la Grande Guerre</a><br />(Editions Bayard / sous la direction de Stéphane Audouin-Rouzeau et Jean-Jacques Becker)</li>
-        <li><a href="https://amzn.to/2ODtfGA">Les Grandes Guerres 1914-1945</a><br />(Editions Belins / ouvrage dirigé par Henry Rousso)</li>
+        <li><a href="https://amzn.to/2MvPvVA" title=" ">Encyclopédie de la Grande Guerre</a><br />(Editions Bayard / sous la direction de Stéphane Audouin-Rouzeau et Jean-Jacques Becker)</li>
+        <li><a href="https://amzn.to/2ODtfGA" title="Les Grandes Guerres, par Henry Rousso">Les Grandes Guerres 1914-1945</a><br />(Editions Belins / ouvrage dirigé par Henry Rousso)</li>
     </ul>
 
 <br /><br />
@@ -196,8 +196,8 @@
 	<h2>Presse&nbsp; ancienne</h2>
     
     <ul>
-      <li><a href="http://gallica.bnf.fr/ark:/12148/cb32732967q/date">Bulletin Religieux de l'Archidiocèse de Rouen</a><br />(Gallica / Bibliothèque nationale de France)      </li>
-      <li><a href="http://gallica.bnf.fr/ark:/12148/cb32826480g/date">Nouvelles de France : chronique hebdomadaire de la presse française </a> <br />(Gallica / Bibliothèque nationale de France)</li>
+      <li><a href="http://gallica.bnf.fr/ark:/12148/cb32732967q/date" title=" ">Bulletin Religieux de l'Archidiocèse de Rouen</a><br />(Gallica / Bibliothèque nationale de France)      </li>
+      <li><a href="http://gallica.bnf.fr/ark:/12148/cb32826480g/date" title=" ">Nouvelles de France : chronique hebdomadaire de la presse française </a> <br />(Gallica / Bibliothèque nationale de France)</li>
     </ul>
     
 	<br /><br />
@@ -213,10 +213,10 @@
 	<h2>Documents officiels</h2>
     
     <ul>
-    	<li><a href="pdf/jorf-03-07-1930.pdf">Journal Officiel de la République française n°156 du 3 juillet 1930</a><br />(Gallica / Bibliothèque nationale de France)<br />Attention, le document fait presque 78 Mo, il peut mettre du temps à se télécharger...</li>
-        <li><a href="pdf/constitution-belge.pdf">La constitution de la Belgique</a><br />(Service juridique de la Chambre des représentants)</li>
-        <li><a href="pdf/guide_methodo_lasesouvient_web.pdf">Combattants de la Grande Guerre</a><br />(Guide méthodologique de recherche aux Archives départementales)</li>
-        <li><a href="pdf/rapports-gvt-espagnol.pdf">Rapports des délégués du gouvernement espagnol sur leurs visites dans les camps de prisonniers français en Allemagne 1914-1917.</a></li>
+    	<li><a href="pdf/jorf-03-07-1930.pdf" title=" ">Journal Officiel de la République française n°156 du 3 juillet 1930</a><br />(Gallica / Bibliothèque nationale de France)<br />Attention, le document fait presque 78 Mo, il peut mettre du temps à se télécharger...</li>
+        <li><a href="pdf/constitution-belge.pdf" title=" ">La constitution de la Belgique</a><br />(Service juridique de la Chambre des représentants)</li>
+        <li><a href="pdf/guide_methodo_lasesouvient_web.pdf" title=" ">Combattants de la Grande Guerre</a><br />(Guide méthodologique de recherche aux Archives départementales)</li>
+        <li><a href="pdf/rapports-gvt-espagnol.pdf" title=" ">Rapports des délégués du gouvernement espagnol sur leurs visites dans les camps de prisonniers français en Allemagne 1914-1917.</a></li>
         <li><a href="pdf/convention-1907.pdf" title="texte de la Convention de la Haye de 1907">Convention de La Haye, 18 octobre 1907</a></li>
     </ul>
     
@@ -225,9 +225,9 @@
 	<h2>Guides de recherche</h2>
     
     <ul>
-        <li><a href="https://amzn.to/2LqzGM2">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
-        <li><a href="https://amzn.to/2NuoqQb">Recherchez vos ancêtres soldats et leur famille (1914-1918)</a><br />(Martin Média / Revue Française de Généalogie)</li>
-        <li><a href="http://www.rfgenealogie.com">Les médailles et décorations</a><br />(Martin Média / Revue Française de Généalogie)</li>
+        <li><a href="https://amzn.to/2LqzGM2" title=" ">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
+        <li><a href="https://amzn.to/2NuoqQb" title=" ">Recherchez vos ancêtres soldats et leur famille (1914-1918)</a><br />(Martin Média / Revue Française de Généalogie)</li>
+        <li><a href="http://www.rfgenealogie.com" title=" ">Les médailles et décorations</a><br />(Martin Média / Revue Française de Généalogie)</li>
     </ul>
     
 	<br /><br/>
@@ -235,11 +235,11 @@
     <h2>Recherches en Belgique</h2>
     
 	<ul>
-        <li><a href="http://www.bel-memorial.org">Bel-Memorial (Belgique)</a></li>
-        <li><a href="https://www.wardeadregister.be/fr">Dead War Register (Belgique)</a></li>
-        <li><a href="http://arch.arch.be/">Les Archives de l’État  (Belgique)</a></li>      
-        <li><a href="http://grandeguerre.icrc.org/fr">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
-        <li><a href="http://monumentsmorts.univ-lille3.fr/">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
+        <li><a href="http://www.bel-memorial.org" title=" ">Bel-Memorial (Belgique)</a></li>
+        <li><a href="https://www.wardeadregister.be/fr" title=" ">Dead War Register (Belgique)</a></li>
+        <li><a href="http://arch.arch.be/" title=" ">Les Archives de l’État (Belgique)</a></li>      
+        <li><a href="http://grandeguerre.icrc.org/fr" title=" ">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
+        <li><a href="http://monumentsmorts.univ-lille3.fr/" title=" ">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
 	</ul>
 
     <br /><br/>
@@ -248,15 +248,15 @@
     
 	<ul>
 		<li>Les livres d'or des soldats morts pour la France (Archives Nationales)</li>     
-        <li><a href="http://archives.cg08.fr/">Archives Départementales des Ardennes</a></li>
-        <li><a href="http://archives.marne.fr/">Archives Départementales de la Marne</a></li>
-		<li><a href="http://archivesdepartementales.lenord.fr">Archives Départementales du Nord</a></li>
-        <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/">Mémoire des Hommes</a> (Ministère de la Défense)</li>
-        <li><a href="http://www.memorial-genweb.org/~memorial2/">Mémorial-GenWeb</a></li>
-        <li><a href="http://grandeguerre.icrc.org/fr">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
-        <li><a href="http://prisonniers-de-guerre-1914-1918.chez-alice.fr/lestroupes.htm">Prisonniers de guerre 14-18</a></li>
-        <li><a href="http://www.association14-18.org/index.htm">Association 14-18</a></li>
-        <li><a href="http://monumentsmorts.univ-lille3.fr/">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
+        <li><a href="http://archives.cg08.fr/" title=" ">Archives Départementales des Ardennes</a></li>
+        <li><a href="http://archives.marne.fr/" title=" ">Archives Départementales de la Marne</a></li>
+		<li><a href="http://archivesdepartementales.lenord.fr" title=" ">Archives Départementales du Nord</a></li>
+        <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title=" ">Mémoire des Hommes</a> (Ministère de la Défense)</li>
+        <li><a href="http://www.memorial-genweb.org/~memorial2/" title=" ">Mémorial-GenWeb</a></li>
+        <li><a href="http://grandeguerre.icrc.org/fr" title=" ">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
+        <li><a href="http://prisonniers-de-guerre-1914-1918.chez-alice.fr/lestroupes.htm" title=" ">Prisonniers de guerre 14-18</a></li>
+        <li><a href="http://www.association14-18.org/index.htm" title=" ">Association 14-18</a></li>
+        <li><a href="http://monumentsmorts.univ-lille3.fr/" title=" ">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
 	</ul>
       
 <p class="sources">

@@ -5,7 +5,7 @@
 <meta charset="utf-8">
           
 <title>Histoires de Poilus - Liste de quelques jasses de Belgique</title>
-<meta content="Petites biographies de soldats de ma famille ayant participé à la Première Guerre Mondiale et ayant vécu en Belgique" name="description">
+<meta content="Petites biographies de soldats belges - Jasses - de ma famille ayant participé à la Première Guerre Mondiale." name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -119,15 +119,15 @@
 </ul>
 
     <figure>
-        <a href="sources/amand-jules.jpg" id="single_image" title=" ">
-        <img src="miniatures/amand-jules.jpg" alt=" "/></a>
-        <figcaption> </figcaption>
+        <a href="sources/amand-jules.jpg" id="single_image" title="Fiche Sépultures et cimetières militaires de Jules AMAND">
+        <img src="miniatures/amand-jules.jpg" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
+        <figcaption>Fiche Sépultures et cimetières militaires<br />(Source: War Heritage Institute)</figcaption>
     </figure>
 
     <figure>
-    <a href="images/ougree.jpg" id="single_image" title="Jules AMAND sur le monument d'Ougrée en Belgique">
-    <img src="miniatures/ougree.jpg" alt="Jules AMAND sur le monument d'Ougrée en Belgique"/></a>
-    <figcaption>Jules sur le monument d'Ougrée<br> (Source: <a href="http://www.bel-memorial.org">Bel-Memorial</a>)</figcaption>
+    	<a href="images/ougree.jpg" id="single_image" title="Jules AMAND sur le monument d'Ougrée en Belgique">
+    	<img src="miniatures/ougree.jpg" alt="Jules AMAND sur le monument d'Ougrée en Belgique"/></a>
+    	<figcaption>Jules sur le monument d'Ougrée<br>(Source: <a href="http://www.bel-memorial.org">Bel-Memorial</a>)</figcaption>
     </figure>
 
 <p></p>
