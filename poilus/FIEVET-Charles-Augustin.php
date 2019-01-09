@@ -40,53 +40,55 @@
     <a href="../poilus.php" class="NavSelected">Les Poilus</a>
 </nav>
 
+<div id="navbis">
+	<a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="amand-jules.php">Les jasses de Belgique</a>
+</div>
+
 <section>
 
 <aside>
+
 <ul>
-        <li class="asideheader">Ardennes</li>
-
-        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
-
-        <li class="asideheader">Belgique</li>
-
-        <li><a href="soldats-belgique.php">Les soldats de Belgique</a></li>
-
-        <li class="asideheader">Côte-d'Or</li>
-
-        <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
 
         <li class="asideheader">Nord</li>
 
+        <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
+		<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
+		<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
+        <li><a href="delaux-oscar-julien.php">DELAUX Oscar Julien</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
+        <li><a href="dubois-jean-charles.php">DUBOIS Jean Charles (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
-        <li><a href="FIEVET-Charles-Augustin.php"  class="AsideSelected">FIEVET Charles Augustin</a></li>
+        <li><a href="FIEVET-Charles-Augustin.php" class="AsideSelected">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
+        <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
+        <li><a href="magny-jules.php">MAGNY Jules</a></li>
+        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
+        <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus du Nord</a></li>
-
-        <li class="asideheader">Marne</li>
-        
-        <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-        <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
-        <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
-    	      
-   </ul>
+           	      
+</ul>
    
-      <div id="pubaside">
+<div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
@@ -96,7 +98,7 @@
     <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
-   </div>
+</div>
    
 </aside>
 
@@ -106,60 +108,51 @@
 
 <p><strong>Charles Augustin FIEVET</strong>, le père de mon arrière-grand-père (Kleber pour ceux qui lisent régulièrement <a href="http://www.genealexis.fr">mon blog</a>), est né le dimanche 3 décembre 1882 à Lille (Nord). Il est le fils de Charles Jules Henri, fileur de Coton, âgé de 28 ans et de Marie Roseline LOHIEZ, âgée de 19 ans. Il a pour frère <a href="FIEVET-Auguste-Victor.php">Auguste Victor</a>. </p>
 
-<figure>
-    <a href="images/arbre-Louis-ROUSSEAUX.jpg" id="single_image" title="Arbre généalogique de Louis Henri ROUSSEAUX">
-    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX"  style="box-shadow:none;width:650px;">
-    </a>
-    <figcaption>Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" id="single_image" title="Arbre généalogique de Louis Henri ROUSSEAUX">
+	    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX"  style="box-shadow:none;width:650px;"></a>
+	    <figcaption>Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
+	</figure>
+	
+	<figure>
+	    <a href="portraits/charles-augustin-FIEVET.jpg" id="single_image" title="Charles Augustin FIEVET">
+	    <img src="miniatures/charles-augustin-FIEVET.jpg" height="278" alt="Portrait de Charles Augustin FIEVET"/></a>
+	    <figcaption>Charles Augustin FIEVET<br />(Source: Archives familiales)</figcaption>
+	</figure>
 
-<figure>
-    <a href="portraits/charles-augustin-FIEVET.jpg" id="single_image" title="Charles Augustin FIEVET">
-    <img src="miniatures/charles-augustin-FIEVET.jpg" height="278" alt="Portrait de Charles Augustin FIEVET"/> 
-    </a>
-    <figcaption>Charles Augustin FIEVET<br />(Source: Archives familiales)</figcaption>
-</figure>
-
-<table style="width:70%;caption-side: bottom;">
-    <caption>Liste des domiciles de Charles Augustin</caption>
-    <thead>
-        <tr>
-            <td>Dates</td>
-            <td>Adresses</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>3 décembre 1882</td>
-            <td>Rue de Poids<br/>à Lille</td>
-        </tr>
-        <tr>
-            <td>25 septembre 1908</td>
-            <td>Rue du Grand Balcon<br/>Impasse Saint Henri<br />à Lille</td>
-        </tr>
-        <tr>
-            <td>8 février 1914</td>
-            <td>73 Rue du Chauffour<br />(Gué du dit)<br />à Valenciennes</td>
-        </tr>
-        <tr>
-            <td>8 avril 1922</td>
-            <td>248 Rue Jean Jaurés<br />à Anzin</td>
-        </tr>       
-        <tr>
-            <td>16 février 1928</td>
-            <td>149 Rue du Chauffour<br />à Valenciennes</td>
-        </tr>
-    </tbody>   
-</table>
+	<table style="width:70%;caption-side: bottom;">
+	    <caption>Liste des domiciles de Charles Augustin</caption>
+	    <thead>
+	        <tr>
+	            <td>Dates</td><td>Adresses</td>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td>3 décembre 1882</td><td>Rue de Poids<br/>à Lille</td>
+	        </tr>
+	        <tr>
+	            <td>25 septembre 1908</td><td>Rue du Grand Balcon<br/>Impasse Saint Henri<br />à Lille</td>
+	        </tr>
+	        <tr>
+	            <td>8 février 1914</td><td>73 Rue du Chauffour<br />(Gué du dit)<br />à Valenciennes</td>
+	        </tr>
+	        <tr>
+	            <td>8 avril 1922</td><td>248 Rue Jean Jaurés<br />à Anzin</td>
+	        </tr>       
+	        <tr>
+	            <td>16 février 1928</td><td>149 Rue du Chauffour<br />à Valenciennes</td>
+	        </tr>
+	    </tbody>   
+	</table>
 
 <p>La photo ci-dessus date sans doute du début des années 20. Il s'agit d'un extrait d'une photo de groupe prise lors du conseil de révision de son fils Charles Jules Henri. De gauche à droite, on trouve Kleber Camille (né en 1910, fils de Charles Augustin), Charles Jules (pére de Charles Augustin), Charles Jules Henri (né en 1903) et Charles Augustin... j'espère que vous avez suivi avec attention...</p>
 
-<figure>
-    <a href="portraits/Le-conseil-de-revision.jpg" id="single_image" title="Le conseil de révision">
-    <img src="miniatures/Le-conseil-de-revision.jpg" alt="La famille FIEVET au conseil de révision"/>
-    </a>
-    <figcaption>Le conseil de révision<br />(Source: Archives familiales)</figcaption>
-</figure>
+	<figure>
+	    <a href="portraits/Le-conseil-de-revision.jpg" id="single_image" title="Le conseil de révision">
+	    <img src="miniatures/Le-conseil-de-revision.jpg" alt="La famille FIEVET au conseil de révision"/></a>
+	    <figcaption>Le conseil de révision<br />(Source: Archives familiales)</figcaption>
+	</figure>
 
 <p>Le 2 décembre 1907, <strong>Charles Augustin</strong> épouse à Roubaix (Nord) Nathalie Emilie DELAUX, mécanicienne, la fille légitime d'Adolphe Auguste DELAUX et de Josephine RICHOMME. Le couple aura deux enfants: Charles Jules Henri (né en 1903) et Kléber Camille (né en 1910).</p>
 
@@ -167,27 +160,24 @@
 
 <p>Soldat de 2e classe âgé de 32 ans en 1914, <strong>Charles Augustin</strong> est mobilisé et rejoint le <strong>162e Régiment d'Infanterie</strong>. Je connais peut de chose sur son destin pendant le conflit. Mon seul indice ? Il est prisonnier de guerre à <a href="../camps/camp-gardelegen.php">Gardelegen (Allemagne)</a>. </p>
 
-<figure>
-    <a href="images/matricule-charles-fievet.jpg" id="single_image" title="Fiche matricule de Charles Augustin (Extrait)">
-    <img src="miniatures/matricule-charles-fievet.jpg"  alt="Extrait de la fiche matricule de Charles Augustin FIEVET"/> 
-    </a>
-</figure>
+	<figure>
+	    <a href="images/matricule-charles-fievet.jpg" id="single_image" title="Fiche matricule de Charles Augustin (Extrait)">
+	    <img src="miniatures/matricule-charles-fievet.jpg"  alt="Extrait de la fiche matricule de Charles Augustin FIEVET"/></a>
+	</figure>
 
-<figure>
-    <a href="sources/charles-jules-FIEVET-matricule-01.jpg" id="single_image" title="Fiche matricule de Charles Augustin (Extrait)">
-    <img src="miniatures/charles-jules-FIEVET-matricule-01.jpg" alt="Extrait de la fiche matricule de Charles Augustin FIEVET"/>
-    </a>
-    <figcaption>Extraits de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
-</figure>
+	<figure>
+	    <a href="sources/charles-jules-FIEVET-matricule-01.jpg" id="single_image" title="Fiche matricule de Charles Augustin (Extrait)">
+	    <img src="miniatures/charles-jules-FIEVET-matricule-01.jpg" alt="Extrait de la fiche matricule de Charles Augustin FIEVET"/></a>
+	    <figcaption>Extraits de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
+	</figure>
 
 <p>Selon les docs de la Croix Rouge, il est fait prisonnier à Bikschote (Belgique) avant le 23 janvier 1915, selon moi durant la Première Bataille d’Ypres entre la fin du mois d’octobre et le début du mois de novembre 1914. </p>
 
-<figure>
-    <a href="sources/cicr-fievet-01.JPG" id="single_image" title="Extrait d'une liste de prisonniers (source: CICR)">
-    <img src="miniatures/cicr-fievet-01.JPG" alt="Extrait d'une liste de prisonniers de la Croix Rouge"/> 
-    </a>
-    <figcaption>Extrait d'une liste de prisonniers<br />(Source: CICR)</figcaption>
-</figure>
+	<figure>
+	    <a href="sources/cicr-fievet-01.JPG" id="single_image" title="Extrait d'une liste de prisonniers (source: CICR)">
+	    <img src="miniatures/cicr-fievet-01.JPG" alt="Extrait d'une liste de prisonniers de la Croix Rouge"/></a>
+	    <figcaption>Extrait d'une liste de prisonniers<br />(Source: CICR)</figcaption>
+	</figure>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
@@ -196,8 +186,7 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
-       
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>      
     </ul>
 
 </article>

@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Histoires de Poilus - Liste de quelques poilus de la Marne</title>
-<meta content="Petites biographies de soldats de ma famille ayant participé à la Première Guerre Mondiale et ayant vécu dans la Marne" name="description">
+<title>Histoires de Poilus - Liste de quelques poilus du Nord</title>
+<meta content="Petites biographies de soldats de ma famille ayant participé à la Première Guerre Mondiale et ayant vécu dans le Nord" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -50,31 +50,33 @@
     <a href="../poilus.php" class="NavSelected">Les Poilus</a>
 </nav>
 
+<div id="navbis">
+	<a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="amand-jules.php">Les jasses de Belgique</a>
+</div>
+
 <section>
 
 <aside>
+
 <ul>
-        <li class="asideheader">Ardennes</li>
-
-        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
-
-        <li class="asideheader">Belgique</li>
-
-        <li><a href="soldats-belgique.php">Les soldats de Belgique</a></li>
-
-        <li class="asideheader">Côte-d'Or</li>
-
-        <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
 
         <li class="asideheader">Nord</li>
 
+        <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
+		<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
+		<li><a href="boursier-edmond.php" class="AsideSelected">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
+        <li><a href="delaux-oscar-julien.php">DELAUX Oscar Julien</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
+        <li><a href="dubois-jean-charles.php">DUBOIS Jean Charles (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
@@ -82,21 +84,21 @@
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
+        <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
+        <li><a href="magny-jules.php">MAGNY Jules</a></li>
+        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
+        <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus du Nord</a></li>
-
-        <li class="asideheader">Marne</li>
-        
-        <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-        <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
-        <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php"  class="AsideSelected">Autres poilus de la Marne</a></li>
-    	      
-   </ul>
+           	      
+</ul>
    
-    <div id="pubaside">
+<div id="pubaside">
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
@@ -106,86 +108,16 @@
     <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
-    </div>
+</div>
      
 </aside>
 
 <article>
-
-<h1>Les poilus de la Marne</h1>
-
-<ul>   
-
-    <li><strong>Henri René ARNOULD</strong>    ...</li>
-
-</ul>
-
-<figure>
-    <a href="images/mont-homme.jpg" id="single_image" title="Les ascendants d'Ernest Auguste BALTAZART">
-    <img src="miniatures/mont-homme.jpg" alt="Extrait de l'arbre généalogique d'Ernest Auguste BALTAZART" style="box-shadow:none"></a>
-    <figcaption>Les ascendants d'Ernest Auguste BALTAZART<br />(cliquez pour agrandir)</figcaption>
-</figure> 
-
-<ul>
-
-    <li><strong>Jules Alphonse ASTIERS</strong>, né le 14 février 1872 à Bétheniville (Marne), petit-fils de mon aïeule Julie Joséphine KRAUTH via Louise Adèle BALTAZART. <br /><br /></li>
-
-    <li><strong>Eugène Alexandre CARON</strong>, né le 16 avril 1869 à Montigny-sur-Vesle (Marne), fils de Pierre Alexandre et de Zélia Celestine HUILLERET. Avant la Grande Guerre, il vit à Reims, successivement 164 Rue du Barbâtre (1895) et 28 Rue de Savoie (1910), où il exerce la profession de mécanicien. A la mobilisation, il rejoint la 6e section d'infirmiers le 3 août 1914. Le 24 août 1915, il est détaché dans une usine de Clermont-Ferrant.<br /><br /></li>
-
-</ul>
-
-<figure>
-    <a href="images/reims-barbatre.jpg" id="single_image" title="la Rue du Barbâtre à Reims">
-    <img src="miniatures/reims-barbatre.jpg" alt="la Rue du Barbâtre à Reims sur une carte postale ancienne"/></a>
-    <figcaption>la Rue du Barbâtre<br />(Source: Delcampe)</figcaption>
-</figure>
-
-<ul>
-
-    <li><strong>Léopold PAQUET</strong> est né le 5 décembre 1886 à Reims (Marne), fils légitime de François PAQUET et Marie LEFEVRE. Le 20 juin 1914, il épouse à Bétheniville Marie Hélène ARNOULD, la sœur de mon arrière-grand-père. Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 août 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 août 1917 pour paralysie radiale du bras gauche, juste après la Bataille des Ardennes. Il est décédé à Bétheniville le 10 octobre 1953.<br /><br />
     
-    <table style="width:70%;caption-side: bottom;">
-    <caption>Liste des domiciles ... </caption>
-    <thead>
-        <tr>
-            <td>Dates</td>
-            <td>Adresses</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td> </td>
-            <td> </td>
-        </tr>
-        <tr>
-            <td> </td>
-            <td> </td>
-        </tr>
-        <tr>
-            <td> </td>
-            <td> </td>
-        </tr>
-        <tr>
-            <td> </td>
-            <td> </td>
-        </tr>
-    </tbody>   
-	</table>    
+<h1>Edmond BOURSIER</h1>
         
-    </li>
-
-</ul>
-    
-<p></p>
-
-<p>A lire également:</p>
-
-	<ul>
-        <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-        <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
-        <li><a href="MICHEL-Firmin.php">MICHEL Firmin (Mort pour la France)</a></li>    
-   </ul>
-
+<p><strong>Edmond BOURSIER</strong>, frère de <a href="BOURSIER-Jules.php" title="Biographie du poilu Jules BOUSIER">Jules Henri</a>, né le 10 avril 1882, dont je n'ai pas encore pu trouver la fiche matricule. En 1906, il est ajusteur et vit Rue De La Chevauchoire à Onnaing, avec son frère Jules et ses parents. Etant âgé de 32 ans en 1914, je pense qu'il a du être mobilisé.</p>
+ 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
 </p>

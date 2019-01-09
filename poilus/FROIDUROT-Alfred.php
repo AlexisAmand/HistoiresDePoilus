@@ -51,51 +51,22 @@
     <a href="../poilus.php" class="NavSelected">Les Poilus</a>
 </nav>
 
+<div id="navbis">
+<a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="amand-jules.php">Les jasses de Belgique</a>
+</div>
+
 <section>
 
 <aside>
 <ul>
-        <li class="asideheader">Ardennes</li>
-
-        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
-
-        <li class="asideheader">Belgique</li>
-
-        <li><a href="soldats-belgique.php">Les soldats de Belgique</a></li>
-
         <li class="asideheader">Côte-d'Or</li>
 
         <li><a href="FROIDUROT-Alfred.php"  class="AsideSelected">FROIDUROT Alfred</a></li>
-
-        <li class="asideheader">Nord</li>
-
-        <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
-        <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
-        <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
-        <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
-        <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
-        <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
-        <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
-        <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
-        <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
-        <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
-        <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
-        <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
-        <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
-        <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
-        <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus du Nord</a></li>
-
-        <li class="asideheader">Marne</li>
-        
-        <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-        <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
-        <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
-    	      
-   </ul>
+              
+</ul>
    
     <div id="pubaside">
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

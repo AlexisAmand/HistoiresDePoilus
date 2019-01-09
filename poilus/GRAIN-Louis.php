@@ -49,53 +49,55 @@
     <a href="../poilus.php" class="NavSelected">Les Poilus</a>
 </nav>
 
+<div id="navbis">
+	<a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="amand-jules.php">Les jasses de Belgique</a>
+</div>
+
 <section>
 
 <aside>
+
 <ul>
-        <li class="asideheader">Ardennes</li>
-
-        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
-
-        <li class="asideheader">Belgique</li>
-
-        <li><a href="soldats-belgique.php">Les soldats de Belgique</a></li>
-
-        <li class="asideheader">Côte-d'Or</li>
-
-        <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
 
         <li class="asideheader">Nord</li>
 
+        <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
+		<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
+		<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
+        <li><a href="delaux-oscar-julien.php">DELAUX Oscar Julien</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
+        <li><a href="dubois-jean-charles.php">DUBOIS Jean Charles (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
-        <li><a href="GRAIN-Louis.php"  class="AsideSelected">GRAIN Louis</a></li>
+        <li><a href="GRAIN-Louis.php" class="AsideSelected">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
+        <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
+        <li><a href="magny-jules.php">MAGNY Jules</a></li>
+        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
+        <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus du Nord</a></li>
-
-        <li class="asideheader">Marne</li>
-        
-        <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-        <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
-        <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
-    	      
-   </ul>
+           	      
+</ul>
    
-      <div id="pubaside">
+<div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
@@ -105,7 +107,7 @@
     <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
-   </div>
+</div>
    
 </aside>
 
@@ -115,46 +117,45 @@
 
 <p><strong>Louis GRAIN</strong>, le père de mon arrière-grand-mère, est né le 21 juin 1876 à Villers-Guislain (Nord). Il est le fils légitime de Louis GRAIN, domestique âgé de 19 ans et Joséphine VELU, âgé de 17 ans. Le 18 mai 1895 à Villers-Guislain, il épouse en premières noces Martine VELU (1875-1935). Son frère <a href="GRAIN-Leon-Albert.php">Léon Albert</a> a aussi été mobilisé. En 1906, <strong>Louis</strong> est tisseur et vit à Villers-Guislain (Rue Neuve) en compagnie de son épouse Martine, ses filles Marguerite et Marthe et son fils Marcel.</p>
 
-<figure>
-    <a href="images/arbre-grain.png" id="single_image" title="Arbre généalogique simplifié de la famille GRAIN">
-    <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" style="box-shadow:none;width:650px;"/></a>
-    <figcaption>Arbre simplifié de la famille GRAIN<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/arbre-grain.png" id="single_image" title="Arbre généalogique simplifié de la famille GRAIN">
+	    <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" style="box-shadow:none;width:650px;"/></a>
+	    <figcaption>Arbre simplifié de la famille GRAIN<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
-<figure>
-    <a href="sources/louis-grain-matricule-01.jpg" id="single_image" title="Fiche matricule de Louis GRAIN (Extrait)">
-    <img src="miniatures/louis-grain-matricule-01.jpg" alt="Extrait de la fiche matricule de Louis GRAIN"/>
-    </a>
-    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="sources/louis-grain-matricule-01.jpg" id="single_image" title="Fiche matricule de Louis GRAIN (Extrait)">
+	    <img src="miniatures/louis-grain-matricule-01.jpg" alt="Extrait de la fiche matricule de Louis GRAIN"/></a>
+	    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
-<table style="width:70%;caption-side: bottom;">
-    <caption>Titre du tableau</caption>
-    <thead>
-        <tr>
-            <td>Dates</td>
-            <td>Adresses</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-    </tbody>   
-</table>
+	<table style="width:70%;caption-side: bottom;">
+	    <caption>Titre du tableau</caption>
+	    <thead>
+	        <tr>
+	            <td>Dates</td>
+	            <td>Adresses</td>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	    </tbody>   
+	</table>
 
 <br/><h2>La mobilisation d'août 1914</h2>
 
@@ -162,12 +163,11 @@
 
 <p>Durant le mois d’août, <strong>Louis</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> étaient affectés au 1er secteur qui comprenait le centre de résistance avancé, les centres de résistance du fort Grévaux et du fort d'Hautmont.</p>
 
-<figure>
-    <a href="images/forts-maubeuge.jpg" id="single_image" title="L'emplacement des forts de la place forte de Maubeuge en 1914">
-    <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/> 
-    </a>
-    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/forts-maubeuge.jpg" id="single_image" title="L'emplacement des forts de la place forte de Maubeuge en 1914">
+	    <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
+	    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
+	</figure>
 
 <br/><h2>L'attaque des allemands</h2>
 
@@ -177,25 +177,23 @@
 
 <p>Deux jours plus tard - le 4 septembre - le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e , 2e , 3e (celui de <strong>Louis</strong>) et 4e  territorial et enfin celui du 1er régiment d'artillerie à pied.</p><p> Les drapeaux de la garnison sont brûlés le lendemain à 7 heures du matin dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande une cérémonie qui émotionne fortement les assistants.</p>
 
-<figure>
-    <a href="images/Maubeuge-caserne-joyeuse.jpg" id="single_image" title="La Caserne Joyeuse (Maubeuge) avant 1914">
-    <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg" alt="La caserne Joyeuse à Maubeuge avant la Première Guerre Mondiale"/>
-    </a>
-    <figcaption>La Caserne Joyeuse à Maubeuge<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/Maubeuge-caserne-joyeuse.jpg" id="single_image" title="La Caserne Joyeuse (Maubeuge) avant 1914">
+	    <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg" alt="La caserne Joyeuse à Maubeuge avant la Première Guerre Mondiale"/></a>
+	    <figcaption>La Caserne Joyeuse à Maubeuge<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
 <br/><h2>C'est fini pour Maubeuge...</h2>
 
 <p>Le 7 septembre, à 11 heures 30, le Drapeau blanc est aperçu sur un clocher de Maubeuge. La Place de Maubeuge a capitulé. <strong>Louis GRAIN</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> furent entièrement fait prisonnier et furent parmi les 45 000 combattants de la poche de Maubeuge à être internés dans les camps allemands dont celui de <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">Chemnitz</a>, entre Dresde et Zwickau,  où ira Louis. </p>
 
-<figure>
-    <a id="single_image0" href="images/camp-de-chemnitz.jpg" title="le camp de Chemnitz pendant la Première Guerre Mondiale">
-    <img src="miniatures/camp-de-chemnitz.jpg" alt="le camp de Chemnitz (Allemagne)"/></a>
-    <figcaption>Le camp de Chemnitz<br />(Cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a id="single_image0" href="images/camp-de-chemnitz.jpg" title="le camp de Chemnitz pendant la Première Guerre Mondiale">
+	    <img src="miniatures/camp-de-chemnitz.jpg" alt="le camp de Chemnitz (Allemagne)"/></a>
+	    <figcaption>Le camp de Chemnitz<br />(Cliquez pour agrandir)</figcaption>
+	</figure>
 
-    <p style="font-size: 14px">
-  Selon son dossier d'ancien combattant, <strong>Louis</strong> est libéré du <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de Chemnitz</a> le 8 janvier 1919. </p>
+<p>Selon son dossier d'ancien combattant, <strong>Louis</strong> est libéré du <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de Chemnitz</a> le 8 janvier 1919.</p>
 
 <br /><h2>...mais à Villers-Guislain, la guerre arrive.</h2>
 

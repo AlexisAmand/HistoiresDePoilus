@@ -50,31 +50,33 @@
     <a href="../poilus.php" class="NavSelected">Les Poilus</a>
 </nav>
 
+<div id="navbis">
+	<a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="amand-jules.php">Les jasses de Belgique</a>
+</div>
+
 <section>
 
 <aside>
+
 <ul>
-        <li class="asideheader">Ardennes</li>
-
-        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
-
-        <li class="asideheader">Belgique</li>
-
-        <li><a href="soldats-belgique.php">Les soldats de Belgique</a></li>
-
-        <li class="asideheader">Côte-d'Or</li>
-
-        <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
 
         <li class="asideheader">Nord</li>
 
+        <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
+		<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
+		<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
-        <li><a href="CARIN-Theophile.php"  class="AsideSelected">CARIN Théophile</a></li>
+        <li><a href="CARIN-Theophile.php" class="AsideSelected">CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
+        <li><a href="delaux-oscar-julien.php">DELAUX Oscar Julien</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
+        <li><a href="dubois-jean-charles.php">DUBOIS Jean Charles (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
@@ -82,21 +84,21 @@
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
+        <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
+        <li><a href="magny-jules.php">MAGNY Jules</a></li>
+        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
+        <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus du Nord</a></li>
-
-        <li class="asideheader">Marne</li>
-        
-        <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-        <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
-        <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
-    	      
-   </ul>
+           	      
+</ul>
   
-      <div id="pubaside">
+<div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
@@ -106,7 +108,7 @@
     <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
-   </div>
+</div>
    
 </aside>
 
@@ -116,124 +118,114 @@
 
 <p><strong>Théophile  CARIN</strong> est né le 19 août 1879 à Lourches (Nord), fils légitime de  François Louis CARIN et de Pauline DUSSART. Il s'unit avec Zélia  BRASSEUR (née en 1886), mon arrière-arrière-grand-mère,  le  vendredi 14 août 1908 à Lourches. <strong>Théophile</strong> n'est pas parent avec moi. Il a juste épousé une de mes aïeules.</p>
 
-<figure>
-    <a href="images/arbre-carin.png" id="single_image" title="La famille CARIN">
-    <img src="miniatures/arbre-carin.png"  alt="arbre généalogique de la Famille Carin de Lourches et Roeulx"   style="box-shadow:none;width:650px;">
-    </a>
-    <figcaption>Arbre généalogique de la famille CARIN<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/arbre-carin.png" id="single_image" title="La famille CARIN">
+	    <img src="miniatures/arbre-carin.png"  alt="arbre généalogique de la Famille Carin de Lourches et Roeulx"   style="box-shadow:none;width:650px;"></a>
+	    <figcaption>Arbre généalogique de la famille CARIN<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
-<figure>
-    <a href="sources/CARIN-matricule-03.jpg" id="single_image" title="Théophile CARIN - Extrait de sa fiche matricule">
-    <img src="miniatures/CARIN-matricule-03.jpg" alt="Extrait de la fiche matricule de Théophile CARIN"/>
-    </a>
-    <figcaption>Extrait de sa fiche matricule<br />(Cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="sources/CARIN-matricule-03.jpg" id="single_image" title="Théophile CARIN - Extrait de sa fiche matricule">
+	    <img src="miniatures/CARIN-matricule-03.jpg" alt="Extrait de la fiche matricule de Théophile CARIN"/></a>
+	    <figcaption>Extrait de sa fiche matricule<br />(Cliquez pour agrandir)</figcaption>
+	</figure>
   
 <p>Selon le recensement de 1906, Théophile a plusieurs frères et sœurs, tous nés et déclarés à Lourches: Elise (née en 1873), François Louis (né en 1875), Jean-Baptiste (né en 1880), <a href="CARIN-Edouard.php">Edouard</a> (né le 5 août 1884), Célina (née en 1886),  Appoline (née en 1890), Clara (née en 1892), <a href="CARIN-Leon.php">Léon</a> (né en 1896).</p>
 
-<figure>
-    <a href="images/mairie-de-lourches.jpg" id="single_image" title="La mairie de Lourches">
-    <img src="miniatures/mairie-de-lourches.jpg" alt="La mairie de Lourches sur une carte postale ancienne"/>
-    </a>
-    <figcaption>La mairie de Lourches<br />(Cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/mairie-de-lourches.jpg" id="single_image" title="La mairie de Lourches">
+	    <img src="miniatures/mairie-de-lourches.jpg" alt="La mairie de Lourches sur une carte postale ancienne"/></a>
+	    <figcaption>La mairie de Lourches<br />(Cliquez pour agrandir)</figcaption>
+	</figure>
 
 <p>Du 20 août 1906 au 16 septembre 1906,  <strong>Théophile</strong> accomplit une première période d'exercice au sein du <strong>127e Régiment d’Infanterie</strong> qui est en garnison à Valenciennes depuis 1873. Du 1er juin 1909 au  17 juin 1909, il accomplit une 2e période d'exercice (toujours au sein du <strong>127e Régiment d’Infanterie</strong>). Les périodes d'exercice étaient organisées afin que ces réservistes restent opérationnels, même 10 ans après la fin de leur service militaire, trois périodes d'exercices sont organisées par les différentes lois de recrutement et circulaires ministérielles.</p>
 
-<figure>
-    <a href="sources/CARIN-matricule-01.jpg" id="single_image" title="Extrait de la fiche matricule de Théophile CARIN">
-    <img src="miniatures/CARIN-matricule-01.jpg" alt="Les périodes d'exercices de Théophile CARIN sur sa fiche matricule"/>
-    </a>
-    <figcaption>Extrait de sa fiche matricule<br />(Cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="sources/CARIN-matricule-01.jpg" id="single_image" title="Extrait de la fiche matricule de Théophile CARIN">
+	    <img src="miniatures/CARIN-matricule-01.jpg" alt="Les périodes d'exercices de Théophile CARIN sur sa fiche matricule"/></a>
+	    <figcaption>Extrait de sa fiche matricule<br />(Cliquez pour agrandir)</figcaption>
+	</figure>
 
 <p>Le 5 mars 1908, <strong>Théophile CARIN</strong> est condamné par jugement du tribunal correctionnel de Douai à 10 jours de prison pour violence et voies de fait volontaires. Le 28 avril 1909, il est condamné une seconde fois à 8 jours de prison pour coup par le tribunal correctionnel de Valenciennes. Le 21 novembre 1911, il est condamné une troisième fois par jugement contradictoire du tribunal correctionnel d’Arras à un mois de prison pour vol. Le 15 mai 1913, Il est une nouvelle fois condamné, mais cette fois ci c'est à 20 jours de prison pour vol par le tribunal de Bethune.</p>
 
-<figure>
-    <a href="images/arras-tribunal.jpg" id="single_image" title="Le tribunal d'Arras">
-    <img src="miniatures/arras-tribunal.jpg" alt="Le tribunal d'Arras sur une carte postale ancienne"/> 
-    </a>
-    <figcaption>Le tribunal d'Arras<br />(Cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/arras-tribunal.jpg" id="single_image" title="Le tribunal d'Arras">
+	    <img src="miniatures/arras-tribunal.jpg" alt="Le tribunal d'Arras sur une carte postale ancienne"/></a>
+	    <figcaption>Le tribunal d'Arras<br />(Cliquez pour agrandir)</figcaption>
+	</figure>
 
-<table style="width:70%;caption-side: bottom;">
-    <caption>Liste des domiciles de Théophile</caption>
-    <thead>
-        <tr>
-            <td>Dates</td>
-            <td>Adresses</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-    </tbody>   
-</table>
+	<table style="width:70%;caption-side: bottom;">
+	    <caption>Liste des domiciles de Théophile</caption>
+	    <thead>
+	        <tr>
+	            <td>Dates</td>
+	            <td>Adresses</td>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	    </tbody>   
+	</table>
 
 <h2>La mobilisation d'août 1914</h2>
   
 <p>Mobilisation générale! Comme la plupart des hommes de sa génération, <strong>Théophile</strong> est rappelé à l’activité et  arrive au <strong>1er groupe spécial</strong> le 6 août. À la mobilisation, chaque Corps d'Armée soulevait un <strong>Groupe Spécial</strong> (le numéro est celui du Corps d'Armée). Dans ces groupes étaient reversés les condamnés réservistes.</p>
   
-<figure>
-    <a href="sources/CARIN-matricule-02.jpg" id="single_image" title="Extrait de la fiche matricule de Théophile CARIN">
-    <img src="miniatures/CARIN-matricule-02.jpg" alt="La condamnation à de la prison sur la fiche matricule de Théophile CARIN"/>
-    </a>
-    <figcaption>Extrait de sa fiche matricule<br />(Cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="sources/CARIN-matricule-02.jpg" id="single_image" title="Extrait de la fiche matricule de Théophile CARIN">
+	    <img src="miniatures/CARIN-matricule-02.jpg" alt="La condamnation à de la prison sur la fiche matricule de Théophile CARIN"/></a>
+	    <figcaption>Extrait de sa fiche matricule<br />(Cliquez pour agrandir)</figcaption>
+	</figure>
   
-<br /><p>Du 6 août 1914  au 28 août 1914, <strong>Théophile CARIN</strong> est dit "à l'intérieur - Camp simple". Cela signifie que  le soldat était très en retrait des combats et peut-être au dépôt de son régiment. Je pense que <strong>Théophile</strong> était juste en attente de son transfert en Algérie.</p>
+<p>Du 6 août 1914  au 28 août 1914, <strong>Théophile CARIN</strong> est dit "à l'intérieur - Camp simple". Cela signifie que  le soldat était très en retrait des combats et peut-être au dépôt de son régiment. Je pense que <strong>Théophile</strong> était juste en attente de son transfert en Algérie.</p>
 
 <br/><h2>Théophile en Afrique</h2>
 
 <p>Du 29 septembre 1914 au 14 août 1916, Théophile est affecté "<strong>Aux armées d’Algérie</strong>".</p><p> A partir du 9 août 1916, <strong>Théophile CARIN</strong> passe au <strong>4e Bataillon d’Infanterie Légère d’Afrique</strong> jusqu'au 16 août 1918, date de sa fusion avec le 5e bataillon d'Afrique. Le 4e bataillon est successivement commandé par le chef de bataillon Ardit, puis par le chef de bataillon FLOUCAUT de FOURCROY.</p>
 
-<figure>
-    <a href="images/tatahouine.jpg" id="single_image" title="Tatahouine (Tunisie) - Vu d'ensemble du camp">
-    <img src="miniatures/tatahouine.jpg" alt="Vue d'ensemble du camp de Tatahouine en Tunisie au début du XXe siècle"/>
-    </a>
-    <figcaption>Vue d'ensemble du camp de Tatahouine<br />(Cliquez pour agrandir)</figcaption>
-</figure>
-
-<figure>
-    <a href="images/camp-Tatahouine.jpg" id="single_image" title="Tatahouine (Tunisie) - Le camp retranché">
-    <img src="miniatures/camp-Tatahouine.jpg" alt="Le camp retranché de Tatahouine pendant la campagne de 1915-1916"/>
-    </a>
-    <figcaption>Le camp retranché de Tatahouine<br />(Cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/tatahouine.jpg" id="single_image" title="Tatahouine (Tunisie) - Vu d'ensemble du camp">
+	    <img src="miniatures/tatahouine.jpg" alt="Vue d'ensemble du camp de Tatahouine en Tunisie au début du XXe siècle"/></a>
+	    <figcaption>Vue d'ensemble du camp de Tatahouine<br />(Cliquez pour agrandir)</figcaption>
+	</figure>
+	
+	<figure>
+	    <a href="images/camp-Tatahouine.jpg" id="single_image" title="Tatahouine (Tunisie) - Le camp retranché">
+	    <img src="miniatures/camp-Tatahouine.jpg" alt="Le camp retranché de Tatahouine pendant la campagne de 1915-1916"/></a>
+	    <figcaption>Le camp retranché de Tatahouine<br />(Cliquez pour agrandir)</figcaption>
+	</figure>
 
 <p>Le <strong>4e B.I.L.A</strong> continuera d'occuper alternativement les secteurs de Tatahouine, où <strong>Théophile</strong> est présent du 15 août 1916 au 18 octobre 1916 puis de Dehibat au sud de la Tunisie, où <strong>Théophile</strong> est présent du 19 octobre 1916 au 29 février 1919. Il prendra aussi part aux colonnes mobiles et de police dans les environs de ces postes.</p>
              
-<figure>
-    <a href="cartes/tunisie-1910.jpg" id="single_image" title="carte de la Tunisie vers 1910">
-    <img src="cartes/mini/tunisie-1910.jpg" alt="Carte du sud de la Tunisie, près de la frontière avec la Lybie"  title="Carte du sud de la Tunisie vers 1910"/>
-    </a>
-    <figcaption>Carte du sud de la Tunisie, près de la frontière avec la Lybie (1910).<br />(Cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="cartes/tunisie-1910.jpg" id="single_image" title="carte de la Tunisie vers 1910">
+	    <img src="cartes/mini/tunisie-1910.jpg" alt="Carte du sud de la Tunisie, près de la frontière avec la Lybie"  title="Carte du sud de la Tunisie vers 1910"/></a>
+	    <figcaption>Carte du sud de la Tunisie, près de la frontière avec la Lybie (1910).<br />(Cliquez pour agrandir)</figcaption>
+	</figure>
 
 <h2>L'après guerre de Théophile</h2>
 
-<p>Quelques années après la guerre,   le 15 mars 1923, <strong>Théophile</strong> et Zélia divorcent. Il part vivre à Roeulx, rue Arthur Lamendin, puis est libéré du service militaire le 28 novembre 1928.</p>
+<p>Quelques années après la guerre, le 15 mars 1923, <strong>Théophile</strong> et Zélia divorcent. Il part vivre à Roeulx, rue Arthur Lamendin, puis est libéré du service militaire le 28 novembre 1928.</p>
 
 <h2>Sources et bibliographie</h2>
     
     <ul>
-         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
-       
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>       
     </ul>
 
 <p class="sources">

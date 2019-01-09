@@ -4,16 +4,17 @@
 
 <meta charset="utf-8">
           
-<title>Biographie et parcours du soldat LETIENNE Florimond - Histoires de Poilus</title>
-<meta content="Parcours de Florimond LETIENNE, soldat pendant la Première Guerre Mondiale" name="description">
-    
+<title>Histoires de Poilus - Liste de quelques poilus du Nord</title>
+<meta content="Petites biographies de soldats de ma famille ayant participé à la Première Guerre Mondiale et ayant vécu dans le Nord" name="description">
+
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-                  
-</head>
+   
+</head>   
 
 <body>
+
 <!-- code js pour l'avertissement sur les cookies -->
 
 <script src="../js/cookiechoices.js"></script>
@@ -85,7 +86,7 @@
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
-        <li><a href="LETIENNE-Florimond.php" class="AsideSelected">LETIENNE Florimond</a></li>
+        <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
@@ -93,61 +94,44 @@
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
-        <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
+        <li><a href="VELU-Adrien.php" class="AsideSelected">VELU Adrien (+)</a></li>
            	      
 </ul>
    
 <div id="pubaside">
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
-     style="display:inline-block;width:160px;height:600px"
-     data-ad-client="ca-pub-1550427609493753"
-     data-ad-slot="8236218848"></ins>
+    style="display:inline-block;width:160px;height:600px"
+    data-ad-client="ca-pub-1550427609493753"
+    data-ad-slot="8236218848"></ins>
     <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
 </div>
-   
+     
 </aside>
 
 <article>
+    
+<h1>Gervais BOUCHER</h1>
 
-<h1>Florimond LETIENNE</h1>
-
-<p><strong>Florimond LETIENNE</strong>, le beau frère d'<a href="FIEVET-Auguste-Victor.php" title="lien vers la page consacrée à Auguste FIEVET">Auguste</a> et <a href="FIEVET-Charles-Augustin.php" title="lien vers la page consacrée à Charles FIEVET">Charles FIEVET</a>, est né le 19 octobre 1873 à Roubaix (Nord), fils légitime de Henri Joseph LETIENNE et de Adéle Fileline DEGOBERT. Le 12 novembre 1898 à Roubaix, Florimond épouse Marie DELAUX, fille légitime d'Adolphe (1856-1906) et Joséphine RICHOMME (1857 - ? ), et sœur de Nathalie DELAUX (1885 - 1952), mon arrière-arrière-grand-mère.</p>
+<p><strong>Gervais BOUCHER</strong> est né le 31 mai 1880 à Onnaing (Nord) à quelques kilométres de Valenciennes. Fils légitime de Pierre Joseph et Anne Marie Lucette DELHAYE, il commence sa cariière militaire à l'âge de 20 ans quand il s'engage en tant que volontaire pour 3 ans le 17 octobre 1900 à la Mairie de Valenciennes. Au passage, je voudrais vous rappeler qu'il existait 3 sortes d'engagés volontaires: les engagés volontaires pour une durée de 3 à 5 ans, ceux engagés pour la durée de la guerre et qui étaient reçus à partir du 20e jour de la mobilisation, et enfin les engagements spéciaux des examptés, réformés et des hommes âgés.</p>
 
     <figure>
-        <a href="images/letienne-florimond-1873.jpg" id="single_image" title="Acte de naissance de Florimond LETIENNE">
-        <img src="miniatures/letienne-florimond-1873.jpg" alt="Acte de naissance de Florimond LETIENNE"></a>
-        <figcaption>Acte de naissance de Florimond<br /> (source : Archives Départementales du Nord)</figcaption>
-    </figure> 
+        <a href="images/mairie-valenciennes.jpg" id="single_image" title="La Place d'Armes de Valenciennes">
+        <img src="miniatures/mairie-valenciennes.jpg" alt="L'Hôtel de Ville de Valenciennes et la Place d'Armes"/></a>
+        <figcaption>La Place d'Armes de Valenciennes,<br />avec vue sur l'Hôtel de Ville<br>(Source: Delcampe)</figcaption>
+    </figure>
 
-<p>Selon le recensement de 1906, Florimond est rattacheur et vit Rue des Longues à Haies à Roubaix, en compagnie de Marie Lucie et de ses enfants : Léonie, Georges et Charles. La Rue des Longues Haies était situé dans un quartier populaire de Roubaix. Longue de près 1 km, on y trouvait des usines, des estaminets, des commerces, le Mont de Piété ou encore les Bains Municipaux. La rue était aussi un labyrinthe de courées parmi lesquelles la Cour Mulliez, où vivait la famille LETIENNE. On rencontrait cette rue en remontant la Rue de Lannoy vers l'église Sainte Elisabeth, elle s'étendait parallèlement au Boulevard Gambetta, en une longue ligne droite.</p> 
+<p>Il rejoint alors la 1ere compagnie d'ouvrier d'artillerie où il arrive le lendemain et est immatriculé sous le n°677. Durant son engagement, il suit une formation et devient ouvrier en bois. Son engagement terminé, il part vivre à Calais (62) avec le certificat de bonne conduite accordé. Le 5 Juin 1905, Gervais épouse à Onnaing Marie Céline MASCART, une descendante d'Antoine MASCART (1721-1797) et Michelle BRACONNIER (1684-1727), mes sosas n°644 et 645. Dix ans plus tard, quand la guerre éclate, il est rappelé à l'activité par le décret de mobilisation générale du 1er août 1914 et rejoint le 1er R.A.P Il est fait prisonnier à Maubeuge le 7 septembre 1914 et est envoyé en internement à <a href="../camps/camp-munster.php" title="Le camp de prisonniers de Munster">Munster III</a> d'où il sera rappatrié le 8 décembre 1918. Il est envoyé en congés illimité le 17 février 1919 aprés une permission de 60 jours. Gervais est décédé à son domicile situé <a href="http://cartespostalesanciennes.genealexis.fr/image/421-valenciennes-le-depart-du-tramway-rue-de-mons" title="Le départ du Tramway, rue de Mons, à Valenciennes">Rue de Mons à Valenciennes</a>, le 27 décembre 1964.</p>
     
     <figure>
-        <a href="images/roubaix_longues_haies.jpg" id="single_image" title="La Rue des Longues Haies à Roubaix">
-        <img src="miniatures/roubaix_longues_haies.jpg" alt="La Rue des Longues Haies et le Mont de piété à Roubaix"></a>
-        <figcaption>La Rue des Longues Haies et le Mont de Piété (Roubaix)<br /> (source : Bibliothèque Numérique de Roubaix)</figcaption>
-    </figure>   
-    
-<br/><h2>Florimond et la Grande Guerre</h2>
-    
-<p>Suite à la mobilisation, il arrive au corps le 2 août 1914 (peut-être le <strong>27e Régiment d'Artillerie</strong>). Ensuite, il passera successivement par le <strong>6e Régiment d'Artillerie à Pied</strong> (le 21 septembre 1915), le <strong>7e Régiment d'Artillerie</strong> à Pied (le 1 mars 1916), le <strong>11e Régiment d'Artillerie à Pied</strong> (le 25 décembre 1917) et enfin le <strong>13e Régiment d'Artillerie de Campagne</strong> (le 10 mars 1918).</p>
-
-    <figure>
-        <a href="images/carte-florimond-letienne.jpg" id="single_image" title="Carte d'ancien combattant">
-        <img src="miniatures/carte-florimond-letienne.jpg" alt="carte d'ancien combattant de Florimond LETIENNE trouvée aux Archives Départementales"></a>
-        <figcaption>Carte d'ancien combattant ayant appartenu à Florimond<br /> (source : Archives Départementales du Nord)</figcaption>
-    </figure>   
-
-<br /><h2>Sources et bibliographie</h2>
-    
-<ul>
-    <li><a href="http://archives.genealexis.fr/album/20-letienne-florimond" title="version numérisée du dossier d'ancien combattant de Florimond LETIENNE">Le dossier d'ancien combattant de Florimond LETIENNE</a> (Archives Départementales du Nord)</li>
-    <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
-</ul>     
- 
+        <a href="../camps/images/camps_prisonniers_munster_01.jpg" id="single_image" title="Le retour des corvées à Münster III">
+        <img src="../camps/miniatures/camps_prisonniers_munster_01.jpg" alt="Des soldats de retour des corvées au camp de Münster III"></a>
+        <figcaption>Le retour des corvées à Munster III<br />(Carte postale)</figcaption>
+    </figure>
+        
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
 </p>
@@ -164,7 +148,7 @@
     <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
 </footer>
 
-<?php include('../include/stats.inc'); ?> 
+<?php include('../include/stats.inc'); ?>
 
 <!-- javascript -->
 

@@ -4,16 +4,17 @@
 
 <meta charset="utf-8">
           
-<title>Biographie et parcours du soldat LETIENNE Florimond - Histoires de Poilus</title>
-<meta content="Parcours de Florimond LETIENNE, soldat pendant la Première Guerre Mondiale" name="description">
-    
+<title>Histoires de Poilus - Liste de quelques poilus du Nord</title>
+<meta content="Petites biographies de soldats de ma famille ayant participé à la Première Guerre Mondiale et ayant vécu dans le Nord" name="description">
+
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-                  
-</head>
+   
+</head>   
 
 <body>
+
 <!-- code js pour l'avertissement sur les cookies -->
 
 <script src="../js/cookiechoices.js"></script>
@@ -59,7 +60,6 @@
 <section>
 
 <aside>
-
 <ul>
 
         <li class="asideheader">Nord</li>
@@ -85,9 +85,9 @@
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
-        <li><a href="LETIENNE-Florimond.php" class="AsideSelected">LETIENNE Florimond</a></li>
+        <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
-        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-emile.php" class="AsideSelected">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
         <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
@@ -98,56 +98,59 @@
 </ul>
    
 <div id="pubaside">
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
-     style="display:inline-block;width:160px;height:600px"
-     data-ad-client="ca-pub-1550427609493753"
-     data-ad-slot="8236218848"></ins>
+    style="display:inline-block;width:160px;height:600px"
+    data-ad-client="ca-pub-1550427609493753"
+    data-ad-slot="8236218848"></ins>
     <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
 </div>
-   
+     
 </aside>
 
 <article>
-
-<h1>Florimond LETIENNE</h1>
-
-<p><strong>Florimond LETIENNE</strong>, le beau frère d'<a href="FIEVET-Auguste-Victor.php" title="lien vers la page consacrée à Auguste FIEVET">Auguste</a> et <a href="FIEVET-Charles-Augustin.php" title="lien vers la page consacrée à Charles FIEVET">Charles FIEVET</a>, est né le 19 octobre 1873 à Roubaix (Nord), fils légitime de Henri Joseph LETIENNE et de Adéle Fileline DEGOBERT. Le 12 novembre 1898 à Roubaix, Florimond épouse Marie DELAUX, fille légitime d'Adolphe (1856-1906) et Joséphine RICHOMME (1857 - ? ), et sœur de Nathalie DELAUX (1885 - 1952), mon arrière-arrière-grand-mère.</p>
-
-    <figure>
-        <a href="images/letienne-florimond-1873.jpg" id="single_image" title="Acte de naissance de Florimond LETIENNE">
-        <img src="miniatures/letienne-florimond-1873.jpg" alt="Acte de naissance de Florimond LETIENNE"></a>
-        <figcaption>Acte de naissance de Florimond<br /> (source : Archives Départementales du Nord)</figcaption>
-    </figure> 
-
-<p>Selon le recensement de 1906, Florimond est rattacheur et vit Rue des Longues à Haies à Roubaix, en compagnie de Marie Lucie et de ses enfants : Léonie, Georges et Charles. La Rue des Longues Haies était situé dans un quartier populaire de Roubaix. Longue de près 1 km, on y trouvait des usines, des estaminets, des commerces, le Mont de Piété ou encore les Bains Municipaux. La rue était aussi un labyrinthe de courées parmi lesquelles la Cour Mulliez, où vivait la famille LETIENNE. On rencontrait cette rue en remontant la Rue de Lannoy vers l'église Sainte Elisabeth, elle s'étendait parallèlement au Boulevard Gambetta, en une longue ligne droite.</p> 
+    
+<h1>Les poilus du Nord</h1>
+        
+<p><strong>Emile MASCART</strong> est né à Onnaing le 24 janvier 1887, fils légitime de Romain et Marie Thérèse LEBRUN. Mes ancêtres communs avec Emile sont Hierosme MASCART (1658-1720) et Marie MARTIN (1653-1722), un couple originaire de Quarouble. Avant la guerre, Emile exerce la profession de traceur en constructions métalliques chez LEMAIRE et vit rue Saint Joseph à Onnaing. Il est rappelé à l'activité par le décret du 1 août 1914 et arrive au 91 Régiment d'Infanterie le 3. L'année qui suit, le 14 septembre, il est détaché aux Fonderies de Firminy (Loire) où on produit les cannons de 155 mm. Il est affecté au 86e Régiment d'Infanterie par la circulaire ministérielle du 25 mai 1917 mais maintenu détaché. Il est envoyé en congé illimité le 10 avril 1919 et se retire rue d'Estreux à Onnaing où il décède le jeudi 20 février 1941.</p>
     
     <figure>
-        <a href="images/roubaix_longues_haies.jpg" id="single_image" title="La Rue des Longues Haies à Roubaix">
-        <img src="miniatures/roubaix_longues_haies.jpg" alt="La Rue des Longues Haies et le Mont de piété à Roubaix"></a>
-        <figcaption>La Rue des Longues Haies et le Mont de Piété (Roubaix)<br /> (source : Bibliothèque Numérique de Roubaix)</figcaption>
-    </figure>   
+	    <a href="http://cartespostalesanciennes.genealexis.fr/image/loire/930-acierie-de-firminy.jpg" id="single_image" title="Les Fonderies de Firminy (Loire)">
+	    <img src="http://cartespostalesanciennes.genealexis.fr/image/loire/930-acierie-de-firminy.jpg" width="450px" alt="Les Fonderies de Firminy dans la Loire"/></a>
+	    <figcaption>Les Fonderies de Firminy (Loire)</figcaption>
+    </figure>
     
-<br/><h2>Florimond et la Grande Guerre</h2>
+    <table style="width:70%;caption-side: bottom;">
+        <caption>Liste des domiciles d'Emile MASCART</caption>
+	    <thead>
+	        <tr>
+	            <td>Dates</td>
+	            <td>Adresses</td>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td>1906</td>
+	            <td>Rue Saint Joseph<br />à Onnaing (Nord)</td>
+	        </tr>
+	        <tr>
+	            <td>1914-1918</td>
+	            <td>Il est détaché<br />aux Fonderies de Firminy (Loire)</td>
+	        </tr>
+	        <tr>
+	            <td>5 janvier 1929</td>
+	            <td>12 rue Etienne DOLET<br />à Onnaing (Nord)</td>
+	        </tr>
+	        <tr>
+	            <td>20 février 1941</td>
+	            <td>17 rue d'Estreux<br />à Onnaing (Nord)</td>           
+	        </tr>
+        </tbody>
+    </table>
     
-<p>Suite à la mobilisation, il arrive au corps le 2 août 1914 (peut-être le <strong>27e Régiment d'Artillerie</strong>). Ensuite, il passera successivement par le <strong>6e Régiment d'Artillerie à Pied</strong> (le 21 septembre 1915), le <strong>7e Régiment d'Artillerie</strong> à Pied (le 1 mars 1916), le <strong>11e Régiment d'Artillerie à Pied</strong> (le 25 décembre 1917) et enfin le <strong>13e Régiment d'Artillerie de Campagne</strong> (le 10 mars 1918).</p>
-
-    <figure>
-        <a href="images/carte-florimond-letienne.jpg" id="single_image" title="Carte d'ancien combattant">
-        <img src="miniatures/carte-florimond-letienne.jpg" alt="carte d'ancien combattant de Florimond LETIENNE trouvée aux Archives Départementales"></a>
-        <figcaption>Carte d'ancien combattant ayant appartenu à Florimond<br /> (source : Archives Départementales du Nord)</figcaption>
-    </figure>   
-
-<br /><h2>Sources et bibliographie</h2>
-    
-<ul>
-    <li><a href="http://archives.genealexis.fr/album/20-letienne-florimond" title="version numérisée du dossier d'ancien combattant de Florimond LETIENNE">Le dossier d'ancien combattant de Florimond LETIENNE</a> (Archives Départementales du Nord)</li>
-    <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
-</ul>     
- 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
 </p>
@@ -164,7 +167,7 @@
     <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
 </footer>
 
-<?php include('../include/stats.inc'); ?> 
+<?php include('../include/stats.inc'); ?>
 
 <!-- javascript -->
 

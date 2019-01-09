@@ -25,8 +25,8 @@
         <img src="../images/twitter.png" alt="logo Twitter"   /></a>
     </div>
     
-    <a href="../index.php" title="Retour sur la page d'accueil du site">
-    <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+  <a href="../index.php" title="Retour sur la page d'accueil du site">
+  <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
   
 </header>
    
@@ -40,31 +40,33 @@
     <a href="../poilus.php" class="NavSelected">Les Poilus</a>
 </nav>
 
+<div id="navbis">
+	<a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="amand-jules.php">Les jasses de Belgique</a>
+</div>
+
 <section>
 
 <aside>
+
 <ul>
-        <li class="asideheader">Ardennes</li>
-
-        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
-
-        <li class="asideheader">Belgique</li>
-
-        <li><a href="soldats-belgique.php">Les soldats de Belgique</a></li>
-
-        <li class="asideheader">Côte-d'Or</li>
-
-        <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
 
         <li class="asideheader">Nord</li>
 
+        <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
+		<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
+		<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
-        <li><a href="CARLIER-Druon-Joseph.php"  class="AsideSelected">CARLIER Druon Joseph</a></li>
+        <li><a href="CARLIER-Druon-Joseph.php" class="AsideSelected">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
+        <li><a href="delaux-oscar-julien.php">DELAUX Oscar Julien</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
+        <li><a href="dubois-jean-charles.php">DUBOIS Jean Charles (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
@@ -72,21 +74,21 @@
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
+        <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
+        <li><a href="magny-jules.php">MAGNY Jules</a></li>
+        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
+        <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus du Nord</a></li>
-
-        <li class="asideheader">Marne</li>
-        
-        <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-        <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
-        <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
-    	      
+           	      
    </ul>
    
-      <div id="pubaside">
+<div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
@@ -96,7 +98,7 @@
     <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
-   </div>
+</div>
    
 </aside>
 
@@ -106,59 +108,55 @@
 
 <p><strong>Druon Joseph CARLIER</strong>, père de mon arrière-grand-mère, est né le samedi 15 avril 1876 à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> (Nord). Il est le fils de Druon Joseph CARLIER, ouvrier, âgé de 49 ans et de Sidonie Célestine PATOU, ouvrière, âgée de 42 ans.</p>
 
-<figure>
-    <a href="images/arbre-carlier.png" id="single_image" title="Arbre généalogique simplifié de la famille JOLY-CARLIER">
-    <img src="miniatures/arbre-carlier.png" alt="Arbre généalogique simplifié de la famille JOLY-CARLIER" style="box-shadow:none;width:650px;"/>
-    </a>
-    <figcaption>Arbre simplifié de la famille JOLY-CARLIER<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/arbre-carlier.png" id="single_image" title="Arbre généalogique simplifié de la famille JOLY-CARLIER">
+	    <img src="miniatures/arbre-carlier.png" alt="Arbre généalogique simplifié de la famille JOLY-CARLIER" style="box-shadow:none;width:650px;"/></a>
+	    <figcaption>Arbre simplifié de la famille JOLY-CARLIER<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
 <p>Pour simplifier les choses, je n'ai pas représenté tous les membres de la famille sur l'arbre ci-dessus, mais à sa naissance, Druon a pour frères et sœurs : Gustave (né en 1864), Maria Sidonie (née en 1865), Marie Zélia (née en 1869) et <a href="CARLIER-Louis-Abraham.php">Louis Abraham</a> (né en 1871). En 1906, il vit au hameau de Sebourquiaux avec son épouse Angèle DANHIEZ et ses deux filles Lucia (mon arrière-grand-mère) et Maria.</p>
 
-<figure>
-    <a href="sources/carlier-druon-matricule-01.jpg" id="single_image" title="Druon Joseph CARLIER - Extrait de sa fiche matricule">
-    <img src="miniatures/carlier-druon-matricule-01.jpg" alt="Extrait de la fiche matricule de Druon CARLIER"/>
-    </a>
-    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
-</figure>
+	<figure>
+	    <a href="sources/carlier-druon-matricule-01.jpg" id="single_image" title="Druon Joseph CARLIER - Extrait de sa fiche matricule">
+	    <img src="miniatures/carlier-druon-matricule-01.jpg" alt="Extrait de la fiche matricule de Druon CARLIER"/></a>
+	    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
+	</figure>
 
-<table style="width:70%;caption-side: bottom;">
-    <caption>Liste des domiciles de Druon</caption>
-    <thead>
-        <tr>
-            <td>Dates</td>
-            <td>Adresses</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-    </tbody>   
-</table>
+	<table style="width:70%;caption-side: bottom;">
+	    <caption>Liste des domiciles de Druon</caption>
+	    <thead>
+	        <tr>
+	            <td>Dates</td>
+	            <td>Adresses</td>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	    </tbody>   
+	</table>
 
-<p>Durant son service militaire, <strong>Druon Joseph CARLIER</strong> est incorporé comme soldat de 2e classe au <strong>1er Régiment d’Infanterie</strong> sous le matricule n°8102 le 15 novembre 1897. C'est un régiment qui est né en 1479 et est issu des "bandes de Picardie". Il a traversé toutes les époques en participant à toutes les campagnes qui ont fait la France.</p>
-<p>En application de la décision ministérielle du 21 septembre 1898, il passe au <strong>1er Régiment d’Infanterie de Marine</strong> le 1er décembre 1898 et est immatriculé sous le n° A 7225. Le 16 septembre 1899, il devient soldat de 1e classe. Il ne s’agit pas d’un grade mais plutôt d’une distinction qui permettrait d’accéder ensuite au grade de caporal. Il est envoyé en congé en attendant son passage dans la réserve avec un certificat de bonne conduite accordé le 28 septembre 1900.</p>
+<p>Durant son service militaire, <strong>Druon Joseph CARLIER</strong> est incorporé comme soldat de 2e classe au <strong>1er Régiment d’Infanterie</strong> sous le matricule n°8102 le 15 novembre 1897. C'est un régiment qui est né en 1479 et est issu des "bandes de Picardie". Il a traversé toutes les époques en participant à toutes les campagnes qui ont fait la France.</p><p>En application de la décision ministérielle du 21 septembre 1898, il passe au <strong>1er Régiment d’Infanterie de Marine</strong> le 1er décembre 1898 et est immatriculé sous le n° A 7225. Le 16 septembre 1899, il devient soldat de 1e classe. Il ne s’agit pas d’un grade mais plutôt d’une distinction qui permettrait d’accéder ensuite au grade de caporal. Il est envoyé en congé en attendant son passage dans la réserve avec un certificat de bonne conduite accordé le 28 septembre 1900.</p>
 
-<figure>
-      <a href="portraits/Druon Joseph CARLIER (sosa 22).jpg" id="single_image" title="agrandir le portrait de Druon Joseph CARLIER">
-      <img src="miniatures/Druon Joseph CARLIER (sosa 22).jpg" alt="portrait du poilu Druon Joseph CARLIER"/>
-      </a>
-      <figcaption>Druon Joseph CARLIER</figcaption>
- </figure>
+	<figure>
+	      <a href="portraits/Druon Joseph CARLIER (sosa 22).jpg" id="single_image" title="agrandir le portrait de Druon Joseph CARLIER">
+	      <img src="miniatures/Druon Joseph CARLIER (sosa 22).jpg" alt="portrait du poilu Druon Joseph CARLIER"/></a>
+	      <figcaption>Druon Joseph CARLIER</figcaption>
+	 </figure>
 
 <p>Le 13 avril 1903, <strong>Druon</strong> épouse à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> Angèle DANHIEZ (1880-1969). Le couple aura 3 enfants: Maria Antoinette (née en 1904), mon arrière-grand-mère Lucia (née en 1905), et Lucien dont j'ignore la date de naissance. Lucia épouse Noël JOLY, le fils de <a href="JOLY-Noel-Jules.php">Noel Jules JOLY</a>,  le 24 septembre 1927 à Onnaing.</p>
 
@@ -166,12 +164,11 @@
 
 <p>Mobilisation générale !</p>
 
-<figure>
-    <a href="images/mobilisation.jpg" id="single_image" title="Affiche de la mobilisation générale">
-    <img src="miniatures/mobilisation.jpg" alt="affiche de la mobilisation générale 1er août 1914"/>
-    </a>
-    <figcaption>Ordre de mobilisation</figcaption>
-</figure>
+	<figure>
+	    <a href="images/mobilisation.jpg" id="single_image" title="Affiche de la mobilisation générale">
+	    <img src="miniatures/mobilisation.jpg" alt="affiche de la mobilisation générale 1er août 1914"/></a>
+	    <figcaption>Ordre de mobilisation</figcaption>
+	</figure>
 
 <p>Âgé de 38 ans, <strong>Druon Joseph </strong> est mobilisé et rejoint la 12e compagnie du 3e bataillon du <strong>2e Régiment d'Infanterie Territoriale</strong> en tant que soldat de 2e classe. Le 2e R.I.T a fait partie des troupes de la défense du Camp retranché de Maubeuge, sous les ordres du Général FOURNIER, Gouverneur. Mobilisé le 3 août 1914 à Valenciennes et à Condé-sur-Escaut, ses 4192 hommes ont été transportés dans la nuit du 4 au 5 à Maubeuge. Ils étaient répartis en 4 bataillons:  Le 2e Secteur de défense, commandé par le Colonel du Génie GUéRANDEL était composé des 1er et 2e bataillon à Ferrière-la-Grande et du 3e bataillon à Ferrière-la-Petite. Le 4e Secteur de défense était commandé par le Général du Génie WILLE et composé du 4e Bataillon à Pont-Allan, puis à Elesmes. (voir aussi la page consacrée à <a href="JOLY-Noel-Jules.php">Noël Jules JOLY</a>)</p>
 
@@ -179,19 +176,17 @@
 
 <p>La 12e compagnie, dont fait partie <strong>Druon</strong>, est la garnison d'infanterie de l'ouvrage permanent de Ferrière-la-Petite sous les ordres du chef de Bataillon du génie CRÉPY. Pendant la nuit du 31 août 1914, Les avant-postes du centre de Ferrière-la-Petite sont fortement inquiétés, alerte générale, le bombardement continu, l'artillerie du Bourdiau riposte. Prévu pour une seule compagnie, l’ouvrage de Ferrière-la-petite était composé d’abris bétonnés que les Allemands ont détruit à la fin du mois de septembre 1914.</p>
 
-<figure>
-    <a href="images/Ferrière-la-Petite-01.jpg" id="single_image" title="L'ouvrage de Ferrière-la-Petite">
-    <img src="miniatures/Ferrière-la-Petite-01.jpg" alt="Les ruines de l'ouvrage de Ferrière-la-Petite"/> 
-    </a>
-    <figcaption>Les ruines de l'ouvrage de Ferrière-la-Petite<br />(cliquez pour agrandir - source: http://www.mapio.cz/ )</figcaption>
-</figure>
-
-<figure>
-    <a href="images/forts-maubeuge.jpg" id="single_image" title="L'emplacement des forts de la place forte de Maubeuge en 1914">
-    <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/> 
-    </a>
-    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/Ferrière-la-Petite-01.jpg" id="single_image" title="L'ouvrage de Ferrière-la-Petite">
+	    <img src="miniatures/Ferrière-la-Petite-01.jpg" alt="Les ruines de l'ouvrage de Ferrière-la-Petite"/></a>
+	    <figcaption>Les ruines de l'ouvrage de Ferrière-la-Petite<br />(cliquez pour agrandir - source: http://www.mapio.cz/ )</figcaption>
+	</figure>
+	
+	<figure>
+	    <a href="images/forts-maubeuge.jpg" id="single_image" title="L'emplacement des forts de la place forte de Maubeuge en 1914">
+	    <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
+	    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
+	</figure>
 
 <br /><h2>La chute de la place forte de Maubeuge</h2>
 
@@ -210,12 +205,11 @@
 
 <p>Le 18 juin 1930, <strong>Druon Joseph CARLIER</strong> habite rue Giraud à Onnaing (Nord). Il y reçoit une carte d’ancien combattant délivrée par le Comité Départemental du Nord de l'Office Nationale du Combattant.</p>
 
-<figure>
-    <a href="sources/druon-carlier-ancien-combattant.jpg" id="single_image" title="La carte d'ancien combattant de Druon Joseph CARLIER">
-    <img src="miniatures/druon-carlier-ancien-combattant.jpg" alt="carte d'ancien combattant de Druon CARLIER"/>
-    </a>
-    <figcaption>Carte d'ancien combattant ayant appartenu à Druon</figcaption>
-</figure>
+	<figure>
+	    <a href="sources/druon-carlier-ancien-combattant.jpg" id="single_image" title="La carte d'ancien combattant de Druon Joseph CARLIER">
+	    <img src="miniatures/druon-carlier-ancien-combattant.jpg" alt="carte d'ancien combattant de Druon CARLIER"/></a>
+	    <figcaption>Carte d'ancien combattant ayant appartenu à Druon</figcaption>
+	</figure>
 
 <h2>Sources et bibliographie</h2>
     

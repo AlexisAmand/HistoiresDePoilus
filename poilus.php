@@ -52,6 +52,13 @@
     <a href="poilus.php" class="NavSelected">Les Poilus</a>     
 </nav>
 
+<div id="navbis">
+<a href="poilus/BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="poilus/BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="poilus/FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="poilus/amand-jules.php">Les jasses de Belgique</a>
+</div>
+
 <section>
 
 <aside>

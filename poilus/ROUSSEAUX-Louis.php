@@ -50,31 +50,33 @@
     <a href="../poilus.php" class="NavSelected">Les Poilus</a>
 </nav>
 
+<div id="navbis">
+	<a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="amand-jules.php">Les jasses de Belgique</a>
+</div>
+
 <section>
 
 <aside>
+
 <ul>
-        <li class="asideheader">Ardennes</li>
-
-        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
-
-        <li class="asideheader">Belgique</li>
-
-        <li><a href="soldats-belgique.php">Les soldats de Belgique</a></li>
-
-        <li class="asideheader">Côte-d'Or</li>
-
-        <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
 
         <li class="asideheader">Nord</li>
 
+        <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
+		<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
+		<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
+        <li><a href="delaux-oscar-julien.php">DELAUX Oscar Julien</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
+        <li><a href="dubois-jean-charles.php">DUBOIS Jean Charles (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
@@ -82,21 +84,21 @@
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
+        <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
-        <li><a href="ROUSSEAUX-Louis.php"  class="AsideSelected">ROUSSEAUX Louis Henri (+)</a></li>
+        <li><a href="magny-jules.php">MAGNY Jules</a></li>
+        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
+        <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
+        <li><a href="ROUSSEAUX-Louis.php" class="AsideSelected">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus du Nord</a></li>
-
-        <li class="asideheader">Marne</li>
-        
-        <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-        <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
-        <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
-    	      
-   </ul>
+           	      
+ </ul>
    
-      <div id="pubaside">
+<div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
@@ -106,7 +108,7 @@
     <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
-   </div>
+</div>
    
 </aside>
 
@@ -116,49 +118,46 @@
 
 <p><strong>Louis Henri ROUSSEAUX</strong> est né le 8 août 1883 à Lille (Nord), rue du marché. Il est le fils légitime d’Achille Léopold ROUSSEAUX, plafonneur, âgé de 20 ans et de Clara Elisa AUGEZ, âgée de 17 ans. Il est né AUGEZ et est reconnu et légitimé par le mariage de ses parents célébré à Lille le 27 décembre 1884. Louis Henri ROUSSEAUX épouse Hélène Adeline CANONNE à Lille le 30 juillet 1907.</p>
 
-<figure>
-    <a href="images/rousseau-louis-henri-matricule.jpg" id="single_image" title="Fiche matricule de Louis Henri ROUSSEAUX">    
-    <img src="miniatures/rousseau-louis-henri-matricule.jpg" alt="Extrait de la fiche matricule du soldat Louis Henri ROUSSEAUX"></a>
-    <figcaption>Extrait de sa fiche matricule</figcaption>
-</figure>
+	<figure>
+	    <a href="images/rousseau-louis-henri-matricule.jpg" id="single_image" title="Fiche matricule de Louis Henri ROUSSEAUX">    
+	    <img src="miniatures/rousseau-louis-henri-matricule.jpg" alt="Extrait de la fiche matricule du soldat Louis Henri ROUSSEAUX"></a>
+	    <figcaption>Extrait de sa fiche matricule</figcaption>
+	</figure>
 
 <p>La parenté qui me lie à Louis est un peu compliquée, je vais essayer d’être le plus clair possible. Comme <a href="FIEVET-Charles-Augustin.php">Charles Augustin</a> et <a href="FIEVET-Auguste-Victor.php">Auguste Victor</a>, <strong>Louis Henri</strong> est le petit-fils de Léonie FIEVEZ, mon aïeule. <a href="FIEVET-Charles-Augustin.php">Charles</a> et <a href="FIEVET-Charles-Augustin.php">Auguste</a> sont issus de Charles Jules, que Léonie a eu d’un père inconnu alors qu’Achille est issu d’Achille Léopold, que Léonie a eu de son mariage avec Augustin ROUSSEAUX. Pour faire bref, Le père de Louis Henri ROUSSEAUX et le père de <a href="FIEVET-Charles-Augustin.php">Charles Augustin</a> sont des demi-frères.</p>
 
 <br />
 
-<figure>
-    <a href="images/arbre-Louis-ROUSSEAUX.jpg" id="single_image" title="Arbre généalogique de Louis Henri ROUSSEAUX">
-    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX" style="box-shadow:none;width:650px;"></a>
-    <figcaption>Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" id="single_image" title="Arbre généalogique de Louis Henri ROUSSEAUX">
+	    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX" style="box-shadow:none;width:650px;"></a>
+	    <figcaption>Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
 <br /><h2>Mobilisation générale !</h2>
 
 <p>En application du décret du 1er août 1914 et du plan XVII, <strong>Louis Henri ROUSSEAUX</strong> est mobilisé et rejoint le <strong>165e Régiment d'Infanterie</strong> auquel il était affecté depuis le 1 avril 1914. En 1914, le 165e est un régiment affecté à la défense de la « forteresse » de Verdun, notamment les forts de la rive gauche de la Meuse. Le 19 octobre 1914, <strong>Louis</strong> passe au <strong>138e Régiment d'Infanterie</strong>. Ce régiment est surtout célèbre pour avoir reconquis le 24 septembre 1914, après la Victoire de la Marne, le fort de la Pompelle qui était occupé par les Allemands depuis le 4 septembre 1914. <strong>Louis Henri ROUSSEAUX</strong> est blessé le 16 avril 1915 à Fouquescourt, entre Amiens et Saint-Quentin.</p>
 
-<figure>
-    <a href="images/Fouquescourt-vers-1915.jpg" id="single_image" title="Fouquescourt 1915 par Henri Lucien Cheffer (1915)">
-    <img src="miniatures/Fouquescourt-vers-1915.jpg" alt="Fouquescourt peint par Henri Lucien Cheffer vers 1915">
-    </a>
-    <figcaption>Fouquescourt vers 1915, par Henri Lucien Cheffer</figcaption>
-</figure>   
+	<figure>
+	    <a href="images/Fouquescourt-vers-1915.jpg" id="single_image" title="Fouquescourt 1915 par Henri Lucien Cheffer (1915)">
+	    <img src="miniatures/Fouquescourt-vers-1915.jpg" alt="Fouquescourt peint par Henri Lucien Cheffer vers 1915"></a>
+	    <figcaption>Fouquescourt vers 1915, par Henri Lucien Cheffer</figcaption>
+	</figure>   
     
 <p>Le 21 août 1915, <strong>Louis Henri ROUSSEAUX</strong> passe au <strong>12e Bataillon de Chasseurs</strong>, en application du décret ministériel du 14 août 1915. De juillet à octobre 1915, Louis Henri participe, avec son bataillon, aux violents combats du Barrenkopf et Linge dans le Haut-Rhin. Le bataillon y subit tellement de pertes que certaines compagnies sont déclarées anéanties sur le JMO du bataillon. La journée du 1er août voit successivement, trois chef de corps tomber avec leurs hommes. En décembre 1915, il participe aux combats de l'Hartmannswillerkopf, un éperon rocheux dans les Vosges.</p>
 
 <p>Porté disparu à Curlu (Somme) le 20 juillet 1916, son décès est constaté à Hem Monacu, une commune située à quelques kilomètres au nord-ouest de Péronne, le 3 septembre 1916. <strong>Louis Henri ROUSSEAUX</strong> est inhumé au Bois de la Pépinière sous le n°11. Il reçoit la croix de guerre avec étoile d’argent à titre posthume le 15 novembre 1920 pour être « tombé glorieusement » le 20 juillet 1916 lors de l’assaut des lignes de Maurepas (Somme). La Croix de Guerre est une médaille qui a été instituée par la loi du 8 avril 1915. Elle est en bronze florentin, a quatre branches et deux épées croisées.</p>
     
-<figure>
-    <a href="" id="single_image" title="Le revers de la Croix de Guerre">
-    <img src="miniatures/Croix_de_Guerre_1914_revers.jpg" alt="le revers de la croix de guerre de la Première Guerre Mondiale">
-    </a>
-    <figcaption>Le revers de la Croix de Guerre</figcaption>
-</figure>         
+	<figure>
+	    <a href="" id="single_image" title="Le revers de la Croix de Guerre">
+	    <img src="miniatures/Croix_de_Guerre_1914_revers.jpg" alt="le revers de la croix de guerre de la Première Guerre Mondiale"></a>
+	    <figcaption>Le revers de la Croix de Guerre</figcaption>
+	</figure>         
 
 <h2>Sources et bibliographie</h2>
     
     <ul>
-         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
-       
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>       
     </ul>
 
 <p class="sources">

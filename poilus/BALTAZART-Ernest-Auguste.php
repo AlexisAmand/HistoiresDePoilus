@@ -50,53 +50,32 @@
     <a href="../poilus.php" class="NavSelected">Les Poilus</a>
 </nav>
 
+<div id="navbis">
+	<a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="amand-jules.php">Les jasses de Belgique</a>
+</div>
+
 <section>
 
 <aside>
+
 <ul>
-        <li class="asideheader">Ardennes</li>
 
-        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
-
-        <li class="asideheader">Belgique</li>
-
-        <li><a href="soldats-belgique.php">Les soldats de Belgique</a></li>
-
-        <li class="asideheader">Côte-d'Or</li>
-
-        <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
-
-        <li class="asideheader">Nord</li>
-
-        <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
-        <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
-        <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
-        <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
-        <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
-        <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
-        <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
-        <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
-        <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
-        <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
-        <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
-        <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
-        <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
-        <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
-        <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus du Nord</a></li>
-
-        <li class="asideheader">Marne</li>
+	<li class="asideheader">Marne</li>
         
-        <li><a href="BALTAZART-Ernest-Auguste.php"  class="AsideSelected">BALTAZART Ernest Auguste</a></li>
-        <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
-        <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
-    	      
-   </ul>
+    <li><a href="arnould-henri-rene.php">ARNOULD Henri René</a></li>
+    <li><a href="astiers-jules-alphonse.php">ASTIERS Jules Alphonse</a></li>       
+    <li><a href="BALTAZART-Ernest-Auguste.php" class="AsideSelected">BALTAZART Ernest Auguste</a></li>
+    <li><a href="caron-eugene-alexandre.php">CARON Eugéne Alexandre</a></li>
+    <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
+    <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
+    <li><a href="paquet-leopold.php">PAQUET Léopold</a></li>
+  	      
+</ul>
    
-    <div id="pubaside">
+<div id="pubaside">
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
@@ -106,7 +85,7 @@
     <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
-    </div>
+</div>
      
 </aside>
 
@@ -116,87 +95,87 @@
 
 <p><strong>Ernest Auguste BALTAZART</strong> est né le samedi 21 juillet 1872 à <a href="http://cartespostalesanciennes.genealexis.fr/album/63-betheniville" title="cartes postales anciennes de Bétheniville sur le site Genealexis">Bétheniville</a> (Marne), fils de Ernest Louis, menuisier, et de Anne Joseph LEDUC, domestique. Le 26 avril 1897, il épouse Marie Eugènie HUET à Bétheniville et ils partent vivre Rue de la Cochette.</p>
 
-<figure>
-    <a href="images/arbre-baltazart-ernest.png" id="single_image" title="Les ascendants d'Ernest Auguste BALTAZART">
-    <img src="miniatures/arbre-baltazart-ernest.png" alt="Arbre généalogique de la famille Baltazart" style="box-shadow:none;width:650px;"></a>
-    <figcaption>Les ascendants d'Ernest Auguste BALTAZART<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/arbre-baltazart-ernest.png" id="single_image" title="Les ascendants d'Ernest Auguste BALTAZART">
+	    <img src="miniatures/arbre-baltazart-ernest.png" alt="Arbre généalogique de la famille Baltazart" style="box-shadow:none;width:650px;"></a>
+	    <figcaption>Les ascendants d'Ernest Auguste BALTAZART<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
 <p>Selon le recensement effectué en 1901, Ernest exerce la profession de rattacheur à l'usine Oudin et frères. Une nouvelle usine a été construite par les frères Oudin vers 1870, en plus de l'usine de filature qu'ils possédaient déjà sur la commune de Bétheniville depuis 1832. L'usine est complétement détruite pendant la Première Guerre Mondiale. L'usine de Martelet est reconstruite dans les années 20.</p>
 
-<figure>
-    <a href="images/usine-oudin.jpg" id="single_image" title="L'usine Oudin à Bétheniville">
-    <img src="miniatures/usine-oudin.jpg" alt="L'usine Oudin de Bétheniville sur une carte postale ancienne"/></a>
-    <figcaption>L'entrée de l'Usine Oudin<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/usine-oudin.jpg" id="single_image" title="L'usine Oudin à Bétheniville">
+	    <img src="miniatures/usine-oudin.jpg" alt="L'usine Oudin de Bétheniville sur une carte postale ancienne"/></a>
+	    <figcaption>L'entrée de l'Usine Oudin<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
-<table style="width:70%;caption-side: bottom;">
-    <caption>Liste des domiciles d'Ernest</caption>
-    <thead>
-        <tr>
-            <td>Dates</td>
-            <td>Adresses</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-    </tbody>   
-</table>
+	<table style="width:70%;caption-side: bottom;">
+	    <caption>Liste des domiciles d'Ernest</caption>
+	    <thead>
+	        <tr>
+	            <td>Dates</td>
+	            <td>Adresses</td>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	    </tbody>   
+	</table>
 
 <h2>Engagé volontaire</h2>
 
 <p><strong>Ernest Auguste</strong> est engagé volontaire pour quatre ans le 30 octobre 1891, à la mairie de <a href="http://cartespostalesanciennes.genealexis.fr/album/74-reims" title="cartes postales anciennes de Reims sur le site Genealexis">Reims</a>. Il part pour le <strong>1er Régiment de Zouave</strong> et arrive au corps de zouave en tant que deuxième classe le 3 novembre 1891 sous matricule n°7842. Il est envoyé en congé le 16 octobre 1895 en recevant un certificat de bonne conduite.</p>
 
-<figure>
-    <a href="images/mairie-reims.jpg" id="single_image" title="L'hôtel de ville de Reims">
-    <img src="miniatures/mairie-reims.jpg" alt="La mairie de Reims sur une carte postale ancienne"/></a>
-    <figcaption>La mairie de Reims<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/mairie-reims.jpg" id="single_image" title="L'hôtel de ville de Reims">
+	    <img src="miniatures/mairie-reims.jpg" alt="La mairie de Reims sur une carte postale ancienne"/></a>
+	    <figcaption>La mairie de Reims<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
-<figure>
-    <a href="sources/matricule-baltazart.jpg" id="single_image" title="Extrait de la fiche matricule d'Ernest BALTAZART">
-    <img src="miniatures/matricule-baltazart.jpg" alt="Extrait de la fiche matricule d'Ernest BALTAZART"/></a>
-    <figcaption>Extrait de la fiche matricule d'Ernest BALTAZART<br />(Source: Archives de la Marne)</figcaption>
-</figure>
+	<figure>
+	    <a href="sources/matricule-baltazart.jpg" id="single_image" title="Extrait de la fiche matricule d'Ernest BALTAZART">
+	    <img src="miniatures/matricule-baltazart.jpg" alt="Extrait de la fiche matricule d'Ernest BALTAZART"/></a>
+	    <figcaption>Extrait de la fiche matricule d'Ernest BALTAZART<br />(Source: Archives de la Marne)</figcaption>
+	</figure>
 
 <h2>Ernest et la campagne contre l'Allemagne</h2>
 
 <p>Comme la plupart des jeunes hommes de sa génération, <strong>Ernest Auguste BALTAZART</strong> est rappelé à l'activité par le décret de mobilisation générale d'août 1914 et il rejoint quelques jours plus tard le <strong>46e Régiment d'Infanterie Territoriale</strong>. Il est libéré le 2 sept 1914 en attendant d'être rappelé le 10 avril 1915 et placé en sursis d'appel provisoire le dit jour aux Forges et Aciéries de Saint Etienne (Usine du Marais).</p>
 
-<figure>
-    <a href="images/saint-etienne-marais.jpg" id="single_image" title="Les Aciéries de Saint-Etienne">
-    <img src="miniatures/saint-etienne-marais.jpg" alt="Les aciéries de Saint-Etienne au Marais"/></a>
-    <figcaption>Les aciéries de Saint-Etienne<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/saint-etienne-marais.jpg" id="single_image" title="Les Aciéries de Saint-Etienne">
+	    <img src="miniatures/saint-etienne-marais.jpg" alt="Les aciéries de Saint-Etienne au Marais"/></a>
+	    <figcaption>Les aciéries de Saint-Etienne<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
 <p>Le journal "Le Monde Illustré" du 15 juillet 1922 précise que cette société poursuit, après la Grande Guerre, sa réorganisation en vue des fabrications du temps de paix, telles que les tôles pour construction et pour chaudières, fonds emboutis et foyers ondulés, les aciers laminés divers et aciers spéciaux, les roues montées, pièces de forge, moulages d'acier. Il indique également qu'elle a toujours maintenu ces fabrications conjointement avec les fabrications de blindages, obus, éléments de canons, réservoirs d'air pour torpilles, qui constituaient dans l'avant-guerre une grande partie de son activité et qui lui ont permis, au cours des hostilités, de rendre d'immédiats et puissants services services à la Défense Nationale.</p>
 
-<figure>
-    <a href="images/usine-marais.jpg" id="single_image" title="Les Aciéries du MArais à Saint-Etienne">
-    <img src="miniatures/usine-marais.jpg" alt="Les aciéries de Saint-Etienne au Marais"/></a>
-    <figcaption>Les aciéries du "Marais" de Saint-Etienne<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/usine-marais.jpg" id="single_image" title="Les Aciéries du MArais à Saint-Etienne">
+	    <img src="miniatures/usine-marais.jpg" alt="Les aciéries de Saint-Etienne au Marais"/></a>
+	    <figcaption>Les aciéries du "Marais" de Saint-Etienne<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
-<figure>
-    <a href="images/mobilisation.jpg" id="single_image" title="Le décret de mobilisation générale">
-    <img src="miniatures/mobilisation.jpg" alt="Le décret de mobilisation générale publié en Août 1914"/></a>
-    <figcaption>Le décret de mobilisation générale<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/mobilisation.jpg" id="single_image" title="Le décret de mobilisation générale">
+	    <img src="miniatures/mobilisation.jpg" alt="Le décret de mobilisation générale publié en Août 1914"/></a>
+	    <figcaption>Le décret de mobilisation générale<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
 <h2>Sources et bibliographie</h2>
     

@@ -51,53 +51,32 @@
     <a href="../poilus.php" class="NavSelected">Les Poilus</a>
 </nav>
 
+<div id="navbis">
+	<a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="amand-jules.php">Les jasses de Belgique</a>
+</div>
+
 <section>
 
 <aside>
+
 <ul>
-        <li class="asideheader">Ardennes</li>
 
-        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
-
-        <li class="asideheader">Belgique</li>
-
-        <li><a href="soldats-belgique.php">Les soldats de Belgique</a></li>
-
-        <li class="asideheader">Côte-d'Or</li>
-
-        <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
-
-        <li class="asideheader">Nord</li>
-
-        <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
-        <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
-        <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
-        <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
-        <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
-        <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
-        <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
-        <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
-        <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
-        <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
-        <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
-        <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
-        <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
-        <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
-        <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus du Nord</a></li>
-
-        <li class="asideheader">Marne</li>
+	<li class="asideheader">Marne</li>
         
-        <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-        <li><a href="MAILLART-Alexandre.php"  class="AsideSelected">MAILLART Alexandre Ernest</a></li>
-        <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
-    	      
-   </ul>
+    <li><a href="arnould-henri-rene.php">ARNOULD Henri René</a></li>
+    <li><a href="astiers-jules-alphonse.php">ASTIERS Jules Alphonse</a></li>       
+    <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
+    <li><a href="caron-eugene-alexandre.php">CARON Eugéne Alexandre</a></li>
+    <li><a href="MAILLART-Alexandre.php" class="AsideSelected">MAILLART Alexandre Ernest</a></li>
+    <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
+    <li><a href="paquet-leopold.php">PAQUET Léopold</a></li>
+  	      
+</ul>
    
-    <div id="pubaside">
+<div id="pubaside">
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
@@ -107,7 +86,7 @@
     <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
-    </div>
+</div>
      
 </aside>
 
@@ -117,66 +96,66 @@
 
 <p><strong>Alexandre Ernest MAILLART </strong>est né le 24 juillet 1874 à <a href="../releves/betheniville.php">Bétheniville</a>, fils d’Achille Onésiphore et Julie Adèle BALTAZART, elle-même fille de Jean-Baptiste et Julie Joséphine KRAUTH (mes sosas n°116 et n°117).&nbsp; Alexandre est le cousin d'<a href="BALTAZART-Ernest-Auguste.php">Ernest Auguste BALTAZART</a>.</p>
 
-<figure>
-    <a href="images/arbre-maillart.png" id="single_image" title="Arbre simplifié de la famille MAILLART-BALTAZART">
-    <img src="miniatures/arbre-maillart.png" alt="Arbre généalogique simplifié de la famille MAILLART-BALTAZART" style="box-shadow:none;width:650px;"/></a>
-    <figcaption>Arbre simplifié de la famille MAILLART-BALTAZART<br />(cliquez pour agrandir)</figcaption>
-</figure>
-
-<figure>
-    <a href="images/matricule-alexandre-maillart.jpg" id="single_image" title="Extrait de sa fiche matricule">
-    <img src="miniatures/matricule-alexandre-maillart.jpg" alt="Extrait de la fiche matricule d'Alexandre MAILLART"/></a>
-    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/arbre-maillart.png" id="single_image" title="Arbre simplifié de la famille MAILLART-BALTAZART">
+	    <img src="miniatures/arbre-maillart.png" alt="Arbre généalogique simplifié de la famille MAILLART-BALTAZART" style="box-shadow:none;width:650px;"/></a>
+	    <figcaption>Arbre simplifié de la famille MAILLART-BALTAZART<br />(cliquez pour agrandir)</figcaption>
+	</figure>
+	
+	<figure>
+	    <a href="images/matricule-alexandre-maillart.jpg" id="single_image" title="Extrait de sa fiche matricule">
+	    <img src="miniatures/matricule-alexandre-maillart.jpg" alt="Extrait de la fiche matricule d'Alexandre MAILLART"/></a>
+	    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
 <p>Le 18 septembre 1899, Alexandre épouse à Boult-sur-Suippe (Marne) Marie Berthe GAUCHET, âgée de 25 ans, fille légitime d’Hyppolyte et Marie-Zélie SOMMELIER. Lors de son mariage, Alexandre travaille pour la Compagnie des Chemins de Fer de l’Est. Leur fils Marcel naît à Bar-le-Duc (Meuse) le 9 mai 1901, rue des romains.</p>
 
-<table style="width:70%;caption-side: bottom;">
-    <caption>Liste des domiciles d'Alexandre</caption>
-    <thead>
-        <tr>
-            <td>Dates</td>
-            <td>Adresses</td>
-            <td>Evénements Liés</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>24 juillet 1874</td>
-            <td>Bétheniville (Marne)</td>
-            <td>Il naît chez ses parents.</td>
-        </tr>
-        <tr>
-        	<td>1876</td>
-        	<td>Rue de Pontfaverger<br />Chez ses parents<br />à Bétheniville</td>
-        	<td>Recensement de la population</td>
-        </tr>
-        <tr>
-        	<td>1881</td>
-        	<td>Rue du Neuf-Bourg<br />Chez ses parents<br />à Bétheniville</td>
-        	<td>Recensement de la population</td>
-        </tr>      
-        <tr>
-            <td>13 avril 1899</td>
-            <td>Pontfaverger (Marne)</td>
-            <td>Mise à jour de sa fiche matricule</td>
-        </tr>
-        <tr>
-            <td>11 janvier 1900</td>
-            <td>22 Rue des Romains<br />à Bar-le-Duc (Meuse)</td>
-            <td>Mise à jour de sa fiche matricule</td>
-        </tr>
-        <tr>
-            <td>9 mai 1901</td>
-            <td>22 Rue des Romains<br />à Bar-le-Duc (Meuse)</td>
-            <td>Naissance de son fils Marcel</td>
-        </tr>
-        <tr>
-        	<td>1914-1919</td>
-        	<td colspan="2">Pendant la Grande Guerre, il est maintenu à son emploi au titre de la section des chemins de fer de campagne.</td>
-        </tr>	
-    </tbody>   
-</table>
+	<table style="width:70%;caption-side: bottom;">
+	    <caption>Liste des domiciles d'Alexandre</caption>
+	    <thead>
+	        <tr>
+	            <td>Dates</td>
+	            <td>Adresses</td>
+	            <td>Evénements Liés</td>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td>24 juillet 1874</td>
+	            <td>Bétheniville (Marne)</td>
+	            <td>Il naît chez ses parents.</td>
+	        </tr>
+	        <tr>
+	        	<td>1876</td>
+	        	<td>Rue de Pontfaverger<br />Chez ses parents<br />à Bétheniville</td>
+	        	<td>Recensement de la population</td>
+	        </tr>
+	        <tr>
+	        	<td>1881</td>
+	        	<td>Rue du Neuf-Bourg<br />Chez ses parents<br />à Bétheniville</td>
+	        	<td>Recensement de la population</td>
+	        </tr>      
+	        <tr>
+	            <td>13 avril 1899</td>
+	            <td>Pontfaverger (Marne)</td>
+	            <td>Mise à jour de sa fiche matricule</td>
+	        </tr>
+	        <tr>
+	            <td>11 janvier 1900</td>
+	            <td>22 Rue des Romains<br />à Bar-le-Duc (Meuse)</td>
+	            <td>Mise à jour de sa fiche matricule</td>
+	        </tr>
+	        <tr>
+	            <td>9 mai 1901</td>
+	            <td>22 Rue des Romains<br />à Bar-le-Duc (Meuse)</td>
+	            <td>Naissance de son fils Marcel</td>
+	        </tr>
+	        <tr>
+	        	<td>1914-1919</td>
+	        	<td colspan="2">Pendant la Grande Guerre, il est maintenu à son emploi au titre de la section des chemins de fer de campagne.</td>
+	        </tr>	
+	    </tbody>   
+	</table>
 
 <p>A la mobilisation, <strong>Alexandre</strong> est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des <strong>Sections de Chemins de Fer de Campagne</strong> du 2 août 1914 au 5 janvier 1919. Je sais que, pour de nombreux lecteurs, cette affectation ne fait pas de lui un poilu au sens strict du terme, car il n’était pas dans l’enfer de Verdun ou dans la boue des tranchées. Mais laissez-moi vous raconter la suite.</p>
 
@@ -184,17 +163,17 @@
 
 <p>La gare n'est pas indiquée sur le JO.</p>
 
-<figure>
-    <a href="images/bethenville-place-munet-02.jpg" id="single_image" title="La Place du Munet avant la Grande Guerre">
-    <img src="miniatures/bethenville-place-munet-02.jpg" alt="La Place du Munet à Bétheniville où a vécu Alexandre MAILLART"/></a>
-    <figcaption>La Place du Munet avant la Grande Guerre<br />(cliquez pour agrandir)</figcaption>
-</figure>
-
-<figure>
-    <a href="images/bethenville-place-munet-01.jpg" id="single_image" title="La Place du Munet aprés la Grande Guerre">
-    <img src="miniatures/bethenville-place-munet-01.jpg" alt="La Place du Munet à Bétheniville où a vécu Alexandre MAILLART"/></a>
-    <figcaption>La Place du Munet aprés la Grande Guerre<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/bethenville-place-munet-02.jpg" id="single_image" title="La Place du Munet avant la Grande Guerre">
+	    <img src="miniatures/bethenville-place-munet-02.jpg" alt="La Place du Munet à Bétheniville où a vécu Alexandre MAILLART"/></a>
+	    <figcaption>La Place du Munet avant la Grande Guerre<br />(cliquez pour agrandir)</figcaption>
+	</figure>
+	
+	<figure>
+	    <a href="images/bethenville-place-munet-01.jpg" id="single_image" title="La Place du Munet aprés la Grande Guerre">
+	    <img src="miniatures/bethenville-place-munet-01.jpg" alt="La Place du Munet à Bétheniville où a vécu Alexandre MAILLART"/></a>
+	    <figcaption>La Place du Munet aprés la Grande Guerre<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
 <h2>Sources et bibliographie</h2>
     

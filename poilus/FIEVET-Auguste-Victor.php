@@ -49,54 +49,55 @@
     <a href="../poilus.php" class="NavSelected">Les Poilus</a>
 </nav>
 
+<div id="navbis">
+	<a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="amand-jules.php">Les jasses de Belgique</a>
+</div>
+
 <section>
 
 <aside>
 
-	<ul>
-        <li class="asideheader">Ardennes</li>
-
-        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
-
-        <li class="asideheader">Belgique</li>
-
-        <li><a href="soldats-belgique.php">Les soldats de Belgique</a></li>
-
-        <li class="asideheader">Côte-d'Or</li>
-
-        <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
+<ul>
 
         <li class="asideheader">Nord</li>
 
+        <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
+		<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
+		<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
+        <li><a href="delaux-oscar-julien.php">DELAUX Oscar Julien</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
-        <li><a href="FIEVET-Auguste-Victor.php"  class="AsideSelected">FIEVET Auguste Victor</a></li>
+        <li><a href="dubois-jean-charles.php">DUBOIS Jean Charles (+)</a></li>
+        <li><a href="FIEVET-Auguste-Victor.php" class="AsideSelected">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
+        <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
+        <li><a href="magny-jules.php">MAGNY Jules</a></li>
+        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
+        <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus du Nord</a></li>
-
-        <li class="asideheader">Marne</li>
-        
-        <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-        <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
-        <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
-    	      
-   </ul>
+           	      
+</ul>
    
-      <div id="pubaside">
+<div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
@@ -106,7 +107,7 @@
     <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
-   </div>
+</div>
    
 </aside>
 
@@ -118,62 +119,59 @@
 
 <br />
 
-<figure>
-    <a href="images/arbre-Louis-ROUSSEAUX.jpg" id="single_image" title="Arbre généalogique de Louis Henri ROUSSEAUX">
-    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX" style="box-shadow:none;width:650px;">
-    </a>
-    <figcaption>Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" id="single_image" title="Arbre généalogique de Louis Henri ROUSSEAUX">
+	    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX" style="box-shadow:none;width:650px;"></a>
+	    <figcaption>Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
-<table style="width:70%;caption-side: bottom;border:1px solid red;">
-    <caption>Liste des domiciles d'Auguste</caption>
-    <thead>
-        <tr>
-            <td>Dates</td>
-            <td>Adresses</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>8 janvier 1890</td>
-            <td>rue du Grand Balcon<br />à Lille</td>
-        </tr>
-        <tr>
-            <td>11 mars 1922</td>
-            <td>248 rue Jean Jaurès<br />à Anzin</td>
-        </tr>
-        <tr>
-            <td>avril 1930</td>
-            <td>1 rue Jean Jaurès<br />à Petite-Forêt</td>
-        </tr>
-        <tr>
-            <td>17 décembre 1960</td>
-            <td>803 rue Jean Jaures<br />à Bruay-sur-L'Escaut</td>
-        </tr>
-    </tbody>   
-</table>
+	<table style="width:70%;caption-side: bottom;border:1px solid red;">
+	    <caption>Liste des domiciles d'Auguste</caption>
+	    <thead>
+	        <tr>
+	            <td>Dates</td>
+	            <td>Adresses</td>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td>8 janvier 1890</td>
+	            <td>rue du Grand Balcon<br />à Lille</td>
+	        </tr>
+	        <tr>
+	            <td>11 mars 1922</td>
+	            <td>248 rue Jean Jaurès<br />à Anzin</td>
+	        </tr>
+	        <tr>
+	            <td>avril 1930</td>
+	            <td>1 rue Jean Jaurès<br />à Petite-Forêt</td>
+	        </tr>
+	        <tr>
+	            <td>17 décembre 1960</td>
+	            <td>803 rue Jean Jaures<br />à Bruay-sur-L'Escaut</td>
+	        </tr>
+	    </tbody>   
+	</table>
 
 <br/><h2>La mobilisation d'août 1914</h2>
 
 <p>Âgé de 24 ans en 1914, Auguste est mobilisé en tant que soldat de 2e classe et rejoint la 4e compagnie du 1er bataillon du <strong>33e Régiment d'Infanterie</strong> (<a href="sources/dossier-ancien-combattant-01.php">source</a>).</p>
 
-<figure>
-    <a href="portraits/FIEVET-Auguste-Victor.jpg" id="single_image" title="portrait d'Auguste Victor FIEVET">
-    <img src="miniatures/FIEVET-Auguste-Victor.jpg" alt="portrait d'Auguste Victor FIEVET"/>
-    </a>
-    <figcaption>Auguste Victor FIEVET</figcaption>
-</figure>
+	<figure>
+	    <a href="portraits/FIEVET-Auguste-Victor.jpg" id="single_image" title="portrait d'Auguste Victor FIEVET">
+	    <img src="miniatures/FIEVET-Auguste-Victor.jpg" alt="portrait d'Auguste Victor FIEVET"/></a>
+	    <figcaption>Auguste Victor FIEVET</figcaption>
+	</figure>
 
 <br/><h2>En route vers le front</h2>
 
 <p>Le 5 août 1914, vers cinq heures, le <strong>33e Régiment d'Infanterie </strong>s'embarque en gare d'Arras (Pas-de-Calais) à destination d'Hirson (Aisne). L'auteur de l'<em>Historique du 33e Régiment d'Infanterie pendant la Grande Guerre</em> raconte que <em>"Les physionomies étaient rayonnantes d'entrain et de confiance. Tous portaient au cœur l'espoir d'une rapide épopée"</em>. Il ajoute ensuite que <em>le trajet d'Arras à Hirson se fit au milieu des chants et des fleurs</em>. A Hirson, des vivres de débarquement sont distribués aux Hommes. Faute de voiture disponible pour le transport des troupes,  les hommes sont retenus aux abords de la gare pendant près de 2 heures. Puis, le régiment cantonne à Saint-Michel (Aisne). </p>
 
-<figure>
-    <a href="" id="single_image" title="La gare d'Arras vers 1907">
-    <img src="miniatures/gare-arras-1907.jpg" alt="La gare d'Arras en 1907 sur une carte postale ancienne"/>
-    </a>
-    <figcaption>La gare d’Arras en 1907</figcaption>
-</figure>
+	<figure>
+	    <a href="" id="single_image" title="La gare d'Arras vers 1907">
+	    <img src="miniatures/gare-arras-1907.jpg" alt="La gare d'Arras en 1907 sur une carte postale ancienne"/></a>
+	    <figcaption>La gare d’Arras en 1907</figcaption>
+	</figure>
 
 <p><br/> Le 7 août, le régiment cantonne à Saint-Michel, et le 8, il se dirige vers Maubert-Fontaine (Ardennes), puis à Bourg-Fidèle (Ardennes) à 2 kilomètres de Rocroi. Pendant les journées des 6 et 7 août, le<strong> 33e Régiment d'Infanterie </strong>avait accompli, avec des réservistes non entraînés, de 60 à 70 kilomètres en vingt-six heures, sans laisser un seul traînard.</p>
   
@@ -181,12 +179,11 @@
 
 <p>Le 9 août, le général commandant le <strong>1er Groupe d'Armée</strong> réunit à Maubert-Fontaine les officiers et leur exposa la situation générale : Une armée allemande dite «de la Meuse», composée de quatre corps d'armée et commandée par le général VON EMMICH, a envahi la Belgique; elle a passé en partie la Meuse, au nord de Liège, et se porte à l'attaque de cette place. Les Allemands ont violé le territoire belge. Quatre de nos divisions de cavalerie, concentrées autour de Mézières (Ardennes), sous le commandement du général SORDET, ont pénétré en Belgique pour opérer contre VON EMMICH. Ce corps de cavalerie est appuyé par une brigade d'infanterie échelonnée le long de la Meuse, couvrant la concentration du 1er corps... </p>
 
-<figure> 
-    <a href="portraits/Von_Emmich.jpg" id="single_image" title="Portrait de Von Emmich">
-    <img src="miniatures/Von_Emmich.jpg" alt="portrait du général allemand Von Emmich"/> 
-    </a>
-    <figcaption>Le Général Von Emmich</figcaption>
-</figure>
+	<figure> 
+	    <a href="portraits/Von_Emmich.jpg" id="single_image" title="Portrait de Von Emmich">
+	    <img src="miniatures/Von_Emmich.jpg" alt="portrait du général allemand Von Emmich"/></a>
+	    <figcaption>Le Général Von Emmich</figcaption>
+	</figure>
 
 <p>Mais cette brigade vient de recevoir l'ordre de se porter vers l'Est. Le <strong>1er corps</strong> doit, de ce fait, assurer sa couverture par ses propres moyens. Le régiment reçoit, en conséquence, l'ordre d'aller garder les ponts de la Meuse, dans la région de Monthermé (Ardennes) ainsi que les ponts de Fumay (Ardennes). II séjourne trois jours à Fumay. Le 13 août 1914, <strong>Auguste</strong> et le <strong>33e Régiment d'Infanterie</strong> entre à Treignes, en Belgique, salué par des acclamations enthousiastes et des cris prolongés de «Vive la France !».</p>
 
@@ -194,39 +191,35 @@
 
 <p>Dès le lendemain (le 14 août), le <strong>33e Régiment d'Infanterie</strong> partait, par alerte, à deux heures, dans la direction de Dinant (Belgique) et allait avoir l'honneur de participer au premier choc sérieux en Belgique, entre l'armée française et l'armée allemande.</p>
 
-<figure>
-    <a href="images/Dinant-1914.jpg" id="single_image" title="La Citadelle de Dinant, début 1914">
-    <img src="miniatures/Dinant-1914.jpg"  alt="La citadelle de Dinant au début de 1914 sur une carte postale ancienne"/>
-    </a>
-    <figcaption>La Citadelle de Dinant, début 1914</figcaption>
-</figure>
+	<figure>
+	    <a href="images/Dinant-1914.jpg" id="single_image" title="La Citadelle de Dinant, début 1914">
+	    <img src="miniatures/Dinant-1914.jpg"  alt="La citadelle de Dinant au début de 1914 sur une carte postale ancienne"/></a>
+	    <figcaption>La Citadelle de Dinant, début 1914</figcaption>
+	</figure>
 
 <p>Les Allemands, ayant Bruxelles pour objectif, s'avançaient en masses compactes. Une armée au nord, s'était heurtée aux forts de Liège (Belgique), une autre avait franchi la Meuse entre Liège et Namur. <br /><br />Le même jour, les Allemands signalent leur présence par une audacieuse reconnaissance et dessine une courte attaque contre nos lignes. Des autos-mitrailleuses allemandes, débouchant de la rive droite de la Meuse par le pont d'Anseremme (Belgique), à 4 kilomètres au sud de Dinant, dispersèrent le poste français et ouvrirent le passage à un escadron de uhlans qui s'avança sur la rive gauche jusqu'à Anthée. Cet escadron fut accueilli, à dix-sept heures, par les mitrailleuses du <strong>33e Régiment d'Infanterie </strong>qui étaient en position au nord du village; arrêté net, il rebroussa chemin. </p><p>Le 15 août, les Allemands attaquent Dinant avec des forces imposantes. La ville, partagée en deux parties par le fleuve, est dominée, sur la rive droite, par la citadelle, qui surplombe le terrain d'une centaine de mètres. Au sud de celle-ci, se trouve la tour de Montfort. Ce furent les deux premiers objectifs visés par les Allemands. Malgré l'héroïque résistance du 148e R.I., ces deux points tombèrent entre les mains de l'ennemi, qui utilisa ces positions pour écraser de ses feux, toute la rive gauche du fleuve.<br /><br /> Le<strong> 33e Régiment d'Infanterie</strong>, accouru d'Anthée, prit position, à cinq heures, le long de la voie ferrée. Deux compagnies, 10e (capitaine CARTON), 12e (capitaine BATAILLE), reçurent l'ordre d'aller réoccuper la citadelle. Le mouvement fut conduit d'une façon si rapide, que les Allemands, surpris, s'enfuirent, abandonnant la position. Mais peu après, la citadelle fut soumise à un feu d'artillerie tellement violent que la forteresse s'effondra de toutes parts, ensevelissant une partie des occupants et un certain nombre d'habitants.</p>
 
-<figure>
-    <a href="" id="single_image" title="Dinant détruite en 1914">
-    <img src="miniatures/dinant_detruite_1914.jpg"  alt="La ville de Dinant après les combats d'août 1914"/>
-    </a>
-    <figcaption>Dinant détruite en 1914</figcaption>
-</figure>
+	<figure>
+	    <a href="" id="single_image" title="Dinant détruite en 1914">
+	    <img src="miniatures/dinant_detruite_1914.jpg"  alt="La ville de Dinant après les combats d'août 1914"/></a>
+	    <figcaption>Dinant détruite en 1914</figcaption>
+	</figure>
 
 <p>Le commandant du détachement prit alors le parti de rejoindre le régiment. La 12e commença le mouvement. Accueillie, dès son départ, par une grêle de balles provenant des mitrailleuses allemandes installées dans la tour de Montfort, elle rebroussa chemin après avoir subi de très lourdes pertes. La <strong>4e compagnie</strong>, dont faisait partie <strong>Auguste</strong>,  en arrivant sur le plateau au nord de la ferme du Rond Chêne, est prise subitement sous le feu de l’artillerie et de nombreuses mitrailleuses invisibles en position à petite portée sur la rive droite de la Meuse. </p>
 
-<figure>
-    <a href="images/carte-dinant.jpg" id="single_image" title="Emplacement de la ferme du Rond-chêne">
-    <img src="miniatures/carte-dinant.jpg" alt="Localisation de la ferme du Rond Chêne sur une carte de Dinant et ses environs"/>
-    </a>
-    <figcaption>La ferme du Rond Chêne sur une carte de Dinant<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/carte-dinant.jpg" id="single_image" title="Emplacement de la ferme du Rond-chêne">
+	    <img src="miniatures/carte-dinant.jpg" alt="Localisation de la ferme du Rond Chêne sur une carte de Dinant et ses environs"/></a>
+	    <figcaption>La ferme du Rond Chêne sur une carte de Dinant<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
-    <p>En quelques minutes, 90 hommes sont mis hors de combat dont <strong>Auguste</strong> qui est blessé par balle au pied droit, à la cheville et à la main. Il est évacué à <a href="../hopitaux/hopitaux-pdl.php" title="Les hôpitaux pendant la Grande Guerre">l’hôpital 31 de Nantes</a> et devient invalide à 40%. Selon les Archives Municipales de Nantes, l'hôpital 31 était situé dans l'ancien séminaire de philosophie, rue Saint-Clément  et avait une capacité de 300 lits. Il fonctionne du 25 août 1914 au 24 septembre 1916.</p>
+<p>En quelques minutes, 90 hommes sont mis hors de combat dont <strong>Auguste</strong> qui est blessé par balle au pied droit, à la cheville et à la main. Il est évacué à <a href="../hopitaux/hopitaux-pdl.php" title="Les hôpitaux pendant la Grande Guerre">l’hôpital 31 de Nantes</a> et devient invalide à 40%. Selon les Archives Municipales de Nantes, l'hôpital 31 était situé dans l'ancien séminaire de philosophie, rue Saint-Clément  et avait une capacité de 300 lits. Il fonctionne du 25 août 1914 au 24 septembre 1916.</p>
 
-<figure>
-    <a href="" id="single_image"  id="single_image" title="Les hôpitaux de Nantes">
-    <img src="miniatures/hopitaux-nantes.jpg" alt="Liste des hopitaux de Nantes pendant la Première Guerre Mondiale"/>
-    </a>
-    <figcaption>Les hôpitaux de Nantes<br />(source: Archives Municipales de Nantes)</figcaption>
-</figure>
+	<figure>
+	    <a href="" id="single_image"  id="single_image" title="Les hôpitaux de Nantes">
+	    <img src="miniatures/hopitaux-nantes.jpg" alt="Liste des hopitaux de Nantes pendant la Première Guerre Mondiale"/></a>
+	    <figcaption>Les hôpitaux de Nantes<br />(source: Archives Municipales de Nantes)</figcaption>
+	</figure>
 
 <p>Un lieutenant sera blessé le même jour, pendant la même bataille de Dinant : un certain <strong>Charles de GAULLE</strong>… </p>
 
@@ -234,19 +227,17 @@
 
 <p><strong>Auguste</strong> reçoit la croix de guerre "étoile de vermeil" en août 1920 puis  la médaille militaire par décret du 11 avril 1962. Ma mère a très bien connu Auguste. Elle se souvient par exemple d'un cadre contenant un "diplôme" et une médaille il aurait également tenu un magasin de chaussures en face de la place de Thiers à Bruay-sur-l'-Escaut.</p>
 
-<figure>
-    <a href="sources/fav-matricule-01.jpg" id="single_image" title="Extrait de la fiche matricule d'Auguste Victor FIEVET">
-    <img src="miniatures/fav-matricule-01.jpg" alt="Extrait de la fiche matricule d'Auguste Victor FIEVET"/>
-    </a>
-    <figcaption>Extrait de sa fiche matricule</figcaption>
-</figure>
-
-<figure>
-    <a href="images/carte-auguste-fievet.jpg" id="single_image" title="Carte d'ancien combattant ayant appartenu à Auguste">
-    <img src="miniatures/carte-auguste-fievet.jpg" alt="Carte d'ancien combattant d'Auguste FIEVET">
-    </a>
-    <figcaption>Carte d'ancien combattant ayant appartenu à Auguste</figcaption>
-</figure>
+	<figure>
+	    <a href="sources/fav-matricule-01.jpg" id="single_image" title="Extrait de la fiche matricule d'Auguste Victor FIEVET">
+	    <img src="miniatures/fav-matricule-01.jpg" alt="Extrait de la fiche matricule d'Auguste Victor FIEVET"/></a>
+	    <figcaption>Extrait de sa fiche matricule</figcaption>
+	</figure>
+	
+	<figure>
+	    <a href="images/carte-auguste-fievet.jpg" id="single_image" title="Carte d'ancien combattant ayant appartenu à Auguste">
+	    <img src="miniatures/carte-auguste-fievet.jpg" alt="Carte d'ancien combattant d'Auguste FIEVET"></a>
+	    <figcaption>Carte d'ancien combattant ayant appartenu à Auguste</figcaption>
+	</figure>
 
 <h2>Sources et bibliographie</h2>
     

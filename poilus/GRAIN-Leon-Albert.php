@@ -49,53 +49,55 @@
     <a href="../poilus.php" class="NavSelected">Les Poilus</a>
 </nav>
 
+<div id="navbis">
+	<a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="amand-jules.php">Les jasses de Belgique</a>
+</div>
+
 <section>
 
 <aside>
+
 <ul>
-        <li class="asideheader">Ardennes</li>
-
-        <li><a href="soldats-ardennes.php">Les soldats des Ardennes</a></li>
-
-        <li class="asideheader">Belgique</li>
-
-        <li><a href="soldats-belgique.php">Les soldats de Belgique</a></li>
-
-        <li class="asideheader">Côte-d'Or</li>
-
-        <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
 
         <li class="asideheader">Nord</li>
 
+        <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
+		<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
+		<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
+        <li><a href="delaux-oscar-julien.php">DELAUX Oscar Julien</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
+        <li><a href="dubois-jean-charles.php">DUBOIS Jean Charles (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
-        <li><a href="GRAIN-Leon-Albert.php"  class="AsideSelected">GRAIN Léon Albert</a></li>
+        <li><a href="GRAIN-Leon-Albert.php" class="AsideSelected">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
+        <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
+        <li><a href="magny-jules.php">MAGNY Jules</a></li>
+        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
+        <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="autres.php">Autres poilus du Nord</a></li>
-
-        <li class="asideheader">Marne</li>
-        
-        <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-        <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
-        <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="soldats-marne.php">Autres poilus de la Marne</a></li>
-    	      
-   </ul>
+           	      
+</ul>
    
-      <div id="pubaside">
+<div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
@@ -105,7 +107,7 @@
     <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
-   </div>
+</div>
    
 </aside>
 
@@ -115,93 +117,87 @@
 
 <p>Frère de <a href="GRAIN-Louis.php" title="voir la page consacrée à Louis Grain">Louis</a>, <strong>Léon Albert GRAIN</strong> est né le vendredi 26 décembre 1879 à Villers-Guislain (Nord). Il est le fils légitime de Louis GRAIN, domestique âgé de 19 ans et Joséphine VELU, âgé de 17 ans. En 1906, Léon est tisseur et vit Rue du Catelet à Villers-Guislain en compagnie de son épouse Angèle BERCHON et de leur fille Lucie.</p>
 
-<figure>
-    <a href="images/arbre-grain.png" id="single_image" title="Arbre généalogique simplifié de la famille GRAIN">
-    <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" style="box-shadow:none;width:650px;"/>
-    </a>
-    <figcaption>Arbre simplifié de la famille GRAIN<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/arbre-grain.png" id="single_image" title="Arbre généalogique simplifié de la famille GRAIN">
+	    <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" style="box-shadow:none;width:650px;"/></a>
+	    <figcaption>Arbre simplifié de la famille GRAIN<br />(cliquez pour agrandir)</figcaption>
+	</figure>
+	
+	<figure>
+	    <a href="sources/Leon-grain-matricule-02.jpg" id="single_image" title="Extrait de la fiche matricule de Léon Albert GRAIN">
+	    <img src="miniatures/Leon-grain-matricule-02.jpg" alt="extrait de la fiche matricule de Léon Albert GRAIN"/></a>
+	    <figcaption>Extrait de sa fiche matricule.<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
-<figure>
-    <a href="sources/Leon-grain-matricule-02.jpg" id="single_image" title="Extrait de la fiche matricule de Léon Albert GRAIN">
-    <img src="miniatures/Leon-grain-matricule-02.jpg" alt="extrait de la fiche matricule de Léon Albert GRAIN"/> 
-    </a>
-    <figcaption>Extrait de sa fiche matricule.<br />(cliquez pour agrandir)</figcaption>
-</figure>
-
-<table style="width:70%;caption-side: bottom;">
-    <caption>Titre du tableau</caption>
-    <thead>
-        <tr>
-            <td>Dates</td>
-            <td>Adresses</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-    </tbody>   
-</table>
+	<table style="width:70%;caption-side: bottom;">
+	    <caption>Titre du tableau</caption>
+	    <thead>
+	        <tr>
+	            <td>Dates</td>
+	            <td>Adresses</td>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	        <tr>
+	            <td>1</td>
+	            <td>2</td>
+	        </tr>
+	    </tbody>   
+	</table>
 
 <br/><h2>La mobilisation d'août 1914</h2>
 
 <p><strong>Léon</strong> est rappelé à l’activité par le décret de Mobilisation Générale du 1er août 1914. Il est intégré à la 7e compagnie du <strong>3e Régiment d'Infanterie Territoriale</strong>.  En 1914, Les régiments d’infanterie territoriale (R.I.T), sont essentiellement constitués de citoyens anciens nés entre 1875 et 1880. Ils sont surtout assignés à des missions plus statiques, moins exposées: gares, nœuds ferroviaires, ponts, entrepôts, places fortes, etc. Léon cantonne à Hautmont avec les hommes de sa compagnie sous les ordres du Capitaine LITTOYE. </p>
 
-<figure>
-    <a href="sources/Leon-grain-matricule-01.jpg" id="single_image" title="La fiche matricule de Léon Albert (Extrait)">
-    <img src="miniatures/Leon-grain-matricule-01.jpg" alt="extrait de la fiche matricule de Léon Albert GRAIN"/> 
-    </a>
-    <figcaption>Extrait de sa fiche matricule.<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="sources/Leon-grain-matricule-01.jpg" id="single_image" title="La fiche matricule de Léon Albert (Extrait)">
+	    <img src="miniatures/Leon-grain-matricule-01.jpg" alt="extrait de la fiche matricule de Léon Albert GRAIN"/></a>
+	    <figcaption>Extrait de sa fiche matricule.<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
 <br/><h2>Le siège de Maubeuge</h2>
 
 <p>Le 2 septembre 1914, le bombardement continu  sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance.</p>
 
-<figure>
-    <a href="images/forts-maubeuge.jpg" id="single_image" title="L'emplacement des forts de la place forte de Maubeuge en 1914">
-    <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/> 
-    </a>
-    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/forts-maubeuge.jpg" id="single_image" title="L'emplacement des forts de la place forte de Maubeuge en 1914">
+	    <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
+	    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
+	</figure>
 
 <br/><h2>On brûle les drapeaux...</h2>
 
 <p>Le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e d'infanterie, des 31e  et 32e  colonial, des 1er, 2e, 3e (celui de <strong>Léon albert GRAIN</strong>) et 4e territorial et enfin celui du 1er régiment d'artillerie à pied. Les drapeaux de la garnison sont brûlés le lendemain dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
 
-<figure>
-    <a href="images/Maubeuge-caserne-joyeuse.jpg" id="single_image" title="La Caserne Joyeuse (Maubeuge) avant 1914">
-    <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg" alt="La caserne Joyeuse à Maubeuge avant la Première Guerre Mondiale"/>
-    </a>
-    <figcaption>La Caserne Joyeuse à Maubeuge<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/Maubeuge-caserne-joyeuse.jpg" id="single_image" title="La Caserne Joyeuse (Maubeuge) avant 1914">
+	    <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg" alt="La caserne Joyeuse à Maubeuge avant la Première Guerre Mondiale"/></a>
+	    <figcaption>La Caserne Joyeuse à Maubeuge<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
 <br/><h2>La chute de Maubeuge</h2>
 
 <p><strong>Léon Albert</strong> est fait prisonnier le 8 septembre à 1914 à Maubeuge et envoyé à Chemnitz, un <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de prisonniers de Chemnitz</a>  situé en Saxe, entre Dresde et Zwickau, au Sud-est de Leipzig. Pour rappel, 46000 soldats français ont été fait prisonniers à la suite de la chute de la ville Maubeuge.</p>
 
-<figure>
-    <a href="images/camp-de-chemnitz.jpg" id="single_image" title="Le camp de Chemnitz pendant la Grande Guerre">
-    <img src="miniatures/camp-de-chemnitz.jpg" alt="Le camp de prisonniers de Chemnitz sur une carte postale"/>
-    </a>
-    <figcaption>Le camp de Chemnitz<br />(cliquez pour agrandir)</figcaption>
-</figure>
+	<figure>
+	    <a href="images/camp-de-chemnitz.jpg" id="single_image" title="Le camp de Chemnitz pendant la Grande Guerre">
+	    <img src="miniatures/camp-de-chemnitz.jpg" alt="Le camp de prisonniers de Chemnitz sur une carte postale"/></a>
+	    <figcaption>Le camp de Chemnitz<br />(cliquez pour agrandir)</figcaption>
+	</figure>
 
-<p></p><p>Léon Albert est libéré le 10 décembre 1918.</p><p></p>
+<p>Léon Albert est libéré le 10 décembre 1918.</p>
 
 <h2>Sources et bibliographie</h2>
     
