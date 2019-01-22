@@ -61,65 +61,7 @@
 
 <section>
 
-<aside>
-<ul>
-        <li class="asideheader">Ardennes</li>
-
-        <li><a href="poilus/soldats-ardennes.php">Les soldats des Ardennes</a></li>
-
-        <li class="asideheader">Belgique</li>
-
-        <li><a href="poilus/soldats-belgique.php">Les soldats de Belgique</a></li>
-
-        <li class="asideheader">Côte-d'Or</li>
-
-        <li><a href="poilus/FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
-
-        <li class="asideheader">Nord</li>
-
-        <li><a href="poilus/BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
-        <li><a href="poilus/CARIN-Edouard.php">CARIN Edouard (+)</a></li>
-        <li><a href="poilus/CARIN-Leon.php">CARIN Léon (+)</a></li>
-        <li><a href="poilus/CARIN-Theophile.php">CARIN Théophile</a></li>
-        <li><a href="poilus/CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
-        <li><a href="poilus/CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="poilus/DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
-        <li><a href="poilus/FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
-        <li><a href="poilus/FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
-        <li><a href="poilus/FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
-        <li><a href="poilus/GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
-        <li><a href="poilus/GRAIN-Louis.php">GRAIN Louis</a></li>
-        <li><a href="poilus/hanze-augustin.php">HANZE Augustin</a></li>
-        <li><a href="poilus/JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
-        <li><a href="poilus/LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
-        <li><a href="poilus/ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
-        <li><a href="poilus/VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="poilus/autres.php">Autres poilus du Nord</a></li>
-
-        <li class="asideheader">Marne</li>
-        
-        <li><a href="poilus/BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-        <li><a href="poilus/MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
-        <li><a href="poilus/MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-        <li><a href="poilus/soldats-marne.php">Autres poilus de la Marne</a></li>
-    	      
-   </ul>
- 
-    <div id="pubaside">
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <!-- Poilus -->
-    <ins class="adsbygoogle"
-     style="display:inline-block;width:160px;height:600px"
-     data-ad-client="ca-pub-1550427609493753"
-     data-ad-slot="8236218848"></ins>
-    <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-   </div>
-   
-</aside>
-
-<article>
+<article style="margin-left:0px;">
  
 <h1>Les poilus</h1>
 
@@ -316,8 +258,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

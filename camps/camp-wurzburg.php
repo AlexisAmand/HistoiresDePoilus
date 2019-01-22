@@ -114,7 +114,7 @@
 <p>Le camp de prisonniers de Würzburg était situé en Bavière (Allemagne). Les prisonniers du camp ont décrit avec beaucoup d'humour les profils de leurs gardiens (appelés <em>post</em> ou <em>posten</em>), qui vont du brave père de famille, le "<em>post doux [...] qui cause avec les prisonniers</em>", au stéréotype prussien, "<em>le post terrible [...] qui ne dit mot, tortille ses moustaches et qu'il ne ferait pas bon de contrarier</em>", en passant par le gardien austère, "<em>le post sérieux [...] qui voit en ville son groupe de prisonniers reluquer avec insistance vers les trottoirs, et qui est choqué, absolument choqué</em>".</p>
 
 <figure>    
-	<a href="images/Wurzburg/localisation-wurzburg.jpg" id="single_image" title="Localisation du camp de Würzburg">
+	<a href="images/Wurzburg/localisation-wurzburg.jpg" data-fancybox="gallery" title="Localisation du camp de Würzburg">
     <img src="miniatures/Wurzburg/localisation-wurzburg.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Würzburg"></a>
     <figcaption>Localisation du camp de Würzburg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>  
@@ -122,7 +122,7 @@
 <p>Le « Rapports des délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne » indique qu’au 19 août 1916, il y a environ 1500 prisonniers dans le camp de Würzburg.</p>
 
 &nbsp;<figure>
-    <a href="images/wurzburg-01.png" id="single_image" title="La salle des lavabos dans le camp de Würzburg">
+    <a href="images/wurzburg-01.png" data-fancybox="gallery" title="La salle des lavabos dans le camp de Würzburg">
     <img src="miniatures/wurzburg-01.png" alt="les lavabos dans le camps de prisonniers de Würzburg pendant la Première Guerre Mondiale"></a>
     <figcaption>La salle des lavabos<br />(source allemande)</figcaption>
 </figure>
@@ -155,8 +155,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

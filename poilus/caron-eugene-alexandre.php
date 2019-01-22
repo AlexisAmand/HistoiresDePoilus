@@ -4,12 +4,12 @@
 
 <meta charset="utf-8">
           
-<title>Histoires de Poilus - Liste de quelques poilus de la Marne</title>
-<meta content="Petites biographies de soldats de ma famille ayant participé à la Première Guerre Mondiale et ayant vécu dans la Marne" name="description">
+<title>Biographie et parcours du soldat Eugène Alexandre CARON - Histoires de Poilus</title>
+<meta content="Parcours et biographie du poilu Eugène Alexandre CARON, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
    
 </head>   
 
@@ -96,7 +96,7 @@
 <p><strong>Eugène Alexandre CARON</strong>, né le 16 avril 1869 à Montigny-sur-Vesle (Marne), fils de Pierre Alexandre et de Zélia Celestine HUILLERET. Avant la Grande Guerre, il vit à Reims, successivement 164 Rue du Barbâtre (1895) et 28 Rue de Savoie (1910), où il exerce la profession de mécanicien. A la mobilisation, il rejoint la 6e section d'infirmiers le 3 août 1914. Le 24 août 1915, il est détaché dans une usine de Clermont-Ferrant.</p>
 
 	<figure>
-	    <a href="images/reims-barbatre.jpg" id="single_image" title="la Rue du Barbâtre à Reims">
+	    <a href="images/reims-barbatre.jpg" data-fancybox="gallery" title="la Rue du Barbâtre à Reims">
 	    <img src="miniatures/reims-barbatre.jpg" alt="la Rue du Barbâtre à Reims sur une carte postale ancienne"/></a>
 	    <figcaption>la Rue du Barbâtre<br />(Source: Delcampe)</figcaption>
 	</figure>
@@ -121,8 +121,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

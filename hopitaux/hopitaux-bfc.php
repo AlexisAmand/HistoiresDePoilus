@@ -97,7 +97,7 @@
 <h2>Chatillon-sur-Seine</h2>
 
 	<figure>
-	<a href="images/chatillon-ht-69" id="single_image" title="Hôpital temporaire n°69 (Chatillon-sur-Seine)">
+	<a href="images/chatillon-ht-69" data-fancybox="gallery" title="Hôpital temporaire n°69 (Chatillon-sur-Seine)">
     <img src="miniatures/chatillon-ht-69" alt="L'hôpital temporaire n°69 de Chatillon-sur-Seine"></a>
         <figcaption>L'hôpital temporaire n°69</figcaption>
     </figure>
@@ -105,7 +105,7 @@
 <h2>Sens</h2>
 
 	<figure>
-	<a href="images/sens-ht-31.jpg" id="single_image" title="L'hôpital temporaire n°31 (Sens)">
+	<a href="images/sens-ht-31.jpg" data-fancybox="gallery" title="L'hôpital temporaire n°31 (Sens)">
     <img src="miniatures/sens-ht-31.jpg" alt="L'hôpital temporaire n°31 dans l'ancien grand séminaire de Sens'"></a>
         <figcaption>L'hôpital temporaire n°31,<br />situé dans l'ancien grand séminaire</figcaption>
     </figure>
@@ -130,8 +130,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

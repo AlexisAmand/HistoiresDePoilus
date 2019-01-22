@@ -9,7 +9,7 @@
     
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                   
 </head>
 
@@ -81,7 +81,7 @@
         <li><a href="FONTAINE-Henri-Gustave.php" class="AsideSelected">FONTAINE Henri Gustave</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
@@ -118,7 +118,7 @@
 <p><strong>Henri Gustave FONTAINE</strong>, le père de mon arrière-grand-mère, est né le 24 février 1890 à Anzin (Nord). Il est le fils légitime de Henri François FONTAINE, ouvrier mineur, âgé de 32 ans et de Désirée BAR, âgée de 26 ans. En 1906, Henri est journalier. Il vit Rue Kléber à Anzin avec ses parents et ses frères et sœurs: Virginie, Désirée, Gustave, Marie et Léonie.</p>
 
 	<figure>
-	    <a href="images/anzin-rue-kleber.jpg" id="single_image" title="La rue Kléber à Anzin">
+	    <a href="images/anzin-rue-kleber.jpg" data-fancybox="gallery" title="La rue Kléber à Anzin">
 	    <img src="miniatures/anzin-rue-kleber.jpg" alt="La rue Kléber à Anzin sur une carte postale"/></a>
 	    <figcaption>La Rue Kléber à Anzin<br />(Source: Bibliothèque municipale de Valenciennes)</figcaption>
 	</figure>
@@ -126,7 +126,7 @@
 <p>Il s'unit à Valenciennes (Nord) avec Bertha CANONNE le 3 avril 1914. Bertha est la fille légitime de Nestor CANONNE et de Marie Eugénie DUCHÊNE. Le couple aura plusieurs enfants: Henri, Madeleine (mon arrière-grand-mère, qui épousera Kleber le fils de <a href="FIEVET-Charles-Augustin.php" title="Voir la page consacrée à Charles Augustin Fievet">Charles Augustin FIEVET</a>), René, Marcel et Marie-Louise.</p>
 
 	<figure>
-	    <a href="portraits/tous-les-grand-peres.jpg" id="single_image" title="La famille FONTAINE">
+	    <a href="portraits/tous-les-grand-peres.jpg" data-fancybox="gallery" title="La famille FONTAINE">
 	    <img src="miniatures/tous-les-grand-peres.jpg" alt="La famille FONTAINE"/></a>
 	    <figcaption>Henri Gustave, debout avec le chapeau<br />(Source: Archives familiales)</figcaption>
 	</figure>
@@ -168,13 +168,13 @@
 <p>Anzin, commune où est né <strong>Henri</strong>, est occupée par l'armée allemande dès le 25 août 1914, aussitôt un couvre-feu instauré.</p><p><a href="http://cartespostalesanciennes.genealexis.fr/album/36-anzin" title="cartes postales anciennes d'Anzin sur le site Genealexis">Anzin</a> avait la particularité d’être située dans la « zone d'étape », qui comprenait toutes les compagnies du Nord, la compagnie des mines d'Anzin reprit l'exploitation au bout de quelques semaines en partie avec du personnel réquisitionné et sous le contrôle étroit de la Bergverwaltung (section des mines de l’administration allemande). Sa production est toutefois  inférieure de 30 % à celle de 1913. </p><p>L'exploitation industrielle fut par contre arrêtée : les usines de la Société des Forges furent totalement démolies, les machines et ferrailles étant récupérées au profit de l'industrie allemande ; l'usine Escaut-et-Meuse fut transformée en atelier de réparation de canons. </p><p>La ville d'Anzin est libérée le 1er novembre 1918.</p>
 
 	<figure>
-	    <a href="images/anzin-1914-01.jpg"  id="single_image" title="La Croix d'Anzin">
+	    <a href="images/anzin-1914-01.jpg"  data-fancybox="gallery" title="La Croix d'Anzin">
 	    <img src="miniatures/anzin-1914-01.jpg" alt="La Croix D'Anzin en pendant la Première Guerre Mondiale (1914-1918) sur une carte postale ancienne"/></a>
 	    <figcaption>La Croix d'Anzin détruite en 1914-18</figcaption>
 	</figure>
 
 	<figure>
-	    <a href="images/anzin-1914-02.jpg"  id="single_image" title="Le retour des évacués à Anzin en 1918">
+	    <a href="images/anzin-1914-02.jpg"  data-fancybox="gallery" title="Le retour des évacués à Anzin en 1918">
 	    <img src="miniatures/anzin-1914-02.jpg" alt="Le retour des évacués à Anzin après la guerre en 1918"/></a>
 	    <figcaption>Le retour des évacués en 1918</figcaption>
 	</figure>
@@ -215,8 +215,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

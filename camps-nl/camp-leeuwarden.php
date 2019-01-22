@@ -76,7 +76,7 @@
 <h1>Le camp d'internement de Leeuwarden</h1>
 
 <figure>
-    <a href="images/Leeuwarden/leeuwarden-01.jpg" id="single_image">
+    <a href="images/Leeuwarden/leeuwarden-01.jpg" data-fancybox="gallery">
     <img src="miniatures/Leeuwarden/leeuwarden-01.jpg" alt="Un bout de toilette au camp de Leeuwarden"></a>
     <figcaption>Un bout de toilette au camp de Leeuwarden<br />(Carte postale)</figcaption>
 </figure>
@@ -101,8 +101,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

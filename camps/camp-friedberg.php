@@ -108,13 +108,13 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br /><p>Le « Rapports des Délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne » indique que vers la fin de l’année 1917, tous les prisonniers ont été transférés au camp d'Eutin.</p>
 
 <figure>
-    <a href="images/Friedberg/friedberg-01.jpg" id="single_image" title="Le camp de Friedberg">
+    <a href="images/Friedberg/friedberg-01.jpg" data-fancybox="gallery" title="Le camp de Friedberg">
     <img src="miniatures/Friedberg/friedberg-01.jpg" alt="Appel des ordonnances des officiers russes dans le camp de Friedberg pendant la Première Guerre Mondiale"></a>
     <figcaption>Appel des ordonnances des officiers russes (vers 1915)<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Friedberg/friedberg-02.jpg" id="single_image" title="Le camp de Friedberg">
+    <a href="images/Friedberg/friedberg-02.jpg" data-fancybox="gallery" title="Le camp de Friedberg">
     <img src="miniatures/Friedberg/friedberg-02.jpg" alt="La cantine et la Kommandantur du camp de prisonniers de Friedberg"></a>
     <figcaption>La cantine et la Kommandantur<br />(Carte postale)</figcaption>
 </figure>
@@ -147,8 +147,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

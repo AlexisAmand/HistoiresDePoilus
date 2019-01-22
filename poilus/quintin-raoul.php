@@ -4,12 +4,12 @@
 
 <meta charset="utf-8">
           
-<title>Histoires de Poilus - Liste de quelques jasses de Belgique</title>
-<meta content="Petites biographies de soldats belges - Jasses - de ma famille ayant participé à la Première Guerre Mondiale." name="description">
+<title>Biographie et parcours du soldat Raoul QUINTIN - Histoires de Poilus</title>
+<meta content="Parcours et biographie du Jass Raoul QUINTIN, soldat belge pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
    
 </head>   
 
@@ -108,8 +108,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

@@ -4,12 +4,12 @@
 
 <meta charset="utf-8">
           
-<title>Biographie et parcours du soldat GRAIN Louis - Histoires de Poilus</title>
+<title>Biographie et parcours du soldat Louis GRAIN - Histoires de Poilus</title>
 <meta content="Parcours de Louis GRAIN, soldat guislanais pendant la Première Guerre Mondiale. Il était membre du 3e Régiment d'Infanterie Territoriale puis prisonnier de guerre à Chemnitz" name="description">
     
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                 
 </head>
    
@@ -81,7 +81,7 @@
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php" class="AsideSelected">GRAIN Louis</a></li>
-        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
@@ -118,41 +118,30 @@
 <p><strong>Louis GRAIN</strong>, le père de mon arrière-grand-mère, est né le 21 juin 1876 à Villers-Guislain (Nord). Il est le fils légitime de Louis GRAIN, domestique âgé de 19 ans et Joséphine VELU, âgé de 17 ans. Le 18 mai 1895 à Villers-Guislain, il épouse en premières noces Martine VELU (1875-1935). Son frère <a href="GRAIN-Leon-Albert.php">Léon Albert</a> a aussi été mobilisé. En 1906, <strong>Louis</strong> est tisseur et vit à Villers-Guislain (Rue Neuve) en compagnie de son épouse Martine, ses filles Marguerite et Marthe et son fils Marcel.</p>
 
 	<figure>
-	    <a href="images/arbre-grain.png" id="single_image" title="Arbre généalogique simplifié de la famille GRAIN">
+	    <a href="images/arbre-grain.png" data-fancybox="gallery" title="Arbre généalogique simplifié de la famille GRAIN">
 	    <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" style="box-shadow:none;width:650px;"/></a>
 	    <figcaption>Arbre simplifié de la famille GRAIN<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 
 	<figure>
-	    <a href="sources/louis-grain-matricule-01.jpg" id="single_image" title="Fiche matricule de Louis GRAIN (Extrait)">
+	    <a href="sources/louis-grain-matricule-01.jpg" data-fancybox="gallery" title="Fiche matricule de Louis GRAIN (Extrait)">
 	    <img src="miniatures/louis-grain-matricule-01.jpg" alt="Extrait de la fiche matricule de Louis GRAIN"/></a>
 	    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 
 	<table style="width:70%;caption-side: bottom;">
-	    <caption>Titre du tableau</caption>
+	    <caption>Liste des domiciles de Louis GRAIN</caption>
 	    <thead>
 	        <tr>
-	            <td>Dates</td>
-	            <td>Adresses</td>
+	            <td>Dates</td><td>Adresses</td>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td>1906</td><td>Rue Neuve<br />à Villers-Guislain (Nord)</td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
-	        </tr>
-	        <tr>
-	            <td>1</td>
-	            <td>2</td>
-	        </tr>
-	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td>1911</td><td>Rue de Merlan<br />à Bétheniville (Marne)</td>
 	        </tr>
 	    </tbody>   
 	</table>
@@ -164,7 +153,7 @@
 <p>Durant le mois d’août, <strong>Louis</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> étaient affectés au 1er secteur qui comprenait le centre de résistance avancé, les centres de résistance du fort Grévaux et du fort d'Hautmont.</p>
 
 	<figure>
-	    <a href="images/forts-maubeuge.jpg" id="single_image" title="L'emplacement des forts de la place forte de Maubeuge en 1914">
+	    <a href="images/forts-maubeuge.jpg" data-fancybox="gallery" title="L'emplacement des forts de la place forte de Maubeuge en 1914">
 	    <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
 	    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
 	</figure>
@@ -178,7 +167,7 @@
 <p>Deux jours plus tard - le 4 septembre - le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e , 2e , 3e (celui de <strong>Louis</strong>) et 4e  territorial et enfin celui du 1er régiment d'artillerie à pied.</p><p> Les drapeaux de la garnison sont brûlés le lendemain à 7 heures du matin dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande une cérémonie qui émotionne fortement les assistants.</p>
 
 	<figure>
-	    <a href="images/Maubeuge-caserne-joyeuse.jpg" id="single_image" title="La Caserne Joyeuse (Maubeuge) avant 1914">
+	    <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" title="La Caserne Joyeuse (Maubeuge) avant 1914">
 	    <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg" alt="La caserne Joyeuse à Maubeuge avant la Première Guerre Mondiale"/></a>
 	    <figcaption>La Caserne Joyeuse à Maubeuge<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -234,8 +223,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

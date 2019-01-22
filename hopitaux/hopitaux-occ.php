@@ -103,7 +103,7 @@
 <p>Durant la Première Guerre mondiale, sous le contrôle du Service de santé, le collège Henri IV  devient l'hôpital complémentaire n°29 du 15 août 1914 au 29 décembre 1918. Il disposait d'une unité de petite chirurgie, de consultation ORL, d'un cabinet d'ophtalmologie et de 467 lits. D'autres lieux ont été également réquisitionnés dans la ville durant cette période, tel que le collège de jeunes filles (collège Paul Riquet) avec 130 lits et le pavillon du Sacré Cœur (Lycée Privé Sacré-Coeur) avec 105 lits.</p>
 
 <figure>
-<a href="images/beziers-ht.jpg" id="single_image" title="Hôpital temporaire (Béziers)">
+<a href="images/beziers-ht.jpg" data-fancybox="gallery" title="Hôpital temporaire (Béziers)">
 <img src="miniatures/beziers-ht.jpg" alt="Hôpital temporaire n°23 de Cahors au Collége Henri IV"></a>
     <figcaption>L'hôpital temporaire de Béziers,<br />au Collége Henri IV</figcaption>
 </figure>
@@ -111,7 +111,7 @@
 <h2>Cahors</h2>
 
     <figure>
-    <a href="images/cahors-ht-23.jpg" id="single_image" title="Hôpital temporaire n°23 (Cahors)">
+    <a href="images/cahors-ht-23.jpg" data-fancybox="gallery" title="Hôpital temporaire n°23 (Cahors)">
    	<img src="miniatures/cahors-ht-23.jpg" alt="Hôpital temporaire n°23 de Cahors au Lycée Gambetta"></a>
     	<figcaption>L'hôpital temporaire n°23,<br />installé au Lycée Gambetta</figcaption>
     </figure>
@@ -127,7 +127,7 @@
 <h2>Montauban</h2>
 
 	<figure>
-	<a href="images/montauban-ht-25.jpg" id="single_image" title="Hôpital temporaire n°25 (Montauban)">
+	<a href="images/montauban-ht-25.jpg" data-fancybox="gallery" title="Hôpital temporaire n°25 (Montauban)">
     <img src="miniatures/montauban-ht-25.jpg" alt="L'hôpital temporaire n°25 au pensionnat Jeanne d'Arc de Montauban"></a>
         <figcaption>L'hôpital temporaire n°25<br />situé au pensionnat Jeanne d'Arc</figcaption>
     </figure>
@@ -135,7 +135,7 @@
 <h2>Pamiers</h2>
 
     <figure>
-    <a href="images/pamiers-HC-67.jpg" id="single_image" title="L'hôpital complémentaire n°67 (Pamiers)">
+    <a href="images/pamiers-HC-67.jpg" data-fancybox="gallery" title="L'hôpital complémentaire n°67 (Pamiers)">
    	<img src="miniatures/pamiers-HC-67.jpg" alt="L'hôpital complémentaire n°67 de Pamiers, en Ariège"></a>
     	<figcaption>L'hôpital complémentaire n°67</figcaption>
     </figure>
@@ -160,8 +160,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

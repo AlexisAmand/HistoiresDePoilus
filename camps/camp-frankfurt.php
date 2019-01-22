@@ -108,13 +108,13 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br /><p>Le camp de Francfort-sur-le-Main (Frankfurt am Main en allemand) a été créé au début de l’année 1918. Un rapport de l’Office central belge pour les prisonniers de guerre indique qu’il était installé dans une école entourée d’un grillage, pour éviter tout contact avec l’extérieur. Les dortoirs contenaient chacun 6 à 8 lits garnis d’une paillasse rembourrée d’algues marines, d’un traversin et de deux couvertures. En mai 1918, le camp de Höchst-sur-le-Main (Höchst am Main en allemand) est réuni à celui de Francfort-sur-le-Main. L’évacuation de se camp s’est faite très rapidement le 18 novembre 1918, par Nancy.</p> 
 
 <figure>
-    <a href="images/Frankfurt/frankfurt-01.jpg" id="single_image" title="des français dans le camp de Frankfurt">
+    <a href="images/Frankfurt/frankfurt-01.jpg" data-fancybox="gallery" title="des français dans le camp de Frankfurt">
     <img src="miniatures/Frankfurt/frankfurt-01.jpg" alt="Prisonniers français bêchant des parterres de fleur au camp de Francfort pendant la Première Guerre Mondiale"></a>
     <figcaption>Prisonniers français bêchant des parterres de fleurs<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Frankfurt/frankfurt-02.jpg" id="single_image"  title="Le camp de Frankfurt">
+    <a href="images/Frankfurt/frankfurt-02.jpg" data-fancybox="gallery"  title="Le camp de Frankfurt">
     <img src="miniatures/Frankfurt/frankfurt-02.jpg" alt="Des prisonniers au jardin dans le camp de prisonniers de Frankfurt pendant la Grande Guerre"></a>
     <figcaption>Des prisonniers au jardin<br />(source allemande)</figcaption>
 </figure>
@@ -147,8 +147,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

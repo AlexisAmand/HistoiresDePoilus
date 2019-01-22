@@ -105,13 +105,13 @@
 <h2>Rennes</h2>
 
 	<figure>
-	<a href="images/rennes-ht-5.jpg" id="single_image" title="L'hôpital temporaire n°5 (Rennes)">
+	<a href="images/rennes-ht-5.jpg" data-fancybox="gallery" title="L'hôpital temporaire n°5 (Rennes)">
     <img src="miniatures/rennes-ht-5.jpg" alt="L'hôpital temporaire n°5 à la Facultés des lettres de Rennes"></a>
         <figcaption>Hôpital temporaire n°5<br />à la Faculté des lettres</figcaption>
     </figure>
     
 	<figure>
-	<a href="images/rennes-ht-41.jpg" id="single_image" title="L'hôpital temporaire n°41 (Rennes)">
+	<a href="images/rennes-ht-41.jpg" data-fancybox="gallery" title="L'hôpital temporaire n°41 (Rennes)">
     <img src="miniatures/rennes-ht-41.jpg" alt="L'hôpital temporaire n°41 à la Faculté de droit de Rennes"></a>
         <figcaption>Hôpital temporaire n°41<br />à la Faculté de droit</figcaption>
     </figure>
@@ -136,8 +136,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

@@ -66,7 +66,7 @@
 <h3>L'année 1914</h3>
 
 <figure>
-    <a href="images/yser.jpg" id="single_image" title="La Bataille de l'Yser (1914)">
+    <a href="images/yser.jpg" data-fancybox="gallery" title="La Bataille de l'Yser (1914)">
     <img src="images/miniatures/yser.jpg" alt="la bataille de l'Yser pendant la Grande Guerre"></a>
     <figcaption>La Bataille de l'Yser (1914)<br />(source: BNF / Gallica)</figcaption>
 </figure>
@@ -274,7 +274,7 @@
 <h3>L'année 1917</h3>
 
 <figure>
-    <a href="../poilus/images/Assaut-chemin-des-dames.jpg" id="single_image" title="Soldats français sur le Chemin des Dames">
+    <a href="../poilus/images/Assaut-chemin-des-dames.jpg" data-fancybox="gallery" title="Soldats français sur le Chemin des Dames">
     <img src="../poilus/miniatures/Assaut-chemin-des-dames.jpg" alt="Des soldats français à l'assaut au Chemin de Dames"/></a>
 	<figcaption>Assaut français sur le Chemin des Dames<br />(cliquez pour agrandir - Archives du Queensland, Australie)</figcaption>
 </figure>
@@ -355,7 +355,7 @@
 <h3>L'année 1918</h3>
  
 <figure>
-    <a href="images/bois-belleau.jpg" id="single_image" title="Les soldats américains au Bois Belleau">
+    <a href="images/bois-belleau.jpg" data-fancybox="gallery" title="Les soldats américains au Bois Belleau">
     <img src="images/miniatures/bois-belleau.jpg" alt="les troupes américaines au Bois Belleau pendant la Première Guerre Mondiale"></a>
     <figcaption>La brigade marine Américaine au Bois de Belleau.<br />(Georges Scott, 1921)</figcaption>
 </figure>
@@ -474,8 +474,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

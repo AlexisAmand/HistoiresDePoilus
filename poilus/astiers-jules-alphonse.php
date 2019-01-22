@@ -4,12 +4,12 @@
 
 <meta charset="utf-8">
           
-<title>Histoires de Poilus - Liste de quelques poilus de la Marne</title>
-<meta content="Petites biographies de soldats de ma famille ayant participé à la Première Guerre Mondiale et ayant vécu dans la Marne" name="description">
+<title>Biographie et parcours du soldat Jules Alphonse ASTIER(S) - Histoires de Poilus</title>
+<meta content="Parcours et biographie du poilu Jules Alphonse ASTIER(S), soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
    
 </head>   
 
@@ -93,7 +93,59 @@
 
 <h1>Jules Alphonse ASTIERS</h1>
 
-<p><strong>Jules Alphonse ASTIERS</strong>, né le 14 février 1872 à Bétheniville (Marne), petit-fils de mon aïeule Julie Joséphine KRAUTH via Louise Adèle BALTAZART.</p>
+<p>Jules Alphonse ASTIERS est né le 14 février 1872 à Bétheniville, dans la Marne. Tisseur, il est le fils légitime d'André ASTIER et de Louise Adèle BALTAZART. Il part pour le service militaire le 16 novembre 1893 avec avoir été déclaré "bon" lors de son conseil de révision. Il rejoint le 91e Régiment d'Infanterie et arrive au corps en tant que soldat de 2e classe. Il devient soldat de 1ere classe le 8 octobre 1894 et est envoyé en congés un mois plus tard avec le certificat de bonne conduite.</p>
+
+	<figure>
+	    <a href="images/bethenville-place-munet.jpg" data-fancybox="gallery" title="La Place du Munet à Bétheniville">
+	    <img src="miniatures/bethenville-place-munet.jpg" alt="La Place du Munet à Bétheniville sur une carte postale ancienne"/></a>
+	    <figcaption>La Place du Munet à Bétheniville<br />où est né Jules, aprés la guerre.</figcaption>
+	</figure>
+
+<p>20 ans plus tard, lors de la mobilisation générale du 1er aout 1914, il est rappelé mais est renvoyé provisoirement le 2 septembre 1914. Quelques mois plus tard, le 3 avril 1915, il est de nouveau rappelé et rejoint le 10e Escadron de Train dés le 20 où il reste 9 jours avant de rejoindre le 13e Régiment d'Artillerie. Il passe les deux dernières années de la guerre détaché dans des usines d'armement de Colombe et Mondeville (Normandie) avant d'être finalement libéré du service le 1 octobre 1919.</p>
+	
+	<table style="width:70%;caption-side: bottom;">
+	    <caption>Liste des domiciles de Jules Alphonse ASTIERS</caption>
+	    <thead>
+	        <tr>
+	            <td>Dates</td><td>Adresses</td>
+	        </tr>
+	    </thead>
+	    <tbody>
+	    	<tr>
+	            <td>1881</td><td>Chez ses parents<br />Place du Munet<br />à Bétheniville (Marne)</td>
+	        </tr>
+	        <tr>
+	            <td>27 juillet 1897</td><td>13 rue Neufchatel<br />à Reims (Marne)</td>
+	        </tr>
+	        <tr>
+	        	<td>15 mars 1898</td><td>Bétheniville (Marne)</td>
+	        </tr>
+	        <tr>
+	            <td>1901</td><td>Grand'rue<br />à Bétheniville (Marne)</td>
+	        </tr>
+	        <tr>
+	            <td>1906</td><td>Rue des chevaliers<br />à Bétheniville (Marne)</td>
+	        </tr>
+	        <tr>
+	        	<td>21 octobre 1906</td><td>13 rue de Bétheny<br />à Reims (Marne)</td>
+	        </tr>
+	        <tr>
+	        	<td>21 juillet 1907</td><td>10 rue Villeminot<br />à Reims (Marne)</td>
+	        </tr>
+	        <tr>
+	        	<td>20 octobre 1907</td><td><a href="http://cartespostalesanciennes.genealexis.fr/image/517-la-route-de-reims-a-betheniville">Rue de Reims</a><br />à Bétheniville (Marne)</td>
+	        </tr>
+	        <tr>
+	            <td>1911</td><td>Rue de Merlan<br />à Bétheniville (Marne)</td>
+	        </tr>
+	        <tr>
+	        	<td>27 octobre 1912</td><td>29 rue Maucroix<br />à Reims (Marne)</td>
+	        </tr>
+	        <tr>
+	        	<td>7 septembre 1914</td><td>à Missy (Calvados)</td>
+	        </tr>
+	    </tbody>   
+	</table> 
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
@@ -115,8 +167,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

@@ -64,7 +64,7 @@
     		<h1>Les Batailles du Front Africain</h1>
 
 			<figure>
-    			<a href="images/askari-1914-1918.jpg" id="single_image" title="Une troupe d'Askari pendant la Grande Guerre">
+    			<a href="images/askari-1914-1918.jpg" data-fancybox="gallery" title="Une troupe d'Askari pendant la Grande Guerre">
     			<img src="images/miniatures/askari-1914-1918.jpg" alt="Une troupe d'Askari sur le Front Africain pendant la Première Guerre Mondiale"></a>
     			<figcaption>Une troupe d'Askari, entre 1914-1918<br />(source: Bundesarchiva)</figcaption>
 			</figure>
@@ -167,8 +167,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

@@ -126,7 +126,7 @@
 <p></p>
 
 <figure>
-    <a href="images/betheniville-monument-aux-morts.jpg" id="single_image" title="Le Monument aux Morts de Bétheniville">
+    <a href="images/betheniville-monument-aux-morts.jpg" data-fancybox="gallery" title="Le Monument aux Morts de Bétheniville">
     <img src="images/mini/betheniville-monument-aux-morts.jpg" alt="le Monument aux Morts de Bétheniville sur une carte postale ancienne"/></a>
     <figcaption>Le Monument du Souvenir (guerre 1914-1918)<br />(cliquez pour agrandir)</figcaption>
 </figure>
@@ -588,8 +588,8 @@ Le livre d'Or indique Boulogne-sur-Mer dans le Pas-de-Calais, la fiche du site M
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

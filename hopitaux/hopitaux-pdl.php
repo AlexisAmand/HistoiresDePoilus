@@ -97,19 +97,19 @@
 <h2>Nantes</h2>
 
 	<figure>
-	<a href="images/nantes-ht-3.jpg" id="single_image" title="L'hôpital temporaire n°3 (Nantes)">
+	<a href="images/nantes-ht-3.jpg" data-fancybox="gallery" title="L'hôpital temporaire n°3 (Nantes)">
     <img src="miniatures/nantes-ht-3.jpg" alt="Une salle de l'hôpital temporaire n°3 de Nantes pendant la Grande Guerre"></a>
         <figcaption>Une salle de l'hôpital temporaire n°3,<br>situé rue Mondésir</figcaption>
     </figure>
 
 	<figure>
-	<a href="images/nantes-ht-3-1.jpg" id="single_image" title="L'hôpital temporaire n°3 (Nantes)">
+	<a href="images/nantes-ht-3-1.jpg" data-fancybox="gallery" title="L'hôpital temporaire n°3 (Nantes)">
     <img src="miniatures/nantes-ht-3-1.jpg" alt="Une salle de l'hôpital temporaire n°3 de Nantes pendant la Grande Guerre"></a>
         <figcaption>Une salle de l'hôpital temporaire n°3,<br>situé rue Mondésir</figcaption>
     </figure>
     
 	<figure>
-	<a href="images/nantes-ht-3-2.jpg" id="single_image" title="L'hôpital temporaire n°3 (Nantes)">
+	<a href="images/nantes-ht-3-2.jpg" data-fancybox="gallery" title="L'hôpital temporaire n°3 (Nantes)">
     <img src="miniatures/nantes-ht-3-2.jpg" alt="Une salle de l'hôpital temporaire n°3 de Nantes pendant la Grande Guerre"></a>
         <figcaption>Une salle de l'hôpital temporaire n°3,<br>situé rue Mondésir</figcaption>
     </figure>    
@@ -136,8 +136,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

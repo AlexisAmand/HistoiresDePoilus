@@ -76,28 +76,28 @@
 <h1>Le camp d'internement de Harderwijk</h1>
 
 <figure>
-    <a href="images/Harderwijk/harderwijk-01.jpg" id="single_image" title="Le camp de Harderwijk">
+    <a href="images/Harderwijk/harderwijk-01.jpg" data-fancybox="gallery" title="Le camp de Harderwijk">
     <img src="miniatures/Harderwijk/harderwijk-01.jpg" alt="Une cantine du camp d'internement de Harderwijk pendant la Grande Guerre">
     </a>
     <figcaption>Une cantine à Harderwijk<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Harderwijk/harderwijk-02.jpg" id="single_image" title="Le camp de Harderwijk">
+    <a href="images/Harderwijk/harderwijk-02.jpg" data-fancybox="gallery" title="Le camp de Harderwijk">
     <img src="miniatures/Harderwijk/harderwijk-02.jpg" alt="Le camp d'internement d'Harderwijk pendant la Première Guerre Mondiale">
     </a>
     <figcaption>Le camp de Harderwijk<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Harderwijk/harderwijk-03.jpg" id="single_image" title="Le camp de Harderwijk">
+    <a href="images/Harderwijk/harderwijk-03.jpg" data-fancybox="gallery" title="Le camp de Harderwijk">
     <img src="miniatures/Harderwijk/harderwijk-03.jpg" alt="Le camp d'internement d'Harderwijk pendant la Grande Guerre">
     </a>
     <figcaption>Le camp de Harderwijk<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Harderwijk/harderwijk-04.jpg" id="single_image"  title="Le camp de Harderwijk">
+    <a href="images/Harderwijk/harderwijk-04.jpg" data-fancybox="gallery"  title="Le camp de Harderwijk">
     <img src="miniatures/Harderwijk/harderwijk-04.jpg" alt="Salle de billards des soldats du camps d'internement d'Harderwijk pendant la Première Guerre Mondiale">
     </a>
     <figcaption>La salle de billards des soldats<br />(Carte postale)</figcaption>
@@ -123,8 +123,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

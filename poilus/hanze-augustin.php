@@ -4,12 +4,12 @@
 
 <meta charset="utf-8">
           
-<title>Biographie du soldat HANZE - Histoires de Poilus</title>
-<meta content=" " name="description">
+<title>Biographie et parcours du soldat Augustin HANZE - Histoires de Poilus</title>
+<meta content="Parcours et biographie du poilu Augustin HANZE, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
    
 </head>   
 
@@ -82,7 +82,7 @@
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-        <li><a href="hanze-augustin.php" class="AsideSelected">HANZE Augustin</a></li>
+        <li><a href="hanze-augustin.php" class="AsideSelected">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
@@ -119,7 +119,7 @@
 <p>Augustin HANZE est né Cousolre (Nord) le 6 février 1886, fils légitime de Désiré HANZE et Laure DELENS. Selon le recensement de 1906, il est serrurier et vit Route Nationale à Cousolre en compagnie de ses parents et de sa sœur Germaine (née en 1891). Le 5 mars 1910, il épouse à Valenciennes Berthe DUSART, la cousine germaine d'<a href="FONTAINE-Henri-Gustave.php">Henri Gustave FONTAINE</a> (mon arrière-arrière-grand-père).</p> 
 
     <figure>
-        <a href="images/arbre-hanze.png" id="single_image" title="Arbre généalogique simplifié de la famille HANZE">
+        <a href="images/arbre-hanze.png" data-fancybox="gallery" title="Arbre généalogique simplifié de la famille HANZE">
         <img src="miniatures/arbre-hanze.png" alt="Arbre généalogique simplifié de la famille HANZE" style="box-shadow:none;width:650px;"/></a>
         <figcaption>Arbre simplifié de la famille HANZE<br />(cliquez pour agrandir)</figcaption>
     </figure>
@@ -150,7 +150,13 @@
 <p>Rappelé à l'activité par le décret de Mobilisation Générale du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux-ges.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le <a href="../releves/cousolre.php">Monument aux Morts de cousolre</a> (où il était né) et sur les plaques commémoratives du square de l’Armistice à Carcassonne (où il était serrurier).</p>
 
 	<figure>
-	    <a href="images/momument-cousolre.jpg" id="single_image" title="Inauguration du monument de Cousolre">
+	    <a href="sources/hanze-augustin.jpg" data-fancybox="gallery" title="Augustin HANZE, mort pour la France">
+	    <img src="miniatures/hanze-augustin.jpg" alt="Fiche de mort pour la France d'Augustin HANZE"/></a>
+	    <figcaption>Augustin, mort pour la France.<br />(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
+    </figure>
+
+	<figure>
+	    <a href="images/momument-cousolre.jpg" data-fancybox="gallery" title="Inauguration du monument de Cousolre">
 	    <img src="miniatures/momument-cousolre.jpg" alt="Inauguration du monument de Cousolre le 29 juillet 1923"/></a>
 	    <figcaption>Inauguration du monument de Cousolre<br />(Le 29 juillet 1923)</figcaption>
     </figure>
@@ -161,6 +167,7 @@
     
     <ul>
         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
+        <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title=" ">Mémoire des Hommes</a> (Ministère de la Défense)</li>
         <li>Archives départementales du Nord</li>
     </ul> 
 
@@ -184,8 +191,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

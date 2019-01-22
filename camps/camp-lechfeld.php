@@ -110,14 +110,14 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p>Dans son ouvrage intitulé <cite>Août 1914. La Bataille de Sarrebourg</cite>, Joseph ELMERICH précise que la Bavière, qui avait fourni sa propre armée, avait préparé trois camps destinés à recevoir les prisonniers: le camp de Lechfeld (3600 prisonniers), <a href="camp-hammelburg.php" title="lien vers la page consacrée au camp de Hammelburg">le camp de Hammelburg</a> (4470 prisonniers) et enfin celui de <a href="camp-grafenwohr.php" title="lien vers la page consacrée au camp de Grafenwohr">Grafenwöhr </a>(10500 prisonniers).</p>
 
 <figure>    
-	<a href="images/Lechfeld/localisation-lechfeld.jpg" id="single_image" title="Localisation du camp de Lechfeld">
+	<a href="images/Lechfeld/localisation-lechfeld.jpg" data-fancybox="gallery" title="Localisation du camp de Lechfeld">
     <img src="miniatures/Lechfeld/localisation-lechfeld.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Lechfeld"></a>
     <figcaption>Localisation du camp de Lechfeld<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>  
 
 
 <figure>
-    <a href="images/Lechfeld-cpa-02.jpg" id="single_image" title="Des prisonniers français à Lechfeld">
+    <a href="images/Lechfeld-cpa-02.jpg" data-fancybox="gallery" title="Des prisonniers français à Lechfeld">
     <img src="miniatures/Lechfeld-cpa-02.jpg" alt="Des prisonniers français dans le camp de prisonniers de Lechfeld pendant la Grande Guerre">
     </a>
     <figcaption>Des prisonniers français dans le camp de Lechfeld
@@ -125,7 +125,7 @@
 </figure>
     
 <figure>
-    <a href="images/Lechfeld-cpa-03.jpg" id="single_image" title="Des prisonniers français à Lechfeld">
+    <a href="images/Lechfeld-cpa-03.jpg" data-fancybox="gallery" title="Des prisonniers français à Lechfeld">
     <img src="miniatures/Lechfeld-cpa-03.jpg" alt="Des prisonniers français dans le camp de prisonniers de Lechfeld pendant la Première Guerre Mondiale">
     </a>
     <figcaption>Des prisonniers français dans le camp de Lechfeld
@@ -160,8 +160,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

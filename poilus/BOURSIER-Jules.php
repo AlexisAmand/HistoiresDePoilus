@@ -9,7 +9,7 @@
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
               
 </head>
 
@@ -81,7 +81,7 @@
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
@@ -118,7 +118,7 @@
 <p><strong>Jules Henri BOURSIER</strong> est né à Onnaing (Nord) le 7 décembre 1879, fils légitime de Edmond François BOURSIER, cultivateur, et de Julia JUDES. En 1906, il est chaudronnier et vit chez ses parents à Onnaing (Rue De La Chevauchoire), avec son frère Edouard. Le 19 novembre de la même année, il épouse Suzanne Hyacinthe GODIN (1879-1939). </p> 
       
     <figure>
-    	<a href="images/BOURSIER-Jules-Henri-naissance-1879.jpg" id="single_image" title="acte de naissance de Jules Henri BOURSIER">
+    	<a href="images/BOURSIER-Jules-Henri-naissance-1879.jpg" data-fancybox="gallery" title="acte de naissance de Jules Henri BOURSIER">
         <img src="miniatures/BOURSIER-Jules-Henri-naissance-1879.jpg" alt="acte de naissance de Jules Henri BOURSIER"/></a>
         <figcaption>Acte de naissance de Jules Henri BOURSIER<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
     </figure>
@@ -126,7 +126,7 @@
 <p><strong>Jules Henri BOURSIER</strong> est le poilu avec lequel ma parenté est la plus éloignée car il était marié avec Suzanne GODIN, descendante de quatre de mes ancêtres ayant vécu à la fin du XVIIe et au début du XVIIIe siècle. J'ai trouvé la photo ci-dessous grâce à un membre de Geneanet. Il me reste à comprendre pourquoi il y a 16 sur son col, alors qu'il faisait parti du <strong>1er Régiment d'Artillerie à Pied</strong> pendant la Première Guerre Mondiale. Peut-être que la photo n'est pas contemporaine au conflit ?</p>
 
     <figure>
-    	<a href="portraits/BOURSIER-Jules-Henri.jpg" id="single_image" title="portrait de Jules Henri BOURSIER">
+    	<a href="portraits/BOURSIER-Jules-Henri.jpg" data-fancybox="gallery" title="portrait de Jules Henri BOURSIER">
       	<img src="miniatures/BOURSIER-Jules-Henri.jpg" alt="portrait de Jules Henri BOURSIER"/></a>
       	<figcaption>Jules Henri BOURSIER<br/>(cliquez pour agrandir - source: Kamalaa/Geneanet)</figcaption>
     </figure>
@@ -164,7 +164,7 @@
 <p><strong>Jules</strong> est âgé de 35 ans lors de mobilisation. Il est rappelé à l'activité et arrive au <strong>1er Régiment d'Artillerie à Pied</strong> le 2 août 1914. La portion centrale de ce régiment était à Dunkerque avec les 4e, 6e et 7e batteries, la 3e était à Boulogne, la 5e à Calais et enfin les 1ere et 2e étaient à Maubeuge. </p><p>Pas moins de 3 780 000 hommes sont mobilisés en août 1914. Au total, durant toute la guerre, environ 8 410 000 soldats et marins français seront mobilisés, dont 7 % de soldats indigènes venant des colonies de l'Empire. Parmi tous ces soldats, 1 397 800 sont <a href="../releves.php">morts pour la France</a> et 4 266 000 ont été bléssés au combat.</p>
 
     <figure>
-        <a href="sources/BOURSIER-Jules-Henri-matricule-01.jpg" id="single_image" title="extrait sa fiche matricule">
+        <a href="sources/BOURSIER-Jules-Henri-matricule-01.jpg" data-fancybox="gallery" title="extrait sa fiche matricule">
         <img src="miniatures/BOURSIER-Jules-Henri-matricule-01.jpg"  alt="extrait de la fiche matricule de Jules Henri BOURSIER"/></a>
         <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir)</figcaption>
     </figure>
@@ -178,13 +178,13 @@
 <p>Durant son "séjour",  Jules Henri BOURSIER est hospitalisé en Suisse avant d'être rapatrié le 3 novembre 1918, date à laquelle il obtient une permission de 30 jours qu'il passe à Manneville dans l'Eure.</p>
 
     <figure>
-        <a href="sources/BOURSIER-Jules-Henri-CICR.jpg" id="single_image" title="Fiche numérisée du CICR">
+        <a href="sources/BOURSIER-Jules-Henri-CICR.jpg" data-fancybox="gallery" title="Fiche numérisée du CICR">
         <img src="miniatures/BOURSIER-Jules-Henri-CICR.jpg" alt="Fiche de Jules Henri BOURSIER numérisée par le CICR"/></a>
         <figcaption>Fiche du CICR<br/>(cliquez pour agrandir)</figcaption>
     </figure>
 
     <figure>
-        <a href="sources/BOURSIER-Jules-Henri-CICR-02.jpg" id="single_image" title="Extrait des archives de la Croix Rouge">
+        <a href="sources/BOURSIER-Jules-Henri-CICR-02.jpg" data-fancybox="gallery" title="Extrait des archives de la Croix Rouge">
         <img src="miniatures/BOURSIER-Jules-Henri-CICR-02.jpg"  alt="Extrait des archives de la Croix Rouge"/></a>
         <figcaption>Extrait des archives de la Croix Rouge<br/>(cliquez pour agrandir)</figcaption>
     </figure>
@@ -194,7 +194,7 @@
 <p>Pendant ce temps, à Onnaing, où est né Jules Henri BOURSIER, les Allemands enlèvent les cloches de l'église (1915). Elles sont conduites à Saint-Saulve pour y être fondues et faire des canons. Trois ans plus tard, en 1918, les Allemands se retirent et font sauter la Route Nationale pour couper la route aux troupes de l'armée canadienne. Le monuments aux morts de la Première Guerre Mondiale est érigé en 1922, en hommage aux <a href="../releves/onnaing.php">150 victimes militaires de la commune.</a></p>
     
     <figure>
-    	<a href="../releves/images/onnaing-monument-aux-morts.jpg" id="single_image" title="Le Monument aux Morts d'Onnaing">
+    	<a href="../releves/images/onnaing-monument-aux-morts.jpg" data-fancybox="gallery" title="Le Monument aux Morts d'Onnaing">
     	<img src="../releves/images/mini/onnaing-monument-aux-morts.jpg" alt="le Monument aux Morts d'Onnaing sur une carte postale ancienne"/></a>
     	<figcaption>Le Monument aux Morts de la guerre 1914-1918<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -235,8 +235,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

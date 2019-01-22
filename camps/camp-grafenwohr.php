@@ -110,90 +110,90 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p>Dans son ouvrage intitulé <cite>Août 1914. La Bataille de Sarrebourg</cite>, Joseph ELMERICH précise que la Bavière, qui avait fourni sa propre armée, avait préparé trois camps destinés à recevoir les prisonniers: le <a href="camp-lechfeld.php" title="lien vers la page consacrée au camp de Lechfeld">camp de Lechfeld</a> (3600 prisonniers), le <a href="camp-hammelburg.php" title="lien vers la page consacrée au camp de Hammelburg">camp de Hammelburg</a> (4470 prisonniers) et enfin celui de Grafenwöhr (10500 prisonniers).</p>
 
 <figure>    
-	<a href="images/Grafenwohr/localisation-grafenwohr.jpg" id="single_image" title="Localisation du camp de Grafenwöhr">
+	<a href="images/Grafenwohr/localisation-grafenwohr.jpg" data-fancybox="gallery" title="Localisation du camp de Grafenwöhr">
     <img src="miniatures/Grafenwohr/localisation-grafenwohr.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Grafenwöhr"></a>
     <figcaption>Localisation du camp de Grafenwöhr<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>  
 
 <figure>
-    <a href="images/grafenwohr-01.jpg" id="single_image" title="Le camp de Grafenwöhr">
+    <a href="images/grafenwohr-01.jpg" data-fancybox="gallery" title="Le camp de Grafenwöhr">
     <img src="miniatures/grafenwohr-01.jpg" alt="le courrier français au camp de Grafenwöhr pendant la Grande Guerre"></a>
     <figcaption>Le courrier français<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/grafenwohr-02.jpg" id="single_image" title="Le camp de Grafenwöhr">
+    <a href="images/grafenwohr-02.jpg" data-fancybox="gallery" title="Le camp de Grafenwöhr">
     <img src="miniatures/grafenwohr-02.jpg" alt="La poste aux colis du camp de prisonnier de Grafenwöhr pendant la Première Guerre Mondiale"></a>
     <figcaption>La poste aux colis<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/grafenwohr-03.jpg" id="single_image" title="Le camp de Grafenwöhr">
+    <a href="images/grafenwohr-03.jpg" data-fancybox="gallery" title="Le camp de Grafenwöhr">
     <img src="miniatures/grafenwohr-03.jpg" alt="Les achats au camp de prisonnier de Grafenwöhr pendant la Première Guerre Mondiale"></a>
     <figcaption>Endroit où se font les achats pour les cantines<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/grafenwohr-04.jpg" id="single_image" title="Le camp de Grafenwöhr">
+    <a href="images/grafenwohr-04.jpg" data-fancybox="gallery" title="Le camp de Grafenwöhr">
     <img src="miniatures/grafenwohr-04.jpg" alt="la préparation des vivres par les prisonniers du camp de Grafenwöhr"></a>
     <figcaption>On prépare les vivres reçus de chez soi<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/grafenwohr-05.jpg" id="single_image" title="Le camp de Grafenwöhr">
+    <a href="images/grafenwohr-05.jpg" data-fancybox="gallery" title="Le camp de Grafenwöhr">
     <img src="miniatures/grafenwohr-05.jpg" alt="des prisonniers prennent leur bain dans l'étang au camp de Grafenwöhr"></a>
     <figcaption>Le bain dans l'étang<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/grafenwohr-06.jpg" id="single_image" title="Le camp de Grafenwöhr">
+    <a href="images/grafenwohr-06.jpg" data-fancybox="gallery" title="Le camp de Grafenwöhr">
     <img src="miniatures/grafenwohr-06.jpg" alt="les douches du camp de Grafenwöhr pendant la Grande Guerre"></a>
     <figcaption>Les douches au camp<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/grafenwohr-07.jpg" id="single_image" title="Le camp de Grafenwöhr">
+    <a href="images/grafenwohr-07.jpg" data-fancybox="gallery" title="Le camp de Grafenwöhr">
     <img src="miniatures/grafenwohr-07.jpg" alt="L'établissement de bains chauds au camp de Grafenwöhr"></a>
     <figcaption>L'établissement de bains chauds<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/grafenwohr-08.jpg" id="single_image" title="Le camp de Grafenwöhr">
+    <a href="images/grafenwohr-08.jpg" data-fancybox="gallery" title="Le camp de Grafenwöhr">
     <img src="miniatures/grafenwohr-08.jpg" alt="Personnel auxiliaire du bureau de poste et de la cantine dans le camp de Grafenwöhr">
     </a>
     <figcaption>Personnel auxiliaire du bureau de poste et de la cantine<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/grafenwohr-09.jpg" id="single_image" title="Le camp de Grafenwöhr">
+    <a href="images/grafenwohr-09.jpg" data-fancybox="gallery" title="Le camp de Grafenwöhr">
     <img src="miniatures/grafenwohr-09.jpg" alt="des prisonniers de retour du travail au camp de Grafenwöhr">
     </a>
     <figcaption>Le retour du travail<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/grafenwohr-10.jpg" id="single_image" title="Le camp de Grafenwöhr">
+    <a href="images/grafenwohr-10.jpg" data-fancybox="gallery" title="Le camp de Grafenwöhr">
     <img src="miniatures/grafenwohr-10.jpg" alt="Travaux de jardinage au camp de prisonnier de Grafenwöhr pendant la Première Guerre Mondiale">
     </a>
     <figcaption>Travaux de jardinage<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/grafenwohr-12.jpg" id="single_image" title="Le camp de Grafenwöhr">
+    <a href="images/grafenwohr-12.jpg" data-fancybox="gallery" title="Le camp de Grafenwöhr">
     <img src="miniatures/grafenwohr-12.jpg" alt="des prisonniers français dans le camp de Grafenwöhr pendant la Grande Guerre">
     </a>
     <figcaption>Dans le camp des prisonniers français<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/grafenwohr-13.jpg" id="single_image" title="Le camp de Grafenwöhr">
+    <a href="images/grafenwohr-13.jpg" data-fancybox="gallery" title="Le camp de Grafenwöhr">
     <img src="miniatures/grafenwohr-13.jpg" alt="un appareil photo au camp de Grafenwöhr pendant la Première Guerre Mondiale">
     </a>
     <figcaption>Le premier appareil photographique<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/grafenwohr-14.jpg" id="single_image" title="Le camp de Grafenwöhr">
+    <a href="images/grafenwohr-14.jpg" data-fancybox="gallery" title="Le camp de Grafenwöhr">
     <img src="miniatures/grafenwohr-14.jpg" alt="Concert et théâtre à l'hôpital du camp de prisonniers de Grafenwöhr pendant la Grande Guerre">
     </a>
     <figcaption>Concert et théâtre à l'hôpital<br />(source allemande)</figcaption>
@@ -229,8 +229,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

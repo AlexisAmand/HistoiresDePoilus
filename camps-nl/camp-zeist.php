@@ -76,19 +76,19 @@
 <h1>Le camp d'internement de Zeist</h1>
 
 <figure>
-    <a href="images/Zeist/zeist-01.jpg" id="single_image" title="Le camp de Zeist pendant la Grande Guerre">
+    <a href="images/Zeist/zeist-01.jpg" data-fancybox="gallery" title="Le camp de Zeist pendant la Grande Guerre">
     <img src="miniatures/Zeist/zeist-01.jpg" alt="L'heure du bain au camp d'internement de Ziest aux Pays-Bas pendant la Première Guerre Mondiale"></a>
     <figcaption>L'heure du bain<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Zeist/zeist-02.jpg" id="single_image"  title="Le camp de Zeist pendant la Grande Guerre">
+    <a href="images/Zeist/zeist-02.jpg" data-fancybox="gallery"  title="Le camp de Zeist pendant la Grande Guerre">
     <img src="miniatures/Zeist/zeist-02.jpg" alt="En route pour la corvée au camp d'internement de Ziest aux  pendant la Première Guerre Mondiale"></a>
     <figcaption>Fourrager la viande et en route pour la corvée<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Zeist/zeist-03.jpg" id="single_image"  title="Le camp de Zeist pendant la Grande Guerre">
+    <a href="images/Zeist/zeist-03.jpg" data-fancybox="gallery"  title="Le camp de Zeist pendant la Grande Guerre">
     <img src="miniatures/Zeist/zeist-03.jpg" alt="Fêtes sportives à l'occasion de l'anniversaire au camp d'internement de Zeist pendant la Première Guerre Mondiale">
     </a>
     <figcaption>Fêtes sportives à l'occasion de l'anniversaire<br />
@@ -97,14 +97,14 @@
 </figure>
 
 <figure>
-    <a href="images/Zeist/zeist-04.jpg" id="single_image"  title="Le camp de Zeist pendant la Grande Guerre">
+    <a href="images/Zeist/zeist-04.jpg" data-fancybox="gallery"  title="Le camp de Zeist pendant la Grande Guerre">
     <img src="miniatures/Zeist/zeist-04.jpg" alt="Le retour de la promenade Fêtes au camp d'internement de Ziest aux Pays-Bas pendant la Première Guerre Mondiale">
     </a>
     <figcaption>Le retour de la promenade<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Zeist/zeist-05.jpg" id="single_image"  title="Le camp de Zeist pendant la Grande Guerre">
+    <a href="images/Zeist/zeist-05.jpg" data-fancybox="gallery"  title="Le camp de Zeist pendant la Grande Guerre">
     <img src="miniatures/Zeist/zeist-05.jpg" alt="Le chemin principal du camp d'internement de Ziest aux Pays-Bas pendant la Première Guerre Mondiale">
     </a>
     <figcaption>Le chemin principal du camp I<br />Carte postale)</figcaption>
@@ -130,8 +130,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

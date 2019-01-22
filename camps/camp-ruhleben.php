@@ -113,7 +113,7 @@
 
 <figure>   
     <a href="images/Ruhleben/Ruhleben-01.jpg" title="Des prisonniers anglais à Ruhleben">    
-    <img src="miniatures/Ruhleben/Ruhleben-01.jpg" id="single_image" alt="Des prisonniers anglais dans le camp de Ruhleben pendant la Grande Guerre"></a>
+    <img src="miniatures/Ruhleben/Ruhleben-01.jpg" data-fancybox="gallery" alt="Des prisonniers anglais dans le camp de Ruhleben pendant la Grande Guerre"></a>
     <figcaption>Des Anglais à Ruhleben<br/>(source: BNF - Gallica et La Guerre Mondiale : bulletin quotidien illustré)</figcaption>
 </figure>    
 
@@ -150,8 +150,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

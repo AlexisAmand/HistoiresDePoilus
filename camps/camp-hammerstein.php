@@ -110,28 +110,28 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p>Le camp principal de prisonniers de Hammerstein était situé en Prusse occidentale sur les rives de la Küdow, entre la mer Baltique et Posen.</p>
 
 <figure>
-    <a href="images/Hammerstein/hammerstein-01.jpg" id="single_image" title="Le camp de Hammerstein">
+    <a href="images/Hammerstein/hammerstein-01.jpg" data-fancybox="gallery" title="Le camp de Hammerstein">
     <img src="miniatures/Hammerstein/hammerstein-01.jpg" alt="le camp de prisonniers d'Hammerstein dans un ouvrage allemand paru pendant la Première Guerre Mondiale">
     </a>
     <figcaption>La queue pour le repas<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Hammerstein/hammerstein-02.jpg" id="single_image" title="Le camp de Hammerstein">
+    <a href="images/Hammerstein/hammerstein-02.jpg" data-fancybox="gallery" title="Le camp de Hammerstein">
     <img src="miniatures/Hammerstein/hammerstein-02.jpg" alt="le camp de prisonniers d'Hammerstein dans un ouvrage allemand paru pendant la Première Guerre Mondiale">
     </a>
     <figcaption>Des russes préparant leur thé<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Hammerstein/hammerstein-03.jpg" id="single_image" title="Le camp de Hammerstein">
+    <a href="images/Hammerstein/hammerstein-03.jpg" data-fancybox="gallery" title="Le camp de Hammerstein">
     <img src="miniatures/Hammerstein/hammerstein-03.jpg" alt="le camp de prisonniers d'Hammerstein dans un ouvrage allemand paru pendant la Première Guerre Mondiale">
     </a>
     <figcaption>Le repas pascal des prisonniers israélites<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Hammerstein/hammerstein-04.jpg" id="single_image" title="Le camp de Hammerstein">
+    <a href="images/Hammerstein/hammerstein-04.jpg" data-fancybox="gallery" title="Le camp de Hammerstein">
     <img src="miniatures/Hammerstein/hammerstein-04.jpg" alt="le camp de prisonniers d'Hammerstein dans un ouvrage allemand paru pendant la Première Guerre Mondiale">
     </a>
     <figcaption>Service divin israélite<br />(source allemande)</figcaption>
@@ -140,7 +140,7 @@
 <p>J'ai longtemps hésité avant de vous présenter la photographie ci-dessous, comme je l'ai dit plus haut, il faut bien garder en tête qu'elle est paru en 1915 dans un ouvrage allemand. C'est également pour cette raison que je n'ai pas mis en ligne les diverses photos qui représentaient les <em>"ethnies" (sic)</em> rencontrées dans les camps.</p>  
 
 <figure>
-    <a href="images/Hammerstein/hammerstein-05.jpg" id="single_image" title="Le camp de Hammerstein">
+    <a href="images/Hammerstein/hammerstein-05.jpg" data-fancybox="gallery" title="Le camp de Hammerstein">
     <img src="miniatures/Hammerstein/hammerstein-05.jpg" alt="le camp de prisonniers d'Hammerstein dans un ouvrage allemand paru pendant la Première Guerre Mondiale">
     </a>
     <figcaption>Couple sibérien en soldat russe<br />(source allemande)</figcaption>
@@ -173,8 +173,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

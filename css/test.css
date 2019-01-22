@@ -1,0 +1,89 @@
+/* ------------------------------ */ 
+/* Tableau pour la version mobile */
+/* ------------------------------ */
+
+table, td, th { 
+  border: 1px solid black;
+   border-collapse: collapse;
+   text-align: center;
+}
+ 
+ 
+th { border-bottom-width: 2px; }
+tr:nth-child(even){ background-color: #eee; }
+ 
+ 
+@media (max-width: 40em) {
+   table, tbody { display: block; }
+   tr {
+      display: table;
+      width: 100%;
+   }
+   th {
+      font-size: 0;
+      border: none;
+      visibility: hidden;
+   }
+   td, th { display: table-row; }
+   td:before {
+      content: attr(data-headers);
+      display: table-cell;
+      width: 60%;
+      border-right:  1px solid black;      
+   }
+}
+
+/* --------------------------- */ 
+/* Menu pour la version mobile */
+/* --------------------------- */
+
+#menuresp
+	{
+	width:100%;
+	border:1px solid #5b5b5b;
+	position:absolute;
+	top:64px;
+	background-color:#5b5b5b;
+	visibility:hidden;
+	}
+	
+#menuresp ul li 
+	{
+	border-bottom:1px solid #efefef; 	
+	}
+	
+
+#menuresp ul li a:link
+	{
+	display: block;
+	background-color: #5b5b5b;
+	width:100%;
+	text-align: center;
+	color: #efefef;
+	text-decoration: none;	
+	padding-top:12px;
+	padding-bottom:12px;	
+	}
+	
+#menuresp ul li a:hover
+	{
+	display: block;
+	color:#5b5b5b;
+	background-color:#e2ede4;
+	width:100%;
+	text-align: center;	
+	text-decoration: none;
+	}	
+	
+#btnresp
+	{
+	visibility: hidden;
+	}
+	
+@media (max-width: 959px) {
+	
+#btnresp
+	{
+	visibility: visible;
+	}
+}

@@ -9,7 +9,7 @@
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                    
 </head>
 
@@ -72,7 +72,7 @@
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
@@ -109,7 +109,7 @@
 <p><strong>Druon Joseph CARLIER</strong>, père de mon arrière-grand-mère, est né le samedi 15 avril 1876 à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> (Nord). Il est le fils de Druon Joseph CARLIER, ouvrier, âgé de 49 ans et de Sidonie Célestine PATOU, ouvrière, âgée de 42 ans.</p>
 
 	<figure>
-	    <a href="images/arbre-carlier.png" id="single_image" title="Arbre généalogique simplifié de la famille JOLY-CARLIER">
+	    <a href="images/arbre-carlier.png" data-fancybox="gallery" title="Arbre généalogique simplifié de la famille JOLY-CARLIER">
 	    <img src="miniatures/arbre-carlier.png" alt="Arbre généalogique simplifié de la famille JOLY-CARLIER" style="box-shadow:none;width:650px;"/></a>
 	    <figcaption>Arbre simplifié de la famille JOLY-CARLIER<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -117,7 +117,7 @@
 <p>Pour simplifier les choses, je n'ai pas représenté tous les membres de la famille sur l'arbre ci-dessus, mais à sa naissance, Druon a pour frères et sœurs : Gustave (né en 1864), Maria Sidonie (née en 1865), Marie Zélia (née en 1869) et <a href="CARLIER-Louis-Abraham.php">Louis Abraham</a> (né en 1871). En 1906, il vit au hameau de Sebourquiaux avec son épouse Angèle DANHIEZ et ses deux filles Lucia (mon arrière-grand-mère) et Maria.</p>
 
 	<figure>
-	    <a href="sources/carlier-druon-matricule-01.jpg" id="single_image" title="Druon Joseph CARLIER - Extrait de sa fiche matricule">
+	    <a href="sources/carlier-druon-matricule-01.jpg" data-fancybox="gallery" title="Druon Joseph CARLIER - Extrait de sa fiche matricule">
 	    <img src="miniatures/carlier-druon-matricule-01.jpg" alt="Extrait de la fiche matricule de Druon CARLIER"/></a>
 	    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
 	</figure>
@@ -153,7 +153,7 @@
 <p>Durant son service militaire, <strong>Druon Joseph CARLIER</strong> est incorporé comme soldat de 2e classe au <strong>1er Régiment d’Infanterie</strong> sous le matricule n°8102 le 15 novembre 1897. C'est un régiment qui est né en 1479 et est issu des "bandes de Picardie". Il a traversé toutes les époques en participant à toutes les campagnes qui ont fait la France.</p><p>En application de la décision ministérielle du 21 septembre 1898, il passe au <strong>1er Régiment d’Infanterie de Marine</strong> le 1er décembre 1898 et est immatriculé sous le n° A 7225. Le 16 septembre 1899, il devient soldat de 1e classe. Il ne s’agit pas d’un grade mais plutôt d’une distinction qui permettrait d’accéder ensuite au grade de caporal. Il est envoyé en congé en attendant son passage dans la réserve avec un certificat de bonne conduite accordé le 28 septembre 1900.</p>
 
 	<figure>
-	      <a href="portraits/Druon Joseph CARLIER (sosa 22).jpg" id="single_image" title="agrandir le portrait de Druon Joseph CARLIER">
+	      <a href="portraits/Druon Joseph CARLIER (sosa 22).jpg" data-fancybox="gallery" title="agrandir le portrait de Druon Joseph CARLIER">
 	      <img src="miniatures/Druon Joseph CARLIER (sosa 22).jpg" alt="portrait du poilu Druon Joseph CARLIER"/></a>
 	      <figcaption>Druon Joseph CARLIER</figcaption>
 	 </figure>
@@ -165,7 +165,7 @@
 <p>Mobilisation générale !</p>
 
 	<figure>
-	    <a href="images/mobilisation.jpg" id="single_image" title="Affiche de la mobilisation générale">
+	    <a href="images/mobilisation.jpg" data-fancybox="gallery" title="Affiche de la mobilisation générale">
 	    <img src="miniatures/mobilisation.jpg" alt="affiche de la mobilisation générale 1er août 1914"/></a>
 	    <figcaption>Ordre de mobilisation</figcaption>
 	</figure>
@@ -177,13 +177,13 @@
 <p>La 12e compagnie, dont fait partie <strong>Druon</strong>, est la garnison d'infanterie de l'ouvrage permanent de Ferrière-la-Petite sous les ordres du chef de Bataillon du génie CRÉPY. Pendant la nuit du 31 août 1914, Les avant-postes du centre de Ferrière-la-Petite sont fortement inquiétés, alerte générale, le bombardement continu, l'artillerie du Bourdiau riposte. Prévu pour une seule compagnie, l’ouvrage de Ferrière-la-petite était composé d’abris bétonnés que les Allemands ont détruit à la fin du mois de septembre 1914.</p>
 
 	<figure>
-	    <a href="images/Ferrière-la-Petite-01.jpg" id="single_image" title="L'ouvrage de Ferrière-la-Petite">
+	    <a href="images/Ferrière-la-Petite-01.jpg" data-fancybox="gallery" title="L'ouvrage de Ferrière-la-Petite">
 	    <img src="miniatures/Ferrière-la-Petite-01.jpg" alt="Les ruines de l'ouvrage de Ferrière-la-Petite"/></a>
 	    <figcaption>Les ruines de l'ouvrage de Ferrière-la-Petite<br />(cliquez pour agrandir - source: http://www.mapio.cz/ )</figcaption>
 	</figure>
 	
 	<figure>
-	    <a href="images/forts-maubeuge.jpg" id="single_image" title="L'emplacement des forts de la place forte de Maubeuge en 1914">
+	    <a href="images/forts-maubeuge.jpg" data-fancybox="gallery" title="L'emplacement des forts de la place forte de Maubeuge en 1914">
 	    <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
 	    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
 	</figure>
@@ -206,7 +206,7 @@
 <p>Le 18 juin 1930, <strong>Druon Joseph CARLIER</strong> habite rue Giraud à Onnaing (Nord). Il y reçoit une carte d’ancien combattant délivrée par le Comité Départemental du Nord de l'Office Nationale du Combattant.</p>
 
 	<figure>
-	    <a href="sources/druon-carlier-ancien-combattant.jpg" id="single_image" title="La carte d'ancien combattant de Druon Joseph CARLIER">
+	    <a href="sources/druon-carlier-ancien-combattant.jpg" data-fancybox="gallery" title="La carte d'ancien combattant de Druon Joseph CARLIER">
 	    <img src="miniatures/druon-carlier-ancien-combattant.jpg" alt="carte d'ancien combattant de Druon CARLIER"/></a>
 	    <figcaption>Carte d'ancien combattant ayant appartenu à Druon</figcaption>
 	</figure>
@@ -244,8 +244,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

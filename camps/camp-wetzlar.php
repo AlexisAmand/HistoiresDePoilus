@@ -111,7 +111,7 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p>
 
 <figure>    
-	<a href="images/Wetzlar/localisation-wetzlar.jpg" id="single_image" title="Localisation du camp de Wetzlar">
+	<a href="images/Wetzlar/localisation-wetzlar.jpg" data-fancybox="gallery" title="Localisation du camp de Wetzlar">
     <img src="miniatures/Wetzlar/localisation-wetzlar.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Wetzlar"></a>
     <figcaption>Localisation du camp de Wetzlar<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>  
@@ -119,38 +119,38 @@
 <p>Fin 1915, des prisonniers du camp de Wetzlar sont évacués vers les camps de <a href="camp-giessen.php">Giessen</a>, <a href="camp-limburg.php">Limburg</a>, Holzminden, <a href="camp-meschede.php">Meschede</a>, Stendal et <a href="camp-darmstadt.php">Darmstadt</a>. Le commandant du camp de Wetzlar fait savoir que les colis destinés aux prisonniers évacués sur les camps ci-dessus, suivront le destinataire: Quant aux colis qui ne porteront l'adresse d'aucun bénéficiaire nommément désigné, ils seront attribués aux prisonniers français du camp de Giessen.</p>
 
 <figure>
-    <a href="images/Wetzlar/wetzlar-01.jpg" id="single_image" title="Arrivage de vivres au camp de Wetzlar">
+    <a href="images/Wetzlar/wetzlar-01.jpg" data-fancybox="gallery" title="Arrivage de vivres au camp de Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-01.jpg" alt="Arrivage de vivre dans le camp de Wetzlar pendant la Première Guerre Mondiale"></a>
     <figcaption>Arrivage de vivres<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Wetzlar/wetzlar-02.jpg" id="single_image" title="Chasseurs alpins au dîner au camp de Wetzlar">
+    <a href="images/Wetzlar/wetzlar-02.jpg" data-fancybox="gallery" title="Chasseurs alpins au dîner au camp de Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-02.jpg" alt="Chasseurs alpins pendant le dîner au camp de Wetzlar pendant la Grande Guerre"></a>
     <figcaption>Chasseurs alpins au dîner<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Wetzlar/wetzlar-03.jpg" id="single_image" title="Médecins et garde-malades français devant l'infirmerie à Wetzlar">
+    <a href="images/Wetzlar/wetzlar-03.jpg" data-fancybox="gallery" title="Médecins et garde-malades français devant l'infirmerie à Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-03.jpg" alt="Médecins et garde-malades français devant l'infirmerie du camp de Wetzlar pendant la Première Guerre Mondiale"></a>
     <figcaption>Médecins et garde-malades français devant l'infirmerie<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Wetzlar/wetzlar-04.jpg" id="single_image" title="En petit comité au camp de Wetzlar">
+    <a href="images/Wetzlar/wetzlar-04.jpg" data-fancybox="gallery" title="En petit comité au camp de Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-04.jpg" alt="Un groupe de prisonniers au camp de Wetzlard pendant la Première Guerre Mondiale"></a>
     <figcaption>En petit comité<br />(source allemande)</figcaption>
 </figure>
 
 
 <figure>
-    <a href="images/Wetzlar/wetzlar-05.jpg" id="single_image" title="Groupe de prisonniers russes au camp de Wetzlar">
+    <a href="images/Wetzlar/wetzlar-05.jpg" data-fancybox="gallery" title="Groupe de prisonniers russes au camp de Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-05.jpg" alt="Un groupe de prisonniers russes au camp de Wetzlard pendant la Première Guerre Mondiale"></a>
     <figcaption>Groupe de prisonniers russes<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Wetzlar/wetzlar-06.jpg" id="single_image" title="Groupe de prisonniers russes au camp de Wetzlar">
+    <a href="images/Wetzlar/wetzlar-06.jpg" data-fancybox="gallery" title="Groupe de prisonniers russes au camp de Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-06.jpg" alt="Un groupe de prisonniers russes au camp de Wetzlard pendant la Première Guerre Mondiale"></a>
     <figcaption>Groupe de prisonniers russes, Auguste au premier plan<br />(source allemande)</figcaption>
 </figure>
@@ -183,8 +183,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

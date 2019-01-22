@@ -4,12 +4,12 @@
 
 <meta charset="utf-8">
           
-<title>Histoires de Poilus - Liste de quelques poilus du Nord</title>
-<meta content="Petites biographies de soldats de ma famille ayant participé à la Première Guerre Mondiale et ayant vécu dans le Nord" name="description">
+<title>Biographie et parcours du soldat Georges LAMANDIN - Histoires de Poilus</title>
+<meta content="Parcours et biographie du poilu Georges LAMANDIN, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
    
 </head>   
 
@@ -82,7 +82,7 @@
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="lamandin-georges.php" class="AsideSelected">LAMANDIN Georges</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
@@ -116,7 +116,9 @@
     
 <h1>Georges LAMANDIN</h1>
         
-<p>Les données concernant <strong>Georges LAMANDIN</strong> m'ont été communiquées par son arrière-petite-fille.<br /> Georges Jean Baptiste LAMANDIN  est né le 24 juin 1885 à Villers Guislain (Nord). Soldat de 2e classe 19e régiment d'infanterie, Georges est mort pour la France le 7 septembre 1914 à Champfleury (Seine et Marne). Champfleury est un hameau qui dépend de Montceaux-lès-Provins où il y a eu une terrible bataille le 6 septembre 1914. 300 000 obus sont tombés et 155 Soldats reposent dans 2 ossuaires auxquels il faut rajouter les tombes individuelles.</p>
+<p>Note: Les données concernant <strong>Georges LAMANDIN</strong> m'ont été communiquées par son arrière-petite-fille.</p>
+
+<p>Georges Jean Baptiste LAMANDIN  est né le 24 juin 1885 à Villers Guislain (Nord). Soldat de 2e classe 19e régiment d'infanterie, Georges est mort pour la France le 7 septembre 1914 à Champfleury (Seine et Marne). Champfleury est un hameau qui dépend de Montceaux-lès-Provins où il y a eu une terrible bataille le 6 septembre 1914. 300 000 obus sont tombés et 155 Soldats reposent dans 2 ossuaires auxquels il faut rajouter les tombes individuelles.</p>
  
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
@@ -138,8 +140,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

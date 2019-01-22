@@ -108,7 +108,7 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
 <figure>    
-	<a href="images/Zerbst/localisation-zerbst.jpg" id="single_image" title="Localisation du camp de Zerbst">
+	<a href="images/Zerbst/localisation-zerbst.jpg" data-fancybox="gallery" title="Localisation du camp de Zerbst">
     <img src="miniatures/Zerbst/localisation-zerbst.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Zerbst"></a>
     <figcaption>Localisation du camp de Zerbst<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>  
@@ -118,14 +118,14 @@
 <!--p>Le 28 juin 1917, les membres du comité de secours "Franco-Belge" sont incarcérés pendant 106 jours à la prison de Gommen. Ils sont accusés d'avoir transmis un document de la Kommandantur à la France. Le 11 octobre 1917, ils sont envoyés au camp de Alten-Grabow. Parmi les 106 coupables désignés par les Allemands figure deux belges: le premier maréchal des logis de gendarmerie COGNIAUX et le caporal LESQUOIS, originaire de Sommethonne-les-Virton.</p-->
 
 <figure>
-    <a href="images/Zerbst/zerbst-01.jpg" id="single_image" title="Vue du camp de Zerbst">
+    <a href="images/Zerbst/zerbst-01.jpg" data-fancybox="gallery" title="Vue du camp de Zerbst">
     <img src="miniatures/Zerbst/zerbst-01.jpg" alt="Vue du camp de prisonniers de Zerbst pendant la Grande Guerre"></a>
     <figcaption>Vue du camp de Zerbst
     <br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Zerbst/zerbst-02.jpg" id="single_image" title="Une cérémonie au camp de Zerbst">
+    <a href="images/Zerbst/zerbst-02.jpg" data-fancybox="gallery" title="Une cérémonie au camp de Zerbst">
     <img src="miniatures/Zerbst/zerbst-02.jpg" alt="Une cérémonie au camp de prisonnier de Zerbst pendant la Première Guerre Mondiale"></a>
     <figcaption>Une cérémonie au camp de Zerbst
     <br />(carte postale)</figcaption>
@@ -153,8 +153,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

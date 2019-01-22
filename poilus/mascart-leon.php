@@ -4,12 +4,12 @@
 
 <meta charset="utf-8">
           
-<title>Histoires de Poilus - Liste de quelques poilus du Nord</title>
-<meta content="Petites biographies de soldats de ma famille ayant participé à la Première Guerre Mondiale et ayant vécu dans le Nord" name="description">
+<title>Biographie et parcours du soldat Léon MASCART - Histoires de Poilus</title>
+<meta content="Parcours et biographie du poilu Léon MASCART, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
    
 </head>   
 
@@ -82,7 +82,7 @@
     <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
     <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
     <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-    <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+    <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
     <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
     <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
     <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
@@ -116,10 +116,10 @@
     
 <h1>Léon MASCART</h1>
         
-<p><strong>Léon MASCART</strong> est né à Onnaing le 30 janvier 1874. Avant la guerre (1906), il est mineur à la Fosse de Cuvinot et vit "au Trié" à Onnaing avec son épouse Maire FINET. Frère d'Emile (ci-dessus), il est maintenu en surcis aux Mines d'Anzin à la mobilisation. Le 17 décembre 1914, par le bulletin n°63, il est mis en sursis aux mines de Bruay (Pas-de-Calais) où il est entré en fonction le 28 octobre de la même année. Il est rayé de la mine le 15 janvier 1919 et est envoyé en congés illimité le 12 février 1919. Il se retire à Onnaing, Rue de l'Eglise.</p>
+<p><strong>Léon MASCART</strong> est né à Onnaing le 30 janvier 1874. Avant la guerre (1906), il est mineur à la Fosse de Cuvinot et vit "au Trié" à Onnaing avec son épouse Maire FINET. Frère de Louis, il est maintenu en surcis aux Mines d'Anzin à la mobilisation. Le 17 décembre 1914, par le bulletin n°63, il est mis en sursis aux mines de Bruay (Pas-de-Calais) où il est entré en fonction le 28 octobre de la même année. Il est rayé de la mine le 15 janvier 1919 et est envoyé en congés illimité le 12 février 1919. Il se retire à Onnaing, Rue de l'Eglise.</p>
 		
 	<figure>
-	    <a href="http://cartespostalesanciennes.genealexis.fr/image/168-fosse-cuvinot-a-onnaing-vers-1900" id="single_image" title="La Fosse de Cuvinot à Onnaing">
+	    <a href="http://cartespostalesanciennes.genealexis.fr/image/168-fosse-cuvinot-a-onnaing-vers-1900" data-fancybox="gallery" title="La Fosse de Cuvinot à Onnaing">
 	    <img src="http://cartespostalesanciennes.genealexis.fr/image/onnaing/168-fosse_cuvinot_a_onnaing_vers_1900.jpg" width="450px" alt="La Fosse de Cuvinot à Onnaing"/></a>
 	    <figcaption>La Fosse de Cuvinot</figcaption>
     </figure>
@@ -144,8 +144,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

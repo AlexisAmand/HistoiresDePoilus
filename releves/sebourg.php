@@ -136,7 +136,7 @@
 <p></p>
 
 <figure>
-    <a href="images/monument-sebourg.jpg" id="single_image" title="Le Monument aux Morts de Sebourg">
+    <a href="images/monument-sebourg.jpg" data-fancybox="gallery" title="Le Monument aux Morts de Sebourg">
     <img src="images/mini/monument-sebourg.jpg" alt="le Monument aux Morts de Sebourg sur une carte postale ancienne"/>
     </a>
     <figcaption>Le Monument aux Morts<br />(cliquez pour agrandir)</figcaption>
@@ -764,8 +764,8 @@ Henri</strong></td>
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

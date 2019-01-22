@@ -9,7 +9,7 @@
     
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                   
     </head>
 
@@ -81,7 +81,7 @@
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
@@ -118,7 +118,7 @@
 <p><strong>Louis Abraham CARLIER</strong>, frère de <a href="CARLIER-Druon-Joseph.php" title="Voir la biographie du poilu Druon Joseph CARLIER">Druon Joseph</a>, est né 17 décembre 1871 à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> (Nord).</p> 
 
 	<figure>
-	    <a href="images/arbre-carlier-2.png" id="single_image" title="Arbre généalogique simplifié de la famille CARLIER">
+	    <a href="images/arbre-carlier-2.png" data-fancybox="gallery" title="Arbre généalogique simplifié de la famille CARLIER">
 	    <img src="miniatures/arbre-carlier-2.png" alt="Arbre généalogique simplifié de la famille CARLIER" style="box-shadow:none;width:650px;"/></a>
 	    <figcaption>Arbre simplifié de la famille CARLIER<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -158,7 +158,7 @@
 <p>Âgé de 43 ans en 1914, <strong>Louis Abraham</strong> est mobilisé comme la plupart des hommes de sa génération et devient auxiliaire de place forte au sein de la 1ere batterie (3e selon certaines sources) du <strong>1er Régiment d’Artillerie à Pied</strong>. En 1914, l’artillerie à pied est réservée à la défense d'une zone que l’on appelle groupe  et a en charge outre la défense de ce groupe, celle des forts et ouvrages. Il est cantonné au groupe de Grévaux, sous les ordres  Capitaine BOCQUET.</p>
 
 	<figure>
-	    <a href="portraits/Louis Abraham CARLIER (frère de sosa 22).jpg" id="single_image" title="Portrait de Louis Abraham CARLIER">
+	    <a href="portraits/Louis Abraham CARLIER (frère de sosa 22).jpg" data-fancybox="gallery" title="Portrait de Louis Abraham CARLIER">
 	    <img src="miniatures/Louis Abraham CARLIER (frère de sosa 22).jpg" alt="portrait de Louis Abraham CARLIER"/></a>
 	    <figcaption>Louis Abraham CARLIER<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -172,7 +172,7 @@
 <p>Le 4 septembre 1914, le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e, 2e, 3e  et 4e  territorial et enfin celui du <strong>1er Régiment d'Artillerie à Pied</strong>.</p><p>Dès le lendemain, à 7 heures, les drapeaux de la garnison sont brûlés dans le jardin du Pavillon, à proximité de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
 
 	<figure>
-	    <a href="images/Maubeuge-caserne-joyeuse.jpg" id="single_image" title="La Caserne Joyeuse (Maubeuge) avant 1914">
+	    <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" title="La Caserne Joyeuse (Maubeuge) avant 1914">
 	    <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg"  alt="La caserne Joyeuse à Maubeuge avant la Première Guerre Mondiale"/></a>
 	    <figcaption>La Caserne Joyeuse à Maubeuge<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -182,7 +182,7 @@
 <p><strong>Louis Abraham</strong> est fait prisonnier le 7 septembre 1914 à Ferrière-la-Grande (à côté de Maubeuge) et  envoyé à Munster  (Munster III selon sa fiche matricule, Munster II selon sa carte d’ancien combattant).</p>
 
 	<figure>
-	    <a href="sources/Louis-Carlier-dossier-01.jpg" id="single_image" title="Carte d'ancien de Louis Abraham CARLIER">
+	    <a href="sources/Louis-Carlier-dossier-01.jpg" data-fancybox="gallery" title="Carte d'ancien de Louis Abraham CARLIER">
 	    <img src="miniatures/Louis-Carlier-dossier-01.jpg" alt="Extrait du dossier d'ancien combattant de Louis Abraham CARLIER"/></a>
 	    <figcaption>Extrait de son dossier d'ancien combattant<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -192,25 +192,25 @@
 <p>Le <strong><a href="../camps/camp-munster.php">camp de Münster</a></strong>, où est envoyé Louis, est ouvert dès le début de la guerre, il était situé en Allemagne, dans le nord du Land de Rhénanie-du-Nord-Westphalie.</p>
 
 	<figure>
-	    <a href="images/camp-munster.jpg" id="single_image" title="Une vue du camp de prisonnier de Münster">
+	    <a href="images/camp-munster.jpg" data-fancybox="gallery" title="Une vue du camp de prisonnier de Münster">
 	    <img src="miniatures/camp-munster.jpg"  alt="le camp de prisonnier de Münster pendant la Grande Guerre"/></a>
 	    <figcaption>La vie au camp de Münster<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 	
 	<figure>
-	    <a href="images/camp-munster-1916.jpg" id="single_image" title="Une vue du camp de prisonnier de Münster">
+	    <a href="images/camp-munster-1916.jpg" data-fancybox="gallery" title="Une vue du camp de prisonnier de Münster">
 	    <img src="miniatures/camp-munster-1916.jpg"  alt="le camp de prisonnier de Münster pendant la Première Guerre Mondiale"/></a>
 	    <figcaption>La vie au camp de Münster<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 	
 	<figure>
-	    <a href="images/camp-munster-1917.jpg" id="single_image" title="Une vue du camp de prisonnier de Münster">
+	    <a href="images/camp-munster-1917.jpg" data-fancybox="gallery" title="Une vue du camp de prisonnier de Münster">
 	    <img src="miniatures/camp-munster-1917.jpg"  alt="le camp de prisonnier de Münster pendant la Grande Guerre"/></a>
 	    <figcaption>La vie au camp de Münster<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 
 	<figure>
-	    <a href="images/camp-munster-1917-2.jpg" id="single_image" title="Une vue du camp de prisonnier de Münster">
+	    <a href="images/camp-munster-1917-2.jpg" data-fancybox="gallery" title="Une vue du camp de prisonnier de Münster">
 	    <img src="miniatures/camp-munster-1917-2.jpg" alt="le camp de prisonnier de Münster pendant la Première Guerre Mondiale"/></a>
 	    <figcaption>La vie au camp de Münster<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -218,7 +218,7 @@
 <p>Selon le CICR, Louis est dans le convoi de l’internement du 8 novembre 1918, en provenance de Münster III et à destination de Leysin (Suisse). Il y est mentionné en tant que soldat du 1er Régiment d’Artillerie.</p>
 
 	<figure>
-	    <a href="images/convoi-08111918.jpg" id="single_image" title="Convoi de l'internement du 8 novembre 1918">
+	    <a href="images/convoi-08111918.jpg" data-fancybox="gallery" title="Convoi de l'internement du 8 novembre 1918">
 	    <img src="miniatures/convoi-08111918.jpg" alt="Convoi de l'internement du 8 novembre 1918"></a>
 	    <figcaption>Convoi de l'internement du 8 novembre 1918<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -228,7 +228,7 @@
 <p>Au début des années 30, <strong>Louis Abraham</strong> habite rue du Cordeau à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a>. Il reçoit une carte d’ancien combattant délivrée par le Comité Départemental du Nord.</p>
 
 	<figure>
-	    <a href="sources/louis-carlier-ancien-combattant.jpg" id="single_image">
+	    <a href="sources/louis-carlier-ancien-combattant.jpg" data-fancybox="gallery">
 	    <img src="miniatures/louis-carlier-ancien-combattant.jpg" alt="Carte d'ancien combattant de Louis Abraham CARLIER"/></a>
 	    <figcaption>Carte d'ancien combattant ayant appartenu à Louis<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -266,8 +266,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

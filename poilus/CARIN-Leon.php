@@ -9,7 +9,7 @@
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                 
 </head>
 
@@ -82,7 +82,7 @@
     <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
     <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
     <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-    <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+    <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
     <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
     <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
     <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
@@ -119,13 +119,13 @@
 <p>Léon CARIN est né à Lourches (Nord) le 28 juillet 1896, fils légitime de François Louis CARIN et de Pauline DUSSART. Il a pour frère <a href="CARIN-Edouard.php">Edouard</a> et <a href="CARIN-Theophile.php">Théophile.</a> En 1906, Léon vit Rue de Beauvois à Lourches, avec ses parents et ses frères et sœurs.</p>
 
 	<figure>
-	    <a href="images/arbre-carin.png" id="single_image" title="La famille CARIN">
+	    <a href="images/arbre-carin.png" data-fancybox="gallery" title="La famille CARIN">
 	    <img src="miniatures/arbre-carin.png" alt="arbre généalogique de la Famille Carin de Lourches et Roeulx"  style="box-shadow:none;width:650px;"></a>
 	    <figcaption>Arbre généalogique de la famille CARIN<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 
 	<figure>
-	    <a href="sources/CARIN-Leon-matricule.jpg"  id="single_image" title="Fiche matricule de léon CARIN">
+	    <a href="sources/CARIN-Leon-matricule.jpg"  data-fancybox="gallery" title="Fiche matricule de léon CARIN">
 	    <img src="miniatures/CARIN-Leon-matricule.jpg" alt="extrait de la fiche matricule de Léon CARIN"/></a>
 	    <figcaption>Extrait de sa fiche matricule.<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
 	</figure>
@@ -161,7 +161,7 @@
 <p>Léon s'est engagé pour la durée la guerre à la mairie de Roanne, où il vivait en tant que réfugié, le 16 février 1915 au titre du <strong>127e Régiment d'Infanterie</strong>. A la mobilisation, l'infanterie de ligne était composée de 173 régiments qui contenaient chacun 73 officiers et 3200 hommes.</p> 
     
 	<figure>
-	    <a href="images/roanne-place.jpg"  id="single_image" title="La place de Roanne et l'hôtel de ville">
+	    <a href="images/roanne-place.jpg"  data-fancybox="gallery" title="La place de Roanne et l'hôtel de ville">
 	    <img src="miniatures/roanne-place.jpg" alt="La place de Roanne et l'hôtel de ville sur une carte postale ancienne"/></a>
 	    <figcaption>La Place de l'Hôtel de Ville de Roanne.<br/>(cliquez pour agrandir)</figcaption>
 	</figure>   
@@ -178,7 +178,7 @@
 <p>Léon CARIN est quant à lui porté disparu le 7 avril 1916 à Haucourt (Meuse, et non Marne comme indiqué sur la fiche matricule) alors que son régiment venait juste de s'installer pour relever le 69e Régiment d'Infanterie à Hautcourt et vers l'ouvrage de Palavas. Son nom est indiqué sur la liste des disparus du JMO du 153e R.I. (page 16). </p>
 
 	<figure>
-	    <a href="images/153eRI-JMO.jpg"  id="single_image" title="Extrait du Journal des marches et des opérations du 153e RI">
+	    <a href="images/153eRI-JMO.jpg"  data-fancybox="gallery" title="Extrait du Journal des marches et des opérations du 153e RI">
 	    <img src="miniatures/153eRI-JMO.jpg" alt="extrait du Journal des marches et des opérations du 153e régiment d'infanterie"/></a>
 	    <figcaption>Extrait du JMO du 153e R.I<br />(source: Ministère de la Défense)</figcaption>
 	</figure> 
@@ -186,7 +186,7 @@
 <p>Son décès est fixé au 7 avril 1916 par jugement déclaratif rendu le 2 juin 1921 par le tribunal de Valenciennes. Le décès est transcrit le 5 juillet 1921 à la mairie de Roeulx et son nom figure sur le Monument aux Morts de la commune.</p>
 
 	<figure>
-	    <a href="sources/CARIN-leon-mpf.JPG"  id="single_image" title="Fiche de Mort pour la France">
+	    <a href="sources/CARIN-leon-mpf.JPG"  data-fancybox="gallery" title="Fiche de Mort pour la France">
 	    <img src="sources/CARIN-leon-mpf.JPG" height="450px" alt="Fiche de Mort pour la France de Léon CARIN"/></a>
 	    <figcaption>Léon, mort pour la France.</figcaption>
 	</figure>
@@ -217,8 +217,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

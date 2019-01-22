@@ -113,7 +113,7 @@
 <p>Les 2 camps de Minden étaient situés à Minderheide, un quartier de la ville. Le « lager I » était réservé aux prisonniers de guerre et le « lager II » aux autres prisonniers. Les deux camps furent réunis avant la visite des délégués Espagnols du 24 mars 1916. Le camp était constitué de baraques en bois contiguës par les angles et entourant une grande cour. Il est considéré comme le camp de plus dur.</p> 
 
 <figure>    
-	<a href="images/Minden/localisation-minden.jpg" id="single_image" title="Localisation du camp de Minden">
+	<a href="images/Minden/localisation-minden.jpg" data-fancybox="gallery" title="Localisation du camp de Minden">
     <img src="miniatures/Minden/localisation-minden.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Minden"></a>
     <figcaption>Localisation du camp de Minden<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure> 
@@ -167,13 +167,13 @@
 <h2>Les prisonniers au travail</h2>
 
 <figure>
-    <a href="images/minden-05.jpg" id="single_image" title="La construction des chemins à Minden">
+    <a href="images/minden-05.jpg" data-fancybox="gallery" title="La construction des chemins à Minden">
     <img src="miniatures/minden-05.jpg" alt="La construction des chemins par les prisonniers du camp de Minden pendant la Première Guerre Mondiale"></a>
     <figcaption>La construction des chemins<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/minden-04.jpg" id="single_image" title="Pose du chemin de fer portatif à Minden">
+    <a href="images/minden-04.jpg" data-fancybox="gallery" title="Pose du chemin de fer portatif à Minden">
     <img src="miniatures/minden-04.jpg" alt="La pose d'un chemin de fer portatif par les prisonniers du camp de Minden pendant la Première Guerre Mondiale"></a>
     <figcaption>Pose du chemin de fer portatif<br />(source allemande)</figcaption>
 </figure>
@@ -181,13 +181,13 @@
 <h2>La vie au camp n°1</h2>
 
 <figure>
-    <a href="images/minden-02.jpg" id="single_image" title="Distribution de dons patriotiques à Minden I">
+    <a href="images/minden-02.jpg" data-fancybox="gallery" title="Distribution de dons patriotiques à Minden I">
     <img src="miniatures/minden-02.jpg" alt="Distribution de dons patriotiques aux prisonniers du camps de Minden pendant la Première Guerre Mondiale"></a>
     <figcaption>Distribution de dons patriotiques<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/minden-01.jpg" id="single_image" title="Une salle de soldats à Minden I">
+    <a href="images/minden-01.jpg" data-fancybox="gallery" title="Une salle de soldats à Minden I">
     <img src="miniatures/minden-01.jpg" alt="Une salle de soldats au camp de prisonniers de Minden I pendant la Première Guerre Mondiale"></a>
     <figcaption>Salle de soldats au camp<br />(source allemande)</figcaption>
 </figure>
@@ -195,7 +195,7 @@
 <h2>La vie au camp n°2</h2>
 
 <figure>
-    <a href="images/minden-03.jpg" id="single_image" title="La cuisine et le menu à Minden II">
+    <a href="images/minden-03.jpg" data-fancybox="gallery" title="La cuisine et le menu à Minden II">
     <img src="miniatures/minden-03.jpg" alt="La cuisine et le menu au camp de prisonniers de Minden II"></a>
     <figcaption>Cuisine et menu<br />(source allemande)</figcaption>
 </figure>
@@ -227,8 +227,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

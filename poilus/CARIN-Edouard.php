@@ -9,7 +9,7 @@
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                   
 </head>
 
@@ -82,7 +82,7 @@
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
@@ -119,13 +119,13 @@
 <p><strong>Edouard CARIN</strong> est né le 5 août 1884 à Lourches (Nord),  fils légitime de  François Louis CARIN et de Pauline DUSSART.<strong> Edouard</strong> est le frère de <a href="CARIN-Theophile.php">Théophile</a>, l'époux de mon arrière-arrière-grand-mère Zélia BRASSEUR. En 1906, il vit chez ses parents à Lourches (Rue Beauvois) en compagnie de ses parents et ses frères et sœurs: Alfred, Appoline, Clara, Joseph, <a href="CARIN-Leon.php">Léon</a>, Celeste et François.</p> 
 
 	<figure>
-	    <a href="images/arbre-carin.png" id="single_image" title="La famille CARIN">
+	    <a href="images/arbre-carin.png" data-fancybox="gallery" title="La famille CARIN">
 	    <img src="miniatures/arbre-carin.png"  alt="arbre généalogique de la Famille Carin de Lourches et Roeulx"  style="box-shadow:none;width:650px;"></a>
 	    <figcaption>Arbre généalogique de la famille CARIN<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 	     
 	<figure>
-	    <a href="images/Carin-Edouard-1884.jpg"  id="single_image" title="Acte de naissance d'Edouard CARIN">
+	    <a href="images/Carin-Edouard-1884.jpg"  data-fancybox="gallery" title="Acte de naissance d'Edouard CARIN">
 	    <img src="miniatures/Carin-Edouard-1884.jpg" alt="Copie de l'acte de naissance d'Edouard CARIN"/></a>
 	    <figcaption>Acte de naissance d'Edouard.<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
 	</figure>
@@ -133,13 +133,13 @@
 <p>Je possède très peu de renseignements sur lui, car sa fiche matricule n'est pas disponible aux Archives Départementales. Ma seule piste pour l'instant ? Une fiche du site "Mémoire des Hommes" qui indique qu'il faisait partie du 162e Régiment d'Infanterie et qu'il est mort des suites de ses blessures le 19 mars 1916 à Bras dans la Meuse alors que le 162e RI est en train de défendre la rive droite, entre Bras et Louvemont, depuis le 10.</p>
 
 	<figure>
-	    <a href="images/bras-sur-meuse.jpg" id="single_image" title="Les ruines du village de Bras-sur-Meuse">
+	    <a href="images/bras-sur-meuse.jpg" data-fancybox="gallery" title="Les ruines du village de Bras-sur-Meuse">
 	    <img src="miniatures/bras-sur-meuse.jpg" alt="Le village de Bras-sur-Meuse en ruine sur une carte postale ancienne"/></a>
 	    <figcaption>Bras, les ruines du village vues de l'église.</figcaption>
 	</figure>
 	
 	<figure>
-	    <a href="sources/Carin-Edouard-livre-dor.jpg" id="single_image">
+	    <a href="sources/Carin-Edouard-livre-dor.jpg" data-fancybox="gallery">
 	    <img src="miniatures/Carin-Edouard-livre-dor.jpg" alt="Extrait du livre d'or des morts pour la France de la commune de Roeulx"/></a>
 	    <figcaption>Edouard dans le livre d'or des morts pour la France<br/>(cliquez pour agrandir - source: Archives Nationales)</figcaption>
 	</figure>
@@ -147,7 +147,7 @@
 <p>Son nom figure sur le Monument aux Morts de Roeulx (Nord) où il vivait avant la Première Guerre Mondiale. Pour info, Edouard et Théophile ont 2 autres frères, <a href="CARIN-Leon.php">Léon</a> et Alfred, qui ont également combattu pour la France pendant la Grande Guerre.</p>
 
 	<figure>
-	    <a href="sources/CARIN-edouard-mpf.JPG"  id="single_image" title="Edouard CARIN, mort pour la France">
+	    <a href="sources/CARIN-edouard-mpf.JPG"  data-fancybox="gallery" title="Edouard CARIN, mort pour la France">
 	    <img src="miniatures/CARIN-edouard-mpf.JPG" alt="Fiche de mort pour la France d'Edouard CARIN"/></a>
 	    <figcaption>Edouard, mort pour la France.<br />(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
 	</figure>
@@ -178,8 +178,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

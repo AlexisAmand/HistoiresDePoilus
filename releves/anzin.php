@@ -128,7 +128,7 @@
 <p></p>
 
 <figure>
-    <a href="images/monument-anzin.jpg" id="single_image" title="Le monument aux Morts d'Anzin">
+    <a href="images/monument-anzin.jpg" data-fancybox="gallery" title="Le monument aux Morts d'Anzin">
     <img src="images/mini/monument-anzin.jpg" alt="le Monument aux Morts dans le cimetière d'Anzin sur une carte postale ancienne"/></a>
     <figcaption>Le Monument aux Morts de la guerre 1914-1918<br />(cliquez pour agrandir)</figcaption>
 </figure>
@@ -435,8 +435,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

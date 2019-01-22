@@ -4,12 +4,12 @@
 
 <meta charset="utf-8">
           
-<title>Histoires de Poilus - Liste de quelques poilus du Nord</title>
-<meta content="Petites biographies de soldats de ma famille ayant participé à la Première Guerre Mondiale et ayant vécu dans le Nord" name="description">
+<title>Biographie et parcours du soldat Alfred PELEZ - Histoires de Poilus</title>
+<meta content="Parcours et biographie du poilu Alfred PELEZ, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
    
 </head>   
 
@@ -82,7 +82,7 @@
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
@@ -117,6 +117,38 @@
 <h1>Alfred PELEZ</h1>
         
 <p><strong>Alfred PELEZ</strong> (ou PELLEZ selon les sources) est né le 13 juin 1872 à Onnaing, fils de mes ancêtres François PELEZ (1843-1884) et Louise DASNOIS (1847-1878). Avant la guerre, Alfred vit dans le Pas-de-Calais en passant successivement par Annezin (1896), Montigny-en-Gohelle (1896), Fouquières-les-lens (1906) et enfin Rouvroy (1912). Il est rappelé à l'activité par le décret du 1er août 1914 et mis en sursis aux Mines de la Loire dès le 9 février 1915. A l'époque, il vit à Saint Genest-Lerpt dans la Loire.</p>
+
+	<table style="width:70%;caption-side: bottom;">
+        <caption>Liste des domiciles d'Emile MASCART</caption>
+	    <thead>
+	        <tr>
+	            <td>Dates</td>
+	            <td>Adresses</td>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td>10 mai 1896</td>
+	            <td>Annezin<br />(Pas-de-Calais)</td>
+	        </tr>
+	        <tr>
+	            <td>13 septembre 1896</td>
+	            <td>Chez Auguste DESCAMPS<br />à Montigny-en-Gohelle (Pas-de-Calais)</td>
+	        </tr>
+	        <tr>
+	            <td>28 avril 1906</td>
+	            <td>Chez Mr DOUTRICOURT<br />Rue du Marais<br />à Fouquières-lès-Lens (Pas-de-Calais)</td>
+	        </tr>
+	        <tr>
+	            <td>25 mars 1912</td>
+	            <td>Corons n°25<br />à Rouvroy (Pas-de-Calais)</td>           
+	        </tr>
+	        <tr>
+	            <td>10 janvier 1916</td>
+	            <td>Place de la Mairie<br />à Saint-Genest-Lerpt (Loire)<></td>           
+	        </tr>
+        </tbody>
+    </table>
 	
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
@@ -138,8 +170,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

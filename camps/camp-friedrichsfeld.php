@@ -108,21 +108,21 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p><p>Le <strong>camp de Friedrichsfeld</strong> était  en Rhénanie du Nord, à proximité des villes de Duisbourg et Cologne ainsi qu'à proximité de la frontière entre l'Allemagne et les Pays-Bas. Il disposait d'un Lazaret (hôpital militaire) et d'une chapelle. Dans <cite><a href="../webographie.php">Westfalen in Ersten Weltkrieg</a></cite>, l'historien allemand Rainer PÖPPINGHEGE évalue à 79161 le nombre de soldats prisonniers dans le camp de Friedrichsfeld à la fin de la Première Guerre Mondiale.</p>
     
 <figure>
-    <img src="miniatures/Friedrichsfeld/carte-camp-friedrichsfeld.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Friedrichsfeld">
+    <img src="miniatures/Friedrichsfeld/carte-camp-friedrichsfeld.jpg" data-fancybox="gallery" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Friedrichsfeld">
     <figcaption>Localisation du camp de Friedrichsfeld<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>      
     
 <p>Dans un rapport adressé au Ministère de la Guerre le 20 août 1914, le médecin major de 1e classe CHON, du 14e Régiment de Hussard, fait prisonnier à Ethe (Belgique) le 22 août 1914, emprisonné aux camps de Friedrichsfeld et Senne, puis ramené en Suisse pour raison de santé, rapporte que <em>"le sous-chef du camp [de Friedrichsfeld], le Major BACH, avait donné l'ordre de fusiller les fuyard et promettait une indemnité de 70 marks à tout homme qui rapporterait le cadavre d'un français. Le fait nous a été rapporté par un ordonnance allemande qui se ventait d'avoir abattu un prisonnier français dans ces conditions".</em></p>
 
 <figure>
-    <a href="images/friedrichsfeld-patates.jpg" id="single_image" title="Camp de Friedrichsfeld: Epluchage de pommes de terre dans la cour de l'hôpital">
+    <a href="images/friedrichsfeld-patates.jpg" data-fancybox="gallery" title="Camp de Friedrichsfeld: Epluchage de pommes de terre dans la cour de l'hôpital">
     <img src="miniatures/friedrichsfeld-patates.jpg" alt="épluchage de pommes de terre dans la cour de l'hôpital du camp de Friedrichsfeld">
     </a>
     <figcaption>Epluchages de pommes de terre dans la cour de l'hôpital<br />(source allemande)</figcaption>   
 </figure>
 
 <figure>
-    <a href="images/friedrichsfeld-lazaret.jpg" id="single_image" title="Camp de Friedrichsfeld: Intérieur d'une baraque servant de Lazaret">
+    <a href="images/friedrichsfeld-lazaret.jpg" data-fancybox="gallery" title="Camp de Friedrichsfeld: Intérieur d'une baraque servant de Lazaret">
     <img src="miniatures/friedrichsfeld-lazaret.jpg" alt="intérieur d'une baraque servant de lazaret au camp de Friedrichsfeld">
     </a>
     <figcaption>Intérieur d'une grande baraque servant de lazaret<br />(source allemande)</figcaption>   
@@ -131,7 +131,7 @@
 <p>L'espace occupé par les prisonniers comprend une superficie de 25 hectares entourée d'une triple rangée de fils de fer barbelés. Des baraquements en planches, construits par les prisonniers eux-mêmes, comptent en mai 1915 pas moins de 20 000 hommes dont 16000 français, 3000 russes, 500 belges, 300 anglais.</p>
 
 <figure>
-    <a href="images/friedrichsfeld-prisonniers-français.jpg" id="single_image" title="Des prisonniers français au camp de Friedrichsfeld">
+    <a href="images/friedrichsfeld-prisonniers-français.jpg" data-fancybox="gallery" title="Des prisonniers français au camp de Friedrichsfeld">
     <img src="miniatures/friedrichsfeld-prisonniers-français.jpg"  alt="Des prisonniers français au camp de Friedrichsfeld"/>
     </a>
     <figcaption>Des prisonniers au camp de Friedrichsfeld<br/>(cliquez pour agrandir)</figcaption>
@@ -140,7 +140,7 @@
 <p>Quand <a href="../poilus.php">Jules Henri BOURSIER</a>, <a href="../poilus/CARLIER-Druon-Joseph.php">Druon Joseph CARLIER</a>, <a href="../poilus/JOLY-Noel-Jules.php">Noël Jules JOLY</a> et leurs compagnons français arrivent dans le camps de Friedrichsfeld en cette fin d'année 1914, il est juste indiqué par une clôture de fils de fer, mais rien n'est construit; pendant de longues semaines, les hommes doivent coucher en plein air, sur la paille, avec une seule couverture. Sous la direction d'ouvriers civils, les prisonniers sont employés à la construction de baraquements qui sont habités dès le mois de décembre 1914. A cette époque, ils reçoivent une enveloppe de paillasse contenant de la fibre de bois et de la paille (qui ne sera jamais renouvelée) et une seconde couverture. Après son achèvement, le camp est une véritable petite ville, constituée par des baraques de planches, dont chacune est divisée en 2 chambrées par une cloison.</p><p>Dans l'exemplaire n°202 de l'ouvrage intitulé <cite><a href="http://gallicalabs.bnf.fr/ark:/12148/bpt6k65295400">Le sort des prisonniers français en Allemagne</a></cite>, l'auteur explique qu'à Friedrichsfeld, il y avait une baraque spéciale, close de treillages, où restaient enfermés nuit et jour les prisonniers qui se refusent au travail; au mois de décembre 1915, 25 réfractaires avaient été laissés toute une nuit, en tenue de travail, sur le bord du Rhin, au garde-à-vous, les pieds posés sur des cailloux. Quelques pages plus loin, l'auteur nous décrit l'impuissance des prisonniers français contre les épidémies, notamment dans les camps de <a href="camp-darmstadt.php">Darmstadt</a>, <a href="camp-friedrichsfeld.php">Friedrichsfeld</a>, Koenigsbrück, Merseburg et Zoosen où la faim non apaisée, l'inanition et la misère psychologique qui en a résulté ont provoqué un développement inouï de la tuberculose et une mortalité effrayante.</p>
 
 <figure>
-    <a href="images/friedrichsfeld01.jpg" id="single_image" title="Des prisonniers dans le camp de Friedrichsfeld">
+    <a href="images/friedrichsfeld01.jpg" data-fancybox="gallery" title="Des prisonniers dans le camp de Friedrichsfeld">
     <img src="miniatures/friedrichsfeld01.jpg" alt="Des prisonniers dans le camp de Friedrichsfeld">
     </a>
 </figure>
@@ -148,34 +148,34 @@
 <p>Dans le "Bulletin religieux de l'Archidiocèse de Rouen", L. J. raconte qu' <em>"à Friedrichsfeld (...) les prisonniers sont l'objet de la curiosité indiscrète des indigènes qui viennent les voir travailler et manger, comme les enfants de chez nous vont au Jardin des Plantes assister au repas des fauves. Et cela, avec l'isolement, l'ignorance où ils sont des leurs, est ce dont souffrent le plus Belges et Français."</em>. Le n°23 de "Nouvelles de France" parut le 8 juin 1916, complète avec des informations sur l'alimentation des prisonniers guerre qui étaient internés au <strong>camp de Friedrichsfeld</strong>.</p>
 
 <figure>
-    <a href="images/repas-friedrichsfeld.jpg" id="single_image" title="Extrait de Nouvelles de France (1916)">
+    <a href="images/repas-friedrichsfeld.jpg" data-fancybox="gallery" title="Extrait de Nouvelles de France (1916)">
     <img src="miniatures/repas-friedrichsfeld.jpg"  alt="la nourriture dans le camp de Friedrichsfeld pendant la Grande Guerre"/>
     </a>
     <figcaption>Extrait de "Nouvelles de France" (1916)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/friedrichsfeld02.jpg" id="single_image" title="Des prisonniers dans le camp de Friedrichsfeld">
+    <a href="images/friedrichsfeld02.jpg" data-fancybox="gallery" title="Des prisonniers dans le camp de Friedrichsfeld">
     <img src="miniatures/friedrichsfeld02.jpg" alt="Des prisonniers dans le camp de Friedrichsfeld pendant la Première Guerre Mondiale">
     </a>
 </figure>
 
 <figure>
-    <a href="images/friedrichsfeld-03.jpg" id="single_image" title="Camp de Friedrichsfeld: La poste aux colis">
+    <a href="images/friedrichsfeld-03.jpg" data-fancybox="gallery" title="Camp de Friedrichsfeld: La poste aux colis">
     <img src="miniatures/friedrichsfeld-03.jpg" alt="la poste au colis du camp de Friedrichsfeld pendant la Première Guerre Mondiale">
     </a>
     <figcaption>La poste aux colis du camp<br /> (source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/friedrichsfeld-04.jpg" id="single_image" title="Camp de Friedrichsfeld: Fumure au guano">
+    <a href="images/friedrichsfeld-04.jpg" data-fancybox="gallery" title="Camp de Friedrichsfeld: Fumure au guano">
     <img src="miniatures/friedrichsfeld-04.jpg" alt="Fumure au guano dans les environs du camp de Friedrichsfeld pendant la Grande Guerre">
     </a>
     <figcaption>Fumure au guano dans les environs du camp<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/friedrichsfeld-05.jpg" id="single_image" title="Camp de Friedrichsfeld: Diverses ethnies">
+    <a href="images/friedrichsfeld-05.jpg" data-fancybox="gallery" title="Camp de Friedrichsfeld: Diverses ethnies">
     <img src="miniatures/friedrichsfeld-05.jpg" alt="diverses ethnies présentes au camp de Friedrichsfeld pendant la Première Guerre Mondiale">
     </a>
     <figcaption>Diverses ethnies représentées au camp<br />(source allemande)</figcaption>
@@ -209,8 +209,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

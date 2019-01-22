@@ -4,12 +4,12 @@
 
 <meta charset="utf-8">
           
-<title>Histoires de Poilus - Liste de quelques poilus du Nord</title>
-<meta content="Petites biographies de soldats de ma famille ayant participé à la Première Guerre Mondiale et ayant vécu dans le Nord" name="description">
+<title>Biographie et parcours du soldat Jean Charles DUBOIS - Histoires de Poilus</title>
+<meta content="Parcours et biographie du poilu Jean Charles DUBOIS, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
    
 </head>   
 
@@ -82,7 +82,7 @@
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
@@ -116,7 +116,21 @@
     
 <h1>Jean Charles DUBOIS</h1>
         
-<p><strong>Jean Charles DUBOIS</strong> est né le 8 février 1893 à Villers-Guislain (Nord), il est le frère d'<a href="DUBOIS-Emile-Edmond.php" title="Biographie d'Emile Edmond DUBOIS">Emile Edmond</a>. Inscrit sous le n°99 de la liste du canton de Marcoing, il est incorporé au 164e Régiment d'Infanterie le 27 novembre 1913 où il arrive le dit jour. Il est décédé le 18 octobre 1914 à l'hôpital temporaire n°8 de Verdun dans la Meuse. Son nom figure sur le Monument aux morts et dans le livre d'or de Villers-Guislain.</p>
+<p><strong>Jean Charles DUBOIS</strong> est né le 8 février 1893 à Villers-Guislain (Nord), il est le frère d'<a href="DUBOIS-Emile-Edmond.php" title="Biographie d'Emile Edmond DUBOIS">Emile Edmond</a>. Inscrit sous le n°99 de la liste du canton de Marcoing, il est incorporé au 164e Régiment d'Infanterie le 27 novembre 1913 où il arrive le dit jour. Il est décédé d'une maladie contractée en service le 18 octobre 1914 à l'hôpital temporaire n°8 de Verdun (dans la Meuse). Son nom figure sur le Monument aux morts et dans le livre d'or de Villers-Guislain.</p>
+
+	<figure>
+	    <a href="sources/dubois-jean-charles.jpg" data-fancybox="gallery" title="Jean Charles DUBOIS, mort pour la France">
+	    <img src="miniatures/dubois-jean-charles.jpg" alt="Fiche de mort pour la France de Jean Charles DUBOIS"/></a>
+	    <figcaption>Jean Charles, mort pour la France.<br />(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
+    </figure>
+
+<h2>Sources et bibliographie</h2>
+    
+    <ul>
+        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
+        <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title=" ">Mémoire des Hommes</a> (Ministère de la Défense)</li>
+        <li>Archives départementales du Nord</li>
+    </ul> 
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
@@ -138,8 +152,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

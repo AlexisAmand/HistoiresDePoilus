@@ -99,7 +99,7 @@
 <p>L'Hôpital du gouvernement italien pour les blessés de Guerre Français (également appelé Hôpital de L'ambassade d’Italie) était situé au 41 quai d'Orsay à Paris. C'était un des hôpitaux complémentaires de l’hôpital militaire du Val-de-Grâce et également un des rares hôpitaux complémentaires à disposer de la radiologie.</p>
 
     <figure>
-    <a href="images/hopital-begin.jpg" id="single_image" title="l'hôpital militaire Bégin">
+    <a href="images/hopital-begin.jpg" data-fancybox="gallery" title="l'hôpital militaire Bégin">
     <img src="miniatures/hopital-begin.jpg" alt="L'entrée de l'hôpital militaire Bégin pendant la guerre"></a>
    		<figcaption>L'entrée de l'hôpital militaire Bégin</figcaption>
     </figure>
@@ -109,19 +109,19 @@
 <p>Cet hôpital militaire était situé à l'Hôpital Militaire Bégin à Saint-Mandé, dans le Val-de-Marne. Il doit son nom à Louis Jacques Bégin (1793-1859), chirurgien militaire de l'Empire.</p>
    
     <figure>
-    <a href="images/begin-cuisine.jpg" id="single_image" title="l'hôpital militaire Bégin">
+    <a href="images/begin-cuisine.jpg" data-fancybox="gallery" title="l'hôpital militaire Bégin">
     <img src="miniatures/begin-cuisine.jpg" alt="Les cuisines de l'hôpital militaire Bégin pendant la guerre"></a>
     	<figcaption>Les cuisines de l'hôpital militaire Bégin</figcaption>
     </figure>
 
     <figure>
-    <a href="images/hopital-begin-cours.jpg" id="single_image" title="l'hôpital militaire Bégin">
+    <a href="images/hopital-begin-cours.jpg" data-fancybox="gallery" title="l'hôpital militaire Bégin">
    	<img src="miniatures/hopital-begin-cours.jpg" alt="La cour intérieure de l'hôpital militaire Bégin pendant la guerre"></a>
     	<figcaption>La cour intérieure de l'hôpital militaire Bégin</figcaption>
     </figure>
 
     <figure>
-    <a href="images/paris-chaptal.jpg" id="single_image" title=" ">
+    <a href="images/paris-chaptal.jpg" data-fancybox="gallery" title=" ">
     <img src="miniatures/paris-chaptal.jpg" alt="Hôpital temporaire Chaptal à Paris pendant la Grande Guerre"></a>
    		<figcaption>Hôpital temporaire Chaptal,<br />rue de Rome à Paris</figcaption>
     </figure>
@@ -146,8 +146,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

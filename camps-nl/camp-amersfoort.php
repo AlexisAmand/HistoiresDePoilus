@@ -78,7 +78,7 @@
 <p>Ce camp d'internement était situé à Amersfoort, une ville de la province d'Utrecht, aux Pays-Bas.<sup>1</sup></p>
 
 <figure>  
-    <a href="images/Amersfoort/amersfoort-01.jpg" id="single_image" title="Le camp de Amersfoort">
+    <a href="images/Amersfoort/amersfoort-01.jpg" data-fancybox="gallery" title="Le camp de Amersfoort">
     <img src="miniatures/Amersfoort/amersfoort-01.jpg" alt="Le camp d'internement d'Amersfoort pendant la Première Guerre Mondiale"></a>
     <figcaption>Le camp de Amersfoort<br />(Carte postale)</figcaption>
 </figure>
@@ -114,8 +114,8 @@ La traduction de l'article du Telegraph est parue dans "Le Droit des peuples : o
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

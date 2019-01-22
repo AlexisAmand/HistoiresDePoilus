@@ -126,7 +126,7 @@
 <p>Quand la guerre éclate en août 1914, L'Empire Allemand est certain que sa victoire sera aussi rapide que celle de 1870. Seulement très vite, il doit faire face à un afflux de prisonniers qu'il n'avait pas prévu. Cette situation l'oblige à ouvrir des camps un peu partout sur son territoire. En cette fin d'année 1914, les soldats prisonniers dorment dans la paille, dans des huttes de fortune ou dans des trous creusés à même le sol pour&nbsp; s'abriter du froid et de la pluie. L'hygiène est déplorable, et très vite, des <strong>épidémies de Typhus</strong> apparaissent. Faute d'être prêt à nourrir et à loger un si grand nombre de prisonniers, l'hiver 1914 sera mortel pour des centaines d'hommes. Il faudra attendre l'année 1915 pour que la situation s'améliore un peu.</p>
 
 <figure>
-    <a href="camps/images/friedrichsfeld-prisonniers-français.jpg" id="single_image" title="Des prisonniers français au camp de Friedrichsfeld">
+    <a href="camps/images/friedrichsfeld-prisonniers-français.jpg" data-fancybox="gallery" title="Des prisonniers français au camp de Friedrichsfeld">
     <img src="camps/miniatures/friedrichsfeld-prisonniers-français.jpg"  alt="Des prisonniers français au camp de Friedrichsfeld"/>
     </a>
     <figcaption>Des prisonniers au camp de Friedrichsfeld (Allemagne)<br/>(cliquez pour agrandir)</figcaption>
@@ -142,7 +142,7 @@
     <p>Les prisonniers étaient gérés comme véritable armée: Ils étaient (la plupart du temps) logés dans des casernes, vivaient sous les ordres de leurs gardiens et étaient soumis au même règlement et à la même discipline que ceux qui étaient en vigueurs dans l'armée de leurs geôliers. On estime <strong>le nombre de soldats prisonniers en 1918 à 6 637 000</strong> parmi lesquels 2 500 000 sont retenus par l'Allemagne, 2 250 000 par la Russie, 916 000 par l'Autriche, 350 000 par la France, 328 000 par le Royaume-Uni, et 43 000 par les Etats-Unis.</p>
     
 <figure>
-    <a href="camps/images/allemand.png" id="single_image" title="Des prisonniers allemands à Toulouse">
+    <a href="camps/images/allemand.png" data-fancybox="gallery" title="Des prisonniers allemands à Toulouse">
     <img src="camps/miniatures/allemand.png" alt="Des prisonniers allemands à Toulouse pendant la Première Guerre Mondiale"/></a>
     <figcaption>Des prisonniers allemands à Toulouse<br/>(cliquez pour agrandir)</figcaption>
 </figure>
@@ -172,8 +172,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

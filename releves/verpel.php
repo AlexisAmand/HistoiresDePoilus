@@ -126,7 +126,7 @@
 <p></p>
 
 <figure>
-    <a href="images/monument-verpel.jpg" id="single_image" title="Le Monument aux Morts de Verpel">
+    <a href="images/monument-verpel.jpg" data-fancybox="gallery" title="Le Monument aux Morts de Verpel">
     <img src="images/mini/monument-verpel.jpg" alt="le Monument aux Morts de Verpel sur une carte postale ancienne"/>
     </a>
     <figcaption>Le Monument aux Morts<br />(cliquez pour agrandir)</figcaption>
@@ -222,8 +222,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

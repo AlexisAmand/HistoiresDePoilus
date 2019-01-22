@@ -113,25 +113,25 @@
 <p>Ce camp était situé à Ratisbonne (Regensburg) dans le Haut-Palatinat, en Bavière.</p>
 
 <figure>    
-    <a href="images/Regensburg/camp-regensburg.jpg" id="single_image" title="Localisation du camp de Regensburg">
-    <img src="miniatures/Regensburg/camp-regensburg.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Regensburg">
+    <a href="images/Regensburg/camp-regensburg.jpg" data-fancybox="gallery" title="Localisation du camp de Regensburg">
+    <img src="miniatures/Regensburg/camp-regensburg.jpg" data-fancybox="gallery" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Regensburg">
     <figcaption>Localisation du camp de Regensburg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>    
 
 <figure>
-    <a href="images/Regensburg/regensburg-01.jpg" id="single_image" title="Dans la cours du camp à Ratisbonne">
+    <a href="images/Regensburg/regensburg-01.jpg" data-fancybox="gallery" title="Dans la cours du camp à Ratisbonne">
     <img src="miniatures/Regensburg/regensburg-01.jpg" alt="des prisonniers dans la cours du camp de Ratisbonne pendant la Première Guerre Mondiale"></a>
     <figcaption>Dans la cours du camp<br />(Source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Regensburg/regensburg-02.jpg" id="single_image" title="Vue du camp de Ratisbonne">    
+    <a href="images/Regensburg/regensburg-02.jpg" data-fancybox="gallery" title="Vue du camp de Ratisbonne">    
     <img src="miniatures/Regensburg/regensburg-02.jpg" alt="une vue du camp de prisonniers de Regensburg pendant la Grande Guerre"></a>
     <figcaption>Vue du camp de Ratisbonne<br />(Source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Regensburg/regensburg-03.jpg" id="single_image" title="Exercice des pompiers à Ratisbonne"> 
+    <a href="images/Regensburg/regensburg-03.jpg" data-fancybox="gallery" title="Exercice des pompiers à Ratisbonne"> 
     <img src="miniatures/Regensburg/regensburg-03.jpg" alt="Exercice des pompiers dans le camp de prisonniers de Ratisbonne pendant la Première Guerre Mondiale"></a>
     <figcaption>Exercice des pompiers<br />(Source allemande)</figcaption>
 </figure>
@@ -164,8 +164,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

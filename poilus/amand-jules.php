@@ -4,12 +4,12 @@
 
 <meta charset="utf-8">
           
-<title>Histoires de Poilus - Liste de quelques jasses de Belgique</title>
-<meta content="Petites biographies de soldats belges - Jasses - de ma famille ayant participé à la Première Guerre Mondiale." name="description">
+<title>Biographie et parcours du soldat Jules AMAND - Histoires de Poilus</title>
+<meta content="Parcours et biographie du jass Jules AMAND, soldat belge pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
    
 </head>   
 
@@ -90,13 +90,13 @@
 <p><strong>Jules AMAND</strong> est né à Boussu (Belgique) le 24 novembre 1888, fils de Jules AMAND et Antoinette AMAND. Soldat de 2e classe et milicien au sein du 9e Régiment de Ligne pendant la Grande Guerre sous le matricule 109/54524. Sa fiche sépulture indique qu'il est probable qu'il soit tombé au combat le 6 août 1914 au Bois Saint-Jean à Ougrée (prés de Liège) étant entendu que son livret de mobilisation a été retrouvé sur le champ de bataille de cette commune. L'ancêtre que j'ai en commun avec lui est Jean Joseph AMAND, mon sosa n°256, 8 générations avant moi. (source: <a href="https://www.wardeadregister.be/fr">Dead War Register</a>)</p>
 
     <figure>
-        <a href="sources/amand-jules.jpg" id="single_image" title="Fiche Sépultures et cimetières militaires de Jules AMAND">
+        <a href="sources/amand-jules.jpg" data-fancybox="gallery" title="Fiche Sépultures et cimetières militaires de Jules AMAND">
         <img src="miniatures/amand-jules.jpg" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
         <figcaption>Fiche Sépultures et cimetières militaires<br />(Source: War Heritage Institute)</figcaption>
     </figure>
 
     <figure>
-    	<a href="images/ougree.jpg" id="single_image" title="Jules AMAND sur le monument d'Ougrée en Belgique">
+    	<a href="images/ougree.jpg" data-fancybox="gallery" title="Jules AMAND sur le monument d'Ougrée en Belgique">
     	<img src="miniatures/ougree.jpg" alt="Jules AMAND sur le monument d'Ougrée en Belgique"/></a>
     	<figcaption>Jules sur le monument d'Ougrée<br>(Source: <a href="http://www.bel-memorial.org">Bel-Memorial</a>)</figcaption>
     </figure>
@@ -121,8 +121,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

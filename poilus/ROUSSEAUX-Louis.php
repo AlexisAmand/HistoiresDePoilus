@@ -9,7 +9,7 @@
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                   
 </head>
 
@@ -82,7 +82,7 @@
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
@@ -119,7 +119,7 @@
 <p><strong>Louis Henri ROUSSEAUX</strong> est né le 8 août 1883 à Lille (Nord), rue du marché. Il est le fils légitime d’Achille Léopold ROUSSEAUX, plafonneur, âgé de 20 ans et de Clara Elisa AUGEZ, âgée de 17 ans. Il est né AUGEZ et est reconnu et légitimé par le mariage de ses parents célébré à Lille le 27 décembre 1884. Louis Henri ROUSSEAUX épouse Hélène Adeline CANONNE à Lille le 30 juillet 1907.</p>
 
 	<figure>
-	    <a href="images/rousseau-louis-henri-matricule.jpg" id="single_image" title="Fiche matricule de Louis Henri ROUSSEAUX">    
+	    <a href="images/rousseau-louis-henri-matricule.jpg" data-fancybox="gallery" title="Fiche matricule de Louis Henri ROUSSEAUX">    
 	    <img src="miniatures/rousseau-louis-henri-matricule.jpg" alt="Extrait de la fiche matricule du soldat Louis Henri ROUSSEAUX"></a>
 	    <figcaption>Extrait de sa fiche matricule</figcaption>
 	</figure>
@@ -129,7 +129,7 @@
 <br />
 
 	<figure>
-	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" id="single_image" title="Arbre généalogique de Louis Henri ROUSSEAUX">
+	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" title="Arbre généalogique de Louis Henri ROUSSEAUX">
 	    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX" style="box-shadow:none;width:650px;"></a>
 	    <figcaption>Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -139,7 +139,7 @@
 <p>En application du décret du 1er août 1914 et du plan XVII, <strong>Louis Henri ROUSSEAUX</strong> est mobilisé et rejoint le <strong>165e Régiment d'Infanterie</strong> auquel il était affecté depuis le 1 avril 1914. En 1914, le 165e est un régiment affecté à la défense de la « forteresse » de Verdun, notamment les forts de la rive gauche de la Meuse. Le 19 octobre 1914, <strong>Louis</strong> passe au <strong>138e Régiment d'Infanterie</strong>. Ce régiment est surtout célèbre pour avoir reconquis le 24 septembre 1914, après la Victoire de la Marne, le fort de la Pompelle qui était occupé par les Allemands depuis le 4 septembre 1914. <strong>Louis Henri ROUSSEAUX</strong> est blessé le 16 avril 1915 à Fouquescourt, entre Amiens et Saint-Quentin.</p>
 
 	<figure>
-	    <a href="images/Fouquescourt-vers-1915.jpg" id="single_image" title="Fouquescourt 1915 par Henri Lucien Cheffer (1915)">
+	    <a href="images/Fouquescourt-vers-1915.jpg" data-fancybox="gallery" title="Fouquescourt 1915 par Henri Lucien Cheffer (1915)">
 	    <img src="miniatures/Fouquescourt-vers-1915.jpg" alt="Fouquescourt peint par Henri Lucien Cheffer vers 1915"></a>
 	    <figcaption>Fouquescourt vers 1915, par Henri Lucien Cheffer</figcaption>
 	</figure>   
@@ -149,7 +149,7 @@
 <p>Porté disparu à Curlu (Somme) le 20 juillet 1916, son décès est constaté à Hem Monacu, une commune située à quelques kilomètres au nord-ouest de Péronne, le 3 septembre 1916. <strong>Louis Henri ROUSSEAUX</strong> est inhumé au Bois de la Pépinière sous le n°11. Il reçoit la croix de guerre avec étoile d’argent à titre posthume le 15 novembre 1920 pour être « tombé glorieusement » le 20 juillet 1916 lors de l’assaut des lignes de Maurepas (Somme). La Croix de Guerre est une médaille qui a été instituée par la loi du 8 avril 1915. Elle est en bronze florentin, a quatre branches et deux épées croisées.</p>
     
 	<figure>
-	    <a href="" id="single_image" title="Le revers de la Croix de Guerre">
+	    <a href="" data-fancybox="gallery" title="Le revers de la Croix de Guerre">
 	    <img src="miniatures/Croix_de_Guerre_1914_revers.jpg" alt="le revers de la croix de guerre de la Première Guerre Mondiale"></a>
 	    <figcaption>Le revers de la Croix de Guerre</figcaption>
 	</figure>         
@@ -180,8 +180,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

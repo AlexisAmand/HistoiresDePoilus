@@ -111,7 +111,7 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
 <figure>    
-	<a href="images/Hammelburg/localisation-hammelburg.jpg" id="single_image" title="Localisation du camp de Hammelburg">
+	<a href="images/Hammelburg/localisation-hammelburg.jpg" data-fancybox="gallery" title="Localisation du camp de Hammelburg">
     <img src="miniatures/Hammelburg/localisation-hammelburg.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Hammelburg"></a>
     <figcaption>Localisation du camp de Hammelburg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>  
@@ -176,21 +176,21 @@
 
 
         <figure>
-            <a href="images/Hammelburg-01.jpg" id="single_image" title="Hammelburg: Le repas des prisonniers">
+            <a href="images/Hammelburg-01.jpg" data-fancybox="gallery" title="Hammelburg: Le repas des prisonniers">
             <img src="miniatures/Hammelburg-01.jpg" alt="Le repas au camp de prisonniers de Hammelburg pendant la Première Guerre Mondiale">
             </a>
             <figcaption>Le repas au camp<br />(source allemande)</figcaption>
         </figure>
 
         <figure>
-            <a href="images/Hammelburg-02.jpg" id="single_image" title="Hammelburg: La lessive au camp">
+            <a href="images/Hammelburg-02.jpg" data-fancybox="gallery" title="Hammelburg: La lessive au camp">
             <img src="miniatures/Hammelburg-02.jpg" alt="La lessive au camp de prisonniers de Hammelburg pendant la Grande Guerre">
             </a>
             <figcaption>La lessive au camp<br />(source allemande)</figcaption>
         </figure>
 
         <figure>
-            <a href="images/Hammelburg/hammelburg-01.jpg" id="single_image" title="Le camp de Hammelburg">
+            <a href="images/Hammelburg/hammelburg-01.jpg" data-fancybox="gallery" title="Le camp de Hammelburg">
             <img src="miniatures/Hammelburg/hammelburg-01.jpg" alt="Le camp de Hammelburg sur une carte postale ancienne">
             </a>
             <figcaption>Le camp de Hammelburg<br/>(Carte postale)</figcaption>
@@ -227,8 +227,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

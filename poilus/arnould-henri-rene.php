@@ -4,12 +4,12 @@
 
 <meta charset="utf-8">
           
-<title>Histoires de Poilus - Liste de quelques poilus de la Marne</title>
-<meta content="Petites biographies de soldats de ma famille ayant participé à la Première Guerre Mondiale et ayant vécu dans la Marne" name="description">
+<title>Biographie et parcours du soldat Henri René ARNOULD - Histoires de Poilus</title>
+<meta content="Parcours et biographie du poilu Henri René ARNOULD, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
    
 </head>   
 
@@ -93,12 +93,18 @@
 
 <h1>Henri René ARNOULD</h1>
 
-<p><strong>Henri René ARNOULD</strong>    ...</p>
+<p>Henri René ARNOULD est né à Bétheniville le 4 avril 1884, fils légitime de Louis Albert et Amélia Julia STÖSSEL. Lors de la mobilisation générale, Henri abandonne son métier de garçon coiffeur et rejoint le 106e Régiment d'Infanterie. Il est déclaré "tué à l'ennemi" par des éclats multiples à la tête le 22 mai 1916 au Mont-Homme, dans la Meuse.</p>
 
 	<figure>
-	    <a href="images/mont-homme.jpg" id="single_image" title="Les ascendants d'Ernest Auguste BALTAZART">
-	    <img src="miniatures/mont-homme.jpg" alt="Extrait de l'arbre généalogique d'Ernest Auguste BALTAZART" style="box-shadow:none"></a>
-	    <figcaption>Les ascendants d'Ernest Auguste BALTAZART<br />(cliquez pour agrandir)</figcaption>
+	    <a href="images/mont-homme.jpg" data-fancybox="gallery" title=" ">
+	    <img src="miniatures/mont-homme.jpg" alt=" "></a>
+	    <figcaption> </figcaption>
+	</figure> 
+	
+	<figure>
+	    <a href="sources/arnould-henri-rene.jpg" data-fancybox="gallery" title="Henri René ARNOULD, mort pour la France">
+	    <img src="miniatures/arnould-henri-rene.jpg" alt="Fiche de mort pour la France de Henri René ARNOULD"></a>
+	    <figcaption>Henri, mort pour la France.<br />(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
 	</figure> 
 
 <p class="sources">
@@ -121,8 +127,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

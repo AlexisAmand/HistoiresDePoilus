@@ -9,7 +9,7 @@
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                   
 </head>
 
@@ -81,7 +81,7 @@
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="GRAIN-Leon-Albert.php" class="AsideSelected">GRAIN Léon Albert</a></li>
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-        <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
         <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
@@ -118,13 +118,13 @@
 <p>Frère de <a href="GRAIN-Louis.php" title="voir la page consacrée à Louis Grain">Louis</a>, <strong>Léon Albert GRAIN</strong> est né le vendredi 26 décembre 1879 à Villers-Guislain (Nord). Il est le fils légitime de Louis GRAIN, domestique âgé de 19 ans et Joséphine VELU, âgé de 17 ans. En 1906, Léon est tisseur et vit Rue du Catelet à Villers-Guislain en compagnie de son épouse Angèle BERCHON et de leur fille Lucie.</p>
 
 	<figure>
-	    <a href="images/arbre-grain.png" id="single_image" title="Arbre généalogique simplifié de la famille GRAIN">
+	    <a href="images/arbre-grain.png" data-fancybox="gallery" title="Arbre généalogique simplifié de la famille GRAIN">
 	    <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" style="box-shadow:none;width:650px;"/></a>
 	    <figcaption>Arbre simplifié de la famille GRAIN<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 	
 	<figure>
-	    <a href="sources/Leon-grain-matricule-02.jpg" id="single_image" title="Extrait de la fiche matricule de Léon Albert GRAIN">
+	    <a href="sources/Leon-grain-matricule-02.jpg" data-fancybox="gallery" title="Extrait de la fiche matricule de Léon Albert GRAIN">
 	    <img src="miniatures/Leon-grain-matricule-02.jpg" alt="extrait de la fiche matricule de Léon Albert GRAIN"/></a>
 	    <figcaption>Extrait de sa fiche matricule.<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -162,7 +162,7 @@
 <p><strong>Léon</strong> est rappelé à l’activité par le décret de Mobilisation Générale du 1er août 1914. Il est intégré à la 7e compagnie du <strong>3e Régiment d'Infanterie Territoriale</strong>.  En 1914, Les régiments d’infanterie territoriale (R.I.T), sont essentiellement constitués de citoyens anciens nés entre 1875 et 1880. Ils sont surtout assignés à des missions plus statiques, moins exposées: gares, nœuds ferroviaires, ponts, entrepôts, places fortes, etc. Léon cantonne à Hautmont avec les hommes de sa compagnie sous les ordres du Capitaine LITTOYE. </p>
 
 	<figure>
-	    <a href="sources/Leon-grain-matricule-01.jpg" id="single_image" title="La fiche matricule de Léon Albert (Extrait)">
+	    <a href="sources/Leon-grain-matricule-01.jpg" data-fancybox="gallery" title="La fiche matricule de Léon Albert (Extrait)">
 	    <img src="miniatures/Leon-grain-matricule-01.jpg" alt="extrait de la fiche matricule de Léon Albert GRAIN"/></a>
 	    <figcaption>Extrait de sa fiche matricule.<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -172,7 +172,7 @@
 <p>Le 2 septembre 1914, le bombardement continu  sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance.</p>
 
 	<figure>
-	    <a href="images/forts-maubeuge.jpg" id="single_image" title="L'emplacement des forts de la place forte de Maubeuge en 1914">
+	    <a href="images/forts-maubeuge.jpg" data-fancybox="gallery" title="L'emplacement des forts de la place forte de Maubeuge en 1914">
 	    <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
 	    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
 	</figure>
@@ -182,7 +182,7 @@
 <p>Le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e d'infanterie, des 31e  et 32e  colonial, des 1er, 2e, 3e (celui de <strong>Léon albert GRAIN</strong>) et 4e territorial et enfin celui du 1er régiment d'artillerie à pied. Les drapeaux de la garnison sont brûlés le lendemain dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
 
 	<figure>
-	    <a href="images/Maubeuge-caserne-joyeuse.jpg" id="single_image" title="La Caserne Joyeuse (Maubeuge) avant 1914">
+	    <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" title="La Caserne Joyeuse (Maubeuge) avant 1914">
 	    <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg" alt="La caserne Joyeuse à Maubeuge avant la Première Guerre Mondiale"/></a>
 	    <figcaption>La Caserne Joyeuse à Maubeuge<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -192,7 +192,7 @@
 <p><strong>Léon Albert</strong> est fait prisonnier le 8 septembre à 1914 à Maubeuge et envoyé à Chemnitz, un <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de prisonniers de Chemnitz</a>  situé en Saxe, entre Dresde et Zwickau, au Sud-est de Leipzig. Pour rappel, 46000 soldats français ont été fait prisonniers à la suite de la chute de la ville Maubeuge.</p>
 
 	<figure>
-	    <a href="images/camp-de-chemnitz.jpg" id="single_image" title="Le camp de Chemnitz pendant la Grande Guerre">
+	    <a href="images/camp-de-chemnitz.jpg" data-fancybox="gallery" title="Le camp de Chemnitz pendant la Grande Guerre">
 	    <img src="miniatures/camp-de-chemnitz.jpg" alt="Le camp de prisonniers de Chemnitz sur une carte postale"/></a>
 	    <figcaption>Le camp de Chemnitz<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -232,8 +232,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

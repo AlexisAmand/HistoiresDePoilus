@@ -108,26 +108,26 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p>
 
 <figure>
-    <img src="miniatures/Gardelegen/carte-camp-gardelegen.jpg" id="single_image" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Gardelegen">
+    <img src="miniatures/Gardelegen/carte-camp-gardelegen.jpg" data-fancybox="gallery" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Gardelegen">
     <figcaption>Localisation du camp de Gardelegen<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure> 
 
 <p>Les prisonniers avaient installé à Gardelegen un petit théâtre où les Français, les Anglais et les Belges donnaient de représentations. Il était également possible d’y donner des représentations cinématographiques.</p>
 
 <figure>
-    <a href="images/camps_prisonniers_gardelegen.jpg" id="single_image" title="La cantine du camp de Gardelegen">
+    <a href="images/camps_prisonniers_gardelegen.jpg" data-fancybox="gallery" title="La cantine du camp de Gardelegen">
     <img src="miniatures/camps_prisonniers_gardelegen.jpg" alt="la cantine du camp de prisonniers de Gardelegen pendant la Grande Guerre"></a>
     <figcaption>La cantine à Gardelegen<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/camps_prisonniers_gardelegen_01.jpg" id="single_image" title="Le Lazaret de Gardelegen">
+    <a href="images/camps_prisonniers_gardelegen_01.jpg" data-fancybox="gallery" title="Le Lazaret de Gardelegen">
     <img src="miniatures/camps_prisonniers_gardelegen_01.jpg" alt="le lazaret du camp de prisonniers de Gardelegen pendant la Première Guerre Mondiale"></a>
     <figcaption>Le lazaret de Gardelegen<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/monument-gardelegen.jpg" id="single_image" title="Le camp de Gardelegen">
+    <a href="images/monument-gardelegen.jpg" data-fancybox="gallery" title="Le camp de Gardelegen">
     <img src="miniatures/monument-gardelegen.jpg" alt="le monument aux prisonniers morts en captivité dans le camp de Gardelegen pendant la Première Guerre Mondiale"></a>
     <figcaption>Le monument à la mémoire des prisonniers morts en captivité<br />(Carte postale)</figcaption>
 </figure>
@@ -154,8 +154,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

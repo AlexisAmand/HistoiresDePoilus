@@ -4,12 +4,12 @@
 
 <meta charset="utf-8">
           
-<title>Histoires de Poilus - Liste de quelques poilus du Nord</title>
-<meta content="Petites biographies de soldats de ma famille ayant participé à la Première Guerre Mondiale et ayant vécu dans le Nord" name="description">
+<title>Biographie et parcours du soldat Raphaël Joseph BOTTIAU - Histoires de Poilus</title>
+<meta content="Parcours et biographie du poilu Raphaël Joseph BOTTIAU, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
    
 </head>   
 
@@ -82,7 +82,7 @@
     <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
     <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
     <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
-    <li><a href="hanze-augustin.php">HANZE Augustin</a></li>
+    <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
     <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
     <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
     <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
@@ -119,7 +119,7 @@
 <p><strong>Raphaël Joseph BOTTIAU</strong> est né le 26 janvier 1880 à Quarouble, fils légitime de Antoine Joseph BOTTIAU et de Léopoldine Augustine JOLY (elle même fille de mon sosa n°80 et de sa 2e épouse). Il arrive au 15e Régiment d'Artillerie de Campagne le 11 août 1914. Libéré provisoirement le 19 août 1914, il est fait prisonnier le 24 août à Quarouble et interné derrière les lignes. Raphaël est envoyé en congés illimité le 12 février 1919 par le dépôt démobilisateur du 15e Régiment d'Artillerie et se retire à Quarouble, où il décède le 19 mars 1926 à son domicile de la Rue du Moulin.</p>
 	
     <figure>
-        <a href="images/Bottiau-Raphael-1926.jpg" id="single_image" title="Acte de décès de Raphaël BOTTIAU">
+        <a href="images/Bottiau-Raphael-1926.jpg" data-fancybox="gallery" title="Acte de décès de Raphaël BOTTIAU">
         <img src="miniatures/Bottiau-Raphael-1926.jpg" alt="Acte de décès de Raphaël BOTTIAU issu des AD du Nord"/></a>
         <figcaption>Acte de décès de Raphaël BOTTIAU<br>(Source: Archives Départementales du Nord)</figcaption>
     </figure>
@@ -185,8 +185,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

@@ -54,35 +54,40 @@
 
 <aside style="border-top:10px solid #FFFFFF;">
 	<ul>
-        <li><a href="../BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-    	<li><a href="../BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
+	
+	    <li class="asideheader">Nord</li>
+
+        <li><a href="../bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
+		<li><a href="../boucher-gervais.php">BOUCHER Gervais</a></li>
+		<li><a href="../boursier-edmond.php">BOURSIER Edmond</a></li>
+        <li><a href="../BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="../CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="../CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="../CARIN-Theophile.php">CARIN Théophile</a></li>
-
         <li><a href="../CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="../CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="../DUBOIS-Emile-Edmond.php" class="AsideSelected">DUBOIS Émile Edmond (+)</a></li>
+        <li><a href="../delaux-oscar-julien.php">DELAUX Oscar Julien</a></li>
+        <li><a href="../DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
+        <li><a href="../dubois-jean-charles.php" class="AsideSelected">DUBOIS Jean Charles (+)</a></li>
         <li><a href="../FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="../FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
-
         <li><a href="../FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
-        <li><a href="../FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
         <li><a href="../GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="../GRAIN-Louis.php">GRAIN Louis</a></li>
-        <li><a href="../hanze-augustin.php">HANZE Augustin</a></li>
-
+        <li><a href="../hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="../JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
+        <li><a href="../lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="../lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="../LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
-        <li><a href="../MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
-        <li><a href="../MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
+        <li><a href="../magny-jules.php">MAGNY Jules</a></li>
+        <li><a href="../mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="../mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="../patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="../pelez-alfred.php">PELEZ Alfred</a></li>
+        <li><a href="../rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="../ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
-        
         <li><a href="../VELU-Adrien.php">VELU Adrien (+)</a></li>
-        <li><a href="../soldats-ardennes.php">Les soldats des Ardennes</a></li>
-        <li><a href="../soldats-marne.php">Autres poilus de la Marne</a></li>
-        <li><a href="../autres.php">Autres poilus du Nord</a></li>
-        <li><a href="../soldats-belgique.php">Les soldats de Belgique</a></li>
+	
    </ul>
 
    <div id="pubaside">
@@ -103,13 +108,12 @@
 
 <h2>FIEVET Auguste Victor</h2>
 
-<p>
-Extrait du dossier d'ancien combattant d'Auguste Victor FIEVET.<br />
+<p>Extrait du dossier d'ancien combattant d'Auguste Victor FIEVET.<br />
 <a href="../FIEVET-Auguste-Victor.php">Retour à la page consacrée à Auguste Victor</a>. </p>
 
-<figure>
-    <img src="dossier-ancien-combattant.jpg" alt="Dossier d'ancien combattant d'Auguste Victor FIEVET"/> 
-</figure>
+	<figure>
+	    <img src="dossier-ancien-combattant.jpg" alt="Dossier d'ancien combattant d'Auguste Victor FIEVET"/> 
+	</figure>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
@@ -129,8 +133,8 @@ Extrait du dossier d'ancien combattant d'Auguste Victor FIEVET.<br />
 
 <?php include('../../include/stats.inc'); ?> 
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>   
-<script type="text/javascript" src="../../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>  
+<script type="text/javascript" src="../../js/jquery.fancybox.min.js"></script>
 <script type="text/javascript" src="../../js/diapo.js"></script>
 
 <!-- javascript -->

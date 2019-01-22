@@ -146,7 +146,7 @@
 <p></p>
 
 <figure>
-    <a href="images/monument-wargnies.jpg" id="single_image" title="Le Monument aux Morts de Wargnies-le-Grand">
+    <a href="images/monument-wargnies.jpg" data-fancybox="gallery" title="Le Monument aux Morts de Wargnies-le-Grand">
     <img src="images/mini/monument-wargnies.jpg" alt="le Monument aux Morts de Wargnies-le-Grand sur une carte postale ancienne"/></a>
     <figcaption>Le Monument aux Morts et la Montée Paulus.<br />(cliquez pour agrandir)</figcaption>
 </figure>
@@ -378,8 +378,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

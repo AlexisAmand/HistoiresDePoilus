@@ -370,7 +370,7 @@
     <td>Maladie</td>
   </tr>
   <tr>
-    <td><a href="autres.php#dubois">DUBOIS<br />Jean Charles</a></td>
+    <td><a href="../poilus/dubois-jean-charles.php">DUBOIS<br />Jean Charles</a></td>
     <td>Le 8 février 1893<br />à Villers-Guislain (Nord)</td>
     <td>Le 18 octobre 1914<br />à Verdun (Meuse)</td>
     <td>1913</td>
@@ -466,7 +466,7 @@
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td><a href="../poilus/autres.php#lamandin">LAMANDIN<br />Georges</a></td>
+    <td><a href="../poilus/lamandin-georges.php">LAMANDIN<br />Georges</a></td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -495,8 +495,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

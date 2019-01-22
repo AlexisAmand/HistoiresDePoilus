@@ -108,7 +108,7 @@
 <h1>Le camp de prisonniers de Mannheim</h1>
 
 <figure>    
-	<a href="images/Mannheim/localisation-mannheim.jpg" id="single_image" title="Localisation du camp de Mannheim">
+	<a href="images/Mannheim/localisation-mannheim.jpg" data-fancybox="gallery" title="Localisation du camp de Mannheim">
     <img src="miniatures/Mannheim/localisation-mannheim.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Mannheim"></a>
     <figcaption>Localisation du camp de Mannheim<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure> 
@@ -135,8 +135,8 @@
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {

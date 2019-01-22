@@ -118,7 +118,7 @@ span.MsoFootnoteReference
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p>Le camp de Munster était situé en Allemagne, dans la province de Westphalie (aujourd'hui dans le land de Rhénanie-du-Nord-Westphalie) à quelques kilomètres de la frontière avec les Pays-Bas. En 1914, le commandant du dépôt de prisonniers de Munster est le Général en chef Freither VON BISSING, général de cavalerie.</p>
 
 <figure>    
-	<a href="images/Munster/localisation-munster.jpg" id="single_image" title="Localisation du camp de Munster">
+	<a href="images/Munster/localisation-munster.jpg" data-fancybox="gallery" title="Localisation du camp de Munster">
     <img src="miniatures/Munster/localisation-munster.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Munster"></a>
     <figcaption>Localisation du camp de Munster<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure> 
@@ -126,20 +126,20 @@ span.MsoFootnoteReference
  <p>Charles PETIT, membre du 1er Régiment d'Artillerie, a été fait prisonnier à Maubeuge le 7 septembre 1914, et envoyé au camp de Munster. Le 25 juillet 1916, il est évacué vers la Suisse pour tuberculose pulmonaire. Dans un rapport, il raconte que <em>"pendant les premières six semaines, il n'y avait aucune installation pour loger les hommes, ni tentes, ni baraquements. Le nombre des prisonniers était de 24000; pour se mettre à l'abri, ils creusaient des trous dans la terre, en les couvrant tant bien que mal de mottes de gazon. Il n'y avait aucune installation de cuisine au début. La mortalité des prisonniers, à ce moment, était considérable. Les installations de baraquements n'ont été achevées que vers la fin de janvier 1915".</em></p>
 
 <figure>
-    <a href="images/friedrichsfeld-chapelle.jpg" id="single_image" title="Camp de Friedrichsfeld: La chapelle">
+    <a href="images/friedrichsfeld-chapelle.jpg" data-fancybox="gallery" title="Camp de Friedrichsfeld: La chapelle">
     <img src="miniatures/friedrichsfeld-chapelle.jpg" alt="une chapelle dans le camp de prisonniers de Friedrichsfeld">
     </a>
     <figcaption>Une chapelle dans un camp de prisonniers<br />(Peut-être Munster)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/munster-01.jpg" id="single_image" title="Prisonniers occupés à fendre du bois au Camp de Münster">
+    <a href="images/munster-01.jpg" data-fancybox="gallery" title="Prisonniers occupés à fendre du bois au Camp de Münster">
     <img src="miniatures/munster-01.jpg" alt="Prisonniers occupés à fendre du bois dans le camp de Münster pendant la Première Guerre Mondiale"></a>
     <figcaption>Prisonniers occupés à fendre du bois<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/munster-06.jpg" id="single_image" title="La chapelle catholique à Münster">
+    <a href="images/munster-06.jpg" data-fancybox="gallery" title="La chapelle catholique à Münster">
     <img src="miniatures/munster-06.jpg" alt="La chapelle catholique du camp de Münster pendant la Grande Guerre (1914-1918)"></a>
     <figcaption>La chapelle catholique<br />(source allemande)</figcaption>
 </figure>
@@ -193,43 +193,43 @@ span.MsoFootnoteReference
 <p>Dans la nuit du 8 au 9 octobre 1917, le Block II du camp I de Munster  est incendié. Les prisonniers qui y avaient été relégués sont alors envoyés soit au camp de Senne, soit au camp II de Münster où le block III leur est attribué.</p>
 
 <figure>
-    <a href="images/Munster/munster_01.jpg" id="single_image" title="Le cimetière des prisonniers à Münster">
+    <a href="images/Munster/munster_01.jpg" data-fancybox="gallery" title="Le cimetière des prisonniers à Münster">
     <img src="miniatures/Munster/munster_01.jpg" alt="Le cimetière des prisonniers du camp de prisonniers de Münster"></a>
     <figcaption>Vue du cimetière des prisonniers "Hausspital-Friedhof"<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/munster-04.jpg" id="single_image" title="Vue de l'hôpital de Münster I">
+    <a href="images/munster-04.jpg" data-fancybox="gallery" title="Vue de l'hôpital de Münster I">
     <img src="miniatures/munster-04.jpg" alt="Une vue de l'hôpital du camp de Münster I pendant la Première Guerre Mondiale"></a>
     <figcaption>Une vue de l'hôpital<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/munster-05.jpg" id="single_image" title="La cour de l'hôpital de Münster I">
+    <a href="images/munster-05.jpg" data-fancybox="gallery" title="La cour de l'hôpital de Münster I">
     <img src="miniatures/munster-05.jpg" alt="La cour de l'hôpital du camp de Münster I pendant la Grande Guerre"></a>
     <figcaption>La cour de l'hôpital<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Munster/munster_02.jpg" id="single_image" title="Le block n°1 de Münster I">
+    <a href="images/Munster/munster_02.jpg" data-fancybox="gallery" title="Le block n°1 de Münster I">
     <img src="miniatures/Munster/munster_02.jpg" alt="Vue du block n°1 au camp de Munster I pendant la Première Guerre Mondiale"></a>
     <figcaption>Vue du block n°1<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Munster/munster_03.jpg" id="single_image" title="Le block n°2 de Münster I">
+    <a href="images/Munster/munster_03.jpg" data-fancybox="gallery" title="Le block n°2 de Münster I">
     <img src="miniatures/Munster/munster_03.jpg" alt="Vue du block n°2 au camp de Munster I pendant la Première Guerre Mondiale"></a>
     <figcaption>Vue du block n°2<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Munster/munster_04.jpg" id="single_image" title="Le block n°3 de Münster I">
+    <a href="images/Munster/munster_04.jpg" data-fancybox="gallery" title="Le block n°3 de Münster I">
     <img src="miniatures/Munster/munster_04.jpg" alt="Vue du block n°3 au camp de Munster I pendant la Grande Guerre"></a>
     <figcaption>Vue du block n°3<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Munster/munster_05.jpg" id="single_image" title="Le block n°4 de Münster I">
+    <a href="images/Munster/munster_05.jpg" data-fancybox="gallery" title="Le block n°4 de Münster I">
     <img src="miniatures/Munster/munster_05.jpg" alt="Vue du block n°4 au camp de Munster I pendant la Première Guerre Mondiale"></a>
     <figcaption>Vue du block n°4<br />(Carte postale)</figcaption>
 </figure>
@@ -275,19 +275,19 @@ span.MsoFootnoteReference
 </table>
 
 <figure>
-    <a href="images/munster-02.jpg" id="single_image" title="Représentation théâtrale à Münster II">
+    <a href="images/munster-02.jpg" data-fancybox="gallery" title="Représentation théâtrale à Münster II">
     <img src="miniatures/munster-02.jpg" alt="une représentation théâtrale au camp de Münster II"></a>
     <figcaption>Une représentation théâtrale<br />(source allemande)</figcaption> 
 </figure>
 
 <figure>
-    <a href="images/munster-sabot.jpg" id="single_image" title="La fabrication de sabot par les prisonniers à Münster II">
+    <a href="images/munster-sabot.jpg" data-fancybox="gallery" title="La fabrication de sabot par les prisonniers à Münster II">
     <img src="miniatures/munster-sabot.jpg" alt="la fabrication de sabot par des prisonniers dans le camp de Münster II"></a>
     <figcaption>Fabrication de sabot par les prisonniers</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Munster/harmonie-rennbhan.jpg" id="single_image" title="L'harmonie du camp de Rennbahn">
+    <a href="images/Munster/harmonie-rennbhan.jpg" data-fancybox="gallery" title="L'harmonie du camp de Rennbahn">
     <img src="miniatures/Munster/harmonie-rennbhan.jpg" alt="l'harmonie du camp de prisonniers de Rennbahn"></a>
     <figcaption>L'harmonie du camp de Rennbahn<br />(Carte postale)</figcaption>
 </figure>
@@ -297,19 +297,19 @@ span.MsoFootnoteReference
 <p>En février 1918, sur 17800 prisonniers qui dépendaient du camp III de Munster, seulement 1578 se trouvaient effectivement dans le camp. Le camp n°3 était installé dans des casernes d'infanterie non terminées et situées dans les faubourgs exterieurs de la vilel de Munster.</p>
 
 <figure>
-    <a href="images/camps_prisonniers_munster_01.jpg" id="single_image" title="Le retour des corvées à Münster III">
+    <a href="images/camps_prisonniers_munster_01.jpg" data-fancybox="gallery" title="Le retour des corvées à Münster III">
     <img src="miniatures/camps_prisonniers_munster_01.jpg" alt="Des soldats de retour des corvées au camp de Münster III"></a>
     <figcaption>Le retour des corvées<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/camps_prisonniers_munster_02.jpg" id="single_image" title="Vue sur le block n°4 à Münster III">
+    <a href="images/camps_prisonniers_munster_02.jpg" data-fancybox="gallery" title="Vue sur le block n°4 à Münster III">
     <img src="miniatures/camps_prisonniers_munster_02.jpg" alt="Vue sur un block du camp de prisonniers de Münster"></a>
     <figcaption>Vue sur le block n°4<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/camps_prisonniers_munster_03.jpg" id="single_image" title="Vue sur le block n°3 à Münster III">
+    <a href="images/camps_prisonniers_munster_03.jpg" data-fancybox="gallery" title="Vue sur le block n°3 à Münster III">
     <img src="miniatures/camps_prisonniers_munster_03.jpg" alt="Vue sur un block du camp de prisonniers de Münster"></a>
     <figcaption>Déménagement au block n°3<br />(Carte postale)</figcaption>
 </figure>
@@ -347,8 +347,8 @@ span.MsoFootnoteReference
 
 <!-- javascript -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>    
-<script type="text/javascript" src="../js/jquery.fancybox-1.3.4.pack.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
 <script type="text/javascript">  
   $(document).ready(function() {
