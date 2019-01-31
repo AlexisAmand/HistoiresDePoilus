@@ -8,10 +8,13 @@
 <meta content="Parcours et biographie du poilu Gervais BOUCHER, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-   
-</head>   
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
 
@@ -25,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -66,7 +65,7 @@
         <li class="asideheader">Nord</li>
 
         <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
-		<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
+		<li><a href="boucher-gervais.php" class="AsideSelected">BOUCHER Gervais</a></li>
 		<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
@@ -90,11 +89,12 @@
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
         <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
-        <li><a href="VELU-Adrien.php" class="AsideSelected">VELU Adrien (+)</a></li>
+        <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
            	      
 </ul>
    
@@ -116,10 +116,18 @@
     
 <h1>Gervais BOUCHER</h1>
 
-<p><strong>Gervais BOUCHER</strong> est né le 31 mai 1880 à Onnaing (Nord) à quelques kilométres de Valenciennes. Fils légitime de Pierre Joseph et Anne Marie Lucette DELHAYE, il commence sa cariière militaire à l'âge de 20 ans quand il s'engage en tant que volontaire pour 3 ans le 17 octobre 1900 à la Mairie de Valenciennes. Au passage, je voudrais vous rappeler qu'il existait 3 sortes d'engagés volontaires: les engagés volontaires pour une durée de 3 à 5 ans, ceux engagés pour la durée de la guerre et qui étaient reçus à partir du 20e jour de la mobilisation, et enfin les engagements spéciaux des examptés, réformés et des hommes âgés.</p>
+<p><strong>Gervais BOUCHER</strong> est né le 31 mai 1880 à Onnaing (Nord) à quelques kilométres de Valenciennes.</p>
 
     <figure>
-        <a href="images/mairie-valenciennes.jpg" data-fancybox="gallery" title="La Place d'Armes de Valenciennes">
+        <a href="sources/boucher-naissance-1880.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Gervais BOUCHER">
+        <img src="miniatures/boucher-naissance-1880.jpg" alt="Acte de naissance de Gervais BOUCHER trouvé sur le site des archives du Nord"/></a>
+        <figcaption>Acte de décès de Gervais BOUCHER<br />(Source: Archives Départementales du Nord)</figcaption>
+    </figure>
+
+<p>Fils légitime de Pierre Joseph et Anne Marie Lucette DELHAYE, il commence sa cariière militaire à l'âge de 20 ans quand il s'engage en tant que volontaire pour 3 ans le 17 octobre 1900 à la Mairie de Valenciennes. Au passage, je voudrais vous rappeler qu'il existait 3 sortes d'engagés volontaires: les engagés volontaires pour une durée de 3 à 5 ans, ceux engagés pour la durée de la guerre et qui étaient reçus à partir du 20e jour de la mobilisation, et enfin les engagements spéciaux des examptés, réformés et des hommes âgés.</p>
+
+    <figure>
+        <a href="images/mairie-valenciennes.jpg" data-fancybox="gallery" data-caption="La Place d'Armes de Valenciennes">
         <img src="miniatures/mairie-valenciennes.jpg" alt="L'Hôtel de Ville de Valenciennes et la Place d'Armes"/></a>
         <figcaption>La Place d'Armes de Valenciennes,<br />avec vue sur l'Hôtel de Ville<br>(Source: Delcampe)</figcaption>
     </figure>
@@ -127,7 +135,7 @@
 <p>Il rejoint alors la 1ere compagnie d'ouvrier d'artillerie où il arrive le lendemain et est immatriculé sous le n°677. Durant son engagement, il suit une formation et devient ouvrier en bois. Son engagement terminé, il part vivre à Calais (62) avec le certificat de bonne conduite accordé. Le 5 Juin 1905, Gervais épouse à Onnaing Marie Céline MASCART, une descendante d'Antoine MASCART (1721-1797) et Michelle BRACONNIER (1684-1727), mes sosas n°644 et 645. Dix ans plus tard, quand la guerre éclate, il est rappelé à l'activité par le décret de mobilisation générale du 1er août 1914 et rejoint le 1er R.A.P Il est fait prisonnier à Maubeuge le 7 septembre 1914 et est envoyé en internement à <a href="../camps/camp-munster.php" title="Le camp de prisonniers de Munster">Munster III</a> d'où il sera rappatrié le 8 décembre 1918. Il est envoyé en congés illimité le 17 février 1919 aprés une permission de 60 jours. Gervais est décédé à son domicile situé <a href="http://cartespostalesanciennes.genealexis.fr/image/421-valenciennes-le-depart-du-tramway-rue-de-mons" title="Le départ du Tramway, rue de Mons, à Valenciennes">Rue de Mons à Valenciennes</a>, le 27 décembre 1964.</p>
     
     <figure>
-        <a href="../camps/images/camps_prisonniers_munster_01.jpg" data-fancybox="gallery" title="Le retour des corvées à Münster III">
+        <a href="../camps/images/camps_prisonniers_munster_01.jpg" data-fancybox="gallery" data-caption="Le retour des corvées à Münster III">
         <img src="../camps/miniatures/camps_prisonniers_munster_01.jpg" alt="Des soldats de retour des corvées au camp de Münster III"></a>
         <figcaption>Le retour des corvées à Munster III<br />(Carte postale)</figcaption>
     </figure>
@@ -154,12 +162,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
+<script type="text/javascript" src="../js/script.js"></script>
 
 </body>
 </html>

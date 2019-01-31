@@ -8,10 +8,14 @@
 <meta content="Parcours et biographie du poilu Jean Charles DUBOIS, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-   
-</head>   
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
+ 
 
 <body>
 
@@ -25,15 +29,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -90,6 +90,7 @@
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
         <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -119,7 +120,7 @@
 <p><strong>Jean Charles DUBOIS</strong> est né le 8 février 1893 à Villers-Guislain (Nord), il est le frère d'<a href="DUBOIS-Emile-Edmond.php" title="Biographie d'Emile Edmond DUBOIS">Emile Edmond</a>. Inscrit sous le n°99 de la liste du canton de Marcoing, il est incorporé au 164e Régiment d'Infanterie le 27 novembre 1913 où il arrive le dit jour. Il est décédé d'une maladie contractée en service le 18 octobre 1914 à l'hôpital temporaire n°8 de Verdun (dans la Meuse). Son nom figure sur le Monument aux morts et dans le livre d'or de Villers-Guislain.</p>
 
 	<figure>
-	    <a href="sources/dubois-jean-charles.jpg" data-fancybox="gallery" title="Jean Charles DUBOIS, mort pour la France">
+	    <a href="sources/dubois-jean-charles.jpg" data-fancybox="gallery" data-caption="Jean Charles DUBOIS, mort pour la France">
 	    <img src="miniatures/dubois-jean-charles.jpg" alt="Fiche de mort pour la France de Jean Charles DUBOIS"/></a>
 	    <figcaption>Jean Charles, mort pour la France.<br />(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
     </figure>
@@ -154,12 +155,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>

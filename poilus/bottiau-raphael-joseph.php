@@ -8,10 +8,13 @@
 <meta content="Parcours et biographie du poilu Raphaël Joseph BOTTIAU, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-   
-</head>   
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head> 
 
 <body>
 
@@ -25,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -90,6 +89,7 @@
     <li><a href="magny-jules.php">MAGNY Jules</a></li>
     <li><a href="mascart-emile.php">MASCART Emile</a></li>
     <li><a href="mascart-leon.php">MASCART Léon</a></li>
+    <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
     <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
     <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
     <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -119,12 +119,12 @@
 <p><strong>Raphaël Joseph BOTTIAU</strong> est né le 26 janvier 1880 à Quarouble, fils légitime de Antoine Joseph BOTTIAU et de Léopoldine Augustine JOLY (elle même fille de mon sosa n°80 et de sa 2e épouse). Il arrive au 15e Régiment d'Artillerie de Campagne le 11 août 1914. Libéré provisoirement le 19 août 1914, il est fait prisonnier le 24 août à Quarouble et interné derrière les lignes. Raphaël est envoyé en congés illimité le 12 février 1919 par le dépôt démobilisateur du 15e Régiment d'Artillerie et se retire à Quarouble, où il décède le 19 mars 1926 à son domicile de la Rue du Moulin.</p>
 	
     <figure>
-        <a href="images/Bottiau-Raphael-1926.jpg" data-fancybox="gallery" title="Acte de décès de Raphaël BOTTIAU">
+        <a href="images/Bottiau-Raphael-1926.jpg" data-fancybox="gallery" data-caption="Acte de décès de Raphaël BOTTIAU">
         <img src="miniatures/Bottiau-Raphael-1926.jpg" alt="Acte de décès de Raphaël BOTTIAU issu des AD du Nord"/></a>
         <figcaption>Acte de décès de Raphaël BOTTIAU<br>(Source: Archives Départementales du Nord)</figcaption>
     </figure>
     
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Aprés avoir épousé en prenières noces Eugénie BRUNEAUX, Raphaël s'était unit en secondes noces à Dhany BOUTEILLE (1880-1927), mnagère et fille légitime de Nicolas BOUTEILLE et de le Françoise MOLTEL, le 19 juillet 1924 à Quarouble (Nord).</p>
     
     <table style="width:70%;caption-side: bottom;">
         <caption>Liste des domiciles de Raphaël Joseph BOTTIAU</caption>
@@ -185,14 +185,8 @@
 
 <!-- javascript -->
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+<script type="text/javascript" src="../js/script.js"></script>
 </body>
 </html>

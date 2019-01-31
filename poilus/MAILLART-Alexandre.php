@@ -9,10 +9,13 @@
 <meta content="Parcours de Alexandre Ernest MAILLART, soldat pendant la Première Guerre Mondiale et membre de la 6e Section de Chemin de Fer de Campagne" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-         
-</head>   
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
 
@@ -26,15 +29,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -66,7 +65,7 @@
 
 	<li class="asideheader">Marne</li>
         
-    <li><a href="arnould-henri-rene.php">ARNOULD Henri René</a></li>
+    <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
     <li><a href="astiers-jules-alphonse.php">ASTIERS Jules Alphonse</a></li>       
     <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
     <li><a href="caron-eugene-alexandre.php">CARON Eugéne Alexandre</a></li>
@@ -97,13 +96,13 @@
 <p><strong>Alexandre Ernest MAILLART </strong>est né le 24 juillet 1874 à <a href="../releves/betheniville.php">Bétheniville</a>, fils d’Achille Onésiphore et Julie Adèle BALTAZART, elle-même fille de Jean-Baptiste et Julie Joséphine KRAUTH (mes sosas n°116 et n°117).&nbsp; Alexandre est le cousin d'<a href="BALTAZART-Ernest-Auguste.php">Ernest Auguste BALTAZART</a>.</p>
 
 	<figure>
-	    <a href="images/arbre-maillart.png" data-fancybox="gallery" title="Arbre simplifié de la famille MAILLART-BALTAZART">
-	    <img src="miniatures/arbre-maillart.png" alt="Arbre généalogique simplifié de la famille MAILLART-BALTAZART" style="box-shadow:none;width:650px;"/></a>
+	    <a href="images/arbre-maillart.png" data-fancybox="gallery" data-caption="Arbre simplifié de la famille MAILLART-BALTAZART">
+	    <img src="miniatures/arbre-maillart.png" alt="Arbre généalogique simplifié de la famille MAILLART-BALTAZART" class="ArbreGenealogique"/></a>
 	    <figcaption>Arbre simplifié de la famille MAILLART-BALTAZART<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 	
 	<figure>
-	    <a href="images/matricule-alexandre-maillart.jpg" data-fancybox="gallery" title="Extrait de sa fiche matricule">
+	    <a href="images/matricule-alexandre-maillart.jpg" data-fancybox="gallery" data-caption="Extrait de sa fiche matricule">
 	    <img src="miniatures/matricule-alexandre-maillart.jpg" alt="Extrait de la fiche matricule d'Alexandre MAILLART"/></a>
 	    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -164,13 +163,13 @@
 <p>La gare n'est pas indiquée sur le JO.</p>
 
 	<figure>
-	    <a href="images/bethenville-place-munet-02.jpg" data-fancybox="gallery" title="La Place du Munet avant la Grande Guerre">
+	    <a href="images/bethenville-place-munet-02.jpg" data-fancybox="gallery" data-caption="La Place du Munet avant la Grande Guerre">
 	    <img src="miniatures/bethenville-place-munet-02.jpg" alt="La Place du Munet à Bétheniville où a vécu Alexandre MAILLART"/></a>
 	    <figcaption>La Place du Munet avant la Grande Guerre<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 	
 	<figure>
-	    <a href="images/bethenville-place-munet-01.jpg" data-fancybox="gallery" title="La Place du Munet aprés la Grande Guerre">
+	    <a href="images/bethenville-place-munet-01.jpg" data-fancybox="gallery" data-caption="La Place du Munet aprés la Grande Guerre">
 	    <img src="miniatures/bethenville-place-munet-01.jpg" alt="La Place du Munet à Bétheniville où a vécu Alexandre MAILLART"/></a>
 	    <figcaption>La Place du Munet aprés la Grande Guerre<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -203,12 +202,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>

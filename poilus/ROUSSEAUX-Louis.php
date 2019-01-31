@@ -8,10 +8,13 @@
 <meta content="Parcours de Louis Rousseaux, soldat pendant la Première Guerre Mondiale et membre du 4e Bataillon d’Infanterie Légère d’Afrique" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-                  
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
 
@@ -25,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -90,6 +89,7 @@
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
         <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -119,7 +119,7 @@
 <p><strong>Louis Henri ROUSSEAUX</strong> est né le 8 août 1883 à Lille (Nord), rue du marché. Il est le fils légitime d’Achille Léopold ROUSSEAUX, plafonneur, âgé de 20 ans et de Clara Elisa AUGEZ, âgée de 17 ans. Il est né AUGEZ et est reconnu et légitimé par le mariage de ses parents célébré à Lille le 27 décembre 1884. Louis Henri ROUSSEAUX épouse Hélène Adeline CANONNE à Lille le 30 juillet 1907.</p>
 
 	<figure>
-	    <a href="images/rousseau-louis-henri-matricule.jpg" data-fancybox="gallery" title="Fiche matricule de Louis Henri ROUSSEAUX">    
+	    <a href="images/rousseau-louis-henri-matricule.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Louis Henri ROUSSEAUX">    
 	    <img src="miniatures/rousseau-louis-henri-matricule.jpg" alt="Extrait de la fiche matricule du soldat Louis Henri ROUSSEAUX"></a>
 	    <figcaption>Extrait de sa fiche matricule</figcaption>
 	</figure>
@@ -128,9 +128,11 @@
 
 <br />
 
+
+
 	<figure>
-	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" title="Arbre généalogique de Louis Henri ROUSSEAUX">
-	    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX" style="box-shadow:none;width:650px;"></a>
+	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
+	    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX" class="ArbreGenealogique"></a>
 	    <figcaption>Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 
@@ -139,7 +141,7 @@
 <p>En application du décret du 1er août 1914 et du plan XVII, <strong>Louis Henri ROUSSEAUX</strong> est mobilisé et rejoint le <strong>165e Régiment d'Infanterie</strong> auquel il était affecté depuis le 1 avril 1914. En 1914, le 165e est un régiment affecté à la défense de la « forteresse » de Verdun, notamment les forts de la rive gauche de la Meuse. Le 19 octobre 1914, <strong>Louis</strong> passe au <strong>138e Régiment d'Infanterie</strong>. Ce régiment est surtout célèbre pour avoir reconquis le 24 septembre 1914, après la Victoire de la Marne, le fort de la Pompelle qui était occupé par les Allemands depuis le 4 septembre 1914. <strong>Louis Henri ROUSSEAUX</strong> est blessé le 16 avril 1915 à Fouquescourt, entre Amiens et Saint-Quentin.</p>
 
 	<figure>
-	    <a href="images/Fouquescourt-vers-1915.jpg" data-fancybox="gallery" title="Fouquescourt 1915 par Henri Lucien Cheffer (1915)">
+	    <a href="images/Fouquescourt-vers-1915.jpg" data-fancybox="gallery" data-caption="Fouquescourt 1915 par Henri Lucien Cheffer (1915)">
 	    <img src="miniatures/Fouquescourt-vers-1915.jpg" alt="Fouquescourt peint par Henri Lucien Cheffer vers 1915"></a>
 	    <figcaption>Fouquescourt vers 1915, par Henri Lucien Cheffer</figcaption>
 	</figure>   
@@ -147,9 +149,15 @@
 <p>Le 21 août 1915, <strong>Louis Henri ROUSSEAUX</strong> passe au <strong>12e Bataillon de Chasseurs</strong>, en application du décret ministériel du 14 août 1915. De juillet à octobre 1915, Louis Henri participe, avec son bataillon, aux violents combats du Barrenkopf et Linge dans le Haut-Rhin. Le bataillon y subit tellement de pertes que certaines compagnies sont déclarées anéanties sur le JMO du bataillon. La journée du 1er août voit successivement, trois chef de corps tomber avec leurs hommes. En décembre 1915, il participe aux combats de l'Hartmannswillerkopf, un éperon rocheux dans les Vosges.</p>
 
 <p>Porté disparu à Curlu (Somme) le 20 juillet 1916, son décès est constaté à Hem Monacu, une commune située à quelques kilomètres au nord-ouest de Péronne, le 3 septembre 1916. <strong>Louis Henri ROUSSEAUX</strong> est inhumé au Bois de la Pépinière sous le n°11. Il reçoit la croix de guerre avec étoile d’argent à titre posthume le 15 novembre 1920 pour être « tombé glorieusement » le 20 juillet 1916 lors de l’assaut des lignes de Maurepas (Somme). La Croix de Guerre est une médaille qui a été instituée par la loi du 8 avril 1915. Elle est en bronze florentin, a quatre branches et deux épées croisées.</p>
-    
+        
+    <figure>
+	    <a href="images/rousseau-louis-mpf.jpg" data-fancybox="gallery" data-caption=" ">
+	    <img src="miniatures/rousseau-louis-mpf.jpg" alt=" "></a>
+	    <figcaption>Louis, mort pour la France<br />(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
+	</figure>    
+	
 	<figure>
-	    <a href="" data-fancybox="gallery" title="Le revers de la Croix de Guerre">
+	    <a href="" data-fancybox="gallery" data-caption="Le revers de la Croix de Guerre">
 	    <img src="miniatures/Croix_de_Guerre_1914_revers.jpg" alt="le revers de la croix de guerre de la Première Guerre Mondiale"></a>
 	    <figcaption>Le revers de la Croix de Guerre</figcaption>
 	</figure>         
@@ -182,12 +190,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+<script type="text/javascript" src="../js/script.js"></script>
+ 
 </body>
 </html>

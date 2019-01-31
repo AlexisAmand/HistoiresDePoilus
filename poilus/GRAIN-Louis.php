@@ -8,10 +8,14 @@
 <meta content="Parcours de Louis GRAIN, soldat guislanais pendant la Première Guerre Mondiale. Il était membre du 3e Régiment d'Infanterie Territoriale puis prisonnier de guerre à Chemnitz" name="description">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-                
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
+
    
 <body>
 <!-- code js pour l'avertissement sur les cookies -->
@@ -24,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -89,6 +89,7 @@
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
         <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -118,18 +119,18 @@
 <p><strong>Louis GRAIN</strong>, le père de mon arrière-grand-mère, est né le 21 juin 1876 à Villers-Guislain (Nord). Il est le fils légitime de Louis GRAIN, domestique âgé de 19 ans et Joséphine VELU, âgé de 17 ans. Le 18 mai 1895 à Villers-Guislain, il épouse en premières noces Martine VELU (1875-1935). Son frère <a href="GRAIN-Leon-Albert.php">Léon Albert</a> a aussi été mobilisé. En 1906, <strong>Louis</strong> est tisseur et vit à Villers-Guislain (Rue Neuve) en compagnie de son épouse Martine, ses filles Marguerite et Marthe et son fils Marcel.</p>
 
 	<figure>
-	    <a href="images/arbre-grain.png" data-fancybox="gallery" title="Arbre généalogique simplifié de la famille GRAIN">
-	    <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" style="box-shadow:none;width:650px;"/></a>
+	    <a href="images/arbre-grain.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille GRAIN">
+	    <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" class="ArbreGenealogique"/></a>
 	    <figcaption>Arbre simplifié de la famille GRAIN<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 
 	<figure>
-	    <a href="sources/louis-grain-matricule-01.jpg" data-fancybox="gallery" title="Fiche matricule de Louis GRAIN (Extrait)">
+	    <a href="sources/louis-grain-matricule-01.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Louis GRAIN (Extrait)">
 	    <img src="miniatures/louis-grain-matricule-01.jpg" alt="Extrait de la fiche matricule de Louis GRAIN"/></a>
 	    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 
-	<table style="width:70%;caption-side: bottom;">
+	<table style="width:70%">
 	    <caption>Liste des domiciles de Louis GRAIN</caption>
 	    <thead>
 	        <tr>
@@ -153,7 +154,7 @@
 <p>Durant le mois d’août, <strong>Louis</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> étaient affectés au 1er secteur qui comprenait le centre de résistance avancé, les centres de résistance du fort Grévaux et du fort d'Hautmont.</p>
 
 	<figure>
-	    <a href="images/forts-maubeuge.jpg" data-fancybox="gallery" title="L'emplacement des forts de la place forte de Maubeuge en 1914">
+	    <a href="images/forts-maubeuge.jpg" data-fancybox="gallery" data-caption="L'emplacement des forts de la place forte de Maubeuge en 1914">
 	    <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
 	    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
 	</figure>
@@ -167,7 +168,7 @@
 <p>Deux jours plus tard - le 4 septembre - le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e , 2e , 3e (celui de <strong>Louis</strong>) et 4e  territorial et enfin celui du 1er régiment d'artillerie à pied.</p><p> Les drapeaux de la garnison sont brûlés le lendemain à 7 heures du matin dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande une cérémonie qui émotionne fortement les assistants.</p>
 
 	<figure>
-	    <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" title="La Caserne Joyeuse (Maubeuge) avant 1914">
+	    <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" data-caption="La Caserne Joyeuse (Maubeuge) avant 1914">
 	    <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg" alt="La caserne Joyeuse à Maubeuge avant la Première Guerre Mondiale"/></a>
 	    <figcaption>La Caserne Joyeuse à Maubeuge<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -199,7 +200,7 @@
         <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a> (source allemande)</li>
         <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf">Aus deutschen Kriegsgefangenenlagern</a> (Deutsches Rotes Kreuz)</li>
         <li><a href="http://amzn.to/2rvOovF">Prisonniers 1914-1918</a> (Editions Sulton / Jean-Paul Briaste)</li>
-        <li>Archives de la Croix Rouge</li>
+        <li><a href="https://grandeguerre.icrc.org/">Archives de la Croix Rouge</a></li>
         <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
     </ul>
 
@@ -225,12 +226,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>

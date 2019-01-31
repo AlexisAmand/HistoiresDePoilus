@@ -9,10 +9,14 @@
 <meta content="parcours de Émile Edmond DUBOIS, soldat guislanais pendant la Première Guerre Mondiale. Il était membre du 294e Régiment d’Infanterie et mort pour la France à Souain en 1915" name="description">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-                  
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
+
 
 <body>
 <!-- code js pour l'avertissement sur les cookies -->
@@ -25,15 +29,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -90,6 +90,7 @@
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
         <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -119,13 +120,13 @@
 <p><strong>Émile Edmond DUBOIS</strong>, le beau frère de <a href="GRAIN-Louis.php" title="biographie du soldat Louis GRAIN">Louis GRAIN</a> et de <a href="GRAIN-Leon-Albert.php" title="biographie du poilu Léon GRAIN">Léon GRAIN</a>, est né le 25 janvier 1880 à Villers-Guislain (Nord). Il est le fils légitime de Désiré Émile et Catherine Vénérose BROYE. En 1906, il est tisseur et vit à Villers-Guislain (Rue Hérode) avec ses parents, sa sœur Malvina et son frère Christophe. Le 3 décembre 1907, il épouse Fortunée Luce GRAIN à Villers-Guislain.</p>
 
 	<figure>
-	    <a href="images/arbre-grain.png" data-fancybox="gallery" title="Arbre généalogique simplifié de la famille DUBOIS-GRAIN">
-	    <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille DUBOIS-GRAIN" style="box-shadow:none;width:650px;"/></a>
+	    <a href="images/arbre-grain.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille DUBOIS-GRAIN">
+	    <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille DUBOIS-GRAIN" class="ArbreGenealogique"/></a>
 	    <figcaption>Arbre simplifié de la famille DUBOIS-GRAIN<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 	
 	<figure>
-	    <a href="images/census-villers-guislain-1906.jpg" data-fancybox="gallery" title="Extrait du recensement de Villers-Guislain">
+	    <a href="images/census-villers-guislain-1906.jpg" data-fancybox="gallery" data-caption="Extrait du recensement de Villers-Guislain">
 	    <img src="miniatures/census-villers-guislain-1906.jpg" alt="Extrait du recensement de Villers-Guislain de 1906"></a>
 	    <figcaption>Extrait du recensement de Villers-Guislain (1906)<br />(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption> 
 	</figure>
@@ -163,7 +164,7 @@
 <p>Âgé de 34 ans au moment de la mobilisation, il intègre le <strong>94e Régiment d'Infanterie</strong> qui donnera naissance au <strong>294e Régiment d’Infanterie</strong>. En effet, à la mobilisation, chaque régiment d'active crée un régiment de réserve dont le numéro est le sien plus 200.  Je pense que c’est ce qui explique que sa fiche matricule indique qu’il fait parti du 94e alors que sa fiche de mort pour la France indique le 294e.</p>
 
 	<figure>
-	    <a href="sources/DUBOIS-Emile-Edmond-matricule.jpg" data-fancybox="gallery" title="Extrait de la fiche matricule d'Émile DUBOIS">
+	    <a href="sources/DUBOIS-Emile-Edmond-matricule.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Émile DUBOIS">
 	    <img src="miniatures/DUBOIS-Emile-Edmond-matricule.jpg" alt="Extrait de la fiche matricule d'Émile DUBOIS"/></a>
 	    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption> 
 	</figure>
@@ -181,7 +182,7 @@
 <p><em>"La 56e Division d'Infanterie a pour mission de ralentir la marche de l’ennemi dont les avant-gardes cherchent à se rapprocher de Paris. Le 2 septembre, le régiment en arrière garde de la 56e Division d'Infanterie, reçoit l’ordre de tenir les lisères de Senlis jusqu’à 13 heures. Dès l’aube, les éléments avancés de l’ennemi attaquent, mais ne parviennent pas, malgré le tir acharné de leur artillerie, à nous déloger et le Régiment résiste sur les positions qui ont été assignées jusqu’à 15 heures, se replie ensuite par les bois et par la ville de Senlis. Le 3, le Régiment se dégage et se replie sur Ory-la-Ville, le Lieutenant Colonel DUPERRIER, malade, est évacué et le Chef de Bataillon SELVA prend le commandement du régiment. Le 4, le Régiment cantonne à Dammartin-en-Goele, et prend le lendemain la direction de l’Est, se dirigeant vers Saint-Soupplet."</em></p>
     
 	<figure>
-	    <a href="images/Cpa_Senlis.jpg" data-fancybox="gallery" title="Senlis incendiée par les Allemands en 1914">
+	    <a href="images/Cpa_Senlis.jpg" data-fancybox="gallery" data-caption="Senlis incendiée par les Allemands en 1914">
 	    <img src="miniatures/Cpa_Senlis.jpg" alt="Senlis incendiée par les Allemands pendant la Grande Guerre sur une carte postale ancienne"></a>
 	    <figcaption>Senlis incendiée par les Allemands le 2 septembre 1914<br />(cliquez pour agrandir)</figcaption> 
 	</figure>
@@ -191,7 +192,7 @@
 <p><em>"L’Armée Française prend l’offensive, le 294e Régiment d'Infanterie prend par en 1ère ligne au combat d’Etrépilly et attaque la ferme de Champfleury, dont il s’empare le 5 septembre. Le 6 et le 7, les combats se succèdent très violents et le Régiment poursuivant l’ennemi continue sa progression vers l’Aisne."</em></p>
 
 	<figure>
-	    <a href="images/ferme-de-champfleury.jpg" data-fancybox="gallery" title="La ferme de Champfleury en 1914">
+	    <a href="images/ferme-de-champfleury.jpg" data-fancybox="gallery" data-caption="La ferme de Champfleury en 1914">
 	    <img src="miniatures/ferme-de-champfleury.jpg" alt="La ferme de Champfleury après les bombardements de septembre 1914"></a>
 	    <figcaption>La ferme de Champfleury après le bombardement<br />(cliquez pour agrandir)</figcaption> 
 	</figure>
@@ -205,7 +206,7 @@
 <p>L'historique du 294e R.I continue :<em> "Le repli ennemi s’est arrêté ; les Allemands sont solidement organisés au Sud de Roye. Le Régiment en première ligne vient s’installer aussitôt débarqué à cheval sur la voie ferrée Roye – Compiègne à la hauteur du passage à niveau de Beuvraigne et de l’église de ce village où nos patrouilles se sont heurtées aux avants postes ennemis."</em></p> 
         
 	<figure>
-	    <a href="images/Beuvraignes-1914.jpg" data-fancybox="gallery" title="Beuvraignes pendant la Grande Guuerre">
+	    <a href="images/Beuvraignes-1914.jpg" data-fancybox="gallery" data-caption="Beuvraignes pendant la Grande Guuerre">
 	    <img src="miniatures/Beuvraignes-1914.jpg"  alt="Le village de Beuvraignes pendant la Première Guerre Mondiale"/></a>
 	    <figcaption>Le village de Beuvraignes pendant la Grande Guerre<br/>(source: Wikipedia - cliquez pour agrandir)</figcaption>
 	</figure>        
@@ -213,7 +214,7 @@
 <p><em>Les 3, 4 et 5 octobre, des combats acharnés sont livrés pour la possession du village, l’ennemi nous opposant des forces bien supérieures en nombre. De part et d’autre les contres attaques se succèdent aux attaques et nos hommes se battent au corps à corps dans les rues et les maisons du village. Malgré des pertes importantes, (le Régiment ne compte plus que 400 hommes environ), l’ennemi ne parvient pas à nous chasser des lisières Sud du village et nous faisons une centaine de prisonniers dont deux officiers. Le 7, le régiment passe en seconde ligne, relevé par d’autres éléments de la 56e Division d'Infanterie gagne les villages de Bus et de Tilloloy, incorpore un renfort de 600 hommes et repasse en première ligne le 10 occupant le Bois allongé. Le 11, un coup de main tenté à Beuvraignes par deux compagnies permet de gagner quelques maisons du village. Le 14, le Régiment est relevé par le 92e Régiment d'Infanterie Du 14 au 30, la Division passe en réserve mobile d’Armée aux environs de Montdidier.</em></p>
 
 	<figure>
-	    <a href="images/montdidier-1914-1918.jpg" data-fancybox="gallery" title="Les ruines de Montdidier">
+	    <a href="images/montdidier-1914-1918.jpg" data-fancybox="gallery" data-caption="Les ruines de Montdidier">
 	    <img src="miniatures/montdidier-1914-1918.jpg"  alt="Les ruines de Montdidier pendant la Première Guerre Mondiale"/></a>
 	    <figcaption>Les ruines de Montdidier (date inconnue)<br />(cliquez pour agrandir)</figcaption>
 	</figure>  
@@ -223,13 +224,13 @@
 <p><strong>Émile Edmond DUBOIS </strong> est porté disparu au nord de <a href="http://cartespostalesanciennes.genealexis.fr/album/87-souain" title="cartes postales ancienne de Souain sur le site Genealexis">Souain</a> (Marne, Souain-Perthes-lès-Hurlus depuis le 16 juin 1950) le 8 octobre 1915 à l'âge de 35 ans. Son décès a été fixé à cette date par jugement du tribunal de Dijon le 18 mai 1920. Son nom figure sur le <a href="../releves/villers-guislain.php">Monument aux Morts du village de Villers-Guislain</a> (à côté de Cambrai).</p><p>&nbsp;</p>
 
 	<figure>
-	    <a href="images/souain-soldats.jpg" data-fancybox="gallery" title="Victimes françaises à Souain en 1915">
+	    <a href="images/souain-soldats.jpg" data-fancybox="gallery" data-caption="Victimes françaises à Souain en 1915">
 	    <img src="miniatures/souain-soldats.jpg"  alt="Des soldats français décédés suite à l'assaut du 7 octobre à Souain dans journal Le Miroir"/></a>
 	    <figcaption>Des soldats français décédés suite à l'assaut du 7 octobre<br/>(source: Gallica / Le Miroir du 24 octobre 1915)</figcaption>
 	</figure>
 
 	<figure>
-	    <a href="sources/DUBOIS-Emile-Edmond-mpf.jpg" data-fancybox="gallery" title="Émile Edmond DUBOIS, mort pour la France">
+	    <a href="sources/DUBOIS-Emile-Edmond-mpf.jpg" data-fancybox="gallery" data-caption="Émile Edmond DUBOIS, mort pour la France">
 	    <img src="miniatures/DUBOIS-Emile-Edmond-mpf.jpg" alt="Fiche de mort pour la France d'Émile Edmond DUBOIS"/></a>
 	</figure>
 
@@ -261,12 +262,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>

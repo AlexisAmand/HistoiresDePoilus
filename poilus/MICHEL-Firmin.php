@@ -10,10 +10,13 @@
 <meta content="Parcours de Firmin MICHEL, soldat pendant la Première Guerre Mondiale. Il était membre du 164e Régiment d'Infanterie et mort pour la France aux Jumelles d'Ornes en 1914" name="description">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-                
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
 <!-- code js pour l'avertissement sur les cookies -->
@@ -26,15 +29,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -66,7 +65,7 @@
 
 	<li class="asideheader">Marne</li>
         
-    <li><a href="arnould-henri-rene.php">ARNOULD Henri René</a></li>
+    <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
     <li><a href="astiers-jules-alphonse.php">ASTIERS Jules Alphonse</a></li>       
     <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
     <li><a href="caron-eugene-alexandre.php">CARON Eugéne Alexandre</a></li>
@@ -97,8 +96,8 @@
 <p><strong>Firmin MICHEL</strong>, le beau frère de mon arrière grand-mère (la fille de <a href="GRAIN-Louis.php" title="lien vers la page consacrée à Louis Grain">Louis GRAIN</a>), est né le 12 mars 1894 à Saint-Hilaire-Le-Petit (Marne). Il est le fils de Sosthène MICHEL et de Marie Françoise Zélie COLIN. A sa naissance, il a 3 frères: Henri Hilaire né en 1890, Julien né en 1897 et Denis né en 1900.</p>
 
 	<figure>
-	    <a href="images/arbre-michel.png" data-fancybox="gallery" title="Arbre généalogique simplifié de la famille MICHEL">
-	    <img src="miniatures/arbre-michel.png" alt="Arbre généalogique simplifié de la famille MICHEL" style="box-shadow:none;width:650px;"/></a>
+	    <a href="images/arbre-michel.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille MICHEL">
+	    <img src="miniatures/arbre-michel.png" alt="Arbre généalogique simplifié de la famille MICHEL" class="ArbreGenealogique"/></a>
 	    <figcaption>Arbre simplifié de la famille MICHEL<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 
@@ -115,7 +114,7 @@
 <p>Pendant ce temps, l'état-major de la IIIe armée du Baron Von Hausen quitte le château de Thugny pour s'installer à Bétheniville, village d’origine de <strong>Firmin</strong>, dans une "élégante et gracieuse villa" appartenant aux frères Renaut qui étaient absents. Une partie de l'état major occupait une seconde villa située de l'autre côté de la route. Le Q.G.A est porté de Bétheniville à <a href="http://cartespostalesanciennes.genealexis.fr/album/85-chalons-sur-marne" title="cartes postales anciennes de Châlons-sur-Marne sur le site Genealexis">Châlons</a> dès le lendemain.</p>
 
 	<figure>
-	    <a href="portraits/Max_von_Hausen.jpg" data-fancybox="gallery" title="portrait du Baron Max Von Hausen">
+	    <a href="portraits/Max_von_Hausen.jpg" data-fancybox="gallery" data-caption="portrait du Baron Max Von Hausen">
 	    <img src="miniatures/Max_von_Hausen.jpg" alt="portrait du Baron Max Von Hausen"/></a>
 	    <figcaption>Max Von Hausen<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -125,7 +124,7 @@
 <p>Sous l'énergique impulsion du commandant Roussel, du 166e, qui prend le 2 décembre, le commandement du régiment, le  <strong>164e Régiment d'Infanterie</strong> attaque à son tour et, le 14 décembre 1914, le 3e bataillon s'élance sur les Jumelles d'Ornes où <strong>Firmin MICHEL</strong> est porté disparu. Son corps y fut retrouvé et identifié qu'en Mars/Avril 1922.</p>
 
 	<figure>
-	    <a href="sources/MICHEL-Firmin-mpf.jpg" data-fancybox="gallery" title="Firmin MICHEL, mort pour la France">
+	    <a href="sources/MICHEL-Firmin-mpf.jpg" data-fancybox="gallery" data-caption="Firmin MICHEL, mort pour la France">
 	    <img src="miniatures/MICHEL-Firmin-mpf.jpg" alt="Fiche de mort pour la France de Firmin MICHEL"/></a>
 	    <figcaption>Firmin, mort pour la France<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -133,7 +132,7 @@
 <p><strong>Firmin</strong> repose aujourd'hui à la Nécropole Nationale de Bras-sur-Meuse (Tombe 50) et son nom figure sur le <a href="../releves/betheniville.php" title="lien vers la liste des morts pour la France de Bétheniville">Monument aux Morts du village de Bétheniville</a> (Marne).</p>
 
 	<figure>
-	    <a href="../releves/images/betheniville-monument-aux-morts.jpg" data-fancybox="gallery" title="Bétheniville - Le Monument aux Morts">
+	    <a href="../releves/images/betheniville-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Bétheniville - Le Monument aux Morts">
 	    <img src="../releves/images/mini/betheniville-monument-aux-morts.jpg" alt="le Monument aux Morts de Bétheniville sur une carte postale ancienne"/></a>
 	    <figcaption>Le Monument du Souvenir (guerre 1914-1918)<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -146,13 +145,13 @@
 <p>Dès le lundi 31 août 1914, l'armée française recul en bloc. La région située entre Bétheniville et Saint-Hilaire devient un immense bivouac. La plupart des habitants décident de quitter le village, mais ils seront contraints au retour par les Allemands quelques jours plus tard. Le 12 septembre 1914 le reflux des troupes allemandes commence et les Allemands s’installent à Saint-Hilaire-le-Petit, qu'ils quitteront à la fin de la guerre.</p>
 
 	<figure>
-	    <a href="images/Saint-Hilaire-ww1-01.jpg" data-fancybox="gallery" title="Un canon anti-poux à Saint-Hilaire">
+	    <a href="images/Saint-Hilaire-ww1-01.jpg" data-fancybox="gallery" data-caption="Un canon anti-poux à Saint-Hilaire">
 	    <img src="miniatures/Saint-Hilaire-ww1-01.jpg" alt="Un canon anti-poux à Saint-Hilaire-le-Petit pendant la Première Guerre Mondiale"/></a>
 	    <figcaption>Un canon anti-poux à Saint-Hilaire-le-Petit<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 	
 	<figure>
-	    <a href="images/Saint-Hilaire-ww1-02.jpg" data-fancybox="gallery" title="Les allemands à Saint-Hilaire-le-Petit">
+	    <a href="images/Saint-Hilaire-ww1-02.jpg" data-fancybox="gallery" data-caption="Les allemands à Saint-Hilaire-le-Petit">
 	    <img src="miniatures/Saint-Hilaire-ww1-02.jpg" alt="Les allemands dans une rue de Saint-Hilaire-le-Petit"/></a>
 	    <figcaption>Les allemands à Saint-Hilaire-le-Petit<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -192,12 +191,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>

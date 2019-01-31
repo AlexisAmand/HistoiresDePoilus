@@ -8,10 +8,14 @@
 <meta content="Parcours et biographie du poilu Oscar Julien DELAUX, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-   
-</head>   
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
+
 
 <body>
 
@@ -25,15 +29,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -90,6 +90,7 @@
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
         <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -116,10 +117,14 @@
     
 <h1>Oscar Julien DELAUX</h1>
         
-<p><strong>Oscar Julien DELAUX</strong> est né à Roubaix le 13 novembre 1894, fils légitime d'Adolphe DELAUX et Joséphine RICHOMME (mes aïeux). Incorporé le 28 août 1914. Il passe successivement par le 165e Régiment d'Infanterie (le 29 août 1914), le 33e Bataillon de Marche (le 2 février 1915) et le 53e Régiment d'Infanterie (le 21 mars 1915). Il est cité à l'ordre général n°38 du 30 octobre 1915 pendant son "séjour" au sein du 53e Régiment d'Infanterie.</p>
+<p><strong>Oscar Julien DELAUX</strong> est né à Roubaix le 13 novembre 1894, fils légitime d'Adolphe DELAUX et Joséphine RICHOMME (mes aïeux). Incorporé le 28 août 1914. Il passe successivement par le 165e Régiment d'Infanterie (le 29 août 1914) puis par le 33e Bataillon de Marche (le 2 février 1915).</p>
+
+<p>le 21 mars 1915, Oscar rejoint le 53e Régiment d'Infanterie.</p> 
+
+<p>Il est cité à l'ordre général n°38 du 30 octobre 1915 pendant son "séjour" au sein du 53e Régiment d'Infanterie.</p>
     
 	<figure>
-        <a href="images/carte-oscar-delaux.png" data-fancybox="gallery" title="Carte d'ancien combattant d'Oscar DELAUX">
+        <a href="images/carte-oscar-delaux.png" data-fancybox="gallery" data-caption="Carte d'ancien combattant d'Oscar DELAUX">
         <img src="miniatures/carte-oscar-delaux.png" alt="Carte du combattant d'Oscar DELAUX"/></a>
         <figcaption>Carte du combattant d'Oscar DELAUX<br>(Source: Archives Départementales du Nord)</figcaption>
     </figure>
@@ -146,12 +151,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>

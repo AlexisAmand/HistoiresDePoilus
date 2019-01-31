@@ -8,10 +8,13 @@
 <meta content="Parcours et biographie du poilu Henri René ARNOULD, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-   
-</head>   
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>  
 
 <body>
 
@@ -25,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -65,7 +64,7 @@
 
 	<li class="asideheader">Marne</li>
         
-    <li><a href="arnould-henri-rene.php" class="AsideSelected">ARNOULD Henri René</a></li>
+    <li><a href="arnould-henri-rene.php" class="AsideSelected">ARNOULD Henri René (+)</a></li>
     <li><a href="astiers-jules-alphonse.php">ASTIERS Jules Alphonse</a></li>       
     <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
     <li><a href="caron-eugene-alexandre.php">CARON Eugéne Alexandre</a></li>
@@ -96,13 +95,19 @@
 <p>Henri René ARNOULD est né à Bétheniville le 4 avril 1884, fils légitime de Louis Albert et Amélia Julia STÖSSEL. Lors de la mobilisation générale, Henri abandonne son métier de garçon coiffeur et rejoint le 106e Régiment d'Infanterie. Il est déclaré "tué à l'ennemi" par des éclats multiples à la tête le 22 mai 1916 au Mont-Homme, dans la Meuse.</p>
 
 	<figure>
-	    <a href="images/mont-homme.jpg" data-fancybox="gallery" title=" ">
+	    <a href="images/mont-homme.jpg" data-fancybox="gallery" data-caption=" ">
 	    <img src="miniatures/mont-homme.jpg" alt=" "></a>
 	    <figcaption> </figcaption>
 	</figure> 
 	
 	<figure>
-	    <a href="sources/arnould-henri-rene.jpg" data-fancybox="gallery" title="Henri René ARNOULD, mort pour la France">
+	    <a href="images/croquis-1916-2" data-fancybox="gallery" data-caption=" ">
+	    <img src="miniatures/croquis-1916-2" alt=" "></a>
+	    <figcaption>Verdun: Attaques sur la rive gauche<br />(source: Delcampe)</figcaption>
+	</figure>
+		
+	<figure>
+	    <a href="sources/arnould-henri-rene.jpg" data-fancybox="gallery" data-caption="Henri René ARNOULD, mort pour la France">
 	    <img src="miniatures/arnould-henri-rene.jpg" alt="Fiche de mort pour la France de Henri René ARNOULD"></a>
 	    <figcaption>Henri, mort pour la France.<br />(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
 	</figure> 
@@ -127,14 +132,8 @@
 
 <!-- javascript -->
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+<script type="text/javascript" src="../js/script.js"></script>
 </body>
 </html>

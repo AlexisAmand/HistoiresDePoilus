@@ -6,11 +6,14 @@
             <title>Les batailles du front du Moyen-Orient pendant la Grande Guerre (1914-1918) - Histoires de Poilus</title>
             <meta content="Liste des batailles qui se sont déroulées sur le front du Moyen-Orient pendant la Première Guerre Mondiale (1914 à 1918)." name="description">
 
-            <link rel="stylesheet" href="../css/style.css">    
+            <link rel="stylesheet" href="../css/style.css">
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
             <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-            <link rel="icon" type="image/png" href="/images/favicon.png" />
-                
-            </head>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
         <body>
 
         <!-- code js pour l'avertissement sur les cookies -->
@@ -23,15 +26,11 @@
           });
         </script>
 
+		<?php include('../include/resp.inc'); ?>
+
         <header>
 	
-            <div id="rezo">
-                <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-                <img src="../images/facebook.png" alt="logo facebook"/></a>
-                <img src="../images/googleplus.png" alt="logo Google Plus"/> 
-                <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-                <img src="../images/twitter.png" alt="logo Twitter"/></a>
-            </div>
+        <?php include('../include/social.inc'); ?>
             
         <a href="../index.php" title="retour sur la page d'accueil du site">
         <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -64,22 +63,27 @@
 <h1>Les Batailles du Front du Moyen-Orient</h1>
 
 <p>Cette page sera mise à jour au fur et à mesure des découvertes.</p>
-<p>&nbsp;</p>
+
+	<figure>
+	    <a href="../poilus/images/tatahouine.jpg" data-fancybox="gallery" data-caption="Tatahouine (Tunisie) - Vu d'ensemble du camp">
+	    <img src="../poilus/miniatures/tatahouine.jpg" alt="Vue d'ensemble du camp de Tatahouine en Tunisie au début du XXe siècle"/></a>
+	    <figcaption>Vue d'ensemble du camp de Tatahouine (Tunisie)<br />(Cliquez pour agrandir)</figcaption>
+	</figure>
 
 <table>
     <thead>
         <tr>
-                <td class="l25">Lieu</td>
-                <td class="l25">Bataille</td>
-                <td class="l25">Date</td>
-                <td class="l25">Issue</td>
+                <th id="lieu" class="l25">Lieu</th>
+                <th id="bataille" class="l25">Bataille</th>
+                <th id="date" class="l25">Date</th>
+                <th id="issue" class="l25">Issue</th>
         </tr>
     </thead> 
     <tr>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
+        <td headers="lieu"> </td>
+        <td headers="bataille"> </td>
+        <td headers="date"> </td>
+        <td headers="issue"> </td>
     </tr> 
 </table>
 
@@ -105,12 +109,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
+<script type="text/javascript" src="../js/script.js"></script>
 
 </body>
 </html>

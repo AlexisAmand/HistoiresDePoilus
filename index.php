@@ -7,7 +7,10 @@
             <meta content="Biographies de poilus qui ont participé à la Première Guerre Mondiale de 1914 à 1918. Divers relevés de morts pour la France. Présentation de divers camps de prisonniers allemands." name="description">
             <meta name="google-site-verification" content="NrJvg2SL3r8GToGISpF-SJatGnKIvS5mekxb-2uTef4" />
 
-            <link rel="stylesheet" href="css/style.css">    
+            <link rel="stylesheet" href="css/style.css">
+			<link rel="stylesheet" href="css/resp.css">
+			<link rel="stylesheet" href="css/fontawesome/css/all.css">  
+  
             <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
             <link rel="icon" type="image/png" href="/images/favicon.png" />
     
@@ -23,16 +26,12 @@
               'Ok', 'En savoir plus', 'cookies.php');
           });
         </script>
+        
+        <?php include('include/resp.inc'); ?>
 
         <header>
-	
-            <div id="rezo">
-            	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-            		<img src="images/facebook.png" /></a>
-            		<img src="images/googleplus.png" />
-           	 	<a href="https://twitter.com/alexisamand?lang=fr" title="me suivre sur Twitter">
-            		<img src="images/twitter.png" /></a>
-            </div>
+        
+	<?php include('include/social.inc'); ?>
       
             <a href="index.php" title="retour sur la page d'accueil du site">
             <img src="images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -75,7 +74,7 @@
                 <img src="images/image-diapo-3.jpg" alt="Carte postale représentant le départ des soldats pour le Front" />
                 </figure>
 
-            <p>Je vous propose donc, à travers ce site, un résumé des découvertes que j’ai eu la chance de réaliser à propos des membres de ma famille qui ont participé à la Première Guerre Mondiale. Vous allez ainsi découvrir que <a href="camps.php" title="Les camps de prisonniers pendant la Grande Guerre">certains ont été fait prisonniers</a> et emmenés en Allemagne, que certains ont été blessés en défendant leur patrie et enfin que <a href="releves.php">d’autres sont morts pour leur patrie</a>. Ce site est avant toute chose là pour rendre hommage à tous les soldats de la Der des Der, qu'ils soient <em>Poilus</em> en France, <em>Landsers</em> en Allemagne, <em>Tommies</em> en Angleterre, <em>Diggers</em> en Australie, <a href="poilus/soldats-belgique.php">Jass en Belgique</a>, <em>Sammies</em> aux États-Unis ou encore <em>Mehmetçik</em> en Turquie (Empire Ottoman).</p>
+            <p>Je vous propose donc, à travers ce site, un résumé des découvertes que j’ai eu la chance de réaliser à propos des membres de ma famille qui ont participé à la Première Guerre Mondiale. Vous allez ainsi découvrir que <a href="camps.php" title="Les camps de prisonniers pendant la Grande Guerre">certains ont été fait prisonniers</a> et emmenés en Allemagne, que certains ont été blessés en défendant leur patrie et enfin que <a href="releves.php">d’autres sont morts pour leur patrie</a>. Ce site est avant toute chose là pour rendre hommage à tous les soldats de la Der des Der, qu'ils soient <em>Poilus</em> en France, <em>Landsers</em> en Allemagne, <em>Tommies</em> en Angleterre, <em>Diggers</em> en Australie, <a href="poilus/amand-jules.php" title="biographies de soldats belges de la Première Guerre Mondiale">Jass en Belgique</a>, <em>Sammies</em> aux États-Unis ou encore <em>Mehmetçik</em> en Turquie (Empire Ottoman).</p>
 
             <p class="right">Bonne lecture,<br/>Alexis, webmaster.</p>
             
@@ -103,12 +102,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+<script type="text/javascript" src="js/script.js"></script>
+ 
 </body>
 </html>

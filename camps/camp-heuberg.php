@@ -8,12 +8,16 @@
 <meta name="description" content="Présentation du camp de prisonniers de Heuberg en Allemagne pendant la Première Guerre mondiale (1914-1918)">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
-                   
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
+
 <!-- code js pour l'avertissement sur les cookies -->
 
 <script src="../js/cookiechoices.js"></script>
@@ -24,17 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" />
-        </a>
-        <img src="../images/googleplus.png" /> 
-	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" />
-        </a>
-    </div>
+   <?php include('../include/social.inc'); ?>
     
 <a href="../index.php" title="retour sur la page d'accueil du site">
 <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -110,13 +108,13 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
 <figure>    
-	<a href="images/Heuberg/localisation-heuberg.jpg" data-fancybox="gallery" title="Localisation du camp de Heuberg">
+	<a href="images/Heuberg/localisation-heuberg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Heuberg">
     <img src="miniatures/Heuberg/localisation-heuberg.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Heuberg"></a>
     <figcaption>Localisation du camp de Heuberg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>  
 
 <figure>
-    <a href="images/Heuberg/Heuberg-01.jpg" data-fancybox="gallery" title="Heuberg: L'arrivée des prisonniers">
+    <a href="images/Heuberg/Heuberg-01.jpg" data-fancybox="gallery" data-caption="Heuberg: L'arrivée des prisonniers">
     <img src="miniatures/Heuberg/Heuberg-01.jpg" alt="l'arrivée des prisonniers au camp de Heuberg pendant la Première Guerre Mondiale"></a>   
     <figcaption>L'arrivée au camp<br />(source allemande)</figcaption>
 </figure>
@@ -124,7 +122,7 @@
 <p>Le 2 septembre 1916, le Bulletin de l'Office d'information des oeuvres de secours aux prisonniers de guerre indique qu'au camp de Heuberg fonctionne différentes commissions qui sont composées par un adjudant ou sous-officier par compagnie. Ces commissions ont été élues par ces adjudants et sont ignorées par le commandement allemand, sauf celle des  nécessiteux. On se réunit deux fois par mois pour discuter toutes les questions intéressant les prisonniers français. Il y a des commissions de nécessiteux, jeux, théâtre, bibliothèque, cimetière et contrôle. Le comité des nécessiteux est composé des chefs de section de chaque compagnie, et a pour président, l'adjudant GAUDINEAU. Outre les envois reçus de France, la caisse des nécessiteux est alimentée par un versement mensuel prélevé sur les recettes du théâtre.</p> 
 
 <figure>
-    <a href="images/Heuberg/theatre.jpg" data-fancybox="gallery" title="Théâtre improvisé par les prisonniers">
+    <a href="images/Heuberg/theatre.jpg" data-fancybox="gallery" data-caption="Théâtre improvisé par les prisonniers">
     <img src="miniatures/Heuberg/theatre.jpg" alt="Théâtre improvisé par les prisonniers au camp de Heuberg"></a>   
     <figcaption>Théâtre improvisé par les prisonniers</figcaption>
 </figure>
@@ -158,12 +156,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
+<script type="text/javascript" src="../js/script.js"></script>
 
 </body>
 </html>

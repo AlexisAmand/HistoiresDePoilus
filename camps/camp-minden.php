@@ -9,12 +9,16 @@
 <meta content="Présentation du camp de prisonniers de Minden en Allemagne pendant la Première Guerre mondiale (1914-1918)" name="description">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
-                   
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
+
 <!-- code js pour l'avertissement sur les cookies -->
 
 <script src="../js/cookiechoices.js"></script>
@@ -25,17 +29,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" />
-        </a>
-        <img src="../images/googleplus.png" /> 
-	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" />
-        </a>
-    </div>
+   <?php include('../include/social.inc'); ?>
     
 <a href="../index.php" title="retour sur la page d'accueil du site">
 <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -113,7 +111,7 @@
 <p>Les 2 camps de Minden étaient situés à Minderheide, un quartier de la ville. Le « lager I » était réservé aux prisonniers de guerre et le « lager II » aux autres prisonniers. Les deux camps furent réunis avant la visite des délégués Espagnols du 24 mars 1916. Le camp était constitué de baraques en bois contiguës par les angles et entourant une grande cour. Il est considéré comme le camp de plus dur.</p> 
 
 <figure>    
-	<a href="images/Minden/localisation-minden.jpg" data-fancybox="gallery" title="Localisation du camp de Minden">
+	<a href="images/Minden/localisation-minden.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Minden">
     <img src="miniatures/Minden/localisation-minden.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Minden"></a>
     <figcaption>Localisation du camp de Minden<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure> 
@@ -121,7 +119,7 @@
 <p>Selon les délégués du Gouvernement Espagnol, Les dortoirs sont convenablement installés ; les lits, disposés sur deux rangées, sont composés de châssis en bois ; les paillasses sont bourrées de copeaux, chaque homme dispose de deux couvertures. Le chauffage se fait au moyen de grands poêles à charbon, l’éclairage est électrique. Dans chaque dortoir, il y a un large espace libre pour permettre aux prisonniers de se promener quand il pleut.</p>
 
 <table class="tab_camp">
-    <caption class="legende" align="bottom">Effectif du camp au 24 mars 1916</caption>
+    <caption>Effectif du camp au 24 mars 1916</caption>
     <thead>
     <tr>
         <td>Nationalités</td>
@@ -167,13 +165,13 @@
 <h2>Les prisonniers au travail</h2>
 
 <figure>
-    <a href="images/minden-05.jpg" data-fancybox="gallery" title="La construction des chemins à Minden">
+    <a href="images/minden-05.jpg" data-fancybox="gallery" data-caption="La construction des chemins à Minden">
     <img src="miniatures/minden-05.jpg" alt="La construction des chemins par les prisonniers du camp de Minden pendant la Première Guerre Mondiale"></a>
     <figcaption>La construction des chemins<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/minden-04.jpg" data-fancybox="gallery" title="Pose du chemin de fer portatif à Minden">
+    <a href="images/minden-04.jpg" data-fancybox="gallery" data-caption="Pose du chemin de fer portatif à Minden">
     <img src="miniatures/minden-04.jpg" alt="La pose d'un chemin de fer portatif par les prisonniers du camp de Minden pendant la Première Guerre Mondiale"></a>
     <figcaption>Pose du chemin de fer portatif<br />(source allemande)</figcaption>
 </figure>
@@ -181,13 +179,13 @@
 <h2>La vie au camp n°1</h2>
 
 <figure>
-    <a href="images/minden-02.jpg" data-fancybox="gallery" title="Distribution de dons patriotiques à Minden I">
+    <a href="images/minden-02.jpg" data-fancybox="gallery" data-caption="Distribution de dons patriotiques à Minden I">
     <img src="miniatures/minden-02.jpg" alt="Distribution de dons patriotiques aux prisonniers du camps de Minden pendant la Première Guerre Mondiale"></a>
     <figcaption>Distribution de dons patriotiques<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/minden-01.jpg" data-fancybox="gallery" title="Une salle de soldats à Minden I">
+    <a href="images/minden-01.jpg" data-fancybox="gallery" data-caption="Une salle de soldats à Minden I">
     <img src="miniatures/minden-01.jpg" alt="Une salle de soldats au camp de prisonniers de Minden I pendant la Première Guerre Mondiale"></a>
     <figcaption>Salle de soldats au camp<br />(source allemande)</figcaption>
 </figure>
@@ -195,7 +193,7 @@
 <h2>La vie au camp n°2</h2>
 
 <figure>
-    <a href="images/minden-03.jpg" data-fancybox="gallery" title="La cuisine et le menu à Minden II">
+    <a href="images/minden-03.jpg" data-fancybox="gallery" data-caption="La cuisine et le menu à Minden II">
     <img src="miniatures/minden-03.jpg" alt="La cuisine et le menu au camp de prisonniers de Minden II"></a>
     <figcaption>Cuisine et menu<br />(source allemande)</figcaption>
 </figure>
@@ -229,12 +227,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
+<script type="text/javascript" src="../js/script.js"></script>
 
 </body>
 </html>

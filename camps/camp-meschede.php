@@ -8,12 +8,16 @@
 <meta name="description"  content="Présentation du camp de prisonniers de Meschede en Allemagne pendant la Première Guerre mondiale (1914-1918)">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
-             
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
+
 <!-- code js pour l'avertissement sur les cookies -->
 
 <script src="../js/cookiechoices.js"></script>
@@ -24,17 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" />
-        </a>
-        <img src="../images/googleplus.png" /> 
-	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" />
-        </a>
-    </div>
+  <?php include('../include/social.inc'); ?>
     
 <a href="../index.php" title="retour sur la page d'accueil du site">
 <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -110,45 +108,45 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p>
 
 <figure>
-    <a href="images/Meschede/camp-meschede.jpg" data-fancybox="gallery" title="Localisation du camp de Meschede">
-    <img src="miniatures/Meschede/camp-meschede.jpg" data-fancybox="gallery" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Meschede"></a>
+    <a href="images/Meschede/camp-meschede.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Meschede">
+    <img src="miniatures/Meschede/camp-meschede.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Meschede"></a>
     <figcaption>Localisation du camp de Meschede<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure> 
 
 <p>Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php">Wetzlar</a> arrivent au camp de Meschede.</p>
 
 <figure>
-    <a href="images/Meschede/meschede-01.jpg" data-fancybox="gallery" title="Un groupe de prisonniers devant un baraquement à Meschede">
+    <a href="images/Meschede/meschede-01.jpg" data-fancybox="gallery" data-caption="Un groupe de prisonniers devant un baraquement à Meschede">
     <img src="miniatures/Meschede/meschede-01.jpg" alt="Un groupe de prisonniers devant un baraquement du camp de Meschede pendant la Première Guerre Mondiale"></a>
     <figcaption>Groupe de prisonniers devant un baraquement<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Meschede/meschede-02.jpg" data-fancybox="gallery" title="La grande rue du camp de Meschede">
+    <a href="images/Meschede/meschede-02.jpg" data-fancybox="gallery" data-caption="La grande rue du camp de Meschede">
     <img src="miniatures/Meschede/meschede-02.jpg" alt="La grande rue du camp de prisonniers de Meschede pendant la Grande Guerre"></a>
     <figcaption>La grande rue du camp<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Meschede/meschede-03.jpg" data-fancybox="gallery" title="Le personnel de cuisine à Meschede">
+    <a href="images/Meschede/meschede-03.jpg" data-fancybox="gallery" data-caption="Le personnel de cuisine à Meschede">
     <img src="miniatures/Meschede/meschede-03.jpg" alt="Le personnel de la cuisine du camp de prisonniers de Meschede pendant la Première Guerre Mondiale"></a>
     <figcaption>Le personnel de cuisine<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Meschede/meschede-04.jpg" data-fancybox="gallery" title="Vaccination contre la fièvre typhoïde à Meschede">
+    <a href="images/Meschede/meschede-04.jpg" data-fancybox="gallery" data-caption="Vaccination contre la fièvre typhoïde à Meschede">
     <img src="miniatures/Meschede/meschede-04.jpg" alt="La vaccination contre la fièvre typhoïde au camp de Meschede pendant la Première Guerre Mondiale"></a>
     <figcaption>Vaccination contre la fièvre typhoïde<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Meschede/meschede-05.jpg" data-fancybox="gallery" title="Une des six salles de l'infirmerie de Meschede">
+    <a href="images/Meschede/meschede-05.jpg" data-fancybox="gallery" data-caption="Une des six salles de l'infirmerie de Meschede">
     <img src="miniatures/Meschede/meschede-05.jpg" alt="Une des six salles de l'infirmerie du camp de prisonniers de Meschede pendant la Première Guerre Mondiale"></a>
     <figcaption>Une des six salles de l'infirmerie<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Meschede/meschede-06.jpg" data-fancybox="gallery" title="Le camp de Meschede et son infirmerie">
+    <a href="images/Meschede/meschede-06.jpg" data-fancybox="gallery" data-caption="Le camp de Meschede et son infirmerie">
     <img src="miniatures/Meschede/meschede-06.jpg" alt="Le camp de Meschede et son infirmerie vue à vol d'oiseau"></a>
     <figcaption>Camp et infirmerie, vue à vol d'oiseau<br />(source allemande)</figcaption>
 </figure>
@@ -182,12 +180,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
+<script type="text/javascript" src="../js/script.js"></script>
 
 </body>
 </html>

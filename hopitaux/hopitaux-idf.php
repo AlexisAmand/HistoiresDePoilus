@@ -8,10 +8,13 @@
 <meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles de l'Île-de-France pendant la Première Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-                
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
 
@@ -24,17 +27,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-    <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-    <img src="../images/facebook.png" />
-    </a>
-    <img src="../images/googleplus.png" />
-    <a href="https://twitter.com/alexisamand?lang=fr" title="me suivre sur Twitter">
-    <img src="../images/twitter.png" />
-    </a>
-    </div>
+<?php include('../include/social.inc'); ?>
       
 <a href="../index.php" title="retour sur la page d'accueil du site">
 <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -99,7 +96,7 @@
 <p>L'Hôpital du gouvernement italien pour les blessés de Guerre Français (également appelé Hôpital de L'ambassade d’Italie) était situé au 41 quai d'Orsay à Paris. C'était un des hôpitaux complémentaires de l’hôpital militaire du Val-de-Grâce et également un des rares hôpitaux complémentaires à disposer de la radiologie.</p>
 
     <figure>
-    <a href="images/hopital-begin.jpg" data-fancybox="gallery" title="l'hôpital militaire Bégin">
+    <a href="images/hopital-begin.jpg" data-fancybox="gallery" data-caption="l'hôpital militaire Bégin">
     <img src="miniatures/hopital-begin.jpg" alt="L'entrée de l'hôpital militaire Bégin pendant la guerre"></a>
    		<figcaption>L'entrée de l'hôpital militaire Bégin</figcaption>
     </figure>
@@ -109,19 +106,19 @@
 <p>Cet hôpital militaire était situé à l'Hôpital Militaire Bégin à Saint-Mandé, dans le Val-de-Marne. Il doit son nom à Louis Jacques Bégin (1793-1859), chirurgien militaire de l'Empire.</p>
    
     <figure>
-    <a href="images/begin-cuisine.jpg" data-fancybox="gallery" title="l'hôpital militaire Bégin">
+    <a href="images/begin-cuisine.jpg" data-fancybox="gallery" data-caption="l'hôpital militaire Bégin">
     <img src="miniatures/begin-cuisine.jpg" alt="Les cuisines de l'hôpital militaire Bégin pendant la guerre"></a>
     	<figcaption>Les cuisines de l'hôpital militaire Bégin</figcaption>
     </figure>
 
     <figure>
-    <a href="images/hopital-begin-cours.jpg" data-fancybox="gallery" title="l'hôpital militaire Bégin">
+    <a href="images/hopital-begin-cours.jpg" data-fancybox="gallery" data-caption="l'hôpital militaire Bégin">
    	<img src="miniatures/hopital-begin-cours.jpg" alt="La cour intérieure de l'hôpital militaire Bégin pendant la guerre"></a>
     	<figcaption>La cour intérieure de l'hôpital militaire Bégin</figcaption>
     </figure>
 
     <figure>
-    <a href="images/paris-chaptal.jpg" data-fancybox="gallery" title=" ">
+    <a href="images/paris-chaptal.jpg" data-fancybox="gallery" data-caption="Hôpital temporaire Chaptal (Paris)">
     <img src="miniatures/paris-chaptal.jpg" alt="Hôpital temporaire Chaptal à Paris pendant la Grande Guerre"></a>
    		<figcaption>Hôpital temporaire Chaptal,<br />rue de Rome à Paris</figcaption>
     </figure>
@@ -148,12 +145,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
+<script type="text/javascript" src="../js/script.js"></script>
 
 </body>
 </html>

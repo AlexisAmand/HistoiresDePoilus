@@ -8,10 +8,13 @@
 <meta content="parcours de Jules Henri BOURSIER, soldat onnaingeois pendant la Première Guerre Mondiale. Il était membre du 1er Régiment d'Artillerie à Pied et prisonnier de guerre à Friedrichsfeld" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-              
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
 
@@ -24,15 +27,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -89,6 +88,7 @@
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
         <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -118,7 +118,7 @@
 <p><strong>Jules Henri BOURSIER</strong> est né à Onnaing (Nord) le 7 décembre 1879, fils légitime de Edmond François BOURSIER, cultivateur, et de Julia JUDES. En 1906, il est chaudronnier et vit chez ses parents à Onnaing (Rue De La Chevauchoire), avec son frère Edouard. Le 19 novembre de la même année, il épouse Suzanne Hyacinthe GODIN (1879-1939). </p> 
       
     <figure>
-    	<a href="images/BOURSIER-Jules-Henri-naissance-1879.jpg" data-fancybox="gallery" title="acte de naissance de Jules Henri BOURSIER">
+    	<a href="images/BOURSIER-Jules-Henri-naissance-1879.jpg" data-fancybox="gallery" data-caption="acte de naissance de Jules Henri BOURSIER">
         <img src="miniatures/BOURSIER-Jules-Henri-naissance-1879.jpg" alt="acte de naissance de Jules Henri BOURSIER"/></a>
         <figcaption>Acte de naissance de Jules Henri BOURSIER<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
     </figure>
@@ -126,7 +126,7 @@
 <p><strong>Jules Henri BOURSIER</strong> est le poilu avec lequel ma parenté est la plus éloignée car il était marié avec Suzanne GODIN, descendante de quatre de mes ancêtres ayant vécu à la fin du XVIIe et au début du XVIIIe siècle. J'ai trouvé la photo ci-dessous grâce à un membre de Geneanet. Il me reste à comprendre pourquoi il y a 16 sur son col, alors qu'il faisait parti du <strong>1er Régiment d'Artillerie à Pied</strong> pendant la Première Guerre Mondiale. Peut-être que la photo n'est pas contemporaine au conflit ?</p>
 
     <figure>
-    	<a href="portraits/BOURSIER-Jules-Henri.jpg" data-fancybox="gallery" title="portrait de Jules Henri BOURSIER">
+    	<a href="portraits/BOURSIER-Jules-Henri.jpg" data-fancybox="gallery" data-caption="portrait de Jules Henri BOURSIER">
       	<img src="miniatures/BOURSIER-Jules-Henri.jpg" alt="portrait de Jules Henri BOURSIER"/></a>
       	<figcaption>Jules Henri BOURSIER<br/>(cliquez pour agrandir - source: Kamalaa/Geneanet)</figcaption>
     </figure>
@@ -164,7 +164,7 @@
 <p><strong>Jules</strong> est âgé de 35 ans lors de mobilisation. Il est rappelé à l'activité et arrive au <strong>1er Régiment d'Artillerie à Pied</strong> le 2 août 1914. La portion centrale de ce régiment était à Dunkerque avec les 4e, 6e et 7e batteries, la 3e était à Boulogne, la 5e à Calais et enfin les 1ere et 2e étaient à Maubeuge. </p><p>Pas moins de 3 780 000 hommes sont mobilisés en août 1914. Au total, durant toute la guerre, environ 8 410 000 soldats et marins français seront mobilisés, dont 7 % de soldats indigènes venant des colonies de l'Empire. Parmi tous ces soldats, 1 397 800 sont <a href="../releves.php">morts pour la France</a> et 4 266 000 ont été bléssés au combat.</p>
 
     <figure>
-        <a href="sources/BOURSIER-Jules-Henri-matricule-01.jpg" data-fancybox="gallery" title="extrait sa fiche matricule">
+        <a href="sources/BOURSIER-Jules-Henri-matricule-01.jpg" data-fancybox="gallery" data-caption="extrait sa fiche matricule">
         <img src="miniatures/BOURSIER-Jules-Henri-matricule-01.jpg"  alt="extrait de la fiche matricule de Jules Henri BOURSIER"/></a>
         <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir)</figcaption>
     </figure>
@@ -173,18 +173,24 @@
 
 <p>Jules Henri BOURSIER est fait prisonnier de guerre à Maubeuge le 7 septembre 1914. Les troupes françaises de Maubeuge capturées à Maubeuge sont ensuite rassemblées à Rousies et une partie (dont Jules) est envoyée en internement  à <a href="../camps/camp-friedrichsfeld.php" title="le camp de prisonniers de Friedrichsfeld">Friedrichsfeld (Allemagne)</a>.</p>
 
+	<figure>
+    	<a href="images/siege-maubeuge" data-fancybox="gallery" data-caption="Bombardement de la forteresse de Maubeuge par les Allemands">
+    	<img src="miniatures/siege-maubeuge" alt="Des allemands pendant le siège de Maubeuge"></a>
+    	<figcaption>Bombardement de la forteresse de Maubeuge par les Allemands<br />(source: Delcampe)</figcaption>
+	</figure>
+
 <br /><h2>La fin du calvaire</h2>
 
 <p>Durant son "séjour",  Jules Henri BOURSIER est hospitalisé en Suisse avant d'être rapatrié le 3 novembre 1918, date à laquelle il obtient une permission de 30 jours qu'il passe à Manneville dans l'Eure.</p>
 
     <figure>
-        <a href="sources/BOURSIER-Jules-Henri-CICR.jpg" data-fancybox="gallery" title="Fiche numérisée du CICR">
+        <a href="sources/BOURSIER-Jules-Henri-CICR.jpg" data-fancybox="gallery" data-caption="Fiche numérisée du CICR">
         <img src="miniatures/BOURSIER-Jules-Henri-CICR.jpg" alt="Fiche de Jules Henri BOURSIER numérisée par le CICR"/></a>
         <figcaption>Fiche du CICR<br/>(cliquez pour agrandir)</figcaption>
     </figure>
 
     <figure>
-        <a href="sources/BOURSIER-Jules-Henri-CICR-02.jpg" data-fancybox="gallery" title="Extrait des archives de la Croix Rouge">
+        <a href="sources/BOURSIER-Jules-Henri-CICR-02.jpg" data-fancybox="gallery" data-caption="Extrait des archives de la Croix Rouge">
         <img src="miniatures/BOURSIER-Jules-Henri-CICR-02.jpg"  alt="Extrait des archives de la Croix Rouge"/></a>
         <figcaption>Extrait des archives de la Croix Rouge<br/>(cliquez pour agrandir)</figcaption>
     </figure>
@@ -194,7 +200,7 @@
 <p>Pendant ce temps, à Onnaing, où est né Jules Henri BOURSIER, les Allemands enlèvent les cloches de l'église (1915). Elles sont conduites à Saint-Saulve pour y être fondues et faire des canons. Trois ans plus tard, en 1918, les Allemands se retirent et font sauter la Route Nationale pour couper la route aux troupes de l'armée canadienne. Le monuments aux morts de la Première Guerre Mondiale est érigé en 1922, en hommage aux <a href="../releves/onnaing.php">150 victimes militaires de la commune.</a></p>
     
     <figure>
-    	<a href="../releves/images/onnaing-monument-aux-morts.jpg" data-fancybox="gallery" title="Le Monument aux Morts d'Onnaing">
+    	<a href="../releves/images/onnaing-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts d'Onnaing">
     	<img src="../releves/images/mini/onnaing-monument-aux-morts.jpg" alt="le Monument aux Morts d'Onnaing sur une carte postale ancienne"/></a>
     	<figcaption>Le Monument aux Morts de la guerre 1914-1918<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -211,7 +217,7 @@
         <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a> (source allemande)</li>
         <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf">Aus deutschen Kriegsgefangenenlagern</a> (Deutsches Rotes Kreuz)</li>
         <li><a href="http://amzn.to/2rvOovF">Prisonniers 1914-1918</a> (Editions Sulton / Jean-Paul Briaste)</li>
-        <li>Archives de la Croix Rouge</li>
+        <li><a href="https://grandeguerre.icrc.org/">Archives de la Croix Rouge</a></li>
         <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
     </ul>
 
@@ -237,12 +243,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+<script type="text/javascript" src="../js/script.js"></script>
+ 
 </body>
 </html>

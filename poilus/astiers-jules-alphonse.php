@@ -8,10 +8,13 @@
 <meta content="Parcours et biographie du poilu Jules Alphonse ASTIER(S), soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-   
-</head>   
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
 
@@ -25,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -65,7 +64,7 @@
 
 	<li class="asideheader">Marne</li>
         
-    <li><a href="arnould-henri-rene.php">ARNOULD Henri René</a></li>
+    <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
     <li><a href="astiers-jules-alphonse.php" class="AsideSelected">ASTIERS Jules Alphonse</a></li>       
     <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
     <li><a href="caron-eugene-alexandre.php">CARON Eugéne Alexandre</a></li>
@@ -96,7 +95,7 @@
 <p>Jules Alphonse ASTIERS est né le 14 février 1872 à Bétheniville, dans la Marne. Tisseur, il est le fils légitime d'André ASTIER et de Louise Adèle BALTAZART. Il part pour le service militaire le 16 novembre 1893 avec avoir été déclaré "bon" lors de son conseil de révision. Il rejoint le 91e Régiment d'Infanterie et arrive au corps en tant que soldat de 2e classe. Il devient soldat de 1ere classe le 8 octobre 1894 et est envoyé en congés un mois plus tard avec le certificat de bonne conduite.</p>
 
 	<figure>
-	    <a href="images/bethenville-place-munet.jpg" data-fancybox="gallery" title="La Place du Munet à Bétheniville">
+	    <a href="images/bethenville-place-munet.jpg" data-fancybox="gallery" data-caption="La Place du Munet à Bétheniville">
 	    <img src="miniatures/bethenville-place-munet.jpg" alt="La Place du Munet à Bétheniville sur une carte postale ancienne"/></a>
 	    <figcaption>La Place du Munet à Bétheniville<br />où est né Jules, aprés la guerre.</figcaption>
 	</figure>
@@ -167,14 +166,8 @@
 
 <!-- javascript -->
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+<script type="text/javascript" src="../js/script.js"></script>
 </body>
 </html>

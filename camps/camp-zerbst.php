@@ -8,12 +8,16 @@
 <meta name="description"  content="Présentation du camp de prisonniers de Zerbst pendant la Première Guerre mondiale (1914-1918)">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
-                   
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
+
 <!-- code js pour l'avertissement sur les cookies -->
 
 <script src="../js/cookiechoices.js"></script>
@@ -24,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" /></a>
-        <img src="../images/googleplus.png" /> 
-	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" /></a>
-    </div>
+    <?php include('../include/social.inc'); ?>
     
 <a href="../index.php" title="retour sur la page d'accueil du site">
 <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -108,7 +108,7 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
 <figure>    
-	<a href="images/Zerbst/localisation-zerbst.jpg" data-fancybox="gallery" title="Localisation du camp de Zerbst">
+	<a href="images/Zerbst/localisation-zerbst.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Zerbst">
     <img src="miniatures/Zerbst/localisation-zerbst.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Zerbst"></a>
     <figcaption>Localisation du camp de Zerbst<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>  
@@ -118,14 +118,14 @@
 <!--p>Le 28 juin 1917, les membres du comité de secours "Franco-Belge" sont incarcérés pendant 106 jours à la prison de Gommen. Ils sont accusés d'avoir transmis un document de la Kommandantur à la France. Le 11 octobre 1917, ils sont envoyés au camp de Alten-Grabow. Parmi les 106 coupables désignés par les Allemands figure deux belges: le premier maréchal des logis de gendarmerie COGNIAUX et le caporal LESQUOIS, originaire de Sommethonne-les-Virton.</p-->
 
 <figure>
-    <a href="images/Zerbst/zerbst-01.jpg" data-fancybox="gallery" title="Vue du camp de Zerbst">
+    <a href="images/Zerbst/zerbst-01.jpg" data-fancybox="gallery" data-caption="Vue du camp de Zerbst">
     <img src="miniatures/Zerbst/zerbst-01.jpg" alt="Vue du camp de prisonniers de Zerbst pendant la Grande Guerre"></a>
     <figcaption>Vue du camp de Zerbst
     <br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Zerbst/zerbst-02.jpg" data-fancybox="gallery" title="Une cérémonie au camp de Zerbst">
+    <a href="images/Zerbst/zerbst-02.jpg" data-fancybox="gallery" data-caption="Une cérémonie au camp de Zerbst">
     <img src="miniatures/Zerbst/zerbst-02.jpg" alt="Une cérémonie au camp de prisonnier de Zerbst pendant la Première Guerre Mondiale"></a>
     <figcaption>Une cérémonie au camp de Zerbst
     <br />(carte postale)</figcaption>
@@ -155,12 +155,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
+<script type="text/javascript" src="../js/script.js"></script>
 
 </body>
 </html>

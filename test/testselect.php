@@ -4,67 +4,20 @@
 <head>
 	  
     <meta charset="utf-8">  
-  
-      
+       
     <title> </title>  
     
-    <link type="text/css" rel="stylesheet" href="jQuery-Plugin-SwipeNav/css/reset.css" media="all" />    
-  	<link type="text/css" rel="stylesheet" href="jQuery-Plugin-SwipeNav/css/jquery-swipe-nav.css" media="all" />
   	<link rel="stylesheet" href="../css/style.css">
-	<link rel="stylesheet" href="../css/test.css">
+	<link rel="stylesheet" href="../css/resp.css">
 	<link rel="stylesheet" href="../css/fontawesome/css/all.css">
 	
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link rel="icon" type="image/png" href="../images/favicon.png" />
-
-  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	
-	<script type="text/javascript" src="jQuery-Plugin-SwipeNav/js/jquery-swipe-nav-plugin.js"></script>
-	
-	<script type="text/javascript">
-
-	$(document).ready(function(){
-		
-		//Page Action
-		$(document).on('click','#swipeNav li a',function(){
-			var href= $(this).attr("href");
-			switch(href){
-				case '#license':
-					$('#main').load('license.html');
-					return false;
-				break;
-				case '#src':
-					$('#main').load('src.html');
-					return false;
-				break;
-			}
-		});
-
-		//jQueryPlug-in Slide-Nav
-		$('#swipeNav').swipeNav();
-	});
-</script>
-	
-  	<style type="text/css">
-
-	
-	</style>
 	   
 </head> 
  
 <body>  
 	
-	
-	
-	<nav id="swipeNav">
-	  <ul>
-	    <li><a href="#">rubrique 1</a></li>
-	    <li><a href="#">rubrique 1</a></li>
-	    <li><a href="#">rubrique 2</a></li>
-	    <li><a href="#">rubrique 2</a></li>
-	  </ul>
-	</nav>
-		
 <header>
 
 	<img src="jQuery-Plugin-SwipeNav/img/list-icon.png" alt="" width="24" height="24" id="menuBtn" />
@@ -141,7 +94,7 @@
 <p class="note"><sup>1</sup>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 	<figure>
-	    <a href="portraits/FIEVET-Auguste-Victor.jpg" data-fancybox="gallery" title=" ">
+	    <a href="portraits/FIEVET-Auguste-Victor.jpg" data-fancybox="gallery" data-caption=" ">
 	    <img src="http://lorempixel.com/450/200" /></a>
 	    <figcaption>Auguste Victor FIEVET</figcaption>
 	</figure>
@@ -149,7 +102,7 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
     <table class="tab_camp">
-        <caption align="bottom">Source TODO</caption>
+        <caption>Source TODO</caption>
         <thead>
         <tr>
             <th id="blank">&nbsp;</th>

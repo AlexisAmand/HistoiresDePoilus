@@ -8,10 +8,14 @@
 <meta content="Parcours de Henri Gustave FONTAINE, soldat anzinois pendant la Première Guerre Mondiale. Il était membre du 91e Régiment d'Infanterie" name="description">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-                  
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
+
 
 <body>
 <!-- code js pour l'avertissement sur les cookies -->
@@ -24,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -89,6 +89,7 @@
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
         <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -118,7 +119,7 @@
 <p><strong>Henri Gustave FONTAINE</strong>, le père de mon arrière-grand-mère, est né le 24 février 1890 à Anzin (Nord). Il est le fils légitime de Henri François FONTAINE, ouvrier mineur, âgé de 32 ans et de Désirée BAR, âgée de 26 ans. En 1906, Henri est journalier. Il vit Rue Kléber à Anzin avec ses parents et ses frères et sœurs: Virginie, Désirée, Gustave, Marie et Léonie.</p>
 
 	<figure>
-	    <a href="images/anzin-rue-kleber.jpg" data-fancybox="gallery" title="La rue Kléber à Anzin">
+	    <a href="images/anzin-rue-kleber.jpg" data-fancybox="gallery" data-caption="La rue Kléber à Anzin">
 	    <img src="miniatures/anzin-rue-kleber.jpg" alt="La rue Kléber à Anzin sur une carte postale"/></a>
 	    <figcaption>La Rue Kléber à Anzin<br />(Source: Bibliothèque municipale de Valenciennes)</figcaption>
 	</figure>
@@ -126,7 +127,7 @@
 <p>Il s'unit à Valenciennes (Nord) avec Bertha CANONNE le 3 avril 1914. Bertha est la fille légitime de Nestor CANONNE et de Marie Eugénie DUCHÊNE. Le couple aura plusieurs enfants: Henri, Madeleine (mon arrière-grand-mère, qui épousera Kleber le fils de <a href="FIEVET-Charles-Augustin.php" title="Voir la page consacrée à Charles Augustin Fievet">Charles Augustin FIEVET</a>), René, Marcel et Marie-Louise.</p>
 
 	<figure>
-	    <a href="portraits/tous-les-grand-peres.jpg" data-fancybox="gallery" title="La famille FONTAINE">
+	    <a href="portraits/tous-les-grand-peres.jpg" data-fancybox="gallery" data-caption="La famille FONTAINE">
 	    <img src="miniatures/tous-les-grand-peres.jpg" alt="La famille FONTAINE"/></a>
 	    <figcaption>Henri Gustave, debout avec le chapeau<br />(Source: Archives familiales)</figcaption>
 	</figure>
@@ -168,13 +169,13 @@
 <p>Anzin, commune où est né <strong>Henri</strong>, est occupée par l'armée allemande dès le 25 août 1914, aussitôt un couvre-feu instauré.</p><p><a href="http://cartespostalesanciennes.genealexis.fr/album/36-anzin" title="cartes postales anciennes d'Anzin sur le site Genealexis">Anzin</a> avait la particularité d’être située dans la « zone d'étape », qui comprenait toutes les compagnies du Nord, la compagnie des mines d'Anzin reprit l'exploitation au bout de quelques semaines en partie avec du personnel réquisitionné et sous le contrôle étroit de la Bergverwaltung (section des mines de l’administration allemande). Sa production est toutefois  inférieure de 30 % à celle de 1913. </p><p>L'exploitation industrielle fut par contre arrêtée : les usines de la Société des Forges furent totalement démolies, les machines et ferrailles étant récupérées au profit de l'industrie allemande ; l'usine Escaut-et-Meuse fut transformée en atelier de réparation de canons. </p><p>La ville d'Anzin est libérée le 1er novembre 1918.</p>
 
 	<figure>
-	    <a href="images/anzin-1914-01.jpg"  data-fancybox="gallery" title="La Croix d'Anzin">
+	    <a href="images/anzin-1914-01.jpg"  data-fancybox="gallery" data-caption="La Croix d'Anzin">
 	    <img src="miniatures/anzin-1914-01.jpg" alt="La Croix D'Anzin en pendant la Première Guerre Mondiale (1914-1918) sur une carte postale ancienne"/></a>
 	    <figcaption>La Croix d'Anzin détruite en 1914-18</figcaption>
 	</figure>
 
 	<figure>
-	    <a href="images/anzin-1914-02.jpg"  data-fancybox="gallery" title="Le retour des évacués à Anzin en 1918">
+	    <a href="images/anzin-1914-02.jpg"  data-fancybox="gallery" data-caption="Le retour des évacués à Anzin en 1918">
 	    <img src="miniatures/anzin-1914-02.jpg" alt="Le retour des évacués à Anzin après la guerre en 1918"/></a>
 	    <figcaption>Le retour des évacués en 1918</figcaption>
 	</figure>
@@ -217,12 +218,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>

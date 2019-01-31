@@ -8,12 +8,16 @@
 <meta name="description"  content="Présentation du camp de prisonniers de Regensburg en Allemagne pendant la Première Guerre mondiale (1914-1918)">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />            
-       
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
+
 <!-- code js pour l'avertissement sur les cookies -->
 
 <script src="../js/cookiechoices.js"></script>
@@ -24,17 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" />
-        </a>
-        <img src="../images/googleplus.png" /> 
-	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" />
-        </a>
-    </div>
+    <?php include('../include/social.inc'); ?>
     
 <a href="../index.php" title="retour sur la page d'accueil du site">
 <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -113,25 +111,25 @@
 <p>Ce camp était situé à Ratisbonne (Regensburg) dans le Haut-Palatinat, en Bavière.</p>
 
 <figure>    
-    <a href="images/Regensburg/camp-regensburg.jpg" data-fancybox="gallery" title="Localisation du camp de Regensburg">
-    <img src="miniatures/Regensburg/camp-regensburg.jpg" data-fancybox="gallery" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Regensburg">
+    <a href="images/Regensburg/camp-regensburg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Regensburg">
+    <img src="miniatures/Regensburg/camp-regensburg.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Regensburg"></a>
     <figcaption>Localisation du camp de Regensburg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>    
 
 <figure>
-    <a href="images/Regensburg/regensburg-01.jpg" data-fancybox="gallery" title="Dans la cours du camp à Ratisbonne">
+    <a href="images/Regensburg/regensburg-01.jpg" data-fancybox="gallery" data-caption="Dans la cours du camp à Ratisbonne">
     <img src="miniatures/Regensburg/regensburg-01.jpg" alt="des prisonniers dans la cours du camp de Ratisbonne pendant la Première Guerre Mondiale"></a>
     <figcaption>Dans la cours du camp<br />(Source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Regensburg/regensburg-02.jpg" data-fancybox="gallery" title="Vue du camp de Ratisbonne">    
+    <a href="images/Regensburg/regensburg-02.jpg" data-fancybox="gallery" data-caption="Vue du camp de Ratisbonne">    
     <img src="miniatures/Regensburg/regensburg-02.jpg" alt="une vue du camp de prisonniers de Regensburg pendant la Grande Guerre"></a>
     <figcaption>Vue du camp de Ratisbonne<br />(Source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/Regensburg/regensburg-03.jpg" data-fancybox="gallery" title="Exercice des pompiers à Ratisbonne"> 
+    <a href="images/Regensburg/regensburg-03.jpg" data-fancybox="gallery" data-caption="Exercice des pompiers à Ratisbonne"> 
     <img src="miniatures/Regensburg/regensburg-03.jpg" alt="Exercice des pompiers dans le camp de prisonniers de Ratisbonne pendant la Première Guerre Mondiale"></a>
     <figcaption>Exercice des pompiers<br />(Source allemande)</figcaption>
 </figure>
@@ -166,12 +164,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
+<script type="text/javascript" src="../js/script.js"></script>
 
 </body>
 </html>

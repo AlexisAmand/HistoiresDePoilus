@@ -8,8 +8,11 @@
 <meta content="relevés des soldats et des civils de Verpel (Ardennes) morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or">
     
 <link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="../css/resp.css">
+<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                 
 </head>
 
@@ -24,15 +27,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-  <div id="rezo">
-    <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-      <img src="../images/facebook.png" alt="logo facebook" /></a>
-      <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-      <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-  </div>
+<?php include('../include/social.inc'); ?>
   
 <a href="../index.php" title="Retour sur la page d'accueil du site">
 <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -126,7 +125,7 @@
 <p></p>
 
 <figure>
-    <a href="images/monument-verpel.jpg" data-fancybox="gallery" title="Le Monument aux Morts de Verpel">
+    <a href="images/monument-verpel.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Verpel">
     <img src="images/mini/monument-verpel.jpg" alt="le Monument aux Morts de Verpel sur une carte postale ancienne"/>
     </a>
     <figcaption>Le Monument aux Morts<br />(cliquez pour agrandir)</figcaption>
@@ -224,12 +223,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>

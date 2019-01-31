@@ -8,12 +8,16 @@
 <meta name="description"  content="Présentation du camp de prisonniers de Francfort-sur-le-Main en Allemagne pendant la Première Guerre mondiale (1914-1918)">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
-                   
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
+
 <!-- code js pour l'avertissement sur les cookies -->
 
 <script src="../js/cookiechoices.js"></script>
@@ -24,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+  <?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -108,7 +108,7 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br /><p>Le camp de Francfort-sur-le-Main (Frankfurt am Main en allemand) a été créé au début de l’année 1918. Un rapport de l’Office central belge pour les prisonniers de guerre indique qu’il était installé dans une école entourée d’un grillage, pour éviter tout contact avec l’extérieur. Les dortoirs contenaient chacun 6 à 8 lits garnis d’une paillasse rembourrée d’algues marines, d’un traversin et de deux couvertures. En mai 1918, le camp de Höchst-sur-le-Main (Höchst am Main en allemand) est réuni à celui de Francfort-sur-le-Main. L’évacuation de se camp s’est faite très rapidement le 18 novembre 1918, par Nancy.</p> 
 
 <figure>
-    <a href="images/Frankfurt/frankfurt-01.jpg" data-fancybox="gallery" title="des français dans le camp de Frankfurt">
+    <a href="images/Frankfurt/frankfurt-01.jpg" data-fancybox="gallery" data-caption="des français dans le camp de Frankfurt">
     <img src="miniatures/Frankfurt/frankfurt-01.jpg" alt="Prisonniers français bêchant des parterres de fleur au camp de Francfort pendant la Première Guerre Mondiale"></a>
     <figcaption>Prisonniers français bêchant des parterres de fleurs<br />(source allemande)</figcaption>
 </figure>
@@ -149,12 +149,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
+<script type="text/javascript" src="../js/script.js"></script>
 
 </body>
 </html>

@@ -8,10 +8,13 @@
 <meta content="Parcours de Léon CARIN, soldat pendant la Première Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-                
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
 
@@ -25,16 +28,12 @@
     });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
-    
+<?php include('../include/social.inc'); ?>
+
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
   
@@ -70,7 +69,7 @@
 	<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
     <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
     <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
-    <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
+    <li><a href="CARIN-Leon.php" class="AsideSelected">CARIN Léon (+)</a></li>
     <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
     <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
     <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
@@ -89,7 +88,8 @@
     <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
     <li><a href="magny-jules.php">MAGNY Jules</a></li>
     <li><a href="mascart-emile.php">MASCART Emile</a></li>
-    <li><a href="mascart-leon.php" class="AsideSelected">MASCART Léon</a></li>
+    <li><a href="mascart-leon.php">MASCART Léon</a></li>
+    <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
     <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
     <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
     <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -119,13 +119,13 @@
 <p>Léon CARIN est né à Lourches (Nord) le 28 juillet 1896, fils légitime de François Louis CARIN et de Pauline DUSSART. Il a pour frère <a href="CARIN-Edouard.php">Edouard</a> et <a href="CARIN-Theophile.php">Théophile.</a> En 1906, Léon vit Rue de Beauvois à Lourches, avec ses parents et ses frères et sœurs.</p>
 
 	<figure>
-	    <a href="images/arbre-carin.png" data-fancybox="gallery" title="La famille CARIN">
-	    <img src="miniatures/arbre-carin.png" alt="arbre généalogique de la Famille Carin de Lourches et Roeulx"  style="box-shadow:none;width:650px;"></a>
+	    <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="La famille CARIN">
+	    <img src="miniatures/arbre-carin.png" alt="arbre généalogique de la Famille Carin de Lourches et Roeulx"  class="ArbreGenealogique"></a>
 	    <figcaption>Arbre généalogique de la famille CARIN<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 
 	<figure>
-	    <a href="sources/CARIN-Leon-matricule.jpg"  data-fancybox="gallery" title="Fiche matricule de léon CARIN">
+	    <a href="sources/CARIN-Leon-matricule.jpg"  data-fancybox="gallery" data-caption="Fiche matricule de léon CARIN">
 	    <img src="miniatures/CARIN-Leon-matricule.jpg" alt="extrait de la fiche matricule de Léon CARIN"/></a>
 	    <figcaption>Extrait de sa fiche matricule.<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
 	</figure>
@@ -161,7 +161,7 @@
 <p>Léon s'est engagé pour la durée la guerre à la mairie de Roanne, où il vivait en tant que réfugié, le 16 février 1915 au titre du <strong>127e Régiment d'Infanterie</strong>. A la mobilisation, l'infanterie de ligne était composée de 173 régiments qui contenaient chacun 73 officiers et 3200 hommes.</p> 
     
 	<figure>
-	    <a href="images/roanne-place.jpg"  data-fancybox="gallery" title="La place de Roanne et l'hôtel de ville">
+	    <a href="images/roanne-place.jpg"  data-fancybox="gallery" data-caption="La place de Roanne et l'hôtel de ville">
 	    <img src="miniatures/roanne-place.jpg" alt="La place de Roanne et l'hôtel de ville sur une carte postale ancienne"/></a>
 	    <figcaption>La Place de l'Hôtel de Ville de Roanne.<br/>(cliquez pour agrandir)</figcaption>
 	</figure>   
@@ -175,10 +175,16 @@
 	    <figcaption>Plan de l'ouvrage de Froideterre<br />(source: <a href="http://www.verdun-meuse.fr/">http://www.verdun-meuse.fr/</a>) </figcaption>
 	</figure>
 
+	<figure>
+	    <a href="images/froideterre.jpg"  data-fancybox="gallery" data-caption="Froideterre peint par E. Barthelemy">
+	    <img src="miniatures/froideterre.jpg" alt="Tableau représentant Froideterre peint par E. Barthelemy"/></a>
+	    <figcaption>Devant Froideterre<br />(Tableau de E. Barthelemy)</figcaption>
+	</figure> 
+
 <p>Léon CARIN est quant à lui porté disparu le 7 avril 1916 à Haucourt (Meuse, et non Marne comme indiqué sur la fiche matricule) alors que son régiment venait juste de s'installer pour relever le 69e Régiment d'Infanterie à Hautcourt et vers l'ouvrage de Palavas. Son nom est indiqué sur la liste des disparus du JMO du 153e R.I. (page 16). </p>
 
 	<figure>
-	    <a href="images/153eRI-JMO.jpg"  data-fancybox="gallery" title="Extrait du Journal des marches et des opérations du 153e RI">
+	    <a href="images/153eRI-JMO.jpg"  data-fancybox="gallery" data-caption="Extrait du Journal des marches et des opérations du 153e RI">
 	    <img src="miniatures/153eRI-JMO.jpg" alt="extrait du Journal des marches et des opérations du 153e régiment d'infanterie"/></a>
 	    <figcaption>Extrait du JMO du 153e R.I<br />(source: Ministère de la Défense)</figcaption>
 	</figure> 
@@ -186,7 +192,7 @@
 <p>Son décès est fixé au 7 avril 1916 par jugement déclaratif rendu le 2 juin 1921 par le tribunal de Valenciennes. Le décès est transcrit le 5 juillet 1921 à la mairie de Roeulx et son nom figure sur le Monument aux Morts de la commune.</p>
 
 	<figure>
-	    <a href="sources/CARIN-leon-mpf.JPG"  data-fancybox="gallery" title="Fiche de Mort pour la France">
+	    <a href="sources/CARIN-leon-mpf.JPG"  data-fancybox="gallery" data-caption="Fiche de Mort pour la France">
 	    <img src="sources/CARIN-leon-mpf.JPG" height="450px" alt="Fiche de Mort pour la France de Léon CARIN"/></a>
 	    <figcaption>Léon, mort pour la France.</figcaption>
 	</figure>
@@ -194,7 +200,8 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>       
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
+         <li><a href="https://archive.org/details/19141918iedixneu01chriuoft">La Grande Guerre, vécue - racontée - illustrée par les combattants (tome 1)</a><br />(Publiée sous la Direction de Christian-Frogé, 1922)</li>     
     </ul>
 
 <p class="sources">
@@ -219,12 +226,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>

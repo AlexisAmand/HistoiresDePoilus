@@ -8,10 +8,13 @@
 <meta content="Parcours et biographie du jass Jules AMAND, soldat belge pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-   
-</head>   
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head> 
 
 <body>
 
@@ -25,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -90,13 +89,13 @@
 <p><strong>Jules AMAND</strong> est né à Boussu (Belgique) le 24 novembre 1888, fils de Jules AMAND et Antoinette AMAND. Soldat de 2e classe et milicien au sein du 9e Régiment de Ligne pendant la Grande Guerre sous le matricule 109/54524. Sa fiche sépulture indique qu'il est probable qu'il soit tombé au combat le 6 août 1914 au Bois Saint-Jean à Ougrée (prés de Liège) étant entendu que son livret de mobilisation a été retrouvé sur le champ de bataille de cette commune. L'ancêtre que j'ai en commun avec lui est Jean Joseph AMAND, mon sosa n°256, 8 générations avant moi. (source: <a href="https://www.wardeadregister.be/fr">Dead War Register</a>)</p>
 
     <figure>
-        <a href="sources/amand-jules.jpg" data-fancybox="gallery" title="Fiche Sépultures et cimetières militaires de Jules AMAND">
+        <a href="sources/amand-jules.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
         <img src="miniatures/amand-jules.jpg" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
         <figcaption>Fiche Sépultures et cimetières militaires<br />(Source: War Heritage Institute)</figcaption>
     </figure>
 
     <figure>
-    	<a href="images/ougree.jpg" data-fancybox="gallery" title="Jules AMAND sur le monument d'Ougrée en Belgique">
+    	<a href="images/ougree.jpg" data-fancybox="gallery" data-caption="Jules AMAND sur le monument d'Ougrée en Belgique">
     	<img src="miniatures/ougree.jpg" alt="Jules AMAND sur le monument d'Ougrée en Belgique"/></a>
     	<figcaption>Jules sur le monument d'Ougrée<br>(Source: <a href="http://www.bel-memorial.org">Bel-Memorial</a>)</figcaption>
     </figure>
@@ -121,14 +120,8 @@
 
 <!-- javascript -->
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+<script type="text/javascript" src="../js/script.js"></script>
 </body>
 </html>

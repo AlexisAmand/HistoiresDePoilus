@@ -28,10 +28,7 @@
 
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site"><img src="../../images/facebook.png"    alt="logo facebook"   /> </a> 
-	  <img src="../../images/googleplus.png"    alt="logo Google Plus"   /><a href="https://twitter.com/alexisamand?lang=fr" title="me suivre sur Twitter"><img src="../../images/twitter.png"    alt="logo Twitter"   /></a>
-    </div>
+<?php include('../../include/social.inc'); ?>
     
 	<a href="../../index.php" title="Retour sur la page d'accueil du site">
   <img src="../../images/logo.png" class="logo" alt="retour sur la page d'accueil du site"/></a>

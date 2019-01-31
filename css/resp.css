@@ -1,0 +1,218 @@
+/* ------------------------------ */ 
+/* Tableau pour la version mobile */
+/* ------------------------------ */
+
+table, td, th { 
+   
+   border-collapse: collapse;
+   text-align: center;
+}
+
+
+table {
+	border: 0px solid black;
+	margin-top: 0px;
+}
+
+td, th {
+  border: 1px solid black;
+	
+}
+
+tr:nth-child(even){ background-color: #eee; }
+ 
+@media (max-width: 40em) {
+   table, tbody { display: block; }
+   tr {
+      display: table;
+      width: 100%;
+      margin-bottom: 6px;
+   }
+   th {
+      font-size: 0;
+      border: none;
+      visibility: hidden;
+   }
+   td, th { display: table-row; }
+   td:before {
+      content: attr(data-headers);
+      display: table-cell;
+      width: 60%;
+      border-right:  1px solid black;      
+   }
+   
+}
+
+/* ---------------------------- */
+/* Style pour la version mobile */
+/* ---------------------------- */
+	
+@media (max-width: 959px) {
+		
+#btnresp
+	{
+	font-size:2.3em;
+	color:#e2ede4;
+	position:absolute;
+	top:6px;
+	left:15px;
+	display: inline;
+	}
+
+#rezo
+	{
+	float:right;
+	padding-right:15px;
+	font-size:2.3em;	
+	}	
+	
+#btnresp
+	{
+	visibility: visible;
+	}
+	
+table caption
+	{
+	text-align: center;
+	color: #363535;
+	margin-bottom: 4px;
+	margin-top: 0px;
+	font-size: 0.9em;	
+	width: 100%;
+	}
+	
+header
+	{
+	width:100%;
+	text-align:center;
+	}
+	
+#rezo
+	{
+	float:right;
+	padding-right:15px;
+	}
+	
+#rezo img
+	{
+	width: 35px;
+	height: 35px;
+	}
+
+.logo
+	{
+	margin-top: 10px;
+	margin-left: 0px;
+	}
+	
+header img 
+	{
+	width:250px;
+	max-width:359px;
+	}	
+
+nav
+	{
+	width:100%;
+	display:none;
+	}
+	
+#navbis
+	{
+	display:none;
+	}	
+	
+section
+	{
+	width:100%;
+	}	
+
+article
+	{
+	width:100%;
+	padding: 8px;
+	}
+
+aside 
+	{
+	display:none;
+	}
+
+footer
+	{
+	width:100%;
+	}
+	
+#colindex
+	{
+	-moz-column-count:1;
+	-webkit-column-count:1;
+	-o-column-count:1;
+	column-count:1;
+	}	
+	
+figure img
+	{
+	width:75%;
+	}	
+	
+header, section, footer
+	{
+	margin-left:0px;
+	margin-right:0px;	
+	}	
+		
+
+.ArbreGenealogique
+	{
+	box-shadow:none;
+	}
+	
+}	
+
+/* --------------------------- */ 
+/* Menu pour la version mobile */
+/* --------------------------- */
+
+
+
+
+#menuresp
+	{
+	width:100%;
+	border:1px solid #5b5b5b;
+	position:absolute;
+	top:64px;
+	background-color:#5b5b5b;
+	visibility:hidden;
+	}
+	
+#menuresp ul li 
+	{
+	border-bottom:1px solid #efefef; 	
+	}
+	
+#menuresp ul li a:link
+	{
+	display: block;
+	background-color: #5b5b5b;
+	width:100%;
+	text-align: center;
+	color: #efefef;
+	text-decoration: none;	
+	padding-top:12px;
+	padding-bottom:12px;	
+	}
+	
+#menuresp ul li a:hover
+	{
+	display: block;
+	color:#5b5b5b;
+	background-color:#e2ede4;
+	width:100%;
+	text-align: center;	
+	text-decoration: none;
+	}	
+
+
+		

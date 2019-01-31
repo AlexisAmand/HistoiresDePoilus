@@ -8,10 +8,13 @@
 <meta content="Parcours et biographie du poilu Léon MASCART, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-   
-</head>   
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>  
 
 <body>
 
@@ -25,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -65,7 +64,7 @@
 
 	<li class="asideheader">Nord</li>
 
-    <li><a href="bottiau-raphael-joseph.php" class="AsideSelected">BOTTIAU Raphaël Joseph</a></li>
+    <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
 	<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
 	<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
     <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
@@ -89,7 +88,8 @@
     <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
     <li><a href="magny-jules.php">MAGNY Jules</a></li>
     <li><a href="mascart-emile.php">MASCART Emile</a></li>
-    <li><a href="mascart-leon.php">MASCART Léon</a></li>
+    <li><a href="mascart-leon.php" class="AsideSelected">MASCART Léon</a></li>
+    <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
     <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
     <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
     <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -116,10 +116,10 @@
     
 <h1>Léon MASCART</h1>
         
-<p><strong>Léon MASCART</strong> est né à Onnaing le 30 janvier 1874. Avant la guerre (1906), il est mineur à la Fosse de Cuvinot et vit "au Trié" à Onnaing avec son épouse Maire FINET. Frère de Louis, il est maintenu en surcis aux Mines d'Anzin à la mobilisation. Le 17 décembre 1914, par le bulletin n°63, il est mis en sursis aux mines de Bruay (Pas-de-Calais) où il est entré en fonction le 28 octobre de la même année. Il est rayé de la mine le 15 janvier 1919 et est envoyé en congés illimité le 12 février 1919. Il se retire à Onnaing, Rue de l'Eglise.</p>
+<p><strong>Léon MASCART</strong> est né à Onnaing le 30 janvier 1874. Avant la guerre (1906), il est mineur à la Fosse de Cuvinot et vit "au Trié" à Onnaing avec son épouse Maire FINET. Frère de <a href="mascart-louis.php">Louis</a>, il est maintenu en surcis aux Mines d'Anzin à la mobilisation. Le 17 décembre 1914, par le bulletin n°63, il est mis en sursis aux mines de Bruay (Pas-de-Calais) où il est entré en fonction le 28 octobre de la même année. Il est rayé de la mine le 15 janvier 1919 et est envoyé en congés illimité le 12 février 1919. Il se retire à Onnaing, Rue de l'Eglise.</p>
 		
 	<figure>
-	    <a href="http://cartespostalesanciennes.genealexis.fr/image/168-fosse-cuvinot-a-onnaing-vers-1900" data-fancybox="gallery" title="La Fosse de Cuvinot à Onnaing">
+	    <a href="http://cartespostalesanciennes.genealexis.fr/image/onnaing/168-fosse_cuvinot_a_onnaing_vers_1900.jpg" data-fancybox="gallery" data-caption="La Fosse de Cuvinot à Onnaing">
 	    <img src="http://cartespostalesanciennes.genealexis.fr/image/onnaing/168-fosse_cuvinot_a_onnaing_vers_1900.jpg" width="450px" alt="La Fosse de Cuvinot à Onnaing"/></a>
 	    <figcaption>La Fosse de Cuvinot</figcaption>
     </figure>
@@ -146,12 +146,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>

@@ -8,22 +8,33 @@
 <meta content="Parcours de Charles Augustin FIEVET, soldat lillois pendant la Première Guerre Mondiale. Il était membre du 162e Régiment d'Infanterie puis prisonnier de guerre à Gardelegen" name="description">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-                
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
+
 
 <body>
 
+<!-- code js pour l'avertissement sur les cookies -->
+
+<script src="../js/cookiechoices.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+      'Ok', 'En savoir plus', 'cookies.php');
+  });
+</script>
+
+<?php include('../include/resp.inc'); ?>
+
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -80,6 +91,7 @@
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
         <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -109,13 +121,13 @@
 <p><strong>Charles Augustin FIEVET</strong>, le père de mon arrière-grand-père (Kleber pour ceux qui lisent régulièrement <a href="http://www.genealexis.fr">mon blog</a>), est né le dimanche 3 décembre 1882 à Lille (Nord). Il est le fils de Charles Jules Henri, fileur de Coton, âgé de 28 ans et de Marie Roseline LOHIEZ, âgée de 19 ans. Il a pour frère <a href="FIEVET-Auguste-Victor.php">Auguste Victor</a>. </p>
 
 	<figure>
-	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" title="Arbre généalogique de Louis Henri ROUSSEAUX">
-	    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX"  style="box-shadow:none;width:650px;"></a>
+	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
+	    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX"  class="ArbreGenealogique"></a>
 	    <figcaption>Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 	
 	<figure>
-	    <a href="portraits/charles-augustin-FIEVET.jpg" data-fancybox="gallery" title="Charles Augustin FIEVET">
+	    <a href="portraits/charles-augustin-FIEVET.jpg" data-fancybox="gallery" data-caption="Charles Augustin FIEVET">
 	    <img src="miniatures/charles-augustin-FIEVET.jpg" height="278" alt="Portrait de Charles Augustin FIEVET"/></a>
 	    <figcaption>Charles Augustin FIEVET<br />(Source: Archives familiales)</figcaption>
 	</figure>
@@ -149,7 +161,7 @@
 <p>La photo ci-dessus date sans doute du début des années 20. Il s'agit d'un extrait d'une photo de groupe prise lors du conseil de révision de son fils Charles Jules Henri. De gauche à droite, on trouve Kleber Camille (né en 1910, fils de Charles Augustin), Charles Jules (pére de Charles Augustin), Charles Jules Henri (né en 1903) et Charles Augustin... j'espère que vous avez suivi avec attention...</p>
 
 	<figure>
-	    <a href="portraits/Le-conseil-de-revision.jpg" data-fancybox="gallery" title="Le conseil de révision">
+	    <a href="portraits/Le-conseil-de-revision.jpg" data-fancybox="gallery" data-caption="Le conseil de révision">
 	    <img src="miniatures/Le-conseil-de-revision.jpg" alt="La famille FIEVET au conseil de révision"/></a>
 	    <figcaption>Le conseil de révision<br />(Source: Archives familiales)</figcaption>
 	</figure>
@@ -161,12 +173,12 @@
 <p>Soldat de 2e classe âgé de 32 ans en 1914, <strong>Charles Augustin</strong> est mobilisé et rejoint le <strong>162e Régiment d'Infanterie</strong>. Je connais peut de chose sur son destin pendant le conflit. Mon seul indice ? Il est prisonnier de guerre à <a href="../camps/camp-gardelegen.php">Gardelegen (Allemagne)</a>. </p>
 
 	<figure>
-	    <a href="images/matricule-charles-fievet.jpg" data-fancybox="gallery" title="Fiche matricule de Charles Augustin (Extrait)">
+	    <a href="images/matricule-charles-fievet.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Charles Augustin (Extrait)">
 	    <img src="miniatures/matricule-charles-fievet.jpg"  alt="Extrait de la fiche matricule de Charles Augustin FIEVET"/></a>
 	</figure>
 
 	<figure>
-	    <a href="sources/charles-jules-FIEVET-matricule-01.jpg" data-fancybox="gallery" title="Fiche matricule de Charles Augustin (Extrait)">
+	    <a href="sources/charles-jules-FIEVET-matricule-01.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Charles Augustin (Extrait)">
 	    <img src="miniatures/charles-jules-FIEVET-matricule-01.jpg" alt="Extrait de la fiche matricule de Charles Augustin FIEVET"/></a>
 	    <figcaption>Extraits de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
 	</figure>
@@ -174,7 +186,7 @@
 <p>Selon les docs de la Croix Rouge, il est fait prisonnier à Bikschote (Belgique) avant le 23 janvier 1915, selon moi durant la Première Bataille d’Ypres entre la fin du mois d’octobre et le début du mois de novembre 1914. </p>
 
 	<figure>
-	    <a href="sources/cicr-fievet-01.JPG" data-fancybox="gallery" title="Extrait d'une liste de prisonniers (source: CICR)">
+	    <a href="sources/cicr-fievet-01.JPG" data-fancybox="gallery" data-caption="Extrait d'une liste de prisonniers (source: CICR)">
 	    <img src="miniatures/cicr-fievet-01.JPG" alt="Extrait d'une liste de prisonniers de la Croix Rouge"/></a>
 	    <figcaption>Extrait d'une liste de prisonniers<br />(Source: CICR)</figcaption>
 	</figure>
@@ -217,12 +229,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>

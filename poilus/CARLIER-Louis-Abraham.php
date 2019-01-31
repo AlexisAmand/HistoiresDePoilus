@@ -8,10 +8,13 @@
 <meta content="Parcours de Louis Abraham CARLIER, soldat sebourgeois pendant la Première Guerre Mondiale. Il était membre du 1er Régiment d’Artillerie à Pied puis prisonnier de guerre à Münster" name="description">    
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-                  
-    </head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
 <!-- code js pour l'avertissement sur les cookies -->
@@ -24,15 +27,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -89,6 +88,7 @@
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
         <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -118,8 +118,8 @@
 <p><strong>Louis Abraham CARLIER</strong>, frère de <a href="CARLIER-Druon-Joseph.php" title="Voir la biographie du poilu Druon Joseph CARLIER">Druon Joseph</a>, est né 17 décembre 1871 à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> (Nord).</p> 
 
 	<figure>
-	    <a href="images/arbre-carlier-2.png" data-fancybox="gallery" title="Arbre généalogique simplifié de la famille CARLIER">
-	    <img src="miniatures/arbre-carlier-2.png" alt="Arbre généalogique simplifié de la famille CARLIER" style="box-shadow:none;width:650px;"/></a>
+	    <a href="images/arbre-carlier-2.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille CARLIER">
+	    <img src="miniatures/arbre-carlier-2.png" alt="Arbre généalogique simplifié de la famille CARLIER" class="ArbreGenealogique"/></a>
 	    <figcaption>Arbre simplifié de la famille CARLIER<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 
@@ -158,7 +158,7 @@
 <p>Âgé de 43 ans en 1914, <strong>Louis Abraham</strong> est mobilisé comme la plupart des hommes de sa génération et devient auxiliaire de place forte au sein de la 1ere batterie (3e selon certaines sources) du <strong>1er Régiment d’Artillerie à Pied</strong>. En 1914, l’artillerie à pied est réservée à la défense d'une zone que l’on appelle groupe  et a en charge outre la défense de ce groupe, celle des forts et ouvrages. Il est cantonné au groupe de Grévaux, sous les ordres  Capitaine BOCQUET.</p>
 
 	<figure>
-	    <a href="portraits/Louis Abraham CARLIER (frère de sosa 22).jpg" data-fancybox="gallery" title="Portrait de Louis Abraham CARLIER">
+	    <a href="portraits/Louis Abraham CARLIER (frère de sosa 22).jpg" data-fancybox="gallery" data-caption="Portrait de Louis Abraham CARLIER">
 	    <img src="miniatures/Louis Abraham CARLIER (frère de sosa 22).jpg" alt="portrait de Louis Abraham CARLIER"/></a>
 	    <figcaption>Louis Abraham CARLIER<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -167,12 +167,18 @@
 
 <p>Le bombardement reprend sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er territorial opposent une belle résistance.</p>
 
+	<figure>
+	    <a href="images/maubeuge-sept-1914.jpg" data-fancybox="gallery" data-caption="L'emplacement des forts de la place forte de Maubeuge en 1914">
+	    <img src="miniatures/maubeuge-sept-1914.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
+	    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et mouvement des troupes allemandes</figcaption>
+	</figure>
+
 <br/><h2>On brûle les drapeaux de la garnison de Maubeuge...</h2>
 
 <p>Le 4 septembre 1914, le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e, 2e, 3e  et 4e  territorial et enfin celui du <strong>1er Régiment d'Artillerie à Pied</strong>.</p><p>Dès le lendemain, à 7 heures, les drapeaux de la garnison sont brûlés dans le jardin du Pavillon, à proximité de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
 
 	<figure>
-	    <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" title="La Caserne Joyeuse (Maubeuge) avant 1914">
+	    <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" data-caption="La Caserne Joyeuse (Maubeuge) avant 1914">
 	    <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg"  alt="La caserne Joyeuse à Maubeuge avant la Première Guerre Mondiale"/></a>
 	    <figcaption>La Caserne Joyeuse à Maubeuge<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -182,7 +188,7 @@
 <p><strong>Louis Abraham</strong> est fait prisonnier le 7 septembre 1914 à Ferrière-la-Grande (à côté de Maubeuge) et  envoyé à Munster  (Munster III selon sa fiche matricule, Munster II selon sa carte d’ancien combattant).</p>
 
 	<figure>
-	    <a href="sources/Louis-Carlier-dossier-01.jpg" data-fancybox="gallery" title="Carte d'ancien de Louis Abraham CARLIER">
+	    <a href="sources/Louis-Carlier-dossier-01.jpg" data-fancybox="gallery" data-caption="Carte d'ancien de Louis Abraham CARLIER">
 	    <img src="miniatures/Louis-Carlier-dossier-01.jpg" alt="Extrait du dossier d'ancien combattant de Louis Abraham CARLIER"/></a>
 	    <figcaption>Extrait de son dossier d'ancien combattant<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -192,25 +198,25 @@
 <p>Le <strong><a href="../camps/camp-munster.php">camp de Münster</a></strong>, où est envoyé Louis, est ouvert dès le début de la guerre, il était situé en Allemagne, dans le nord du Land de Rhénanie-du-Nord-Westphalie.</p>
 
 	<figure>
-	    <a href="images/camp-munster.jpg" data-fancybox="gallery" title="Une vue du camp de prisonnier de Münster">
+	    <a href="images/camp-munster.jpg" data-fancybox="gallery" data-caption="Une vue du camp de prisonnier de Münster">
 	    <img src="miniatures/camp-munster.jpg"  alt="le camp de prisonnier de Münster pendant la Grande Guerre"/></a>
 	    <figcaption>La vie au camp de Münster<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 	
 	<figure>
-	    <a href="images/camp-munster-1916.jpg" data-fancybox="gallery" title="Une vue du camp de prisonnier de Münster">
+	    <a href="images/camp-munster-1916.jpg" data-fancybox="gallery" data-caption="Une vue du camp de prisonnier de Münster">
 	    <img src="miniatures/camp-munster-1916.jpg"  alt="le camp de prisonnier de Münster pendant la Première Guerre Mondiale"/></a>
 	    <figcaption>La vie au camp de Münster<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 	
 	<figure>
-	    <a href="images/camp-munster-1917.jpg" data-fancybox="gallery" title="Une vue du camp de prisonnier de Münster">
+	    <a href="images/camp-munster-1917.jpg" data-fancybox="gallery" data-caption="Une vue du camp de prisonnier de Münster">
 	    <img src="miniatures/camp-munster-1917.jpg"  alt="le camp de prisonnier de Münster pendant la Grande Guerre"/></a>
 	    <figcaption>La vie au camp de Münster<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 
 	<figure>
-	    <a href="images/camp-munster-1917-2.jpg" data-fancybox="gallery" title="Une vue du camp de prisonnier de Münster">
+	    <a href="images/camp-munster-1917-2.jpg" data-fancybox="gallery" data-caption="Une vue du camp de prisonnier de Münster">
 	    <img src="miniatures/camp-munster-1917-2.jpg" alt="le camp de prisonnier de Münster pendant la Première Guerre Mondiale"/></a>
 	    <figcaption>La vie au camp de Münster<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -218,7 +224,7 @@
 <p>Selon le CICR, Louis est dans le convoi de l’internement du 8 novembre 1918, en provenance de Münster III et à destination de Leysin (Suisse). Il y est mentionné en tant que soldat du 1er Régiment d’Artillerie.</p>
 
 	<figure>
-	    <a href="images/convoi-08111918.jpg" data-fancybox="gallery" title="Convoi de l'internement du 8 novembre 1918">
+	    <a href="images/convoi-08111918.jpg" data-fancybox="gallery" data-caption="Convoi de l'internement du 8 novembre 1918">
 	    <img src="miniatures/convoi-08111918.jpg" alt="Convoi de l'internement du 8 novembre 1918"></a>
 	    <figcaption>Convoi de l'internement du 8 novembre 1918<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -242,7 +248,7 @@
         <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a> (source allemande)</li>
         <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf">Aus deutschen Kriegsgefangenenlagern</a> (Deutsches Rotes Kreuz)</li>
         <li><a href="http://amzn.to/2rvOovF">Prisonniers 1914-1918</a> (Editions Sulton / Jean-Paul Briaste)</li>
-        <li>Archives de la Croix Rouge</li>
+        <li><a href="https://grandeguerre.icrc.org/">Archives de la Croix Rouge</a></li>
         <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
     </ul>
 
@@ -268,12 +274,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>

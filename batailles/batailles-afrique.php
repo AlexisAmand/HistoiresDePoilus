@@ -1,14 +1,17 @@
 <!doctype html>
-	<html lang="fr">
-    	<head>
-        	<meta charset="utf-8">
+<html lang="fr">
+	<head>
+    	<meta charset="utf-8">
             
             <title>Les batailles du front africain pendant la Grande Guerre (1914-1918) - Histoires de Poilus</title>
             <meta content="Liste des batailles qui se sont déroulées sur le front de l'Afrique pendant la Première Guerre Mondiale (1914 à 1918)." name="description">
 
-            <link rel="stylesheet" href="../css/style.css">    
+            <link rel="stylesheet" href="../css/style.css">
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
             <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-            <link rel="icon" type="image/png" href="/images/favicon.png" />
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
                     
 		</head>
         <body>
@@ -23,15 +26,11 @@
           });
         </script>
 
+		<?php include('../include/resp.inc'); ?>
+
         <header>
 	
-			<div id="rezo">
-				<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-				<img src="../images/facebook.png" alt="logo facebook"/></a>
-				<img src="../images/googleplus.png" alt="logo Google Plus"/> 
-				<a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-				<img src="../images/twitter.png" alt="logo Twitter"/></a>
-			</div>
+		<?php include('../include/social.inc'); ?>
 			
 		<a href="../index.php" title="retour sur la page d'accueil du site">
 		<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -64,7 +63,7 @@
     		<h1>Les Batailles du Front Africain</h1>
 
 			<figure>
-    			<a href="images/askari-1914-1918.jpg" data-fancybox="gallery" title="Une troupe d'Askari pendant la Grande Guerre">
+    			<a href="images/askari-1914-1918.jpg" data-fancybox="gallery" data-caption="Une troupe d'Askari pendant la Grande Guerre">
     			<img src="images/miniatures/askari-1914-1918.jpg" alt="Une troupe d'Askari sur le Front Africain pendant la Première Guerre Mondiale"></a>
     			<figcaption>Une troupe d'Askari, entre 1914-1918<br />(source: Bundesarchiva)</figcaption>
 			</figure>
@@ -72,96 +71,98 @@
 			<table>
 			<thead>
 				    <tr>
-				        <td class="l25">Lieu</td>
-				        <td class="l25">Bataille</td>
-				        <td class="l25">Date</td>
-				        <td class="l25">Issue</td>
+				        <th id="lieu" class="l25">Lieu</th>
+				        <th id="bataille" class="l25">Bataille</th>
+				        <th id="date" class="l25">Date</th>
+				        <th id="issue" class="l25">Issue</th>
 				    </tr>
 				</thead> 
+				<tbody>
   					<tr>
-				        <td>Sud du Tchad</td>
-				        <td>Le combat de Laï</td>
-				        <td>Le 21 août 1914</td>
-				        <td>Victoire allemande</td>
+				        <td headers="lieu">Sud du Tchad</td>
+				        <td headers="bataille">Le combat de Laï</td>
+				        <td headers="date">Le 21 août 1914</td>
+				        <td headers="issue">Victoire allemande</td>
   					</tr>    
   					<tr>
-				        <td>Namibie</td>
-				        <td>La Bataille de Sandfontein</td>
-				        <td>Le 26 septembre 1914</td>
-				        <td>Victoire allemande</td>
+				        <td headers="lieu">Namibie</td>
+				        <td headers="bataille">La Bataille de Sandfontein</td>
+				        <td headers="date">Le 26 septembre 1914</td>
+				        <td headers="issue">Victoire allemande</td>
 				    </tr>    
 				    <tr>
-				        <td>Tanzanie</td>
-				        <td>La Bataille de Tanga</td>
-				        <td>Du 3 novembre 1914<br />au 5 novembre 1914</td>
-				        <td>Victoire allemande</td>
+				        <td headers="lieu">Tanzanie</td>
+				        <td headers="bataille">La Bataille de Tanga</td>
+				        <td headers="date">Du 3 novembre 1914<br />au 5 novembre 1914</td>
+				        <td headers="issue">Victoire allemande</td>
 				  	</tr>    
 				  	<tr>
-				        <td>Sud de l'Angola</td>
-				        <td>La Bataille de Naulila</td>
-				        <td>Le 18 décembre 1914</td>
-				        <td>Victoire allemande</td>
+				        <td headers="lieu">Sud de l'Angola</td>
+				        <td headers="bataille">La Bataille de Naulila</td>
+				        <td headers="date">Le 18 décembre 1914</td>
+				        <td headers="issue">Victoire allemande</td>
 				  	</tr>  
 				 
 				  	<tr>
-				        <td>Tanzanie</td>
-				        <td>Bataille de Jassin</td>
-				        <td>Du 18 janvier 1915<br />au 19 janvier 1915</td>
-				        <td>Victoire allemande</td>
+				        <td headers="lieu">Tanzanie</td>
+				        <td headers="bataille">Bataille de Jassin</td>
+				        <td headers="date">Du 18 janvier 1915<br />au 19 janvier 1915</td>
+				        <td headers="issue">Victoire allemande</td>
 				  	</tr>    
 				    <tr>
-				        <td>Namibie</td>
-				        <td>La Bataille de Gibeon</td>
-				        <td>Du 25 avril 1915<br />au 26 avril 1916</td>
-				        <td>Victoire sud-africaine</td>
+				        <td headers="lieu">Namibie</td>
+				        <td headers="bataille">La Bataille de Gibeon</td>
+				        <td headers="date">Du 25 avril 1915<br />au 26 avril 1916</td>
+				        <td headers="issue">Victoire sud-africaine</td>
 				    </tr>    
 				    <tr>
-				        <td>Tanzanie</td>
-				        <td>La Bataille de Bukoba</td>
-				        <td>Du 21 juin 1915<br />au 23 juin 1915</td>
-				        <td>Perte de Bukoba par les Allemands</td>
+				        <td headers="lieu">Tanzanie</td>
+				        <td headers="bataille">La Bataille de Bukoba</td>
+				        <td headers="date">Du 21 juin 1915<br />au 23 juin 1915</td>
+				        <td headers="issue">Perte de Bukoba par les Allemands</td>
 				    </tr>    
 				    <tr>
-				        <td>Sud de l'Angola</td>
-				        <td>La Bataille de Mongua<br />(ou Bataille d'Omongwa)</td>
-				        <td>Du 18 août 1915<br />au 20 août 1915</td>
-				        <td>Victoire des portugais</td>
+				        <td headers="lieu">Sud de l'Angola</td>
+				        <td headers="bataille">La Bataille de Mongua<br />(ou Bataille d'Omongwa)</td>
+				        <td headers="date">Du 18 août 1915<br />au 20 août 1915</td>
+				        <td headers="issue">Victoire des portugais</td>
 				    </tr>    
 				    <tr>
-				        <td>Près du Kilimandjaro</td>
-				        <td>La Bataille de Salaita<br />(ou Bataille de Salaita Hill)</td>
-				        <td>Le 12 février 1916</td>
-				        <td>Victoire allemande</td>
+				        <td headers="lieu">Près du Kilimandjaro</td>
+				        <td headers="bataille">La Bataille de Salaita<br />(ou Bataille de Salaita Hill)</td>
+				        <td headers="date">Le 12 février 1916</td>
+				        <td headers="issue">Victoire allemande</td>
 				    </tr>    
 				    <tr>
-				        <td>Darfour<br />(Soudan)</td>
-				        <td>La Bataille de Beringia</td>
-				        <td>Le 22 mai 1916</td>
-				        <td>Victoire britannique</td>
+				        <td headers="lieu">Darfour<br />(Soudan)</td>
+				        <td headers="bataille">La Bataille de Beringia</td>
+				        <td headers="date">Le 22 mai 1916</td>
+				        <td headers="issue">Victoire britannique</td>
 				    </tr>    
 					<tr>
-				        <td>Mozambique</td>
-				        <td>La Bataille de Negomano</td>
-				        <td>Le 28 novembre 1917</td>
-				        <td>Victoire allemande</td>
+				        <td headers="lieu">Mozambique</td>
+				        <td headers="bataille">La Bataille de Negomano</td>
+				        <td headers="date">Le 28 novembre 1917</td>
+				        <td headers="issue">Victoire allemande</td>
 				    </tr> 
+				    </tbody>
 			</table>        
                   
 			<p class="sources">
 			<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
-			</p>
+	</p>
 
-			</article>
-	
-		</section>
-	
-		<footer>
-			<a href="../mentions.php">Mentions Légales</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-		    <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-		    <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-		    <a href="../cookies.php">Cookies</a>
-		    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
-		</footer>
+	</article>
+
+</section>
+
+<footer>
+	<a href="../mentions.php">Mentions Légales</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="../cookies.php">Cookies</a>
+    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+</footer>
 
 <?php include('../include/stats.inc'); ?>
 
@@ -169,12 +170,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
+<script type="text/javascript" src="../js/script.js"></script>
 
 </body>
 </html>

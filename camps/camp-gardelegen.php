@@ -8,12 +8,16 @@
 <meta name="description" content="Présentation du camp de prisonniers de Gardelegen en Allemagne pendant la Première Guerre mondiale (1914-1918)">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
-                   
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
+
 <!-- code js pour l'avertissement sur les cookies -->
 
 <script src="../js/cookiechoices.js"></script>
@@ -24,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+  <?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -108,26 +108,26 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p>
 
 <figure>
-    <img src="miniatures/Gardelegen/carte-camp-gardelegen.jpg" data-fancybox="gallery" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Gardelegen">
+    <img src="miniatures/Gardelegen/carte-camp-gardelegen.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Gardelegen">
     <figcaption>Localisation du camp de Gardelegen<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure> 
 
 <p>Les prisonniers avaient installé à Gardelegen un petit théâtre où les Français, les Anglais et les Belges donnaient de représentations. Il était également possible d’y donner des représentations cinématographiques.</p>
 
 <figure>
-    <a href="images/camps_prisonniers_gardelegen.jpg" data-fancybox="gallery" title="La cantine du camp de Gardelegen">
+    <a href="images/camps_prisonniers_gardelegen.jpg" data-fancybox="gallery" data-caption="La cantine du camp de Gardelegen">
     <img src="miniatures/camps_prisonniers_gardelegen.jpg" alt="la cantine du camp de prisonniers de Gardelegen pendant la Grande Guerre"></a>
     <figcaption>La cantine à Gardelegen<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/camps_prisonniers_gardelegen_01.jpg" data-fancybox="gallery" title="Le Lazaret de Gardelegen">
+    <a href="images/camps_prisonniers_gardelegen_01.jpg" data-fancybox="gallery" data-caption="Le Lazaret de Gardelegen">
     <img src="miniatures/camps_prisonniers_gardelegen_01.jpg" alt="le lazaret du camp de prisonniers de Gardelegen pendant la Première Guerre Mondiale"></a>
     <figcaption>Le lazaret de Gardelegen<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/monument-gardelegen.jpg" data-fancybox="gallery" title="Le camp de Gardelegen">
+    <a href="images/monument-gardelegen.jpg" data-fancybox="gallery" data-caption="Le camp de Gardelegen">
     <img src="miniatures/monument-gardelegen.jpg" alt="le monument aux prisonniers morts en captivité dans le camp de Gardelegen pendant la Première Guerre Mondiale"></a>
     <figcaption>Le monument à la mémoire des prisonniers morts en captivité<br />(Carte postale)</figcaption>
 </figure>
@@ -156,12 +156,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
+<script type="text/javascript" src="../js/script.js"></script>
 
 </body>
 </html>

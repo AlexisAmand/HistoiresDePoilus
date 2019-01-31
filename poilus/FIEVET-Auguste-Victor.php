@@ -8,10 +8,14 @@
 <meta content="Parcours de Auguste Victor FIEVET, soldat lillois pendant la Première Guerre Mondiale. Il était membre du 33e Régiment d'Infanterie et blessé lors de la Bataille de Dinant en 1914" name="description">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-                   
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
+
 
 <body>
 <!-- code js pour l'avertissement sur les cookies -->
@@ -24,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -89,6 +89,7 @@
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
         <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -120,8 +121,8 @@
 <br />
 
 	<figure>
-	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" title="Arbre généalogique de Louis Henri ROUSSEAUX">
-	    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX" style="box-shadow:none;width:650px;"></a>
+	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
+	    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX" class="ArbreGenealogique"></a>
 	    <figcaption>Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 
@@ -158,7 +159,7 @@
 <p>Âgé de 24 ans en 1914, Auguste est mobilisé en tant que soldat de 2e classe et rejoint la 4e compagnie du 1er bataillon du <strong>33e Régiment d'Infanterie</strong> (<a href="sources/dossier-ancien-combattant-01.php">source</a>).</p>
 
 	<figure>
-	    <a href="portraits/FIEVET-Auguste-Victor.jpg" data-fancybox="gallery" title="portrait d'Auguste Victor FIEVET">
+	    <a href="portraits/FIEVET-Auguste-Victor.jpg" data-fancybox="gallery" data-caption="portrait d'Auguste Victor FIEVET">
 	    <img src="miniatures/FIEVET-Auguste-Victor.jpg" alt="portrait d'Auguste Victor FIEVET"/></a>
 	    <figcaption>Auguste Victor FIEVET</figcaption>
 	</figure>
@@ -168,7 +169,7 @@
 <p>Le 5 août 1914, vers cinq heures, le <strong>33e Régiment d'Infanterie </strong>s'embarque en gare d'Arras (Pas-de-Calais) à destination d'Hirson (Aisne). L'auteur de l'<em>Historique du 33e Régiment d'Infanterie pendant la Grande Guerre</em> raconte que <em>"Les physionomies étaient rayonnantes d'entrain et de confiance. Tous portaient au cœur l'espoir d'une rapide épopée"</em>. Il ajoute ensuite que <em>le trajet d'Arras à Hirson se fit au milieu des chants et des fleurs</em>. A Hirson, des vivres de débarquement sont distribués aux Hommes. Faute de voiture disponible pour le transport des troupes,  les hommes sont retenus aux abords de la gare pendant près de 2 heures. Puis, le régiment cantonne à Saint-Michel (Aisne). </p>
 
 	<figure>
-	    <a href="" data-fancybox="gallery" title="La gare d'Arras vers 1907">
+	    <a href="" data-fancybox="gallery" data-caption="La gare d'Arras vers 1907">
 	    <img src="miniatures/gare-arras-1907.jpg" alt="La gare d'Arras en 1907 sur une carte postale ancienne"/></a>
 	    <figcaption>La gare d’Arras en 1907</figcaption>
 	</figure>
@@ -180,7 +181,7 @@
 <p>Le 9 août, le général commandant le <strong>1er Groupe d'Armée</strong> réunit à Maubert-Fontaine les officiers et leur exposa la situation générale : Une armée allemande dite «de la Meuse», composée de quatre corps d'armée et commandée par le général VON EMMICH, a envahi la Belgique; elle a passé en partie la Meuse, au nord de Liège, et se porte à l'attaque de cette place. Les Allemands ont violé le territoire belge. Quatre de nos divisions de cavalerie, concentrées autour de Mézières (Ardennes), sous le commandement du général SORDET, ont pénétré en Belgique pour opérer contre VON EMMICH. Ce corps de cavalerie est appuyé par une brigade d'infanterie échelonnée le long de la Meuse, couvrant la concentration du 1er corps... </p>
 
 	<figure> 
-	    <a href="portraits/Von_Emmich.jpg" data-fancybox="gallery" title="Portrait de Von Emmich">
+	    <a href="portraits/Von_Emmich.jpg" data-fancybox="gallery" data-caption="Portrait de Von Emmich">
 	    <img src="miniatures/Von_Emmich.jpg" alt="portrait du général allemand Von Emmich"/></a>
 	    <figcaption>Le Général Von Emmich</figcaption>
 	</figure>
@@ -192,7 +193,7 @@
 <p>Dès le lendemain (le 14 août), le <strong>33e Régiment d'Infanterie</strong> partait, par alerte, à deux heures, dans la direction de Dinant (Belgique) et allait avoir l'honneur de participer au premier choc sérieux en Belgique, entre l'armée française et l'armée allemande.</p>
 
 	<figure>
-	    <a href="images/Dinant-1914.jpg" data-fancybox="gallery" title="La Citadelle de Dinant, début 1914">
+	    <a href="images/Dinant-1914.jpg" data-fancybox="gallery" data-caption="La Citadelle de Dinant, début 1914">
 	    <img src="miniatures/Dinant-1914.jpg"  alt="La citadelle de Dinant au début de 1914 sur une carte postale ancienne"/></a>
 	    <figcaption>La Citadelle de Dinant, début 1914</figcaption>
 	</figure>
@@ -200,7 +201,7 @@
 <p>Les Allemands, ayant Bruxelles pour objectif, s'avançaient en masses compactes. Une armée au nord, s'était heurtée aux forts de Liège (Belgique), une autre avait franchi la Meuse entre Liège et Namur. <br /><br />Le même jour, les Allemands signalent leur présence par une audacieuse reconnaissance et dessine une courte attaque contre nos lignes. Des autos-mitrailleuses allemandes, débouchant de la rive droite de la Meuse par le pont d'Anseremme (Belgique), à 4 kilomètres au sud de Dinant, dispersèrent le poste français et ouvrirent le passage à un escadron de uhlans qui s'avança sur la rive gauche jusqu'à Anthée. Cet escadron fut accueilli, à dix-sept heures, par les mitrailleuses du <strong>33e Régiment d'Infanterie </strong>qui étaient en position au nord du village; arrêté net, il rebroussa chemin. </p><p>Le 15 août, les Allemands attaquent Dinant avec des forces imposantes. La ville, partagée en deux parties par le fleuve, est dominée, sur la rive droite, par la citadelle, qui surplombe le terrain d'une centaine de mètres. Au sud de celle-ci, se trouve la tour de Montfort. Ce furent les deux premiers objectifs visés par les Allemands. Malgré l'héroïque résistance du 148e R.I., ces deux points tombèrent entre les mains de l'ennemi, qui utilisa ces positions pour écraser de ses feux, toute la rive gauche du fleuve.<br /><br /> Le<strong> 33e Régiment d'Infanterie</strong>, accouru d'Anthée, prit position, à cinq heures, le long de la voie ferrée. Deux compagnies, 10e (capitaine CARTON), 12e (capitaine BATAILLE), reçurent l'ordre d'aller réoccuper la citadelle. Le mouvement fut conduit d'une façon si rapide, que les Allemands, surpris, s'enfuirent, abandonnant la position. Mais peu après, la citadelle fut soumise à un feu d'artillerie tellement violent que la forteresse s'effondra de toutes parts, ensevelissant une partie des occupants et un certain nombre d'habitants.</p>
 
 	<figure>
-	    <a href="" data-fancybox="gallery" title="Dinant détruite en 1914">
+	    <a href="" data-fancybox="gallery" data-caption="Dinant détruite en 1914">
 	    <img src="miniatures/dinant_detruite_1914.jpg"  alt="La ville de Dinant après les combats d'août 1914"/></a>
 	    <figcaption>Dinant détruite en 1914</figcaption>
 	</figure>
@@ -208,7 +209,7 @@
 <p>Le commandant du détachement prit alors le parti de rejoindre le régiment. La 12e commença le mouvement. Accueillie, dès son départ, par une grêle de balles provenant des mitrailleuses allemandes installées dans la tour de Montfort, elle rebroussa chemin après avoir subi de très lourdes pertes. La <strong>4e compagnie</strong>, dont faisait partie <strong>Auguste</strong>,  en arrivant sur le plateau au nord de la ferme du Rond Chêne, est prise subitement sous le feu de l’artillerie et de nombreuses mitrailleuses invisibles en position à petite portée sur la rive droite de la Meuse. </p>
 
 	<figure>
-	    <a href="images/carte-dinant.jpg" data-fancybox="gallery" title="Emplacement de la ferme du Rond-chêne">
+	    <a href="images/carte-dinant.jpg" data-fancybox="gallery" data-caption="Emplacement de la ferme du Rond-chêne">
 	    <img src="miniatures/carte-dinant.jpg" alt="Localisation de la ferme du Rond Chêne sur une carte de Dinant et ses environs"/></a>
 	    <figcaption>La ferme du Rond Chêne sur une carte de Dinant<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -216,7 +217,7 @@
 <p>En quelques minutes, 90 hommes sont mis hors de combat dont <strong>Auguste</strong> qui est blessé par balle au pied droit, à la cheville et à la main. Il est évacué à <a href="../hopitaux/hopitaux-pdl.php" title="Les hôpitaux pendant la Grande Guerre">l’hôpital 31 de Nantes</a> et devient invalide à 40%. Selon les Archives Municipales de Nantes, l'hôpital 31 était situé dans l'ancien séminaire de philosophie, rue Saint-Clément  et avait une capacité de 300 lits. Il fonctionne du 25 août 1914 au 24 septembre 1916.</p>
 
 	<figure>
-	    <a href="" data-fancybox="gallery"  data-fancybox="gallery" title="Les hôpitaux de Nantes">
+	    <a href="" data-fancybox="gallery"  data-fancybox="gallery" data-caption="Les hôpitaux de Nantes">
 	    <img src="miniatures/hopitaux-nantes.jpg" alt="Liste des hopitaux de Nantes pendant la Première Guerre Mondiale"/></a>
 	    <figcaption>Les hôpitaux de Nantes<br />(source: Archives Municipales de Nantes)</figcaption>
 	</figure>
@@ -228,13 +229,13 @@
 <p><strong>Auguste</strong> reçoit la croix de guerre "étoile de vermeil" en août 1920 puis  la médaille militaire par décret du 11 avril 1962. Ma mère a très bien connu Auguste. Elle se souvient par exemple d'un cadre contenant un "diplôme" et une médaille il aurait également tenu un magasin de chaussures en face de la place de Thiers à Bruay-sur-l'-Escaut.</p>
 
 	<figure>
-	    <a href="sources/fav-matricule-01.jpg" data-fancybox="gallery" title="Extrait de la fiche matricule d'Auguste Victor FIEVET">
+	    <a href="sources/fav-matricule-01.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Auguste Victor FIEVET">
 	    <img src="miniatures/fav-matricule-01.jpg" alt="Extrait de la fiche matricule d'Auguste Victor FIEVET"/></a>
 	    <figcaption>Extrait de sa fiche matricule</figcaption>
 	</figure>
 	
 	<figure>
-	    <a href="images/carte-auguste-fievet.jpg" data-fancybox="gallery" title="Carte d'ancien combattant ayant appartenu à Auguste">
+	    <a href="images/carte-auguste-fievet.jpg" data-fancybox="gallery" data-caption="Carte d'ancien combattant ayant appartenu à Auguste">
 	    <img src="miniatures/carte-auguste-fievet.jpg" alt="Carte d'ancien combattant d'Auguste FIEVET"></a>
 	    <figcaption>Carte d'ancien combattant ayant appartenu à Auguste</figcaption>
 	</figure>
@@ -268,12 +269,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>

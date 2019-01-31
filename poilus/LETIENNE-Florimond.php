@@ -8,10 +8,14 @@
 <meta content="Parcours de Florimond LETIENNE, soldat pendant la Première Guerre Mondiale" name="description">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-                  
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
+
 
 <body>
 <!-- code js pour l'avertissement sur les cookies -->
@@ -24,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -89,6 +89,7 @@
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
         <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -118,7 +119,7 @@
 <p><strong>Florimond LETIENNE</strong>, le beau frère d'<a href="FIEVET-Auguste-Victor.php" title="lien vers la page consacrée à Auguste FIEVET">Auguste</a> et <a href="FIEVET-Charles-Augustin.php" title="lien vers la page consacrée à Charles FIEVET">Charles FIEVET</a>, est né le 19 octobre 1873 à Roubaix (Nord), fils légitime de Henri Joseph LETIENNE et de Adéle Fileline DEGOBERT. Le 12 novembre 1898 à Roubaix, Florimond épouse Marie DELAUX, fille légitime d'Adolphe (1856-1906) et Joséphine RICHOMME (1857 - ? ), et sœur de Nathalie DELAUX (1885 - 1952), mon arrière-arrière-grand-mère.</p>
 
     <figure>
-        <a href="images/letienne-florimond-1873.jpg" data-fancybox="gallery" title="Acte de naissance de Florimond LETIENNE">
+        <a href="images/letienne-florimond-1873.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Florimond LETIENNE">
         <img src="miniatures/letienne-florimond-1873.jpg" alt="Acte de naissance de Florimond LETIENNE"></a>
         <figcaption>Acte de naissance de Florimond<br /> (source : Archives Départementales du Nord)</figcaption>
     </figure> 
@@ -126,7 +127,7 @@
 <p>Selon le recensement de 1906, Florimond est rattacheur et vit Rue des Longues à Haies à Roubaix, en compagnie de Marie Lucie et de ses enfants : Léonie, Georges et Charles. La Rue des Longues Haies était situé dans un quartier populaire de Roubaix. Longue de près 1 km, on y trouvait des usines, des estaminets, des commerces, le Mont de Piété ou encore les Bains Municipaux. La rue était aussi un labyrinthe de courées parmi lesquelles la Cour Mulliez, où vivait la famille LETIENNE. On rencontrait cette rue en remontant la Rue de Lannoy vers l'église Sainte Elisabeth, elle s'étendait parallèlement au Boulevard Gambetta, en une longue ligne droite.</p> 
     
     <figure>
-        <a href="images/roubaix_longues_haies.jpg" data-fancybox="gallery" title="La Rue des Longues Haies à Roubaix">
+        <a href="images/roubaix_longues_haies.jpg" data-fancybox="gallery" data-caption="La Rue des Longues Haies à Roubaix">
         <img src="miniatures/roubaix_longues_haies.jpg" alt="La Rue des Longues Haies et le Mont de piété à Roubaix"></a>
         <figcaption>La Rue des Longues Haies et le Mont de Piété (Roubaix)<br /> (source : Bibliothèque Numérique de Roubaix)</figcaption>
     </figure>   
@@ -136,7 +137,7 @@
 <p>Suite à la mobilisation, il arrive au corps le 2 août 1914 (peut-être le <strong>27e Régiment d'Artillerie</strong>). Ensuite, il passera successivement par le <strong>6e Régiment d'Artillerie à Pied</strong> (le 21 septembre 1915), le <strong>7e Régiment d'Artillerie</strong> à Pied (le 1 mars 1916), le <strong>11e Régiment d'Artillerie à Pied</strong> (le 25 décembre 1917) et enfin le <strong>13e Régiment d'Artillerie de Campagne</strong> (le 10 mars 1918).</p>
 
     <figure>
-        <a href="images/carte-florimond-letienne.jpg" data-fancybox="gallery" title="Carte d'ancien combattant">
+        <a href="images/carte-florimond-letienne.jpg" data-fancybox="gallery" data-caption="Carte d'ancien combattant">
         <img src="miniatures/carte-florimond-letienne.jpg" alt="carte d'ancien combattant de Florimond LETIENNE trouvée aux Archives Départementales"></a>
         <figcaption>Carte d'ancien combattant ayant appartenu à Florimond<br /> (source : Archives Départementales du Nord)</figcaption>
     </figure>   
@@ -170,12 +171,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>

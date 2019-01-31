@@ -8,12 +8,16 @@
 <meta name="description"  content="Présentation du camp de prisonniers de Darmstadt en Allemagne pendant la Première Guerre mondiale (1914-1918)">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
-                   
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
+
 <!-- code js pour l'avertissement sur les cookies -->
 
 <script src="../js/cookiechoices.js"></script>
@@ -24,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+   <?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -116,7 +116,7 @@
 <p>Louis GUINET a 27 ans quand il est fait prisonnier à Entre-deux-Eaux, près de Saint-Dié, le 29 août 1914. Il est évacué sur le camp de Darmstadt où il séjourne jusque juin 1915, date à laquelle il est envoyé au camp de représailles de <a href="camp-meyenburg.php">Meyenburg</a>. Sur son séjour à Darmstadt, il rapporte que la <em>nourriture était insuffisante et de mauvaise qualité.</em> et que les <em>prisonniers étaient traités avec brutalité</em>.</p>
 
 <figure>
-    <a href="images/Darmstadt/darmstadt-04.jpg" data-fancybox="gallery" title="Le camp de Darmstadt">
+    <a href="images/Darmstadt/darmstadt-04.jpg" data-fancybox="gallery" data-caption="Le camp de Darmstadt">
     <img src="miniatures/Darmstadt/darmstadt-04.jpg" alt="Tableau statistique du mouvement de la correspondance au camp de Darmstadt pendant la Grande Guerre"></a>
     <figcaption>Statistique du mouvement de la correspondance au camp de Darmstadt<br />(source allemande)</figcaption>   
 </figure>
@@ -124,7 +124,7 @@
 <p>Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php">Wetzlar</a> arrivent au camp de Darmstadt.</p>
 
 <figure>
-    <a href="images/Darmstadt/darmstadt-08.jpg" data-fancybox="gallery" title="Le camp de Darmstadt">
+    <a href="images/Darmstadt/darmstadt-08.jpg" data-fancybox="gallery" data-caption="Le camp de Darmstadt">
     <img src="miniatures/Darmstadt/darmstadt-08.jpg" alt="Menu du camp de Darmstadt pendant la Première Guerre Mondiale"></a>
     <figcaption>Menu du camp du 31 janvier au 6 février 1915<br />(source allemande)</figcaption> 
 </figure>
@@ -238,12 +238,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
+<script type="text/javascript" src="../js/script.js"></script>
 
 </body>
 </html>

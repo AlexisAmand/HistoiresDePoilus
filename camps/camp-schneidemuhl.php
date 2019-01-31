@@ -8,12 +8,16 @@
 <meta name="description" content="Présentation du camp de prisonniers de Schneidemühl en Allemagne pendant la Première Guerre mondiale (1914-1918)">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
-                   
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
+
 <!-- code js pour l'avertissement sur les cookies -->
 
 <script src="../js/cookiechoices.js"></script>
@@ -24,17 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" />
-        </a>
-        <img src="../images/googleplus.png" /> 
-	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" />
-        </a>
-    </div>
+    <?php include('../include/social.inc'); ?>
     
 <a href="../index.php" title="retour sur la page d'accueil du site">
 <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -111,56 +109,56 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p><p>Le camp principal de prisonniers de Schneidemühl était situé en Posnanie, une ancienne province du Royaume de Prusse, à environ 90 kilomètres au nord de Posen (de nos jours Poznań en Pologne).</p>
 
 <figure>
-    <a href="images/schneidemuhl-01.jpg" data-fancybox="gallery" title="La lessive à Schneidemühl">
+    <a href="images/schneidemuhl-01.jpg" data-fancybox="gallery" data-caption="La lessive à Schneidemühl">
     <img src="miniatures/schneidemuhl-01.jpg" alt="prisonniers faisant la lessive dans le camp de schneidemühl"></a>
     <figcaption>La lessive<br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/schneidemuhl-02.jpg" data-fancybox="gallery" title="Des prisonniers français à Schneidemühl">
+    <a href="images/schneidemuhl-02.jpg" data-fancybox="gallery" data-caption="Des prisonniers français à Schneidemühl">
     <img src="miniatures/schneidemuhl-02.jpg" alt="des soldats français prisonniers en Allemagne au camp de Schneidemühl"></a>
     <figcaption>Des prisonniers français, peut-être à Schneidemühl
     <br />(Carte postale)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/schneidemuhl-03.jpg" data-fancybox="gallery" title="La préparation du repas de midi à Schneidemühl">
+    <a href="images/schneidemuhl-03.jpg" data-fancybox="gallery" data-caption="La préparation du repas de midi à Schneidemühl">
     <img src="miniatures/schneidemuhl-03.jpg" alt="La préparation du repas de midi dans le camp de prisonniers de Schneidemühl"></a>
     <figcaption>Préparation du repas de midi<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/schneidemuhl-04.jpg" data-fancybox="gallery" title="La vaccination au camp à Schneidemühl">
+    <a href="images/schneidemuhl-04.jpg" data-fancybox="gallery" data-caption="La vaccination au camp à Schneidemühl">
     <img src="miniatures/schneidemuhl-04.jpg" alt="La vaccination dans le camp de prisonniers de Schneidemühl pendant la Première Guerre Mondiale"></a>
     <figcaption>La vaccination au camp<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/schneidemuhl-05.jpg" data-fancybox="gallery" title="L'arrivée des nouveaux prisonniers à Schneidemühl">
+    <a href="images/schneidemuhl-05.jpg" data-fancybox="gallery" data-caption="L'arrivée des nouveaux prisonniers à Schneidemühl">
     <img src="miniatures/schneidemuhl-05.jpg" alt="l'arrivée de nouveaux soldat dans le camp de prisonniers de Schneidemühl pendant la Grande Guerre"></a>
     <figcaption>L'arrivée de nouveaux prisonniers<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/schneidemuhl-06.jpg" data-fancybox="gallery" title="La distribution d'aliments aux nouveaux à Schneidemühl">
+    <a href="images/schneidemuhl-06.jpg" data-fancybox="gallery" data-caption="La distribution d'aliments aux nouveaux à Schneidemühl">
     <img src="miniatures/schneidemuhl-06.jpg" alt="La distribution d'aliments aux nouveaux arrivants dans le camp de prisonniers de Schneidemühl pendant la Première Guerre Mondiale"></a>
     <figcaption>La distribution d'aliments aux nouveaux arrivants<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/schneidemuhl-07.jpg" data-fancybox="gallery" title="Des prisonniers anglais devant leurs baraques à Schneidemühl">
+    <a href="images/schneidemuhl-07.jpg" data-fancybox="gallery" data-caption="Des prisonniers anglais devant leurs baraques à Schneidemühl">
     <img src="miniatures/schneidemuhl-07.jpg" alt="des prisonniers anglais dans le camp de Schneidemühl pendant la Grande Guerre"></a>
     <figcaption>Prisonniers anglais devant leurs baraques<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/schneidemuhl-08.jpg" data-fancybox="gallery" title="Des prisonniers russes à Schneidemühl">
+    <a href="images/schneidemuhl-08.jpg" data-fancybox="gallery" data-caption="Des prisonniers russes à Schneidemühl">
     <img src="miniatures/schneidemuhl-08.jpg" alt="des prisonniers russes dans le camp de Schneidemühl"></a>
     <figcaption>Des prisonniers russes<br />(source allemande)</figcaption>
 </figure>
 
 <figure>
-    <a href="images/schneidemuhl-09.jpg" data-fancybox="gallery" title="Prisonniers anglais jouant au football à Schneidemühl">
+    <a href="images/schneidemuhl-09.jpg" data-fancybox="gallery" data-caption="Prisonniers anglais jouant au football à Schneidemühl">
     <img src="miniatures/schneidemuhl-09.jpg" alt="des prisonniers anglais disputant un match de foot dans le camp de Schneidemühl"></a>
     <figcaption>Prisonniers anglais jouant au football<br />(source allemande)</figcaption>   
 </figure>
@@ -194,12 +192,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+<script type="text/javascript" src="../js/script.js"></script>
+ 
 </body>
 </html>

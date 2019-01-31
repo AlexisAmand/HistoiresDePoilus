@@ -8,10 +8,13 @@
 <meta content="Parcours et biographie du poilu Eugène Alexandre CARON, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-   
-</head>   
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
 
@@ -25,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -65,7 +64,7 @@
 
 	<li class="asideheader">Marne</li>
         
-    <li><a href="arnould-henri-rene.php">ARNOULD Henri René</a></li>
+    <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
     <li><a href="astiers-jules-alphonse.php">ASTIERS Jules Alphonse</a></li>       
     <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
     <li><a href="caron-eugene-alexandre.php" class="AsideSelected">CARON Eugéne Alexandre</a></li>
@@ -96,7 +95,7 @@
 <p><strong>Eugène Alexandre CARON</strong>, né le 16 avril 1869 à Montigny-sur-Vesle (Marne), fils de Pierre Alexandre et de Zélia Celestine HUILLERET. Avant la Grande Guerre, il vit à Reims, successivement 164 Rue du Barbâtre (1895) et 28 Rue de Savoie (1910), où il exerce la profession de mécanicien. A la mobilisation, il rejoint la 6e section d'infirmiers le 3 août 1914. Le 24 août 1915, il est détaché dans une usine de Clermont-Ferrant.</p>
 
 	<figure>
-	    <a href="images/reims-barbatre.jpg" data-fancybox="gallery" title="la Rue du Barbâtre à Reims">
+	    <a href="images/reims-barbatre.jpg" data-fancybox="gallery" data-caption="la Rue du Barbâtre à Reims">
 	    <img src="miniatures/reims-barbatre.jpg" alt="la Rue du Barbâtre à Reims sur une carte postale ancienne"/></a>
 	    <figcaption>la Rue du Barbâtre<br />(Source: Delcampe)</figcaption>
 	</figure>
@@ -123,12 +122,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>

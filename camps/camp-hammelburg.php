@@ -8,13 +8,16 @@
 <meta name="description" content="Présentation du camp de prisonniers de Hammelburg en Allemagne pendant la Première Guerre mondiale (1914-1918)">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
-                   
-  
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
+
 <!-- code js pour l'avertissement sur les cookies -->
 
 <script src="../js/cookiechoices.js"></script>
@@ -25,17 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" />
-        </a>
-        <img src="../images/googleplus.png" /> 
-	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" />
-        </a>
-    </div>
+   <?php include('../include/social.inc'); ?>
     
 <a href="../index.php" title="retour sur la page d'accueil du site">
 <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -111,7 +108,7 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
 <figure>    
-	<a href="images/Hammelburg/localisation-hammelburg.jpg" data-fancybox="gallery" title="Localisation du camp de Hammelburg">
+	<a href="images/Hammelburg/localisation-hammelburg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Hammelburg">
     <img src="miniatures/Hammelburg/localisation-hammelburg.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Hammelburg"></a>
     <figcaption>Localisation du camp de Hammelburg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>  
@@ -123,7 +120,7 @@
 <p>En octobre 1915, l'effectif des nécessiteux était d'environ 375. On comptait 15 blessés, 40 fiévreux et 70 convalescents.</p>
 
 <table class="tab_camp">
-    <caption class="legende" align="bottom">Effectif du camp au 28 novembre 1915</caption>
+    <caption>Effectif du camp au 28 novembre 1915</caption>
     <thead>
     <tr>
         <td>Nationalités</td>
@@ -149,7 +146,7 @@
 </table>
 
 <table class="tab_camp">
-    <caption class="legende" align="bottom">Effectif du camp au 18 juin 1918</caption>
+    <caption>Effectif du camp au 18 juin 1918</caption>
     <thead>
     <tr>
         <td>Nationalités</td>
@@ -176,21 +173,21 @@
 
 
         <figure>
-            <a href="images/Hammelburg-01.jpg" data-fancybox="gallery" title="Hammelburg: Le repas des prisonniers">
+            <a href="images/Hammelburg-01.jpg" data-fancybox="gallery" data-caption="Hammelburg: Le repas des prisonniers">
             <img src="miniatures/Hammelburg-01.jpg" alt="Le repas au camp de prisonniers de Hammelburg pendant la Première Guerre Mondiale">
             </a>
             <figcaption>Le repas au camp<br />(source allemande)</figcaption>
         </figure>
 
         <figure>
-            <a href="images/Hammelburg-02.jpg" data-fancybox="gallery" title="Hammelburg: La lessive au camp">
+            <a href="images/Hammelburg-02.jpg" data-fancybox="gallery" data-caption="Hammelburg: La lessive au camp">
             <img src="miniatures/Hammelburg-02.jpg" alt="La lessive au camp de prisonniers de Hammelburg pendant la Grande Guerre">
             </a>
             <figcaption>La lessive au camp<br />(source allemande)</figcaption>
         </figure>
 
         <figure>
-            <a href="images/Hammelburg/hammelburg-01.jpg" data-fancybox="gallery" title="Le camp de Hammelburg">
+            <a href="images/Hammelburg/hammelburg-01.jpg" data-fancybox="gallery" data-caption="Le camp de Hammelburg">
             <img src="miniatures/Hammelburg/hammelburg-01.jpg" alt="Le camp de Hammelburg sur une carte postale ancienne">
             </a>
             <figcaption>Le camp de Hammelburg<br/>(Carte postale)</figcaption>
@@ -229,12 +226,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
+<script type="text/javascript" src="../js/script.js"></script>
 
 </body>
 </html>

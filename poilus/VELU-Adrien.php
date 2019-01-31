@@ -9,10 +9,13 @@
 <meta content="Parcours de Adrien VELU, soldat guislanais pendant la Première Guerre Mondiale. Il était membre du 1er Régiment d'Infanterie et est mort de la typhoïde en 1915" name="description">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-               
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
 <!-- code js pour l'avertissement sur les cookies -->
@@ -25,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -90,6 +89,7 @@
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
         <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -119,7 +119,7 @@
 <p><strong>Adrien VELU</strong> est un "cousin" né à Villers-Guislain (Nord) le 1 janvier 1889, fils légitime de Marc Ferdinand VELU et Marie Joséphine Angèle VELU, deux cousins germains. Le 16 avril 1910,  Adrien épouse Apolline BRIOT.</p>
 
 	<figure>
-	    <a href="images/matricule-adrien-velu.jpg" data-fancybox="gallery" title="Extrait de la fiche matricule d'Adrien VELU">
+	    <a href="images/matricule-adrien-velu.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Adrien VELU">
 	    <img src="miniatures/matricule-adrien-velu.jpg" alt="Extrait de la fiche matricule d'Adrien VELU"/></a>
 	    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir - Archives Départementales du Nord)</figcaption>
 	</figure>
@@ -154,7 +154,7 @@
 <p>A la mobilisation, <strong>Adrien VELU</strong> rejoint le <strong>1er Régiment d'Infanterie</strong> en tant que soldat de 2e classe. Le régiment part de Cambrai par voie ferrée dès le 5 août et arrive à Rumigny le même jour. Le 1er R.I s'est illustré en Argonne, à Verdun, au Chemin des Dames, dans la Somme, dans l'Aisne et pendant la Bataille de la Marne.</p> 
     
 	<figure>
-	    <a href="images/Assaut-chemin-des-dames.jpg" data-fancybox="gallery" title="Soldats français sur le Chemin des Dames">
+	    <a href="images/Assaut-chemin-des-dames.jpg" data-fancybox="gallery" data-caption="Soldats français sur le Chemin des Dames">
 	    <img src="miniatures/Assaut-chemin-des-dames.jpg" alt="Des soldats français à l'assaut au Chemin de Dames"/></a>
 	    <figcaption>Assaut français sur le Chemin des Dames<br />(cliquez pour agrandir - Archives du Queensland, Australie)</figcaption>
 	</figure>
@@ -166,7 +166,7 @@
 <p><strong>Adrien</strong> contracte la fièvre typhoïde pendant son service et est déclaré mort pour la France le 2 avril 1915 à <a href="../hopitaux/hopitaux-ges.php"  title="Les hôpitaux pendant la Grande Guerre">l'hôpital temporaire n°18 de Corbineau</a> (Châlons-sur-Marne, devenu  Châlons-en-Champagne depuis le 17 novembre 1995).</p>
 
 	<figure>
-	    <a href="sources/VELU-Adrien-mpf.jpg" data-fancybox="gallery" title="Adrien VELU, mort pour la France">
+	    <a href="sources/VELU-Adrien-mpf.jpg" data-fancybox="gallery" data-caption="Adrien VELU, mort pour la France">
 	    <img src="miniatures/VELU-Adrien-mpf.jpg" alt="Fiche de mort pour la France d'Adrien VELU"/></a>
 	    <figcaption>Adrien VELU, mort pour la France<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -174,7 +174,7 @@
 <p>Apolline BRIOT, sa veuve, reçoit la somme de 150 francs. Son nom est sur le Monument aux Morts de Villers-Guislain mais son corps repose au carré militaire de l'est du cimetière communal de Châlons-en-Champagne.</p>
 
 	<figure>
-	    <a href="../images/cimetiere-communal.jpg" data-fancybox="gallery" title="Le cimetière militaire de Châlons-sur-Marne">
+	    <a href="../images/cimetiere-communal.jpg" data-fancybox="gallery" data-caption="Le cimetière militaire de Châlons-sur-Marne">
 	    <img src="../images/cimetiere-communal.jpg" alt="Le cimetière militaire de Châlons-sur-Marne sur une carte postale ancienne"/></a>
 	    <figcaption>Le cimetière militaire de Châlons-sur-Marne<br />(cliquez pour agrandir)</figcaption>
 	</figure>
@@ -207,12 +207,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+<script type="text/javascript" src="../js/script.js"></script>
+ 
 </body>
 </html>

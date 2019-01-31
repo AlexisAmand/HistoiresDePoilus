@@ -8,10 +8,13 @@
 <meta content="Parcours de Théophile CARIN, soldat pendant la Première Guerre Mondiale et membre du 4e Bataillon d’Infanterie Légère d’Afrique" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-                   
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
 
@@ -25,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -90,6 +89,7 @@
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
         <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -119,13 +119,13 @@
 <p><strong>Théophile  CARIN</strong> est né le 19 août 1879 à Lourches (Nord), fils légitime de  François Louis CARIN et de Pauline DUSSART. Il s'unit avec Zélia  BRASSEUR (née en 1886), mon arrière-arrière-grand-mère,  le  vendredi 14 août 1908 à Lourches. <strong>Théophile</strong> n'est pas parent avec moi. Il a juste épousé une de mes aïeules.</p>
 
 	<figure>
-	    <a href="images/arbre-carin.png" data-fancybox="gallery" title="La famille CARIN">
-	    <img src="miniatures/arbre-carin.png"  alt="arbre généalogique de la Famille Carin de Lourches et Roeulx"   style="box-shadow:none;width:650px;"></a>
+	    <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="La famille CARIN">
+	    <img src="miniatures/arbre-carin.png"  alt="arbre généalogique de la Famille Carin de Lourches et Roeulx"   class="ArbreGenealogique"></a>
 	    <figcaption>Arbre généalogique de la famille CARIN<br />(cliquez pour agrandir)</figcaption>
 	</figure>
 
 	<figure>
-	    <a href="sources/CARIN-matricule-03.jpg" data-fancybox="gallery" title="Théophile CARIN - Extrait de sa fiche matricule">
+	    <a href="sources/CARIN-matricule-03.jpg" data-fancybox="gallery" data-caption="Théophile CARIN - Extrait de sa fiche matricule">
 	    <img src="miniatures/CARIN-matricule-03.jpg" alt="Extrait de la fiche matricule de Théophile CARIN"/></a>
 	    <figcaption>Extrait de sa fiche matricule<br />(Cliquez pour agrandir)</figcaption>
 	</figure>
@@ -133,7 +133,7 @@
 <p>Selon le recensement de 1906, Théophile a plusieurs frères et sœurs, tous nés et déclarés à Lourches: Elise (née en 1873), François Louis (né en 1875), Jean-Baptiste (né en 1880), <a href="CARIN-Edouard.php">Edouard</a> (né le 5 août 1884), Célina (née en 1886),  Appoline (née en 1890), Clara (née en 1892), <a href="CARIN-Leon.php">Léon</a> (né en 1896).</p>
 
 	<figure>
-	    <a href="images/mairie-de-lourches.jpg" data-fancybox="gallery" title="La mairie de Lourches">
+	    <a href="images/mairie-de-lourches.jpg" data-fancybox="gallery" data-caption="La mairie de Lourches">
 	    <img src="miniatures/mairie-de-lourches.jpg" alt="La mairie de Lourches sur une carte postale ancienne"/></a>
 	    <figcaption>La mairie de Lourches<br />(Cliquez pour agrandir)</figcaption>
 	</figure>
@@ -141,7 +141,7 @@
 <p>Du 20 août 1906 au 16 septembre 1906,  <strong>Théophile</strong> accomplit une première période d'exercice au sein du <strong>127e Régiment d’Infanterie</strong> qui est en garnison à Valenciennes depuis 1873. Du 1er juin 1909 au  17 juin 1909, il accomplit une 2e période d'exercice (toujours au sein du <strong>127e Régiment d’Infanterie</strong>). Les périodes d'exercice étaient organisées afin que ces réservistes restent opérationnels, même 10 ans après la fin de leur service militaire, trois périodes d'exercices sont organisées par les différentes lois de recrutement et circulaires ministérielles.</p>
 
 	<figure>
-	    <a href="sources/CARIN-matricule-01.jpg" data-fancybox="gallery" title="Extrait de la fiche matricule de Théophile CARIN">
+	    <a href="sources/CARIN-matricule-01.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Théophile CARIN">
 	    <img src="miniatures/CARIN-matricule-01.jpg" alt="Les périodes d'exercices de Théophile CARIN sur sa fiche matricule"/></a>
 	    <figcaption>Extrait de sa fiche matricule<br />(Cliquez pour agrandir)</figcaption>
 	</figure>
@@ -149,7 +149,7 @@
 <p>Le 5 mars 1908, <strong>Théophile CARIN</strong> est condamné par jugement du tribunal correctionnel de Douai à 10 jours de prison pour violence et voies de fait volontaires. Le 28 avril 1909, il est condamné une seconde fois à 8 jours de prison pour coup par le tribunal correctionnel de Valenciennes. Le 21 novembre 1911, il est condamné une troisième fois par jugement contradictoire du tribunal correctionnel d’Arras à un mois de prison pour vol. Le 15 mai 1913, Il est une nouvelle fois condamné, mais cette fois ci c'est à 20 jours de prison pour vol par le tribunal de Bethune.</p>
 
 	<figure>
-	    <a href="images/arras-tribunal.jpg" data-fancybox="gallery" title="Le tribunal d'Arras">
+	    <a href="images/arras-tribunal.jpg" data-fancybox="gallery" data-caption="Le tribunal d'Arras">
 	    <img src="miniatures/arras-tribunal.jpg" alt="Le tribunal d'Arras sur une carte postale ancienne"/></a>
 	    <figcaption>Le tribunal d'Arras<br />(Cliquez pour agrandir)</figcaption>
 	</figure>
@@ -187,7 +187,7 @@
 <p>Mobilisation générale! Comme la plupart des hommes de sa génération, <strong>Théophile</strong> est rappelé à l’activité et  arrive au <strong>1er groupe spécial</strong> le 6 août. À la mobilisation, chaque Corps d'Armée soulevait un <strong>Groupe Spécial</strong> (le numéro est celui du Corps d'Armée). Dans ces groupes étaient reversés les condamnés réservistes.</p>
   
 	<figure>
-	    <a href="sources/CARIN-matricule-02.jpg" data-fancybox="gallery" title="Extrait de la fiche matricule de Théophile CARIN">
+	    <a href="sources/CARIN-matricule-02.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Théophile CARIN">
 	    <img src="miniatures/CARIN-matricule-02.jpg" alt="La condamnation à de la prison sur la fiche matricule de Théophile CARIN"/></a>
 	    <figcaption>Extrait de sa fiche matricule<br />(Cliquez pour agrandir)</figcaption>
 	</figure>
@@ -199,21 +199,21 @@
 <p>Du 29 septembre 1914 au 14 août 1916, Théophile est affecté "<strong>Aux armées d’Algérie</strong>".</p><p> A partir du 9 août 1916, <strong>Théophile CARIN</strong> passe au <strong>4e Bataillon d’Infanterie Légère d’Afrique</strong> jusqu'au 16 août 1918, date de sa fusion avec le 5e bataillon d'Afrique. Le 4e bataillon est successivement commandé par le chef de bataillon Ardit, puis par le chef de bataillon FLOUCAUT de FOURCROY.</p>
 
 	<figure>
-	    <a href="images/tatahouine.jpg" data-fancybox="gallery" title="Tatahouine (Tunisie) - Vu d'ensemble du camp">
+	    <a href="images/tatahouine.jpg" data-fancybox="gallery" data-caption="Tatahouine (Tunisie) - Vu d'ensemble du camp">
 	    <img src="miniatures/tatahouine.jpg" alt="Vue d'ensemble du camp de Tatahouine en Tunisie au début du XXe siècle"/></a>
-	    <figcaption>Vue d'ensemble du camp de Tatahouine<br />(Cliquez pour agrandir)</figcaption>
+	    <figcaption>Vue d'ensemble du camp de Tatahouine (Tunisie)<br />(Cliquez pour agrandir)</figcaption>
 	</figure>
 	
 	<figure>
-	    <a href="images/camp-Tatahouine.jpg" data-fancybox="gallery" title="Tatahouine (Tunisie) - Le camp retranché">
+	    <a href="images/camp-Tatahouine.jpg" data-fancybox="gallery" data-caption="Tatahouine (Tunisie) - Le camp retranché">
 	    <img src="miniatures/camp-Tatahouine.jpg" alt="Le camp retranché de Tatahouine pendant la campagne de 1915-1916"/></a>
-	    <figcaption>Le camp retranché de Tatahouine<br />(Cliquez pour agrandir)</figcaption>
+	    <figcaption>Le camp retranché de Tatahouine (Tunisie)<br />(Cliquez pour agrandir)</figcaption>
 	</figure>
 
 <p>Le <strong>4e B.I.L.A</strong> continuera d'occuper alternativement les secteurs de Tatahouine, où <strong>Théophile</strong> est présent du 15 août 1916 au 18 octobre 1916 puis de Dehibat au sud de la Tunisie, où <strong>Théophile</strong> est présent du 19 octobre 1916 au 29 février 1919. Il prendra aussi part aux colonnes mobiles et de police dans les environs de ces postes.</p>
              
 	<figure>
-	    <a href="cartes/tunisie-1910.jpg" data-fancybox="gallery" title="carte de la Tunisie vers 1910">
+	    <a href="cartes/tunisie-1910.jpg" data-fancybox="gallery" data-caption="carte de la Tunisie vers 1910">
 	    <img src="cartes/mini/tunisie-1910.jpg" alt="Carte du sud de la Tunisie, près de la frontière avec la Lybie"  title="Carte du sud de la Tunisie vers 1910"/></a>
 	    <figcaption>Carte du sud de la Tunisie, près de la frontière avec la Lybie (1910).<br />(Cliquez pour agrandir)</figcaption>
 	</figure>
@@ -250,12 +250,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>

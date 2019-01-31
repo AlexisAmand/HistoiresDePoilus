@@ -8,13 +8,15 @@
 <meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles des Hauts-de-France pendant la Première Guerre Mondiale" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-                
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
-
 <script src="../js/cookiechoices.js"></script>
 
 <script>
@@ -24,17 +26,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-    <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-    <img src="../images/facebook.png" />
-    </a>
-    <img src="../images/googleplus.png" />
-    <a href="https://twitter.com/alexisamand?lang=fr" title="me suivre sur Twitter">
-    <img src="../images/twitter.png" />
-    </a>
-    </div>
+<?php include('../include/social.inc'); ?>
       
 <a href="../index.php" title="retour sur la page d'accueil du site">
 <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -103,7 +99,7 @@
 <p>Hôpital mixte ?</p>
 
 	<figure>
-	<a href="images/hopital-mixte-amiens.jpeg" data-fancybox="gallery" title="L'hôpital mixte d'Amiens">
+	<a href="images/hopital-mixte-amiens.jpeg" data-fancybox="gallery" data-caption="L'hôpital mixte d'Amiens">
     <img src="miniatures/hopital-mixte-amiens.jpeg" alt="L'hôpital mixte installé à l'Hôtel Dieu d'Amiens"></a>
         <figcaption>
         Localisation d'un projectile sur un blessé<br />
@@ -119,7 +115,7 @@
 <h2>Breuil-le-Sec</h2>
 
 	<figure>
-	<a href="images/breuil-ht-36.jpg" data-fancybox="gallery" title="Hôpital temporaire n°36 (Breuil-le-Sec)">
+	<a href="images/breuil-ht-36.jpg" data-fancybox="gallery" data-caption="Hôpital temporaire n°36 (Breuil-le-Sec)">
     <img src="miniatures/breuil-ht-36.jpg" alt="Hôpital temporaire n°36 de Breuil-le-Sec"></a>
         <figcaption>Hôpital temporaire n°36</figcaption>
     </figure>
@@ -147,7 +143,7 @@
 <p>L'hôpital mixte de Valenciennes était situé dans l'une des l'ailes de l'hôpital Général (aujourd'hui connu sous le nom d'Hôpital du Hainaut).</p>
 
 	<figure>
-	<a href="images/valenciennes-hmx.jpg" data-fancybox="gallery" title="L'hôpital mixte de Valenciennes">
+	<a href="images/valenciennes-hmx.jpg" data-fancybox="gallery" data-caption="L'hôpital mixte de Valenciennes">
     <img src="miniatures/valenciennes-hmx.jpg" alt="L'hôpital mixte de Valenciennes pendant la Grande Guerre"></a>
         <figcaption> </figcaption>
     </figure>
@@ -155,7 +151,7 @@
 <p>Dés 1914, la Société de secours aux blessés militaires (S.S.B.M.) met en place deux hôpitaux auxiliaires situés au collège Notre-Dame (HA n°2) et au lycée de jeunes filles (HA n°2 bis). Ils fonctionnent jusque novembre 1915, date à laquelle les Allemands occupent les structures sanitaires de la Valenciennes.</p>
 
 	<figure>
-	<a href="images/valenciennes-ha-2.jpg" data-fancybox="gallery" title="L'hôpitaux auxiliaires n°2 bis au lycée de jeunes filles (Valenciennes)">
+	<a href="images/valenciennes-ha-2.jpg" data-fancybox="gallery" data-caption="L'hôpitaux auxiliaires n°2 bis au lycée de jeunes filles (Valenciennes)">
     <img src="miniatures/valenciennes-ha-2.jpg" alt="L'hôpitaux auxiliaires n°2 bis de Valenciennes situé au lycée de jeunes filles"></a>
         <figcaption>Le lycée de jeunes filles où sera installé<br />l'hôpital auxiliaire n°2 bis</figcaption>
     </figure>
@@ -182,12 +178,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
+<script type="text/javascript" src="../js/script.js"></script>
 
 </body>
 </html>

@@ -8,12 +8,16 @@
 <meta name="description"  content="Présentation du camp de prisonniers de Bad Orb en Allemagne pendant la Première Guerre mondiale (1914-1918)">
     
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
-   
-</head>
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
 
 <body>
+
 <!-- code js pour l'avertissement sur les cookies -->
 
 <script src="../js/cookiechoices.js"></script>
@@ -24,15 +28,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
-	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -108,13 +108,13 @@
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p>
 
 <figure>    
-    <a href="images/Bad-Orb/carte-camp-bad-orb.jpg" data-fancybox="gallery" title="Localisation du camp de Bad-Orb">
-    <img src="miniatures/Bad-Orb/carte-camp-bad-orb.jpg" data-fancybox="gallery" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Bad Orb"></a>
+    <a href="images/Bad-Orb/carte-camp-bad-orb.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Bad-Orb">
+    <img src="miniatures/Bad-Orb/carte-camp-bad-orb.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Bad Orb"></a>
     <figcaption>Localisation du camp de Bad Orb<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>    
 
 <figure>
-    <a href="images/Bad-Orb/bad-orb-01.jpg" data-fancybox="gallery" title="Le camp de Bad-Orb">
+    <a href="images/Bad-Orb/bad-orb-01.jpg" data-fancybox="gallery" data-caption="Le camp de Bad-Orb">
     <img src="miniatures/Bad-Orb/bad-orb-01.jpg" alt="arrivée de prisonniers français au camp de Bad Orb pendant la Première Guerre Mondiale"></a>
     <figcaption>Arrivée de prisonniers français (vers 1915)<br />(source allemande)</figcaption>
 </figure>
@@ -124,7 +124,7 @@
 <ul>
     <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
     <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>
-    <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
+    <li><a href="https://amzn.to/2MTTkR9" title="Les prisonniers de guerre dans l'histoire">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
 </ul>    
 
 <p class="sources">
@@ -149,12 +149,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
+<script type="text/javascript" src="../js/script.js"></script>
 
 </body>
 </html>

@@ -8,6 +8,9 @@
 <meta name="description" content="Selection de livres et de sites web pour retracer le parcours militaire de vos ancêtres poilus pendant la Première Guerre Mondiale">
 
 <link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/resp.css">
+<link rel="stylesheet" href="css/fontawesome/css/all.css">  
+
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
                    
@@ -25,15 +28,11 @@
   });
 </script>
 
+<?php include('include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="images/facebook.png" alt="logo facebook" /></a>
-        <img src="images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('include/social.inc'); ?>
     
   <a href="index.php" title="Retour sur la page d'accueil du site">
   <img src="images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -168,9 +167,12 @@
         <li>Août 1914, La Bataille de Sarrebourg<br />(Joseph Elmerich, 1993)</li>
         <li><a href="https://amzn.to/2MvPvVA" title=" ">Encyclopédie de la Grande Guerre</a><br />(Editions Bayard / sous la direction de Stéphane Audouin-Rouzeau et Jean-Jacques Becker)</li>
         <li><a href="https://amzn.to/2ODtfGA" title="Les Grandes Guerres, par Henry Rousso">Les Grandes Guerres 1914-1945</a><br />(Editions Belins / ouvrage dirigé par Henry Rousso)</li>
+        <li>The Great War of the British People<br />(Editions MacMillan / J. Winter, 1985)</li>
+        <li><a href="https://archive.org/details/19141918iedixneu01chriuoft">La Grande Guerre, vécue - racontée - illustrée par les combattants (tome 1)</a><br />(Publiée sous la Direction de Christian-Frogé, 1922)</li>
+        <li><a href="https://archive.org/details/19141918iedixneu02chriuoft">La Grande Guerre, vécue - racontée - illustrée par les combattants (tome 2)</a><br />(Publiée sous la Direction de Christian-Frogé, 1922)</li>
     </ul>
 
-<br /><br />
+	<br /><br />
 	
 	<h2>Revues sur la Grande Guerre</h2>
     
@@ -281,12 +283,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>

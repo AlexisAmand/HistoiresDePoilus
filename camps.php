@@ -9,6 +9,9 @@
 <meta content="Présentation des camps de prisonniers en Allemagne pendant la Première Guerre Mondiale">
     
 <link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/resp.css">
+<link rel="stylesheet" href="css/fontawesome/css/all.css">  
+
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
                   
@@ -25,19 +28,11 @@
   });
 </script>
 
+<?php include('include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-
-    	<a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="images/facebook.png" />
-        </a>
-        <img src="images/googleplus.png" /> 
-	    <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="images/twitter.png" />
-        </a>
-
-    </div>
+<?php include('include/social.inc'); ?>
     
 <a href="index.php" title="retour sur la page d'accueil du site">
 <img src="images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -45,13 +40,13 @@
 </header>
    
 <nav>
-    <a href="../contact.php">Contact</a>
-    <a href="../webographie.php">Webographie</a>
-    <a href="../lieux.php">Les Batailles</a>
-    <a href="../camps.php">Les Camps</a>
-    <a href="../releves.php">Les Relevés</a>
-    <a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
-    <a href="../poilus.php" class="NavSelected">Les Poilus</a>
+    <a href="contact.php">Contact</a>
+    <a href="webographie.php">Webographie</a>
+    <a href="lieux.php">Les Batailles</a>
+    <a href="camps.php">Les Camps</a>
+    <a href="releves.php">Les Relevés</a>
+    <a href="hopitaux/hopitaux.php">Les Hôpitaux</a>
+    <a href="poilus.php" class="NavSelected">Les Poilus</a>
 </nav>
 
 <div id="navbis">
@@ -126,7 +121,7 @@
 <p>Quand la guerre éclate en août 1914, L'Empire Allemand est certain que sa victoire sera aussi rapide que celle de 1870. Seulement très vite, il doit faire face à un afflux de prisonniers qu'il n'avait pas prévu. Cette situation l'oblige à ouvrir des camps un peu partout sur son territoire. En cette fin d'année 1914, les soldats prisonniers dorment dans la paille, dans des huttes de fortune ou dans des trous creusés à même le sol pour&nbsp; s'abriter du froid et de la pluie. L'hygiène est déplorable, et très vite, des <strong>épidémies de Typhus</strong> apparaissent. Faute d'être prêt à nourrir et à loger un si grand nombre de prisonniers, l'hiver 1914 sera mortel pour des centaines d'hommes. Il faudra attendre l'année 1915 pour que la situation s'améliore un peu.</p>
 
 <figure>
-    <a href="camps/images/friedrichsfeld-prisonniers-français.jpg" data-fancybox="gallery" title="Des prisonniers français au camp de Friedrichsfeld">
+    <a href="camps/images/friedrichsfeld-prisonniers-français.jpg" data-fancybox="gallery" data-caption="Des prisonniers français au camp de Friedrichsfeld">
     <img src="camps/miniatures/friedrichsfeld-prisonniers-français.jpg"  alt="Des prisonniers français au camp de Friedrichsfeld"/>
     </a>
     <figcaption>Des prisonniers au camp de Friedrichsfeld (Allemagne)<br/>(cliquez pour agrandir)</figcaption>
@@ -142,7 +137,7 @@
     <p>Les prisonniers étaient gérés comme véritable armée: Ils étaient (la plupart du temps) logés dans des casernes, vivaient sous les ordres de leurs gardiens et étaient soumis au même règlement et à la même discipline que ceux qui étaient en vigueurs dans l'armée de leurs geôliers. On estime <strong>le nombre de soldats prisonniers en 1918 à 6 637 000</strong> parmi lesquels 2 500 000 sont retenus par l'Allemagne, 2 250 000 par la Russie, 916 000 par l'Autriche, 350 000 par la France, 328 000 par le Royaume-Uni, et 43 000 par les Etats-Unis.</p>
     
 <figure>
-    <a href="camps/images/allemand.png" data-fancybox="gallery" title="Des prisonniers allemands à Toulouse">
+    <a href="camps/images/allemand.png" data-fancybox="gallery" data-caption="Des prisonniers allemands à Toulouse">
     <img src="camps/miniatures/allemand.png" alt="Des prisonniers allemands à Toulouse pendant la Première Guerre Mondiale"/></a>
     <figcaption>Des prisonniers allemands à Toulouse<br/>(cliquez pour agrandir)</figcaption>
 </figure>
@@ -174,12 +169,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="js/jquery.fancybox.min.js"></script>
-
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
+<script type="text/javascript" src="js/script.js"></script>
 
 </body>
 </html>

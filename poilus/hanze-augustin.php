@@ -8,10 +8,14 @@
 <meta content="Parcours et biographie du poilu Augustin HANZE, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-   
-</head>   
+			<link rel="stylesheet" href="../css/resp.css">
+			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+			
+            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+            <link rel="icon" type="image/png" href="../images/favicon.png" />
+                    
+		</head>
+ 
 
 <body>
 
@@ -25,15 +29,11 @@
   });
 </script>
 
+<?php include('../include/resp.inc'); ?>
+
 <header>
 	
-    <div id="rezo">
-      <a href="https://www.facebook.com/genealexis.fr" title="voir la page Facebook du site">
-        <img src="../images/facebook.png" alt="logo facebook" /></a>
-        <img src="../images/googleplus.png" alt="logo Google Plus" /> 
-      <a href="https://twitter.com/alexisamand?lang=fr" title="Me suivre sur Twitter">
-        <img src="../images/twitter.png" alt="logo Twitter"   /></a>
-    </div>
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -90,6 +90,7 @@
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
         <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -119,8 +120,8 @@
 <p>Augustin HANZE est né Cousolre (Nord) le 6 février 1886, fils légitime de Désiré HANZE et Laure DELENS. Selon le recensement de 1906, il est serrurier et vit Route Nationale à Cousolre en compagnie de ses parents et de sa sœur Germaine (née en 1891). Le 5 mars 1910, il épouse à Valenciennes Berthe DUSART, la cousine germaine d'<a href="FONTAINE-Henri-Gustave.php">Henri Gustave FONTAINE</a> (mon arrière-arrière-grand-père).</p> 
 
     <figure>
-        <a href="images/arbre-hanze.png" data-fancybox="gallery" title="Arbre généalogique simplifié de la famille HANZE">
-        <img src="miniatures/arbre-hanze.png" alt="Arbre généalogique simplifié de la famille HANZE" style="box-shadow:none;width:650px;"/></a>
+        <a href="images/arbre-hanze.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille HANZE">
+        <img src="miniatures/arbre-hanze.png" alt="Arbre généalogique simplifié de la famille HANZE" class="ArbreGenealogique"/></a>
         <figcaption>Arbre simplifié de la famille HANZE<br />(cliquez pour agrandir)</figcaption>
     </figure>
 
@@ -150,16 +151,18 @@
 <p>Rappelé à l'activité par le décret de Mobilisation Générale du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux-ges.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le <a href="../releves/cousolre.php">Monument aux Morts de cousolre</a> (où il était né) et sur les plaques commémoratives du square de l’Armistice à Carcassonne (où il était serrurier).</p>
 
 	<figure>
-	    <a href="sources/hanze-augustin.jpg" data-fancybox="gallery" title="Augustin HANZE, mort pour la France">
+	    <a href="sources/hanze-augustin.jpg" data-fancybox="gallery" data-caption="Augustin HANZE, mort pour la France">
 	    <img src="miniatures/hanze-augustin.jpg" alt="Fiche de mort pour la France d'Augustin HANZE"/></a>
 	    <figcaption>Augustin, mort pour la France.<br />(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
     </figure>
 
 	<figure>
-	    <a href="images/momument-cousolre.jpg" data-fancybox="gallery" title="Inauguration du monument de Cousolre">
+	    <a href="images/momument-cousolre.jpg" data-fancybox="gallery" data-caption="Inauguration du monument de Cousolre">
 	    <img src="miniatures/momument-cousolre.jpg" alt="Inauguration du monument de Cousolre le 29 juillet 1923"/></a>
 	    <figcaption>Inauguration du monument de Cousolre<br />(Le 29 juillet 1923)</figcaption>
     </figure>
+    
+<p>Le 23 mars 1920, Berthe se remarie avec <a href="tiburce-louis.php">Louis Henri François TIBURCE</a>, un préposé aux douanes né à Marly (Nord) le 20 aout 1889.</p>    
     
 <p>Pour la petite histoire, Louis PERGAUD (1882-1915), prix Goncourt et auteur de "La Guerre des Boutons" (publié en 1912) a disparu durant la même bataille, dans la nuit du 7 au 8 avril 1915.</p>    
         
@@ -193,12 +196,8 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-</script>  
-
+ 
 </body>
 </html>
