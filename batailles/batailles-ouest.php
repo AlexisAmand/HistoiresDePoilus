@@ -354,8 +354,7 @@
         <td headers="issue">&nbsp;</td>
   </tr> 
   </table>        
-                
-  
+                 
 <h3>L'année 1918</h3>
  
 <figure>
