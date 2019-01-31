@@ -145,7 +145,13 @@
         <td headers="date">Du 18 décembre 1914<br />au 22 décembre 1914</td>
         <td headers="issue">Indécise</td>
   </tr>  
-  </table>    
+  </table>   
+  
+  	<figure>
+  		<a href="images/marne-1914.jpg" data-fancybox="gallery" data-caption=" ">
+		<img src="images/miniatures/marne-1914.jpg" alt=" "></a>
+		<figcaption>Les préliminaires de la Bataille de la Marne (1914)<br />(source: Delcampe)</figcaption>
+	</figure> 
 
 <h3>L'année 1915</h3>
 

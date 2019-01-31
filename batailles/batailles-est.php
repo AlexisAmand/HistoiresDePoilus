@@ -64,12 +64,6 @@
 
 			<p>Cette page sera mise à jour au fur et à mesure des découvertes.</p>
 			
-			<figure>
-    			<a href="images/bataille-tannenberg.jpg" data-fancybox="gallery" data-caption="Plan de la Bataille de Tannenberg">
-    			<img src="images/miniatures/bataille-tannenberg.jpg" alt="Plan de la Bataille de Tannenberg"></a>
-    			<figcaption>Plan de la Bataille de Tannenberg<br />(source: Delcampe)</figcaption>
-			</figure>
-
             <table>
   				<thead>
 				    <tr>
@@ -96,7 +90,24 @@
 					    <td headers="bataille">Bataille de Tannenberg</td>
 					    <td headers="date">du 26 août 1914<br />au 30 août 1914</td>
 					    <td headers="issue">Victoire allemande</td>
-					</tr>  
+					</tr>  					
+				</table>
+				
+				<figure>
+    				<a href="images/bataille-tannenberg.jpg" data-fancybox="gallery" data-caption="Plan de la Bataille de Tannenberg">
+    				<img src="images/miniatures/bataille-tannenberg.jpg" alt="Plan de la Bataille de Tannenberg"></a>
+    				<figcaption>Plan de la Bataille de Tannenberg<br />(source: Delcampe)</figcaption>
+				</figure>
+				
+				<table>
+  				<thead>
+				    <tr>
+				        <th id="lieu" class="l25">Lieu</th>
+				        <th id="bataille" class="l25">Bataille</th>
+				        <th id="date" class="l25">Date</th>
+				        <th id="issue" class="l25">Issue</th>
+				    </tr>
+				</thead> 
   					<tr>
         				<td headers="lieu">Près de l'ile d'Odensholm<br />(Mer Baltique)</td>
         				<td headers="bataille">Combat naval de l'Île d'Odensholm</td>
@@ -139,6 +150,23 @@
         				<td headers="date">Du 29 septembre 1914<br />au 31 octobre 1914</td>
         				<td headers="issue">Victoire russe</td>
   					</tr>    
+  				</table>
+  										
+  				<figure>
+	    			<a href="images/bataille-vistule.jpg" data-fancybox="gallery" data-caption=" ">
+	    			<img src="images/miniatures/bataille-vistule.jpg" alt=" "></a>
+	    			<figcaption>La Bataille de la Vistule<br />(source: Delcampe)</figcaption>
+				</figure> 
+  				
+  				<table>
+  				<thead>
+				    <tr>
+				        <th id="lieu" class="l25">Lieu</th>
+				        <th id="bataille" class="l25">Bataille</th>
+				        <th id="date" class="l25">Date</th>
+				        <th id="issue" class="l25">Issue</th>
+				    </tr>
+				</thead> 					
   					<tr>
         				<td headers="lieu">Lodz<br />(actuelle Pologne)</td>
         				<td headers="bataille">Bataille de Lodz</td>
@@ -170,14 +198,84 @@
         				<td headers="issue">victoire allemande</td>
   					</tr> 
   					<tr>
-				        <td headers="lieu">&nbsp;</td>
-				        <td headers="bataille">&nbsp;</td>
-				        <td headers="date">&nbsp;</td>
-				        <td headers="issue">&nbsp;</td>
+				        <td headers="lieu">Gorlice et Tarnów<br />(actuelle Pologne)</td>
+				        <td headers="bataille">Offensive de Gorlice-Tarnów</td>
+				        <td headers="date">di 1er mai<br />au 18 septembre 1915;</td>
+				        <td headers="issue">Victoire de l'Allemagne et de l'Autriche-Hongrie</td>
   					</tr> 
-			</table>
-
-			<p>A suivre...</p>
+					<tr>
+				        <td headers="lieu">Novogeorgievsk<br />(actuelle Pologne)</td>
+				        <td headers="bataille">Siège de Novogeorgievsk</td>
+				        <td headers="date">du 10 août<br />au 20 août 1915</td>
+				        <td headers="issue">Victoire allemande</td>
+  					</tr>
+  					<tr>
+				        <td headers="lieu">Varsovie<br />(actuelle Pologne)</td>
+				        <td headers="bataille">Bataille de Varsovie</td>
+				        <td headers="date">du 17 août 1915<br />au 14 septembre 1915</td>
+				        <td headers="issue">Victoire allemande</td>
+  					</tr>
+  					<tr>
+				        <td headers="lieu">Sventiany<br />(actuelle Lituanie)</td>
+				        <td headers="bataille">Offensive de Sventiany</td>
+				        <td headers="date">du 26 août<br />au 2 octobre 1915</td>
+				        <td headers="issue">Victoire russe</td>
+  					</tr>
+  					<tr>
+				        <td headers="lieu">Lac Narotch<br />(actuelle Biélorussie)</td>
+				        <td headers="bataille">Offensive du lac Narotch</td>
+				        <td headers="date">du 17 mars<br />au avril 1916</td>
+				        <td headers="issue">Victoire allemande</td>
+  					</tr>
+  					<tr>
+				        <td headers="lieu">Volhynie<br />(Ukraine)</td>
+				        <td headers="bataille">Offensive Broussilov</td>
+				        <td headers="date">du 4 juin<br />au 20 septembre 1916</td>
+				        <td headers="issue">Victoire russe</td>
+  					</tr>
+  					<tr>
+				        <td headers="lieu">Tutrakan<br />(Bulgarie)</td>
+				        <td headers="bataille">Bataille de Tutrakan</td>
+				        <td headers="date">2 septembre<br />au 7 septembre 1916</td>
+				        <td headers="issue">Victoire bulgare;</td>
+  					</tr>
+  					<tr>
+				        <td headers="lieu">Roussé<br />(Bulgarie)</td>
+				        <td headers="bataille">Offensive Flămânda</td>
+				        <td headers="date">du 29 septembre<br />au 5 octobre 1916</td>
+				        <td headers="issue">&nbsp;</td>
+  					</tr>
+  					<tr>
+				        <td headers="lieu">Galicie</td>
+				        <td headers="bataille">Offensive Kerenski</td>
+				        <td headers="date">du 1er juillet<br />au 19 juillet 1917</td>
+				        <td headers="issue">Victoire de la Triplice</td>
+  					</tr>
+  					<tr>
+				        <td headers="lieu">Riga<br />(Lettonie)</td>
+				        <td headers="bataille">Bataille de Riga (1917)</td>
+				        <td headers="date">du 1er septembe<br />au 5 septembre 1917</td>
+				        <td headers="issue">Victoire allemande</td>
+  					</tr>
+  					<tr>
+				        <td headers="lieu">Saaremaa, Hiiumaa et Muhu<br />(Estonie)</td>
+				        <td headers="bataille">Opération Albion</td>
+				        <td headers="date">du 11 octobre<br />au 23 octobre 1917</td>
+				        <td headers="issue">Victoire allemande</td>
+  					</tr>
+  					<tr>
+				        <td headers="lieu">Mărășești<br />(Roumanie)</td>
+				        <td headers="bataille">Bataille de Mărășești </td>
+				        <td headers="date">du 6 août<br />au 8 septembre 1917</td>
+				        <td headers="issue">Victoire Roumaine</td>
+  					</tr>
+  					<tr>
+				        <td headers="lieu">Bakhmatch<br />(Ukraine)</td>
+				        <td headers="bataille">Bataille de Bakhmatch</td>
+				        <td headers="date">du 8 mars<br />au 13 mars 1918</td>
+				        <td headers="issue">Victoire tchécoslovaque</td>
+  					</tr>
+  				</table>	
 
 			<p class="sources">
 			<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
