@@ -93,6 +93,7 @@
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
+        <li><a href="tiburce-louis.php">TIBURCE Louis</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
            	      
 </ul>

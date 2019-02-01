@@ -8,13 +8,13 @@
 <meta content="Parcours de Louis Rousseaux, soldat pendant la Première Guerre Mondiale et membre du 4e Bataillon d’Infanterie Légère d’Afrique" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
-			<link rel="stylesheet" href="../css/resp.css">
-			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+<link rel="stylesheet" href="../css/resp.css">
+<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
 			
-            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-            <link rel="icon" type="image/png" href="../images/favicon.png" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                     
-		</head>
+</head>
 
 <body>
 
@@ -94,6 +94,7 @@
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php" class="AsideSelected">ROUSSEAUX Louis Henri (+)</a></li>
+        <li><a href="tiburce-louis.php">TIBURCE Louis</a></li>
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
            	      
  </ul>
@@ -126,10 +127,6 @@
 
 <p>La parenté qui me lie à Louis est un peu compliquée, je vais essayer d’être le plus clair possible. Comme <a href="FIEVET-Charles-Augustin.php">Charles Augustin</a> et <a href="FIEVET-Auguste-Victor.php">Auguste Victor</a>, <strong>Louis Henri</strong> est le petit-fils de Léonie FIEVEZ, mon aïeule. <a href="FIEVET-Charles-Augustin.php">Charles</a> et <a href="FIEVET-Charles-Augustin.php">Auguste</a> sont issus de Charles Jules, que Léonie a eu d’un père inconnu alors qu’Achille est issu d’Achille Léopold, que Léonie a eu de son mariage avec Augustin ROUSSEAUX. Pour faire bref, Le père de Louis Henri ROUSSEAUX et le père de <a href="FIEVET-Charles-Augustin.php">Charles Augustin</a> sont des demi-frères.</p>
 
-<br />
-
-
-
 	<figure>
 	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
 	    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX" class="ArbreGenealogique"></a>
@@ -151,8 +148,8 @@
 <p>Porté disparu à Curlu (Somme) le 20 juillet 1916, son décès est constaté à Hem Monacu, une commune située à quelques kilomètres au nord-ouest de Péronne, le 3 septembre 1916. <strong>Louis Henri ROUSSEAUX</strong> est inhumé au Bois de la Pépinière sous le n°11. Il reçoit la croix de guerre avec étoile d’argent à titre posthume le 15 novembre 1920 pour être « tombé glorieusement » le 20 juillet 1916 lors de l’assaut des lignes de Maurepas (Somme). La Croix de Guerre est une médaille qui a été instituée par la loi du 8 avril 1915. Elle est en bronze florentin, a quatre branches et deux épées croisées.</p>
         
     <figure>
-	    <a href="images/rousseau-louis-mpf.jpg" data-fancybox="gallery" data-caption=" ">
-	    <img src="miniatures/rousseau-louis-mpf.jpg" alt=" "></a>
+	    <a href="images/rousseau-louis-mpf.jpg" data-fancybox="gallery" data-caption="Louis ROUSSEAUX, mort pour la France">
+	    <img src="miniatures/rousseau-louis-mpf.jpg" alt="Fiche de mort pour la France de Louis ROUSSEAUX"></a>
 	    <figcaption>Louis, mort pour la France<br />(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
 	</figure>    
 	
