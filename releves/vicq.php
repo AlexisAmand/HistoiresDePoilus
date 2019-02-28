@@ -310,7 +310,7 @@
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td>MASCART<br />Léon</td>
+    <td><a href="../poilus/mascart-leon-2.php">MASCART<br />Léon</a></td>
     <td>22 avril 1889<br />à Onnaing (Nord)</td>
     <td>Le 7 mars 1915<br />à Châlons-sur-Marne (Marne)</td>
     <td>127e R.I<br />(caporal)</td>

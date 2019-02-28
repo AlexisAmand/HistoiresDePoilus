@@ -49,6 +49,7 @@
     <a href="../poilus.php">Les Poilus</a> 
    
 </nav>
+
 <section>
 
 <aside>
@@ -139,9 +140,9 @@
   <tr>
     <th id="nom" width="158px">Nom et prénom(s)</th>
     <th id="naissance" width="158px">Date et lieu<br />de naissance</th>
-    <td id="mort" width="158px">Date et lieu<br />de décès</th>
+    <th id="mort" width="158px">Date et lieu<br />de décès</th>
     <th id="corps" width="70px">Corps</th>
-    <td id="genre" width="90px">Genre<br />de mort</th>
+    <th id="genre" width="90px">Genre<br />de mort</th>
    </tr>
    </thead>
   <tr>

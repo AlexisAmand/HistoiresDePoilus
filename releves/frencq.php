@@ -130,74 +130,73 @@
 
 <figure>
     <a href="images/monument-frencq.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Frencq">
-    <img src="images/mini/monument-frencq.jpg" alt="le monument commémoratif des enfants de Frencq morts pour la France pendant la Première Guerre Mondiale sur une carte postale ancienne"/>
-    </a>
+    <img src="images/mini/monument-frencq.jpg" alt="le monument commémoratif des enfants de Frencq morts pour la France pendant la Première Guerre Mondiale sur une carte postale ancienne"/></a>
     <figcaption>Le monument commémoratif<br />(cliquez pour agrandir)</figcaption>
 </figure>
 
 <p></p>
 
 <table>
-      <thead>  
+  <thead>  
       <tr>
-        <td>Nom</td>
-        <td>Date et lieu<br />de naissance</td>
-        <td>Date et lieu<br />de décès</td>
-        <td>Corps</td>
-        <td>Genre<br />de mort</td>
+        <td id="nom">Nom</td>
+        <td id="naissance">Date et lieu<br />de naissance</td>
+        <td id="mort">Date et lieu<br />de décès</td>
+        <td id="corps">Corps</td>
+        <td id="genre">Genre<br />de mort</td>
       </tr>
       </thead>  
       <tr>
-        <td>BLIN<br />Jean </td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>Lieutenant</td>
-        <td>&nbsp;</td>
+        <td headers="nom">BLIN<br />Jean </td>
+        <td headers="naissance">&nbsp;</td>
+        <td headers="mort"> &nbsp;</td>
+        <td headers="corps">Lieutenant</td>
+        <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>BLIN<br />François</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-      <tr>
-        <td>BOMY<br />Alphonse</td>
+        <td headers="nom">BLIN<br />François</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>BOMY<br />Fran&ccedil;ois</td>
+        <td headers="nom">BOMY<br />Alphonse</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>BOULOGNE<br />Auguste</td>
+        <td headers="nom">BOMY<br />Fran&ccedil;ois</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>CHARTAUX<br />Lucien</td>
+        <td headers="nom">BOULOGNE<br />Auguste</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>DELHAYE<br />Auguste Alexandre </td>
+        <td headers="nom">CHARTAUX<br />Lucien</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td>DELHAYE<br />Auguste Elis&eacute;e </td>
+        <td headers="nom">DELHAYE<br />Auguste Alexandre </td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td headers="nom">DELHAYE<br />Auguste Elis&eacute;e </td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>

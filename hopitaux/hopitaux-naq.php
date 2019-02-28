@@ -108,6 +108,10 @@
    	<img src="miniatures/cognac-HC-45.jpg" alt="L'hôpital complémentaire n°45 de Cognac, situé rue de la Providence"></a>
     	<figcaption>L'hôpital complémentaire n°45,<br />situé rue de la Providence à Cognac</figcaption>
     </figure>
+    
+<h2>Limoges</h2>    
+    
+<p>hôpital Chastaing de Limoges.</p>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

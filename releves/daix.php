@@ -131,13 +131,13 @@
 <table>
   <thead>
   <tr>
-    <td width="158px">Nom et prénom(s)</td>
-    <td width="158px">Date et lieu<br />de naissance</td>
-    <td width="158px">Date et lieu<br />de décès</td>
-    <td width="70px">Corps</td>
-    <td width="90px">Genre<br />de mort</td>
-   </tr>
-   </thead>
+    <th id="nom" width="158px">Nom et prénom(s)</th>
+    <th id="naissance" width="158px">Date et lieu<br />de naissance</th>
+    <th id="mort" width="158px">Date et lieu<br />de décès</th>
+    <th id="corps" width="70px">Corps</th>
+    <th id="genre" width="90px">Genre<br />de mort</th>
+  </tr>
+  </thead>
   <tr>
     <td>BAUDOT<br />Henri Joseph</td>
     <td>Le 30 mars 1888<br />à Daix</td>

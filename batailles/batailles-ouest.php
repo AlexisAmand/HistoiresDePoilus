@@ -67,7 +67,7 @@
 <figure>
     <a href="images/yser.jpg" data-fancybox="gallery" data-caption="La Bataille de l'Yser (1914)">
     <img src="images/miniatures/yser.jpg" alt="la bataille de l'Yser pendant la Grande Guerre"></a>
-    <figcaption>La Bataille de l'Yser (1914)<br />(source: BNF / Gallica)</figcaption>
+    <figcaption>La Bataille de l'Yser (1914)<br />(source: Gallica / Bibliothèque Nationale de France)</figcaption>
 </figure>
 
 <table>

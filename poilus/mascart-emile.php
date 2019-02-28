@@ -82,14 +82,15 @@
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
-        <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="lamandin-georges.php">LAMANDIN Georges (+)</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php" class="AsideSelected">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
-        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien (+)</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
@@ -146,7 +147,7 @@
         </tbody>
     </table>
 
-<p>Il est rappelé à l'activité par le décret du 1 août 1914 et arrive au 91 Régiment d'Infanterie le 3. L'année qui suit, le 14 septembre, il est détaché aux Fonderies de Firminy (Loire) où on produit les cannons de 155 mm. Il est affecté au 86e Régiment d'Infanterie par la circulaire ministérielle du 25 mai 1917 mais maintenu détaché. Il est envoyé en congé illimité le 10 avril 1919 et se retire rue d'Estreux à Onnaing où il décède le jeudi 20 février 1941.</p>
+<p>Il est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 aout 1914">décret de mobilisation générale du 1 août 1914</a> et arrive au 91 Régiment d'Infanterie le 3. L'année qui suit, le 14 septembre, il est détaché aux Fonderies de Firminy (Loire) où on produit les cannons de 155 mm. Il est affecté au 86e Régiment d'Infanterie par la circulaire ministérielle du 25 mai 1917 mais maintenu détaché. Il est envoyé en congé illimité le 10 avril 1919 et se retire rue d'Estreux à Onnaing où il décède le jeudi 20 février 1941.</p>
     
     <figure>
 	    <a href="http://cartespostalesanciennes.genealexis.fr/image/loire/930-acierie-de-firminy.jpg" data-fancybox="gallery" data-caption="Les Fonderies de Firminy (Loire)">

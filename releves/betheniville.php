@@ -139,423 +139,420 @@
 <table>
   <thead>
   <tr>
-    <td width="158">Nom et prénom(s)</td>
-    <td width="158">Date et lieu<br />de naissance</td>
-    <td width="158">Date et lieu<br />de décès</td>
-    <td width="45">Classe</td>
-    <td width="70">Corps</td>
-    <td width="90">Genre<br />de mort</td>
-   </tr>
-   </thead>
+    <th id="nom"  width="158">Nom et prénom(s)</th>
+    <th id="naissance" width="158">Date et lieu<br />de naissance</th>
+    <th id="mort" width="158">Date et lieu<br />de décès</th>
+    <th id="classe" width="45">Classe</th>
+    <th id="corps" width="70">Corps</th>
+    <th id="genre" width="90">Genre<br />de mort</th>
+  </tr>
+  </thead>
   <tr>
-    <td>ANCIA<br />Nicolas Henri</td>
-    <td>le 16 juin 1886<br />à Semide (Ardennes)</td>
-    <td>le 19 novembre 1915<br />à Eparges (Meuse)</td>
-    <td>1906</td>
-    <td>364e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">ANCIA<br />Nicolas Henri</td>
+    <td headers="naissance">le 16 juin 1886<br />à Semide (Ardennes)</td>
+    <td headers="mort">le 19 novembre 1915<br />à Eparges (Meuse)</td>
+    <td headers="classe">1906</td>
+    <td headers="corps">364e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>BA(R)LARDELLE<br />Louis Vallier</td>
-    <td>le 15 novembre 1882<br />à Cauroy (Ardennes)</td>
-    <td>le 24 février 1915<br />à Chasseny (Aisne)</td>
-    <td>1902</td>
-    <td>332e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">BA(R)LARDELLE<br />Louis Vallier</td>
+    <td headers="naissance">le 15 novembre 1882<br />à Cauroy (Ardennes)</td>
+    <td headers="mort">le 24 février 1915<br />à Chasseny (Aisne)</td>
+    <td headers="classe">1902</td>
+    <td headers="corps">332e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>BALTHAZARD<br />Paul Théodule</td>
-    <td>le 7 décembre 1879<br />à Servon (Marne)</td>
-    <td>le 17 octobre 1915<br />à Saint-Hilaire-le-Gd (Marne)</td>
-    <td>1899</td>
-    <td>161e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">BALTHAZARD<br />Paul Théodule</td>
+    <td headers="naissance">le 7 décembre 1879<br />à Servon (Marne)</td>
+    <td headers="mort">le 17 octobre 1915<br />à Saint-Hilaire-le-Gd (Marne)</td>
+    <td headers="classe">1899</td>
+    <td headers="corps">161e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>BALTHAZART<br />Henri Hippolyte</td>
-    <td>le 3 décembre 1894<br />à Bétheniville (Marne)</td>
-    <td>le 25 septembre 1915<br />à Ville-sur-Tourbe (Marne)</td>
-    <td>1914</td>
-    <td>410e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">BALTHAZART<br />Henri Hippolyte</td>
+    <td headers="naissance">le 3 décembre 1894<br />à Bétheniville (Marne)</td>
+    <td headers="mort">le 25 septembre 1915<br />à Ville-sur-Tourbe (Marne)</td>
+    <td headers="classe">1914</td>
+    <td headers="corps">410e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>BERRY<br />Marcel</td>
-    <td>le 21 mars 1894<br />à Cornay (Ardennes)</td>
-    <td>le 4 août 1918<br />à Villers-Cotterêts (Aisne)</td>
-    <td>1914</td>
-    <td>25e B.C.P</td>
-    <td>blessures de guerre</td>
+    <td headers="nom">BERRY<br />Marcel</td>
+    <td headers="naissance">le 21 mars 1894<br />à Cornay (Ardennes)</td>
+    <td headers="mort">le 4 août 1918<br />à Villers-Cotterêts (Aisne)</td>
+    <td headers="classe">1914</td>
+    <td headers="corps">25e B.C.P</td>
+    <td headers="genre">blessures de guerre</td>
   </tr>
   <tr>
-    <td>BERRY<br />Maurice Elie Hyacinthe</td>
-    <td>le 21 janvier 1890<br />à <a href="http://cartespostalesanciennes.genealexis.fr/album/74-reims" title="cartes postales anciennes de Reims sur le site Genealexis">Reims</a> (Marne)</td>
-    <td>le 9 décembre 1916<br />à St-Germain-en-Laye (78)</td>
-    <td>1910</td>
-    <td>106e R.I</td>
-    <td>des suites de blessures</td>
+    <td headers="nom">BERRY<br />Maurice Elie Hyacinthe</td>
+    <td headers="naissance">le 21 janvier 1890<br />à <a href="http://cartespostalesanciennes.genealexis.fr/album/74-reims" title="cartes postales anciennes de Reims sur le site Genealexis">Reims</a> (Marne)</td>
+    <td headers="mort">le 9 décembre 1916<br />à St-Germain-en-Laye (78)</td>
+    <td headers="classe">1910</td>
+    <td headers="corps">106e R.I</td>
+    <td headers="genre">des suites de blessures</td>
   </tr>
   <tr>
-    <td>BERTON<br />Auguste Elie</td>
-    <td>le 15 février 1888<br />à Chalons-sur-Saône (71)</td>
-    <td>le 25 septembre 1915<br />au Bois-Mesnil (54)    </td>
-    <td>1906/1908</td>
-    <td>157e RI</td>
-    <td>blessures de guerre</td>
+    <td headers="nom">BERTON<br />Auguste Elie</td>
+    <td headers="naissance">le 15 février 1888<br />à Chalons-sur-Saône (71)</td>
+    <td headers="mort">le 25 septembre 1915<br />au Bois-Mesnil (54)</td>
+    <td headers="classe">1906/1908</td>
+    <td headers="corps">157e RI</td>
+    <td headers="genre">blessures de guerre</td>
   </tr>
   <tr>
-    <td>BOSSERELLE<br />
-      Alexandre Eugène</td>
-    <td>le 5 novembre 1892<br />
-      à Bétheniville (Marne)</td>
-    <td>le 26 décembre 1914<br />
-      à Mouilly (Meuse)</td>
-    <td>1912</td>
-    <td>9e R.G</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">BOSSERELLE<br />Alexandre Eugène</td>
+    <td headers="naissance">le 5 novembre 1892<br />à Bétheniville (Marne)</td>
+    <td headers="mort">le 26 décembre 1914<br />à Mouilly (Meuse)</td>
+    <td headers="classe">1912</td>
+    <td headers="corps">9e R.G</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>BOURQUEL<br />Alfred Joseph</td>
-    <td>le 14 février 1895<br />à Saint-Souplet (Marne)</td>
-    <td>le 25 septembre 1915<br />à Ville-sur-Tourbe (Marne)</td>
-    <td>1915</td>
-    <td>410e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">BOURQUEL<br />Alfred Joseph</td>
+    <td headers="naissance">le 14 février 1895<br />à Saint-Souplet (Marne)</td>
+    <td headers="mort">le 25 septembre 1915<br />à Ville-sur-Tourbe (Marne)</td>
+    <td headers="classe">1915</td>
+    <td headers="corps">410e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>BOURQUEL<br />Émile Eugène</td>
-    <td>le 30 septembre 1887<br />à Saint-Souplet (Marne)</td>
-    <td>le 17 mai 1916<br />à Froidos (Meuse)</td>
-    <td>1907</td>
-    <td>5e R.A.P</td>
-    <td>maladie en service</td>
+    <td headers="nom">BOURQUEL<br />Émile Eugène</td>
+    <td headers="naissance">le 30 septembre 1887<br />à Saint-Souplet (Marne)</td>
+    <td headers="mort">le 17 mai 1916<br />à Froidos (Meuse)</td>
+    <td headers="classe">1907</td>
+    <td headers="corps">5e R.A.P</td>
+    <td headers="genre">maladie en service</td>
   </tr>
   <tr>
-    <td>CAUET<br />Severin Guislain</td>
-    <td>le 14 mars 1885<br />à Villers-Guislain (Nord)</td>
-    <td>le 20 octobre 1914<br />à Pontavert (Aisne)</td>
-    <td>1905</td>
-    <td>201e R.I</td>
-    <td>disparu</td>
+    <td headers="nom">CAUET<br />Severin Guislain</td>
+    <td headers="naissance">le 14 mars 1885<br />à Villers-Guislain (Nord)</td>
+    <td headers="mort">le 20 octobre 1914<br />à Pontavert (Aisne)</td>
+    <td headers="classe">1905</td>
+    <td headers="corps">201e R.I</td>
+    <td headers="genre">disparu</td>
   </tr>
   <tr>
-    <td>CHOLET<br />Edouard Georges</td>
-    <td>le 14 novembre 1893<br />à Bétheniville (Marne)</td>
-    <td>le 30 janvier 1915<br />à Saint-Menehould (Marne)</td>
-    <td>&nbsp;</td>
-    <td>154e R.I</td>
-    <td>blessures de guerre</td>
+    <td headers="nom">CHOLET<br />Edouard Georges</td>
+    <td headers="naissance">le 14 novembre 1893<br />à Bétheniville (Marne)</td>
+    <td headers="mort">le 30 janvier 1915<br />à Saint-Menehould (Marne)</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">154e R.I</td>
+    <td headers="genre">blessures de guerre</td>
   </tr>
   <tr>
-    <td>DAVID<br />Henri</td>
-    <td>le 17 mars 1892<br />à Bétheniville (Marne)</td>
-    <td>le 27 septembre 1916<br />à Bois l'Abé (bouchavesnes) (Somme)</td>
-    <td>1912</td>
-    <td>25e B.C.P</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">DAVID<br />Henri</td>
+    <td headers="naissance">le 17 mars 1892<br />à Bétheniville (Marne)</td>
+    <td headers="mort">le 27 septembre 1916<br />à Bois l'Abé (bouchavesnes) (Somme)</td>
+    <td headers="classe">1912</td>
+    <td headers="corps">25e B.C.P</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>DELAGLOYE<br />Georges</td>
-    <td>le 19 octobre 1895<br />à Bétheniville (Marne)</td>
-    <td>le 22 juillet 1915<br />à Barrenkopf (68)</td>
-    <td>1915</td>
-    <td>106e B.C.A</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">DELAGLOYE<br />Georges</td>
+    <td headers="naissance">le 19 octobre 1895<br />à Bétheniville (Marne)</td>
+    <td headers="mort">le 22 juillet 1915<br />à Barrenkopf (68)</td>
+    <td headers="classe">1915</td>
+    <td headers="corps">106e B.C.A</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>DIEUDONNE<br />Gustave Albert</td>
-    <td>le 4 décembre 1878<br />à Béthenville (Marne)</td>
-    <td>le 27 août 1917<br />à Bois des Caurières (Meuse)</td>
-    <td>1898</td>
-    <td>332e R.I.T</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">DIEUDONNE<br />Gustave Albert</td>
+    <td headers="naissance">le 4 décembre 1878<br />à Béthenville (Marne)</td>
+    <td headers="mort">le 27 août 1917<br />à Bois des Caurières (Meuse)</td>
+    <td headers="classe">1898</td>
+    <td headers="corps">332e R.I.T</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>DOMINICY<br />Henri Marie</td>
-    <td>le 6 octobre 1881<br />à Bétheniville (Marne)</td>
-    <td>le 19 avril 1915<br />aux Eparges (Meuse)</td>
-    <td>1901</td>
-    <td>25e B.C.P</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">DOMINICY<br />Henri Marie</td>
+    <td headers="naissance">le 6 octobre 1881<br />à Bétheniville (Marne)</td>
+    <td headers="mort">le 19 avril 1915<br />aux Eparges (Meuse)</td>
+    <td headers="classe">1901</td>
+    <td headers="corps">25e B.C.P</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>DONAT<br />Jean Adolphe</td>
-    <td>le 19 septembre 1892<br />à Villers-Guislain (Nord)</td>
-    <td>le 9 octobre 1916<br />à Sailly Saillisel (Somme)</td>
-    <td>1912</td>
-    <td>161e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">DONAT<br />Jean Adolphe</td>
+    <td headers="naissance">le 19 septembre 1892<br />à Villers-Guislain (Nord)</td>
+    <td headers="mort">le 9 octobre 1916<br />à Sailly Saillisel (Somme)</td>
+    <td headers="classe">1912</td>
+    <td headers="corps">161e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>DRÊME <br />Henri Louis</td>
-    <td>le 16 avril 1897<br />Bétheniville (Marne)</td>
-    <td>le 16 avril 1917<br />à Craônne (Aisne)</td>
-    <td>1917</td>
-    <td>43e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">DRÊME <br />Henri Louis</td>
+    <td headers="naissance">le 16 avril 1897<br />Bétheniville (Marne)</td>
+    <td headers="mort">le 16 avril 1917<br />à Craônne (Aisne)</td>
+    <td headers="classe">1917</td>
+    <td headers="corps">43e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>DUPUIT<br />Jean Joseph Paul</td>
-    <td>le 21 septembre 1886<br />à Tagnon (Ardennes)</td>
-    <td>le 9 juin 1918<br />à Gury (60)</td>
-    <td>1906</td>
-    <td>11e C.P</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">DUPUIT<br />Jean Joseph Paul</td>
+    <td headers="naissance">le 21 septembre 1886<br />à Tagnon (Ardennes)</td>
+    <td headers="mort">le 9 juin 1918<br />à Gury (60)</td>
+    <td headers="classe">1906</td>
+    <td headers="corps">11e C.P</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>ETIENNE<br />Raymond Eugène</td>
-    <td>le 13 juin 1892<br />à Reims (Marne)</td>
-    <td>le 13 juin 1915<br />à Vienne-le-Château (Marne)</td>
-    <td>1912</td>
-    <td>154e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">ETIENNE<br />Raymond Eugène</td>
+    <td headers="naissance">le 13 juin 1892<br />à Reims (Marne)</td>
+    <td headers="mort">le 13 juin 1915<br />à Vienne-le-Château (Marne)</td>
+    <td headers="classe">1912</td>
+    <td headers="corps">154e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>FIQUEMONT<br />Léon Elisée</td>
-    <td>le 25 décembre 1883<br />à Neuflize (Ardennes)</td>
-    <td>le 30 octobre 1914<br />à Nailly (Aisne)</td>
-    <td>1903</td>
-    <td>332e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">FIQUEMONT<br />Léon Elisée</td>
+    <td headers="naissance">le 25 décembre 1883<br />à Neuflize (Ardennes)</td>
+    <td headers="mort">le 30 octobre 1914<br />à Nailly (Aisne)</td>
+    <td headers="classe">1903</td>
+    <td headers="corps">332e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>GODFRIN<br /> Etienne Paul</td>
-    <td>le 18 juin 1882<br />à Bétheniville (Marne)</td>
-    <td>le 2 août 1915<br />à Marie-Thérèse (Argonne)</td>
-    <td>1902</td>
-    <td>155e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">GODFRIN<br /> Etienne Paul</td>
+    <td headers="naissance">le 18 juin 1882<br />à Bétheniville (Marne)</td>
+    <td headers="mort">le 2 août 1915<br />à Marie-Thérèse (Argonne)</td>
+    <td headers="classe">1902</td>
+    <td headers="corps">155e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>HAGARD<br />Adrien Charles</td>
-    <td>le 10 février 1895<br />à Villers-Guislain (Nord)</td>
-    <td>le 1er juillet 1915<br />à Bar-le-Duc (Meuse)</td>
-    <td>1915</td>
-    <td>154e R.I</td>
-    <td>à la suite de blessures de guerre</td>
+    <td headers="nom">HAGARD<br />Adrien Charles</td>
+    <td headers="naissance">le 10 février 1895<br />à Villers-Guislain (Nord)</td>
+    <td headers="mort">le 1er juillet 1915<br />à Bar-le-Duc (Meuse)</td>
+    <td headers="classe">1915</td>
+    <td headers="corps">154e R.I</td>
+    <td headers="genre">à la suite de blessures de guerre</td>
   </tr>
   <tr>
-    <td>HAIMART<br />Pierre Marie</td>
-    <td>le 8 avril 1883<br />Hauviné (Ardennes)</td>
-    <td>le 13 septembre 1914<br />à Aguilcourt (Aisne)</td>
-    <td>1903</td>
-    <td>332e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">HAIMART<br />Pierre Marie</td>
+    <td headers="naissance">le 8 avril 1883<br />Hauviné (Ardennes)</td>
+    <td headers="mort">le 13 septembre 1914<br />à Aguilcourt (Aisne)</td>
+    <td headers="classe">1903</td>
+    <td headers="corps">332e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>HUSSON<br />Paul Gaston</td>
-    <td>15 février 1883<br />à Bétheniville (Nord)</td>
-    <td>le 5 avril 1916<br />à Saint-Menehould (Marne)</td>
-    <td>1903</td>
-    <td>23e R.A</td>
-    <td>suites de blessures par éclats d'obus</td>
+    <td headers="nom">HUSSON<br />Paul Gaston</td>
+    <td headers="naissance">15 février 1883<br />à Bétheniville (Nord)</td>
+    <td headers="mort">le 5 avril 1916<br />à Saint-Menehould (Marne)</td>
+    <td headers="classe">1903</td>
+    <td headers="corps">23e R.A</td>
+    <td headers="genre">suites de blessures par éclats d'obus</td>
   </tr>
   <tr>
-    <td>LAMBERT<br />Louis Auguste</td>
-    <td>le 4 décembre 1884<br />à Brécy (Ardennes)</td>
-    <td>le 23 septembre 1914<br />à Baconnes (Marne)</td>
-    <td>&nbsp;</td>
-    <td>151e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">LAMBERT<br />Louis Auguste</td>
+    <td headers="naissance">le 4 décembre 1884<br />à Brécy (Ardennes)</td>
+    <td headers="mort">le 23 septembre 1914<br />à Baconnes (Marne)</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">151e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>LEFRANC<br />Benoni Arsène</td>
-    <td>le 17 mars 1883<br />à Dontrien (Marne)</td>
-    <td>le 10 août 1916<br />à Verdun (Meuse)</td>
-    <td>1903</td>
-    <td>71e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">LEFRANC<br />Benoni Arsène</td>
+    <td headers="naissance">le 17 mars 1883<br />à Dontrien (Marne)</td>
+    <td headers="mort">le 10 août 1916<br />à Verdun (Meuse)</td>
+    <td headers="classe">1903</td>
+    <td headers="corps">71e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>LANGLOIS<br />Henri Georges</td>
-    <td>le 23 janvier 1883<br />à Boulogne / Mer (62)<sup><a href="#note1">1</a></sup></td>
-    <td>le 5 septembre 1914<br />à Saint-Soupplets (77)</td>
-    <td>1903</td>
-    <td>65e B.C.P</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">LANGLOIS<br />Henri Georges</td>
+    <td headers="naissance">le 23 janvier 1883<br />à Boulogne / Mer (62)<sup><a href="#note1">1</a></sup></td>
+    <td headers="mort">le 5 septembre 1914<br />à Saint-Soupplets (77)</td>
+    <td headers="classe">1903</td>
+    <td headers="corps">65e B.C.P</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>LAPOULE<br />Alfred</td>
-    <td>le 25 juillet 1879<br />à Bétheniville (Marne)</td>
-    <td>le 4 septembre 1918<br />à Bruyeres (88)</td>
-    <td>1899</td>
-    <td>14e ?</td>
-    <td>des suites de maladie contractée en service</td>
+    <td headers="nom">LAPOULE<br />Alfred</td>
+    <td headers="naissance">le 25 juillet 1879<br />à Bétheniville (Marne)</td>
+    <td headers="mort">le 4 septembre 1918<br />à Bruyeres (88)</td>
+    <td headers="classe">1899</td>
+    <td headers="corps">14e ?</td>
+    <td headers="genre">des suites de maladie contractée en service</td>
   </tr>
   <tr>
-    <td><strong>LEGROS<br />Edouard</strong></td>
-    <td><strong>le 22 février 1873<br />à Bazancourt (Marne)</strong></td>
-    <td><strong>le 23 février 1917<br />à Malmy (Ardennes)</strong></td>
-    <td colspan="2"><strong>prisonnier civil</strong></td>
-    <td><strong>Maladie, épuissement</strong></td>
+    <td headers="nom"><strong>LEGROS<br />Edouard</strong></td>
+    <td headers="naissance"><strong>le 22 février 1873<br />à Bazancourt (Marne)</strong></td>
+    <td headers="mort"><strong>le 23 février 1917<br />à Malmy (Ardennes)</strong></td>
+    <td colspan="2" headers="classe"><strong>prisonnier civil</strong></td>
+    <td headers="genre"><strong>Maladie, épuissement</strong></td>
   </tr>
   <tr>
-    <td>MARNIQUET<br />Léon Maurice</td>
-    <td>le 3 juillet 1894<br />à Doutrien (Marne)</td>
-    <td>le 21 août 1917<br />au Mort-Homme (Meuse)</td>
-    <td>1914</td>
-    <td>96e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">MARNIQUET<br />Léon Maurice</td>
+    <td headers="naissance">le 3 juillet 1894<br />à Doutrien (Marne)</td>
+    <td headers="mort">le 21 août 1917<br />au Mort-Homme (Meuse)</td>
+    <td headers="classe">1914</td>
+    <td headers="corps">96e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td><a href="../poilus/MICHEL-Firmin.php">MICHEL<br />Firmin</a></td>
-    <td>12 mars 1894<br />à Saint-Hilaire-le-Petit '51)</td>
-    <td>le 14 décembre 1914<br />à Ornes (Meuse)</td>
-    <td>1914</td>
-    <td>164e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom"><a href="../poilus/MICHEL-Firmin.php">MICHEL<br />Firmin</a></td>
+    <td headers="naissance">12 mars 1894<br />à Saint-Hilaire-le-Petit '51)</td>
+    <td headers="mort">le 14 décembre 1914<br />à Ornes (Meuse)</td>
+    <td headers="classe">1914</td>
+    <td headers="corps">164e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>OUDIN<br />Maurice Auguste</td>
-    <td>le 31 octobre 1886 <br />à Bétheniville (Marne)</td>
-    <td>le 6 mars 1918<br />à Châlons-sur-Marne (Marne)</td>
-    <td>1906</td>
-    <td>5e R.A.P</td>
-    <td>maladie</td>
+    <td headers="nom">OUDIN<br />Maurice Auguste</td>
+    <td headers="naissance">le 31 octobre 1886 <br />à Bétheniville (Marne)</td>
+    <td headers="mort">le 6 mars 1918<br />à Châlons-sur-Marne (Marne)</td>
+    <td headers="classe">1906</td>
+    <td headers="corps">5e R.A.P</td>
+    <td headers="genre">maladie</td>
   </tr>
   <tr>
-    <td>PALLANCHE<br />Marcel Auguste</td>
-    <td>le 3 avril 1893<br />à Bétheniville (Marne)</td>
-    <td>le 27 février 1916<br />à Somme-Py (Marne)</td>
-    <td>1913</td>
-    <td>19e B.AP</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">PALLANCHE<br />Marcel Auguste</td>
+    <td headers="naissance">le 3 avril 1893<br />à Bétheniville (Marne)</td>
+    <td headers="mort">le 27 février 1916<br />à Somme-Py (Marne)</td>
+    <td headers="classe">1913</td>
+    <td headers="corps">19e B.AP</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>PERRARD<br />Gustave Alphonse</td>
-    <td>le 10 janvier 1877<br />à Pomacle (Marne)</td>
-    <td>le 26 septembre 1918<br />à Orléans (45)</td>
-    <td>1897</td>
-    <td>84e R.I.T</td>
-    <td>maladie</td>
+    <td headers="nom">PERRARD<br />Gustave Alphonse</td>
+    <td headers="naissance">le 10 janvier 1877<br />à Pomacle (Marne)</td>
+    <td headers="mort">le 26 septembre 1918<br />à Orléans (45)</td>
+    <td headers="classe">1897</td>
+    <td headers="corps">84e R.I.T</td>
+    <td headers="genre">maladie</td>
   </tr>
   <tr>
-    <td>PESSIN<br />Clotaire</td>
-    <td>le 3 juin 1889<br />à Hermeray (Seine et Oise)</td>
-    <td>le 10 septembre 1914<br />à Rembercourt au Pot (Meuse)</td>
-    <td>1909</td>
-    <td>106e R.I</td>
-    <td>disparu</td>
+    <td headers="nom">PESSIN<br />Clotaire</td>
+    <td headers="naissance">le 3 juin 1889<br />à Hermeray (Seine et Oise)</td>
+    <td headers="mort">le 10 septembre 1914<br />à Rembercourt au Pot (Meuse)</td>
+    <td headers="classe">1909</td>
+    <td headers="corps">106e R.I</td>
+    <td headers="genre">disparu</td>
   </tr>
   <tr>
-    <td>PHILBERT<br />Marc Alfred</td>
-    <td>le 21 février 1895<br />à Montcheutin (Marne)</td>
-    <td>le 23 août 1916<br />à la ferme Valpriez (Aisne)</td>
-    <td>1913/<br />1915</td>
-    <td>355e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">PHILBERT<br />Marc Alfred</td>
+    <td headers="naissance">le 21 février 1895<br />à Montcheutin (Marne)</td>
+    <td headers="mort">le 23 août 1916<br />à la ferme Valpriez (Aisne)</td>
+    <td headers="classe">1913/<br />1915</td>
+    <td headers="corps">355e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>PLAQUETTE<br />Hector Jean-Baptiste</td>
-    <td>le 5 septembre 1882<br />à Bétheniville (Marne)</td>
-    <td>le 10 septembre 1914<br />à Vaux-Marie (Meuse)</td>
-    <td>1902</td>
-    <td>154e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">PLAQUETTE<br />Hector Jean-Baptiste</td>
+    <td headers="naissance">le 5 septembre 1882<br />à Bétheniville (Marne)</td>
+    <td headers="mort">le 10 septembre 1914<br />à Vaux-Marie (Meuse)</td>
+    <td headers="classe">1902</td>
+    <td headers="corps">154e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>PONTOISE<br />Basile Charles</td>
-    <td>le 10 octobre 1892<br />à <a href="http://cartespostalesanciennes.genealexis.fr/album/67-Pontfaverger" title="carte postale ancienne de Pontfaverger sur le site Genealexis">Pontfaverger</a> (Marne)</td>
-    <td>le 13 septembre 1914<br />à Aguilcourt (Aisne)</td>
-    <td>1910</td>
-    <td>332e R.I</td>
-    <td>disparu</td>
+    <td headers="nom">PONTOISE<br />Basile Charles</td>
+    <td headers="naissance">le 10 octobre 1892<br />à <a href="http://cartespostalesanciennes.genealexis.fr/album/67-Pontfaverger" title="carte postale ancienne de Pontfaverger sur le site Genealexis">Pontfaverger</a> (Marne)</td>
+    <td headers="mort">le 13 septembre 1914<br />à Aguilcourt (Aisne)</td>
+    <td headers="classe">1910</td>
+    <td headers="corps">332e R.I</td>
+    <td headers="genre">disparu</td>
   </tr>
   <tr>
-    <td>POUILLON<br />Anatole Jules</td>
-    <td>le 19 novembre 1893<br />à Cormicy (Marne)</td>
-    <td>le 22 février 1916<br />à Haumont (Meuse)</td>
-    <td>1913</td>
-    <td>165e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">POUILLON<br />Anatole Jules</td>
+    <td headers="naissance">le 19 novembre 1893<br />à Cormicy (Marne)</td>
+    <td headers="mort">le 22 février 1916<br />à Haumont (Meuse)</td>
+    <td headers="classe">1913</td>
+    <td headers="corps">165e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>QUENTIN<br />Charles Fulgence</td>
-    <td>le 10 septembre 1882<br />à Béthenville (Marne)</td>
-    <td>le 7 mai 1914<br />à Mont Spin (Marne)</td>
-    <td>1912</td>
-    <td>272e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">QUENTIN<br />Charles Fulgence</td>
+    <td headers="naissance">le 10 septembre 1882<br />à Béthenville (Marne)</td>
+    <td headers="mort">le 7 mai 1914<br />à Mont Spin (Marne)</td>
+    <td headers="classe">1912</td>
+    <td headers="corps">272e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>RAFAIN<br />Alexandre Felix</td>
-    <td>le 7 janvier 1880<br />à Isles-sur-Suippes (Marne)</td>
-    <td>le 17 janvier 1916<br />à <a href="../camps/camp-grafenwohr.php">Grafenwöhr (Allemagne)</a></td>
-    <td>&nbsp;</td>
-    <td>294e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">RAFAIN<br />Alexandre Felix</td>
+    <td headers="naissance">le 7 janvier 1880<br />à Isles-sur-Suippes (Marne)</td>
+    <td headers="mort">le 17 janvier 1916<br />à <a href="../camps/camp-grafenwohr.php">Grafenwöhr (Allemagne)</a></td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">294e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>SALLE<br />Jules</td>
-    <td>le 24 mars 1883<br />à Saint-Quentin (Aisne)</td>
-    <td>le 8 novembre 1916<br />à Chatelaudron (Côtes du Nord)</td>
-    <td>1903</td>
-    <td>132e R.I</td>
-    <td>Maladie</td>
+    <td headers="nom">SALLE<br />Jules</td>
+    <td headers="naissance">le 24 mars 1883<br />à Saint-Quentin (Aisne)</td>
+    <td headers="mort">le 8 novembre 1916<br />à Chatelaudron (Côtes du Nord)</td>
+    <td headers="classe">1903</td>
+    <td headers="corps">132e R.I</td>
+    <td headers="genre">Maladie</td>
   </tr>
   <tr>
-    <td>SANTAMBIEN<br />Georges Gustave Victor</td>
-    <td>le 26 août 1895<br />à Bétheniville (Marne)</td>
-    <td>le 9 mai 1915<br />à Roclincourt (62)</td>
-    <td>1915</td>
-    <td>7e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">SANTAMBIEN<br />Georges Gustave Victor</td>
+    <td headers="naissance">le 26 août 1895<br />à Bétheniville (Marne)</td>
+    <td headers="mort">le 9 mai 1915<br />à Roclincourt (62)</td>
+    <td headers="classe">1915</td>
+    <td headers="corps">7e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>SIMON<br />Henri Léon</td>
-    <td>le 20 mars 1888<br />à Saint-Etienne à Arnes (Ardennes)</td>
-    <td>le 13 octobre 1918<br />à La Veuve (Marne)</td>
-    <td>1908</td>
-    <td>2e G.A</td>
-    <td>suites de maladie contactrée en service</td>
+    <td headers="nom">SIMON<br />Henri Léon</td>
+    <td headers="naissance">le 20 mars 1888<br />à Saint-Etienne à Arnes (Ardennes)</td>
+    <td headers="mort">le 13 octobre 1918<br />à La Veuve (Marne)</td>
+    <td headers="classe">1908</td>
+    <td headers="corps">2e G.A</td>
+    <td headers="genre">suites de maladie contactrée en service</td>
   </tr>
   <tr>
-    <td>TANDART<br />Auguste Fernand</td>
-    <td>le 9 août 1881<br />à Bétheniville (Marne)</td>
-    <td>le 28 juin 1915<br />à Paris</td>
-    <td>1901</td>
-    <td>41e R.I</td>
-    <td>blessures de guerre</td>
+    <td headers="nom">TANDART<br />Auguste Fernand</td>
+    <td headers="naissance">le 9 août 1881<br />à Bétheniville (Marne)</td>
+    <td headers="mort">le 28 juin 1915<br />à Paris</td>
+    <td headers="classe">1901</td>
+    <td headers="corps">41e R.I</td>
+    <td headers="genre">blessures de guerre</td>
   </tr>
   <tr>
-    <td>TILE<br />Albert Émile</td>
-    <td>le 28 septembre 1880<br />à Fourmies (Nord)</td>
-    <td>le 30 mai 1915<br />à La Harazée (Marne)</td>
-    <td>1900</td>
-    <td>94e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">TILE<br />Albert Émile</td>
+    <td headers="naissance">le 28 septembre 1880<br />à Fourmies (Nord)</td>
+    <td headers="mort">le 30 mai 1915<br />à La Harazée (Marne)</td>
+    <td headers="classe">1900</td>
+    <td headers="corps">94e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>TORRENS<br />Lucien Alfred</td>
-    <td>le 6 janvier 1888<br />à Reims (Marne)</td>
-    <td>le 30 juin 1915<br />au Four de Paris (Marne)</td>
-    <td>1908</td>
-    <td>161e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">TORRENS<br />Lucien Alfred</td>
+    <td headers="naissance">le 6 janvier 1888<br />à Reims (Marne)</td>
+    <td headers="mort">le 30 juin 1915<br />au Four de Paris (Marne)</td>
+    <td headers="classe">1908</td>
+    <td headers="corps">161e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>VALLART<br />Léandre Paul</td>
-    <td>le 7 juin 1893<br />à Bétheniville (Marne)</td>
-    <td>le 24 septembre 1914<br />à Mouilly (Meuse)</td>
-    <td>1913</td>
-    <td>106e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">VALLART<br />Léandre Paul</td>
+    <td headers="naissance">le 7 juin 1893<br />à Bétheniville (Marne)</td>
+    <td headers="mort">le 24 septembre 1914<br />à Mouilly (Meuse)</td>
+    <td headers="classe">1913</td>
+    <td headers="corps">106e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>VERDUN<br />Albert</td>
-    <td>le 4 mai 1882<br />à Rethel (Ardennes)</td>
-    <td>le 3 septembre 1916<br />à Sezanne (Marne)</td>
-    <td>1902</td>
-    <td>25e B.C.P</td>
-    <td>blessure de guerre</td>
+    <td headers="nom">VERDUN<br />Albert</td>
+    <td headers="naissance">le 4 mai 1882<br />à Rethel (Ardennes)</td>
+    <td headers="mort">le 3 septembre 1916<br />à Sezanne (Marne)</td>
+    <td headers="classe">1902</td>
+    <td headers="corps">25e B.C.P</td>
+    <td headers="genre">blessure de guerre</td>
   </tr>
   <tr>
-    <td>WAGNER<br />Alfred</td>
-    <td>le 17 septembre 1883<br />à Bétheniville (Marne)</td>
-    <td>le 6 octobre 1915<br />à <a href="http://cartespostalesanciennes.genealexis.fr/album/87-souain" title="cartes postales ancienne de Souain sur le site Genealexis">Souain</a>(Marne)</td>
-    <td>1903</td>
-    <td>65e B.C.P</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">WAGNER<br />Alfred</td>
+    <td headers="naissance">le 17 septembre 1883<br />à Bétheniville (Marne)</td>
+    <td headers="mort">le 6 octobre 1915<br />à <a href="http://cartespostalesanciennes.genealexis.fr/album/87-souain" title="cartes postales ancienne de Souain sur le site Genealexis">Souain</a>(Marne)</td>
+    <td headers="classe">1903</td>
+    <td headers="corps">65e B.C.P</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
 </table>
 

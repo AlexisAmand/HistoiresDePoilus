@@ -7,10 +7,14 @@
 <title>Histoires de Poilus - Dossier d'ancien combattant de FIEVET Auguste Victor</title>
 
 <meta content="Extrait du dossier d'ancien combattant d'Auguste Victor FIEVET" name="description">
-<link rel="stylesheet" href="../../css/style.css">
 
+<link rel="stylesheet" href="../../css/style.css">
+<link rel="stylesheet" href="../../css/resp.css">
+<link rel="stylesheet" href="../../css/fontawesome/css/all.css">  
+			
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-               
+<link rel="icon" type="image/png" href="../../images/favicon.png" />
+                                    
 </head>
 
 <body>
@@ -62,24 +66,26 @@
         <li><a href="../CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
         <li><a href="../delaux-oscar-julien.php">DELAUX Oscar Julien</a></li>
         <li><a href="../DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
-        <li><a href="../dubois-jean-charles.php" class="AsideSelected">DUBOIS Jean Charles (+)</a></li>
-        <li><a href="../FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
+        <li><a href="../dubois-jean-charles.php">DUBOIS Jean Charles (+)</a></li>
+        <li><a href="../FIEVET-Auguste-Victor.php" class="AsideSelected">FIEVET Auguste Victor</a></li>
         <li><a href="../FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="../FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
         <li><a href="../GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
         <li><a href="../GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="../hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="../JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
-        <li><a href="../lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="../lamandin-georges.php">LAMANDIN Georges (+)</a></li>
         <li><a href="../lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="../LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="../magny-jules.php">MAGNY Jules</a></li>
         <li><a href="../mascart-emile.php">MASCART Emile</a></li>
         <li><a href="../mascart-leon.php">MASCART Léon</a></li>
-        <li><a href="../patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="../mascart-louis.php">MASCART Louis (+)</a></li>
+        <li><a href="../patou-druon-adrien.php">PATOU Druon Adrien (+)</a></li>
         <li><a href="../pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="../rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="../ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
+        <li><a href="../tiburce-louis.php">TIBURCE Louis</a></li>
         <li><a href="../VELU-Adrien.php">VELU Adrien (+)</a></li>
 	
    </ul>
@@ -100,7 +106,7 @@
 
 <article>
 
-<h2>FIEVET Auguste Victor</h2>
+<h1>Auguste Victor FIEVET</h1>
 
 <p>Extrait du dossier d'ancien combattant d'Auguste Victor FIEVET.<br />
 <a href="../FIEVET-Auguste-Victor.php">Retour à la page consacrée à Auguste Victor</a>. </p>
@@ -127,25 +133,11 @@
 
 <?php include('../../include/stats.inc'); ?> 
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>  
-<script type="text/javascript" src="../../js/jquery.fancybox.min.js"></script>
-<script type="text/javascript" src="../../js/diapo.js"></script>
-
 <!-- javascript -->
 
-<script type="text/javascript">  
-  $(document).ready(function() {
-	$("a#single_image").fancybox();
-  }); 
-
-$(document).ready(function() {
-    $(".diaporama").diaporama(
-		  {
-	    animationSpeed: "slow",
-      delay:2
-    	});
- 	});
-</script>  
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="../../js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="../../js/script.js"></script>
 
 </body>
 </html>

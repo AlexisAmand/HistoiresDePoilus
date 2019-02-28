@@ -83,14 +83,15 @@
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
-        <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="lamandin-georges.php">LAMANDIN Georges (+)</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php" class="AsideSelected">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
-        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien (+)</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>

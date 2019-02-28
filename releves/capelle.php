@@ -135,77 +135,77 @@
 <table>
   <thead>
   <tr>
-    <td>Nom</td>
-    <td>Naissance</td>
-    <td>Corps</td>
-    <td>Décès</td>
-    <td>Remarque</td>
-    <td>Source</td>
+    <th id="nom">Nom</th>
+    <th id="naissance">Naissance</th>
+    <th id="corps">Corps</th>
+    <th id="mort">Décès</th>
+    <th id="remarque">Remarque</th>
+    <th id="source">Source</th>
   </tr>
-   </thead>
+  </thead>
   <tr>
-    <td>BASUYAU<br/>Léon Paul</td>
-    <td>20 avril 1889<br/>Capelle-sur-Ecaillon</td>
-    <td>127e RI<br/>(soldat)</td>
-    <td>19 février 1915<br/>Mesnil-les-Hurlus</td>
-    <td>&nbsp;</td>
-    <td>Livre<br/>d'or</td>
+    <td headers="nom">BASUYAU<br/>Léon Paul</td>
+    <td headers="naissance">20 avril 1889<br/>Capelle-sur-Ecaillon</td>
+    <td headers="corps">127e RI<br/>(soldat)</td>
+    <td headers="mort">19 février 1915<br/>Mesnil-les-Hurlus</td>
+    <td headers="remarque">&nbsp;</td>
+    <td headers="source">Livre<br/>d'or</td>
     </tr>
   <tr>
-    <td>CHASTIN<br/>Aimé</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>Victime<br/>civile</td>
-    <td>Photo<br/>du monument</td>
+    <td headers="nom">CHASTIN<br/>Aimé</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="remarque">Victime<br/>civile</td>
+    <td headers="source">Photo<br/>du monument</td>
     </tr>
   <tr>
-    <td>DECAUDIN<br/>Louis</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>Photo<br/>du monument</td>
+    <td headers="nom">DECAUDIN<br/>Louis</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="remarque">&nbsp;</td>
+    <td headers="source">Photo<br/>du monument</td>
   </tr>
   <tr>
-    <td>DECOSTER<br/>Edouard Gaston</td>
-    <td>11 octobre 1882<br/>Saint-Pol-sur-Mer</td>
-    <td>110e RI<br/>(soldat)</td>
-    <td>12 décembre 1914<br/>Orléans (Loiret)</td>
-    <td>Radié</td>
-    <td>Livre<br/>d'or</td>
+    <td headers="nom">DECOSTER<br/>Edouard Gaston</td>
+    <td headers="naissance">11 octobre 1882<br/>Saint-Pol-sur-Mer</td>
+    <td headers="corps">110e RI<br/>(soldat)</td>
+    <td headers="mort">12 décembre 1914<br/>Orléans (Loiret)</td>
+    <td headers="remarque">Radié</td>
+    <td headers="source">Livre<br/>d'or</td>
   </tr>
   <tr>
-    <td>LECAIL<br/>Adèle</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>Victime<br/>civile</td>
-    <td>Photo<br/>du monument</td>
+    <td headers="nom">LECAIL<br/>Adèle</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="remarque">Victime<br/>civile</td>
+    <td headers="source">Photo<br/>du monument</td>
   </tr>
   <tr>
-    <td>MALAQUIN<br/>Edmond</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>Victime<br/>civile</td>
-    <td>Photo<br/>du monument</td>
+    <td headers="nom">MALAQUIN<br/>Edmond</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="remarque">Victime<br/>civile</td>
+    <td headers="source">Photo<br/>du monument</td>
   </tr>
   <tr>
-    <td>NOISETTE<br/>Hubert</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>Victime<br/>civile</td>
-    <td>Photo<br/>du monument</td>
+    <td headers="nom">NOISETTE<br/>Hubert</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="remarque">Victime<br/>civile</td>
+    <td headers="source">Photo<br/>du monument</td>
     </tr>
     <tr>
-    <td>VANESSE<br/>Joseph</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>Photo<br/>du monument</td>
+    <td headers="nom">VANESSE<br/>Joseph</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="remarque">&nbsp;</td>
+    <td headers="source">Photo<br/>du monument</td>
   </tr> 
     
   </table>

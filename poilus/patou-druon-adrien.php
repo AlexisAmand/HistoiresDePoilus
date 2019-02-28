@@ -8,13 +8,13 @@
 <meta content="Parcours et biographie du poilu Druon Adrien PATOU, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
-			<link rel="stylesheet" href="../css/resp.css">
-			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
-			
-            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-            <link rel="icon" type="image/png" href="../images/favicon.png" />
+<link rel="stylesheet" href="../css/resp.css">
+<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                     
-		</head>
+</head>
 
 <body>
 
@@ -83,14 +83,15 @@
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
-        <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="lamandin-georges.php">LAMANDIN Georges (+)</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
-        <li><a href="patou-druon-adrien.php" class="AsideSelected">PATOU Druon Adrien</a></li>
+        <li><a href="patou-druon-adrien.php" class="AsideSelected">PATOU Druon Adrien (+)</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
@@ -118,6 +119,12 @@
 <h1>Druon Adrien PATOU</h1>
         
 <p><strong>Druon Adrien PATOU</strong> est né le 31 mars 1885 à Sebourg (Nord), et est le cousin germain de <a href="CARLIER-Druon-Joseph.php" title="Biographie du poilu Druon Joseph CARLIER">Druon Joseph CARLIER</a> et <a href="CARLIER-Louis-Abraham.php" title="Biographie du poilu Louis Abraham CARLIER">Louis Abraham CARLIER</a>. Je n'ai pas encore pu trouver sa fiche matricule car beaucoup de fiches sont manquantes pour l'année 1905 au bureau de Valenciennes.</p>
+
+<p>
+ex-soldat du 251e régiment d'infanterie (251e RI)<br />
+Mort pour la France le 15-05-1924 (Sebourg, 59 - Nord, France)<br />
+Né(e) le/en 31-03-1885 à Sebourg (59 - Nord, France)<br />
+</p>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

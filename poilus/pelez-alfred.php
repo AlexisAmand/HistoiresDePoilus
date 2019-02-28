@@ -83,14 +83,15 @@
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
-        <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="lamandin-georges.php">LAMANDIN Georges (+)</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
-        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien (+)</a></li>
         <li><a href="pelez-alfred.php" class="AsideSelected">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
@@ -117,7 +118,7 @@
     
 <h1>Alfred PELEZ</h1>
         
-<p><strong>Alfred PELEZ</strong> (ou PELLEZ selon les sources) est né le 13 juin 1872 à Onnaing, fils de mes ancêtres François PELEZ (1843-1884) et Louise DASNOIS (1847-1878). Avant la guerre, Alfred vit dans le Pas-de-Calais en passant successivement par Annezin (1896), Montigny-en-Gohelle (1896), Fouquières-les-lens (1906) et enfin Rouvroy (1912). Il est rappelé à l'activité par le décret du 1er août 1914 et mis en sursis aux Mines de la Loire dès le 9 février 1915. A l'époque, il vit à Saint Genest-Lerpt dans la Loire.</p>
+<p><strong>Alfred PELEZ</strong> (ou PELLEZ selon les sources) est né le 13 juin 1872 à Onnaing, fils de mes ancêtres François PELEZ (1843-1884) et Louise DASNOIS (1847-1878). Avant la guerre, Alfred vit dans le Pas-de-Calais en passant successivement par Annezin (1896), Montigny-en-Gohelle (1896), Fouquières-les-lens (1906) et enfin Rouvroy (1912). Il est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 aout 1914">décret de mobilisation générale</a> du 1er août 1914 et mis en sursis aux Mines de la Loire dès le 9 février 1915. A l'époque, il vit à Saint Genest-Lerpt dans la Loire.</p>
 
 	<table style="width:70%;caption-side: bottom;">
         <caption>Liste des domiciles d'Emile MASCART</caption>

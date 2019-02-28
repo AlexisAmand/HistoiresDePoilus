@@ -84,14 +84,15 @@
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
-        <li><a href="lamandin-georges.php" class="AsideSelected">LAMANDIN Georges</a></li>
+        <li><a href="lamandin-georges.php" class="AsideSelected">LAMANDIN Georges (+)</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
-        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien (+)</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
@@ -121,7 +122,13 @@
 <p>Note: Les données concernant <strong>Georges LAMANDIN</strong> m'ont été communiquées par son arrière-petite-fille.</p>
 
 <p>Georges Jean Baptiste LAMANDIN  est né le 24 juin 1885 à Villers Guislain (Nord). Soldat de 2e classe 19e régiment d'infanterie, Georges est mort pour la France le 7 septembre 1914 à Champfleury (Seine et Marne). Champfleury est un hameau qui dépend de Montceaux-lès-Provins où il y a eu une terrible bataille le 6 septembre 1914. 300 000 obus sont tombés et 155 Soldats reposent dans 2 ossuaires auxquels il faut rajouter les tombes individuelles.</p>
- 
+
+	<figure>
+	    <a href="sources/georges-lamandin-mpf.jpg" data-fancybox="gallery" data-caption=" ">
+	    <img src="miniatures/georges-lamandin-mpf.jpg" alt=" "/></a>
+	    <figcaption>(Source : Ministère des armées - Mémoire des Hommes)</figcaption>
+	</figure>
+	
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
 </p>

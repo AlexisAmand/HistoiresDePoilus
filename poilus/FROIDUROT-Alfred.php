@@ -8,14 +8,13 @@
 <meta content="Parcours de Alfred Froidurot, soldat la Première Guerre Mondiale." name="description">
 
 <link rel="stylesheet" href="../css/style.css">
-			<link rel="stylesheet" href="../css/resp.css">
-			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+<link rel="stylesheet" href="../css/resp.css">
+<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
 			
-            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-            <link rel="icon" type="image/png" href="../images/favicon.png" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                     
-		</head>
-
+</head>
 
 <body>
 
@@ -64,6 +63,7 @@
         <li class="asideheader">Côte-d'Or</li>
 
         <li><a href="FROIDUROT-Alfred.php"  class="AsideSelected">FROIDUROT Alfred</a></li>
+        <li><a href="froidurot-alphonse.php">FROIDUROT Alphonse</a></li>
               
 </ul>
    

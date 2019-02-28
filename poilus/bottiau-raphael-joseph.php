@@ -83,14 +83,15 @@
     <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
     <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
     <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
-    <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+    <li><a href="lamandin-georges.php">LAMANDIN Georges (+)</a></li>
     <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
     <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
     <li><a href="magny-jules.php">MAGNY Jules</a></li>
     <li><a href="mascart-emile.php">MASCART Emile</a></li>
     <li><a href="mascart-leon.php">MASCART Léon</a></li>
+    <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
     <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
-    <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+    <li><a href="patou-druon-adrien.php">PATOU Druon Adrien (+)</a></li>
     <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
     <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
     <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
@@ -117,7 +118,7 @@
     
 <h1>Raphaël Joseph BOTTIAU</h1>
 
-<p><strong>Raphaël Joseph BOTTIAU</strong> est né le 26 janvier 1880 à Quarouble, fils légitime de Antoine Joseph BOTTIAU et de Léopoldine Augustine JOLY (elle même fille de mon sosa n°80 et de sa 2e épouse). Il arrive au 15e Régiment d'Artillerie de Campagne le 11 août 1914. Libéré provisoirement le 19 août 1914, il est fait prisonnier le 24 août à Quarouble et interné derrière les lignes. Raphaël est envoyé en congés illimité le 12 février 1919 par le dépôt démobilisateur du 15e Régiment d'Artillerie et se retire à Quarouble, où il décède le 19 mars 1926 à son domicile de la Rue du Moulin.</p>
+<p><strong>Raphaël Joseph BOTTIAU</strong> est né le 26 janvier 1880 à Quarouble, fils légitime de Antoine Joseph BOTTIAU et de Léopoldine Augustine JOLY (elle même fille de mon sosa n°80 et de sa 2e épouse). Il arrive au 15e Régiment d'Artillerie de Campagne le 11 août 1914. Libéré provisoirement le 19 août 1914, il est fait prisonnier le 24 août à Quarouble et interné derrière les lignes. Raphaël est envoyé en congés illimités le 12 février 1919 par le dépôt démobilisateur du 15e Régiment d'Artillerie et se retire à Quarouble, où il décède le 19 mars 1926 à son domicile de la Rue du Moulin.</p>
 	
     <figure>
         <a href="sources/Bottiau-Raphael-1926.jpg" data-fancybox="gallery" data-caption="Acte de décès de Raphaël BOTTIAU">
@@ -125,7 +126,7 @@
         <figcaption>Acte de décès de Raphaël BOTTIAU<br>(Source: Archives Départementales du Nord)</figcaption>
     </figure>
     
-<p>Aprés avoir épousé en prenières noces Eugénie BRUNEAUX, Raphaël s'était unit en secondes noces à Dhany BOUTEILLE (1880-1927), ménagère et fille légitime de Nicolas BOUTEILLE et de le Françoise MOLTEL, le 19 juillet 1924 à Quarouble (Nord).</p>
+<p>Aprés avoir épousé en prenières noces Eugénie BRUNEAUX, Raphaël s'était uni en secondes noces à Dhany BOUTEILLE (1880-1927), ménagère et fille légitime de Nicolas BOUTEILLE et de Françoise MOLTEL, le 19 juillet 1924 à Quarouble (Nord).</p>
     
     <table style="width:70%">
         <caption>Liste des domiciles de Raphaël Joseph BOTTIAU</caption>

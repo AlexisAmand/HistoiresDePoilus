@@ -125,107 +125,108 @@
 <p></p>
 
 <table>
+
     <thead>
     <tr>
-        <td width="158px">Nom et prénom(s)</td>
-        <td width="158px">Date et lieu<br />de naissance</td>
-        <td>Date et lieu<br />de décès</td>
-        <td width="45px">Grade</td>
-        <td width="70px">Corps</td>
-        <td width="90px">Genre<br />de mort</td>
+        <th id="nom" width="158">Nom et prénom(s)</th>
+        <th id="naissance" width="158">Date et lieu<br />de naissance</th>
+        <th id="mort" width="158">Date et lieu<br />de décès</th>
+        <th id="classe" width="45">Classe</th>
+        <th id="corps" width="70">Corps</th>
+        <th id="genre" width="90">Genre<br />de mort</th>
     </tr>
     </thead>
     <tr>
-        <td>BERTRAND<br />Gustave</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">BERTRAND<br />Gustave</td>
+        <td headers="naissance">&nbsp;</td>
+        <td headers="mort">&nbsp;</td>
+        <td headers="classe">&nbsp;</td>
+        <td headers="corps">&nbsp;</td>
+        <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-        <td>CARLIER<br />Robert Léon Hervé</td>
-        <td>Le 26 décembre 1894<br />à Bry</td>
-        <td>Le 24 décembre 1914<br />à Bois de la Gruerie (Marne)</td>
-        <td>soldat</td>
-        <td>147e R.I</td>
-        <td>tué<br />à l'ennemi</td>
+        <td headers="nom">CARLIER<br />Robert Léon Hervé</td>
+        <td headers="naissance">Le 26 décembre 1894<br />à Bry</td>
+        <td headers="mort">Le 24 décembre 1914<br />à Bois de la Gruerie (Marne)</td>
+        <td headers="classe">soldat</td>
+        <td headers="corps">147e R.I</td>
+        <td headers="genre">tué<br />à l'ennemi</td>
     </tr>
     <tr>
-        <td>DELATTE<br />Henri Pierre Joseph</td>
-        <td>Le 8 mars 1877<br />à Bry</td>
-        <td>Le 13 juin 1917<br />à <a href="../camps/camp-herne.php">Börnig</a> (Allemagne)</td>
-        <td>soldat</td>
-        <td>4e R.I.T</td>
-        <td>Dysenterie</td>
+        <td headers="nom">DELATTE<br />Henri Pierre Joseph</td>
+        <td headers="naissance">Le 8 mars 1877<br />à Bry</td>
+        <td headers="mort">Le 13 juin 1917<br />à <a href="../camps/camp-herne.php">Börnig</a> (Allemagne)</td>
+        <td headers="classe">soldat</td>
+        <td headers="corps">4e R.I.T</td>
+        <td headers="genre">Dysenterie</td>
     </tr>
     <tr>
-        <td>DELATTE<br />Victor Louis</td>
-        <td>Le 17 avril 1887<br />à Bry</td>
-        <td>Le 8 juin 1916<br />à Fleury (Marne)</td>
-        <td>soldat</td>
-        <td>291e R.I</td>
-        <td>tué<br />à l'ennemi</td>
+        <td headers="nom">DELATTE<br />Victor Louis</td>
+        <td headers="naissance">Le 17 avril 1887<br />à Bry</td>
+        <td headers="mort">Le 8 juin 1916<br />à Fleury (Marne)</td>
+        <td headers="classe">soldat</td>
+        <td headers="corps">291e R.I</td>
+        <td headers="genre">tué<br />à l'ennemi</td>
     </tr>
     <tr>
-        <td><strong>JUPIN<br />Jeanne</strong></td>
-        <td><strong></strong></td>
-        <td>&nbsp;</td>
-        <td colspan="3"><strong>victime civile</strong></td>
+        <td headers="nom"><strong>JUPIN<br />Jeanne</strong></td>
+        <td headers="naissance"><strong></strong></td>
+        <td headers="mort">&nbsp;</td>
+        <td colspan="3" headers="genre"><strong>victime civile</strong></td>
     </tr>
     <tr>
-        <td>LAMBOTTE<br />Hubert</td>
-        <td>Le 30 mai 1893<br />à Bry</td>
-        <td>Le 24 octobre 1914<br />à Trèves (Allemagne)</td>
-        <td>caporal</td>
-        <td>147e R.I</td>
-        <td>blessures<br />de guerre</td>
+        <td headers="nom">LAMBOTTE<br />Hubert</td>
+        <td headers="naissance">Le 30 mai 1893<br />à Bry</td>
+        <td headers="mort">Le 24 octobre 1914<br />à Trèves (Allemagne)</td>
+        <td headers="classe">caporal</td>
+        <td headers="corps">147e R.I</td>
+        <td headers="genre">blessures<br />de guerre</td>
     </tr>
     <tr>
-        <td>LECERF<br />Auguste Célestin</td>
-        <td>Le 26 août 1890<br />à Bry</td>
-        <td>Le 26 juillet 1916 à la ferme des Marquises (Marne)</td>
-        <td>brigadier</td>
-        <td>11e C.P</td>
-        <td>éclat de torpille</td>
+        <td headers="nom">LECERF<br />Auguste Célestin</td>
+        <td headers="naissance">Le 26 août 1890<br />à Bry</td>
+        <td headers="mort">Le 26 juillet 1916 à la ferme des Marquises (Marne)</td>
+        <td headers="classe">brigadier</td>
+        <td headers="corps">11e C.P</td>
+        <td headers="genre">éclat de torpille</td>
     </tr> 
     <tr>
-        <td>LOOCK<br />Henri</td>
-        <td>&nbsp;</td>
-        <td class="auto-style2">&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">LOOCK<br />Henri</td>
+        <td headers="naissance">&nbsp;</td>
+        <td headers="mort">&nbsp;</td>
+        <td headers="classe">&nbsp;</td>
+        <td headers="corps">&nbsp;</td>
+        <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-        <td>REMY<br />Léon Achille</td>
-        <td>Le 27 juillet 1883<br />à Sebourg (Nord)</td>
-        <td>Le 26 novembre 1918<br />à <a href="../camps/camp-herne.php">Börnig</a> (Allemagne)</td>
-        <td>soldat</td>
-        <td>1er R.A.P</td>
-        <td>décédé<br />en captivité</td>
+        <td headers="nom">REMY<br />Léon Achille</td>
+        <td headers="naissance">Le 27 juillet 1883<br />à Sebourg (Nord)</td>
+        <td headers="mort">Le 26 novembre 1918<br />à <a href="../camps/camp-herne.php">Börnig</a> (Allemagne)</td>
+        <td headers="classe">soldat</td>
+        <td headers="corps">1er R.A.P</td>
+        <td headers="genre">décédé<br />en captivité</td>
     </tr>
     <tr>
-        <td>SOTTIAUX<br />Ernest</td>
-        <td>&nbsp;</td>
-        <td class="auto-style2">&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">SOTTIAUX<br />Ernest</td>
+        <td headers="naissance">&nbsp;</td>
+        <td headers="mort">&nbsp;</td>
+        <td headers="classe">&nbsp;</td>
+        <td headers="corps">&nbsp;</td>
+        <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-        <td><strong>TAQUET<br />Ancèle</strong></td>
-        <td><strong></strong></td>
-        <td>&nbsp;</td>
-        <td colspan="3"><strong>victime civile</strong></td>
+        <td headers="nom"><strong>TAQUET<br />Ancèle</strong></td>
+        <td headers="naissance"><strong></strong></td>
+        <td headers="mort">&nbsp;</td>
+        <td colspan="3" headers="genre"><strong>victime civile</strong></td>
     </tr>
     <tr>
-        <td>VRAND<br />Jean Baptiste</td>
-        <td>Le 17 avril 1867<br />à Bry</td>
-        <td>Le 7 septembre 1914<br />à Maubeuge (Nord)</td>
-        <td>sergent</td>
-        <td>C.M.D</td>
-        <td>tué<br />à l'ennemi</td>
+        <td headers="nom">VRAND<br />Jean Baptiste</td>
+        <td headers="naissance">Le 17 avril 1867<br />à Bry</td>
+        <td headers="mort">Le 7 septembre 1914<br />à Maubeuge (Nord)</td>
+        <td headers="classe">sergent</td>
+        <td headers="corps">C.M.D</td>
+        <td headers="genre">tué<br />à l'ennemi</td>
     </tr>
 </table>
 

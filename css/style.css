@@ -193,7 +193,7 @@ aside{width:200px;background-color:#5b5b5b;display:table-cell;}
 #pubaside{text-align:center;margin-top:20px;}
 
 /* -------- */
-/* Tableaux
+/* Tableaux */
 /* -------- */
 
 .l25 {width:25%;} /* largeur des tableaux pour les batailles */
@@ -207,7 +207,7 @@ table
 	text-align:left;
 	/*font-size:13px;*/
 	margin-bottom: 27px;
-	margin-top: 27px;
+	/*margin-top: 27px;*/
 	}
 
 table caption 
@@ -271,6 +271,10 @@ footer
 
 footer a:link, footer a:visited,footer a:hover {color:#e2ede4;text-decoration:none}
 
+/* --------------------------------- */
+/* Uniquement sur la version desktop */
+/* --------------------------------- */
+
 @media (min-width: 960px) {
 	
 header
@@ -283,19 +287,16 @@ header
 	width:650px;
 	}
 	
-/* ----- */
-/* Arbre */ 
-/* ----- */
-
-/* class="ArbreGenealogique" */
+/* ------------------ */
+/* Arbre généalogique */ 
+/* ------------------ */
 
 .ArbreGenealogique
 	{
 	box-shadow:none;
 	width:650px;
 	}	
-	
-	
+		
 }
 
 #btnresp

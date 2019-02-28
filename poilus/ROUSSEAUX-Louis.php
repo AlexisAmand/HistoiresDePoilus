@@ -83,14 +83,15 @@
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
-        <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="lamandin-georges.php">LAMANDIN Georges (+)</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
-        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien (+)</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php" class="AsideSelected">ROUSSEAUX Louis Henri (+)</a></li>
@@ -135,7 +136,7 @@
 
 <br /><h2>Mobilisation générale !</h2>
 
-<p>En application du décret du 1er août 1914 et du plan XVII, <strong>Louis Henri ROUSSEAUX</strong> est mobilisé et rejoint le <strong>165e Régiment d'Infanterie</strong> auquel il était affecté depuis le 1 avril 1914. En 1914, le 165e est un régiment affecté à la défense de la « forteresse » de Verdun, notamment les forts de la rive gauche de la Meuse. Le 19 octobre 1914, <strong>Louis</strong> passe au <strong>138e Régiment d'Infanterie</strong>. Ce régiment est surtout célèbre pour avoir reconquis le 24 septembre 1914, après la Victoire de la Marne, le fort de la Pompelle qui était occupé par les Allemands depuis le 4 septembre 1914. <strong>Louis Henri ROUSSEAUX</strong> est blessé le 16 avril 1915 à Fouquescourt, entre Amiens et Saint-Quentin.</p>
+<p>En application du <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 aout 1914">décret du 1er août 1914</a> et du plan XVII, <strong>Louis Henri ROUSSEAUX</strong> est mobilisé et rejoint le <strong>165e Régiment d'Infanterie</strong> auquel il était affecté depuis le 1 avril 1914. En 1914, le 165e est un régiment affecté à la défense de la « forteresse » de Verdun, notamment les forts de la rive gauche de la Meuse. Le 19 octobre 1914, <strong>Louis</strong> passe au <strong>138e Régiment d'Infanterie</strong>. Ce régiment est surtout célèbre pour avoir reconquis le 24 septembre 1914, après la Victoire de la Marne, le fort de la Pompelle qui était occupé par les Allemands depuis le 4 septembre 1914. <strong>Louis Henri ROUSSEAUX</strong> est blessé le 16 avril 1915 à Fouquescourt, entre Amiens et Saint-Quentin.</p>
 
 	<figure>
 	    <a href="images/Fouquescourt-vers-1915.jpg" data-fancybox="gallery" data-caption="Fouquescourt 1915 par Henri Lucien Cheffer (1915)">

@@ -83,14 +83,15 @@
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
-        <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="lamandin-georges.php">LAMANDIN Georges (+)</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
-        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien (+)</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
@@ -179,7 +180,7 @@
   
 <br/><h2>L'invasion de la Belgique</h2>
 
-<p>Le 9 août, le général commandant le <strong>1er Groupe d'Armée</strong> réunit à Maubert-Fontaine les officiers et leur exposa la situation générale : Une armée allemande dite «de la Meuse», composée de quatre corps d'armée et commandée par le général VON EMMICH, a envahi la Belgique; elle a passé en partie la Meuse, au nord de Liège, et se porte à l'attaque de cette place. Les Allemands ont violé le territoire belge. Quatre de nos divisions de cavalerie, concentrées autour de Mézières (Ardennes), sous le commandement du général SORDET, ont pénétré en Belgique pour opérer contre VON EMMICH. Ce corps de cavalerie est appuyé par une brigade d'infanterie échelonnée le long de la Meuse, couvrant la concentration du 1er corps... </p>
+<p>Le 9 août, le général commandant le <strong>1er Groupe d'Armée</strong> réuni à Maubert-Fontaine les officiers et leur exposa la situation générale : Une armée allemande dite «de la Meuse», composée de quatre corps d'armée et commandée par le général VON EMMICH, a envahi la Belgique; elle a passé en partie la Meuse, au nord de Liège, et se porte à l'attaque de cette place. Les Allemands ont violé le territoire belge. Quatre de nos divisions de cavalerie, concentrées autour de Mézières (Ardennes), sous le commandement du général SORDET, ont pénétré en Belgique pour opérer contre VON EMMICH. Ce corps de cavalerie est appuyé par une brigade d'infanterie échelonnée le long de la Meuse, couvrant la concentration du 1er corps... </p>
 
 	<figure> 
 	    <a href="portraits/Von_Emmich.jpg" data-fancybox="gallery" data-caption="Portrait de Von Emmich">
@@ -227,7 +228,7 @@
 
 <br/><h2>L'après-guerre d'Auguste</h2>
 
-<p><strong>Auguste</strong> reçoit la croix de guerre "étoile de vermeil" en août 1920 puis  la médaille militaire par décret du 11 avril 1962. Ma mère a très bien connu Auguste. Elle se souvient par exemple d'un cadre contenant un "diplôme" et une médaille il aurait également tenu un magasin de chaussures en face de la place de Thiers à Bruay-sur-l'-Escaut.</p>
+<p><strong>Auguste</strong> reçoit la croix de guerre "étoile de vermeil" en août 1920 puis la médaille militaire par décret du 11 avril 1962. Ma mère a très bien connu Auguste. Elle se souvient par exemple d'un cadre contenant un "diplôme" et une médaille, il aurait également tenu un magasin de chaussures en face de la place de Thiers à Bruay-sur-l'-Escaut.</p>
 
 	<figure>
 	    <a href="sources/fav-matricule-01.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Auguste Victor FIEVET">

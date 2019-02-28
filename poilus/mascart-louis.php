@@ -83,14 +83,15 @@
     <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
     <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
     <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
-    <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+    <li><a href="lamandin-georges.php">LAMANDIN Georges (+)</a></li>
     <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
     <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
     <li><a href="magny-jules.php">MAGNY Jules</a></li>
     <li><a href="mascart-emile.php">MASCART Emile</a></li>
     <li><a href="mascart-leon.php">MASCART Léon</a></li>
+    <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
     <li><a href="mascart-louis.php" class="AsideSelected">MASCART Louis (+)</a></li>
-    <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+    <li><a href="patou-druon-adrien.php">PATOU Druon Adrien (+)</a></li>
     <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
     <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
     <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
@@ -116,9 +117,19 @@
 <article>
     
 <h1>Louis MASCART</h1>
-        
-<p> </p>
-			
+
+<p>Louis MASCART est né à Onnaing le 1 février 1892, frére de Léon, il est lui aussi le fils légitime de Léon MASCART et de Philomène DOYE.</p>
+
+<p>En 1906, il est aide traceur chez Barbier et Cie, et vit avec sa mére Rue Fontaine, à Onnaing.</p>
+
+<p>Il est décidé le 15 janvier 1919 à <a href="../hopitaux/hopitaux-naq.php">l'hôpital Chastaing</a> de Limoges des suites de ses blessures.</p>
+
+	<figure>
+	    <a href="sources/louis-mascart-mpf.jpg" data-fancybox="gallery" data-caption=" ">
+	    <img src="miniatures/louis-mascart-mpf.jpg" alt=" "/></a>
+	    <figcaption>(Source : Ministère des armées - Mémoire des Hommes)</figcaption>
+	</figure>
+      			
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
 </p>

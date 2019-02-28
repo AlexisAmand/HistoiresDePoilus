@@ -83,14 +83,15 @@
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
-        <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="lamandin-georges.php">LAMANDIN Georges (+)</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
-        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien (+)</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
@@ -161,7 +162,7 @@
 
 <br/><h2>La mobilisation d'août 1914</h2>
 
-<p><strong>Léon</strong> est rappelé à l’activité par le décret de Mobilisation Générale du 1er août 1914. Il est intégré à la 7e compagnie du <strong>3e Régiment d'Infanterie Territoriale</strong>.  En 1914, Les régiments d’infanterie territoriale (R.I.T), sont essentiellement constitués de citoyens anciens nés entre 1875 et 1880. Ils sont surtout assignés à des missions plus statiques, moins exposées: gares, nœuds ferroviaires, ponts, entrepôts, places fortes, etc. Léon cantonne à Hautmont avec les hommes de sa compagnie sous les ordres du Capitaine LITTOYE. </p>
+<p><strong>Léon</strong> est rappelé à l’activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 aout 1914">décret de Mobilisation Générale</a> du 1er août 1914. Il est intégré à la 7e compagnie du <strong>3e Régiment d'Infanterie Territoriale</strong>.  En 1914, Les régiments d’infanterie territoriale (R.I.T), sont essentiellement constitués de citoyens anciens nés entre 1875 et 1880. Ils sont surtout assignés à des missions plus statiques, moins exposées: gares, nœuds ferroviaires, ponts, entrepôts, places fortes, etc. Léon cantonne à Hautmont avec les hommes de sa compagnie sous les ordres du Capitaine LITTOYE. </p>
 
 	<figure>
 	    <a href="sources/Leon-grain-matricule-01.jpg" data-fancybox="gallery" data-caption="La fiche matricule de Léon Albert (Extrait)">

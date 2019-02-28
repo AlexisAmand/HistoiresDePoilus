@@ -13,13 +13,7 @@
 			
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link rel="icon" type="image/png" href="../images/favicon.png" />
-                
-    <style type="text/css">
-        .auto-style1 {
-            height: 47px;
-        }
-    </style>
-                
+                                
 </head>
 
 <body>
@@ -135,9 +129,9 @@
   <tr>
     <th id="nom" width="158px">Nom et prénom(s)</th>
     <th id="naissance" width="158px">Date et lieu<br />de naissance</th>
-    <td id="mort" width="158px">Date et lieu<br />de décès</th>
+    <th id="mort" width="158px">Date et lieu<br />de décès</th>
     <th id="corps" width="70px">Corps</th>
-    <td id="genre" width="90px">Genre<br />de mort</th>
+    <th id="genre" width="90px">Genre<br />de mort</th>
   </tr>
   </thead>
   <tr>
@@ -295,11 +289,11 @@
     <td>tué à l'ennemi</td>
   </tr>
   <tr>
-    <td class="auto-style1">DOCHEZ<br />Ernest</td>
-    <td class="auto-style1">Le 9 avril 1875<br />à Quarouble (Nord)</td>
-    <td class="auto-style1">Le 24 août 1914<br />à Condé-sur-Escaut (Nord)</td>
-    <td class="auto-style1">127e R.I</td>
-    <td class="auto-style1">tué à l'ennemi</td>
+    <td>DOCHEZ<br />Ernest</td>
+    <td>Le 9 avril 1875<br />à Quarouble (Nord)</td>
+    <td>Le 24 août 1914<br />à Condé-sur-Escaut (Nord)</td>
+    <td>127e R.I</td>
+    <td>tué à l'ennemi</td>
   </tr>
   <tr>
     <td>DOCHEZ<br />Louis</td>

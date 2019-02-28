@@ -8,13 +8,13 @@
 <meta content="Parcours et biographie du poilu Léon MASCART, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
-			<link rel="stylesheet" href="../css/resp.css">
-			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
-			
-            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-            <link rel="icon" type="image/png" href="../images/favicon.png" />
+<link rel="stylesheet" href="../css/resp.css">
+<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                     
-		</head>  
+</head>  
 
 <body>
 
@@ -83,14 +83,15 @@
     <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
     <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
     <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
-    <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+    <li><a href="lamandin-georges.php">LAMANDIN Georges (+)</a></li>
     <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
     <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
     <li><a href="magny-jules.php">MAGNY Jules</a></li>
     <li><a href="mascart-emile.php">MASCART Emile</a></li>
     <li><a href="mascart-leon.php" class="AsideSelected">MASCART Léon</a></li>
+    <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
     <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
-    <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+    <li><a href="patou-druon-adrien.php">PATOU Druon Adrien (+)</a></li>
     <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
     <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
     <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
@@ -117,7 +118,7 @@
     
 <h1>Léon MASCART</h1>
         
-<p><strong>Léon MASCART</strong> est né à Onnaing le 30 janvier 1874. Avant la guerre (1906), il est mineur à la Fosse de Cuvinot et vit "au Trié" à Onnaing avec son épouse Maire FINET. Frère de <a href="mascart-louis.php">Louis</a>, il est maintenu en surcis aux Mines d'Anzin à la mobilisation. Le 17 décembre 1914, par le bulletin n°63, il est mis en sursis aux mines de Bruay (Pas-de-Calais) où il est entré en fonction le 28 octobre de la même année. Il est rayé de la mine le 15 janvier 1919 et est envoyé en congés illimité le 12 février 1919. Il se retire à Onnaing, Rue de l'Eglise.</p>
+<p><strong>Léon MASCART</strong> est né à Onnaing le 30 janvier 1874. Avant la guerre (1906), il est mineur à la Fosse de Cuvinot et vit "au Trié" à Onnaing avec son épouse Maire FINET. Frère de <a href="mascart-louis.php">Louis</a>, il est maintenu en surcis aux Mines d'Anzin à la mobilisation. Le 17 décembre 1914, par le bulletin n°63, il est mis en sursis aux mines de Bruay (Pas-de-Calais) où il est entré en fonction le 28 octobre de la même année. Il est rayé de la mine le 15 janvier 1919 et est envoyé en congés illimités le 12 février 1919. Il se retire à Onnaing, Rue de l'Eglise.</p>
 		
 	<figure>
 	    <a href="http://cartespostalesanciennes.genealexis.fr/image/onnaing/168-fosse_cuvinot_a_onnaing_vers_1900.jpg" data-fancybox="gallery" data-caption="La Fosse de Cuvinot à Onnaing">

@@ -129,14 +129,14 @@
 <table>
   <thead>
   <tr>
-    <td width="158px">Nom et prénom(s)</td>
-    <td width="158px">Date et lieu<br />de naissance</td>
-    <td width="158px">Date et lieu<br />de décès</td>
-    <td width="70px">Corps</td>
-    <td width="90px">Genre<br />de mort</td>
-   </tr>
-   </thead>
-   <tr>
+    <th id="nom" width="158px">Nom et prénom(s)</th>
+    <th id="naissance" width="158px">Date et lieu<br />de naissance</th>
+    <th id="mort" width="158px">Date et lieu<br />de décès</th>
+    <th id="corps" width="70px">Corps</th>
+    <th id="genre" width="90px">Genre<br />de mort</th>
+  </tr>
+  </thead>
+  <tr>
     <td>AUFFRAY<br />Jean-François</td>
     <td>10 janvier 1878<br />Feucherolles</td>
     <td>22 avril 1917<br>Bouleuse (Marne)</td>

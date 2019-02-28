@@ -8,13 +8,13 @@
 <meta content="Parcours et biographie du poilu Gervais BOUCHER, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
-			<link rel="stylesheet" href="../css/resp.css">
-			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+<link rel="stylesheet" href="../css/resp.css">
+<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
 			
-            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-            <link rel="icon" type="image/png" href="../images/favicon.png" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                     
-		</head>
+</head>
 
 <body>
 
@@ -83,14 +83,15 @@
         <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
         <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
         <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
-        <li><a href="lamandin-georges.php">LAMANDIN Georges</a></li>
+        <li><a href="lamandin-georges.php">LAMANDIN Georges (+)</a></li>
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
         <li><a href="mascart-emile.php">MASCART Emile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
-        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien</a></li>
+        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien (+)</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
@@ -117,7 +118,7 @@
     
 <h1>Gervais BOUCHER</h1>
 
-<p><strong>Gervais BOUCHER</strong> est né le 31 mai 1880 à Onnaing (Nord) à quelques kilométres de Valenciennes.</p>
+<p><strong>Gervais BOUCHER</strong> est né le 31 mai 1880 à Onnaing (Nord) à quelques kilomètres de Valenciennes.</p>
 
     <figure>
         <a href="sources/boucher-naissance-1880.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Gervais BOUCHER">
@@ -125,7 +126,7 @@
         <figcaption>Acte de décès de Gervais BOUCHER<br />(Source: Archives Départementales du Nord)</figcaption>
     </figure>
 
-<p>Fils légitime de Pierre Joseph et Anne Marie Lucette DELHAYE, il commence sa cariière militaire à l'âge de 20 ans quand il s'engage en tant que volontaire pour 3 ans le 17 octobre 1900 à la Mairie de Valenciennes. Au passage, je voudrais vous rappeler qu'il existait 3 sortes d'engagés volontaires: les engagés volontaires pour une durée de 3 à 5 ans, ceux engagés pour la durée de la guerre et qui étaient reçus à partir du 20e jour de la mobilisation, et enfin les engagements spéciaux des examptés, réformés et des hommes âgés.</p>
+<p>Fils légitime de Pierre Joseph et Anne Marie Lucette DELHAYE, il commence sa carrière militaire à l'âge de 20 ans quand il s'engage en tant que volontaire pour 3 ans le 17 octobre 1900 à la Mairie de Valenciennes. Au passage, je voudrais vous rappeler qu'il existait 3 sortes d'engagés volontaires: les engagés volontaires pour une durée de 3 à 5 ans, ceux engagés pour la durée de la guerre et qui étaient reçus à partir du 20e jour de la mobilisation, et enfin les engagements spéciaux des exemptés, réformés et des hommes âgés.</p>
 
     <figure>
         <a href="images/mairie-valenciennes.jpg" data-fancybox="gallery" data-caption="La Place d'Armes de Valenciennes">
@@ -133,7 +134,7 @@
         <figcaption>La Place d'Armes de Valenciennes,<br />avec vue sur l'Hôtel de Ville<br>(Source: Delcampe)</figcaption>
     </figure>
 
-<p>Il rejoint alors la 1ere compagnie d'ouvrier d'artillerie où il arrive le lendemain et est immatriculé sous le n°677. Durant son engagement, il suit une formation et devient ouvrier en bois. Son engagement terminé, il part vivre à Calais (62) avec le certificat de bonne conduite accordé. Le 5 Juin 1905, Gervais épouse à Onnaing Marie Céline MASCART, une descendante d'Antoine MASCART (1721-1797) et Michelle BRACONNIER (1684-1727), mes sosas n°644 et 645. Dix ans plus tard, quand la guerre éclate, il est rappelé à l'activité par le décret de mobilisation générale du 1er août 1914 et rejoint le 1er R.A.P Il est fait prisonnier à Maubeuge le 7 septembre 1914 et est envoyé en internement à <a href="../camps/camp-munster.php" title="Le camp de prisonniers de Munster">Munster III</a> d'où il sera rappatrié le 8 décembre 1918. Il est envoyé en congés illimité le 17 février 1919 aprés une permission de 60 jours. Gervais est décédé à son domicile situé <a href="http://cartespostalesanciennes.genealexis.fr/image/421-valenciennes-le-depart-du-tramway-rue-de-mons" title="Le départ du Tramway, rue de Mons, à Valenciennes">Rue de Mons à Valenciennes</a>, le 27 décembre 1964.</p>
+<p>Il rejoint alors la 1ere compagnie d'ouvrier d'artillerie où il arrive le lendemain et est immatriculé sous le n°677. Durant son engagement, il suit une formation et devient ouvrier en bois. Son engagement terminé, il part vivre à Calais (62) avec le certificat de bonne conduite accordé. Le 5 Juin 1905, Gervais épouse à Onnaing Marie Céline MASCART, une descendante d'Antoine MASCART (1721-1797) et Michelle BRACONNIER (1684-1727), mes sosas n°644 et 645. Dix ans plus tard, quand la guerre éclate, il est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 aout 1914">décret de mobilisation générale</a> du 1er août 1914 et rejoint le 1er R.A.P Il est fait prisonnier à Maubeuge le 7 septembre 1914 et est envoyé en internement à <a href="../camps/camp-munster.php" title="Le camp de prisonniers de Munster">Munster III</a> d'où il sera rapatrié le 8 décembre 1918. Il est envoyé en congés illimités le 17 février 1919 aprés une permission de 60 jours. Gervais est décédé à son domicile situé <a href="http://cartespostalesanciennes.genealexis.fr/image/421-valenciennes-le-depart-du-tramway-rue-de-mons" title="Le départ du Tramway, rue de Mons, à Valenciennes">Rue de Mons à Valenciennes</a>, le 27 décembre 1964.</p>
     
     <figure>
         <a href="../camps/images/camps_prisonniers_munster_01.jpg" data-fancybox="gallery" data-caption="Le retour des corvées à Münster III">
