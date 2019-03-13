@@ -139,210 +139,209 @@
       </tr>
     </thead>
       <tr>
-        <td>DOUINE<br />N</td>
-        <td>&nbsp;</td>
-        <td>1914</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>  
+        <td headers="nom">DOUINE<br />N</td>
+        <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1914</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>  
       </tr>
       <tr>
-        <td>DULIN<br />L</td>
-        <td>&nbsp;</td>
-        <td>1914</td>       
-        <td>&nbsp;</td>       
-        <td>&nbsp;</td>      
+        <td headers="nom">DULIN<br />L</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1914</td>       
+         <td headers="corps">&nbsp;</td>       
+         <td headers="genre">&nbsp;</td>      
       </tr>
       <tr>
-        <td>JEANNET<br />H</td>
-        <td>&nbsp;</td>
-        <td>1914</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>    
+        <td headers="nom">JEANNET<br />H</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1914</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>    
       </tr>
       <tr>
-        <td>JACQUES<br />E</td>
-        <td>&nbsp;</td>
-        <td>1914</td> 
-        <td>&nbsp;</td>
-        <td>&nbsp;</td> 
+        <td headers="nom">JACQUES<br />E</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1914</td> 
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td> 
       </tr>
       <tr>
-        <td>PELLERIN<br />L</td>
-        <td>&nbsp;</td>
-        <td> 1914</td>
-        <td> &nbsp;</td>
-        <td> &nbsp;</td>
+        <td headers="nom">PELLERIN<br />L</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort"> 1914</td>
+         <td headers="corps"> &nbsp;</td>
+         <td headers="genre"> &nbsp;</td>
       </tr>
       <tr>
-        <td>GHERVOT<br />A</td>
-        <td>&nbsp;</td>
-        <td>1915</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">GHERVOT<br />A</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1915</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>CERCUEIL<br />Y</td>
-        <td>&nbsp;</td>
-        <td>1915</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">CERCUEIL<br />Y</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1915</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>DUCHAT<br />L</td>
-        <td>&nbsp;</td>
-        <td>1915</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">DUCHAT<br />L</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1915</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>GARNIER<br />F</td>
-        <td>&nbsp;</td>
-        <td>1915</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">GARNIER<br />F</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1915</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>GRADOS<br />P</td>
-        <td>&nbsp;</td>
-        <td>1915</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">GRADOS<br />P</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1915</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>JEANSON<br />G</td>
-        <td>&nbsp;</td>
-        <td>1915</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">JEANSON<br />G</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1915</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>MANSUY<br />AL</td>
-        <td>&nbsp;</td>
-        <td>1915</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">MANSUY<br />AL</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1915</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>MANSUY<br />AD</td>
-        <td>&nbsp;</td>
-        <td>1915</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">MANSUY<br />AD</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1915</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>PETITEAU<br />M</td>
-        <td>&nbsp;</td>
-        <td>1915</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">PETITEAU<br />M</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1915</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>PALLIER<br />W</td>
-        <td>&nbsp;</td>
-        <td>1915</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">PALLIER<br />W</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1915</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>ROUZEAU<br />F</td>
-        <td>&nbsp;</td>
-        <td>1915</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">ROUZEAU<br />F</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1915</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>ROUSSEAU<br />C</td>
-        <td>&nbsp;</td>
-        <td>1915</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">ROUSSEAU<br />C</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1915</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>BLANCHOT<br />M</td>
-        <td>&nbsp;</td>
-        <td>1916</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">BLANCHOT<br />M</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1916</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>CARON<br />L</td>
-        <td>&nbsp;</td>
-        <td>1916</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">CARON<br />L</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1916</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>REINERT<br />E</td>
-        <td>&nbsp;</td>
-        <td>1916</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">REINERT<br />E</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1916</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>BRULEY<br />O</td>
-        <td>&nbsp;</td>
-        <td>1917</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">BRULEY<br />O</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1917</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>CHAMBRILLON<br />V</td>
-        <td>&nbsp;</td>
-        <td>1917</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">CHAMBRILLON<br />V</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1917</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>PONSARD<br />H</td>
-        <td>&nbsp;</td>
-        <td>1917</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">PONSARD<br />H</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1917</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>VOITRIN<br />L</td>
-        <td>&nbsp;</td>
-        <td>1917</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">VOITRIN<br />L</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1917</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>BEAUDOIN<br />M</td>
-        <td>&nbsp;</td>
-        <td>1918</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">BEAUDOIN<br />M</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1918</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>CHASSEIGNE<br />M</td>
-        <td>&nbsp;</td>
-        <td>1918</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">CHASSEIGNE<br />M</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1918</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>GARNIER<br />J</td>
-        <td>&nbsp;</td>
-        <td>1918</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">GARNIER<br />J</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1918</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>REMES<br />L</td>
-        <td>&nbsp;</td>
-        <td>1918</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">REMES<br />L</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1918</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td>PHILIPPON<br />M</td>
-        <td>&nbsp;</td>
-        <td>1919</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td headers="nom">PHILIPPON<br />M</td>
+         <td headers="naissance">&nbsp;</td>
+        <td headers="mort">1919</td>
+         <td headers="corps">&nbsp;</td>
+         <td headers="genre">&nbsp;</td>
       </tr>
     </table>
-
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

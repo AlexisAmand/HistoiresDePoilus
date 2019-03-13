@@ -142,68 +142,67 @@
   </tr>
   </thead>
   <tr>
-    <td>BELLIN<br />Arthur</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">BELLIN<br />Arthur</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
+    </tr>
+  <tr>
+    <td headers="nom">CARRE<br />Edmond Henri Philippe</td>
+    <td headers="naissance">Le 11 mai 1885<br />à Eth (Nord)</td>
+    <td headers="mort">Le 30 octobre 1914<br />à Vailly-sur-Aisne (Aisne)</td>
+    <td headers="corps">306e R.I</td>
+    <td headers="genre">Tué à l'ennemi</td>
+    </tr>
+  <tr>
+    <td headers="nom">CHEVAL<br />Henri</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
     <td>&nbsp;</td>
     </tr>
   <tr>
-    <td>CARRE<br />Edmond Henri Philippe</td>
-    <td>Le 11 mai 1885<br />à Eth (Nord)</td>
-    <td>Le 30 octobre 1914<br />à Vailly-sur-Aisne (Aisne)</td>
-    <td>306e R.I</td>
-    <td>Tué à l'ennemi</td>
+    <td headers="nom">COUDAL<br />Nestor</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
   <tr>
-    <td>CHEVAL<br />Henri</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DASSONVILLE<br />Henri</td>
+    <td headers="naissance">Le 11 décembre 1894<br />à Eth (Nord)</td>
+    <td headers="mort">Le 24 décembre 1916<br />à l'Est de Berny (Somme)</td>
+    <td headers="corps">95e R.I</td>
+    <td headers="genre">Tué à l'ennemi</td>
     </tr>
   <tr>
-    <td>COUDAL<br />Nestor</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">FOLET<br />Auguste Alexandre</td>
+    <td headers="naissance">Le 24 décembre 1890<br />à Valenciennes (Nord)</td>
+    <td headers="mort">Le 9 décembre 1914<br />à Saint-Hubert (Marne)</td>
+    <td headers="corps">91e R.I</td>
+    <td headers="genre">Tué à l'ennemi</td>
     </tr>
   <tr>
-    <td>DASSONVILLE<br />Henri</td>
-    <td>Le 11 décembre 1894<br />à Eth (Nord)</td>
-    <td>Le 24 décembre 1916<br />à l'Est de Berny (Somme)</td>
-    <td>95e R.I</td>
-    <td>Tué à l'ennemi</td>
+    <td headers="nom">HONORE<br />Zéphyr Georges</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
   <tr>
-    <td>FOLET<br />
-        Auguste Alexandre</td>
-    <td>Le 24 décembre 1890<br />à Valenciennes (Nord)</td>
-    <td>Le 9 décembre 1914<br />à Saint-Hubert (Marne)</td>
-    <td>91e R.I</td>
-    <td>Tué à l'ennemi</td>
+    <td headers="nom">MARISCAL<br />Anatol Simon</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
   <tr>
-    <td>HONORE<br />Zéphyr Georges</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    </tr>
-  <tr>
-    <td>MARISCAL<br />Anatol Simon</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    </tr>
-  <tr>
-    <td>PORTIER<br />Julien Émile</td>
-    <td>Le 28 janvier 1893<br />à Eth (Nord)</td>
-    <td>Le 23 août 1914<br />à St-Gérard (Fosse)<br />(Belgique)</td>
-    <td>43e R.I</td>
-    <td>Tué à l'ennemi</td>
+    <td headers="nom">PORTIER<br />Julien Émile</td>
+    <td headers="naissance">Le 28 janvier 1893<br />à Eth (Nord)</td>
+    <td headers="mort">Le 23 août 1914<br />à St-Gérard (Fosse)<br />(Belgique)</td>
+    <td headers="corps">43e R.I</td>
+    <td headers="genre">Tué à l'ennemi</td>
     </tr>
   </table>
 
@@ -216,83 +215,75 @@
     <table>
         <thead>
         <tr>
-            <td>Nom</td>
-            <td>Âge</td>
-            <td>Corps</td>
-            <td>Grade</td>
-            <td>Date du décès</td>
+            <th id="nom">Nom</th>
+            <th id="age">Âge</th>
+            <th id="corps">Corps</th>
+            <th id="grade">Grade</th>
+            <th id="morts">Date du décès</th>
         </tr>
         </thead>
         <tr>
-            <td>BEDFORD<br />
-                Thomas Arthur</td>
-            <td>28 ans</td>
-            <td>West Yorkshire Regiment</td>
-            <td>Second Lieutenant</td>
-            <td>4 novembre 1918</td>
+            <td headers="nom">BEDFORD<br />Thomas Arthur</td>
+            <td headers="age">28 ans</td>
+            <td headers="corps">West Yorkshire Regiment</td>
+            <td headers="grade">Second Lieutenant</td>
+            <td headers="morts">4 novembre 1918</td>
         </tr>
         <tr>
-            <td>CHAPMAN<br />
-                Albert</td>
-            <td>27 ans</td>
-            <td>Welch Regiment</td>
-            <td>Lance Caporal</td>
-            <td>8 novembre 1918</td>
+            <td headers="nom">CHAPMAN<br />Albert</td>
+            <td headers="age">27 ans</td>
+            <td headers="corps">Welch Regiment</td>
+            <td headers="grade">Lance Caporal</td>
+            <td headers="morts">8 novembre 1918</td>
         </tr>
         <tr>
-            <td>DORAN<br />
-                A. J. </td>
-            <td>19 ans</td>
-            <td>Welch Regiment</td>
-            <td>Private</td>
-            <td>4 novembre 1918</td>
+            <td headers="nom">DORAN<br />A. J. </td>
+            <td headers="age">19 ans</td>
+            <td headers="corps">Welch Regiment</td>
+            <td headers="grade">Private</td>
+            <td headers="morts">4 novembre 1918</td>
         </tr>
         <tr>
-            <td>GRIFFITHS<br />
-                Thomas</td>
-            <td>23 ans</td>
-            <td>Welch Regiment</td>
-            <td>Lance Caporal</td>
-            <td>4 novembre 1918</td>
+            <td headers="nom">GRIFFITHS<br />Thomas</td>
+            <td headers="age">23 ans</td>
+            <td headers="corps">Welch Regiment</td>
+            <td headers="grade">Lance Caporal</td>
+            <td headers="morts">4 novembre 1918</td>
         </tr>
         <tr>
-            <td>LAMBDIN<br />
-                Reginald George</td>
-            <td>19 ans</td>
-            <td>Wiltshire Regiment</td>
-            <td>Private</td>
-            <td>4 novembre 1918</td>
+            <td headers="nom">LAMBDIN<br />Reginald George</td>
+            <td headers="age">19 ans</td>
+            <td headers="corps">Wiltshire Regiment</td>
+            <td headers="grade">Private</td>
+            <td headers="morts">4 novembre 1918</td>
         </tr>
         <tr>
-            <td>POTTER<br />
-                E.</td>
-            <td>?</td>
-            <td>Welch Regiment</td>
-            <td>Private</td>
-            <td>4 novembre 1918</td>
+            <td headers="nom">POTTER<br />E.</td>
+            <td headers="age">?</td>
+            <td headers="corps">Welch Regiment</td>
+            <td headers="grade">Private</td>
+            <td headers="morts">4 novembre 1918</td>
         </tr>
         <tr>
-            <td>STAPLES<br />
-                G. H.</td>
-            <td>?</td>
-            <td>Machine Gun Corps</td>
-            <td>Private</td>
-            <td>4 novembre 1918</td>
+            <td headers="nom">STAPLES<br />G. H.</td>
+            <td headers="age">?</td>
+            <td headers="corps">Machine Gun Corps</td>
+            <td headers="grade">Private</td>
+            <td headers="morts">4 novembre 1918</td>
         </tr>
         <tr>
-            <td>WARD <br />
-                F.</td>
-            <td>?</td>
-            <td>Wiltshire Regiment</td>
-            <td>Private</td>
-            <td>4 novembre 1918</td>
+            <td headers="nom">WARD <br />F.</td>
+            <td headers="age">?</td>
+            <td headers="corps">Wiltshire Regiment</td>
+            <td headers="grade">Private</td>
+            <td headers="morts">4 novembre 1918</td>
         </tr>
         <tr>
-            <td>Un soldat inconnu</td>
-            <td>?</td>
-            <td>?</td>
-            <td>?</td>
-            <td>?</td>
+            <td headers="nom">Un soldat inconnu</td>
+            <td headers="age">?</td>
+            <td headers="corps">?</td>
+            <td headers="grade">?</td>
+            <td headers="morts">?</td>
         </tr>
     </table>
 
@@ -320,6 +311,5 @@
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 <script type="text/javascript" src="../js/script.js"></script>
 
- 
 </body>
 </html>

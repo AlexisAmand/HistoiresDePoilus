@@ -558,11 +558,8 @@
 
 <br/><br />
 
-<p>
-<a href="#note1"></a>
-<sup>1</sup>
-Le livre d'Or indique Boulogne-sur-Mer dans le Pas-de-Calais, la fiche du site Memoire des Hommes indique quant à elle Boulogne dans l'ancien département de la Seine.
-</p>
+<p><a href="#note1"></a><sup>1</sup>
+Le livre d'Or indique Boulogne-sur-Mer dans le Pas-de-Calais, la fiche du site Memoire des Hommes indique quant à elle Boulogne dans l'ancien département de la Seine.</p>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

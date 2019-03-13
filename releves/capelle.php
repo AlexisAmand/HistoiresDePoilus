@@ -207,8 +207,7 @@
     <td headers="remarque">&nbsp;</td>
     <td headers="source">Photo<br/>du monument</td>
   </tr> 
-    
-  </table>
+</table>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

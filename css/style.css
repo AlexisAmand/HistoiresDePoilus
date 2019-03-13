@@ -1,6 +1,6 @@
 ﻿@charset "utf-8";
 	
-body{
+body {
 	color:#3b4247;
 	font-family:'Open Sans',sans-serif;
 	background-attachment:fixed;
@@ -8,54 +8,25 @@ body{
 	background-position:center top;
 	background-image:url(../images/fond3.jpg);
 	margin:0;
-	font-size: 0.8em;
-	}
+	font-size: 0.8em;}
 
-.sources
-	{
-	text-align:center;
-	margin-top:130px;
-	}
+.sources {text-align:center;margin-top:130px;}
 
-h1
-	{
-	font-size:2em;
-	margin-bottom:30px
-	}
+h1 {font-size:2em;margin-bottom:30px}
 		
-h2
-	{
-	font-size: 1.5em;
-	margin-bottom:12px
-	}
+h2 {font-size: 1.5em;margin-bottom:12px}
 
-h3
-	{
-	font-size: 1.2em;
-	margin-bottom:12px
-	}
+h3 {font-size: 1.2em;margin-bottom:12px}
 
 *{margin:0;padding:0}
 
 section{width:960px;margin-left:auto;margin-right:auto;margin-top:0;display:table;background-color:#efefef;padding-top:25px}
 
-section a:link
-	{
-	color:#3b4247;;
-	text-decoration:underline;
-	}
+section a:link {color:#3b4247;;text-decoration:underline;}
 
-section a:visited 
-	{
-	color:#3b4247;
-	text-decoration:underline;
-	} 
+section a:visited {color:#3b4247;text-decoration:underline;} 
 
-section a:hover 
-	{
-	color:#3b4247;
-	text-decoration:none;
-	} 
+section a:hover {color:#3b4247;text-decoration:none;} 
 
 nav{background-color:#364046;height:41px;width:960px;margin-left:auto;margin-right:auto;text-align:center;padding-bottom:5px}
 nav a:link,nav a:visited{float:right;display:block;background-color:#5b5b5b;width:100px;padding:8px;text-align:center;margin-left:3px;color:#e2ede4;text-decoration:none}
@@ -65,22 +36,13 @@ nav a.NavSelected{height:30px;background-color:#eFeFeF;color:#5b5b5b}
 article{background-color:#eFeFeF;padding:20px;margin-left:200px;display:table-cell;padding-top:0}
 article img{box-shadow:1px 1px 12px #555;margin-bottom:6px;margin-top:12px}
 
-article p
-	{
-	text-align:justify;
-	margin-bottom:15px;
-	}
+article p {text-align:justify;margin-bottom:15px;}
 
-article ul li
-	{
-	text-align:justify;
-	margin-left:35px;
-	}
+article ul li {text-align:justify;margin-left:35px;}
 
 article .right{text-align:right}
 
-#navbis
-	{
+#navbis {
 	width:960px;
 	margin-left:auto;
 	margin-right:auto;
@@ -88,8 +50,7 @@ article .right{text-align:right}
 	color:#e2ede4;
 	text-align:center;
 	padding-top:4px;
-	padding-bottom:4px
-	}
+	padding-bottom:4px}
 
 #navbis a:link,#navbis a:visited{color:#e2ede4;text-decoration:none;padding:4px}
 #navbis a:hover{color:#5b5b5b;background-color:#e2ede4;text-decoration:none;padding:4px}
@@ -98,24 +59,18 @@ article .right{text-align:right}
 
 #colindex img{box-shadow:1px 1px 12px #555}
 
-#colindex figure
-	{
+#colindex figure {
 	text-align:center;
 	color:#363535;
-	margin-bottom:35px
-	}
+	margin-bottom:35px}
 
 /* ----- */
 /* Notes */
 /* ----- */
 
-.note {
-	font-style: italic;
-}
+.note {font-style: italic;}
 
-sup {
-	font-size: 0.6em;
-	}
+sup {font-size: 0.6em;}
 
 /* ------ */
 /* Header */
@@ -125,22 +80,16 @@ header{background-color:#364046;width:960px;margin-left:auto;margin-right:auto;m
 header a:link{color:#e2ede4;text-decoration:none}
 header a:hover{color:#e2ede4;text-decoration:underline} 
 
-#rezo
-	{
+#rezo {
 	float:right;
 	padding-right:15px;
-	font-size:3.3em;	
-	}
+	font-size:3.3em;}
 	
-#rezo a:link, a:visited
-	{
-	color:#e2ede4;
-	}
+#rezo a:link, a:visited {
+	color:#e2ede4;}
 	
-#rezo  a:hover
-	{
-	color:#efefef;
-	}
+#rezo  a:hover {
+	color:#efefef;}
 	
 .logo {margin-top:40px; margin-left:72px;}
 
@@ -158,37 +107,32 @@ aside ul{margin-top:1px;list-style-type:none;border-top:1px solid #e2ede4}
 
 aside ul li{border-bottom:1px solid #e2ede4}
 
-aside ul li a:link,aside ul li a:visited
-	{
+aside ul li a:link,aside ul li a:visited {
 	display:block;
 	color:#e2ede4;
 	text-decoration:none;
 	padding:6px;
-	padding-left:13px
-	}
+	padding-left:13px}
 
-aside ul li a:hover{
+aside ul li a:hover {
 	display:block;
 	color:#5b5b5b;
 	background-color:#e2ede4;
 	text-decoration:none;
 	padding:6px;
-	padding-left:13px
-	}
+	padding-left:13px}
 
 aside ul li a.AsideSelected{color:#5b5b5b;background-color:#FFF;margin-right:-15px}
 
 aside{width:200px;background-color:#5b5b5b;display:table-cell;}
 
-.asideheader 
-	{
+.asideheader {
 	border-left: 5px solid #e1ede3;
 	padding: 6px;
 	padding-left: 6px;	
 	padding-left: 13px;
 	color: #e1ede3;
-	background-color: #364046;
-	}
+	background-color: #364046;}
 
 #pubaside{text-align:center;margin-top:20px;}
 
@@ -198,8 +142,7 @@ aside{width:200px;background-color:#5b5b5b;display:table-cell;}
 
 .l25 {width:25%;} /* largeur des tableaux pour les batailles */
 
-table 
-	{
+table {
 	border-collapse:collapse;
 	width:100%;
 	margin-left:auto;
@@ -207,19 +150,16 @@ table
 	text-align:left;
 	/*font-size:13px;*/
 	margin-bottom: 27px;
-	/*margin-top: 27px;*/
-	}
+	/*margin-top: 27px;*/}
 
-table caption 
-	{
+table caption {
 	text-align:center;
 	color:#363535;
 	margin-bottom:35px;
 	margin-top:4px;
 	font-size:0.9em;
 	/* width:100%; */
-	caption-side: bottom;
-	}
+	caption-side: bottom;}
 	
 td{border-width:1px;border-style:solid;border-color:#3a4247;padding:5px}
 
@@ -233,21 +173,17 @@ tr{height:47px}
 
 .legende{text-align:center;color:#363535;margin-bottom:35px;margin-top:4px}	
 	
-figure
-	{
+figure {
 	text-align:center;
 	color:#363535;
-	margin-bottom:35px;
-	}
+	margin-bottom:35px;}
 
-figcaption
-	{
+figcaption {
 	text-align:center;
 	color:#363535;
 	margin-bottom:35px;
 	margin-top:4px;
-	font-size:0.9em;
-	}
+	font-size:0.9em;}
 
 .video{text-align:center;margin-bottom:45px}	
 
@@ -255,8 +191,7 @@ figcaption
 /* Footer */ 
 /* ------ */
 
-footer
-	{
+footer {
 	background-color:#3b4247;
 	text-align:center;
 	padding-top:15px;
@@ -266,8 +201,7 @@ footer
 	/* font-size:12px; */
 	width:960px;
 	margin-left:auto;
-	margin-right:auto
-	}
+	margin-right:auto}
 
 footer a:link, footer a:visited,footer a:hover {color:#e2ede4;text-decoration:none}
 
@@ -277,29 +211,16 @@ footer a:link, footer a:visited,footer a:hover {color:#e2ede4;text-decoration:no
 
 @media (min-width: 960px) {
 	
-header
-	{
-	height:175px;
-	}
+header {height:175px;}
 	
-.tab_camp
-	{	
-	width:650px;
-	}
+.tab_camp {width:650px;}
 	
 /* ------------------ */
 /* Arbre généalogique */ 
 /* ------------------ */
 
-.ArbreGenealogique
-	{
-	box-shadow:none;
-	width:650px;
-	}	
+.ArbreGenealogique {box-shadow:none;width:650px;}	
 		
 }
 
-#btnresp
-	{
-	display: none;
-	}
+#btnresp {display: none;}

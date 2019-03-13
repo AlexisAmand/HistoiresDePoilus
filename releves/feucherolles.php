@@ -137,228 +137,228 @@
   </tr>
   </thead>
   <tr>
-    <td>AUFFRAY<br />Jean-François</td>
-    <td>10 janvier 1878<br />Feucherolles</td>
-    <td>22 avril 1917<br>Bouleuse (Marne)</td>
-    <td>403e RI</td>
-    <td>&nbsp;</td>
+    <td headers="nom">AUFFRAY<br />Jean-François</td>
+    <td headers="naissance">10 janvier 1878<br />Feucherolles</td>
+    <td headers="mort">22 avril 1917<br>Bouleuse (Marne)</td>
+    <td headers="corps">403e RI</td>
+    <td headers="genre">&nbsp;</td>
   </tr> 
   <tr>
-    <td>BRAJEUL<br />Yves Marie</td>
-    <td>1er février 1880<br />Trévé (Côtes d'Armor)</td>
-    <td>23 décembre 1914<br />Verdun (Meuse)</td>
-    <td>255e RI</td>
-    <td>&nbsp;</td>
+    <td headers="nom">BRAJEUL<br />Yves Marie</td>
+    <td headers="naissance">1er février 1880<br />Trévé (Côtes d'Armor)</td>
+    <td headers="mort">23 décembre 1914<br />Verdun (Meuse)</td>
+    <td headers="corps">255e RI</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>CHAMBRIN<br />Henri Émile<br /></td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">CHAMBRIN<br />Henri Émile<br /></td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
   <tr>
-    <td>CLAREC<br />Edouard Gustave</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>disparu</td>
+    <td headers="nom">CLAREC<br />Edouard Gustave</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">disparu</td>
     </tr>
   <tr>
-    <td>COLLON<br />Adolphe</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">COLLON<br />Adolphe</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>CRENO<br />Théophile Marie</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">CRENO<br />Théophile Marie</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
   <tr>
-    <td>DANO<br />Yves Marie Pascal</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DANO<br />Yves Marie Pascal</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
   <tr>
-    <td>DOMALAIN<br />Louis Marie</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DOMALAIN<br />Louis Marie</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
   <tr>
-    <td>FOUQUE<br />Ernest André</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">FOUQUE<br />Ernest André</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>HERVE<br />François Victor</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">HERVE<br />François Victor</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>HIAUX<br />Lucien Joseph</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>disparu</td>
+    <td headers="nom">HIAUX<br />Lucien Joseph</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">disparu</td>
   </tr>
   <tr>
-    <td>HILLION<br />Victor Marie</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">HILLION<br />Victor Marie</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>LAPIERRE<br />Gustave</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>disparu</td>
+    <td headers="nom">LAPIERRE<br />Gustave</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">disparu</td>
   </tr>
   <tr>
-    <td>LAURENT<br />Paul Télésphore</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">LAURENT<br />Paul Télésphore</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>LAVAULT<br />André</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">LAVAULT<br />André</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>LAVAULT<br />Marie Louis</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">LAVAULT<br />Marie Louis</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>LEROY<br />Émile Charles</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">LEROY<br />Émile Charles</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>LIEGE<br />Auguste Émile</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">LIEGE<br />Auguste Émile</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>MARIE<br />Léon</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">MARIE<br />Léon</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>MENAGER<br />Émile Henri</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">MENAGER<br />Émile Henri</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>MEURO<br />Raymond</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">MEURO<br />Raymond</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>MORET<br />Georges Alfred</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">MORET<br />Georges Alfred</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>NOGRET<br />Albert Léon</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>disparu</td>
+    <td headers="nom">NOGRET<br />Albert Léon</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">disparu</td>
   </tr>
   <tr>
-    <td>PAULET<br />Mathurin</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">PAULET<br />Mathurin</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>POISNEUF<br />François Marie</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">POISNEUF<br />François Marie</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>PRUNIER<br />Eugène Adolphe</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>disparu</td>
+    <td headers="nom">PRUNIER<br />Eugène Adolphe</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">disparu</td>
   </tr>
   <tr>
-    <td>RAOUL<br />Narcisse</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">RAOUL<br />Narcisse</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>RAULT<br />Eugène François</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">RAULT<br />Eugène François</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>SIMON<br />Eugène Marie</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">SIMON<br />Eugène Marie</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>SOLAIRE<br />Anatole Edmond</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">SOLAIRE<br />Anatole Edmond</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>THEFFO<br />Jean Marie</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">THEFFO<br />Jean Marie</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>ZIMMERMAN<br />Jean Henri</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>disparu</td>
+    <td headers="nom">ZIMMERMAN<br />Jean Henri</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">disparu</td>
   </tr>
   </table>
 

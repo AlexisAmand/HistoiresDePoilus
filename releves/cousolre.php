@@ -142,284 +142,284 @@
   </tr>
   </thead>
   <tr>
-    <td>BATAILLE<br />Emile Joseph</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">BATAILLE<br />Emile Joseph</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>BASTIEN<br />Emile Ghislain</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">BASTIEN<br />Emile Ghislain</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>BAUDUIN<br />Jean Baptiste Joseph</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">BAUDUIN<br />Jean Baptiste Joseph</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>BERRIER<br />Léon</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">BERRIER<br />Léon</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>BERTRAND<br>Albert</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">BERTRAND<br>Albert</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>BIGOT<br />Jules</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">BIGOT<br />Jules</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>BLAMPAIN<br />Aimable</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">BLAMPAIN<br />Aimable</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>BONGNIART<br />Georges</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">BONGNIART<br />Georges</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>BRASSEUR<br />Jules</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">BRASSEUR<br />Jules</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>BRICHANT<br />Aimé Elie</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">BRICHANT<br />Aimé Elie</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>BRUYERE<br />Jules</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">BRUYERE<br />Jules</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>CAMPENS<br />Constant</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">CAMPENS<br />Constant</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>CLADET<br />Alfred Jules</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">CLADET<br />Alfred Jules</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>CLAUX<br />Hippolyte</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">CLAUX<br />Hippolyte</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>COLLARD<br />Ernest Walbert</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">COLLARD<br />Ernest Walbert</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>COULONVAL<br />Adonis Renalde</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">COULONVAL<br />Adonis Renalde</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>COUTURE<br />Paul Gustave</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">COUTURE<br />Paul Gustave</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>DAMART<br />Honoré</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DAMART<br />Honoré</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>DECAMPS<br />Georges</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DECAMPS<br />Georges</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>DEDUIT<br />Jean Baptiste Henri</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DEDUIT<br />Jean Baptiste Henri</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>DEGRICOURT<br />Emile</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DEGRICOURT<br />Emile</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>DEHU<br />Paul</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DEHU<br />Paul</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>DEHU<br />Raymond Prosper</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DEHU<br />Raymond Prosper</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>DELANNOY<br>Henri</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DELANNOY<br>Henri</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>DUBOIS<br />Ulysse</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DUBOIS<br />Ulysse</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>DUPREZ<br />Alfred</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DUPREZ<br />Alfred</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>FIEVET<br />Camille</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">FIEVET<br />Camille</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>GAFFORY<br />Toussaint</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">GAFFORY<br />Toussaint</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>GEORGE<br />Alphonse Louis</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">GEORGE<br />Alphonse Louis</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>GEORGE<br />Fernand Emile</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">GEORGE<br />Fernand Emile</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>GIBON<br/>Louis</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">GIBON<br/>Louis</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>HANNECART<br />Arthur Ernest</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">HANNECART<br />Arthur Ernest</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>HANOTEAUX<br />Louis</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">HANOTEAUX<br />Louis</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td><a href="../poilus/hanze-augustin">HANZE<br />Augustin Joseph</a></td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom"><a href="../poilus/hanze-augustin">HANZE<br />Augustin Joseph</a></td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
     <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">&nbsp;</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="classe">&nbsp;</td>
+    <td headers="corps">>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
 </table>
 

@@ -125,7 +125,6 @@
 <p></p>
 
 <table>
-
     <thead>
     <tr>
         <th id="nom" width="158">Nom et prénom(s)</th>

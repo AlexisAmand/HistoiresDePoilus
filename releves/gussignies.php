@@ -142,221 +142,221 @@ Sources:
   </tr>
    </thead>
   <tr>
-    <td>BATON<br>Louis</td>
-    <td>&nbsp;</td>
-    <td>1918</td>
+    <td headers="nom">BATON<br>Louis</td>
+     <td headers="naissance">&nbsp;</td>
+    <td headers="mort">1918</td>
     <td colspan="2"><strong>Victime civile</strong></td>
-    <td>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>       
   <tr>
-    <td>COLOT<br />Georges Albert</td>
-    <td>4 novembre 1884<br />à Gussignies</td>
-    <td>24 février 1916<br />à Verdun (Meuse)</td>
-    <td>2e canonnier servant</td>
-    <td>102e R.A.L</td>
-    <td>Tué à l'ennemi</td>
+    <td headers="nom">COLOT<br />Georges Albert</td>
+    <td headers="naissance">4 novembre 1884<br />à Gussignies</td>
+    <td headers="mort">24 février 1916<br />à Verdun (Meuse)</td>
+    <td headers="grade">2e canonnier servant</td>
+    <td headers="corps">102e R.A.L</td>
+    <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>COLOT<br />Louis</td>
-    <td>&nbsp;</td>
-    <td>1918</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">COLOT<br />Louis</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">1918</td>
+    <td headers="grade">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>DEBIEVE<br />Celestin</td>
-    <td>8 mars 1893<br />à Gussignies</td>
-    <td>5 mars 1915<br />à Vauquois (Meuse)</td>
-    <td>Caporal</td>
-    <td>42e R.I.C</td>
-    <td>Tué à l'ennemi</td>
+    <td headers="nom">DEBIEVE<br />Celestin</td>
+    <td headers="naissance">8 mars 1893<br />à Gussignies</td>
+    <td headers="mort">5 mars 1915<br />à Vauquois (Meuse)</td>
+    <td headers="grade">Caporal</td>
+    <td headers="corps">42e R.I.C</td>
+    <td headers="genre">Tué à l'ennemi</td>
   </tr>  
   <tr>
-    <td>DEGORGUE<br />Emile</td>
-    <td>26 mai 1881<br />à Frasnoy (Nord)</td>
-    <td>16 février 1915<br />à Minaucourt (Marne)</td>
-    <td>soldat</td>
-    <td>84e R.I</td>
-    <td>Tué à l'ennemi</td>
+    <td headers="nom">DEGORGUE<br />Emile</td>
+    <td headers="naissance">26 mai 1881<br />à Frasnoy (Nord)</td>
+    <td headers="mort">16 février 1915<br />à Minaucourt (Marne)</td>
+    <td headers="grade">soldat</td>
+    <td headers="corps">84e R.I</td>
+    <td headers="genre">Tué à l'ennemi</td>
   </tr> 
   <tr>
-    <td>DELFOSSE<br />Clément</td>
-    <td>&nbsp;</td>
-    <td>1918</td>
+    <td headers="nom">DELFOSSE<br />Clément</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">1918</td>
+    <td colspan="2" ><strong>Victime civile</strong></td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">DELHAYE<br />Alfred</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">1918</td>
+    <td headers="grade">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">DENIS<br />Léon</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">1917</td>
     <td colspan="2"><strong>Victime civile</strong></td>
-    <td>&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>DELHAYE<br />Alfred</td>
-    <td>&nbsp;</td>
-    <td>1918</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DESCAMPS<br />Albert</td>
+    <td headers="naissance">12 février 1875<br />à Gussignies</td>
+    <td headers="mort">1918</td>
+    <td headers="grade">&nbsp;</td>
+    <td headers="corps">4e R.I.T</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>DENIS<br />Léon</td>
-    <td>&nbsp;</td>
-    <td>1917</td>
-    <td colspan="2"><strong>Victime civile</strong></td>
-    <td>&nbsp;</td>
+    <td headers="nom">DESCAMPS<br />Marcel Alphonse</td>
+    <td headers="naissance">12 septembre 1894<br />à Gussignies</td>
+    <td headers="mort">20 janvier 1915<br />à Marbotte (Meuse)</td>
+    <td headers="grade">Soldat<br />2e classe</td>
+    <td headers="corps">95e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>DESCAMPS<br />Albert</td>
-    <td>12 février 1875<br />à Gussignies</td>
-    <td>1918</td>
-    <td>&nbsp;</td>
-    <td>4e R.I.T</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DESMONCHAUX<br />Louis Jean Baptiste</td>
+    <td headers="naissance">11 septembre 1886<br />à Brillon (Nord)</td>
+    <td headers="mort">19 mai 1915<br />à Vauquois (Meuse)</td>
+    <td headers="grade">ss-lieut</td>
+    <td headers="corps">76e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>DESCAMPS<br />Marcel Alphonse</td>
-    <td>12 septembre 1894<br />à Gussignies</td>
-    <td>20 janvier 1915<br />à Marbotte (Meuse)</td>
-    <td>Soldat<br />2e classe</td>
-    <td>95e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DRUART<br />Eusebe</td>
+    <td headers="naissance">28 décembre 1874<br />à Gussignies</td>
+    <td headers="mort">12 décembre 1918<br />à Roisin (Belgique)</td>
+    <td headers="grade">Soldat</td>
+    <td headers="corps">4e R.I.T</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>DESMONCHAUX<br />Louis Jean Baptiste</td>
-    <td>11 septembre 1886<br />à Brillon (Nord)</td>
-    <td>19 mai 1915<br />à Vauquois (Meuse)</td>
-    <td>ss-lieut</td>
-    <td>76e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DRUART<br />Henri</td>
+    <td headers="naissance">4 mars 1891<br />à Gussignies</td>
+    <td headers="mort">1er octobre 1915<br />à Chaumont (Haute-Marne)</td>
+    <td headers="grade">2e classe</td>
+    <td headers="corps">65e B.C.P</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>DRUART<br />Eusebe</td>
-    <td>28 décembre 1874<br />à Gussignies</td>
-    <td>12 décembre 1918<br />à Roisin (Belgique)</td>
-    <td>Soldat</td>
-    <td>4e R.I.T</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DUBOIS<br />Auguste</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">1915</td>
+    <td headers="grade">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>DRUART<br />Henri</td>
-    <td>4 mars 1891<br />à Gussignies</td>
-    <td>1er octobre 1915<br />à Chaumont (Haute-Marne)</td>
-    <td>2e classe</td>
-    <td>65e B.C.P</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DUPONT<br />Jules Louis</td>
+    <td headers="naissance">8 janvier 1874<br />à Gussignies</td>
+    <td headers="mort">27 octobre 1916<br />au Lazaret de <a href="../camps/camp-hagen.php">Hagen</a> (Allemagne)</td>
+    <td headers="grade">soldat</td>
+    <td headers="corps">4e R.I.T</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>DUBOIS<br />Auguste</td>
-    <td>&nbsp;</td>
-    <td>1915</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DUPONT<br />Léonard Louis</td>
+    <td headers="naissance">26 mai 1890<br />à Gussignies</td>
+    <td headers="mort">23 septembre 1914 octobre 1916<br />à Spada (Meuse)</td>
+    <td headers="grade">2e classe</td>
+    <td headers="corps">25e B.C.P</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>DUPONT<br />Jules Louis</td>
-    <td>8 janvier 1874<br />à Gussignies</td>
-    <td>27 octobre 1916<br />au Lazaret de <a href="../camps/camp-hagen.php">Hagen</a> (Allemagne)</td>
-    <td>soldat</td>
-    <td>4e R.I.T</td>
-    <td>&nbsp;</td>
+    <td headers="nom">FUMIERE<br />Julien</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">1918</td>
+    <td colspan="2" headers="grade"><strong>Victime civile</strong></td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>DUPONT<br />Léonard Louis</td>
-    <td>26 mai 1890<br />à Gussignies</td>
-    <td>23 septembre 1914 octobre 1916<br />à Spada (Meuse)</td>
-    <td>2e classe</td>
-    <td>25e B.C.P</td>
-    <td>&nbsp;</td>
+    <td headers="nom">HOSTELART<br />Jean Baptiste</td>
+    <td headers="naissance">7 août 1885<br />à Gussignies</td>
+    <td headers="mort">20 octobre 1914<br />à Vailly (Aisne)</td>
+    <td headers="grade">soldat</td>
+    <td headers="corps">106e R.I</td>
+    <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>FUMIERE<br />Julien</td>
-    <td>&nbsp;</td>
-    <td>1918</td>
-    <td colspan="2"><strong>Victime civile</strong></td>
-    <td>&nbsp;</td>
+    <td headers="nom">JOSELIER<br />Gustave</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">1918</td>
+    <td headers="grade">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>HOSTELART<br />Jean Baptiste</td>
-    <td>7 août 1885<br />à Gussignies</td>
-    <td>20 octobre 1914<br />à Vailly (Aisne)</td>
-    <td>soldat</td>
-    <td>106e R.I</td>
-    <td>Tué à l'ennemi</td>
-  </tr>
-  <tr>
-    <td>JOSELIER<br />Gustave</td>
-    <td>&nbsp;</td>
-    <td>1918</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>LECOMTE<br />Julien</td>
-    <td>&nbsp;</td>
-    <td>1918</td>
-    <td colspan="2"><strong>Victime civile</strong></td>  
-    <td>&nbsp;</td>
+    <td headers="nom">LECOMTE<br />Julien</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">1918</td>
+    <td colspan="2" headers="grade"><strong>Victime civile</strong></td>  
+    <td headers="genre">&nbsp;</td>
   </tr>    
   <tr>
-    <td>LEROY<br />Paul Jean François</td>
-    <td>14 avril 1886<br />à Rocroy (Ardennes)</td>
-    <td>26 juillet 1917<br />à Mont-Haut (Marne)</td>
-    <td>soldat</td>
-    <td>330e R.I</td>
-    <td>Mort sur le champ de bataille</td>
+    <td headers="nom">LEROY<br />Paul Jean François</td>
+    <td headers="naissance">14 avril 1886<br />à Rocroy (Ardennes)</td>
+    <td headers="mort">26 juillet 1917<br />à Mont-Haut (Marne)</td>
+    <td headers="grade">soldat</td>
+    <td headers="corps">330e R.I</td>
+    <td headers="genre">Mort sur le champ de bataille</td>
   </tr>
   <tr>
-    <td>LOISEAU<br />François</td>
-    <td>&nbsp;</td>
-    <td>1918</td>
-    <td colspan="2"><strong>Victime civile</strong></td>
-    <td>&nbsp;</td>
+    <td headers="nom">LOISEAU<br />François</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">1918</td>
+    <td colspan="2" headers="grade"><strong>Victime civile</strong></td>
+    <td headers="genre">&nbsp;</td>
   </tr>     
   <tr>
-    <td>NALENNE<br />Oscar Joseph</td>
-    <td>18 novembre 1873<br />à Bousignies-a-Bac (Nord) </td>
-    <td>28 février 1915<br />à Beauséjour (Marne)</td>
-    <td>91e R.I</td>  
-    <td>soldat</td>
-    <td> </td>
+    <td headers="nom">NALENNE<br />Oscar Joseph</td>
+    <td headers="naissance">18 novembre 1873<br />à Bousignies-a-Bac (Nord) </td>
+    <td headers="mort">28 février 1915<br />à Beauséjour (Marne)</td>
+    <td headers="grade">91e R.I</td>  
+    <td headers="corps">soldat</td>
+    <td headers="genre"> </td>
   </tr>
   <tr>
-    <td>PANGRAZZI<br>Camille</td>
-    <td>&nbsp;</td>
-    <td>1918</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">PANGRAZZI<br>Camille</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">1918</td>
+    <td headers="grade">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>PERSEAU<br />Jules</td>
-    <td>22 août 1882<br />à Gussignies</td>
-    <td>29 septembre 1918<br />à Sainte-Marie à Py</td>
-    <td>407e R.I</td>
-    <td>sergent</td>
-    <td>&nbsp;</td>
+    <td headers="nom">PERSEAU<br />Jules</td>
+    <td headers="naissance">22 août 1882<br />à Gussignies</td>
+    <td headers="mort">29 septembre 1918<br />à Sainte-Marie à Py</td>
+    <td headers="grade">407e R.I</td>
+    <td headers="corps">sergent</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>SCHEFFER<br />Albert Athanase</td>
-    <td>14 décembre 1894<br />à Paris (XIe)</td>
-    <td>31 juillet 1915<br />à Argonne (Meuse)</td>
-    <td>46e R.A</td>
-    <td>brigadier</td>
-    <td> </td>
+    <td headers="nom">SCHEFFER<br />Albert Athanase</td>
+    <td headers="naissance">14 décembre 1894<br />à Paris (XIe)</td>
+    <td headers="mort">31 juillet 1915<br />à Argonne (Meuse)</td>
+    <td headers="grade">46e R.A</td>
+    <td headers="corps">brigadier</td>
+    <td headers="genre"> </td>
   </tr>
   <tr>
-    <td>SEGERS<br />Jules Elisée</td>
-    <td>3 novembre 1875<br />à Fourmies (Nord)</td>
-    <td>2 septembre 1914<br />à Maubeuge (Nord)</td>
-    <td>soldat<br >2e classe</td>
-    <td>407e R.I</td>
-    <td>Tué à l'ennemi</td>
+    <td headers="nom">SEGERS<br />Jules Elisée</td>
+    <td headers="naissance">3 novembre 1875<br />à Fourmies (Nord)</td>
+    <td headers="mort">2 septembre 1914<br />à Maubeuge (Nord)</td>
+    <td headers="grade">soldat<br >2e classe</td>
+    <td headers="corps">407e R.I</td>
+    <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>WAROQUIER<br />Gustave</td>
-    <td>&nbsp;</td>
-    <td>1918</td>
-    <td colspan="2"><strong>Victime civile</strong></td>  
-    <td>&nbsp;</td>
+    <td headers="nom">WAROQUIER<br />Gustave</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">1918</td>
+    <td colspan="2" headers="grade"><strong>Victime civile</strong></td>  
+    <td headers="corps">&nbsp;</td>
   </tr>  
 </table>
 
