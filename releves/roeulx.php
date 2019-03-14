@@ -126,6 +126,15 @@
 
 <p></p>
 
+<figure>
+    <a href="images/roeulx-monument.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Roeulx">
+    <img src="images/mini/roeulx-monument.jpg" alt="le Monument aux Morts pour la France de Roeulx sur une carte postale ancienne"/>
+    </a>
+    <figcaption>Le Monument aux Morts<br />(Source: Google Map)</figcaption>
+</figure>
+
+<p></p>
+
 <table>
   <thead>
   <tr>
@@ -136,30 +145,30 @@
     <th id="corps" width="70px">Corps</th>
     <th id="genre" width="90px">Genre<br />de mort</th>
   </tr>
-   </thead>
+  </thead>
   <tr>
-    <td><a href="../poilus/CARIN-Edouard.php">CARIN<br />Edouard</a></td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom"><a href="../poilus/CARIN-Edouard.php">CARIN<br />Edouard</a></td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="grade">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-  <td><a href="../poilus/poilus/CARIN-Leon.php">CARIN<br />Leon</a></td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+  	<td headers="nom"><a href="../poilus/poilus/CARIN-Leon.php">CARIN<br />Leon</a></td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="grade">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">&nbsp;</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="grade">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
 </table>
 
