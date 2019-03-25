@@ -67,7 +67,7 @@
 	<figure>
 	    <a href="../poilus/images/tatahouine.jpg" data-fancybox="gallery" data-caption="Tatahouine (Tunisie) - Vu d'ensemble du camp">
 	    <img src="../poilus/miniatures/tatahouine.jpg" alt="Vue d'ensemble du camp de Tatahouine en Tunisie au début du XXe siècle"/></a>
-	    <figcaption>Vue d'ensemble du camp de Tatahouine (Tunisie)<br />(Cliquez pour agrandir)</figcaption>
+	    <figcaption>Vue d'ensemble du camp de Tatahouine (Tunisie)<br/>(Cliquez pour agrandir)</figcaption>
 	</figure>
 
 <table>
@@ -100,7 +100,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

@@ -61,7 +61,7 @@
 <li><a href="anzin.php">Anzin</a></li>
 <li><a href="bry.php">Bry</a></li>
 <li><a href="capelle.php"  class="AsideSelected">Capelle-sur-Ecaillon</a></li>
-<li><a href="cousolre.php">cousolre</a></li> 
+<li><a href="cousolre.php">Cousolre</a></li> 
 <li><a href="eth.php">Eth</a></li>
 <li><a href="gussignies.php">Gussignies</a></li>
 <li><a href="lourches.php">Lourches</a></li>
@@ -102,7 +102,7 @@
 
 </ul>
    
-    <div id="pubaside">
+   <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
@@ -129,7 +129,7 @@
 <figure>
 	  <a href="images/capelle-sur-ecaillon.jpg" data-fancybox="gallery" data-caption="Le monument de Capelle-sur-Ecaillon">
 	  <img src="images/mini/capelle-sur-ecaillon.jpg" alt="Le monument aux morts pour la France de Capelle-sur-Ecaillon"/></a>
-	  <figcaption>Le monument de Capelle-sur-Ecaillon<br />(Source: Photo privée)</figcaption>
+	  <figcaption>Le monument de Capelle-sur-Ecaillon<br/>(Source: Photo privée)</figcaption>
 </figure>
 
 <table>
@@ -209,6 +209,8 @@
   </tr> 
 </table>
 
+<?php /* indiquer les sources : Livre d'or du Ministère des pensions (Archives Nationales), Mémoire des Hommes (Ministère de la Défense), CPA ? */ ?>
+
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
 </p>
@@ -222,7 +224,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>
@@ -232,6 +234,5 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 
- 
 </body>
 </html>

@@ -96,7 +96,7 @@
     <figure>
     <a href="images/troyes-HC-6.jpg" data-fancybox="gallery" data-caption="L'hôpital complémentaire n°6 (Troyes)">
    	<img src="miniatures/troyes-HC-6.jpg" alt="L'hôpital complémentaire n°6 dans le lycée de Troyes"></a>
-    <figcaption>L'hôpital complémentaire n°6,<br />situé dans le lycée</figcaption>
+    <figcaption>L'hôpital complémentaire n°6,<br/>situé dans le lycée</figcaption>
     </figure>
 
 <h2>hôpital temporaire n°5 de Verdun</h2>
@@ -114,7 +114,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

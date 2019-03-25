@@ -77,21 +77,21 @@
 <figure>
     <a href="images/Zeist/zeist-01.jpg" data-fancybox="gallery" data-caption="Le camp de Zeist pendant la Grande Guerre">
     <img src="miniatures/Zeist/zeist-01.jpg" alt="L'heure du bain au camp d'internement de Ziest aux Pays-Bas pendant la Première Guerre Mondiale"></a>
-    <figcaption>L'heure du bain<br />(Carte postale)</figcaption>
+    <figcaption>L'heure du bain<br/>(Carte postale)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Zeist/zeist-02.jpg" data-fancybox="gallery"  title="Le camp de Zeist pendant la Grande Guerre">
     <img src="miniatures/Zeist/zeist-02.jpg" alt="En route pour la corvée au camp d'internement de Ziest aux  pendant la Première Guerre Mondiale"></a>
-    <figcaption>Fourrager la viande et en route pour la corvée<br />(Carte postale)</figcaption>
+    <figcaption>Fourrager la viande et en route pour la corvée<br/>(Carte postale)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Zeist/zeist-03.jpg" data-fancybox="gallery"  title="Le camp de Zeist pendant la Grande Guerre">
     <img src="miniatures/Zeist/zeist-03.jpg" alt="Fêtes sportives à l'occasion de l'anniversaire au camp d'internement de Zeist pendant la Première Guerre Mondiale">
     </a>
-    <figcaption>Fêtes sportives à l'occasion de l'anniversaire<br />
-    De sa Majesté le Roi Albert I (8 avril 1916)<br />
+    <figcaption>Fêtes sportives à l'occasion de l'anniversaire<br/>
+    De sa Majesté le Roi Albert I (8 avril 1916)<br/>
     (Carte postale)</figcaption>
 </figure>
 
@@ -99,14 +99,14 @@
     <a href="images/Zeist/zeist-04.jpg" data-fancybox="gallery"  title="Le camp de Zeist pendant la Grande Guerre">
     <img src="miniatures/Zeist/zeist-04.jpg" alt="Le retour de la promenade Fêtes au camp d'internement de Ziest aux Pays-Bas pendant la Première Guerre Mondiale">
     </a>
-    <figcaption>Le retour de la promenade<br />(Carte postale)</figcaption>
+    <figcaption>Le retour de la promenade<br/>(Carte postale)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Zeist/zeist-05.jpg" data-fancybox="gallery"  title="Le camp de Zeist pendant la Grande Guerre">
     <img src="miniatures/Zeist/zeist-05.jpg" alt="Le chemin principal du camp d'internement de Ziest aux Pays-Bas pendant la Première Guerre Mondiale">
     </a>
-    <figcaption>Le chemin principal du camp I<br />Carte postale)</figcaption>
+    <figcaption>Le chemin principal du camp I<br/>Carte postale)</figcaption>
 </figure>
 
 <p class="sources">
@@ -122,7 +122,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

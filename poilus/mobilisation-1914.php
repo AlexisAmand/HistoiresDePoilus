@@ -63,8 +63,8 @@
 <h2>Décret de mobilisation générale</h2>
 
 <p>
-Extrait du Journal Officiel de la République Française n°156 du 2 aout 1914.<br />
-Décret prescrivant la mobilisation des Armées de terre et de mer du 1er aout 1914.<br />
+Extrait du Journal Officiel de la République Française n°156 du 2 aout 1914.<br/>
+Décret prescrivant la mobilisation des Armées de terre et de mer du 1er aout 1914.<br/>
 (source: Gallica / Bibliothèque Nationale de France)
 </p>
 
@@ -96,7 +96,7 @@ Décret prescrivant la mobilisation des Armées de terre et de mer du 1er aout 1
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

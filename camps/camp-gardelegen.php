@@ -117,19 +117,19 @@
 <figure>
     <a href="images/camps_prisonniers_gardelegen.jpg" data-fancybox="gallery" data-caption="La cantine du camp de Gardelegen">
     <img src="miniatures/camps_prisonniers_gardelegen.jpg" alt="la cantine du camp de prisonniers de Gardelegen pendant la Grande Guerre"></a>
-    <figcaption>La cantine à Gardelegen<br />(Carte postale)</figcaption>
+    <figcaption>La cantine à Gardelegen<br/>(Carte postale)</figcaption>
 </figure>
 
 <figure>
     <a href="images/camps_prisonniers_gardelegen_01.jpg" data-fancybox="gallery" data-caption="Le Lazaret de Gardelegen">
     <img src="miniatures/camps_prisonniers_gardelegen_01.jpg" alt="le lazaret du camp de prisonniers de Gardelegen pendant la Première Guerre Mondiale"></a>
-    <figcaption>Le lazaret de Gardelegen<br />(Carte postale)</figcaption>
+    <figcaption>Le lazaret de Gardelegen<br/>(Carte postale)</figcaption>
 </figure>
 
 <figure>
     <a href="images/monument-gardelegen.jpg" data-fancybox="gallery" data-caption="Le camp de Gardelegen">
     <img src="miniatures/monument-gardelegen.jpg" alt="le monument aux prisonniers morts en captivité dans le camp de Gardelegen pendant la Première Guerre Mondiale"></a>
-    <figcaption>Le monument à la mémoire des prisonniers morts en captivité<br />(Carte postale)</figcaption>
+    <figcaption>Le monument à la mémoire des prisonniers morts en captivité<br/>(Carte postale)</figcaption>
 </figure>
 
 <p>A la fin de la guerre, le camp de Gardelegen a été évacué via la Hollande.</p>
@@ -147,7 +147,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

@@ -118,37 +118,37 @@
 <figure>
     <a href="images/Meschede/meschede-01.jpg" data-fancybox="gallery" data-caption="Un groupe de prisonniers devant un baraquement à Meschede">
     <img src="miniatures/Meschede/meschede-01.jpg" alt="Un groupe de prisonniers devant un baraquement du camp de Meschede pendant la Première Guerre Mondiale"></a>
-    <figcaption>Groupe de prisonniers devant un baraquement<br />(source allemande)</figcaption>
+    <figcaption>Groupe de prisonniers devant un baraquement<br/>(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Meschede/meschede-02.jpg" data-fancybox="gallery" data-caption="La grande rue du camp de Meschede">
     <img src="miniatures/Meschede/meschede-02.jpg" alt="La grande rue du camp de prisonniers de Meschede pendant la Grande Guerre"></a>
-    <figcaption>La grande rue du camp<br />(source allemande)</figcaption>
+    <figcaption>La grande rue du camp<br/>(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Meschede/meschede-03.jpg" data-fancybox="gallery" data-caption="Le personnel de cuisine à Meschede">
     <img src="miniatures/Meschede/meschede-03.jpg" alt="Le personnel de la cuisine du camp de prisonniers de Meschede pendant la Première Guerre Mondiale"></a>
-    <figcaption>Le personnel de cuisine<br />(source allemande)</figcaption>
+    <figcaption>Le personnel de cuisine<br/>(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Meschede/meschede-04.jpg" data-fancybox="gallery" data-caption="Vaccination contre la fièvre typhoïde à Meschede">
     <img src="miniatures/Meschede/meschede-04.jpg" alt="La vaccination contre la fièvre typhoïde au camp de Meschede pendant la Première Guerre Mondiale"></a>
-    <figcaption>Vaccination contre la fièvre typhoïde<br />(source allemande)</figcaption>
+    <figcaption>Vaccination contre la fièvre typhoïde<br/>(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Meschede/meschede-05.jpg" data-fancybox="gallery" data-caption="Une des six salles de l'infirmerie de Meschede">
     <img src="miniatures/Meschede/meschede-05.jpg" alt="Une des six salles de l'infirmerie du camp de prisonniers de Meschede pendant la Première Guerre Mondiale"></a>
-    <figcaption>Une des six salles de l'infirmerie<br />(source allemande)</figcaption>
+    <figcaption>Une des six salles de l'infirmerie<br/>(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Meschede/meschede-06.jpg" data-fancybox="gallery" data-caption="Le camp de Meschede et son infirmerie">
     <img src="miniatures/Meschede/meschede-06.jpg" alt="Le camp de Meschede et son infirmerie vue à vol d'oiseau"></a>
-    <figcaption>Camp et infirmerie, vue à vol d'oiseau<br />(source allemande)</figcaption>
+    <figcaption>Camp et infirmerie, vue à vol d'oiseau<br/>(source allemande)</figcaption>
 </figure>
 
 <h2>Sources et bibliographie</h2>
@@ -171,7 +171,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

@@ -77,7 +77,7 @@
 <figure>
     <a href="images/Leeuwarden/leeuwarden-01.jpg" data-fancybox="gallery">
     <img src="miniatures/Leeuwarden/leeuwarden-01.jpg" alt="Un bout de toilette au camp de Leeuwarden"></a>
-    <figcaption>Un bout de toilette au camp de Leeuwarden<br />(Carte postale)</figcaption>
+    <figcaption>Un bout de toilette au camp de Leeuwarden<br/>(Carte postale)</figcaption>
 </figure>
 
 <p class="sources">
@@ -93,7 +93,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

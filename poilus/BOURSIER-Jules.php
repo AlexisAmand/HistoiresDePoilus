@@ -144,7 +144,7 @@
 	    <tbody>
 	        <tr>
 	            <td>30 décembre 1936</td>
-	            <td>1 Rue Marcelin Berthelot<br />à Onnaing (Nord).</td>
+	            <td>1 Rue Marcelin Berthelot<br/>à Onnaing (Nord).</td>
 	        </tr>
 	        <tr>
 	            <td>1</td>
@@ -178,10 +178,10 @@
 	<figure>
     	<a href="images/siege-maubeuge" data-fancybox="gallery" data-caption="Bombardement de la forteresse de Maubeuge par les Allemands">
     	<img src="miniatures/siege-maubeuge" alt="Des allemands pendant le siège de Maubeuge"></a>
-    	<figcaption>Bombardement de la forteresse de Maubeuge par les Allemands<br />(source: Delcampe)</figcaption>
+    	<figcaption>Bombardement de la forteresse de Maubeuge par les Allemands<br/>(source: Delcampe)</figcaption>
 	</figure>
 
-<br /><h2>La fin du calvaire</h2>
+<br/><h2>La fin du calvaire</h2>
 
 <p>Durant son "séjour",  Jules Henri BOURSIER est hospitalisé en Suisse avant d'être rapatrié le 3 novembre 1918, date à laquelle il obtient une permission de 30 jours qu'il passe à Manneville dans l'Eure.</p>
 
@@ -204,7 +204,7 @@
     <figure>
     	<a href="../releves/images/onnaing-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts d'Onnaing">
     	<img src="../releves/images/mini/onnaing-monument-aux-morts.jpg" alt="le Monument aux Morts d'Onnaing sur une carte postale ancienne"/></a>
-    	<figcaption>Le Monument aux Morts de la guerre 1914-1918<br />(cliquez pour agrandir)</figcaption>
+    	<figcaption>Le Monument aux Morts de la guerre 1914-1918<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
        
 <p>Le 5 novembre 1918, la Ville d’Onnaing est libérée. Les Canadiens sont à <a href="http://genealexis.fr/cartes-postales/quarouble.php" title="Histoire de Quarouble">Quarouble</a> et à Rombies et se dirigent vers la frontière belge. Huit soldats canadiens et un anglais sont tués. Ils ont leurs tombes au cimetière d’Onnaing. Le 11 Novembre, l’Allemagne signe l’Armistice à Rethondes avec les Alliés…</p>
@@ -214,7 +214,7 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
+        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
         <li><a href="../pdf/Maubeuge-1914-Duvivier.pdf">Maubeuge 1914</a> (Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
         <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a> (source allemande)</li>
         <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf">Aus deutschen Kriegsgefangenenlagern</a> (Deutsches Rotes Kreuz)</li>
@@ -236,7 +236,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

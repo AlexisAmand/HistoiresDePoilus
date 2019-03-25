@@ -13,19 +13,7 @@
 			
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link rel="icon" type="image/png" href="../images/favicon.png" />
-                
-    <style type="text/css">
-        .auto-style2 {
-            width: 148px;
-        }
-        .auto-style3 {
-            width: 155px;
-        }
-        .auto-style4 {
-            width: 90px;
-        }
-    </style>
-                
+                                
 </head>
 
 <body>
@@ -73,7 +61,7 @@
 <li><a href="anzin.php">Anzin</a></li>
 <li><a href="bry.php">Bry</a></li>
 <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
-<li><a href="cousolre.php">cousolre</a></li> 
+<li><a href="cousolre.php">Cousolre</a></li> 
 <li><a href="eth.php">Eth</a></li>
 <li><a href="gussignies.php">Gussignies</a></li>
 <li><a href="lourches.php">Lourches</a></li>
@@ -114,7 +102,7 @@
 
 </ul>
    
-      <div id="pubaside">
+   <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
@@ -140,7 +128,7 @@
     <a href="images/monument-vicq.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Vicq">
     <img src="images/mini/monument-vicq.jpg" alt="le Monument aux Morts de Vicq et la Rue Basse sur une carte postale ancienne"/>
     </a>
-    <figcaption>Le Monument et la Rue Basse<br />(cliquez pour agrandir)</figcaption>
+    <figcaption>Le Monument et la Rue Basse<br/>(cliquez pour agrandir)</figcaption>
 </figure>
 
 <p></p>
@@ -148,229 +136,229 @@
 <table>
   <thead>
   <tr>
-    <td class="auto-style2">Nom et prénom(s)</td>
-    <td width="158px">Date et lieu<br />de naissance</td>
-    <td class="auto-style3">Date et lieu<br />de décès</td>
-    <td class="auto-style4">Corps</td>
-    <td width="90px">Genre<br />de mort</td>
+    <th id="nom" width="158px">Nom et prénoms</th>
+    <th id="naissance" width="158px">Date et lieu<br/>de naissance</th>
+    <th id="mort" width="158px">Date et lieu<br/>de décès</th>
+    <th id="corps" width="70px">Corps</th>
+    <th id="genre" width="90px">Genre<br/>de mort</th>
    </tr>
-   </thead>
+  </thead>
   <tr>
-    <td>ALGLAVE<br />Nestor Nicolas</td>
-    <td>Le 6 décembre 1885<br />à Vicq </td>
-    <td>Le 18 septembre 1914<br />à Orléans (Loiret)</td>
-    <td>291e R.I<br />(caporal)</td>
-    <td>&nbsp;</td>
+    <td headers="nom">ALGLAVE<br/>Nestor Nicolas</td>
+    <td headers="naissance">Le 6 décembre 1885<br/>à Vicq </td>
+    <td headers="mort">Le 18 septembre 1914<br/>à Orléans (Loiret)</td>
+    <td headers="corps">291e R.I<br/>(caporal)</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>BIGORNE<br />Émile Jules</td>
-    <td>Le 4 novembre 1892<br />à La Sentinelle (Nord)</td>
-    <td>Le 26 septembre 1915<br />à Massiges (Marne)</td>
-    <td>79e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">BIGORNE<br/>Émile Jules</td>
+    <td headers="naissance">Le 4 novembre 1892<br/>à La Sentinelle (Nord)</td>
+    <td headers="mort">Le 26 septembre 1915<br/>à Massiges (Marne)</td>
+    <td headers="corps">79e R.I</td>
+    <td  headers="genre">&nbsp;</td>
     </tr>
   <tr>
-    <td>BROUILLARD<br />Julien</td>
-    <td>Le 2 avril 1894<br />à Hersin-Coupigny (Pas-de-Calais)</td>
-    <td>Le 22 août 1914<br />à Rossignol (Belgique)</td>
-    <td>1er R.I.C</td>
-    <td>&nbsp;</td>
+    <td headers="nom">BROUILLARD<br/>Julien</td>
+    <td headers="naissance">Le 2 avril 1894<br/>à Hersin-Coupigny (Pas-de-Calais)</td>
+    <td headers="mort">Le 22 août 1914<br/>à Rossignol (Belgique)</td>
+    <td headers="corps">1er R.I.C</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>CARPENTIER<br />Amédée</td>
-    <td>Le 8 septembre 1892<br />à Escautpont (Nord)</td>
-    <td>Le 14 décembre 1918<br />à Strasbourg (Bas-Rhin)</td>
-    <td>158e R.A.P</td>
-    <td>&nbsp;</td>
+    <td headers="nom">CARPENTIER<br/>Amédée</td>
+    <td headers="naissance">Le 8 septembre 1892<br/>à Escautpont (Nord)</td>
+    <td headers="mort">Le 14 décembre 1918<br/>à Strasbourg (Bas-Rhin)</td>
+    <td headers="corps">158e R.A.P</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>CARPENTIER<br />Maurice Hippolyte</td>
-    <td>Le 11 avril 1895<br />à Escautpont (Nord)</td>
-    <td>Le 7 octobre 1918<br />à Somme-Py (Marne)</td>
-    <td>356e R.I<br />(ss-lieutenant)</td>
-    <td>&nbsp;</td>
+    <td headers="nom">CARPENTIER<br/>Maurice Hippolyte</td>
+    <td headers="naissance">Le 11 avril 1895<br/>à Escautpont (Nord)</td>
+    <td headers="mort">Le 7 octobre 1918<br/>à Somme-Py (Marne)</td>
+    <td headers="corps">356e R.I<br/>(ss-lieutenant)</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>CAZIN<br />Joseph</td>
-    <td>Le 13 novembre 1881<br />à Onnaing (Nord)</td>
-    <td>Le 14 novembre 1915<br />à Mrzen (Serbie)</td>
-    <td>148e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">CAZIN<br/>Joseph</td>
+    <td headers="naissance">Le 13 novembre 1881<br/>à Onnaing (Nord)</td>
+    <td headers="mort">Le 14 novembre 1915<br/>à Mrzen (Serbie)</td>
+    <td headers="corps">148e R.I</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>COLLET<br />Émile</td>
-    <td>Le 5 décembre 1889<br />à Vicq</td>
-    <td>Le 30 août 1914<br />à Le Sourd (Aisne)</td>
-    <td>33e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">COLLET<br/>Émile</td>
+    <td headers="naissance">Le 5 décembre 1889<br/>à Vicq</td>
+    <td headers="mort">Le 30 août 1914<br/>à Le Sourd (Aisne)</td>
+    <td headers="corps">33e R.I</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>COLLET<br />Jules</td>
-    <td>Le 10 avril 1891<br />à Vicq</td>
-    <td>Le 4 août 1917<br />au Chemin des Dames (Aisne)</td>
-    <td>119e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">COLLET<br/>Jules</td>
+    <td headers="naissance">Le 10 avril 1891<br/>à Vicq</td>
+    <td headers="mort">Le 4 août 1917<br/>au Chemin des Dames (Aisne)</td>
+    <td headers="corps">119e R.I</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>COQUELET<br />Armand Ghislain</td>
-    <td>Le 8 janvier 1891<br />à Vicq</td>
-    <td>Le 5 mars 1915<br />à Beausejour (Marne)</td>
-    <td>43e R.I<br />(adjudant)</td>
-    <td>&nbsp;</td>
+    <td headers="nom">COQUELET<br/>Armand Ghislain</td>
+    <td headers="naissance">Le 8 janvier 1891<br/>à Vicq</td>
+    <td headers="mort">Le 5 mars 1915<br/>à Beausejour (Marne)</td>
+    <td  headers="genre">43e R.I<br/>(adjudant)</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>COQUELET<br />Léon Henri</td>
-    <td>Le 27 mars 1865<br />à Vicq</td>
-    <td>Le 15 mars 1916<br />à l'Epine Lambert (Marne)</td>
-    <td>67e R.I<br />(capitaine)</td>
-    <td>&nbsp;</td>
+    <td headers="nom">COQUELET<br/>Léon Henri</td>
+    <td headers="naissance">Le 27 mars 1865<br/>à Vicq</td>
+    <td headers="mort">Le 15 mars 1916<br/>à l'Epine Lambert (Marne)</td>
+    <td  headers="genre">67e R.I<br/>(capitaine)</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>COROENNE<br />Antoine</td>
-    <td>Le 19 janvier 1873<br />à Vicq</td>
-    <td>Le 17 octobre 1916<br />à Breguet (Suisse)</td>
-    <td>1er R.A.P</td>
-    <td>&nbsp;</td>
+    <td headers="nom">COROENNE<br/>Antoine</td>
+    <td headers="naissance">Le 19 janvier 1873<br/>à Vicq</td>
+    <td  headers="genre">Le 17 octobre 1916<br/>à Breguet (Suisse)</td>
+    <td  headers="genre">1er R.A.P</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>DENOEUX<br />Amédée</td>
-    <td>Le 20 juillet 1892<br />à Quiévrechain</td>
-    <td>Le 16 février 1916<br />à Montmédy (Meuse)</td>
-    <td>164e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DENOEUX<br/>Amédée</td>
+    <td headers="naissance">Le 20 juillet 1892<br/>à Quiévrechain</td>
+    <td headers="mort">Le 16 février 1916<br/>à Montmédy (Meuse)</td>
+    <td  headers="genre">164e R.I</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>DUPLAT<br />Émile Pierre Joseph</td>
-    <td>Le 20 mars 1892<br />à Vicq</td>
-    <td>Le 23 août 1914<br />à Saint-Gérard (Belgique)</td>
-    <td>15e R.A</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DUPLAT<br/>Émile Pierre Joseph</td>
+    <td headers="naissance">Le 20 mars 1892<br/>à Vicq</td>
+    <td headers="mort">Le 23 août 1914<br/>à Saint-Gérard (Belgique)</td>
+    <td  headers="genre">15e R.A</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>DUSSART<br />Marceau</td>
-    <td>Le 11 janvier 1892<br />à Onnaing (Nord)</td>
-    <td>Le 1 octobre 1914<br />à Ste-Menehould (Marne)</td>
-    <td>91e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DUSSART<br/>Marceau</td>
+    <td headers="naissance">Le 11 janvier 1892<br/>à Onnaing (Nord)</td>
+    <td headers="mort">Le 1 octobre 1914<br/>à Ste-Menehould (Marne)</td>
+    <td headers="corps">91e R.I</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>FROISSART<br />Georges Émile</td>
-    <td>Le 1 février 1894<br />à Vicq</td>
-    <td>Le 6 octobre 1915<br />à Maison-de-Champagne (Marne)</td>
-    <td>7e R.T<br />(sergent)</td>
-    <td>&nbsp;</td>
+    <td headers="nom">FROISSART<br/>Georges Émile</td>
+    <td headers="naissance">Le 1 février 1894<br/>à Vicq</td>
+    <td headers="mort">Le 6 octobre 1915<br/>à Maison-de-Champagne (Marne)</td>
+    <td headers="corps">7e R.T<br/>(sergent)</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>HERATTE<br />Philogène</td>
-    <td>Le 2 avril 1888<br />à Marches-les-Ecaussinnes (Belgique)</td>
-    <td>Le 30 juillet 1917<br />à <a href="../camps/camp-mannheim.php">Mannheim</a> (Allemagne)</td>
-    <td>327e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">HERATTE<br/>Philogène</td>
+    <td headers="naissance">Le 2 avril 1888<br/>à Marches-les-Ecaussinnes (Belgique)</td>
+    <td headers="mort">Le 30 juillet 1917<br/>à <a href="../camps/camp-mannheim.php">Mannheim</a> (Allemagne)</td>
+    <td headers="corps">327e R.I</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>LEBRUN<br />Léon</td>
-    <td>Le 24 mai 1880<br />à Aubry (Nord)</td>
-    <td>Le 26 octobre 1914<br />à Champlon (Meuse)</td>
-    <td>364e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">LEBRUN<br/>Léon</td>
+    <td headers="naissance">Le 24 mai 1880<br/>à Aubry (Nord)</td>
+    <td headers="mort">Le 26 octobre 1914<br/>à Champlon (Meuse)</td>
+    <td headers="corps">364e R.I</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>LECHELLE<br />Frédéric Joseph</td>
-    <td>Le 1er mars 1884<br />à Vicq</td>
-    <td>Le 26 septembre 1918<br />à Sainte-Marie-à-Py (Marne)</td>
-    <td>22e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">LECHELLE<br/>Frédéric Joseph</td>
+    <td headers="naissance">Le 1er mars 1884<br/>à Vicq</td>
+    <td headers="mort">Le 26 septembre 1918<br/>à Sainte-Marie-à-Py (Marne)</td>
+    <td headers="corps">22e R.I</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>LEFEBVRE<br />Joseph</td>
-    <td>Le 23 avril 1882<br />à Vieux-Condé (Nord)</td>
-    <td>Le 30 octobre 1914<br />à La Harazée (Marne)</td>
-    <td>18e B.C</td>
-    <td>&nbsp;</td>
+    <td headers="nom">LEFEBVRE<br/>Joseph</td>
+    <td headers="naissance">Le 23 avril 1882<br/>à Vieux-Condé (Nord)</td>
+    <td headers="mort">Le 30 octobre 1914<br/>à La Harazée (Marne)</td>
+    <td headers="corps">18e B.C</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>LEJAYE<br />Joseph</td>
-    <td>Le 24 mars 1888<br />à Vicq</td>
-    <td>Le 31 mai 1918<br />à Nouvion-Vingré (Aisne)</td>
-    <td>43e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">LEJAYE<br/>Joseph</td>
+    <td headers="naissance">Le 24 mars 1888<br/>à Vicq</td>
+    <td headers="mort">Le 31 mai 1918<br/>à Nouvion-Vingré (Aisne)</td>
+    <td headers="corps">43e R.I</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>LIEGEOIS<br />Ernest</td>
-    <td>Le 9 juin 1893<br />à Lens (P. de Calais)</td>
-    <td>Le 11 novembre 1914<br />à Ste-Menehould (Meuse)</td>
-    <td>147e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">LIEGEOIS<br/>Ernest</td>
+    <td headers="naissance">Le 9 juin 1893<br/>à Lens (P. de Calais)</td>
+    <td headers="mort">Le 11 novembre 1914<br/>à Ste-Menehould (Meuse)</td>
+    <td headers="corps">147e R.I</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>MARIAGE<br />Jean Alexandre</td>
-    <td>27 mars 1891<br />à Vicq</td>
-    <td>Le 25 mars 1915<br />à Royat (Puy-de-Dôme)</td>
-    <td>18e B.C.P</td>
-    <td>&nbsp;</td>
+    <td headers="nom">MARIAGE<br/>Jean Alexandre</td>
+    <td headers="naissance">27 mars 1891<br/>à Vicq</td>
+    <td headers="mort">Le 25 mars 1915<br/>à Royat (Puy-de-Dôme)</td>
+    <td headers="corps">18e B.C.P</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td><a href="../poilus/mascart-leon-2.php">MASCART<br />Léon</a></td>
-    <td>22 avril 1889<br />à Onnaing (Nord)</td>
-    <td>Le 7 mars 1915<br />à Châlons-sur-Marne (Marne)</td>
-    <td>127e R.I<br />(caporal)</td>
-    <td>&nbsp;</td>
+    <td headers="nom"><a href="../poilus/mascart-leon-2.php">MASCART<br/>Léon</a></td>
+    <td headers="naissance">22 avril 1889<br/>à Onnaing (Nord)</td>
+    <td headers="mort">Le 7 mars 1915<br/>à Châlons-sur-Marne (Marne)</td>
+    <td  headers="genre">127e R.I<br/>(caporal)</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>MOREAU<br />Forcinal</td>
-    <td>Le 7 fuillet 1894<br />à Liévin (P. de Calais)</td>
-    <td>Le 28 mars 1917<br />à Concevreux (Aisne)</td>
-    <td>3e R.G<br />(sergent)</td>
-    <td>&nbsp;</td>
+    <td headers="nom">MOREAU<br/>Forcinal</td>
+    <td headers="naissance">Le 7 fuillet 1894<br/>à Liévin (P. de Calais)</td>
+    <td headers="mort">Le 28 mars 1917<br/>à Concevreux (Aisne)</td>
+    <td headers="corps">3e R.G<br/>(sergent)</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>MOREAU<br />Pierre</td>
-    <td>Le 26 septembre 1888<br />à Fresnes-sur-Escaut (Nord)</td>
-    <td>Le 22 amrs 1916<br />à Haucourt-Malancourt (Meuse)</td>
-    <td>141e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">MOREAU<br/>Pierre</td>
+    <td headers="naissance">Le 26 septembre 1888<br/>à Fresnes-sur-Escaut (Nord)</td>
+    <td headers="mort">Le 22 amrs 1916<br/>à Haucourt-Malancourt (Meuse)</td>
+    <td headers="corps">141e R.I</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>REGHEM<br />Désiré Charles</td>
-    <td>Le 20 septembre 1892<br />à Vicq</td>
-    <td>Le 22 janvier 1916<br />à Zwydcoote (Nord)</td>
-    <td>9e R.Z</td>
-    <td>&nbsp;</td>
+    <td headers="nom">REGHEM<br/>Désiré Charles</td>
+    <td headers="naissance">Le 20 septembre 1892<br/>à Vicq</td>
+    <td headers="mort">Le 22 janvier 1916<br/>à Zwydcoote (Nord)</td>
+    <td headers="corps">9e R.Z</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>RICHARD<br />Nicolas François</td>
-    <td>8 décembre 1892<br />à Vicq</td>
-    <td>Le 27 mars 1918<br />à Marquivillers (Somme)</td>
-    <td>22e R.D</td>
-    <td>&nbsp;</td>
+    <td headers="nom">RICHARD<br/>Nicolas François</td>
+    <td headers="naissance">8 décembre 1892<br/>à Vicq</td>
+    <td headers="mort">Le 27 mars 1918<br/>à Marquivillers (Somme)</td>
+    <td headers="corps">22e R.D</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>SIZAIRE<br />Edgard Paul Gabriel</td>
-    <td>Le 31 janvier 1887<br />à Vicq</td>
-    <td>Le 8 mars 1915<br />à Souain (Marne)</td>
-    <td>201e R.I<br />(ss-lieutenant)</td>
-    <td></td>
+    <td headers="nom">SIZAIRE<br/>Edgard Paul Gabriel</td>
+    <td headers="naissance">Le 31 janvier 1887<br/>à Vicq</td>
+    <td headers="corps">Le 8 mars 1915<br/>à Souain (Marne)</td>
+    <td  headers="genre">201e R.I<br/>(ss-lieutenant)</td>
+    <td  headers="genre"></td>
   </tr>
   <tr>
-    <td>SIZAIRE<br />Germain Louis</td>
-    <td>Le 29 mars 1892<br />à Vicq</td>
-    <td>Le 28 août 1914<br />à La Thibaudière (Ardennes)</td>
-    <td>91e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">SIZAIRE<br/>Germain Louis</td>
+    <td headers="naissance">Le 29 mars 1892<br/>à Vicq</td>
+    <td headers="mort">Le 28 août 1914<br/>à La Thibaudière (Ardennes)</td>
+    <td headers="corps">91e R.I</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>VANESSE<br />Eugène</td>
-    <td>Le 24 septembre 1882<br />à Fresnes-sur-Escaut</td>
-    <td>Le 4 octobre 1915<br />à Bussy-le-Château (Marne)</td>
-    <td>327e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">VANESSE<br/>Eugène</td>
+    <td headers="naissance">Le 24 septembre 1882<br/>à Fresnes-sur-Escaut</td>
+    <td headers="mort">Le 4 octobre 1915<br/>à Bussy-le-Château (Marne)</td>
+    <td headers="corps">327e R.I</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>WASCIN<br />Gustave</td>
-    <td>Le 1er Mars 1890<br />à Raismes (Nord)</td>
-    <td>Le 5 mars 1915<br />à Saint-Jean-Sur-Tourbe (Marne)</td>
-    <td>73e R.I<br />(caporal)</td>
-    <td>&nbsp;</td>
+    <td headers="nom">WASCIN<br/>Gustave</td>
+    <td headers="naissance">Le 1er Mars 1890<br/>à Raismes (Nord)</td>
+    <td headers="mort">Le 5 mars 1915<br/>à Saint-Jean-Sur-Tourbe (Marne)</td>
+    <td headers="corps">73e R.I<br/>(caporal)</td>
+    <td  headers="genre">&nbsp;</td>
   </tr>
   </table>
 
@@ -387,7 +375,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>  

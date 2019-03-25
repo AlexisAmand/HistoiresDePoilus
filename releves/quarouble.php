@@ -61,7 +61,7 @@
 <li><a href="anzin.php">Anzin</a></li>
 <li><a href="bry.php">Bry</a></li>
 <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
-<li><a href="cousolre.php">cousolre</a></li> 
+<li><a href="cousolre.php">Cousolre</a></li> 
 <li><a href="eth.php">Eth</a></li>
 <li><a href="gussignies.php">Gussignies</a></li>
 <li><a href="lourches.php">Lourches</a></li>
@@ -102,7 +102,7 @@
 
 </ul>
    
-      <div id="pubaside">
+   <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
@@ -122,558 +122,562 @@
 
 <p>Voici la liste des morts pour la France  de Quarouble (Nord) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit commentaire</a>.</p>
 
+<?php /* TODO: mettre une photo du monument aux morts de Quarouble */ ?>
+
 <p></p>
 
 <table>
   <thead>
   <tr>
-    <th id="nom" width="158px">Nom et prénom(s)</th>
-    <th id="naissance" width="158px">Date et lieu<br />de naissance</th>
-    <th id="mort" width="158px">Date et lieu<br />de décès</th>
-    <th id="corps" width="70px">Corps</th>
-    <th id="genre" width="90px">Genre<br />de mort</th>
+    <th id="nom">Nom et prénom(s)</th>
+    <th id="naissance">Date et lieu<br/>de naissance</th>
+    <th id="mort">Date et lieu<br/>de décès</th>
+    <th id="corps">Corps</th>
+    <th id="genre">Genre<br/>de mort</th>
   </tr>
   </thead>
   <tr>
-    <td>ALEXANDRE<br />Arthur</td>
-    <td>Le 15 octobre 1890<br />à Neuville-Saint-Remy (Nord)</td>
-    <td>Le 22 décembre 1914<br />à Verdun (Meuse)</td>
-    <td>166e R.I</td>
-    <td>tuberculose pulmonaire</td>
+    <td headers="nom">ALEXANDRE<br/>Arthur</td>
+    <td headers="naissance">Le 15 octobre 1890<br/>à Neuville-Saint-Remy (Nord)</td>
+    <td headers="mort">Le 22 décembre 1914<br/>à Verdun (Meuse)</td>
+    <td headers="corps">166e R.I</td>
+    <td headers="genre">tuberculose pulmonaire</td>
   </tr>
   <tr>
-    <td>AUVERLOT<br />Alfred</td>
-    <td>Le 7 octobre 1885<br />à Quarouble (Nord)</td>
-    <td>Le 5 mai 1915<br />à La Ferme D'Alger<br />(Puisieulx, Marne)</td>
-    <td>58e B.C.P</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">AUVERLOT<br/>Alfred</td>
+    <td headers="naissance">Le 7 octobre 1885<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 5 mai 1915<br/>à La Ferme D'Alger<br/>(Puisieulx, Marne)</td>
+    <td headers="corps">58e B.C.P</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>BRACONNIER<br />Alfred Émile</td>
-    <td>Le 28 août 1893<br />à Quarouble (Nord)</td>
-    <td>Le 16 octobre 1914<br />à La Neuville (Marne)</td>
-    <td>1er R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">BRACONNIER<br/>Alfred Émile</td>
+    <td headers="naissance">Le 28 août 1893<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 16 octobre 1914<br/>à La Neuville (Marne)</td>
+    <td headers="corps">1er R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>BRACONNIER<br />Edgard Auguste Arthur</td>
-    <td>Le 31 décembre 1891 <br />à Quarouble (Nord)</td>
-    <td>Le 11 septembre 1918 <br />à Cuperly (Marne)</td>
-    <td>259e R.A</td>
-    <td>blessures de guerre</td>
+    <td headers="nom">BRACONNIER<br/>Edgard Auguste Arthur</td>
+    <td headers="naissance">Le 31 décembre 1891 <br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 11 septembre 1918 <br/>à Cuperly (Marne)</td>
+    <td headers="corps">259e R.A</td>
+    <td headers="genre">blessures de guerre</td>
   </tr>
   <tr>
-    <td>CARLIER<br />Charles Auguste</td>
-    <td>Le 24 septembre 1893<br />à Quarouble (Nord)</td>
-    <td>Le 21 novembre 1914 <br />à l'hôpital St Hippolyte<br />du Fort (30)</td>
-    <td>82e R.I</td>
-    <td>blessures de guerre</td>
+    <td headers="nom">CARLIER<br/>Charles Auguste</td>
+    <td headers="naissance">Le 24 septembre 1893<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 21 novembre 1914 <br/>à l'hôpital St Hippolyte<br/>du Fort (30)</td>
+    <td headers="corps">82e R.I</td>
+    <td headers="genre">blessures de guerre</td>
   </tr>
   <tr>
-    <td>CARLIER <br />Damas Arséne</td>
-    <td>Le 10 juillet 1890<br />à Valenciennes (Nord)</td>
-    <td>du 3 mars 1915 <br />à Mesnil-les-Hurlus (Marne)</td>
-    <td>18e B.C.P</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">CARLIER <br/>Damas Arséne</td>
+    <td headers="naissance">Le 10 juillet 1890<br/>à Valenciennes (Nord)</td>
+    <td headers="mort">du 3 mars 1915 <br/>à Mesnil-les-Hurlus (Marne)</td>
+    <td headers="corps">18e B.C.P</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>CARLIER<br />Nazaire Hippolyte </td>
-    <td>Le 22 septembre 1892<br />à Anzin (Nord)</td>
-    <td>Le 22 août 1914<br />à Pierrepont (54)</td>
-    <td>151e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">CARLIER<br/>Nazaire Hippolyte </td>
+    <td headers="naissance">Le 22 septembre 1892<br/>à Anzin (Nord)</td>
+    <td headers="mort">Le 22 août 1914<br/>à Pierrepont (Meurthe-et-Moselle)</td>
+    <td headers="corps">151e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>COLLE <br />Jules </td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">COLLE <br/>Jules </td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>DAMIEN<br />Émile</td>
-    <td>Le 11 novembre 1879 <br />à Onnaing (Nord)</td>
-    <td>Le 29 janvier 1918 <br />au Lazaret du <br /><a href="../camps/camp-munster.php">camp de Münster</a></td>
-    <td>2e R.I.T</td>
-    <td>maladie contractée en captivité</td>
+    <td headers="nom">DAMIEN<br/>Émile</td>
+    <td headers="naissance">Le 11 novembre 1879 <br/>à Onnaing (Nord)</td>
+    <td headers="mort">Le 29 janvier 1918 <br/>au Lazaret du <br/><a href="../camps/camp-munster.php" title="Le camp allemand de Münster">camp de Münster</a></td>
+    <td headers="corps">2e R.I.T</td>
+    <td headers="genre">maladie contractée en captivité</td>
   </tr>
   <tr>
-    <td>DANGREAU <br />Auguste </td>
-    <td>Le 13 février 1887 <br />à Quarouble (Nord)</td>
-    <td>Le 2 mai 1916<br />à Cuperly (Marne)</td>
-    <td>225e R.A</td>
-    <td>blessures de guerre</td>
+    <td headers="nom">DANGREAU <br/>Auguste </td>
+    <td headers="naissance">Le 13 février 1887 <br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 2 mai 1916<br/>à Cuperly (Marne)</td>
+    <td headers="corps">225e R.A</td>
+    <td headers="genre">blessures de guerre</td>
   </tr>
   <tr>
-    <td>DANGREAU <br />Noël Désiré </td>
-    <td>Le 2 août 1890<br />à Quarouble (Nord)</td>
-    <td>Le 5 novembre 1918<br />à Bourbourg (Nord)</td>
-    <td>28e R.D</td>
-    <td>maladie</td>
+    <td headers="nom">DANGREAU <br/>Noël Désiré </td>
+    <td headers="naissance">Le 2 août 1890<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 5 novembre 1918<br/>à Bourbourg (Nord)</td>
+    <td headers="corps">28e R.D</td>
+    <td headers="genre">maladie</td>
   </tr>
   <tr>
-    <td>DEBRUXELLES <br />Émile</td>
-    <td>Le 13 février 1885<br />à Quarouble (Nord)</td>
-    <td>Le 24 juillet 1916<br />à Guillaucourt-le-Chateau (Ardennes)</td>
-    <td>327e R.I</td>
-    <td>blessures de guerre</td>
+    <td headers="nom">DEBRUXELLES <br/>Émile</td>
+    <td headers="naissance">Le 13 février 1885<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 24 juillet 1916<br/>à Guillaucourt-le-Chateau (Ardennes)</td>
+    <td headers="corps">327e R.I</td>
+    <td headers="genre">blessures de guerre</td>
   </tr>
   <tr>
-    <td>DEBRUXELLES <br />Gaston Victor </td>
-    <td>Le 11 novembre 1884<br />à Quarouble (Nord)</td>
-    <td>Le 14 septembre 1914<br />à Tours (37)</td>
-    <td>327e R.I</td>
-    <td>blessures de guerre</td>
+    <td headers="nom">DEBRUXELLES <br/>Gaston Victor </td>
+    <td headers="naissance">Le 11 novembre 1884<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 14 septembre 1914<br/>à Tours (37)</td>
+    <td headers="corps">327e R.I</td>
+    <td headers="genre">blessures de guerre</td>
   </tr>
   <tr>
-    <td>DEBRUXELLES<br />Joseph</td>
-    <td>Le 14 avril 1881<br />à Quarouble (Nord)</td>
-    <td>Le 22 novembre 1914<br />à Ménehould (Marne)</td>
-    <td>147e R.I</td>
-    <td>maladie contractée au service</td>
+    <td headers="nom">DEBRUXELLES<br/>Joseph</td>
+    <td headers="naissance">Le 14 avril 1881<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 22 novembre 1914<br/>à Ménehould (Marne)</td>
+    <td headers="corps">147e R.I</td>
+    <td headers="genre">maladie contractée au service</td>
   </tr>
   <tr>
-    <td>DECHAMP<br />Oscar </td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DECHAMP<br/>Oscar </td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
   <tr>
-    <td>DEFROMONT <br />Félicien</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DEFROMONT <br/>Félicien</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>DELTROY<br />Gérard Pascal</td>
-    <td>Le 4 octobre 1890<br />à Sebourg (Nord)</td>
-    <td>Le 26 septembre 1914<br />à Servon (Marne)</td>
-    <td>91e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">DELTROY<br/>Gérard Pascal</td>
+    <td headers="naissance">Le 4 octobre 1890<br/>à Sebourg (Nord)</td>
+    <td headers="mort">Le 26 septembre 1914<br/>à Servon (Marne)</td>
+    <td headers="corps">91e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>DERAMEAUX <br />Édouard </td>
-    <td>Le 6 mai 1885<br />à Onnaing (Nord)</td>
-    <td>Le 23 juin 1915<br />à Amiens (Somme)</td>
-    <td>327e R.I</td>
-    <td>blessures et maladie</td>
+    <td headers="nom">DERAMEAUX <br/>Édouard </td>
+    <td headers="naissance">Le 6 mai 1885<br/>à Onnaing (Nord)</td>
+    <td headers="mort">Le 23 juin 1915<br/>à Amiens (Somme)</td>
+    <td headers="corps">327e R.I</td>
+    <td headers="genre">blessures et maladie</td>
   </tr>
   <tr>
-    <td>DERVAUX<br />Léon </td>
-    <td>Le 23 mai 1884<br />à Quarouble (Nord)</td>
-    <td>Le 3 novembre 1916<br />à Bray-sur-Somme (Somme)</td>
-    <td>151e R.I</td>
-    <td>blessures de guerre</td>
+    <td headers="nom">DERVAUX<br/>Léon </td>
+    <td headers="naissance">Le 23 mai 1884<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 3 novembre 1916<br/>à Bray-sur-Somme (Somme)</td>
+    <td headers="corps">151e R.I</td>
+    <td headers="genre">blessures de guerre</td>
   </tr>
   <tr>
-    <td>DESORM(E)AUX<br />Louis </td>
-    <td>Le 19 octobre 1896<br />à Quarouble (Nord)</td>
-    <td>Le 10 septembre 1917<br />à Toul (54)</td>
-    <td>23e section<br />C.O.A</td>
-    <td>blessures en service commandé</td>
+    <td headers="nom">DESORM(E)AUX<br/>Louis </td>
+    <td headers="naissance">Le 19 octobre 1896<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 10 septembre 1917<br/>à Toul (Meurthe-et-Moselle)</td>
+    <td headers="corps">23e section<br/>C.O.A</td>
+    <td headers="genre">blessures en service commandé</td>
   </tr>
   <tr>
-    <td>DETRAIT <br />Gilbert </td>
-    <td>Le 20 novembre 1894<br />à Quarouble (Nord)</td>
-    <td>Le 4 avril 1917<br />à Paris</td>
-    <td>31e R.A.L</td>
-    <td>tuberculose aiguë</td>
+    <td headers="nom">DETRAIT <br/>Gilbert </td>
+    <td headers="naissance">Le 20 novembre 1894<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 4 avril 1917<br/>à Paris</td>
+    <td headers="corps">31e R.A.L</td>
+    <td headers="genre">tuberculose aiguë</td>
   </tr>
   <tr>
-    <td>DOCHEZ <br />Alfred Jean Baptiste</td>
-    <td>Le 9 novembre 1885<br />à Quarouble (Nord)</td>
-    <td>Le 21 février 1916<br />au bois de wavrille (Meuse)</td>
-    <td>327e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">DOCHEZ <br/>Alfred Jean Baptiste</td>
+    <td headers="naissance">Le 9 novembre 1885<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 21 février 1916<br/>au bois de wavrille (Meuse)</td>
+    <td headers="corps">327e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>DOCHEZ<br />Ernest</td>
-    <td>Le 9 avril 1875<br />à Quarouble (Nord)</td>
-    <td>Le 24 août 1914<br />à Condé-sur-Escaut (Nord)</td>
-    <td>127e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">DOCHEZ<br/>Ernest</td>
+    <td headers="naissance">Le 9 avril 1875<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 24 août 1914<br/>à Condé-sur-Escaut (Nord)</td>
+    <td headers="corps">127e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>DOCHEZ<br />Louis</td>
-    <td>Le 23 septembre 1886 <br />à Quarouble (Nord)</td>
-    <td>Le 7 octobre 1914<br />près d'Estain (Meuse)</td>
-    <td>366e R.I</td>
-    <td>disparu</td>
+    <td headers="nom">DOCHEZ<br/>Louis</td>
+    <td headers="naissance">Le 23 septembre 1886 <br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 7 octobre 1914<br/>près d'Estain (Meuse)</td>
+    <td headers="corps">366e R.I</td>
+    <td headers="genre">disparu</td>
   </tr>
   <tr>
-    <td>DOYE<br />Léonide</td>
-    <td>Le 20 août 1874<br />à Quarouble (Nord)</td>
-    <td>Le 9 juin 1915<br />à <a href="../camps/camp-minden.php">Minden (Allemagne)</a></td>
-    <td>2e R.I.T</td>
-    <td>&nbsp;</td>
+    <td headers="nom">DOYE<br/>Léonide</td>
+    <td headers="naissance">Le 20 août 1874<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 9 juin 1915<br/>à <a href="../camps/camp-minden.php">Minden (Allemagne)</a></td>
+    <td headers="corps">2e R.I.T</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>DUEE<br />Alfred Arthur</td>
-    <td>Le 7 juin 1894<br />à Quarouble (Nord)</td>
-    <td>Le 18 mars 1915<br />au bois de la Gruerie (Marne)</td>
-    <td>151e R.I</td>
-    <td>tué à la suite de blessures (?)</td>
+    <td headers="nom">DUEE<br/>Alfred Arthur</td>
+    <td headers="naissance">Le 7 juin 1894<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 18 mars 1915<br/>au bois de la Gruerie (Marne)</td>
+    <td headers="corps">151e R.I</td>
+    <td headers="genre">tué à la suite de blessures (?)</td>
   </tr>
   <tr>
-    <td>DUEE<br />Léon Jean-Baptiste </td>
-    <td>Le 19 juin 1889<br />à Quarouble (Nord)</td>
-    <td>Le 22 août 1915<br />à <a href="../camps/camp-merzdorf.php">Merzdorf (Allemagne)</a></td>
-    <td>147e R.I</td>
-    <td>maladie contractée en captivité</td>
+    <td headers="nom">DUEE<br/>Léon Jean-Baptiste </td>
+    <td headers="naissance">Le 19 juin 1889<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 22 août 1915<br/>à <a href="../camps/camp-merzdorf.php">Merzdorf (Allemagne)</a></td>
+    <td headers="corps">147e R.I</td>
+    <td headers="genre">maladie contractée en captivité</td>
   </tr>
   <tr>
-    <td>DUEE <br />Léon Joseph </td>
-    <td>Le 27 janvier 1888<br />à Quarouble (Nord)</td>
-    <td>Le 19 juin 1915<br />à Compiègne (60)</td>
-    <td>148e R.I</td>
-    <td>blessures de guerre</td>
+    <td headers="nom">DUEE <br/>Léon Joseph </td>
+    <td headers="naissance">Le 27 janvier 1888<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 19 juin 1915<br/>à Compiègne (60)</td>
+    <td headers="corps">148e R.I</td>
+    <td headers="genre">blessures de guerre</td>
   </tr>
   <tr>
-    <td>DUEE <br />Omer Henri </td>
-    <td>Le 6 août 1890<br />à Quarouble (Nord)</td>
-    <td>Le 29 juillet 1918<br />à Ville-en-Tardenois (Marne)</td>
-    <td>60e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">DUEE <br/>Omer Henri </td>
+    <td headers="naissance">Le 6 août 1890<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 29 juillet 1918<br/>à Ville-en-Tardenois (Marne)</td>
+    <td headers="corps">60e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>DULIER <br />Alexis</td>
-    <td>Le 28 mai 1886<br />à Estreux (Nord)</td>
-    <td>Le 1er août 1916<br />à Cayeux-en-Santerre (Somme)</td>
-    <td>366e R.I</td>
-    <td>blessures de guerre</td>
+    <td headers="nom">DULIER <br/>Alexis</td>
+    <td headers="naissance">Le 28 mai 1886<br/>à Estreux (Nord)</td>
+    <td headers="mort">Le 1er août 1916<br/>à Cayeux-en-Santerre (Somme)</td>
+    <td headers="corps">366e R.I</td>
+    <td headers="genre">blessures de guerre</td>
   </tr>
   <tr>
-    <td >DUPONT<br />André Antoine Prudent </td>
-    <td>Le 26 mars 1892<br />à Quarouble (Nord)</td>
-    <td>Le 31 octobre 1915<br />à Perthes (Marne)</td>
-    <td>147e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">DUPONT<br/>André Antoine Prudent </td>
+    <td headers="naissance">Le 26 mars 1892<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 31 octobre 1915<br/>à Perthes (Marne)</td>
+    <td headers="corps">147e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>DUSSART<br />Émile</td>
-    <td>Le 29 avril 1881<br />à Raismes (Nord)</td>
-    <td>Le 18 décembre 1914<br />à Ravin-du-Mortier (Marne)</td>
-    <td>18e B.C.P</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">DUSSART<br/>Émile</td>
+    <td headers="naissance">Le 29 avril 1881<br/>à Raismes (Nord)</td>
+    <td headers="mort">Le 18 décembre 1914<br/>à Ravin-du-Mortier (Marne)</td>
+    <td headers="corps">18e B.C.P</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>DUSSART <br />Léon Victor </td>
-    <td>Le 9 novembre 1894<br />à Quarouble (Nord)</td>
-    <td>Le 1 mars 1915<br />à Mesnil-les-Hurlus (Marne)</td>
-    <td>87e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">DUSSART <br/>Léon Victor </td>
+    <td headers="naissance">Le 9 novembre 1894<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 1 mars 1915<br/>à Mesnil-les-Hurlus (Marne)</td>
+    <td headers="corps">87e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>FAIDHERBE <br />Émile </td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">FAIDHERBE <br/>Émile </td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>FERNEZ<br />Léonard </td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">FERNEZ<br/>Léonard </td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>FLAMENT<br />Jules Edmond</td>
-    <td>Le 17 octobre 1887<br />à Quarouble (Nord)</td>
-    <td>Le 16 avril 1917<br />à Craonne (Aisne)</td>
-    <td>208e RI</td>
-    <td>disparu</td>
+    <td headers="nom">FLAMENT<br/>Jules Edmond</td>
+    <td headers="naissance">Le 17 octobre 1887<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 16 avril 1917<br/>à Craonne (Aisne)</td>
+    <td headers="corps">208e RI</td>
+    <td headers="genre">disparu</td>
   </tr>
   <tr>
-    <td>FLAMENT <br />Ovide Celestin </td>
-    <td>Le 27 novembre 1876<br />à Quarouble (Nord)</td>
-    <td>Le 13 mai 1915<br />à Neuville-St-Vaast (62)</td>
-    <td>329e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">FLAMENT <br/>Ovide Celestin </td>
+    <td headers="naissance">Le 27 novembre 1876<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 13 mai 1915<br/>à Neuville-St-Vaast (62)</td>
+    <td headers="corps">329e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>FLAMENT Paul </td>
-    <td>Le 18 octobre 1893<br />à Quarouble (Nord)</td>
-    <td>Le 29 mars 1916<br />à Bordeaux (33)</td>
-    <td>3e R.G</td>
-    <td>maladie en service</td>
+    <td headers="nom">FLAMENT Paul </td>
+    <td headers="naissance">Le 18 octobre 1893<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 29 mars 1916<br/>à Bordeaux (33)</td>
+    <td headers="corps">3e R.G</td>
+    <td headers="genre">maladie en service</td>
   </tr>
   <tr>
-    <td>FLAMME<br />Abel Joseph </td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">FLAMME<br/>Abel Joseph </td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>FLAMME <br /> Auguste</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">FLAMME <br/> Auguste</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>FLAMME<br />Joseph Auguste </td>
-    <td>Le 1 avril 1892<br />à Quarouble (Nord)</td>
-    <td>Le 29 août 1914<br />à la Herie-la-Vieville (Aisne)</td>
-    <td>127e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">FLAMME<br/>Joseph Auguste </td>
+    <td headers="naissance">Le 1 avril 1892<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 29 août 1914<br/>à la Herie-la-Vieville (Aisne)</td>
+    <td headers="corps">127e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>FLAMME<br />Léon </td>
-    <td>Le 16 février 1876<br />à Quarouble (Nord)</td>
-    <td>Le 7 février 1917<br />à Calais (62)</td>
-    <td>5e S.C.F.C</td>
-    <td>maladie contractée en service</td>
+    <td headers="nom">FLAMME<br/>Léon </td>
+    <td headers="naissance">Le 16 février 1876<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 7 février 1917<br/>à Calais (62)</td>
+    <td headers="corps">5e S.C.F.C</td>
+    <td headers="genre">maladie contractée en service</td>
   </tr>
   <tr>
-    <td>FOURDAIN<br />Jules</td>
-    <td>Le 9 février 1890<br />à la Vallée-au-Blé (Aisne)</td>
-    <td>Le 11 septembre 1914<br />à Rembercourt (Meuse)</td>
-    <td>54e R.I</td>
-    <td>maladie aggravée en service</td>
+    <td headers="nom">FOURDAIN<br/>Jules</td>
+    <td headers="naissance">Le 9 février 1890<br/>à la Vallée-au-Blé (Aisne)</td>
+    <td headers="mort">Le 11 septembre 1914<br/>à Rembercourt (Meuse)</td>
+    <td headers="corps">54e R.I</td>
+    <td headers="genre">maladie aggravée en service</td>
   </tr>
   <tr>
-    <td>FRANCOIS <br />Nestor Augustin</td>
-    <td>Le 4 avril 1888<br />à Quarouble (Nord)</td>
-    <td>Le 25 septembre 1916<br />à ? Frégicourt 80)</td>
-    <td>127e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">FRANCOIS <br/>Nestor Augustin</td>
+    <td headers="naissance">Le 4 avril 1888<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 25 septembre 1916<br/>à ? Frégicourt (Somme)</td>
+    <td headers="corps">127e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>FROISSART <br />Albert Jean-Baptiste </td>
-    <td>Le 27 juin 1892<br />à Quarouble (Nord)</td>
-    <td>Le 27 septembre 1914<br />à Saint-Thomas (Marne)</td>
-    <td>147e R.I</td>
-    <td>tué à l'ennemi</td>
+    <td headers="nom">FROISSART <br/>Albert Jean-Baptiste </td>
+    <td headers="naissance">Le 27 juin 1892<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 27 septembre 1914<br/>à Saint-Thomas (Marne)</td>
+    <td headers="corps">147e R.I</td>
+    <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>GERARD <br />Charles Auguste</td>
-    <td>Le 20 avril 1874<br />à Onnaing (Nord)</td>
-    <td>Le 24 janvier 1917<br />à Martigny (Suisse)</td>
-    <td>2e R.I.T</td>
-    <td>tuberculose contractée en captivité</td>
+    <td headers="nom">GERARD <br/>Charles Auguste</td>
+    <td headers="naissance">Le 20 avril 1874<br/>à Onnaing (Nord)</td>
+    <td headers="mort">Le 24 janvier 1917<br/>à Martigny (Suisse)</td>
+    <td headers="corps">2e R.I.T</td>
+    <td headers="genre">tuberculose contractée en captivité</td>
   </tr>
   <tr>
-    <td>GERARD <br />Victor </td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">GERARD <br/>Victor </td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>GLINEUR <br />Auguste </td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">GLINEUR <br/>Auguste </td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>GORSENNE <br />Antoine</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">GORSENNE <br/>Antoine</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>GOSTEAU <br />Louis Émile </td>
-    <td>Le 30 juillet 1881<br />à Quarouble (Nord)</td>
-    <td>Le 6 juillet 1916<br />à Pierrepont (54)</td>
-    <td>348e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">GOSTEAU <br/>Louis Émile </td>
+    <td headers="naissance">Le 30 juillet 1881<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 6 juillet 1916<br/>à Pierrepont (Meurthe-et-Moselle)</td>
+    <td headers="corps">348e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>GRUEL<br />Zacharie Joseph </td>
-    <td>Le 4 mars 1876<br />à Quarouble (Nord)</td>
-    <td>Le 30 octobre 1914<br />au Bois de la Chalade (Meuse)</td>
-    <td>37e R.I.T</td>
-    <td>&nbsp;</td>
+    <td headers="nom">GRUEL<br/>Zacharie Joseph </td>
+    <td headers="naissance">Le 4 mars 1876<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 30 octobre 1914<br/>au Bois de la Chalade (Meuse)</td>
+    <td headers="corps">37e R.I.T</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>LARIVIERE<br />Émile Marcelin </td>
-    <td>Le 6 septembre 1889<br />à Quarouble (Nord)</td>
-    <td>Le 4 novembre 1918<br />à Förstört (Allemagne)</td>
-    <td>1er R.A</td>
-    <td>&nbsp;</td>
+    <td headers="nom">LARIVIERE<br/>Émile Marcelin </td>
+    <td headers="naissance">Le 6 septembre 1889<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 4 novembre 1918<br/>à Förstört (Allemagne)</td>
+    <td headers="corps">1er R.A</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>LECOCQ <br />Alexis Joseph</td>
-    <td>Le 19 avril 1893<br />à Quarouble (Nord)</td>
-    <td>Le 2 juillet 1915<br />à La Gruerie (Marne)</td>
-    <td>151e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">LECOCQ <br/>Alexis Joseph</td>
+    <td headers="naissance">Le 19 avril 1893<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 2 juillet 1915<br/>à La Gruerie (Marne)</td>
+    <td headers="corps">151e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>LENNE <br />Victor</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">LENNE <br/>Victor</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>LINQUERCQ <br />Benoit </td>
-    <td>Le 23 septembre 1885<br />à Quarouble (Nord)</td>
-    <td>Le 28 décembre 1914<br />à Saint-Mandé (Seine)</td>
-    <td>291e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">LINQUERCQ<br/>Benoit</td>
+    <td headers="naissance">Le 23 septembre 1885<br/>à Quarouble (Nord)</td>
+    <td headers="mort">Le 28 décembre 1914<br/>à Saint-Mandé (Seine)</td>
+    <td headers="corps">291e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>LOISEAU <br />Émile </td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">LOISEAU <br/>Émile </td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>LOISON <br />Ernest </td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">LOISON<br/>Ernest</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>MARSAN <br />Émile </td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">MARSAN<br/>Émile</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>MASCART Désiré <br />Étienne </td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">MASCART Désiré<br/>Étienne</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
     </tr>
   <tr>
-    <td>MASCART <br />Émile Henri </td>
-    <td>Le 30 avril 1889<br />à Quarouble</td>
-    <td>Le 6 septembre 1914<br />à Sommaisne (Meuse)</td>
-    <td>132e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">MASCART<br/>Émile Henri</td>
+    <td headers="naissance">Le 30 avril 1889<br/>à Quarouble</td>
+    <td headers="mort">Le 6 septembre 1914<br/>à Sommaisne (Meuse)</td>
+    <td headers="corps">132e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>MASSON <br />Émile </td>
-    <td>Le 20 Août 1892<br/>à Quarouble</td>
-    <td>Le 30 novembre 1914<br />à Vienne-le-Château (Marne)</td>
-    <td>147e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">MASSON<br/>Émile</td>
+    <td headers="naissance">Le 20 Août 1892<br/>à Quarouble</td>
+    <td headers="mort">Le 30 novembre 1914<br/>à Vienne-le-Château (Marne)</td>
+    <td headers="corps">147e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>    
   <tr>
-    <td>PICHON <br />Zéphyrin </td>
-    <td>Le 17 mai 1883<br />à Quarouble</td>
-    <td>Le 17 septembre 1917<br />à Verdun (Meuse)</td> 
-    <td>348e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">PICHON<br/>Zéphyrin</td>
+    <td headers="naissance">Le 17 mai 1883<br/>à Quarouble</td>
+    <td headers="mort">Le 17 septembre 1917<br/>à Verdun (Meuse)</td> 
+    <td headers="corps">348e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>POLLET <br />Auguste</td>
-    <td>Le 13 décembre 1878<br/>à Quarouble</td>
-    <td>Le 12 janvier 1919<br />à Tourrettes (Var)</td>
-    <td>2e R.I.T</td>
-    <td>&nbsp;</td>
+    <td headers="nom">POLLET<br/>Auguste</td>
+    <td headers="naissance">Le 13 décembre 1878<br/>à Quarouble</td>
+    <td headers="mort">Le 12 janvier 1919<br/>à Tourrettes (Var)</td>
+    <td headers="corps">2e R.I.T</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>REMY<br />Charles Hyacinthe Antoine </td>
-    <td>Le 20 juillet 1886<br />à Quarouble</td>
-    <td>Le 19 octobre 1914<br />à Verdun (Meuse)</td>
-    <td>166e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">REMY<br/>Charles Hyacinthe Antoine</td>
+    <td headers="naissance">Le 20 juillet 1886<br/>à Quarouble</td>
+    <td headers="mort">Le 19 octobre 1914<br/>à Verdun (Meuse)</td>
+    <td headers="corps">166e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>RIGAUT<br />Georges Eugène </td>
-    <td>Le 11 janvier 1884<br />Marly (Nord)</td>
-    <td>Le 16 septembre 1914<br />Osly-Courtil (Aisne)</td>
-    <td>354 R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">RIGAUT<br/>Georges Eugène</td>
+    <td headers="naissance">Le 11 janvier 1884<br/>Marly (Nord)</td>
+    <td headers="mort">Le 16 septembre 1914<br/>Osly-Courtil (Aisne)</td>
+    <td headers="corps">354 R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>RINGOT<br />Julien</td>
-    <td>Le 16 février 1885<br />à Mastaing (Nord)</td>
-    <td>Le 6 octobre 1915<br />Souain (Marne)</td>
-    <td>4e S.I.M</td>
-    <td>&nbsp;</td>
+    <td headers="nom">RINGOT<br/>Julien</td>
+    <td headers="naissance">Le 16 février 1885<br/>à Mastaing (Nord)</td>
+    <td headers="mort">Le 6 octobre 1915<br/>Souain (Marne)</td>
+    <td headers="corps">4e S.I.M</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>ROUSSEAU<br />Henri Frédéric</td>
-    <td>Le 25 mai 1887<br />à Quarouble</td>
-    <td>Le 8 juin 1916<br />à Fleury (Meuse)</td>
-    <td>291e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">ROUSSEAU<br/>Henri Frédéric</td>
+    <td headers="naissance">Le 25 mai 1887<br/>à Quarouble</td>
+    <td headers="mort">Le 8 juin 1916<br/>à Fleury (Meuse)</td>
+    <td headers="corps">291e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>  
   <tr>
-    <td>RUFFIN<br />Albert Arthur</td>
-    <td>Le 16 mai 1892<br/>à Quarouble</td>
-    <td>Le 5 avril 1915<br />à Maizeray (Meuse)</td>
-    <td>91e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">RUFFIN<br/>Albert Arthur</td>
+    <td headers="naissance">Le 16 mai 1892<br/>à Quarouble</td>
+    <td headers="mort">Le 5 avril 1915<br/>à Maizeray (Meuse)</td>
+    <td headers="corps">91e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>    
   <tr>
-    <td>RUFFIN<br />Arthur Adolphe</td>
-    <td>Le 6 mai 1894<br/>à Quarouble</td>
-    <td>Le 16 mars 1915<br />à Mesnil-lès-Hurlus (Marne)</td>
-    <td>91e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">RUFFIN<br/>Arthur Adolphe</td>
+    <td headers="naissance">Le 6 mai 1894<br/>à Quarouble</td>
+    <td headers="mort">Le 16 mars 1915<br/>à Mesnil-lès-Hurlus (Marne)</td>
+    <td headers="corps">91e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>    
   <tr>
-    <td>RUFFIN<br />Romain Lucien</td>
-    <td>Le 6 juin 1890<br/>à Quarouble</td>
-    <td>Le 14 février 1916<br />à Douaumont (Meuse)</td>
-    <td>102e R.A.L</td>
-    <td>&nbsp;</td>
+    <td headers="nom">RUFFIN<br/>Romain Lucien</td>
+    <td headers="naissance">Le 6 juin 1890<br/>à Quarouble</td>
+    <td headers="mort">Le 14 février 1916<br/>à Douaumont (Meuse)</td>
+    <td headers="corps">102e R.A.L</td>
+    <td headers="genre">&nbsp;</td>
   </tr>    
   <tr>
-    <td>SIZAIRE<br />Léon Émile </td>
-    <td>Le 11 janvier 1888<br />à Quarouble</td>
-    <td>Le 11 décembre 1914<br/>à Rosendaël (Nord)</td>
-    <td>162e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">SIZAIRE<br/>Léon Émile</td>
+    <td headers="naissance">Le 11 janvier 1888<br/>à Quarouble</td>
+    <td headers="mort">Le 11 décembre 1914<br/>à Rosendaël (Nord)</td>
+    <td headers="corps">162e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>TONDELIER <br />Felix Edgar </td>
-    <td>Le 21 juin 1885<br />à Ribemont (Aisne)</td>
-    <td>Le 2 octobre 1916<br />à Morval (Somme)</td>
-    <td>294e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">TONDELIER<br/>Felix Edgar</td>
+    <td headers="naissance">Le 21 juin 1885<br/>à Ribemont (Aisne)</td>
+    <td headers="mort">Le 2 octobre 1916<br/>à Morval (Somme)</td>
+    <td headers="corps">294e R.I</td>
+    <td headers="genre">&nbsp;</td>
     </tr>   
   <tr>
-    <td>VALLEE <br />Clément Désiré </td>
-    <td>Le 29 juin 1892<br/>à Quarouble</td>
-    <td>Le 4 décembre 1914<br />à Fontaine-Madame (Marne)</td>
-    <td>91e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">VALLEE<br/>Clément Désiré</td>
+    <td headers="naissance">Le 29 juin 1892<br/>à Quarouble</td>
+    <td headers="mort">Le 4 décembre 1914<br/>à Fontaine-Madame (Marne)</td>
+    <td headers="corps">91e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>WALEZ<br />René</td>
-    <td>Le 10 août 1885<br/>à Onnaing (Nord)</td>
-    <td>Le 21 août 1918<br/>à Vertekop (Grèce)</td>
-    <td>5e R.G</td>
-    <td>&nbsp;</td>
+    <td headers="nom">WALEZ<br/>René</td>
+    <td headers="naissance">Le 10 août 1885<br/>à Onnaing (Nord)</td>
+    <td headers="mort">Le 21 août 1918<br/>à Vertekop (Grèce)</td>
+    <td headers="corps">5e R.G</td>
+    <td headers="genre">&nbsp;</td>
   </tr>    
   <tr>
-    <td>VILLE<br />Joseph </td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td headers="nom">VILLE<br/>Joseph</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps">&nbsp;</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>WUILBERCQ <br />François Jean-Baptiste</td>
-    <td>Le 26 décembre 1889<br/>à Onnaing (Nord)</td>
-    <td>Le 8 septembre 1914<br/>à Favresse (Marne)</td>
-    <td>87e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">WUILBERCQ<br/>François Jean-Baptiste</td>
+    <td headers="naissance">Le 26 décembre 1889<br/>à Onnaing (Nord)</td>
+    <td headers="mort">Le 8 septembre 1914<br/>à Favresse (Marne)</td>
+    <td headers="corps">87e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td>WUILLOT <br />Félicien</td>
-    <td>Le 25 octobre 1891<br/>à Estroeugt (Nord)</td>
-    <td>Le 27 décembre 1914<br/>à Poperinghe (Belgique)</td>
-    <td>162e R.I</td>
-    <td>&nbsp;</td>
+    <td headers="nom">WUILLOT<br/>Félicien</td>
+    <td headers="naissance">Le 25 octobre 1891<br/>à Estroeugt (Nord)</td>
+    <td headers="mort">Le 27 décembre 1914<br/>à Poperinghe (Belgique)</td>
+    <td headers="corps">162e R.I</td>
+    <td headers="genre">&nbsp;</td>
   </tr>    
 </table>
+
+<?php /* indiquer les sources : Livre d'or du Ministère des pensions (Archives Nationales), Mémoire des Hommes (Ministère de la Défense), CPA ? */ ?>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
@@ -688,7 +692,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

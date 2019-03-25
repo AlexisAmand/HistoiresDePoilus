@@ -14,21 +14,6 @@
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link rel="icon" type="image/png" href="../images/favicon.png" />
                 
-    <style type="text/css">
-        .auto-style2 {
-            width: 164px;
-        }
-        .auto-style5 {
-            width: 162px;
-        }
-        .auto-style6 {
-            height: 46px;
-        }
-        .auto-style7 {
-            height: 47px;
-        }
-    </style>
-                
 </head>
 
 <body>
@@ -76,7 +61,7 @@
 <li><a href="anzin.php">Anzin</a></li>
 <li><a href="bry.php">Bry</a></li>
 <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
-<li><a href="cousolre.php">cousolre</a></li> 
+<li><a href="cousolre.php">Cousolre</a></li> 
 <li><a href="eth.php">Eth</a></li>
 <li><a href="gussignies.php">Gussignies</a></li>
 <li><a href="lourches.php">Lourches</a></li>
@@ -117,7 +102,7 @@
 
 </ul>
    
-      <div id="pubaside">
+   <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
@@ -143,7 +128,7 @@
     <a href="images/hilaire-monument.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Saint-Hilaire-le-Petit">
     <img src="images/mini/hilaire-monument.jpg" alt="le Monument aux Morts pour la France de Saint-Hilaire-le-Petit sur une carte postale ancienne"/>
     </a>
-    <figcaption>Le Monument aux Morts<br />(Source: Google Map)</figcaption>
+    <figcaption>Le Monument aux Morts<br/>(Source: Google Map)</figcaption>
 </figure>
 
 <p></p>
@@ -151,148 +136,148 @@
 <table>
   <thead>
   <tr>
-    <th id="nom" width="158px">Nom et prénom(s)</th>
-    <th id="naissance" width="158px">Date et lieu<br />de naissance</th>
-    <th id="mort" width="158px">Date et lieu<br />de décès</th>
+    <th id="nom">Nom et prénom(s)</th>
+    <th id="naissance">Date et lieu<br/>de naissance</th>
+    <th id="mort" width="158px">Date et lieu<br/>de décès</th>
     <th id="grade" width="45px">Grade</th>
     <th id="corps" width="70px">Corps</th>
-    <th id="genre" width="90px">Genre<br />de mort</th>
+    <th id="genre" width="90px">Genre<br/>de mort</th>
   </tr>
   </thead>
   <tr>
-    <td headers="nom">AMELOT<br />Raymond Albert</td>
-    <td headers="naissance">Le 4 avril 1879<br />à St-Hilaire-le-Petit</td>
-    <td headers="mort">Le 19 novembre 1914<br />à Epernay (Marne)</td>
+    <td headers="nom">AMELOT<br/>Raymond Albert</td>
+    <td headers="naissance">Le 4 avril 1879<br/>à St-Hilaire-le-Petit</td>
+    <td headers="mort">Le 19 novembre 1914<br/>à Epernay (Marne)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">46e R.I.T</td>
     <td headers="genre">Epidémie contractée au front</td>
   </tr>
   <tr>
-    <td headers="nom">BISSET<br />Julien Henri</td>
-    <td headers="naissance">Le 19 janvier 1895<br />à St-Hilaire-le-Petit</td>
-    <td headers="mort">Le 11 octobre 1918<br />à Giromagny (Haut-Rhin)<sup>1</sup></td>
+    <td headers="nom">BISSET<br/>Julien Henri</td>
+    <td headers="naissance">Le 19 janvier 1895<br/>à St-Hilaire-le-Petit</td>
+    <td headers="mort">Le 11 octobre 1918<br/>à Giromagny (Haut-Rhin)<sup>1</sup></td>
     <td headers="grade">soldat</td>
     <td headers="corps">32e R.A.C</td>
     <td headers="genre">Maladie contractée au front</td>
   </tr>
   <tr>
-    <td headers="nom">BISSET<br />Marcel Gontran</td>
-    <td headers="naissance">Le 20 juillet 1890<br />à St-Hilaire-le-Petit</td>
-    <td headers="mort">Le 29 janvier 1915<br />à <a href="../camps/camp-gardelegen.php">Gardelegen</a> (Allemagne)</td>
+    <td headers="nom">BISSET<br/>Marcel Gontran</td>
+    <td headers="naissance">Le 20 juillet 1890<br/>à St-Hilaire-le-Petit</td>
+    <td headers="mort">Le 29 janvier 1915<br/>à <a href="../camps/camp-gardelegen.php">Gardelegen</a> (Allemagne)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">151e R.I</td>
     <td headers="genre">Mort en captivité</td>
   </tr>
   <tr>
-    <td headers="nom">COLIN<br />Émile Jean-Baptiste</td>
-    <td headers="naissance">Le 6 juin 1882<br />à St-Hilaire-le-Petit</td>
-    <td headers="mort">Le 19 mars 1915<br />aux Eparges (Meuse)</td>
+    <td headers="nom">COLIN<br/>Émile Jean-Baptiste</td>
+    <td headers="naissance">Le 6 juin 1882<br/>à St-Hilaire-le-Petit</td>
+    <td headers="mort">Le 19 mars 1915<br/>aux Eparges (Meuse)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">132e R.I</td>
     <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">COLIN<br />Lucien Jean-Baptiste</td>
-    <td headers="naissance">Le 13 avril 1895<br />à St-Hilaire-le-Petit</td>
-    <td headers="mort">Le 25 septembre 1915<br />à St-Hilaire-le-Grand (Marne)</td>
-    <td headers="grade">Maréchal<br />des logis</td>
+    <td headers="nom">COLIN<br/>Lucien Jean-Baptiste</td>
+    <td headers="naissance">Le 13 avril 1895<br/>à St-Hilaire-le-Petit</td>
+    <td headers="mort">Le 25 septembre 1915<br/>à St-Hilaire-le-Grand (Marne)</td>
+    <td headers="grade">Maréchal<br/>des logis</td>
     <td headers="corps">46e R.A</td>
     <td headers="genre">Tué à l'ennemi</td>
     </tr>
   <tr>
-    <td headers="nom">COUTANT<br />Henri Charles</td>
-    <td headers="naissance">Le 4 septembre 1894<br />à St-Hilaire-le-Petit</td>
-    <td headers="mort">Le 18 juillet 1918<br />à Passy-en-Valois (Aisne)</td>
+    <td headers="nom">COUTANT<br/>Henri Charles</td>
+    <td headers="naissance">Le 4 septembre 1894<br/>à St-Hilaire-le-Petit</td>
+    <td headers="mort">Le 18 juillet 1918<br/>à Passy-en-Valois (Aisne)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">110e R.I</td>
     <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">DELAGLOYE<br />Léon André</td>
-    <td headers="naissance">Le 17 mars 1893<br />à St-Hilaire-le-Petit</td>
-    <td headers="mort">Le 25 septembre 1915<br />à St-Hilaire-le-Grand (Marne)</td>
-    <td headers="grade">Maréchal<br />des logis</td>
+    <td headers="nom">DELAGLOYE<br/>Léon André</td>
+    <td headers="naissance">Le 17 mars 1893<br/>à St-Hilaire-le-Petit</td>
+    <td headers="mort">Le 25 septembre 1915<br/>à St-Hilaire-le-Grand (Marne)</td>
+    <td headers="grade">Maréchal<br/>des logis</td>
     <td headers="corps">46e R.A</td>
     <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">FLOQUET<br />Fernand André</td>
-    <td headers="naissance">Le 20 avril 1894<br />à Saint-Martin-sur-Heureuse (Marne)</td>
-    <td headers="mort">Le 29 janvier 1915<br />au Bois de la Gruère (Marne)</td>
+    <td headers="nom">FLOQUET<br/>Fernand André</td>
+    <td headers="naissance">Le 20 avril 1894<br/>à Saint-Martin-sur-Heureuse (Marne)</td>
+    <td headers="mort">Le 29 janvier 1915<br/>au Bois de la Gruère (Marne)</td>
     <td headers="grade">soldat</td>
     <td headers="genre">161e R.I</td>
     <td headers="genre">Tué à l'ennemi</td>
     </tr>
   <tr>
-    <td headers="nom">FONTAINE<br />Paul Alfred</td>
-    <td headers="naissance">Le 13 juillet 1876<br />à St-Hilaire-le-Petit</td>
-    <td headers="mort">Le 13 mars 1916<br />à Glorieux (Meuse)</td>
+    <td headers="nom">FONTAINE<br/>Paul Alfred</td>
+    <td headers="naissance">Le 13 juillet 1876<br/>à St-Hilaire-le-Petit</td>
+    <td headers="mort">Le 13 mars 1916<br/>à Glorieux (Meuse)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">35e R.I.T</td>
     <td headers="genre">Tué à l'ennemi</td>
     </tr>
   <tr>
-    <td headers="nom">GUYOT<br />Gaston Louis</td>
-    <td headers="naissance">Le 17 décembre 1895<br />à St-Hilaire-le-Petit</td>
-    <td headers="mort">Le 14 mai 1917<br />à Royere (Aisne)</td>
+    <td headers="nom">GUYOT<br/>Gaston Louis</td>
+    <td headers="naissance">Le 17 décembre 1895<br/>à St-Hilaire-le-Petit</td>
+    <td headers="mort">Le 14 mai 1917<br/>à Royere (Aisne)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">29e B.C.P</td>
     <td headers="genre">Tué à l'ennemi</td>
     </tr>
   <tr>
-    <td headers="nom">HENNEQUIN<br />Adolphe Raymond</td>
-    <td headers="naissance">Le 25 octobre 1894<br />à St-Hilaire-le-Petit</td>
-    <td headers="mort">Le 31 mai 1918<br />à Try (Marne)</td>
+    <td headers="nom">HENNEQUIN<br/>Adolphe Raymond</td>
+    <td headers="naissance">Le 25 octobre 1894<br/>à St-Hilaire-le-Petit</td>
+    <td headers="mort">Le 31 mai 1918<br/>à Try (Marne)</td>
     <td headers="grade">brigadier</td>
     <td headers="corps">28e R.D</td>
-    <td>Tué à l'ennemi</td>
+    <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">HENNEQUIN<br />Émile Paul</td>
-    <td headers="naissance">Le 22 Mai 1893<br />à St-Hilaire-le-Petit</td>
-    <td headers="mort">Le 5 avril 1917<br />à Lunéville (M. et Moselle)</td>
+    <td headers="nom">HENNEQUIN<br/>Émile Paul</td>
+    <td headers="naissance">Le 22 Mai 1893<br/>à St-Hilaire-le-Petit</td>
+    <td headers="mort">Le 5 avril 1917<br/>à Lunéville (M. et Moselle)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">36e R.I</td>
     <td headers="genre">Maladie contractée en service</td>
     </tr>
   <tr>
-    <td headers="nom">LAGRIVE<br />Émile</td>
-    <td headers="naissance">Le 27 mars 1895<br />à St-Hilaire-le-Petit</td>
-    <td headers="mort">Le 6 avril 1918<br />à Cuvilly (Oise)</td>
-    <td headers="grade">maréchal<br />des logis</td>
+    <td headers="nom">LAGRIVE<br/>Émile</td>
+    <td headers="naissance">Le 27 mars 1895<br/>à St-Hilaire-le-Petit</td>
+    <td headers="mort">Le 6 avril 1918<br/>à Cuvilly (Oise)</td>
+    <td headers="grade">maréchal<br/>des logis</td>
     <td headers="corps">32e R.A</td>
     <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">LALLEMENT<br />René Émile</td>
-    <td headers="naissance">Le 15 février 1898<br />à Varennes-en-Argonne (Meuse)</td>
-    <td headers="mort">Le 19 juillet 1918<br />à Prosnes (Marne)</td>
+    <td headers="nom">LALLEMENT<br/>René Émile</td>
+    <td headers="naissance">Le 15 février 1898<br/>à Varennes-en-Argonne (Meuse)</td>
+    <td headers="mort">Le 19 juillet 1918<br/>à Prosnes (Marne)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">124e R.I</td>
     <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">LEFEVRE<br />Julien Henri</td>
-    <td headers="naissance">Le 19 novembre 1897<br />à St-Hilaire-le-Petit</td>
-    <td headers="mort">Le 19 août 1917<br />à Belrupt (Meuse)</td>
+    <td headers="nom">LEFEVRE<br/>Julien Henri</td>
+    <td headers="naissance">Le 19 novembre 1897<br/>à St-Hilaire-le-Petit</td>
+    <td headers="mort">Le 19 août 1917<br/>à Belrupt (Meuse)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">154e R.I</td>
     <td headers="genre">Blessure de guerre</td>
   </tr>
   <tr>
-    <td headers="nom">LEGRET<br />Henri François</td>
-    <td headers="naissance">Le 13 septembre 1881<br />à St-Hilaire-le-Petit</td>
-    <td headers="mort">Le 2 octobre 1918<br />à Gemeenhof (Belgique)</td>
+    <td headers="nom">LEGRET<br/>Henri François</td>
+    <td headers="naissance">Le 13 septembre 1881<br/>à St-Hilaire-le-Petit</td>
+    <td headers="mort">Le 2 octobre 1918<br/>à Gemeenhof (Belgique)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">152e R.I</td>
     <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">MASSON<br />Paul Eugène</td>
-    <td headers="naissance">Le 1 octobre 1874<br />à Sontrien (Marne)</td>
-    <td headers="mort">Le 16 août 1915<br />à Souchez (Pas-de-Calais)</td>
+    <td headers="nom">MASSON<br/>Paul Eugène</td>
+    <td headers="naissance">Le 1 octobre 1874<br/>à Sontrien (Marne)</td>
+    <td headers="mort">Le 16 août 1915<br/>à Souchez (Pas-de-Calais)</td>
     <td headers="grade">soldat</td>
-    <td headers="corps">60e B.C.P<br />8e comp.</td>
+    <td headers="corps">60e B.C.P<br/>8e comp.</td>
     <td headers="genre">Tué à l'ennemi</td>
   </tr>
 </table>
@@ -312,7 +297,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

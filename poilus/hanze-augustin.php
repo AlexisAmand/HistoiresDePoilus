@@ -124,7 +124,7 @@
     <figure>
         <a href="images/arbre-hanze.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille HANZE">
         <img src="miniatures/arbre-hanze.png" alt="Arbre généalogique simplifié de la famille HANZE" class="ArbreGenealogique"/></a>
-        <figcaption>Arbre simplifié de la famille HANZE<br />(cliquez pour agrandir)</figcaption>
+        <figcaption>Arbre simplifié de la famille HANZE<br/>(cliquez pour agrandir)</figcaption>
     </figure>
 
 	<table style="width:70%;caption-side: bottom;">
@@ -136,32 +136,32 @@
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>11 avril 1906</td><td>Route Nationale<br /> à Cousolre (Nord)</td>
+	            <td>11 avril 1906</td><td>Route Nationale<br/> à Cousolre (Nord)</td>
 	        </tr>
 	        <tr>
-	            <td>20 janvier 1910</td><td>10 rue du Pont-Neuf<br />à Valenciennes (Nord)</td>
+	            <td>20 janvier 1910</td><td>10 rue du Pont-Neuf<br/>à Valenciennes (Nord)</td>
 	        </tr>
 	        <tr>
-	            <td>2 octobre 1910</td><td>119 rue de Lille<br />à Valenciennes (Nord)</td>
+	            <td>2 octobre 1910</td><td>119 rue de Lille<br/>à Valenciennes (Nord)</td>
 	        </tr>
 	        <tr>
-	            <td>15 novembre 1912</td><td>rue de Maubeuge<br /> à Cousolre (Nord)</td>
+	            <td>15 novembre 1912</td><td>rue de Maubeuge<br/> à Cousolre (Nord)</td>
 	        </tr>
 	    </tbody>   
 	</table>    
 
-<p>Rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 aout 1914">décret de Mobilisation Générale</a> du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux-ges.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le <a href="../releves/cousolre.php">Monument aux Morts de cousolre</a> (où il était né) et sur les plaques commémoratives du square de l’Armistice à Carcassonne (où il était serrurier).</p>
+<p>Rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 aout 1914">décret de Mobilisation Générale</a> du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux-ges.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le <a href="../releves/cousolre.php">Monument aux Morts deCousolre</a> (où il était né) et sur les plaques commémoratives du square de l’Armistice à Carcassonne (où il était serrurier).</p>
 
 	<figure>
 	    <a href="sources/hanze-augustin.jpg" data-fancybox="gallery" data-caption="Augustin HANZE, mort pour la France">
 	    <img src="miniatures/hanze-augustin.jpg" alt="Fiche de mort pour la France d'Augustin HANZE"/></a>
-	    <figcaption>Augustin, mort pour la France.<br />(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
+	    <figcaption>Augustin, mort pour la France.<br/>(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
     </figure>
 
 	<figure>
 	    <a href="images/momument-cousolre.jpg" data-fancybox="gallery" data-caption="Inauguration du monument de Cousolre">
 	    <img src="miniatures/momument-cousolre.jpg" alt="Inauguration du monument de Cousolre le 29 juillet 1923"/></a>
-	    <figcaption>Inauguration du monument de Cousolre<br />(Le 29 juillet 1923)</figcaption>
+	    <figcaption>Inauguration du monument de Cousolre<br/>(Le 29 juillet 1923)</figcaption>
     </figure>
     
 <p>Le 23 mars 1920, Berthe se remarie avec <a href="tiburce-louis.php">Louis Henri François TIBURCE</a>, un préposé aux douanes né à Marly (Nord) le 20 aout 1889.</p>    
@@ -171,7 +171,7 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
+        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
         <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title=" ">Mémoire des Hommes</a> (Ministère de la Défense)</li>
         <li>Archives départementales du Nord</li>
     </ul> 
@@ -189,7 +189,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

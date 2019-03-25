@@ -119,38 +119,38 @@
 <figure>
     <a href="images/Wetzlar/wetzlar-01.jpg" data-fancybox="gallery" data-caption="Arrivage de vivres au camp de Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-01.jpg" alt="Arrivage de vivre dans le camp de Wetzlar pendant la Première Guerre Mondiale"></a>
-    <figcaption>Arrivage de vivres<br />(source allemande)</figcaption>
+    <figcaption>Arrivage de vivres<br/>(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Wetzlar/wetzlar-02.jpg" data-fancybox="gallery" data-caption="Chasseurs alpins au dîner au camp de Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-02.jpg" alt="Chasseurs alpins pendant le dîner au camp de Wetzlar pendant la Grande Guerre"></a>
-    <figcaption>Chasseurs alpins au dîner<br />(source allemande)</figcaption>
+    <figcaption>Chasseurs alpins au dîner<br/>(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Wetzlar/wetzlar-03.jpg" data-fancybox="gallery" data-caption="Médecins et garde-malades français devant l'infirmerie à Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-03.jpg" alt="Médecins et garde-malades français devant l'infirmerie du camp de Wetzlar pendant la Première Guerre Mondiale"></a>
-    <figcaption>Médecins et garde-malades français devant l'infirmerie<br />(source allemande)</figcaption>
+    <figcaption>Médecins et garde-malades français devant l'infirmerie<br/>(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Wetzlar/wetzlar-04.jpg" data-fancybox="gallery" data-caption="En petit comité au camp de Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-04.jpg" alt="Un groupe de prisonniers au camp de Wetzlard pendant la Première Guerre Mondiale"></a>
-    <figcaption>En petit comité<br />(source allemande)</figcaption>
+    <figcaption>En petit comité<br/>(source allemande)</figcaption>
 </figure>
 
 
 <figure>
     <a href="images/Wetzlar/wetzlar-05.jpg" data-fancybox="gallery" data-caption="Groupe de prisonniers russes au camp de Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-05.jpg" alt="Un groupe de prisonniers russes au camp de Wetzlard pendant la Première Guerre Mondiale"></a>
-    <figcaption>Groupe de prisonniers russes<br />(source allemande)</figcaption>
+    <figcaption>Groupe de prisonniers russes<br/>(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Wetzlar/wetzlar-06.jpg" data-fancybox="gallery" data-caption="Groupe de prisonniers russes au camp de Wetzlar">
     <img src="miniatures/Wetzlar/wetzlar-06.jpg" alt="Un groupe de prisonniers russes au camp de Wetzlard pendant la Première Guerre Mondiale"></a>
-    <figcaption>Groupe de prisonniers russes, Auguste au premier plan<br />(source allemande)</figcaption>
+    <figcaption>Groupe de prisonniers russes, Auguste au premier plan<br/>(source allemande)</figcaption>
 </figure>
 
 <h2>Sources et bibliographie</h2>
@@ -174,7 +174,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

@@ -104,7 +104,7 @@
 	<figure>
 	<a href="images/sens-ht-31.jpg" data-fancybox="gallery" data-caption="L'hôpital temporaire n°31 (Sens)">
     <img src="miniatures/sens-ht-31.jpg" alt="L'hôpital temporaire n°31 dans l'ancien grand séminaire de Sens'"></a>
-        <figcaption>L'hôpital temporaire n°31,<br />situé dans l'ancien grand séminaire</figcaption>
+        <figcaption>L'hôpital temporaire n°31,<br/>situé dans l'ancien grand séminaire</figcaption>
     </figure>
 
 <p class="sources">
@@ -120,7 +120,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

@@ -118,14 +118,14 @@
     <a href="images/friedrichsfeld-patates.jpg" data-fancybox="gallery" data-caption="Camp de Friedrichsfeld: Epluchage de pommes de terre dans la cour de l'hôpital">
     <img src="miniatures/friedrichsfeld-patates.jpg" alt="épluchage de pommes de terre dans la cour de l'hôpital du camp de Friedrichsfeld">
     </a>
-    <figcaption>Epluchages de pommes de terre dans la cour de l'hôpital<br />(source allemande)</figcaption>   
+    <figcaption>Epluchages de pommes de terre dans la cour de l'hôpital<br/>(source allemande)</figcaption>   
 </figure>
 
 <figure>
     <a href="images/friedrichsfeld-lazaret.jpg" data-fancybox="gallery" data-caption="Camp de Friedrichsfeld: Intérieur d'une baraque servant de Lazaret">
     <img src="miniatures/friedrichsfeld-lazaret.jpg" alt="intérieur d'une baraque servant de lazaret au camp de Friedrichsfeld">
     </a>
-    <figcaption>Intérieur d'une grande baraque servant de lazaret<br />(source allemande)</figcaption>   
+    <figcaption>Intérieur d'une grande baraque servant de lazaret<br/>(source allemande)</figcaption>   
 </figure>
 
 <p>L'espace occupé par les prisonniers comprend une superficie de 25 hectares entourée d'une triple rangée de fils de fer barbelés. Des baraquements en planches, construits par les prisonniers eux-mêmes, comptent en mai 1915 pas moins de 20 000 hommes dont 16000 français, 3000 russes, 500 belges, 300 anglais.</p>
@@ -164,21 +164,21 @@
     <a href="images/friedrichsfeld-03.jpg" data-fancybox="gallery" data-caption="Camp de Friedrichsfeld: La poste aux colis">
     <img src="miniatures/friedrichsfeld-03.jpg" alt="la poste au colis du camp de Friedrichsfeld pendant la Première Guerre Mondiale">
     </a>
-    <figcaption>La poste aux colis du camp<br /> (source allemande)</figcaption>
+    <figcaption>La poste aux colis du camp<br/> (source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/friedrichsfeld-04.jpg" data-fancybox="gallery" data-caption="Camp de Friedrichsfeld: Fumure au guano">
     <img src="miniatures/friedrichsfeld-04.jpg" alt="Fumure au guano dans les environs du camp de Friedrichsfeld pendant la Grande Guerre">
     </a>
-    <figcaption>Fumure au guano dans les environs du camp<br />(source allemande)</figcaption>
+    <figcaption>Fumure au guano dans les environs du camp<br/>(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/friedrichsfeld-05.jpg" data-fancybox="gallery" data-caption="Camp de Friedrichsfeld: Diverses ethnies">
     <img src="miniatures/friedrichsfeld-05.jpg" alt="diverses ethnies présentes au camp de Friedrichsfeld pendant la Première Guerre Mondiale">
     </a>
-    <figcaption>Diverses ethnies représentées au camp<br />(source allemande)</figcaption>
+    <figcaption>Diverses ethnies représentées au camp<br/>(source allemande)</figcaption>
 </figure>
 
 <h2>Sources et bibliographie</h2>
@@ -202,7 +202,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

@@ -102,7 +102,7 @@
 <figure>
 <a href="images/beziers-ht.jpg" data-fancybox="gallery" data-caption="Hôpital temporaire (Béziers)">
 <img src="miniatures/beziers-ht.jpg" alt="Hôpital temporaire n°23 de Cahors au Collége Henri IV"></a>
-    <figcaption>L'hôpital temporaire de Béziers,<br />au Collége Henri IV</figcaption>
+    <figcaption>L'hôpital temporaire de Béziers,<br/>au Collége Henri IV</figcaption>
 </figure>
 
 <h2>Cahors</h2>
@@ -110,7 +110,7 @@
     <figure>
     <a href="images/cahors-ht-23.jpg" data-fancybox="gallery" data-caption="Hôpital temporaire n°23 (Cahors)">
    	<img src="miniatures/cahors-ht-23.jpg" alt="Hôpital temporaire n°23 de Cahors au Lycée Gambetta"></a>
-    	<figcaption>L'hôpital temporaire n°23,<br />installé au Lycée Gambetta</figcaption>
+    	<figcaption>L'hôpital temporaire n°23,<br/>installé au Lycée Gambetta</figcaption>
     </figure>
 
 <h2>Gimont</h2>
@@ -126,7 +126,7 @@
 	<figure>
 	<a href="images/montauban-ht-25.jpg" data-fancybox="gallery" data-caption="Hôpital temporaire n°25 (Montauban)">
     <img src="miniatures/montauban-ht-25.jpg" alt="L'hôpital temporaire n°25 au pensionnat Jeanne d'Arc de Montauban"></a>
-        <figcaption>L'hôpital temporaire n°25<br />situé au pensionnat Jeanne d'Arc</figcaption>
+        <figcaption>L'hôpital temporaire n°25<br/>situé au pensionnat Jeanne d'Arc</figcaption>
     </figure>
 
 <h2>Pamiers</h2>
@@ -150,7 +150,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

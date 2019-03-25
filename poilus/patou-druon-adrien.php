@@ -121,9 +121,9 @@
 <p><strong>Druon Adrien PATOU</strong> est né le 31 mars 1885 à Sebourg (Nord), et est le cousin germain de <a href="CARLIER-Druon-Joseph.php" title="Biographie du poilu Druon Joseph CARLIER">Druon Joseph CARLIER</a> et <a href="CARLIER-Louis-Abraham.php" title="Biographie du poilu Louis Abraham CARLIER">Louis Abraham CARLIER</a>. Je n'ai pas encore pu trouver sa fiche matricule car beaucoup de fiches sont manquantes pour l'année 1905 au bureau de Valenciennes.</p>
 
 <p>
-ex-soldat du 251e régiment d'infanterie (251e RI)<br />
-Mort pour la France le 15-05-1924 (Sebourg, 59 - Nord, France)<br />
-Né(e) le/en 31-03-1885 à Sebourg (59 - Nord, France)<br />
+ex-soldat du 251e régiment d'infanterie (251e RI)<br/>
+Mort pour la France le 15-05-1924 (Sebourg, 59 - Nord, France)<br/>
+Né(e) le/en 31-03-1885 à Sebourg (59 - Nord, France)<br/>
 </p>
 
 <p class="sources">
@@ -139,7 +139,7 @@ Né(e) le/en 31-03-1885 à Sebourg (59 - Nord, France)<br />
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

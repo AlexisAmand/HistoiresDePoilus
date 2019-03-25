@@ -128,9 +128,9 @@
     {  
 ?>  
         <p id="success">Votre message a bien été envoyé.</p>  
-        <p><strong>Courriel pour la réponse :</strong><br /><?php echo( $from ); ?></p>  
-        <p><strong>Objet :</strong><br /><?php echo( $object ); ?></p>  
-        <p><strong>Message :</strong><br /><?php echo( nl2br( htmlspecialchars( $message ) ) ); ?></p>  
+        <p><strong>Courriel pour la réponse :</strong><br/><?php echo( $from ); ?></p>  
+        <p><strong>Objet :</strong><br/><?php echo( $object ); ?></p>  
+        <p><strong>Message :</strong><br/><?php echo( nl2br( htmlspecialchars( $message ) ) ); ?></p>  
 <?php  
     }  
     else // le formulaire est affiché pour la première fois ou le formulaire a été soumis mais contenait des erreurs  
@@ -151,15 +151,15 @@
 ?>  
         <form id='contact' method="post" action="<?php echo( $_SERVER['REQUEST_URI'] ); ?>">  
             <p>  
-                <label for="from">Courriel pour la réponse</label><br /> 
+                <label for="from">Courriel pour la réponse</label><br/> 
                 <input type="text" name="from" id="from" value="<?php echo( $from ); ?>" />  
             </p>  
             <p>  
-                <label for="object">Objet</label><br /> 
+                <label for="object">Objet</label><br/> 
                 <input type="text" name="object" id="object" value="<?php echo( $object ); ?>" />  
             </p>   
             <p>  
-                <label for="message">Message</label><br />  
+                <label for="message">Message</label><br/>  
                 <textarea name="message" id="message" rows="20" cols="80"><?php echo( $message ); ?></textarea>  
             </p>  
             <p>  
@@ -187,7 +187,7 @@ echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod());
     <a href="contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('include/stats.inc'); ?>

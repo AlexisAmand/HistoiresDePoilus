@@ -123,7 +123,7 @@
 	<figure>
 	    <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="La famille CARIN">
 	    <img src="miniatures/arbre-carin.png" alt="arbre généalogique de la Famille Carin de Lourches et Roeulx"  class="ArbreGenealogique"></a>
-	    <figcaption>Arbre généalogique de la famille CARIN<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Arbre généalogique de la famille CARIN<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 	<figure>
@@ -174,13 +174,13 @@
   
 	<figure>	    
 	    <img src="miniatures/planFroideterre.jpg" alt="plan de l'ouvrage de Froideterre">
-	    <figcaption>Plan de l'ouvrage de Froideterre<br />(source: <a href="http://www.verdun-meuse.fr/">http://www.verdun-meuse.fr/</a>) </figcaption>
+	    <figcaption>Plan de l'ouvrage de Froideterre<br/>(source: <a href="http://www.verdun-meuse.fr/">http://www.verdun-meuse.fr/</a>) </figcaption>
 	</figure>
 
 	<figure>
 	    <a href="images/froideterre.jpg"  data-fancybox="gallery" data-caption="Froideterre peint par E. Barthelemy">
 	    <img src="miniatures/froideterre.jpg" alt="Tableau représentant Froideterre peint par E. Barthelemy"/></a>
-	    <figcaption>Devant Froideterre<br />(Tableau de E. Barthelemy)</figcaption>
+	    <figcaption>Devant Froideterre<br/>(Tableau de E. Barthelemy)</figcaption>
 	</figure> 
 
 <p>Léon CARIN est quant à lui porté disparu le 7 avril 1916 à Haucourt (Meuse, et non Marne comme indiqué sur la fiche matricule) alors que son régiment venait juste de s'installer pour relever le 69e Régiment d'Infanterie à Hautcourt et vers l'ouvrage de Palavas. Son nom est indiqué sur la liste des disparus du JMO du 153e R.I. (page 16). </p>
@@ -188,7 +188,7 @@
 	<figure>
 	    <a href="images/153eRI-JMO.jpg"  data-fancybox="gallery" data-caption="Extrait du Journal des marches et des opérations du 153e RI">
 	    <img src="miniatures/153eRI-JMO.jpg" alt="extrait du Journal des marches et des opérations du 153e régiment d'infanterie"/></a>
-	    <figcaption>Extrait du JMO du 153e R.I<br />(source: Ministère de la Défense)</figcaption>
+	    <figcaption>Extrait du JMO du 153e R.I<br/>(source: Ministère de la Défense)</figcaption>
 	</figure> 
 
 <p>Son décès est fixé au 7 avril 1916 par jugement déclaratif rendu le 2 juin 1921 par le tribunal de Valenciennes. Le décès est transcrit le 5 juillet 1921 à la mairie de Roeulx et son nom figure sur le Monument aux Morts de la commune.</p>
@@ -202,8 +202,8 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
-         <li><a href="https://archive.org/details/19141918iedixneu01chriuoft">La Grande Guerre, vécue - racontée - illustrée par les combattants (tome 1)</a><br />(Publiée sous la Direction de Christian-Frogé, 1922)</li>     
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
+         <li><a href="https://archive.org/details/19141918iedixneu01chriuoft">La Grande Guerre, vécue - racontée - illustrée par les combattants (tome 1)</a><br/>(Publiée sous la Direction de Christian-Frogé, 1922)</li>     
     </ul>
 
 <p class="sources">
@@ -219,7 +219,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

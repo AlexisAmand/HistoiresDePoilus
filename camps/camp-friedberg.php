@@ -105,18 +105,18 @@
 
 <h1>Le camp de prisonniers de Friedberg</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br /><p>Le « Rapports des Délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne » indique que vers la fin de l’année 1917, tous les prisonniers ont été transférés au camp d'Eutin.</p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br/><p>Le « Rapports des Délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne » indique que vers la fin de l’année 1917, tous les prisonniers ont été transférés au camp d'Eutin.</p>
 
 <figure>
     <a href="images/Friedberg/friedberg-01.jpg" data-fancybox="gallery" data-caption="Le camp de Friedberg">
     <img src="miniatures/Friedberg/friedberg-01.jpg" alt="Appel des ordonnances des officiers russes dans le camp de Friedberg pendant la Première Guerre Mondiale"></a>
-    <figcaption>Appel des ordonnances des officiers russes (vers 1915)<br />(source allemande)</figcaption>
+    <figcaption>Appel des ordonnances des officiers russes (vers 1915)<br/>(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Friedberg/friedberg-02.jpg" data-fancybox="gallery" data-caption="Le camp de Friedberg">
     <img src="miniatures/Friedberg/friedberg-02.jpg" alt="La cantine et la Kommandantur du camp de prisonniers de Friedberg"></a>
-    <figcaption>La cantine et la Kommandantur<br />(Carte postale)</figcaption>
+    <figcaption>La cantine et la Kommandantur<br/>(Carte postale)</figcaption>
 </figure>
 
 <h2>Sources et bibliographie</h2>
@@ -140,7 +140,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

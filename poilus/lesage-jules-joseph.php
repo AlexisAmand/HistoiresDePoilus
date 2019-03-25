@@ -130,16 +130,16 @@
 	    </thead>
 	    <tbody>
         <tr>
-            <td>13 juillet 1917</td><td>Chez Me Veuve ARSENE<br/>Vieux Coron<br />à Barlin (Pas-de-Calais)</td>
+            <td>13 juillet 1917</td><td>Chez Me Veuve ARSENE<br/>Vieux Coron<br/>à Barlin (Pas-de-Calais)</td>
         </tr>
         <tr>
-            <td>26 octobre 1920</td><td>Coron Tout Quitte<br />à Roeulx (Nord)</td>
+            <td>26 octobre 1920</td><td>Coron Tout Quitte<br/>à Roeulx (Nord)</td>
         </tr>
         <tr>
-            <td>28 juin 1922</td><td>45 Rue Socrate<br />à Lourches (Nord)</td>
+            <td>28 juin 1922</td><td>45 Rue Socrate<br/>à Lourches (Nord)</td>
         </tr>
         <tr>
-            <td>8 septembre 1924</td><td>62 Rue de la République<br />à Roeulx (Nord)</td>            
+            <td>8 septembre 1924</td><td>62 Rue de la République<br/>à Roeulx (Nord)</td>            
         </tr>
         </tbody>
     </table>
@@ -157,7 +157,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

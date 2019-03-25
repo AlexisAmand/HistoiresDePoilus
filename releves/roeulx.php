@@ -61,7 +61,7 @@
 <li><a href="anzin.php">Anzin</a></li>
 <li><a href="bry.php">Bry</a></li>
 <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
-<li><a href="cousolre.php">cousolre</a></li> 
+<li><a href="cousolre.php">Cousolre</a></li> 
 <li><a href="eth.php">Eth</a></li>
 <li><a href="gussignies.php">Gussignies</a></li>
 <li><a href="lourches.php">Lourches</a></li>
@@ -102,7 +102,7 @@
 
 </ul>
    
-    <div id="pubaside">
+   <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
@@ -128,9 +128,8 @@
 
 <figure>
     <a href="images/roeulx-monument.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Roeulx">
-    <img src="images/mini/roeulx-monument.jpg" alt="le Monument aux Morts pour la France de Roeulx sur une carte postale ancienne"/>
-    </a>
-    <figcaption>Le Monument aux Morts<br />(Source: Google Map)</figcaption>
+    <img src="images/mini/roeulx-monument.jpg" alt="le Monument aux Morts pour la France de Roeulx sur une carte postale ancienne"/></a>
+    <figcaption>Le Monument aux Morts<br/>(Source: Google Map)</figcaption>
 </figure>
 
 <p></p>
@@ -138,16 +137,16 @@
 <table>
   <thead>
   <tr>
-    <th id="nom" width="158px">Nom et prénom(s)</th>
-    <th id="naissance" width="158px">Date et lieu<br />de naissance</th>
-    <th id="mort" width="158px">Date et lieu<br />de décès</th>
-    <th id="grade" width="45px">Grade</th>
-    <th id="corps" width="70px">Corps</th>
-    <th id="genre" width="90px">Genre<br />de mort</th>
+    <th id="nom">Nom et prénom(s)</th>
+    <th id="naissance">Date et lieu<br/>de naissance</th>
+    <th id="mort">Date et lieu<br/>de décès</th>
+    <th id="grade">Grade</th>
+    <th id="corps">Corps</th>
+    <th id="genre">Genre<br/>de mort</th>
   </tr>
   </thead>
   <tr>
-    <td headers="nom"><a href="../poilus/CARIN-Edouard.php">CARIN<br />Edouard</a></td>
+    <td headers="nom"><a href="../poilus/CARIN-Edouard.php">CARIN<br/>Edouard</a></td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="grade">&nbsp;</td>
@@ -155,7 +154,7 @@
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-  	<td headers="nom"><a href="../poilus/poilus/CARIN-Leon.php">CARIN<br />Leon</a></td>
+  	<td headers="nom"><a href="../poilus/poilus/CARIN-Leon.php">CARIN<br/>Leon</a></td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="grade">&nbsp;</td>
@@ -185,7 +184,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

@@ -167,6 +167,20 @@ thead, .TitreHorizontalTab {background-color:#D3CECE}
 
 tr{height:47px}
 
+#nom {width:158px}
+
+#naissance {width:158px}
+
+#mort {width:158px}
+
+#corps { width:70px}
+
+#genre {width:90px}
+
+#grade {width:90px}
+
+#classe {width:45px}
+
 /* ---------------- */
 /* Videos et images */ 
 /* ---------------- */

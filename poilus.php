@@ -66,7 +66,7 @@
 
 <figure>
     <img src="poilus/miniatures/depart-des-poilus-Albert-Herter.jpg" alt="Le départ des poilus par Albert Herbert">
-    <figcaption>Le Départ des Poilus<br />(par Albert Herbert)</figcaption>
+    <figcaption>Le Départ des Poilus<br/>(par Albert Herbert)</figcaption>
 </figure>
 
 <p>Dès l’été 1914, la France et l’Allemagne étaient en position de force. En effet, le service militaire obligatoire leurs permettait de mobiliser un nombre très important d’hommes : 3,6 millions pour la France et 4 millions pour l’Allemagne.  Ces chiffres sont toutefois à relativiser car ils prennent en compte les territoriaux qui sont chargés de faire fonctionner l’administration de guerre et de garder les voies de communication (c’est par exemple le cas de <a href="poilus/JOLY-Noel-Jules.php" title="Biographie du poilus Noël JOLY">Noël JOLY</a> ou d'<a href="poilus/MAILLART-Alexandre.php" title="Biographie du poilus Alexandre MAILLART">Alexandre MAILLART</a>). Il faut donc ramener le nombre de combattants à 1,3 millions pour la France et 1,5 millions pour l’Allemagne. De plus, en cas de guerre, la classe première à marcher pouvait être appelée par anticipation. C'est pourquoi l'armée active comprenait également en août la classe 1913 (hommes nés en 1893) qui n'aurait dû être appelée qu'à l'automne.</p>
@@ -98,13 +98,13 @@
 
 <figure>
     <img src="poilus/miniatures/volontaires-britanniques.jpg" alt="des volontaires britanniques en 1914">
-    <figcaption>Volontaires britanniques en août 1914<br />(source : <a href="https://www.iwm.org.uk/">Imperial War Museums</a>)</figcaption>
+    <figcaption>Volontaires britanniques en août 1914<br/>(source : <a href="https://www.iwm.org.uk/">Imperial War Museums</a>)</figcaption>
 </figure>
   
 <h2>Le bilan de la Grande Guerre</h2>
 
     <table class="tab_camp">
-        <caption>Le bilan humain de la Grande Guerre<br />(Source : The Great War and the British People par J. Winter)</caption>
+        <caption>Le bilan humain de la Grande Guerre<br/>(Source : The Great War and the British People par J. Winter)</caption>
         <thead>
         <tr>
             <td>&nbsp;</td>
@@ -248,7 +248,7 @@
     <a href="contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-2018 - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-2018 - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('include/stats.inc'); ?>

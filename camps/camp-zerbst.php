@@ -121,14 +121,14 @@
     <a href="images/Zerbst/zerbst-01.jpg" data-fancybox="gallery" data-caption="Vue du camp de Zerbst">
     <img src="miniatures/Zerbst/zerbst-01.jpg" alt="Vue du camp de prisonniers de Zerbst pendant la Grande Guerre"></a>
     <figcaption>Vue du camp de Zerbst
-    <br />(source allemande)</figcaption>
+    <br/>(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Zerbst/zerbst-02.jpg" data-fancybox="gallery" data-caption="Une cérémonie au camp de Zerbst">
     <img src="miniatures/Zerbst/zerbst-02.jpg" alt="Une cérémonie au camp de prisonnier de Zerbst pendant la Première Guerre Mondiale"></a>
     <figcaption>Une cérémonie au camp de Zerbst
-    <br />(carte postale)</figcaption>
+    <br/>(carte postale)</figcaption>
 </figure>
 
 <p>Les 200 belges présents dans le camp de Zerbst ont été rapatriés via Enschede (Pays-Bas) le 7 janvier 1919.</p>
@@ -146,7 +146,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

@@ -78,28 +78,28 @@
     <a href="images/Harderwijk/harderwijk-01.jpg" data-fancybox="gallery" data-caption="Le camp de Harderwijk">
     <img src="miniatures/Harderwijk/harderwijk-01.jpg" alt="Une cantine du camp d'internement de Harderwijk pendant la Grande Guerre">
     </a>
-    <figcaption>Une cantine à Harderwijk<br />(Carte postale)</figcaption>
+    <figcaption>Une cantine à Harderwijk<br/>(Carte postale)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Harderwijk/harderwijk-02.jpg" data-fancybox="gallery" data-caption="Le camp de Harderwijk">
     <img src="miniatures/Harderwijk/harderwijk-02.jpg" alt="Le camp d'internement d'Harderwijk pendant la Première Guerre Mondiale">
     </a>
-    <figcaption>Le camp de Harderwijk<br />(Carte postale)</figcaption>
+    <figcaption>Le camp de Harderwijk<br/>(Carte postale)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Harderwijk/harderwijk-03.jpg" data-fancybox="gallery" data-caption="Le camp de Harderwijk">
     <img src="miniatures/Harderwijk/harderwijk-03.jpg" alt="Le camp d'internement d'Harderwijk pendant la Grande Guerre">
     </a>
-    <figcaption>Le camp de Harderwijk<br />(Carte postale)</figcaption>
+    <figcaption>Le camp de Harderwijk<br/>(Carte postale)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Harderwijk/harderwijk-04.jpg" data-fancybox="gallery"  title="Le camp de Harderwijk">
     <img src="miniatures/Harderwijk/harderwijk-04.jpg" alt="Salle de billards des soldats du camps d'internement d'Harderwijk pendant la Première Guerre Mondiale">
     </a>
-    <figcaption>La salle de billards des soldats<br />(Carte postale)</figcaption>
+    <figcaption>La salle de billards des soldats<br/>(Carte postale)</figcaption>
 </figure>
 
 <p class="sources">
@@ -115,7 +115,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

@@ -123,7 +123,7 @@
     <figure>
         <a href="sources/boucher-naissance-1880.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Gervais BOUCHER">
         <img src="miniatures/boucher-naissance-1880.jpg" alt="Acte de naissance de Gervais BOUCHER trouvé sur le site des archives du Nord"/></a>
-        <figcaption>Acte de décès de Gervais BOUCHER<br />(Source: Archives Départementales du Nord)</figcaption>
+        <figcaption>Acte de décès de Gervais BOUCHER<br/>(Source: Archives Départementales du Nord)</figcaption>
     </figure>
 
 <p>Fils légitime de Pierre Joseph et Anne Marie Lucette DELHAYE, il commence sa carrière militaire à l'âge de 20 ans quand il s'engage en tant que volontaire pour 3 ans le 17 octobre 1900 à la Mairie de Valenciennes. Au passage, je voudrais vous rappeler qu'il existait 3 sortes d'engagés volontaires: les engagés volontaires pour une durée de 3 à 5 ans, ceux engagés pour la durée de la guerre et qui étaient reçus à partir du 20e jour de la mobilisation, et enfin les engagements spéciaux des exemptés, réformés et des hommes âgés.</p>
@@ -131,7 +131,7 @@
     <figure>
         <a href="images/mairie-valenciennes.jpg" data-fancybox="gallery" data-caption="La Place d'Armes de Valenciennes">
         <img src="miniatures/mairie-valenciennes.jpg" alt="L'Hôtel de Ville de Valenciennes et la Place d'Armes"/></a>
-        <figcaption>La Place d'Armes de Valenciennes,<br />avec vue sur l'Hôtel de Ville<br>(Source: Delcampe)</figcaption>
+        <figcaption>La Place d'Armes de Valenciennes,<br/>avec vue sur l'Hôtel de Ville<br/>(Source: Delcampe)</figcaption>
     </figure>
 
 <p>Il rejoint alors la 1ere compagnie d'ouvrier d'artillerie où il arrive le lendemain et est immatriculé sous le n°677. Durant son engagement, il suit une formation et devient ouvrier en bois. Son engagement terminé, il part vivre à Calais (62) avec le certificat de bonne conduite accordé. Le 5 Juin 1905, Gervais épouse à Onnaing Marie Céline MASCART, une descendante d'Antoine MASCART (1721-1797) et Michelle BRACONNIER (1684-1727), mes sosas n°644 et 645. Dix ans plus tard, quand la guerre éclate, il est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 aout 1914">décret de mobilisation générale</a> du 1er août 1914 et rejoint le 1er R.A.P Il est fait prisonnier à Maubeuge le 7 septembre 1914 et est envoyé en internement à <a href="../camps/camp-munster.php" title="Le camp de prisonniers de Munster">Munster III</a> d'où il sera rapatrié le 8 décembre 1918. Il est envoyé en congés illimités le 17 février 1919 aprés une permission de 60 jours. Gervais est décédé à son domicile situé <a href="http://cartespostalesanciennes.genealexis.fr/image/421-valenciennes-le-depart-du-tramway-rue-de-mons" title="Le départ du Tramway, rue de Mons, à Valenciennes">Rue de Mons à Valenciennes</a>, le 27 décembre 1964.</p>
@@ -139,7 +139,7 @@
     <figure>
         <a href="../camps/images/camps_prisonniers_munster_01.jpg" data-fancybox="gallery" data-caption="Le retour des corvées à Münster III">
         <img src="../camps/miniatures/camps_prisonniers_munster_01.jpg" alt="Des soldats de retour des corvées au camp de Münster III"></a>
-        <figcaption>Le retour des corvées à Munster III<br />(Carte postale)</figcaption>
+        <figcaption>Le retour des corvées à Munster III<br/>(Carte postale)</figcaption>
     </figure>
         
 <p class="sources">
@@ -155,7 +155,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

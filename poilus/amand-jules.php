@@ -91,7 +91,7 @@
  	<figure>
         <a href="images/arbre-amand.png" data-fancybox="gallery" data-caption=" ">
         <img src="miniatures/arbre-amand.png" alt=" " class="ArbreGenealogique" style="width:597px;"></a>
-        <figcaption>Fiche Sépultures et cimetières militaires<br />(Source: War Heritage Institute)</figcaption>
+        <figcaption>Fiche Sépultures et cimetières militaires<br/>(Source: War Heritage Institute)</figcaption>
     </figure>
     
 <p>Soldat de 2e classe et milicien au sein du 9e Régiment de Ligne pendant la Grande Guerre sous le matricule 109/54524. Sa fiche sépulture indique qu'il est probable qu'il soit tombé au combat le 6 août 1914 au Bois Saint-Jean à Ougrée (prés de Liège) étant entendu que son livret de mobilisation a été retrouvé sur le champ de bataille de cette commune. L'ancêtre que j'ai en commun avec lui est Jean Joseph AMAND, mon sosa n°256, 8 générations avant moi. (source: <a href="https://www.wardeadregister.be/fr">Dead War Register</a>)</p>
@@ -99,25 +99,25 @@
     <figure>
         <a href="sources/amand-jules-01.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
         <img src="miniatures/amand-jules-01.jpg" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
-        <figcaption>Fiche Sépultures et cimetières militaires<br />(Source: War Heritage Institute)</figcaption>
+        <figcaption>Fiche Sépultures et cimetières militaires<br/>(Source: War Heritage Institute)</figcaption>
     </figure>
 
 	<figure>
         <a href="sources/amand-jules-02.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
         <img src="miniatures/amand-jules-02.jpg" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
-        <figcaption>Fiche Sépultures et cimetières militaires<br />(Source: War Heritage Institute)</figcaption>
+        <figcaption>Fiche Sépultures et cimetières militaires<br/>(Source: War Heritage Institute)</figcaption>
     </figure>
     
     <figure>
         <a href="sources/amand-jules-03.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
         <img src="miniatures/amand-jules-03.jpg" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
-        <figcaption>Fiche Sépultures et cimetières militaires<br />(Source: War Heritage Institute)</figcaption>
+        <figcaption>Fiche Sépultures et cimetières militaires<br/>(Source: War Heritage Institute)</figcaption>
     </figure>
 
     <figure>
     	<a href="images/ougree.jpg" data-fancybox="gallery" data-caption="Jules AMAND sur le monument d'Ougrée en Belgique">
     	<img src="miniatures/ougree.jpg" alt="Jules AMAND sur le monument d'Ougrée en Belgique"/></a>
-    	<figcaption>Jules sur le monument d'Ougrée<br>(Source: <a href="http://www.bel-memorial.org">Bel-Memorial</a>)</figcaption>
+    	<figcaption>Jules sur le monument d'Ougrée<br/>(Source: <a href="http://www.bel-memorial.org">Bel-Memorial</a>)</figcaption>
     </figure>
 
 <p class="sources">
@@ -133,7 +133,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

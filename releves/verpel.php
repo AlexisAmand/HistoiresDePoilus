@@ -61,7 +61,7 @@
   <li><a href="anzin.php">Anzin</a></li>
   <li><a href="bry.php">Bry</a></li>
   <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
-  <li><a href="cousolre.php">cousolre</a></li> 
+  <li><a href="cousolre.php">Cousolre</a></li> 
   <li><a href="eth.php">Eth</a></li>
   <li><a href="gussignies.php">Gussignies</a></li>
   <li><a href="lourches.php">Lourches</a></li>
@@ -102,7 +102,7 @@
   
 </ul>
    
-      <div id="pubaside">
+   <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
@@ -126,80 +126,80 @@
 
 <figure>
     <a href="images/monument-verpel.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Verpel">
-    <img src="images/mini/monument-verpel.jpg" alt="le Monument aux Morts de Verpel sur une carte postale ancienne"/>
-    </a>
-    <figcaption>Le Monument aux Morts<br />(cliquez pour agrandir)</figcaption>
+    <img src="images/mini/monument-verpel.jpg" alt="le Monument aux Morts de Verpel sur une carte postale ancienne"/></a>
+    <figcaption>Le Monument aux Morts<br/>(cliquez pour agrandir)</figcaption>
 </figure>
 
 <p></p>
 
 <table>
+
   <thead>
   <tr>
-    <td width="158px">Nom et prénom(s)</td>
-    <td width="158px">Date et lieu<br />de naissance</td>
-    <td width="158px">Date et lieu<br />de décès</td>
-    <td width="70px">Corps</td>
-    <td width="90px">Genre<br />de mort</td>
+    <th id="nom" width="158px">Nom et prénoms</th>
+    <th id="naissance" width="158px">Date et lieu<br/>de naissance</th>
+    <th id="mort" width="158px">Date et lieu<br/>de décès</th>
+    <th id="corps" width="70px">Corps</th>
+    <th id="genre" width="90px">Genre<br/>de mort</th>
    </tr>
-   </thead>
+  </thead>
   <tr>
-    <td>BOGUD<br />Paulin Stanislas</td>
-    <td>Le 15 janvier 1892<br />à Verpel</td>
-    <td>Le 31 juillet 1916<br />à Falkenau près de Floha (Saxe)</td>
-    <td>164e R.I</td>
-    <td>Accident en captivité</td>
+    <td headers="nom">BOGUD<br/>Paulin Stanislas</td>
+    <td headers="naissance">Le 15 janvier 1892<br/>à Verpel</td>
+    <td headers="mort">Le 31 juillet 1916<br/>à Falkenau près de Floha (Saxe)</td>
+    <td headers="corps">164e R.I</td>
+    <td headers="genre">Accident en captivité</td>
   </tr>
   <tr>
-    <td>BOUCHER<br />Henri Pierre Hubert</td>
-    <td>Le 25 mai 1891<br />à Verpel</td>
-    <td>Le 17 août 1917<br />à l'Hôtel-Dieu de Lyon (Rhône)</td>
-    <td>235e R.I</td>
-    <td>Blessures de Guerre</td>
+    <td headers="nom">>BOUCHER<br/>Henri Pierre Hubert</td>
+    <td headers="naissance">Le 25 mai 1891<br/>à Verpel</td>
+    <td headers="mort">Le 17 août 1917<br/>à l'Hôtel-Dieu de Lyon (Rhône)</td>
+    <td headers="corps">235e R.I</td>
+    <td headers="genre">Blessures de Guerre</td>
     </tr>
   <tr>
-    <td>BOUDET<br />Marc François</td>
-    <td>Le 19 août 1893<br />à Verpel</td>
-    <td>Le 16 avril 1917<br />au Bois de la Bovette (Aisne)</td>
-    <td>132e R.I</td>
-    <td>Tué à l'ennemi</td>
+    <td headers="nom">>BOUDET<br/>Marc François</td>
+    <td headers="naissance">Le 19 août 1893<br/>à Verpel</td>
+    <td headers="mort">Le 16 avril 1917<br/>au Bois de la Bovette (Aisne)</td>
+    <td headers="corps">132e R.I</td>
+    <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
-    <td>CHAMELOT<br />Paul Léon</td>
-    <td>Le 11 février 1882<br />à Verpel</td>
-    <td>Le 1 octobre 1915<br />à Saint-Hilaire-le-Grand (Marne)</td>
-    <td>154e R.I</td>
-    <td>Disparu</td>
-    </tr>
-  <tr>
-    <td>DIEUDONNE<br />Paul</td>
-    <td>Le 18 mai 1892<br />à Verpel</td>
-    <td>Le 5 mars 1915<br />à Bois de la Gruerie (Marne)</td>
-    <td>161e R.I</td>
-    <td>Tué à l'ennemi</td>
-    </tr>
-  <tr>
-    <td>GERMOND<br />Robert</td>
-    <td>Le 26 novembre 1898<br />à Verpel</td>
-    <td>Le 1er septembre 1918<br />à Beauvais (Oise)</td>
-    <td>287e R.I</td>
-    <td>Blessures de Guerre</td>
-    </tr>
-  <tr>
-    <td>MIQUEL<br />Georges</td>
-    <td>Le 15 mars 1885<br />à Verpel</td>
-    <td>Le 12 septembre 1916<br />à Regnieville (M. et Moselle)</td>
-    <td>7e R.I</td>
-    <td>Tué à l'ennemi</td>
+    <td headers="nom">>CHAMELOT<br/>Paul Léon</td>
+    <td headers="naissance">Le 11 février 1882<br/>à Verpel</td>
+    <td headers="mort">Le 1 octobre 1915<br/>à Saint-Hilaire-le-Grand (Marne)</td>
+    <td headers="corps">154e R.I</td>
+    <td headers="genre">Disparu</td>
   </tr>
   <tr>
-    <td>PIESVAUX<br />Gaston Ferdinand</td>
-    <td>Le 16 avril 1892<br />à Verpel</td>
-    <td>Le 14 décembre 1914<br />à Ornes (Meuse)</td>
-    <td>165e R.I</td>
-    <td>Tué à l'ennemi</td>
+    <td headers="nom">>DIEUDONNE<br/>Paul</td>
+    <td headers="naissance">Le 18 mai 1892<br/>à Verpel</td>
+    <td headers="mort">Le 5 mars 1915<br/>à Bois de la Gruerie (Marne)</td>
+    <td headers="corps">161e R.I</td>
+    <td headers="genre">Tué à l'ennemi</td>
   </tr>
-  </table>
+  <tr>
+    <td headers="nom">>GERMOND<br/>Robert</td>
+    <td headers="naissance">Le 26 novembre 1898<br/>à Verpel</td>
+    <td headers="mort">Le 1er septembre 1918<br/>à Beauvais (Oise)</td>
+    <td headers="corps">287e R.I</td>
+    <td headers="genre">Blessures de Guerre</td>
+  </tr>
+  <tr>
+    <td headers="nom">>MIQUEL<br/>Georges</td>
+    <td headers="naissance">Le 15 mars 1885<br/>à Verpel</td>
+    <td headers="mort">Le 12 septembre 1916<br/>à Regnieville (M. et Moselle)</td>
+    <td headers="corps">7e R.I</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr>
+  <tr>
+    <td headers="nom">>PIESVAUX<br/>Gaston Ferdinand</td>
+    <td headers="naissance">Le 16 avril 1892<br/>à Verpel</td>
+    <td headers="mort">Le 14 décembre 1914<br/>à Ornes (Meuse)</td>
+    <td headers="corps">165e R.I</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr>
+</table>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
@@ -214,7 +214,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 
@@ -225,6 +225,5 @@
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 <script type="text/javascript" src="../js/script.js"></script>
 
- 
 </body>
 </html>

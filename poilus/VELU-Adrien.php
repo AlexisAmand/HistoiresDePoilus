@@ -123,7 +123,7 @@
 	<figure>
 	    <a href="images/matricule-adrien-velu.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Adrien VELU">
 	    <img src="miniatures/matricule-adrien-velu.jpg" alt="Extrait de la fiche matricule d'Adrien VELU"/></a>
-	    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir - Archives Départementales du Nord)</figcaption>
+	    <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir - Archives Départementales du Nord)</figcaption>
 	</figure>
 
 	<table style="width:70%;caption-side: bottom;">
@@ -158,7 +158,7 @@
 	<figure>
 	    <a href="images/Assaut-chemin-des-dames.jpg" data-fancybox="gallery" data-caption="Soldats français sur le Chemin des Dames">
 	    <img src="miniatures/Assaut-chemin-des-dames.jpg" alt="Des soldats français à l'assaut au Chemin de Dames"/></a>
-	    <figcaption>Assaut français sur le Chemin des Dames<br />(cliquez pour agrandir - Archives du Queensland, Australie)</figcaption>
+	    <figcaption>Assaut français sur le Chemin des Dames<br/>(cliquez pour agrandir - Archives du Queensland, Australie)</figcaption>
 	</figure>
     
 <p>3300 de ses hommes, dont <strong>Adrien</strong>, donneront leurs vies et lui vaudront quatre citations à l'ordre de l'armée. Le 19 octobre 1918, le Général de CASTELNAU le décore de la fourragère au couleur de la médaille militaire.</p>
@@ -170,7 +170,7 @@
 	<figure>
 	    <a href="sources/VELU-Adrien-mpf.jpg" data-fancybox="gallery" data-caption="Adrien VELU, mort pour la France">
 	    <img src="miniatures/VELU-Adrien-mpf.jpg" alt="Fiche de mort pour la France d'Adrien VELU"/></a>
-	    <figcaption>Adrien VELU, mort pour la France<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Adrien VELU, mort pour la France<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 <p>Apolline BRIOT, sa veuve, reçoit la somme de 150 francs. Son nom est sur le Monument aux Morts de Villers-Guislain mais son corps repose au carré militaire de l'est du cimetière communal de Châlons-en-Champagne.</p>
@@ -178,13 +178,13 @@
 	<figure>
 	    <a href="../images/cimetiere-communal.jpg" data-fancybox="gallery" data-caption="Le cimetière militaire de Châlons-sur-Marne">
 	    <img src="../images/cimetiere-communal.jpg" alt="Le cimetière militaire de Châlons-sur-Marne sur une carte postale ancienne"/></a>
-	    <figcaption>Le cimetière militaire de Châlons-sur-Marne<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Le cimetière militaire de Châlons-sur-Marne<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 <h2>Sources et bibliographie</h2>
     
     <ul>
-         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>      
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>      
     </ul>
 
 <p class="sources">
@@ -200,7 +200,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

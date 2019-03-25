@@ -131,23 +131,23 @@
 	    <tbody>
 	        <tr>
 	            <td>10 mai 1896</td>
-	            <td>Annezin<br />(Pas-de-Calais)</td>
+	            <td>Annezin<br/>(Pas-de-Calais)</td>
 	        </tr>
 	        <tr>
 	            <td>13 septembre 1896</td>
-	            <td>Chez Auguste DESCAMPS<br />à Montigny-en-Gohelle (Pas-de-Calais)</td>
+	            <td>Chez Auguste DESCAMPS<br/>à Montigny-en-Gohelle (Pas-de-Calais)</td>
 	        </tr>
 	        <tr>
 	            <td>28 avril 1906</td>
-	            <td>Chez Mr DOUTRICOURT<br />Rue du Marais<br />à Fouquières-lès-Lens (Pas-de-Calais)</td>
+	            <td>Chez Mr DOUTRICOURT<br/>Rue du Marais<br/>à Fouquières-lès-Lens (Pas-de-Calais)</td>
 	        </tr>
 	        <tr>
 	            <td>25 mars 1912</td>
-	            <td>Corons n°25<br />à Rouvroy (Pas-de-Calais)</td>           
+	            <td>Corons n°25<br/>à Rouvroy (Pas-de-Calais)</td>           
 	        </tr>
 	        <tr>
 	            <td>10 janvier 1916</td>
-	            <td>Place de la Mairie<br />à Saint-Genest-Lerpt (Loire)</td>           
+	            <td>Place de la Mairie<br/>à Saint-Genest-Lerpt (Loire)</td>           
 	        </tr>
         </tbody>
     </table>
@@ -165,7 +165,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

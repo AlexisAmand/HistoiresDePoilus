@@ -98,7 +98,7 @@
 	<figure>
 	    <a href="images/arbre-michel.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille MICHEL">
 	    <img src="miniatures/arbre-michel.png" alt="Arbre généalogique simplifié de la famille MICHEL" class="ArbreGenealogique"/></a>
-	    <figcaption>Arbre simplifié de la famille MICHEL<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Arbre simplifié de la famille MICHEL<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 <h2>La mobilisation d'août 1914</h2>
@@ -116,7 +116,7 @@
 	<figure>
 	    <a href="portraits/Max_von_Hausen.jpg" data-fancybox="gallery" data-caption="portrait du Baron Max Von Hausen">
 	    <img src="miniatures/Max_von_Hausen.jpg" alt="portrait du Baron Max Von Hausen"/></a>
-	    <figcaption>Max Von Hausen<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Max Von Hausen<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 <br/><h2>Firmin, mort pour la France</h2>
@@ -126,7 +126,7 @@
 	<figure>
 	    <a href="sources/MICHEL-Firmin-mpf.jpg" data-fancybox="gallery" data-caption="Firmin MICHEL, mort pour la France">
 	    <img src="miniatures/MICHEL-Firmin-mpf.jpg" alt="Fiche de mort pour la France de Firmin MICHEL"/></a>
-	    <figcaption>Firmin, mort pour la France<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Firmin, mort pour la France<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 <p><strong>Firmin</strong> repose aujourd'hui à la Nécropole Nationale de Bras-sur-Meuse (Tombe 50) et son nom figure sur le <a href="../releves/betheniville.php" title="lien vers la liste des morts pour la France de Bétheniville">Monument aux Morts du village de Bétheniville</a> (Marne).</p>
@@ -134,7 +134,7 @@
 	<figure>
 	    <a href="../releves/images/betheniville-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Bétheniville - Le Monument aux Morts">
 	    <img src="../releves/images/mini/betheniville-monument-aux-morts.jpg" alt="le Monument aux Morts de Bétheniville sur une carte postale ancienne"/></a>
-	    <figcaption>Le Monument du Souvenir (guerre 1914-1918)<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Le Monument du Souvenir (guerre 1914-1918)<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 <p>Son fils <strong>Firmin</strong>, né le 7 janvier 1914 à Bétheniville, sera mobilisé en 1939 et rejoindra le <strong>8e Régiment de Zouaves</strong>. Capturé le 4 juin 1940 à Malo-les-Bains, il est emmené en captivité au Stalag VI A (a compté du 3 juillet 1940 à Hener Iserlhom) puis au Stalag VI H (Arnoldsweiler–duren, matricule 20495, liste du 11 juillet 1940). Il est décédé de maladie le 5 janvier 1941 à Aix-la-Chapelle (Allemagne)  à l'hôpital de réserve à Aachen.</p>
@@ -147,25 +147,25 @@
 	<figure>
 	    <a href="images/Saint-Hilaire-ww1-01.jpg" data-fancybox="gallery" data-caption="Un canon anti-poux à Saint-Hilaire">
 	    <img src="miniatures/Saint-Hilaire-ww1-01.jpg" alt="Un canon anti-poux à Saint-Hilaire-le-Petit pendant la Première Guerre Mondiale"/></a>
-	    <figcaption>Un canon anti-poux à Saint-Hilaire-le-Petit<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Un canon anti-poux à Saint-Hilaire-le-Petit<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 	
 	<figure>
 	    <a href="images/Saint-Hilaire-ww1-02.jpg" data-fancybox="gallery" data-caption="Les allemands à Saint-Hilaire-le-Petit">
 	    <img src="miniatures/Saint-Hilaire-ww1-02.jpg" alt="Les allemands dans une rue de Saint-Hilaire-le-Petit"/></a>
-	    <figcaption>Les allemands à Saint-Hilaire-le-Petit<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Les allemands à Saint-Hilaire-le-Petit<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 	<figure>
 	    <a href="images/Saint-Hilaire-ww1-03.jpg" data-fancybox="gallery">
 	    <img src="miniatures/Saint-Hilaire-ww1-03.jpg" alt="Les allemands préparant le pain pour le déjeuner à Saint-Hilaire-le-Petit"/></a>
-	    <figcaption>Préparations du pain pour le déjeuner<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Préparations du pain pour le déjeuner<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 <h2>Sources et bibliographie</h2>
     
     <ul>
-         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
        
     </ul>
 
@@ -182,7 +182,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

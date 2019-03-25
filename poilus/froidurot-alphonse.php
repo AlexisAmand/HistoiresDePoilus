@@ -86,10 +86,10 @@
 <h1>Alphonse FROIDUROT</h1>
 
 <p>
-Père d’Alfred<br />
-Né le 20 juillet 1869 à Dijon<br />
-Matricule n°327, classe 1888 bureau de Dijon<br />
-Rappelé à l’activité par la mobilisation générale du 2 aout 1914. Arrivé au service de « la garde des voies de communication »  le dit jour et renvoyé dans ses foyers le 28 janviers 1915<br />
+Père d’Alfred<br/>
+Né le 20 juillet 1869 à Dijon<br/>
+Matricule n°327, classe 1888 bureau de Dijon<br/>
+Rappelé à l’activité par la mobilisation générale du 2 aout 1914. Arrivé au service de « la garde des voies de communication »  le dit jour et renvoyé dans ses foyers le 28 janviers 1915<br/>
 </p>
 
 	<figure>
@@ -111,7 +111,7 @@ Rappelé à l’activité par la mobilisation générale du 2 aout 1914. Arrivé
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

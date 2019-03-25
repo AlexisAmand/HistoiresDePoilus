@@ -98,7 +98,7 @@
     <figure>
     <a href="images/borderaux-ht-19.jpg" data-fancybox="gallery" data-caption="hôpital complémentaire (Bordeaux)">
    	<img src="miniatures/borderaux-ht-19.jpg" alt="L'hôpital complémentaire dans le lycée de Bordeaux"></a>
-    	<figcaption>L'hôpital complémentaire,<br />installé dans le lycée.</figcaption>
+    	<figcaption>L'hôpital complémentaire,<br/>installé dans le lycée.</figcaption>
     </figure>
 
 <h2>Cognac</h2>
@@ -106,7 +106,7 @@
     <figure>
     <a href="images/cognac-HC-45.jpg" data-fancybox="gallery" data-caption="L'hôpital complémentaire n°45 (Cognac)">
    	<img src="miniatures/cognac-HC-45.jpg" alt="L'hôpital complémentaire n°45 de Cognac, situé rue de la Providence"></a>
-    	<figcaption>L'hôpital complémentaire n°45,<br />situé rue de la Providence à Cognac</figcaption>
+    	<figcaption>L'hôpital complémentaire n°45,<br/>situé rue de la Providence à Cognac</figcaption>
     </figure>
     
 <h2>Limoges</h2>    
@@ -126,7 +126,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

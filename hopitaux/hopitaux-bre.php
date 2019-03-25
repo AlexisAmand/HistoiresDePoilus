@@ -104,13 +104,13 @@
 	<figure>
 	<a href="images/rennes-ht-5.jpg" data-fancybox="gallery" data-caption="L'hôpital temporaire n°5 (Rennes)">
     <img src="miniatures/rennes-ht-5.jpg" alt="L'hôpital temporaire n°5 à la Facultés des lettres de Rennes"></a>
-        <figcaption>Hôpital temporaire n°5<br />à la Faculté des lettres</figcaption>
+        <figcaption>Hôpital temporaire n°5<br/>à la Faculté des lettres</figcaption>
     </figure>
     
 	<figure>
 	<a href="images/rennes-ht-41.jpg" data-fancybox="gallery" data-caption="L'hôpital temporaire n°41 (Rennes)">
     <img src="miniatures/rennes-ht-41.jpg" alt="L'hôpital temporaire n°41 à la Faculté de droit de Rennes"></a>
-        <figcaption>Hôpital temporaire n°41<br />à la Faculté de droit</figcaption>
+        <figcaption>Hôpital temporaire n°41<br/>à la Faculté de droit</figcaption>
     </figure>
 
 <p class="sources">
@@ -126,7 +126,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

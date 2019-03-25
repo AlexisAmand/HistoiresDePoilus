@@ -130,19 +130,19 @@
 	    <tbody>
 	        <tr>
 	            <td>1906</td>
-	            <td>Rue Saint Joseph<br />à Onnaing (Nord)</td>
+	            <td>Rue Saint Joseph<br/>à Onnaing (Nord)</td>
 	        </tr>
 	        <tr>
 	            <td>1914-1918</td>
-	            <td>Il est détaché<br />aux Fonderies de Firminy (Loire)</td>
+	            <td>Il est détaché<br/>aux Fonderies de Firminy (Loire)</td>
 	        </tr>
 	        <tr>
 	            <td>5 janvier 1929</td>
-	            <td>12 rue Etienne DOLET<br />à Onnaing (Nord)</td>
+	            <td>12 rue Etienne DOLET<br/>à Onnaing (Nord)</td>
 	        </tr>
 	        <tr>
 	            <td>20 février 1941</td>
-	            <td>17 rue d'Estreux<br />à Onnaing (Nord)</td>           
+	            <td>17 rue d'Estreux<br/>à Onnaing (Nord)</td>           
 	        </tr>
         </tbody>
     </table>
@@ -168,7 +168,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

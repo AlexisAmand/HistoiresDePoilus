@@ -125,13 +125,13 @@
 	<figure>
 	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
 	    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX"  class="ArbreGenealogique"></a>
-	    <figcaption>Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Les descendants de Léonie Louise FIEVET<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 	
 	<figure>
 	    <a href="portraits/charles-augustin-FIEVET.jpg" data-fancybox="gallery" data-caption="Charles Augustin FIEVET">
 	    <img src="miniatures/charles-augustin-FIEVET.jpg" height="278" alt="Portrait de Charles Augustin FIEVET"/></a>
-	    <figcaption>Charles Augustin FIEVET<br />(Source: Archives familiales)</figcaption>
+	    <figcaption>Charles Augustin FIEVET<br/>(Source: Archives familiales)</figcaption>
 	</figure>
 
 	<table style="width:70%;caption-side: bottom;">
@@ -146,16 +146,16 @@
 	            <td>3 décembre 1882</td><td>Rue de Poids<br/>à Lille</td>
 	        </tr>
 	        <tr>
-	            <td>25 septembre 1908</td><td>Rue du Grand Balcon<br/>Impasse Saint Henri<br />à Lille</td>
+	            <td>25 septembre 1908</td><td>Rue du Grand Balcon<br/>Impasse Saint Henri<br/>à Lille</td>
 	        </tr>
 	        <tr>
-	            <td>8 février 1914</td><td>73 Rue du Chauffour<br />(Gué du dit)<br />à Valenciennes</td>
+	            <td>8 février 1914</td><td>73 Rue du Chauffour<br/>(Gué du dit)<br/>à Valenciennes</td>
 	        </tr>
 	        <tr>
-	            <td>8 avril 1922</td><td>248 Rue Jean Jaurés<br />à Anzin</td>
+	            <td>8 avril 1922</td><td>248 Rue Jean Jaurés<br/>à Anzin</td>
 	        </tr>       
 	        <tr>
-	            <td>16 février 1928</td><td>149 Rue du Chauffour<br />à Valenciennes</td>
+	            <td>16 février 1928</td><td>149 Rue du Chauffour<br/>à Valenciennes</td>
 	        </tr>
 	    </tbody>   
 	</table>
@@ -165,12 +165,12 @@
 	<figure>
 	    <a href="portraits/Le-conseil-de-revision.jpg" data-fancybox="gallery" data-caption="Le conseil de révision">
 	    <img src="miniatures/Le-conseil-de-revision.jpg" alt="La famille FIEVET au conseil de révision"/></a>
-	    <figcaption>Le conseil de révision<br />(Source: Archives familiales)</figcaption>
+	    <figcaption>Le conseil de révision<br/>(Source: Archives familiales)</figcaption>
 	</figure>
 
 <p>Le 2 décembre 1907, <strong>Charles Augustin</strong> épouse à Roubaix (Nord) Nathalie Emilie DELAUX, mécanicienne, la fille légitime d'Adolphe Auguste DELAUX et de Josephine RICHOMME. Le couple aura deux enfants: Charles Jules Henri (né en 1903) et Kléber Camille (né en 1910).</p>
 
-<br /><h2>La mobilisation d'août 1914</h2>
+<br/><h2>La mobilisation d'août 1914</h2>
 
 <p>Soldat de 2e classe âgé de 32 ans en 1914, <strong>Charles Augustin</strong> est mobilisé et rejoint le <strong>162e Régiment d'Infanterie</strong>. Je connais peut de chose sur son destin pendant le conflit. Mon seul indice ? Il est prisonnier de guerre à <a href="../camps/camp-gardelegen.php">Gardelegen (Allemagne)</a>. </p>
 
@@ -182,7 +182,7 @@
 	<figure>
 	    <a href="sources/charles-jules-FIEVET-matricule-01.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Charles Augustin (Extrait)">
 	    <img src="miniatures/charles-jules-FIEVET-matricule-01.jpg" alt="Extrait de la fiche matricule de Charles Augustin FIEVET"/></a>
-	    <figcaption>Extraits de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
+	    <figcaption>Extraits de sa fiche matricule<br/>(Source: Archives Départementales du Nord)</figcaption>
 	</figure>
 
 <p>Selon les docs de la Croix Rouge, il est fait prisonnier à Bikschote (Belgique) avant le 23 janvier 1915, selon moi durant la Première Bataille d’Ypres entre la fin du mois d’octobre et le début du mois de novembre 1914. </p>
@@ -190,7 +190,7 @@
 	<figure>
 	    <a href="sources/cicr-fievet-01.JPG" data-fancybox="gallery" data-caption="Extrait d'une liste de prisonniers (source: CICR)">
 	    <img src="miniatures/cicr-fievet-01.JPG" alt="Extrait d'une liste de prisonniers de la Croix Rouge"/></a>
-	    <figcaption>Extrait d'une liste de prisonniers<br />(Source: CICR)</figcaption>
+	    <figcaption>Extrait d'une liste de prisonniers<br/>(Source: CICR)</figcaption>
 	</figure>
 
 <p class="sources">
@@ -200,7 +200,7 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>      
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>      
     </ul>
 
 </article>
@@ -212,7 +212,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <!-- code js pour l'avertissement sur les cookies -->

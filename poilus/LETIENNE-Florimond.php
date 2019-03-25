@@ -123,7 +123,7 @@
     <figure>
         <a href="images/letienne-florimond-1873.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Florimond LETIENNE">
         <img src="miniatures/letienne-florimond-1873.jpg" alt="Acte de naissance de Florimond LETIENNE"></a>
-        <figcaption>Acte de naissance de Florimond<br /> (source : Archives Départementales du Nord)</figcaption>
+        <figcaption>Acte de naissance de Florimond<br/> (source : Archives Départementales du Nord)</figcaption>
     </figure> 
 
 <p>Selon le recensement de 1906, Florimond est rattacheur et vit Rue des Longues à Haies à Roubaix, en compagnie de Marie Lucie et de ses enfants : Léonie, Georges et Charles. La Rue des Longues Haies était situé dans un quartier populaire de Roubaix. Longue de près 1 km, on y trouvait des usines, des estaminets, des commerces, le Mont de Piété ou encore les Bains Municipaux. La rue était aussi un labyrinthe de courées parmi lesquelles la Cour Mulliez, où vivait la famille LETIENNE. On rencontrait cette rue en remontant la Rue de Lannoy vers l'église Sainte Elisabeth, elle s'étendait parallèlement au Boulevard Gambetta, en une longue ligne droite.</p> 
@@ -131,7 +131,7 @@
     <figure>
         <a href="images/roubaix_longues_haies.jpg" data-fancybox="gallery" data-caption="La Rue des Longues Haies à Roubaix">
         <img src="miniatures/roubaix_longues_haies.jpg" alt="La Rue des Longues Haies et le Mont de piété à Roubaix"></a>
-        <figcaption>La Rue des Longues Haies et le Mont de Piété (Roubaix)<br /> (source : Bibliothèque Numérique de Roubaix)</figcaption>
+        <figcaption>La Rue des Longues Haies et le Mont de Piété (Roubaix)<br/> (source : Bibliothèque Numérique de Roubaix)</figcaption>
     </figure>   
     
 <br/><h2>Florimond et la Grande Guerre</h2>
@@ -141,14 +141,14 @@
     <figure>
         <a href="images/carte-florimond-letienne.jpg" data-fancybox="gallery" data-caption="Carte d'ancien combattant">
         <img src="miniatures/carte-florimond-letienne.jpg" alt="carte d'ancien combattant de Florimond LETIENNE trouvée aux Archives Départementales"></a>
-        <figcaption>Carte d'ancien combattant ayant appartenu à Florimond<br /> (source : Archives Départementales du Nord)</figcaption>
+        <figcaption>Carte d'ancien combattant ayant appartenu à Florimond<br/> (source : Archives Départementales du Nord)</figcaption>
     </figure>   
 
-<br /><h2>Sources et bibliographie</h2>
+<br/><h2>Sources et bibliographie</h2>
     
 <ul>
     <li><a href="http://archives.genealexis.fr/album/20-letienne-florimond" title="version numérisée du dossier d'ancien combattant de Florimond LETIENNE">Le dossier d'ancien combattant de Florimond LETIENNE</a> (Archives Départementales du Nord)</li>
-    <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
+    <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
 </ul>     
  
 <p class="sources">
@@ -164,7 +164,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

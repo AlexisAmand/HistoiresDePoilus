@@ -67,7 +67,7 @@
 			<figure>
     			<a href="images/front-italie.jpg" data-fancybox="gallery" data-caption="Le front italien pendant la Grande Guerre">
     			<img src="images/miniatures/front-italie.jpg" alt="Croquis du front italien pendant la Grande Guerre"></a>
-    			<figcaption>Le front italien<br />(source: Delcampe)</figcaption>
+    			<figcaption>Le front italien<br/>(source: Delcampe)</figcaption>
 			</figure>
 
   			<table>
@@ -80,99 +80,99 @@
 				    </tr>
 				</thead>  
   					<tr>
-        				<td headers="lieu">Vallée de l'Isonzo<br />(Italie)</td>
+        				<td headers="lieu">Vallée de l'Isonzo<br/>(Italie)</td>
         				<td headers="bataille">La 1ère Bataille de l'Isonzo</td>
-        				<td headers="date">Du 23 juin 1915<br />au 7 juillet 1915</td>
+        				<td headers="date">Du 23 juin 1915<br/>au 7 juillet 1915</td>
         				<td headers="issue">Victoire tactique austro-hongroise</td>
   					</tr>    
   					<tr>
-        				<td headers="lieu">Vallée de l'Isonzo<br />(Italie)</td>
+        				<td headers="lieu">Vallée de l'Isonzo<br/>(Italie)</td>
         				<td headers="bataille">La 2e Bataille de l'Isonzo</td>
-        				<td headers="date">Du 18 juillet 1915<br />au 3 août 1915</td>
+        				<td headers="date">Du 18 juillet 1915<br/>au 3 août 1915</td>
         				<td headers="issue">Victoire austro-hongroise</td>
   					</tr>    
   					<tr>
-				        <td headers="lieu">Vallée de l'Isonzo<br />(Italie)</td>
+				        <td headers="lieu">Vallée de l'Isonzo<br/>(Italie)</td>
 				        <td headers="bataille">La 3e Bataille de l'Isonzo</td>
-				        <td headers="date">Du 18 octobre 1915<br />au 4 novembre 1915</td>
+				        <td headers="date">Du 18 octobre 1915<br/>au 4 novembre 1915</td>
 				        <td headers="issue">Victoire austro-hongroise</td>
  					</tr>  
   					<tr>
-				        <td headers="lieu">Vallée de l'Isonzo<br />(Italie)</td>
+				        <td headers="lieu">Vallée de l'Isonzo<br/>(Italie)</td>
 				        <td headers="bataille">La 4e Bataille de l'Isonzo</td>
-				        <td headers="date">Du 10 novembre 1915<br />au 2 décembre 1915</td>
+				        <td headers="date">Du 10 novembre 1915<br/>au 2 décembre 1915</td>
 				        <td headers="issue">Echec de l'offensive italienne</td>
   					</tr>  
   					<tr>
-				        <td headers="lieu">Vallée de l'Isonzo<br />(Italie)</td>
+				        <td headers="lieu">Vallée de l'Isonzo<br/>(Italie)</td>
 				        <td headers="bataille">La 5e Bataille de l'Isonzo</td>
-				        <td headers="date">Du 9 mars 1916<br />au 15 mars 1916</td>
+				        <td headers="date">Du 9 mars 1916<br/>au 15 mars 1916</td>
 				        <td headers="issue">Victoire austro-hongroise</td>
   					</tr>    
   					<tr>
-				        <td headers="lieu">Vallée de l'Isonzo<br />(Italie)</td>
-				        <td headers="bataille">La 6e Bataille de l'Isonzo<br />(ou Bataille de Gorizia)</td>
-				        <td headers="date">Du 6 août 1916<br />au 17 août 1916</td>
+				        <td headers="lieu">Vallée de l'Isonzo<br/>(Italie)</td>
+				        <td headers="bataille">La 6e Bataille de l'Isonzo<br/>(ou Bataille de Gorizia)</td>
+				        <td headers="date">Du 6 août 1916<br/>au 17 août 1916</td>
 				        <td headers="issue">Victoire italienne</td>
 					</tr>    
 				  	<tr>
-        				<td headers="lieu">Vallée de l'Isonzo<br />(Italie)</td>
+        				<td headers="lieu">Vallée de l'Isonzo<br/>(Italie)</td>
         				<td headers="bataille">La 7e Bataille de l'Isonzo</td>
-        				<td headers="date">Du 14 septembre 1916<br />au 18 septembre 1916</td>
+        				<td headers="date">Du 14 septembre 1916<br/>au 18 septembre 1916</td>
         				<td headers="issue">Offensive italienne repoussée</td>
   					</tr>    
   					<tr>
-        				<td headers="lieu">Vallée de l'Isonzo<br />(Italie)</td>
+        				<td headers="lieu">Vallée de l'Isonzo<br/>(Italie)</td>
         				<td headers="bataille">La 8e Bataille de l'Isonzo</td>
-        				<td headers="date">Du 10 octobre 1916<br />au&nbsp; 12 octobre 1916</td>
+        				<td headers="date">Du 10 octobre 1916<br/>au&nbsp; 12 octobre 1916</td>
         				<td headers="issue">Offensive italienne repoussée</td>
   					</tr>    
   					<tr>
-        				<td headers="lieu">Vallée de l'Isonzo<br />(Italie)</td>
+        				<td headers="lieu">Vallée de l'Isonzo<br/>(Italie)</td>
         				<td headers="bataille">La 9e Bataille de l'Isonzo</td>
-        				<td headers="date">Du 31 octobre 1916<br />au 4 novembre 1916</td>
+        				<td headers="date">Du 31 octobre 1916<br/>au 4 novembre 1916</td>
         				<td headers="issue">Succès limité de l'offensive italienne</td>
   					</tr>    
 					<tr>
-        				<td headers="lieu">Vallée de l'Isonzo<br />(Italie)</td>
+        				<td headers="lieu">Vallée de l'Isonzo<br/>(Italie)</td>
         				<td headers="bataille">La 10e Bataille de l'Isonzo</td>
-        				<td headers="date">Du 10 mai 1917<br />au 8 juin 1917</td>
+        				<td headers="date">Du 10 mai 1917<br/>au 8 juin 1917</td>
         				<td headers="issue">Succès limité de l'offensive italienne</td>
   					</tr>    
   					<tr>
-				        <td headers="lieu">Province de Vivence<br />(Italie)</td>
+				        <td headers="lieu">Province de Vivence<br/>(Italie)</td>
 				        <td headers="bataille">La Bataille du Mont Ortigara</td>
-				        <td headers="date">Du 10 juin 1917<br />au 25 juin 1917</td>
+				        <td headers="date">Du 10 juin 1917<br/>au 25 juin 1917</td>
 				        <td headers="issue">Victoire italienne</td>
   					</tr>    
   				    <tr>
-				        <td headers="lieu">Vallée de l'Isonzo<br />(Italie)</td>
+				        <td headers="lieu">Vallée de l'Isonzo<br/>(Italie)</td>
 				        <td headers="bataille">La 11e Bataille de l'Isonzo</td>
-				        <td headers="date">Du 18 août 1917<br />au 12 septembre 1917</td>
+				        <td headers="date">Du 18 août 1917<br/>au 12 septembre 1917</td>
 				        <td headers="issue"><em>Statu quo</em></td>
 				    </tr>    
                     <tr>
-        				<td headers="lieu">Vallée de l'Isonzo<br />(Italie)</td>
-        				<td headers="bataille">La 12e Bataille de l'Isonzo<br />(ou Bataille de Caporetto)</td>
-        				<td headers="date">Du 24 octobre 1917<br />au 9 novembre 1917</td>
+        				<td headers="lieu">Vallée de l'Isonzo<br/>(Italie)</td>
+        				<td headers="bataille">La 12e Bataille de l'Isonzo<br/>(ou Bataille de Caporetto)</td>
+        				<td headers="date">Du 24 octobre 1917<br/>au 9 novembre 1917</td>
         				<td headers="issue">Victoire austro-allemande</td>
   					</tr>          
   					<tr>
-        				<td headers="lieu">Fleuve Piave<br />(Italie)</td>
+        				<td headers="lieu">Fleuve Piave<br/>(Italie)</td>
         				<td headers="bataille">La Bataille du Piave</td>
-        				<td headers="date">Du 10 juin 1918<br />au 25 juin 1918</td>
+        				<td headers="date">Du 10 juin 1918<br/>au 25 juin 1918</td>
         				<td headers="lieu">Victoire alliée décisive</td>
   					</tr>    
   					<tr>
-        				<td headers="lieu">Pointe de San Matteo<br />(Italie)</td>
+        				<td headers="lieu">Pointe de San Matteo<br/>(Italie)</td>
         				<td headers="bataille">La Bataille de San Matteo</td>
-        				<td headers="date">Du 13 août 1918<br />au 3 septembre 1918</td>
+        				<td headers="date">Du 13 août 1918<br/>au 3 septembre 1918</td>
         				<td headers="issue">Victoire austro-hongroise</td>
   					</tr> 
   					<tr>
-        				<td headers="lieu">Province de Trévise<br />(Italie)</td>
+        				<td headers="lieu">Province de Trévise<br/>(Italie)</td>
         				<td headers="bataille">La Bataille de Vittorio Veneto</td>
-				        <td headers="date">Du 24 octobre 1918<br />au 3 septembre 1918</td>
+				        <td headers="date">Du 24 octobre 1918<br/>au 3 septembre 1918</td>
 				        <td headers="issue">Victoire italienne</td>
   					</tr> 
 			</table>
@@ -190,7 +190,7 @@
 		    <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 		    <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 		    <a href="../cookies.php">Cookies</a>
-		    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+		    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 		</footer>
 
 <?php include('../include/stats.inc'); ?>

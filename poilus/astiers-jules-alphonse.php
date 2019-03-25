@@ -97,7 +97,7 @@
 	<figure>
 	    <a href="images/bethenville-place-munet.jpg" data-fancybox="gallery" data-caption="La Place du Munet à Bétheniville">
 	    <img src="miniatures/bethenville-place-munet.jpg" alt="La Place du Munet à Bétheniville sur une carte postale ancienne"/></a>
-	    <figcaption>La Place du Munet à Bétheniville<br />où est né Jules, aprés la guerre.</figcaption>
+	    <figcaption>La Place du Munet à Bétheniville<br/>où est né Jules, aprés la guerre.</figcaption>
 	</figure>
 
 <p>20 ans plus tard, lors de la mobilisation générale du 1er aout 1914, il est rappelé mais est renvoyé provisoirement le 2 septembre 1914. Quelques mois plus tard, le 3 avril 1915, il est de nouveau rappelé et rejoint le 10e Escadron de Train dés le 20 où il reste 9 jours avant de rejoindre le 13e Régiment d'Artillerie. Il passe les deux dernières années de la guerre détaché dans des usines d'armement de Colombe et Mondeville (Normandie) avant d'être finalement libéré du service le 1 octobre 1919.</p>
@@ -111,34 +111,34 @@
 	    </thead>
 	    <tbody>
 	    	<tr>
-	            <td>1881</td><td>Chez ses parents<br />Place du Munet<br />à Bétheniville (Marne)</td>
+	            <td>1881</td><td>Chez ses parents<br/>Place du Munet<br/>à Bétheniville (Marne)</td>
 	        </tr>
 	        <tr>
-	            <td>27 juillet 1897</td><td>13 rue Neufchatel<br />à Reims (Marne)</td>
+	            <td>27 juillet 1897</td><td>13 rue Neufchatel<br/>à Reims (Marne)</td>
 	        </tr>
 	        <tr>
 	        	<td>15 mars 1898</td><td>Bétheniville (Marne)</td>
 	        </tr>
 	        <tr>
-	            <td>1901</td><td>Grand'rue<br />à Bétheniville (Marne)</td>
+	            <td>1901</td><td>Grand'rue<br/>à Bétheniville (Marne)</td>
 	        </tr>
 	        <tr>
-	            <td>1906</td><td>Rue des chevaliers<br />à Bétheniville (Marne)</td>
+	            <td>1906</td><td>Rue des chevaliers<br/>à Bétheniville (Marne)</td>
 	        </tr>
 	        <tr>
-	        	<td>21 octobre 1906</td><td>13 rue de Bétheny<br />à Reims (Marne)</td>
+	        	<td>21 octobre 1906</td><td>13 rue de Bétheny<br/>à Reims (Marne)</td>
 	        </tr>
 	        <tr>
-	        	<td>21 juillet 1907</td><td>10 rue Villeminot<br />à Reims (Marne)</td>
+	        	<td>21 juillet 1907</td><td>10 rue Villeminot<br/>à Reims (Marne)</td>
 	        </tr>
 	        <tr>
-	        	<td>20 octobre 1907</td><td><a href="http://cartespostalesanciennes.genealexis.fr/image/517-la-route-de-reims-a-betheniville">Rue de Reims</a><br />à Bétheniville (Marne)</td>
+	        	<td>20 octobre 1907</td><td><a href="http://cartespostalesanciennes.genealexis.fr/image/517-la-route-de-reims-a-betheniville">Rue de Reims</a><br/>à Bétheniville (Marne)</td>
 	        </tr>
 	        <tr>
-	            <td>1911</td><td>Rue de Merlan<br />à Bétheniville (Marne)</td>
+	            <td>1911</td><td>Rue de Merlan<br/>à Bétheniville (Marne)</td>
 	        </tr>
 	        <tr>
-	        	<td>27 octobre 1912</td><td>29 rue Maucroix<br />à Reims (Marne)</td>
+	        	<td>27 octobre 1912</td><td>29 rue Maucroix<br/>à Reims (Marne)</td>
 	        </tr>
 	        <tr>
 	        	<td>7 septembre 1914</td><td>à Missy (Calvados)</td>
@@ -159,7 +159,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

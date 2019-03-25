@@ -125,7 +125,7 @@
     <tr>
         <td>Nationalités</td>
         <td>Au camp</td>
-        <td>Dans les détachements<br />de travail</td>
+        <td>Dans les détachements<br/>de travail</td>
     </tr>
     </thead>
     <tr>
@@ -151,7 +151,7 @@
     <tr>
         <td>Nationalités</td>
         <td>Au camp</td>
-        <td>Dans les détachements<br />de travail</td>
+        <td>Dans les détachements<br/>de travail</td>
     </tr>
     </thead>
     <tr>
@@ -176,14 +176,14 @@
             <a href="images/Hammelburg-01.jpg" data-fancybox="gallery" data-caption="Hammelburg: Le repas des prisonniers">
             <img src="miniatures/Hammelburg-01.jpg" alt="Le repas au camp de prisonniers de Hammelburg pendant la Première Guerre Mondiale">
             </a>
-            <figcaption>Le repas au camp<br />(source allemande)</figcaption>
+            <figcaption>Le repas au camp<br/>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Hammelburg-02.jpg" data-fancybox="gallery" data-caption="Hammelburg: La lessive au camp">
             <img src="miniatures/Hammelburg-02.jpg" alt="La lessive au camp de prisonniers de Hammelburg pendant la Grande Guerre">
             </a>
-            <figcaption>La lessive au camp<br />(source allemande)</figcaption>
+            <figcaption>La lessive au camp<br/>(source allemande)</figcaption>
         </figure>
 
         <figure>
@@ -217,7 +217,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

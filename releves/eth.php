@@ -61,7 +61,7 @@
 <li><a href="anzin.php">Anzin</a></li>
 <li><a href="bry.php">Bry</a></li>
 <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
-<li><a href="cousolre.php">cousolre</a></li> 
+<li><a href="cousolre.php">Cousolre</a></li> 
 <li><a href="eth.php"  class="AsideSelected">Eth</a></li>
 <li><a href="gussignies.php">Gussignies</a></li>
 <li><a href="lourches.php">Lourches</a></li>
@@ -126,7 +126,7 @@
 
     <figure>
         <img src="images/mini/monument-eth.jpg" alt="Le Monument aux Morts pour la France à Eth">
-        <figcaption>Le Monument aux Morts d'Eth,<br />dans le petit cimetière.</figcaption>
+        <figcaption>Le Monument aux Morts d'Eth,<br/>dans le petit cimetière.</figcaption>
     </figure>
 
 <p></p>
@@ -134,79 +134,79 @@
 <table>
   <thead>
   <tr>
-    <th id="nom" width="158px">Nom et prénom(s)</th>
-    <th id="naissance" width="158px">Date et lieu<br />de naissance</th>
-    <th id="mort" width="158px">Date et lieu<br />de décès</th>
-    <th id="corps" width="70px">Corps</th>
-    <th id="genre" width="90px">Genre<br />de mort</th>
+    <th id="nom">Nom et prénom(s)</th>
+    <th id="naissance">Date et lieu<br/>de naissance</th>
+    <th id="mort">Date et lieu<br/>de décès</th>
+    <th id="corps">Corps</th>
+    <th id="genre">Genre<br/>de mort</th>
   </tr>
   </thead>
   <tr>
-    <td headers="nom">BELLIN<br />Arthur</td>
+    <td headers="nom">BELLIN<br/>Arthur</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
     <td headers="genre">&nbsp;</td>
     </tr>
   <tr>
-    <td headers="nom">CARRE<br />Edmond Henri Philippe</td>
-    <td headers="naissance">Le 11 mai 1885<br />à Eth (Nord)</td>
-    <td headers="mort">Le 30 octobre 1914<br />à Vailly-sur-Aisne (Aisne)</td>
+    <td headers="nom">CARRE<br/>Edmond Henri Philippe</td>
+    <td headers="naissance">Le 11 mai 1885<br/>à Eth (Nord)</td>
+    <td headers="mort">Le 30 octobre 1914<br/>à Vailly-sur-Aisne (Aisne)</td>
     <td headers="corps">306e R.I</td>
     <td headers="genre">Tué à l'ennemi</td>
     </tr>
   <tr>
-    <td headers="nom">CHEVAL<br />Henri</td>
+    <td headers="nom">CHEVAL<br/>Henri</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
     <td>&nbsp;</td>
     </tr>
   <tr>
-    <td headers="nom">COUDAL<br />Nestor</td>
+    <td headers="nom">COUDAL<br/>Nestor</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
     <td headers="genre">&nbsp;</td>
     </tr>
   <tr>
-    <td headers="nom">DASSONVILLE<br />Henri</td>
-    <td headers="naissance">Le 11 décembre 1894<br />à Eth (Nord)</td>
-    <td headers="mort">Le 24 décembre 1916<br />à l'Est de Berny (Somme)</td>
+    <td headers="nom">DASSONVILLE<br/>Henri</td>
+    <td headers="naissance">Le 11 décembre 1894<br/>à Eth (Nord)</td>
+    <td headers="mort">Le 24 décembre 1916<br/>à l'Est de Berny (Somme)</td>
     <td headers="corps">95e R.I</td>
     <td headers="genre">Tué à l'ennemi</td>
     </tr>
   <tr>
-    <td headers="nom">FOLET<br />Auguste Alexandre</td>
-    <td headers="naissance">Le 24 décembre 1890<br />à Valenciennes (Nord)</td>
-    <td headers="mort">Le 9 décembre 1914<br />à Saint-Hubert (Marne)</td>
+    <td headers="nom">FOLET<br/>Auguste Alexandre</td>
+    <td headers="naissance">Le 24 décembre 1890<br/>à Valenciennes (Nord)</td>
+    <td headers="mort">Le 9 décembre 1914<br/>à Saint-Hubert (Marne)</td>
     <td headers="corps">91e R.I</td>
     <td headers="genre">Tué à l'ennemi</td>
     </tr>
   <tr>
-    <td headers="nom">HONORE<br />Zéphyr Georges</td>
+    <td headers="nom">HONORE<br/>Zéphyr Georges</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
     <td headers="genre">&nbsp;</td>
     </tr>
   <tr>
-    <td headers="nom">MARISCAL<br />Anatol Simon</td>
+    <td headers="nom">MARISCAL<br/>Anatol Simon</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
     <td headers="genre">&nbsp;</td>
     </tr>
   <tr>
-    <td headers="nom">PORTIER<br />Julien Émile</td>
-    <td headers="naissance">Le 28 janvier 1893<br />à Eth (Nord)</td>
-    <td headers="mort">Le 23 août 1914<br />à St-Gérard (Fosse)<br />(Belgique)</td>
+    <td headers="nom">PORTIER<br/>Julien Émile</td>
+    <td headers="naissance">Le 28 janvier 1893<br/>à Eth (Nord)</td>
+    <td headers="mort">Le 23 août 1914<br/>à St-Gérard (Fosse)<br/>(Belgique)</td>
     <td headers="corps">43e R.I</td>
     <td headers="genre">Tué à l'ennemi</td>
     </tr>
   </table>
 
-<br /><br />
+<br/><br/>
 
     <h2>Tombes de guerre du Commonwealth</h2>
     <p>Le cimetière communal d'Eth contient aussi 9 tombes du Commonwealth.</p>
@@ -223,56 +223,56 @@
         </tr>
         </thead>
         <tr>
-            <td headers="nom">BEDFORD<br />Thomas Arthur</td>
+            <td headers="nom">BEDFORD<br/>Thomas Arthur</td>
             <td headers="age">28 ans</td>
             <td headers="corps">West Yorkshire Regiment</td>
             <td headers="grade">Second Lieutenant</td>
             <td headers="morts">4 novembre 1918</td>
         </tr>
         <tr>
-            <td headers="nom">CHAPMAN<br />Albert</td>
+            <td headers="nom">CHAPMAN<br/>Albert</td>
             <td headers="age">27 ans</td>
             <td headers="corps">Welch Regiment</td>
             <td headers="grade">Lance Caporal</td>
             <td headers="morts">8 novembre 1918</td>
         </tr>
         <tr>
-            <td headers="nom">DORAN<br />A. J. </td>
+            <td headers="nom">DORAN<br/>A. J. </td>
             <td headers="age">19 ans</td>
             <td headers="corps">Welch Regiment</td>
             <td headers="grade">Private</td>
             <td headers="morts">4 novembre 1918</td>
         </tr>
         <tr>
-            <td headers="nom">GRIFFITHS<br />Thomas</td>
+            <td headers="nom">GRIFFITHS<br/>Thomas</td>
             <td headers="age">23 ans</td>
             <td headers="corps">Welch Regiment</td>
             <td headers="grade">Lance Caporal</td>
             <td headers="morts">4 novembre 1918</td>
         </tr>
         <tr>
-            <td headers="nom">LAMBDIN<br />Reginald George</td>
+            <td headers="nom">LAMBDIN<br/>Reginald George</td>
             <td headers="age">19 ans</td>
             <td headers="corps">Wiltshire Regiment</td>
             <td headers="grade">Private</td>
             <td headers="morts">4 novembre 1918</td>
         </tr>
         <tr>
-            <td headers="nom">POTTER<br />E.</td>
+            <td headers="nom">POTTER<br/>E.</td>
             <td headers="age">?</td>
             <td headers="corps">Welch Regiment</td>
             <td headers="grade">Private</td>
             <td headers="morts">4 novembre 1918</td>
         </tr>
         <tr>
-            <td headers="nom">STAPLES<br />G. H.</td>
+            <td headers="nom">STAPLES<br/>G. H.</td>
             <td headers="age">?</td>
             <td headers="corps">Machine Gun Corps</td>
             <td headers="grade">Private</td>
             <td headers="morts">4 novembre 1918</td>
         </tr>
         <tr>
-            <td headers="nom">WARD <br />F.</td>
+            <td headers="nom">WARD <br/>F.</td>
             <td headers="age">?</td>
             <td headers="corps">Wiltshire Regiment</td>
             <td headers="grade">Private</td>
@@ -300,7 +300,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

@@ -62,11 +62,11 @@
 
             <h1>Les batailles de la Grande Guerre</h1>
 
-            <a href="batailles/batailles-est.php">L'Europe de l'Est</a><br />
-			<a href="batailles/batailles-ouest.php">L'Europe de l'Ouest</a><br />
-			<a href="batailles/batailles-italie.php">Le Front Italien</a><br />
-			<a href="batailles/batailles-afrique.php">Le Front Africain</a><br />
-			<a href="batailles/batailles-orient.php">Le Front du Moyen-Orient</a><br />
+            <a href="batailles/batailles-est.php">L'Europe de l'Est</a><br/>
+			<a href="batailles/batailles-ouest.php">L'Europe de l'Ouest</a><br/>
+			<a href="batailles/batailles-italie.php">Le Front Italien</a><br/>
+			<a href="batailles/batailles-afrique.php">Le Front Africain</a><br/>
+			<a href="batailles/batailles-orient.php">Le Front du Moyen-Orient</a><br/>
 			<a href="batailles/batailles-balkans.php">Le Front des Balkans</a>
                                                                  
 			<p class="sources">
@@ -82,7 +82,7 @@
 		    <a href="contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 		    <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 		    <a href="cookies.php">Cookies</a>
-		    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+		    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 		</footer>
 
 <?php include('include/stats.inc'); ?>

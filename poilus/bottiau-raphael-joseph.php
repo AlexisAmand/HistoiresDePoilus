@@ -123,7 +123,7 @@
     <figure>
         <a href="sources/Bottiau-Raphael-1926.jpg" data-fancybox="gallery" data-caption="Acte de décès de Raphaël BOTTIAU">
         <img src="miniatures/Bottiau-Raphael-1926.jpg" alt="Acte de décès de Raphaël BOTTIAU issu des AD du Nord"/></a>
-        <figcaption>Acte de décès de Raphaël BOTTIAU<br>(Source: Archives Départementales du Nord)</figcaption>
+        <figcaption>Acte de décès de Raphaël BOTTIAU<br/>(Source: Archives Départementales du Nord)</figcaption>
     </figure>
     
 <p>Aprés avoir épousé en prenières noces Eugénie BRUNEAUX, Raphaël s'était uni en secondes noces à Dhany BOUTEILLE (1880-1927), ménagère et fille légitime de Nicolas BOUTEILLE et de Françoise MOLTEL, le 19 juillet 1924 à Quarouble (Nord).</p>
@@ -143,15 +143,15 @@
 	        </tr>
 	        <tr>
 	            <td headers="dates">1906</td>
-	            <td headers="adresses"><a href="http://cartespostalesanciennes.genealexis.fr/image/436-valenciennes-rue-de-lille" title="L'entrée de la rue de Lille à Valenciennes">Rue de Lille</a><br />à Valenciennes (Nord)</td>
+	            <td headers="adresses"><a href="http://cartespostalesanciennes.genealexis.fr/image/436-valenciennes-rue-de-lille" title="L'entrée de la rue de Lille à Valenciennes">Rue de Lille</a><br/>à Valenciennes (Nord)</td>
 	        </tr>
 	        <tr>
 	            <td headers="dates">18 septembre 1907</td>
-	            <td headers="adresses">"Pelissier chez Rivière"<br />à Albi (Tarn)</td>
+	            <td headers="adresses">"Pelissier chez Rivière"<br/>à Albi (Tarn)</td>
 	        </tr>
 	        <tr>
 	            <td headers="dates">26 janvier 1908</td>
-	            <td headers="adresses">Rue du Marais<br />à Férin (Nord)</td>          
+	            <td headers="adresses">Rue du Marais<br/>à Férin (Nord)</td>          
 	        </tr>
 	        <tr>
 	            <td headers="dates">25 mai 1908</td>
@@ -159,7 +159,7 @@
 	        </tr>
 	        <tr>
 	            <td headers="dates">29 décembre 1909</td>
-	            <td headers="adresses">9 rue de Flandre<br />à Tunis (Tunisie)<sup>1</sup></td>
+	            <td headers="adresses">9 rue de Flandre<br/>à Tunis (Tunisie)<sup>1</sup></td>
 	        </tr>
 	        <tr>
 	            <td headers="dates">13 février 1910</td>
@@ -171,7 +171,7 @@
 	        </tr>
 	        <tr>
 	            <td headers="dates">19 mars 1926</td>
-	            <td headers="adresses">Rue du moulin<br />à Quarouble (Nord)</td>
+	            <td headers="adresses">Rue du moulin<br/>à Quarouble (Nord)</td>
 	        </tr>      
         </tbody>
     </table>
@@ -191,7 +191,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

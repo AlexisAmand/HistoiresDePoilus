@@ -116,7 +116,7 @@
 <figure>
     <a href="images/Bad-Orb/bad-orb-01.jpg" data-fancybox="gallery" data-caption="Le camp de Bad-Orb">
     <img src="miniatures/Bad-Orb/bad-orb-01.jpg" alt="arrivée de prisonniers français au camp de Bad Orb pendant la Première Guerre Mondiale"></a>
-    <figcaption>Arrivée de prisonniers français (vers 1915)<br />(source allemande)</figcaption>
+    <figcaption>Arrivée de prisonniers français (vers 1915)<br/>(source allemande)</figcaption>
 </figure>
 
 <h2>Sources et bibliographie</h2>
@@ -140,7 +140,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

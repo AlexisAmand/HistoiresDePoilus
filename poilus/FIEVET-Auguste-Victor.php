@@ -120,12 +120,12 @@
 
 <p><strong>Auguste Victor FIEVET</strong> est né à Lille (Nord) le 8 janvier 1890. Il est le fils légitime de Charles Jules FIEVET, fileur de coton, âgé de 28 ans et de Marie Roseline LOHIEZ, âgée de 19 ans. Il a pour frère <a href="FIEVET-Charles-Augustin.php">Charles Augustin</a>.</p>
 
-<br />
+<br/>
 
 	<figure>
 	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
 	    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX" class="ArbreGenealogique"></a>
-	    <figcaption>Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Les descendants de Léonie Louise FIEVET<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 	<table style="width:70%;caption-side: bottom;border:1px solid red;">
@@ -139,19 +139,19 @@
 	    <tbody>
 	        <tr>
 	            <td>8 janvier 1890</td>
-	            <td>rue du Grand Balcon<br />à Lille</td>
+	            <td>rue du Grand Balcon<br/>à Lille</td>
 	        </tr>
 	        <tr>
 	            <td>11 mars 1922</td>
-	            <td>248 rue Jean Jaurès<br />à Anzin</td>
+	            <td>248 rue Jean Jaurès<br/>à Anzin</td>
 	        </tr>
 	        <tr>
 	            <td>avril 1930</td>
-	            <td>1 rue Jean Jaurès<br />à Petite-Forêt</td>
+	            <td>1 rue Jean Jaurès<br/>à Petite-Forêt</td>
 	        </tr>
 	        <tr>
 	            <td>17 décembre 1960</td>
-	            <td>803 rue Jean Jaures<br />à Bruay-sur-L'Escaut</td>
+	            <td>803 rue Jean Jaures<br/>à Bruay-sur-L'Escaut</td>
 	        </tr>
 	    </tbody>   
 	</table>
@@ -200,7 +200,7 @@
 	    <figcaption>La Citadelle de Dinant, début 1914</figcaption>
 	</figure>
 
-<p>Les Allemands, ayant Bruxelles pour objectif, s'avançaient en masses compactes. Une armée au nord, s'était heurtée aux forts de Liège (Belgique), une autre avait franchi la Meuse entre Liège et Namur. <br /><br />Le même jour, les Allemands signalent leur présence par une audacieuse reconnaissance et dessine une courte attaque contre nos lignes. Des autos-mitrailleuses allemandes, débouchant de la rive droite de la Meuse par le pont d'Anseremme (Belgique), à 4 kilomètres au sud de Dinant, dispersèrent le poste français et ouvrirent le passage à un escadron de uhlans qui s'avança sur la rive gauche jusqu'à Anthée. Cet escadron fut accueilli, à dix-sept heures, par les mitrailleuses du <strong>33e Régiment d'Infanterie </strong>qui étaient en position au nord du village; arrêté net, il rebroussa chemin. </p><p>Le 15 août, les Allemands attaquent Dinant avec des forces imposantes. La ville, partagée en deux parties par le fleuve, est dominée, sur la rive droite, par la citadelle, qui surplombe le terrain d'une centaine de mètres. Au sud de celle-ci, se trouve la tour de Montfort. Ce furent les deux premiers objectifs visés par les Allemands. Malgré l'héroïque résistance du 148e R.I., ces deux points tombèrent entre les mains de l'ennemi, qui utilisa ces positions pour écraser de ses feux, toute la rive gauche du fleuve.<br /><br /> Le<strong> 33e Régiment d'Infanterie</strong>, accouru d'Anthée, prit position, à cinq heures, le long de la voie ferrée. Deux compagnies, 10e (capitaine CARTON), 12e (capitaine BATAILLE), reçurent l'ordre d'aller réoccuper la citadelle. Le mouvement fut conduit d'une façon si rapide, que les Allemands, surpris, s'enfuirent, abandonnant la position. Mais peu après, la citadelle fut soumise à un feu d'artillerie tellement violent que la forteresse s'effondra de toutes parts, ensevelissant une partie des occupants et un certain nombre d'habitants.</p>
+<p>Les Allemands, ayant Bruxelles pour objectif, s'avançaient en masses compactes. Une armée au nord, s'était heurtée aux forts de Liège (Belgique), une autre avait franchi la Meuse entre Liège et Namur. <br/><br/>Le même jour, les Allemands signalent leur présence par une audacieuse reconnaissance et dessine une courte attaque contre nos lignes. Des autos-mitrailleuses allemandes, débouchant de la rive droite de la Meuse par le pont d'Anseremme (Belgique), à 4 kilomètres au sud de Dinant, dispersèrent le poste français et ouvrirent le passage à un escadron de uhlans qui s'avança sur la rive gauche jusqu'à Anthée. Cet escadron fut accueilli, à dix-sept heures, par les mitrailleuses du <strong>33e Régiment d'Infanterie </strong>qui étaient en position au nord du village; arrêté net, il rebroussa chemin. </p><p>Le 15 août, les Allemands attaquent Dinant avec des forces imposantes. La ville, partagée en deux parties par le fleuve, est dominée, sur la rive droite, par la citadelle, qui surplombe le terrain d'une centaine de mètres. Au sud de celle-ci, se trouve la tour de Montfort. Ce furent les deux premiers objectifs visés par les Allemands. Malgré l'héroïque résistance du 148e R.I., ces deux points tombèrent entre les mains de l'ennemi, qui utilisa ces positions pour écraser de ses feux, toute la rive gauche du fleuve.<br/><br/> Le<strong> 33e Régiment d'Infanterie</strong>, accouru d'Anthée, prit position, à cinq heures, le long de la voie ferrée. Deux compagnies, 10e (capitaine CARTON), 12e (capitaine BATAILLE), reçurent l'ordre d'aller réoccuper la citadelle. Le mouvement fut conduit d'une façon si rapide, que les Allemands, surpris, s'enfuirent, abandonnant la position. Mais peu après, la citadelle fut soumise à un feu d'artillerie tellement violent que la forteresse s'effondra de toutes parts, ensevelissant une partie des occupants et un certain nombre d'habitants.</p>
 
 	<figure>
 	    <a href="" data-fancybox="gallery" data-caption="Dinant détruite en 1914">
@@ -213,7 +213,7 @@
 	<figure>
 	    <a href="images/carte-dinant.jpg" data-fancybox="gallery" data-caption="Emplacement de la ferme du Rond-chêne">
 	    <img src="miniatures/carte-dinant.jpg" alt="Localisation de la ferme du Rond Chêne sur une carte de Dinant et ses environs"/></a>
-	    <figcaption>La ferme du Rond Chêne sur une carte de Dinant<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>La ferme du Rond Chêne sur une carte de Dinant<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 <p>En quelques minutes, 90 hommes sont mis hors de combat dont <strong>Auguste</strong> qui est blessé par balle au pied droit, à la cheville et à la main. Il est évacué à <a href="../hopitaux/hopitaux-pdl.php" title="Les hôpitaux pendant la Grande Guerre">l’hôpital 31 de Nantes</a> et devient invalide à 40%. Selon les Archives Municipales de Nantes, l'hôpital 31 était situé dans l'ancien séminaire de philosophie, rue Saint-Clément  et avait une capacité de 300 lits. Il fonctionne du 25 août 1914 au 24 septembre 1916.</p>
@@ -221,7 +221,7 @@
 	<figure>
 	    <a href="" data-fancybox="gallery"  data-fancybox="gallery" data-caption="Les hôpitaux de Nantes">
 	    <img src="miniatures/hopitaux-nantes.jpg" alt="Liste des hopitaux de Nantes pendant la Première Guerre Mondiale"/></a>
-	    <figcaption>Les hôpitaux de Nantes<br />(source: Archives Municipales de Nantes)</figcaption>
+	    <figcaption>Les hôpitaux de Nantes<br/>(source: Archives Municipales de Nantes)</figcaption>
 	</figure>
 
 <p>Un lieutenant sera blessé le même jour, pendant la même bataille de Dinant : un certain <strong>Charles de GAULLE</strong>… </p>
@@ -246,7 +246,7 @@
     
     <ul>
     	<li><a href="http://archives.genealexis.fr/image/115-page-01" title="version numérisée du dossier d'ancien combattant d'Auguste FIEVET">Le dossier d'ancien combattant d'Auguste FIEVET</a></li>
-        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>     
+        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>     
     </ul>
 
 <p class="sources">
@@ -262,7 +262,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

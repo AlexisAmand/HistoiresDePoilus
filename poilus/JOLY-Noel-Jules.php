@@ -123,7 +123,7 @@
 	<figure>
 	    <a href="images/arbre-joly.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille JOLY">
 	    <img src="miniatures/arbre-joly.png" alt="Arbre généalogique simplifié de la famille JOLY" class="ArbreGenealogique"/></a>
-	    <figcaption>Arbre simplifié de la famille JOLY<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Arbre simplifié de la famille JOLY<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 <p>Pour la petite histoire, Lucia CARLIER (fille de <a href="CARLIER-Druon-Joseph.php" title="lien vers la page consacrée à Druon Carlier">Druon CARLIER</a>) épouse Noël JOLY (le fils de <a href="JOLY-Noel-Jules.php">Noël Jules JOLY) </a>le 24 septembre 1927 à Onnaing. </p>
@@ -131,7 +131,7 @@
 	<figure>
 	    <a href="portraits/joly-noel-jules.jpg" data-fancybox="gallery" data-caption="Portrait de Noël Jules JOLY">
 	    <img src="miniatures/joly-noel-jules.jpg" alt="Portrait de Noël Jules JOLY"/></a>
-	    <figcaption>Portrait de Noël Jules<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Portrait de Noël Jules<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 	<table style="width:70%;caption-side: bottom;">
@@ -169,7 +169,7 @@
 	<figure>
 	    <a href="sources/Joly-noel-matricule-01.jpg" data-fancybox="gallery" data-caption="Noël Jules JOLY, extrait de sa fiche matricule.">
 	    <img src="miniatures/Joly-noel-matricule-01.jpg" alt="extrait de la fiche matricule de Noël Jules JOLY"/></a>
-	    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 <br/><h2> Noël et le "Centre de résistance de Rocq"</h2>
@@ -179,7 +179,7 @@
 	<figure>
 	    <a href="images/fort-cerfontaine.jpg" data-fancybox="gallery" data-caption="L'entrée du Fort de Cerfontaine">
 	    <img src="miniatures/fort-cerfontaine.jpg" alt="L'entrée du Fort de Cerfontaine"/></a>
-	    <figcaption>Le Fort de Cerfontaine<br />(cliquez pour agrandir - source: http://www.mapio.cz/ )</figcaption>
+	    <figcaption>Le Fort de Cerfontaine<br/>(cliquez pour agrandir - source: http://www.mapio.cz/ )</figcaption>
 	</figure>    
     
     <p>Le 3 septembre, un déluge d’obus allemands, de gros calibres, du 210 et du 420, tombe pendant 2 jours sur les secteurs de Fagnet, la Salmagne, Boussois, Cerfontaine et Rocq où est cantonné Noël JOLY. </p><p>Le <strong>Centre de résistance de Rocq</strong> résistera héroïquement, plus d’une semaine, jusqu’au 6 septembre 1914, date à laquelle le secteur nord-est donne des signes de craquement. Le matin, au sud-est, une attaque est repoussée devant la position de Rocq. Au nord-est, deux attaques échouent mais une troisième parvient à enlever l’ouvrage de la Salmagne. Celui de Bersillies succombe à son tour le soir.</p>
@@ -187,7 +187,7 @@
 	<figure>
 	    <a href="images/forts-maubeuge.jpg" data-fancybox="gallery" data-caption="L'emplacement des forts de la place forte de Maubeuge en 1914">
 	    <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
-	    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
+	    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br/>et position des troupes le 3 septembre 1914<br/>(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
 	</figure>   
 
 <br/><h2>La chute de Maubeuge</h2>
@@ -197,7 +197,7 @@
 	<figure>
 	    <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" data-caption="La caserne Joyeuse (Maubeuge) avant 1914">
 	    <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg"  alt="La caserne Joyeuse de Maubeuge avant la Première Guerre Mondiale"/></a>
-	    <figcaption>La Caserne Joyeuse à Maubeuge<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>La Caserne Joyeuse à Maubeuge<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 <br/><h2>Prisonnier en Allemagne</h2>
@@ -207,19 +207,19 @@
 	<figure>
 	    <a href="images/friedrichsfeld-baraque.jpg" data-fancybox="gallery" data-caption="Une baraque à l'intérieur de camp de prisonniers de Friedrichsfeld">
 	    <img src="miniatures/friedrichsfeld-baraque.jpg" alt="Le camp de prisonniers de Friedrichsfeld sur une carte postale ancienne"/></a>
-	    <figcaption>Une baraque à Friedrichsfeld<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Une baraque à Friedrichsfeld<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 <p><strong>Noël Jules</strong> est libéré le 18 décembre 1918 et envoyé en congé illimité le 11 février 1919 par le 1er d'artillerie. Il se retire à Onnaing, rue Émile Zola.</p>
 
-<br /><h2>L'après guerre de Noël</h2>
+<br/><h2>L'après guerre de Noël</h2>
 
 <p>Le 9 septembre 1929, <strong>Noël Jules</strong> se voit délivrer une carte d'ancien combattant par le comité départemental. Il habite alors 30 rue Voltaire à Onnaing.</p>
 
 	<figure>
 	    <a href="sources/joly-noel-jules-carte.jpg" data-fancybox="gallery" data-caption="Carte d'ancien combattant de Noël Jules JOLY">
 	    <img src="miniatures/joly-noel-jules-carte.jpg" alt="Carte d'ancien combattant de Noël Jules JOLY"/></a>
-	    <figcaption>Carte d'ancien combattant ayant appartenu à Noël<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Carte d'ancien combattant ayant appartenu à Noël<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 <p>Cependant le 3 décembre 1947,<strong> Noël Jules</strong> apprend qu’il n’a plus droit à la carte du combattant au titre de l’<a href="sources/jorf-3-juillet-1930.php" title="lien vers le décrêt du 1er juillet 1930">article 2 du décret du 1er juillet 1930</a>. En effet, il était présent au <strong>1er Régiment d’Artillerie à Pied</strong> comme auxiliaire d’artillerie de places fortes et il s’agissait d’un « emploi non combattant ». Il faut bien comprendre que les régiments de territoriaux constitués par des hommes de 43 à 49 ans n'avaient pas pour vocation principale de participer à des combats mais plutôt d'occuper toutes les tâches non combattantes.</p>
@@ -227,14 +227,14 @@
 	<figure>
 	    <a href="sources/JOLY-carte-combattant.jpg" data-fancybox="gallery" data-caption="Dossier d'ancien combattant de Noël Jules JOLY (extrait)">
 	    <img src="miniatures/JOLY-carte-combattant.jpg" alt="Extrait du dossier d'ancien combattant de Noël Jules JOLY"/></a>
-	    <figcaption>Extrait de son dossier d'ancien combattant<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Extrait de son dossier d'ancien combattant<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 <h2>Sources et bibliographie</h2>
     
     <ul>
         <li><a href="http://archives.genealexis.fr/album/22-joly-noel" title="version numérisée du dossier d'ancien combattant de Noël JOLY">Le dossier d'ancien combattant de Noël JOLY</a></li>
-        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
+        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
         <li><a href="../pdf/Maubeuge-1914-Duvivier.pdf">Maubeuge 1914</a> (Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
         <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a> (source allemande)</li>
         <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf">Aus deutschen Kriegsgefangenenlagern</a> (Deutsches Rotes Kreuz)</li>
@@ -256,7 +256,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

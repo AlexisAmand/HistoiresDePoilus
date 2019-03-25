@@ -111,7 +111,7 @@
 <figure>
     <img src="miniatures/Gorlitz/gorlitz-01.jpg" alt="Des prisonniers du camp de Görlitz en rang pour la photographie">
     <figcaption>En rang pour la photographie
-    <br />(source allemande)</figcaption>
+    <br/>(source allemande)</figcaption>
 </figure>
 
 <p class="sources">
@@ -127,7 +127,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

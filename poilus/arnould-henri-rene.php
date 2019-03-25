@@ -103,13 +103,13 @@
 	<figure>
 	    <a href="images/croquis-1916-2" data-fancybox="gallery" data-caption=" ">
 	    <img src="miniatures/croquis-1916-2" alt=" "></a>
-	    <figcaption>Verdun: Attaques sur la rive gauche<br />(source: Delcampe)</figcaption>
+	    <figcaption>Verdun: Attaques sur la rive gauche<br/>(source: Delcampe)</figcaption>
 	</figure>
 		
 	<figure>
 	    <a href="sources/arnould-henri-rene.jpg" data-fancybox="gallery" data-caption="Henri René ARNOULD, mort pour la France">
 	    <img src="miniatures/arnould-henri-rene.jpg" alt="Fiche de mort pour la France de Henri René ARNOULD"></a>
-	    <figcaption>Henri, mort pour la France.<br />(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
+	    <figcaption>Henri, mort pour la France.<br/>(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
 	</figure> 
 
 <p class="sources">
@@ -125,7 +125,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

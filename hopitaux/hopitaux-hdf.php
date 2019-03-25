@@ -90,6 +90,8 @@
 
 <h1>Les hôpitaux</h1>
 
+<p>hopital d'évacuation n°36 de Catenoy</p>
+
 <h2>Amiens</h2>
 
 <p>HB n° 4 bis ?</p>
@@ -102,7 +104,7 @@
 	<a href="images/hopital-mixte-amiens.jpeg" data-fancybox="gallery" data-caption="L'hôpital mixte d'Amiens">
     <img src="miniatures/hopital-mixte-amiens.jpeg" alt="L'hôpital mixte installé à l'Hôtel Dieu d'Amiens"></a>
         <figcaption>
-        Localisation d'un projectile sur un blessé<br />
+        Localisation d'un projectile sur un blessé<br/>
         à l'Hôtel Dieu d'Amiens (Hôpital Mixte) en octobre 1914<br/>
         (source: Archives d'électricité médicale n°422, novembre 1917)
         </figcaption>
@@ -153,7 +155,7 @@
 	<figure>
 	<a href="images/valenciennes-ha-2.jpg" data-fancybox="gallery" data-caption="L'hôpitaux auxiliaires n°2 bis au lycée de jeunes filles (Valenciennes)">
     <img src="miniatures/valenciennes-ha-2.jpg" alt="L'hôpitaux auxiliaires n°2 bis de Valenciennes situé au lycée de jeunes filles"></a>
-        <figcaption>Le lycée de jeunes filles où sera installé<br />l'hôpital auxiliaire n°2 bis</figcaption>
+        <figcaption>Le lycée de jeunes filles où sera installé<br/>l'hôpital auxiliaire n°2 bis</figcaption>
     </figure>
 
 <p class="sources">
@@ -169,7 +171,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

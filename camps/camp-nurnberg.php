@@ -121,7 +121,7 @@
     <a href="images/Nurnberg/le_canard_journal_des_prisonniers.jpg" data-fancybox="gallery" data-caption="Le Canard du 15 août 1916">
     <img src="miniatures/Nurnberg/le_canard_journal_des_prisonniers.jpg" alt="Le premier exemplaire du canard, journal des prisonniers du camp de Nüremberg">
     </a>
-    <figcaption>Le Canard<br />(Source: Gallica/BNF)</figcaption>
+    <figcaption>Le Canard<br/>(Source: Gallica/BNF)</figcaption>
 </figure>
 
 <p>En mars 1918, le seul prisonnier belge se trouvant dans le camp de Nüremberg est transféré dans le camp d'Erlangen.</p>
@@ -130,7 +130,7 @@
     <a href="images/Nurnberg/nurnberg-01.jpg" data-fancybox="gallery" data-caption="Prisonniers de guerre à l'appel à Nüremberg">
     <img src="miniatures/Nurnberg/nurnberg-01.jpg" alt="L'appel des prisonniers de guerre dans le camp de Nüremberg pendant la Première Guerre Mondiale">
     </a>
-    <figcaption>Prisonniers de guerre à l'appel<br />(source allemande)</figcaption>
+    <figcaption>Prisonniers de guerre à l'appel<br/>(source allemande)</figcaption>
 </figure>
 
 <h2>Sources et bibliographie</h2>
@@ -153,7 +153,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

@@ -123,13 +123,13 @@
 	<figure>
 	    <a href="images/arbre-grain.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille GRAIN">
 	    <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" class="ArbreGenealogique"/></a>
-	    <figcaption>Arbre simplifié de la famille GRAIN<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Arbre simplifié de la famille GRAIN<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 	<figure>
 	    <a href="sources/louis-grain-matricule-01.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Louis GRAIN (Extrait)">
 	    <img src="miniatures/louis-grain-matricule-01.jpg" alt="Extrait de la fiche matricule de Louis GRAIN"/></a>
-	    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 	<table style="width:70%">
@@ -141,10 +141,10 @@
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>1906</td><td>Rue Neuve<br />à Villers-Guislain (Nord)</td>
+	            <td>1906</td><td>Rue Neuve<br/>à Villers-Guislain (Nord)</td>
 	        </tr>
 	        <tr>
-	            <td>1911</td><td>Rue de Merlan<br />à Bétheniville (Marne)</td>
+	            <td>1911</td><td>Rue de Merlan<br/>à Bétheniville (Marne)</td>
 	        </tr>
 	    </tbody>   
 	</table>
@@ -158,7 +158,7 @@
 	<figure>
 	    <a href="images/forts-maubeuge.jpg" data-fancybox="gallery" data-caption="L'emplacement des forts de la place forte de Maubeuge en 1914">
 	    <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
-	    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
+	    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br/>et position des troupes le 3 septembre 1914<br/>(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
 	</figure>
 
 <br/><h2>L'attaque des allemands</h2>
@@ -172,7 +172,7 @@
 	<figure>
 	    <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" data-caption="La Caserne Joyeuse (Maubeuge) avant 1914">
 	    <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg" alt="La caserne Joyeuse à Maubeuge avant la Première Guerre Mondiale"/></a>
-	    <figcaption>La Caserne Joyeuse à Maubeuge<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>La Caserne Joyeuse à Maubeuge<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
 <br/><h2>C'est fini pour Maubeuge...</h2>
@@ -182,12 +182,12 @@
 	<figure>
 	    <a id="single_image0" href="images/camp-de-chemnitz.jpg" title="le camp de Chemnitz pendant la Première Guerre Mondiale">
 	    <img src="miniatures/camp-de-chemnitz.jpg" alt="le camp de Chemnitz (Allemagne)"/></a>
-	    <figcaption>Le camp de Chemnitz<br />(Cliquez pour agrandir)</figcaption>
+	    <figcaption>Le camp de Chemnitz<br/>(Cliquez pour agrandir)</figcaption>
 	</figure>
 
 <p>Selon son dossier d'ancien combattant, <strong>Louis</strong> est libéré du <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de Chemnitz</a> le 8 janvier 1919.</p>
 
-<br /><h2>...mais à Villers-Guislain, la guerre arrive.</h2>
+<br/><h2>...mais à Villers-Guislain, la guerre arrive.</h2>
 
 <p>Dans son ouvrage "La France Occupée", Philippe Nivet raconte que le village de Villers-Guislain, où sont nés <a href="GRAIN-Louis.php">Louis</a> et <a href="GRAIN-Leon-Albert.php">Léon Albert GRAIN</a>, est occupé depuis 1914. En 1916, les Allemands ont demandé à la mairie une dizaine de jeune fille pour placer les cartouches dans les bandes de chargement; comme aucune volontaire ne s'est présentée, les Allemands en ont emprisonné 4 pendant 2 heures et ont fait savoir qu'ils mettraient toutes les filles en prison si la commune ne présentaient pas des volontaires. Six jeunes filles se sont finalement résignées à la faire le travail exigé. </p>
 
@@ -197,7 +197,7 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
         <li><a href="../pdf/Maubeuge-1914-Duvivier.pdf">Maubeuge 1914</a> (Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
         <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a> (source allemande)</li>
         <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf">Aus deutschen Kriegsgefangenenlagern</a> (Deutsches Rotes Kreuz)</li>
@@ -219,7 +219,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>  

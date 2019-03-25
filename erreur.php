@@ -57,7 +57,7 @@
 
     <h1>Erreur 404</h1>
    
-    <p>Oups ! La page que vous demandez n'a pas été trouvée !<br />Peut-être a t-elle été déplacée ou supprimée ?</p>
+    <p>Oups ! La page que vous demandez n'a pas été trouvée !<br/>Peut-être a t-elle été déplacée ou supprimée ?</p>
 
     <figure><img src="/images/periscope.jpg" alt=""/></figure>
     
@@ -74,7 +74,7 @@
     <a href="/contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="/cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('include/stats.inc'); ?>

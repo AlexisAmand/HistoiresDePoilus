@@ -122,7 +122,7 @@
 &nbsp;<figure>
     <a href="images/wurzburg-01.png" data-fancybox="gallery" data-caption="La salle des lavabos dans le camp de Würzburg">
     <img src="miniatures/wurzburg-01.png" alt="les lavabos dans le camps de prisonniers de Würzburg pendant la Première Guerre Mondiale"></a>
-    <figcaption>La salle des lavabos<br />(source allemande)</figcaption>
+    <figcaption>La salle des lavabos<br/>(source allemande)</figcaption>
 </figure>
 
 <h2>Sources et bibliographie</h2>
@@ -146,7 +146,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

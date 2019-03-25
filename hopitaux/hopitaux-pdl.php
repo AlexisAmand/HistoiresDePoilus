@@ -96,19 +96,19 @@
 	<figure>
 	<a href="images/nantes-ht-3.jpg" data-fancybox="gallery" data-caption="L'hôpital temporaire n°3 (Nantes)">
     <img src="miniatures/nantes-ht-3.jpg" alt="Une salle de l'hôpital temporaire n°3 de Nantes pendant la Grande Guerre"></a>
-        <figcaption>Une salle de l'hôpital temporaire n°3,<br>situé rue Mondésir</figcaption>
+        <figcaption>Une salle de l'hôpital temporaire n°3,<br/>situé rue Mondésir</figcaption>
     </figure>
 
 	<figure>
 	<a href="images/nantes-ht-3-1.jpg" data-fancybox="gallery" data-caption="L'hôpital temporaire n°3 (Nantes)">
     <img src="miniatures/nantes-ht-3-1.jpg" alt="Une salle de l'hôpital temporaire n°3 de Nantes pendant la Grande Guerre"></a>
-        <figcaption>Une salle de l'hôpital temporaire n°3,<br>situé rue Mondésir</figcaption>
+        <figcaption>Une salle de l'hôpital temporaire n°3,<br/>situé rue Mondésir</figcaption>
     </figure>
     
 	<figure>
 	<a href="images/nantes-ht-3-2.jpg" data-fancybox="gallery" data-caption="L'hôpital temporaire n°3 (Nantes)">
     <img src="miniatures/nantes-ht-3-2.jpg" alt="Une salle de l'hôpital temporaire n°3 de Nantes pendant la Grande Guerre"></a>
-        <figcaption>Une salle de l'hôpital temporaire n°3,<br>situé rue Mondésir</figcaption>
+        <figcaption>Une salle de l'hôpital temporaire n°3,<br/>situé rue Mondésir</figcaption>
     </figure>    
 
 <p>Selon les Archives Municipales de Nantes, il existait un hôpital n°31, situé dans l'ancien séminaire de philosophie, rue Saint-Clément. Il avait une capacité de 300 lits et a fonctionné du 25 août 1914 au 24 septembre 1916.</p> 
@@ -126,7 +126,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

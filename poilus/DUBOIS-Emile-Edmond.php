@@ -124,13 +124,13 @@
 	<figure>
 	    <a href="images/arbre-grain.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille DUBOIS-GRAIN">
 	    <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille DUBOIS-GRAIN" class="ArbreGenealogique"/></a>
-	    <figcaption>Arbre simplifié de la famille DUBOIS-GRAIN<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Arbre simplifié de la famille DUBOIS-GRAIN<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 	
 	<figure>
 	    <a href="images/census-villers-guislain-1906.jpg" data-fancybox="gallery" data-caption="Extrait du recensement de Villers-Guislain">
 	    <img src="miniatures/census-villers-guislain-1906.jpg" alt="Extrait du recensement de Villers-Guislain de 1906"></a>
-	    <figcaption>Extrait du recensement de Villers-Guislain (1906)<br />(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption> 
+	    <figcaption>Extrait du recensement de Villers-Guislain (1906)<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption> 
 	</figure>
 
 	<table style="width:70%;caption-side: bottom;">
@@ -168,38 +168,38 @@
 	<figure>
 	    <a href="sources/DUBOIS-Emile-Edmond-matricule.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Émile DUBOIS">
 	    <img src="miniatures/DUBOIS-Emile-Edmond-matricule.jpg" alt="Extrait de la fiche matricule d'Émile DUBOIS"/></a>
-	    <figcaption>Extrait de sa fiche matricule<br />(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption> 
+	    <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption> 
 	</figure>
 
 <p>La partie qui suit est directement issue de l'Historique du 294e Régiment d'Infanterie, j'ai juste apporté 2 ou 3 petites modifications pour faciliter la lecture.</p>
 
 <p><em>"Formé à deux bataillons, <strong>Émile Edmond DUBOIS</strong> et le 294e Régiment d'Infanterie quittent Bar-le-Duc et entrent en campagne le 9 août sous les ordres du Lieutenant Colonel DUPERRIER. Le 294e R.I fait partie de la 56e Division d'Infanterie, 111e Brigade. Au cours de la campagne de 1914, il participe au combat de Buzy, de Senlis, à la Bataille de la Marne, au combat sur l'Aisne et à la Bataille de l'Oise."</em></p>
 
-<br /><h2>Le combat de Buzy</h2>
+<br/><h2>Le combat de Buzy</h2>
 
 <p><em>"Le choc a lieu le 25 août. Le Régiment est en deuxième ligne. La 56e Division d'Infanterie obtient un succès important et repousse complètement l’ennemi à Buzy le contraignant à battre en retraite et lui infligeant de grosses pertes. La situation critique de l’Aile Gauche de l’Armée Française est telle que le succès n’est pas exploité et la 56e Division d'Infanterie reçoit l’ordre de rompre le combat pour être transportée vers le Nord. Le 294e Régiment d'Infanterie embarque en chemin de fer à Dugny et à Dieue, débarque à Moyenneville et Tricot (Oise) et se dirige sur Montdidier pour prendre position en avant de Senlis."</em></p>
 
-<br /><h2>Le combat de Senlis</h2>
+<br/><h2>Le combat de Senlis</h2>
     
 <p><em>"La 56e Division d'Infanterie a pour mission de ralentir la marche de l’ennemi dont les avant-gardes cherchent à se rapprocher de Paris. Le 2 septembre, le régiment en arrière garde de la 56e Division d'Infanterie, reçoit l’ordre de tenir les lisères de Senlis jusqu’à 13 heures. Dès l’aube, les éléments avancés de l’ennemi attaquent, mais ne parviennent pas, malgré le tir acharné de leur artillerie, à nous déloger et le Régiment résiste sur les positions qui ont été assignées jusqu’à 15 heures, se replie ensuite par les bois et par la ville de Senlis. Le 3, le Régiment se dégage et se replie sur Ory-la-Ville, le Lieutenant Colonel DUPERRIER, malade, est évacué et le Chef de Bataillon SELVA prend le commandement du régiment. Le 4, le Régiment cantonne à Dammartin-en-Goele, et prend le lendemain la direction de l’Est, se dirigeant vers Saint-Soupplet."</em></p>
     
 	<figure>
 	    <a href="images/Cpa_Senlis.jpg" data-fancybox="gallery" data-caption="Senlis incendiée par les Allemands en 1914">
 	    <img src="miniatures/Cpa_Senlis.jpg" alt="Senlis incendiée par les Allemands pendant la Grande Guerre sur une carte postale ancienne"></a>
-	    <figcaption>Senlis incendiée par les Allemands le 2 septembre 1914<br />(cliquez pour agrandir)</figcaption> 
+	    <figcaption>Senlis incendiée par les Allemands le 2 septembre 1914<br/>(cliquez pour agrandir)</figcaption> 
 	</figure>
 
-<br /><h2>La Bataille de la Marne</h2>
+<br/><h2>La Bataille de la Marne</h2>
    
 <p><em>"L’Armée Française prend l’offensive, le 294e Régiment d'Infanterie prend par en 1ère ligne au combat d’Etrépilly et attaque la ferme de Champfleury, dont il s’empare le 5 septembre. Le 6 et le 7, les combats se succèdent très violents et le Régiment poursuivant l’ennemi continue sa progression vers l’Aisne."</em></p>
 
 	<figure>
 	    <a href="images/ferme-de-champfleury.jpg" data-fancybox="gallery" data-caption="La ferme de Champfleury en 1914">
 	    <img src="miniatures/ferme-de-champfleury.jpg" alt="La ferme de Champfleury après les bombardements de septembre 1914"></a>
-	    <figcaption>La ferme de Champfleury après le bombardement<br />(cliquez pour agrandir)</figcaption> 
+	    <figcaption>La ferme de Champfleury après le bombardement<br/>(cliquez pour agrandir)</figcaption> 
 	</figure>
 
-<br /><h2>Le combat sur l'Aisne</h2>
+<br/><h2>Le combat sur l'Aisne</h2>
     
 <p>Le 13 septembre, Émile DUBOIS et son régiment reçoivent l'ordre de traverser l’Aisne. Ils se heurtent à Saconin-et-Breuil, à une résistance acharnée de l’ennemi dont l’artillerie déclenche des barrages continuels sur les ponts (Combat de Vaux-Mercin). Après plusieurs tentatives meurtrières, le Régiment parvient le 15 à franchir la rivière après avoir glissé sur la droite jusque 4 km environ à l’Est de Vic-sur-Aisne, à Fontenoy. Le Régiment se regroupe sur la rive droite et prend part aux combats livrés sur le plateau de Nouvron les 17-18-19 et 20 septembre (Combat de Berry-au-Bac). Placé en réserve le 21, Émile et le 294e Régiment d'Infanterie prennent la direction au Nord et après avoir traversé Carlepont et Ribécourt, et sont embarqués à Compiègne à destination de la Boissière – Fécamp ou s’opère le débarquement.</p>
 
@@ -218,7 +218,7 @@
 	<figure>
 	    <a href="images/montdidier-1914-1918.jpg" data-fancybox="gallery" data-caption="Les ruines de Montdidier">
 	    <img src="miniatures/montdidier-1914-1918.jpg"  alt="Les ruines de Montdidier pendant la Première Guerre Mondiale"/></a>
-	    <figcaption>Les ruines de Montdidier (date inconnue)<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Les ruines de Montdidier (date inconnue)<br/>(cliquez pour agrandir)</figcaption>
 	</figure>  
 
 <br/><h2>Émile, mort pour la France</h2>
@@ -239,7 +239,7 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>      
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>      
     </ul>
 
 <p class="sources">
@@ -255,7 +255,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

@@ -123,7 +123,7 @@
 	<figure>
 	    <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="La famille CARIN">
 	    <img src="miniatures/arbre-carin.png"  alt="arbre généalogique de la Famille Carin de Lourches et Roeulx"  class="ArbreGenealogique"></a>
-	    <figcaption>Arbre généalogique de la famille CARIN<br />(cliquez pour agrandir)</figcaption>
+	    <figcaption>Arbre généalogique de la famille CARIN<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 	     
 	<figure>
@@ -151,7 +151,7 @@
 	<figure>
 	    <a href="sources/CARIN-edouard-mpf.JPG"  data-fancybox="gallery" data-caption="Edouard CARIN, mort pour la France">
 	    <img src="miniatures/CARIN-edouard-mpf.JPG" alt="Fiche de mort pour la France d'Edouard CARIN"/></a>
-	    <figcaption>Edouard, mort pour la France.<br />(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
+	    <figcaption>Edouard, mort pour la France.<br/>(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
 	</figure>
 
 <p class="sources">
@@ -161,7 +161,7 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>      
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>      
     </ul>
 
 </article>
@@ -173,7 +173,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

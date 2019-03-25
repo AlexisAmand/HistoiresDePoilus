@@ -108,7 +108,7 @@
 
 <h1>Auguste Victor FIEVET</h1>
 
-<p>Extrait du dossier d'ancien combattant d'Auguste Victor FIEVET.<br />
+<p>Extrait du dossier d'ancien combattant d'Auguste Victor FIEVET.<br/>
 <a href="../FIEVET-Auguste-Victor.php">Retour à la page consacrée à Auguste Victor</a>. </p>
 
 	<figure>
@@ -128,7 +128,7 @@
     <a href="../../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../../include/stats.inc'); ?> 

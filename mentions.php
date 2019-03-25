@@ -66,7 +66,7 @@
 
 <p><a href="http://www.amen.fr/">AMEN SASU</a><br/>12-14, Rond Point des Champs Elysées 75008 Paris.<br/>RCS : 421 527 797 000 11<br/></p>
 
-<br /><h2>Informations complémentaires</h2>
+<br/><h2>Informations complémentaires</h2>
 
 <ul>
 	<li>Conformément à la loi n° 78-17 du 6 janvier 1978, relative à l'Informatique, aux Fichiers et aux Libertés, vous disposez d'un droit d'accès et de rectification des données à caractère personnel vous concernant et faisant l’objet de traitements.</li>
@@ -87,7 +87,7 @@
     <a href="contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('include/stats.inc'); ?>

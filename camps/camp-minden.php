@@ -167,13 +167,13 @@
 <figure>
     <a href="images/minden-05.jpg" data-fancybox="gallery" data-caption="La construction des chemins à Minden">
     <img src="miniatures/minden-05.jpg" alt="La construction des chemins par les prisonniers du camp de Minden pendant la Première Guerre Mondiale"></a>
-    <figcaption>La construction des chemins<br />(source allemande)</figcaption>
+    <figcaption>La construction des chemins<br/>(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/minden-04.jpg" data-fancybox="gallery" data-caption="Pose du chemin de fer portatif à Minden">
     <img src="miniatures/minden-04.jpg" alt="La pose d'un chemin de fer portatif par les prisonniers du camp de Minden pendant la Première Guerre Mondiale"></a>
-    <figcaption>Pose du chemin de fer portatif<br />(source allemande)</figcaption>
+    <figcaption>Pose du chemin de fer portatif<br/>(source allemande)</figcaption>
 </figure>
 
 <h2>La vie au camp n°1</h2>
@@ -181,13 +181,13 @@
 <figure>
     <a href="images/minden-02.jpg" data-fancybox="gallery" data-caption="Distribution de dons patriotiques à Minden I">
     <img src="miniatures/minden-02.jpg" alt="Distribution de dons patriotiques aux prisonniers du camps de Minden pendant la Première Guerre Mondiale"></a>
-    <figcaption>Distribution de dons patriotiques<br />(source allemande)</figcaption>
+    <figcaption>Distribution de dons patriotiques<br/>(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/minden-01.jpg" data-fancybox="gallery" data-caption="Une salle de soldats à Minden I">
     <img src="miniatures/minden-01.jpg" alt="Une salle de soldats au camp de prisonniers de Minden I pendant la Première Guerre Mondiale"></a>
-    <figcaption>Salle de soldats au camp<br />(source allemande)</figcaption>
+    <figcaption>Salle de soldats au camp<br/>(source allemande)</figcaption>
 </figure>
 
 <h2>La vie au camp n°2</h2>
@@ -195,7 +195,7 @@
 <figure>
     <a href="images/minden-03.jpg" data-fancybox="gallery" data-caption="La cuisine et le menu à Minden II">
     <img src="miniatures/minden-03.jpg" alt="La cuisine et le menu au camp de prisonniers de Minden II"></a>
-    <figcaption>Cuisine et menu<br />(source allemande)</figcaption>
+    <figcaption>Cuisine et menu<br/>(source allemande)</figcaption>
 </figure>
 
 <h2>Sources et bibliographie</h2>
@@ -218,7 +218,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

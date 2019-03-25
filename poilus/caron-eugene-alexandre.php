@@ -97,7 +97,7 @@
 	<figure>
 	    <a href="images/reims-barbatre.jpg" data-fancybox="gallery" data-caption="la Rue du Barbâtre à Reims">
 	    <img src="miniatures/reims-barbatre.jpg" alt="la Rue du Barbâtre à Reims sur une carte postale ancienne"/></a>
-	    <figcaption>la Rue du Barbâtre<br />(Source: Delcampe)</figcaption>
+	    <figcaption>la Rue du Barbâtre<br/>(Source: Delcampe)</figcaption>
 	</figure>
 
 <p class="sources">
@@ -113,7 +113,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

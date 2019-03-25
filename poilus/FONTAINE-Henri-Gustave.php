@@ -123,7 +123,7 @@
 	<figure>
 	    <a href="images/anzin-rue-kleber.jpg" data-fancybox="gallery" data-caption="La rue Kléber à Anzin">
 	    <img src="miniatures/anzin-rue-kleber.jpg" alt="La rue Kléber à Anzin sur une carte postale"/></a>
-	    <figcaption>La Rue Kléber à Anzin<br />(Source: Bibliothèque municipale de Valenciennes)</figcaption>
+	    <figcaption>La Rue Kléber à Anzin<br/>(Source: Bibliothèque municipale de Valenciennes)</figcaption>
 	</figure>
 
 <p>Il s'unit à Valenciennes (Nord) avec Bertha CANONNE le 3 avril 1914. Bertha est la fille légitime de Nestor CANONNE et de Marie Eugénie DUCHÊNE. Le couple aura plusieurs enfants: Henri, Madeleine (mon arrière-grand-mère, qui épousera Kleber le fils de <a href="FIEVET-Charles-Augustin.php" title="Voir la page consacrée à Charles Augustin Fievet">Charles Augustin FIEVET</a>), René, Marcel et Marie-Louise.</p>
@@ -131,7 +131,7 @@
 	<figure>
 	    <a href="portraits/tous-les-grand-peres.jpg" data-fancybox="gallery" data-caption="La famille FONTAINE">
 	    <img src="miniatures/tous-les-grand-peres.jpg" alt="La famille FONTAINE"/></a>
-	    <figcaption>Henri Gustave, debout avec le chapeau<br />(Source: Archives familiales)</figcaption>
+	    <figcaption>Henri Gustave, debout avec le chapeau<br/>(Source: Archives familiales)</figcaption>
 	</figure>
 
 	<table style="width:70%;caption-side: bottom;">
@@ -195,7 +195,7 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
-         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>      
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>      
     </ul>
 
 <p class="sources">
@@ -211,7 +211,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>

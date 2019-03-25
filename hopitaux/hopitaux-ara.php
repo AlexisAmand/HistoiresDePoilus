@@ -98,7 +98,7 @@
     <figure>
     <a href="images/saint-chamond-ha-94.jpg" data-fancybox="gallery" data-caption="L'hôpital auxiliaire n°94 (Saint-Chamond)">
    	<img src="miniatures/saint-chamond-ha-94.jpg" alt="L'hôpital auxiliaire n°94, situé à l'Institution Sainte Marie de Saint-Chamond"></a>
-    	<figcaption>L'hôpital auxiliaire n°94,<br />situé à l'Institution Sainte Marie</figcaption>
+    	<figcaption>L'hôpital auxiliaire n°94,<br/>situé à l'Institution Sainte Marie</figcaption>
     </figure>
 
 <p>Le <em>Bulletin de la Société de secours aux blessés militaires</em> daté d'avril 1919 précise que l'hôpital auxiliaire n°10 comprenait une vaste salle d'opération avec salle vitrée isolée pour les opérations, pharmacie et radiographie complète attenante, mécanothérapie et bains de lumière; de nombreux dortoirs, contenant 115 lits, une très grande cuisine avec chauffage au gaz et au charbon, un réfectoire pour 115 blessés et au autre plus petit pour les officiers, un préau ombragé d'arbres pour l'été et un fumoir-théâtre pour l'hiver, enfin des salles de douches, des caves des dépôts.</p>
@@ -106,7 +106,7 @@
     <figure>
     <a href="images/saint-chamond-ht-10.jpg" data-fancybox="gallery" data-caption="L'hôpital auxiliaire n°10 (Saint-Chamond)">
    	<img src="miniatures/saint-chamond-ht-10.jpg" alt="L'hôpital auxiliaire n°10, situé à l'Institution Sainte Marie de Saint-Chamond"></a>
-    	<figcaption>L'hôpital auxiliaire n°10,<br />à l'Institution Sainte Marie</figcaption>
+    	<figcaption>L'hôpital auxiliaire n°10,<br/>à l'Institution Sainte Marie</figcaption>
     </figure>
 
 <h2>Vichy</h2>
@@ -114,13 +114,13 @@
     <figure>
     <a href="images/vichy-ht-48.jpg" data-fancybox="gallery" data-caption="L'hôpital complémentaire n°48 (Vichy)">
    	<img src="miniatures/vichy-ht-48.jpg" alt="L'hôpital complémentaire n°48 à l'Hôtel de bains de Vichy"></a>
-    	<figcaption>L'hôpital complémentaire n°48,<br />situé à l'Hôtel des bains</figcaption>
+    	<figcaption>L'hôpital complémentaire n°48,<br/>situé à l'Hôtel des bains</figcaption>
     </figure>
     
     <figure>
     <a href="images/vichy-ht-54.jpg" data-fancybox="gallery" data-caption="L'hôpital complémentaire n°54 (Vichy)">
    	<img src="miniatures/vichy-ht-54.jpg" alt="L'hôpital complémentaire n°54 à l'Hôtel Beaujolais de Vichy"></a>
-    	<figcaption>L'hôpital complémentaire n°54,<br />situé à l'Hôtel Beaujolais</figcaption>
+    	<figcaption>L'hôpital complémentaire n°54,<br/>situé à l'Hôtel Beaujolais</figcaption>
     </figure>
 
 <p class="sources">
@@ -136,7 +136,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

@@ -61,7 +61,7 @@
 <li><a href="anzin.php">Anzin</a></li>
 <li><a href="bry.php">Bry</a></li>
 <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
-<li><a href="cousolre.php">cousolre</a></li> 
+<li><a href="cousolre.php">Cousolre</a></li> 
 <li><a href="eth.php">Eth</a></li>
 <li><a href="gussignies.php">Gussignies</a></li>
 <li><a href="lourches.php">Lourches</a></li>
@@ -131,113 +131,113 @@
 <table>
   <thead>
   <tr>
-    <th id="nom" width="158px">Nom et prénom(s)</th>
-    <th id="naissance" width="158px">Date et lieu<br />de naissance</th>
-    <th id="mort" width="158px">Date et lieu<br />de décès</th>
-    <th id="corps" width="70px">Corps</th>
-    <th id="genre" width="90px">Genre<br />de mort</th>
+    <th id="nom">Nom et prénom(s)</th>
+    <th id="naissance">Date et lieu<br/>de naissance</th>
+    <th id="mort">Date et lieu<br/>de décès</th>
+    <th id="corps">Corps</th>
+    <th id="genre">Genre<br/>de mort</th>
   </tr>
   </thead>
   <tr>
-    <td headers="nom">BAUDOT<br />Henri Joseph</td>
-    <td headers="naissance">Le 30 mars 1888<br />à Daix</td>
-    <td headers="mort">Le 18 décembre 1914<br />à Apremont (Meuse)</td>
+    <td headers="nom">BAUDOT<br/>Henri Joseph</td>
+    <td headers="naissance">Le 30 mars 1888<br/>à Daix</td>
+    <td headers="mort">Le 18 décembre 1914<br/>à Apremont (Meuse)</td>
     <td headers="corps">27e R.I</td>
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">BOUSSAGEON<br />Henri Alfred</td>
-    <td headers="naissance">Le 8 septembre 1895<br />à Daix<sup>1</sup></td>
-    <td headers="mort">Le 26 septembre 1915<br />à Aix-Noulette (P. de Calais)</td>
+    <td headers="nom">BOUSSAGEON<br/>Henri Alfred</td>
+    <td headers="naissance">Le 8 septembre 1895<br/>à Daix<sup>1</sup></td>
+    <td headers="mort">Le 26 septembre 1915<br/>à Aix-Noulette (P. de Calais)</td>
     <td headers="corps">149e R.I</td>
     <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">BOUSSAGEON<br />Paul</td>
-    <td headers="naissance">Le 3 avril 1882<br />à Echigey (Côte-d'Or)</td>
-    <td headers="mort">Le 28 Octobre 1916<br />à l'ambulance de Souhesmes (Meuse)</td>
+    <td headers="nom">BOUSSAGEON<br/>Paul</td>
+    <td headers="naissance">Le 3 avril 1882<br/>à Echigey (Côte-d'Or)</td>
+    <td headers="mort">Le 28 Octobre 1916<br/>à l'ambulance de Souhesmes (Meuse)</td>
     <td headers="corps">11e R.I</td>
     <td headers="genre">blessure de guerre</td>
   </tr>
   <tr>
-    <td headers="nom">DEBOST<br />Bernard</td>
+    <td headers="nom">DEBOST<br/>Bernard</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">DEBOST<br />Jean</td>
+    <td headers="nom">DEBOST<br/>Jean</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">DUBATON<br />Henri</td>
-    <td headers="naissance">Le 28 août 1876<br />à Lucenay-le-Duc<br />(Côte-d'Or)</td>
-    <td headers="mort">Le 1er juin 1917<br />à <a href="../hopitaux/hopitaux-ges.php">l'hôpital de complementaire<br />de Troyes (Aube)</a></td>
+    <td headers="nom">DUBATON<br/>Henri</td>
+    <td headers="naissance">Le 28 août 1876<br/>à Lucenay-le-Duc<br/>(Côte-d'Or)</td>
+    <td headers="mort">Le 1er juin 1917<br/>à <a href="../hopitaux/hopitaux-ges.php">l'hôpital de complementaire<br/>de Troyes (Aube)</a></td>
     <td headers="corps">15e R.A</td>
     <td headers="genre">maladie</td>
   </tr>
   <tr>
-    <td headers="nom">FREROT<br />Eugène Nicolas</td>
-    <td headers="naissance">Le 4 janvier 1877<br />à Malain (Côte-d'Or)</td>
-    <td headers="mort">Le 21 décembre 1914<br />dans la forêst d'Apremont<br />(Meuse)</td>
+    <td headers="nom">FREROT<br/>Eugène Nicolas</td>
+    <td headers="naissance">Le 4 janvier 1877<br/>à Malain (Côte-d'Or)</td>
+    <td headers="mort">Le 21 décembre 1914<br/>dans la forêst d'Apremont<br/>(Meuse)</td>
     <td headers="corps">27e R.I</td>
     <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">GAUTHEY<br />Émile Jean-Baptiste</td>
-    <td headers="naissance">Le 30 juin 1877<br />à Daix</td>
-    <td headers="mort">Le 4 décembre 1914<br />à Chaillon (Meuse)</td>
-    <td headers="corps">27e R.I<br />6e Cie</td>
+    <td headers="nom">GAUTHEY<br/>Émile Jean-Baptiste</td>
+    <td headers="naissance">Le 30 juin 1877<br/>à Daix</td>
+    <td headers="mort">Le 4 décembre 1914<br/>à Chaillon (Meuse)</td>
+    <td headers="corps">27e R.I<br/>6e Cie</td>
     <td headers="genre">blessures de guerre</td>
     </tr>
   <tr>
-    <td headers="nom">JOURNOT<br />Adrien Paul</td>
-    <td headers="naissance">Le 2 août 1898<br />à Poncey-sur-l'Ignon<br />(Côte-d'Or)</td>
-    <td headers="mort">Le 25 août 1914<br />à Saint-Barbe (Vosges)</td>
+    <td headers="nom">JOURNOT<br/>Adrien Paul</td>
+    <td headers="naissance">Le 2 août 1898<br/>à Poncey-sur-l'Ignon<br/>(Côte-d'Or)</td>
+    <td headers="mort">Le 25 août 1914<br/>à Saint-Barbe (Vosges)</td>
     <td headers="corps">10e B.C</td>
     <td headers="genre">disparu</td>
     </tr>
   <tr>
-    <td headers="nom">JOURNOT<br />Léon Fergent</td>
-    <td headers="naissance">Le 3 juillet 1887<br />à Pluvet (Côte-d'Or)</td>
-    <td headers="mort">Le 26 octobre 1918<br />à Abbécourt (Aisne)</td>
+    <td headers="nom">JOURNOT<br/>Léon Fergent</td>
+    <td headers="naissance">Le 3 juillet 1887<br/>à Pluvet (Côte-d'Or)</td>
+    <td headers="mort">Le 26 octobre 1918<br/>à Abbécourt (Aisne)</td>
     <td headers="corps">248e R.A</td>
     <td headers="genre">maladie</td>
     </tr>
   <tr>
-    <td headers="nom">PARVILLE<br />Jules</td>
-    <td headers="naissance">Le 9 août 1890<br />à Daix</td>
-    <td headers="mort">Le 5 septembre 1916<br />à Soyecourt (somme)</td>
+    <td headers="nom">PARVILLE<br/>Jules</td>
+    <td headers="naissance">Le 9 août 1890<br/>à Daix</td>
+    <td headers="mort">Le 5 septembre 1916<br/>à Soyecourt (somme)</td>
     <td headers="corps">3e B.C.P</td>
     <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">PIGNON<br />Paul Théodule</td>
-    <td headers="naissance">Le 3 juillet 1875<br />à Val Suzon (Côte-d'Or)</td>
-    <td headers="mort">Le 29 juin 1916<br />à Toul (Meurthe-et-Moselle)</td>
+    <td headers="nom">PIGNON<br/>Paul Théodule</td>
+    <td headers="naissance">Le 3 juillet 1875<br/>à Val Suzon (Côte-d'Or)</td>
+    <td headers="mort">Le 29 juin 1916<br/>à Toul (Meurthe-et-Moselle)</td>
     <td headers="corps">95e R.I.T</td>
     <td headers="genre">maladie</td>
   </tr>
   <tr>
-    <td headers="nom">ROUSSEAU<br />Jean-Baptiste</td>
+    <td headers="nom">ROUSSEAU<br/>Jean-Baptiste</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
     <td headers="genre">&nbsp;</td>
     </tr>
   <tr>
-    <td headers="nom">ROUSSEAU<br />Jean-Marie Paul</td>
-    <td headers="naissance">Le 11 septembre 1895<br />à Daix</td>
-    <td headers="mort">Le 13 septembre 1916<br />à Bouchavesnes (Somme)</td>
+    <td headers="nom">ROUSSEAU<br/>Jean-Marie Paul</td>
+    <td headers="naissance">Le 11 septembre 1895<br/>à Daix</td>
+    <td headers="mort">Le 13 septembre 1916<br/>à Bouchavesnes (Somme)</td>
     <td headers="corps">35e R.I</td>
     <td headers="genre">&nbsp;</td>
     </tr>
   <tr>
-    <td headers="nom">ROUSSELET<br />Laurent</td>
+    <td headers="nom">ROUSSELET<br/>Laurent</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
@@ -260,7 +260,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?>
@@ -269,6 +269,5 @@
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 <script type="text/javascript" src="../js/script.js"></script>
 
- 
 </body>
 </html>

@@ -119,7 +119,7 @@
     <img src="miniatures/Lechfeld-cpa-02.jpg" alt="Des prisonniers français dans le camp de prisonniers de Lechfeld pendant la Grande Guerre">
     </a>
     <figcaption>Des prisonniers français dans le camp de Lechfeld
-    <br />(Carte postale)</figcaption>
+    <br/>(Carte postale)</figcaption>
 </figure>
     
 <figure>
@@ -127,7 +127,7 @@
     <img src="miniatures/Lechfeld-cpa-03.jpg" alt="Des prisonniers français dans le camp de prisonniers de Lechfeld pendant la Première Guerre Mondiale">
     </a>
     <figcaption>Des prisonniers français dans le camp de Lechfeld
-    <br />(Carte postale)</figcaption>
+    <br/>(Carte postale)</figcaption>
 </figure>        
 
 <h2>Source</h2>
@@ -151,7 +151,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

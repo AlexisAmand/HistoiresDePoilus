@@ -119,19 +119,19 @@
 <figure>
     <a href="images/Regensburg/regensburg-01.jpg" data-fancybox="gallery" data-caption="Dans la cours du camp à Ratisbonne">
     <img src="miniatures/Regensburg/regensburg-01.jpg" alt="des prisonniers dans la cours du camp de Ratisbonne pendant la Première Guerre Mondiale"></a>
-    <figcaption>Dans la cours du camp<br />(Source allemande)</figcaption>
+    <figcaption>Dans la cours du camp<br/>(Source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Regensburg/regensburg-02.jpg" data-fancybox="gallery" data-caption="Vue du camp de Ratisbonne">    
     <img src="miniatures/Regensburg/regensburg-02.jpg" alt="une vue du camp de prisonniers de Regensburg pendant la Grande Guerre"></a>
-    <figcaption>Vue du camp de Ratisbonne<br />(Source allemande)</figcaption>
+    <figcaption>Vue du camp de Ratisbonne<br/>(Source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Regensburg/regensburg-03.jpg" data-fancybox="gallery" data-caption="Exercice des pompiers à Ratisbonne"> 
     <img src="miniatures/Regensburg/regensburg-03.jpg" alt="Exercice des pompiers dans le camp de prisonniers de Ratisbonne pendant la Première Guerre Mondiale"></a>
-    <figcaption>Exercice des pompiers<br />(Source allemande)</figcaption>
+    <figcaption>Exercice des pompiers<br/>(Source allemande)</figcaption>
 </figure>
 
 <h2>Sources et bibliographie</h2>
@@ -155,7 +155,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

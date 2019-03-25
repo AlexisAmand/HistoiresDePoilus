@@ -120,13 +120,13 @@
 <figure>
     <a href="images/Wunsdorf/wunsdorf-03.jpg" data-fancybox="gallery" data-caption="Le camp de Wunsdorf pendant la Grande Guerre">
     <img src="miniatures/Wunsdorf/wunsdorf-03.jpg" alt="Des prisonniers français en route pour le camp de Wünsdorf pendant la Première Guerre Mondiale"></a>
-    <figcaption>Des prisonniers français en route pour le camp<br />(carte postale ancienne)</figcaption>
+    <figcaption>Des prisonniers français en route pour le camp<br/>(carte postale ancienne)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Wunsdorf/wunsdorf-04.jpg" data-fancybox="gallery" data-caption="Le camp de Wunsdorf pendant la Grande Guerre">
     <img src="miniatures/Wunsdorf/wunsdorf-04.jpg" alt="Des prisonniers français en route pour le camp de Wünsdorf pendant la Première Guerre Mondiale"></a>
-    <figcaption>Des prisonniers français en route pour le camp<br />(carte postale ancienne)</figcaption>
+    <figcaption>Des prisonniers français en route pour le camp<br/>(carte postale ancienne)</figcaption>
 </figure>
 
 <p>Le 25 septembre 1916, le camp renferme 3050 prisonniers arabes et 643 indiens.</p>
@@ -134,13 +134,13 @@
 <figure>
     <a href="images/Wunsdorf/wunsdorf-01.jpg" data-fancybox="gallery" data-caption="Harangue dans le camp du croissant à Zossen-Wünsdorf">
     <img src="miniatures/Wunsdorf/wunsdorf-01.jpg" alt="Harangue dans le camps de prisonniers de Zossen-Wünsdorf pendant la Première Guerre Mondiale"></a>
-    <figcaption>Harangue dans le camp du croissant<br />(source allemande)</figcaption>
+    <figcaption>Harangue dans le camp du croissant<br/>(source allemande)</figcaption>
 </figure>
 
 <figure>
     <a href="images/Wunsdorf/wunsdorf-02.jpg" data-fancybox="gallery" data-caption="Des prisonniers à Zossen-Wünsdorf">
     <img src="miniatures/Wunsdorf/wunsdorf-02.jpg" alt="Des prisonniers musulmans dans le camps de prisonniers de Zossen-Wünsdorf pendant la Première Guerre Mondiale"></a>
-    <figcaption>Un groupe de prisonniers<br />(source allemande)</figcaption>
+    <figcaption>Un groupe de prisonniers<br/>(source allemande)</figcaption>
 </figure>
 
 <p>1084 prisonniers arabes et 49 prisonniers indiens du camp sont envoyés rejoindre l'armée ottomane entre 1916 et 1917: certains volontairement, d'autres de force. Les prisonniers restant dans le camp en 1917 sont transférés dans des camps en Roumanie occupée.</p>
@@ -166,7 +166,7 @@
     <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="../cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('../include/stats.inc'); ?> 

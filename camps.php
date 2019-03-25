@@ -145,7 +145,7 @@
     <p><em><strong>Note:</strong> Énormément de photographies sont issues d'un ouvrage allemand paru en 1916 et intitulé "<a href="pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a>". Je sais que l'on peut me reprocher d'avoir créer un site en reprenant bêtement les illustrations d'un livre paru il y a 100 ans. A ceux-là, je répondrais humblement que je me suis contenté de faire un travail de classement pour que la recherche et la consultation soit plus facile et ainsi éviter aux chercheurs de parcourir tout le livre pour trouver la photo d'un camp. J'en ai également profité pour supprimer les légendes racistes et nationalistes qui accompagnaient les photos.</em></p>
     <p></p>
 
-    <br />
+    <br/>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
@@ -160,7 +160,7 @@
     <a href="contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="cookies.php">Cookies</a>
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
 </footer>
 
 <?php include('include/stats.inc'); ?>
