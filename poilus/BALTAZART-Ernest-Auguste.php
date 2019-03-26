@@ -8,13 +8,13 @@
 <meta content="Parcours et biographie du poilu Ernest Auguste BALTAZART, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
-			<link rel="stylesheet" href="../css/resp.css">
-			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
-			
-            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-            <link rel="icon" type="image/png" href="../images/favicon.png" />
+<link rel="stylesheet" href="../css/resp.css">
+<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                     
-		</head> 
+</head> 
 
 <body>
 
@@ -112,26 +112,38 @@
 	    <caption>Liste des domiciles d'Ernest</caption>
 	    <thead>
 	        <tr>
-	            <td>Dates</td>
-	            <td>Adresses</td>
+	            <th id="date">Date</th>
+	            <th id="adresse">Adresse</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date">24 juillet 1874</td>
+	            <td headers="adresse">Il naît chez ses parents</td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date">13 avril 1899</td>
+	            <td headers="adresse">Pontfaverger (Marne)</td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date">11 janvier 1900</td>
+	            <td headers="adresse">22 rue des romains<br/>à Bar-le-Duc (Meuse)</td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date">9 mai 1901</td>
+	            <td headers="adresse">22 rue des romains<br/>à Bar-le-Duc (Meuse)</td>
+	        </tr>        
+	        <tr>
+	            <td headers="date">1876</td>
+	            <td headers="adresse">Au Munez<br />rue de Ponfaverger<br />à Béthenivile</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1881</td>
+	            <td headers="adresse">Rue du Neuf-Bourg<br/>à Bétheniville</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1914-1918</td>
+	            <td headers="adresse">Il est maintenu à son emploi au titre de la section des chemin de fer de campagne</td>
 	        </tr>
 	    </tbody>   
 	</table>
@@ -173,7 +185,7 @@
 	<figure>
 	    <a href="images/mobilisation.jpg" data-fancybox="gallery" data-caption="Le décret de mobilisation générale">
 	    <img src="miniatures/mobilisation.jpg" alt="Le décret de mobilisation générale publié en Août 1914"/></a>
-	    <figcaption>Le décret de mobilisation générale<br/>(cliquez pour agrandir)</figcaption>
+	    <figcaption>Le décret de mobilisation générale<br/>(Gallica / Bibliothèque Nationale de France)</figcaption>
 	</figure>
 
 <h2>Sources et bibliographie</h2>
@@ -208,5 +220,6 @@
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 <script type="text/javascript" src="../js/script.js"></script>
+
 </body>
 </html>

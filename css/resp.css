@@ -37,7 +37,7 @@ tr:nth-child(even){ background-color: #eee; }
    td:before {
       content: attr(data-headers);
       display: table-cell;
-      width: 60%;
+      width: 30%;
 	  border-right:  1px solid black; 
 	  background-color:#D3CECE  
    }
@@ -169,8 +169,20 @@ header, section, footer
 	box-shadow:none;
 	}
 	
+/* ---------------------- */	
+/* Tableau pour le census */	
+/* ---------------------- */
+
 .census {
-	width:70%;caption-side: bottom;
+	width:100%;caption-side: bottom;
+}
+
+#date {
+	width:15%;
+}
+
+#adresse {
+	width:85%;
 }
 	
 }	
