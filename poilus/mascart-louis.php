@@ -125,9 +125,9 @@
 <p>Il est décidé le 15 janvier 1919 à <a href="../hopitaux/hopitaux-naq.php">l'hôpital Chastaing</a> de Limoges des suites de ses blessures.</p>
 
 	<figure>
-	    <a href="sources/louis-mascart-mpf.jpg" data-fancybox="gallery" data-caption=" ">
-	    <img src="miniatures/louis-mascart-mpf.jpg" alt=" "/></a>
-	    <figcaption>(Source : Ministère des armées - Mémoire des Hommes)</figcaption>
+	    <a href="sources/louis-mascart-mpf.jpg" data-fancybox="gallery" data-caption='Fiche "Mort pour la France" de Louis MASCART'>
+	    <img src="miniatures/louis-mascart-mpf.jpg" alt='Fiche "Mort pour la France" de Louis MASCART'/></a>
+	    <figcaption>Louis, mort pour la France (Source : Ministère des armées - Mémoire des Hommes)</figcaption>
 	</figure>
       			
 <p class="sources">

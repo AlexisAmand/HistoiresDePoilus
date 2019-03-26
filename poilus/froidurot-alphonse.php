@@ -93,9 +93,9 @@ Rappelé à l’activité par la mobilisation générale du 2 aout 1914. Arrivé
 </p>
 
 	<figure>
-	    <a href="sources/froidurot-alphonse-matricule.jpg" data-fancybox="gallery" data-caption=" ">
-	    <img src="miniatures/froidurot-alphonse-matricule.jpg" alt=" "/></a>
-	    <figcaption> </figcaption>
+	    <a href="sources/froidurot-alphonse-matricule.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Alphonse FROIDUROT">
+	    <img src="miniatures/froidurot-alphonse-matricule.jpg" alt="Extrait de la fiche matricule d'Alphonse FROIDUROT"/></a>
+	    <figcaption>Extrait de sa fiche matricule<br/>(Source: Archives Départementales de la Côte-d'Or)</figcaption>
 	</figure>
     
 <p class="sources">

@@ -86,12 +86,12 @@
 
 <h1>Jules AMAND</h1>
 
-<p><strong>Jules AMAND</strong> est né à Boussu (Belgique) le 24 novembre 1888, fils de Jules AMAND et Antoinette AMAND.</p> 
+<p><strong>Jules AMAND</strong> est né à Boussu (Belgique) le 24 novembre 1888, fils de Jules AMAND et Antoinette AMAND. Ma parenté avec lui étant assez compliqué, je vous ai préparé un petit arbre généalogique pour résumé tout ça. Il contient uniquement les porteurs du patronyme AMAND.</p> 
 
  	<figure>
-        <a href="images/arbre-amand.png" data-fancybox="gallery" data-caption=" ">
-        <img src="miniatures/arbre-amand.png" alt=" " class="ArbreGenealogique" style="width:597px;"></a>
-        <figcaption>Fiche Sépultures et cimetières militaires<br/>(Source: War Heritage Institute)</figcaption>
+        <a href="images/arbre-amand.png" data-fancybox="gallery" data-caption="Arbre généalogiqe simplifié de Jules AMAND">
+        <img src="miniatures/arbre-amand.png" alt="Arbre généalogique simplifié de Jules AMAND" class="ArbreGenealogique" style="width:597px;"></a>
+        <figcaption>Arbre généalogiqe simplifié de Jules AMAND<br/>(Source: Recherches personnelles)</figcaption>
     </figure>
     
 <p>Soldat de 2e classe et milicien au sein du 9e Régiment de Ligne pendant la Grande Guerre sous le matricule 109/54524. Sa fiche sépulture indique qu'il est probable qu'il soit tombé au combat le 6 août 1914 au Bois Saint-Jean à Ougrée (prés de Liège) étant entendu que son livret de mobilisation a été retrouvé sur le champ de bataille de cette commune. L'ancêtre que j'ai en commun avec lui est Jean Joseph AMAND, mon sosa n°256, 8 générations avant moi. (source: <a href="https://www.wardeadregister.be/fr">Dead War Register</a>)</p>

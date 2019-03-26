@@ -94,8 +94,8 @@
 				</table>
 				
 				<figure>
-    				<a href="images/bataille-tannenberg.jpg" data-fancybox="gallery" data-caption="Plan de la Bataille de Tannenberg">
-    				<img src="images/miniatures/bataille-tannenberg.jpg" alt="Plan de la Bataille de Tannenberg"></a>
+    				<a href="images/bataille-tannenberg.jpg" data-fancybox="gallery" data-caption="Plan de la Bataille de Tannenberg (1914)">
+    				<img src="images/miniatures/bataille-tannenberg.jpg" alt="Plan de la Bataille de Tannenberg (1914)"></a>
     				<figcaption>Plan de la Bataille de Tannenberg<br/>(source: Delcampe)</figcaption>
 				</figure>
 				
@@ -153,8 +153,8 @@
   				</table>
   										
   				<figure>
-	    			<a href="images/bataille-vistule.jpg" data-fancybox="gallery" data-caption=" ">
-	    			<img src="images/miniatures/bataille-vistule.jpg" alt=" "></a>
+	    			<a href="images/bataille-vistule.jpg" data-fancybox="gallery" data-caption="La Bataille de la Vistule (1914)">
+	    			<img src="images/miniatures/bataille-vistule.jpg" alt="Plan de la bataille de la Vistule en 1914"></a>
 	    			<figcaption>La Bataille de la Vistule<br/>(source: Delcampe)</figcaption>
 				</figure> 
   				
