@@ -139,29 +139,29 @@
 	<table class="census">
 	    <caption>Liste des domiciles de Druon</caption>
 	    <thead>
-	        <tr>
-	            <td>Dates</td>
-	            <td>Adresses</td>
-	        </tr>
+        <tr>
+            <th id="date">Date</th>
+            <th id="adresse">Adresse</th>
+        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date"> </td>
+	            <td headers="adresse"> </td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date"> </td>
+	            <td headers="adresse"> </td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date"> </td>
+	            <td headers="adresse"> </td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date"> </td>
+	            <td headers="adresse"> </td>
 	        </tr>
-	    </tbody>   
+	    </tbody>  
 	</table>
 
 <p>Durant son service militaire, <strong>Druon Joseph CARLIER</strong> est incorporé comme soldat de 2e classe au <strong>1er Régiment d’Infanterie</strong> sous le matricule n°8102 le 15 novembre 1897. C'est un régiment qui est né en 1479 et est issu des "bandes de Picardie". Il a traversé toutes les époques en participant à toutes les campagnes qui ont fait la France.</p><p>En application de la décision ministérielle du 21 septembre 1898, il passe au <strong>1er Régiment d’Infanterie de Marine</strong> le 1er décembre 1898 et est immatriculé sous le n° A 7225. Le 16 septembre 1899, il devient soldat de 1e classe. Il ne s’agit pas d’un grade mais plutôt d’une distinction qui permettrait d’accéder ensuite au grade de caporal. Il est envoyé en congé en attendant son passage dans la réserve avec un certificat de bonne conduite accordé le 28 septembre 1900.</p>

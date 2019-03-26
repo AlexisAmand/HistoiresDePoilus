@@ -8,14 +8,13 @@
 <meta content="Parcours de Noeël Jules JOLY, soldat quaroubain pendant la Première Guerre Mondiale. Il était membre du 2e Régiment d’Infanterie Territoriale puis prisonnier de guerre à Friedrichsfeld" name="description">
     
 <link rel="stylesheet" href="../css/style.css">
-			<link rel="stylesheet" href="../css/resp.css">
-			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
-			
-            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-            <link rel="icon" type="image/png" href="../images/favicon.png" />
-                    
-		</head>
-
+<link rel="stylesheet" href="../css/resp.css">
+<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+		
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link rel="icon" type="image/png" href="../images/favicon.png" />
+                  
+</head>
 
 <body>
 <!-- code js pour l'avertissement sur les cookies -->
@@ -135,29 +134,29 @@
 	</figure>
 
 	<table class="census">
-	    <caption>Titre du tableau</caption>
+	    <caption>Liste des domiciles de Noël</caption>
 	    <thead>
 	        <tr>
-	            <td>Dates</td>
-	            <td>Adresses</td>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
 	        </tr>
 	    </tbody>   
 	</table>
@@ -267,6 +266,5 @@
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 <script type="text/javascript" src="../js/script.js"></script>
 
- 
 </body>
 </html>

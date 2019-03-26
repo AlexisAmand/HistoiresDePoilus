@@ -113,45 +113,45 @@
 	    <caption>Liste des domiciles d'Alexandre</caption>
 	    <thead>
 	        <tr>
-	            <td>Dates</td>
-	            <td>Adresses</td>
-	            <td>Evénements Liés</td>
+	            <th id="date">Date</th>
+	            <th id="adresse">Adresse</th>
+	            <th id="event">Evénement Lié</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>24 juillet 1874</td>
-	            <td>Bétheniville (Marne)</td>
-	            <td>Il naît chez ses parents.</td>
+	            <td headers="date">24 juillet 1874</td>
+	            <td headers="adresse">Bétheniville (Marne)</td>
+	            <td headers="event">Il naît chez ses parents.</td>
 	        </tr>
 	        <tr>
-	        	<td>1876</td>
-	        	<td>Rue de Pontfaverger<br/>Chez ses parents<br/>à Bétheniville</td>
-	        	<td>Recensement de la population</td>
+	        	<td headers="date">1876</td>
+	        	<td headers="adresse">Rue de Pontfaverger<br/>Chez ses parents<br/>à Bétheniville</td>
+	        	<td headers="event">Recensement de la population</td>
 	        </tr>
 	        <tr>
-	        	<td>1881</td>
-	        	<td>Rue du Neuf-Bourg<br/>Chez ses parents<br/>à Bétheniville</td>
-	        	<td>Recensement de la population</td>
+	        	<td headers="date">1881</td>
+	        	<td headers="adresse">Rue du Neuf-Bourg<br/>Chez ses parents<br/>à Bétheniville</td>
+	        	<td headers="event">Recensement de la population</td>
 	        </tr>      
 	        <tr>
-	            <td>13 avril 1899</td>
-	            <td>Pontfaverger (Marne)</td>
-	            <td>Mise à jour de sa fiche matricule</td>
+	            <td headers="date">13 avril 1899</td>
+	            <td headers="adresse">Pontfaverger (Marne)</td>
+	            <td headers="event">Mise à jour de sa fiche matricule</td>
 	        </tr>
 	        <tr>
-	            <td>11 janvier 1900</td>
-	            <td>22 Rue des Romains<br/>à Bar-le-Duc (Meuse)</td>
-	            <td>Mise à jour de sa fiche matricule</td>
+	            <td headers="date">11 janvier 1900</td>
+	            <td headers="adresse">22 Rue des Romains<br/>à Bar-le-Duc (Meuse)</td>
+	            <td headers="event">Mise à jour de sa fiche matricule</td>
 	        </tr>
 	        <tr>
-	            <td>9 mai 1901</td>
-	            <td>22 Rue des Romains<br/>à Bar-le-Duc (Meuse)</td>
-	            <td>Naissance de son fils Marcel</td>
+	            <td headers="date">9 mai 1901</td>
+	            <td headers="adresse">22 Rue des Romains<br/>à Bar-le-Duc (Meuse)</td>
+	            <td headers="event">Naissance de son fils Marcel</td>
 	        </tr>
 	        <tr>
-	        	<td>1914-1919</td>
-	        	<td colspan="2">Pendant la Grande Guerre, il est maintenu à son emploi au titre de la section des chemins de fer de campagne.</td>
+	        	<td headers="date">1914-1919</td>
+	        	<td colspan="2" headers="event">Pendant la Grande Guerre, il est maintenu à son emploi au titre de la section des chemins de fer de campagne.</td>
 	        </tr>	
 	    </tbody>   
 	</table>

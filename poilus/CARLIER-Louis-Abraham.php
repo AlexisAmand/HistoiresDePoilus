@@ -129,30 +129,30 @@
 
 	<table class="census">
 	    <caption>Liste des domiciles de Louis</caption>
-	    <thead>
+		<thead>
 	        <tr>
-	            <td>Dates</td>
-	            <td>Adresses</td>
+	            <th id="date">Date</th>
+	            <th id="adresse">Adresse</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date"> </td>
+	            <td headers="adresse"> </td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date"> </td>
+	            <td headers="adresse"> </td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date"> </td>
+	            <td headers="adresse"> </td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date"> </td>
+	            <td headers="adresse"> </td>
 	        </tr>
-	    </tbody>   
+	    </tbody>    
 	</table>
 
 <br/><h2>La mobilisation d'août 1914</h2>

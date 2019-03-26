@@ -160,26 +160,26 @@
 	    <caption>Liste des domiciles de Théophile</caption>
 	    <thead>
 	        <tr>
-	            <td>Dates</td>
-	            <td>Adresses</td>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
 	        </tr>
 	    </tbody>   
 	</table>

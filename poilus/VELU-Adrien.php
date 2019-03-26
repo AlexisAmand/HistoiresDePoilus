@@ -9,13 +9,13 @@
 <meta content="Parcours de Adrien VELU, soldat guislanais pendant la Première Guerre Mondiale. Il était membre du 1er Régiment d'Infanterie et est mort de la typhoïde en 1915" name="description">
     
 <link rel="stylesheet" href="../css/style.css">
-			<link rel="stylesheet" href="../css/resp.css">
-			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+<link rel="stylesheet" href="../css/resp.css">
+<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
 			
-            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-            <link rel="icon" type="image/png" href="../images/favicon.png" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                     
-		</head>
+</head>
 
 <body>
 <!-- code js pour l'avertissement sur les cookies -->
@@ -127,24 +127,29 @@
 	</figure>
 
 	<table class="census">
-	    <caption>Titre du tableau</caption>
+	    <caption>Liste des domiciles d'Adrien</caption>
 	    <thead>
 	        <tr>
-	            <td>Dates</td><td>Adresses</td>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>1</td><td>2</td>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
 	        </tr>
 	        <tr>
-	            <td>1</td><td>2</td>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
 	        </tr>
 	        <tr>
-	            <td>1</td><td>2</td>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
 	        </tr>
 	        <tr>
-	            <td>1</td><td>2</td>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
 	        </tr>
 	    </tbody>   
 	</table>

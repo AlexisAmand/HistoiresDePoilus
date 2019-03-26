@@ -8,13 +8,13 @@
 <meta content="Parcours et biographie du poilu Alfred PELEZ, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
-			<link rel="stylesheet" href="../css/resp.css">
-			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+<link rel="stylesheet" href="../css/resp.css">
+<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
 			
-            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-            <link rel="icon" type="image/png" href="../images/favicon.png" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                     
-		</head>  
+</head>  
 
 <body>
 
@@ -121,33 +121,33 @@
 <p><strong>Alfred PELEZ</strong> (ou PELLEZ selon les sources) est né le 13 juin 1872 à Onnaing, fils de mes ancêtres François PELEZ (1843-1884) et Louise DASNOIS (1847-1878). Avant la guerre, Alfred vit dans le Pas-de-Calais en passant successivement par Annezin (1896), Montigny-en-Gohelle (1896), Fouquières-les-lens (1906) et enfin Rouvroy (1912). Il est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 aout 1914">décret de mobilisation générale</a> du 1er août 1914 et mis en sursis aux Mines de la Loire dès le 9 février 1915. A l'époque, il vit à Saint Genest-Lerpt dans la Loire.</p>
 
 	<table class="census">
-        <caption>Liste des domiciles d'Emile MASCART</caption>
+        <caption>Liste des domiciles d'Alfred</caption>
 	    <thead>
 	        <tr>
-	            <td>Dates</td>
-	            <td>Adresses</td>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>10 mai 1896</td>
-	            <td>Annezin<br/>(Pas-de-Calais)</td>
+	            <td headers="date">10 mai 1896</td>
+	            <td headers="adresse">Annezin<br/>(Pas-de-Calais)</td>
 	        </tr>
 	        <tr>
-	            <td>13 septembre 1896</td>
-	            <td>Chez Auguste DESCAMPS<br/>à Montigny-en-Gohelle (Pas-de-Calais)</td>
+	            <td headers="date">13 septembre 1896</td>
+	            <td headers="adresse">Chez Auguste DESCAMPS<br/>à Montigny-en-Gohelle (Pas-de-Calais)</td>
 	        </tr>
 	        <tr>
-	            <td>28 avril 1906</td>
-	            <td>Chez Mr DOUTRICOURT<br/>Rue du Marais<br/>à Fouquières-lès-Lens (Pas-de-Calais)</td>
+	            <td headers="date">28 avril 1906</td>
+	            <td headers="adresse">Chez Mr DOUTRICOURT<br/>Rue du Marais<br/>à Fouquières-lès-Lens (Pas-de-Calais)</td>
 	        </tr>
 	        <tr>
-	            <td>25 mars 1912</td>
-	            <td>Corons n°25<br/>à Rouvroy (Pas-de-Calais)</td>           
+	            <td headers="date">25 mars 1912</td>
+	            <td headers="adresse">Corons n°25<br/>à Rouvroy (Pas-de-Calais)</td>           
 	        </tr>
 	        <tr>
-	            <td>10 janvier 1916</td>
-	            <td>Place de la Mairie<br/>à Saint-Genest-Lerpt (Loire)</td>           
+	            <td headers="date">10 janvier 1916</td>
+	            <td headers="adresse">Place de la Mairie<br/>à Saint-Genest-Lerpt (Loire)</td>           
 	        </tr>
         </tbody>
     </table>
@@ -176,6 +176,5 @@
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 <script type="text/javascript" src="../js/script.js"></script>
 
- 
 </body>
 </html>

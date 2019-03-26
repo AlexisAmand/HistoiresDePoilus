@@ -137,26 +137,26 @@
 	    <caption>Liste des domiciles de Jules</caption>
 	    <thead>
 	        <tr>
-	            <td>Dates</td>
-	            <td>Adresses</td>
+	            <th id="date">Date</th>
+	            <th id="adresse">Adresse</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>30 décembre 1936</td>
-	            <td>1 Rue Marcelin Berthelot<br/>à Onnaing (Nord).</td>
+	            <td headers="date">30 décembre 1936</td>
+	            <td headers="adresse">1 Rue Marcelin Berthelot<br/>à Onnaing (Nord).</td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
 	        </tr>
 	    </tbody>   
 	</table>

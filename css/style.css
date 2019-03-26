@@ -185,6 +185,10 @@ tr{height:47px}
 	width:450px;caption-side: bottom;
 }
 
+#date {
+	width: 30%;
+}
+
 /* ---------------- */
 /* Videos et images */ 
 /* ---------------- */

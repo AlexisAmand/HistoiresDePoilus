@@ -95,14 +95,14 @@
 <p>Henri René ARNOULD est né à Bétheniville le 4 avril 1884, fils légitime de Louis Albert et Amélia Julia STÖSSEL. Lors de la mobilisation générale, Henri abandonne son métier de garçon coiffeur et rejoint le 106e Régiment d'Infanterie. Il est déclaré "tué à l'ennemi" par des éclats multiples à la tête le 22 mai 1916 au Mont-Homme, dans la Meuse.</p>
 
 	<figure>
-	    <a href="images/mont-homme.jpg" data-fancybox="gallery" data-caption=" ">
-	    <img src="miniatures/mont-homme.jpg" alt=" "></a>
-	    <figcaption> </figcaption>
+	    <a href="images/mont-homme.jpg" data-fancybox="gallery" data-caption="Chattancourt et vue sur le Mort-Homme">
+	    <img src="miniatures/mont-homme.jpg" alt="Chattancourt et vue sur le Mort-Homme"></a>
+	    <figcaption>Chattancourt et vue sur le Mort-Homme<br/>(source: Delcampe)</figcaption>
 	</figure> 
 	
 	<figure>
-	    <a href="images/croquis-1916-2" data-fancybox="gallery" data-caption=" ">
-	    <img src="miniatures/croquis-1916-2" alt=" "></a>
+	    <a href="images/croquis-1916-2" data-fancybox="gallery" data-caption="Attaques sur la rive gauche (Verdun, 1916)">
+	    <img src="miniatures/croquis-1916-2" alt="Attaques sur la rive gauche (Verdun, 1916)"></a>
 	    <figcaption>Verdun: Attaques sur la rive gauche<br/>(source: Delcampe)</figcaption>
 	</figure>
 		

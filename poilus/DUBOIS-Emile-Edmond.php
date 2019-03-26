@@ -135,28 +135,28 @@
 
 	<table class="census">
 	    <caption>Liste des domiciles d'Emile</caption>
-	    <thead>
+		<thead>
 	        <tr>
-	            <td>Dates</td>
-	            <td>Adresses</td>
+	            <th id="date">Date</th>
+	            <th id="adresse">Adresse</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date"> </td>
+	            <td headers="adresse"> </td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date"> </td>
+	            <td headers="adresse"> </td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date"> </td>
+	            <td headers="adresse"> </td>
 	        </tr>
 	        <tr>
-	            <td>1</td>
-	            <td>2</td>
+	            <td headers="date"> </td>
+	            <td headers="adresse"> </td>
 	        </tr>
 	    </tbody>   
 	</table>

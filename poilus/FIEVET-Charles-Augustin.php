@@ -138,24 +138,30 @@
 	    <caption>Liste des domiciles de Charles Augustin</caption>
 	    <thead>
 	        <tr>
-	            <td>Dates</td><td>Adresses</td>
+	            <th headers="date">Date</th>
+	            <th headers="adresse">Adresse</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>3 décembre 1882</td><td>Rue de Poids<br/>à Lille</td>
+	            <td id="date">3 décembre 1882</td>
+	            <td id="adresse">Rue de Poids<br/>à Lille</td>
 	        </tr>
 	        <tr>
-	            <td>25 septembre 1908</td><td>Rue du Grand Balcon<br/>Impasse Saint Henri<br/>à Lille</td>
+	            <td id="date">25 septembre 1908</td>
+	            <td id="adresse">Rue du Grand Balcon<br/>Impasse Saint Henri<br/>à Lille</td>
 	        </tr>
 	        <tr>
-	            <td>8 février 1914</td><td>73 Rue du Chauffour<br/>(Gué du dit)<br/>à Valenciennes</td>
+	            <td id="date">8 février 1914</td>
+	            <td id="adresse">73 Rue du Chauffour<br/>(Gué du dit)<br/>à Valenciennes</td>
 	        </tr>
 	        <tr>
-	            <td>8 avril 1922</td><td>248 Rue Jean Jaurés<br/>à Anzin</td>
+	            <td id="date">8 avril 1922</td>
+	            <td id="adresse">248 Rue Jean Jaurés<br/>à Anzin</td>
 	        </tr>       
 	        <tr>
-	            <td>16 février 1928</td><td>149 Rue du Chauffour<br/>à Valenciennes</td>
+	            <td id="date">16 février 1928</td>
+	            <td id="adresse">149 Rue du Chauffour<br/>à Valenciennes</td>
 	        </tr>
 	    </tbody>   
 	</table>

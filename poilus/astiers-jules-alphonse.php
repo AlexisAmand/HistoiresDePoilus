@@ -106,42 +106,54 @@
 	    <caption>Liste des domiciles de Jules Alphonse ASTIERS</caption>
 	    <thead>
 	        <tr>
-	            <td>Dates</td><td>Adresses</td>
+	            <th id="date">Date</th>
+	            <th id="adresse">Adresse</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	    	<tr>
-	            <td>1881</td><td>Chez ses parents<br/>Place du Munet<br/>à Bétheniville (Marne)</td>
+	            <td headers="date">1881</td>
+	            <td headers="adresse">Chez ses parents<br/>Place du Munet<br/>à Bétheniville (Marne)</td>
 	        </tr>
 	        <tr>
-	            <td>27 juillet 1897</td><td>13 rue Neufchatel<br/>à Reims (Marne)</td>
+	            <td headers="date">27 juillet 1897</td>
+	            <td headers="adresse">13 rue Neufchatel<br/>à Reims (Marne)</td>
 	        </tr>
 	        <tr>
-	        	<td>15 mars 1898</td><td>Bétheniville (Marne)</td>
+	        	<td headers="date">15 mars 1898</td>
+	        	<td headers="adresse">Bétheniville (Marne)</td>
 	        </tr>
 	        <tr>
-	            <td>1901</td><td>Grand'rue<br/>à Bétheniville (Marne)</td>
+	            <td headers="date">1901</td>
+	            <td headers="adresse">Grand'rue<br/>à Bétheniville (Marne)</td>
 	        </tr>
 	        <tr>
-	            <td>1906</td><td>Rue des chevaliers<br/>à Bétheniville (Marne)</td>
+	            <td headers="date">1906</td>
+	            <td headers="adresse">Rue des chevaliers<br/>à Bétheniville (Marne)</td>
 	        </tr>
 	        <tr>
-	        	<td>21 octobre 1906</td><td>13 rue de Bétheny<br/>à Reims (Marne)</td>
+	        	<td headers="date">21 octobre 1906</td>
+	        	<td headers="adresse">13 rue de Bétheny<br/>à Reims (Marne)</td>
 	        </tr>
 	        <tr>
-	        	<td>21 juillet 1907</td><td>10 rue Villeminot<br/>à Reims (Marne)</td>
+	        	<td headers="date">21 juillet 1907</td>
+	        	<td headers="adresse">10 rue Villeminot<br/>à Reims (Marne)</td>
 	        </tr>
 	        <tr>
-	        	<td>20 octobre 1907</td><td><a href="http://cartespostalesanciennes.genealexis.fr/image/517-la-route-de-reims-a-betheniville">Rue de Reims</a><br/>à Bétheniville (Marne)</td>
+	        	<td headers="date">20 octobre 1907</td>
+	        	<td headers="adresse"><a href="http://cartespostalesanciennes.genealexis.fr/image/517-la-route-de-reims-a-betheniville">Rue de Reims</a><br/>à Bétheniville (Marne)</td>
 	        </tr>
 	        <tr>
-	            <td>1911</td><td>Rue de Merlan<br/>à Bétheniville (Marne)</td>
+	            <td headers="date">1911</td>
+	            <td headers="adresse">Rue de Merlan<br/>à Bétheniville (Marne)</td>
 	        </tr>
 	        <tr>
-	        	<td>27 octobre 1912</td><td>29 rue Maucroix<br/>à Reims (Marne)</td>
+	        	<td headers="date">27 octobre 1912</td>
+	        	<td headers="adresse">29 rue Maucroix<br/>à Reims (Marne)</td>
 	        </tr>
 	        <tr>
-	        	<td>7 septembre 1914</td><td>à Missy (Calvados)</td>
+	        	<td headers="date">7 septembre 1914</td>
+	        	<td headers="adresse">à Missy (Calvados)</td>
 	        </tr>
 	    </tbody>   
 	</table> 

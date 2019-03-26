@@ -128,24 +128,29 @@
     </figure>
 
 	<table class="census">
-	    <caption>Liste des domiciles d'Auguste HANZE</caption>
+	    <caption>Liste des domiciles d'Auguste</caption>
 	    <thead>
 	        <tr>
-	            <td>Dates</td><td>Adresses</td>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>11 avril 1906</td><td>Route Nationale<br/> à Cousolre (Nord)</td>
+	            <td headers="date">11 avril 1906</td>
+	            <td headers="adresse">Route Nationale<br/> à Cousolre (Nord)</td>
 	        </tr>
 	        <tr>
-	            <td>20 janvier 1910</td><td>10 rue du Pont-Neuf<br/>à Valenciennes (Nord)</td>
+	            <td headers="date">20 janvier 1910</td>
+	            <td headers="adresse">10 rue du Pont-Neuf<br/>à Valenciennes (Nord)</td>
 	        </tr>
 	        <tr>
-	            <td>2 octobre 1910</td><td>119 rue de Lille<br/>à Valenciennes (Nord)</td>
+	            <td headers="date">2 octobre 1910</td>
+	            <td headers="adresse">119 rue de Lille<br/>à Valenciennes (Nord)</td>
 	        </tr>
 	        <tr>
-	            <td>15 novembre 1912</td><td>rue de Maubeuge<br/> à Cousolre (Nord)</td>
+	            <td headers="date">15 novembre 1912</td>
+	            <td headers="adresse">rue de Maubeuge<br/> à Cousolre (Nord)</td>
 	        </tr>
 	    </tbody>   
 	</table>    

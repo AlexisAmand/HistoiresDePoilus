@@ -133,18 +133,21 @@
 	</figure>
 
 	<table class="census">
-	    <caption>Liste des domiciles de Louis GRAIN</caption>
+	    <caption>Liste des domiciles de Louis</caption>
 	    <thead>
 	        <tr>
-	            <td>Dates</td><td>Adresses</td>
+	            <th id="date">Date</th>
+	            <th id="adresse">Adresse</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>1906</td><td>Rue Neuve<br/>à Villers-Guislain (Nord)</td>
+	            <td id="date">1906</td>
+	            <td id="adresse">Rue Neuve<br/>à Villers-Guislain (Nord)</td>
 	        </tr>
 	        <tr>
-	            <td>1911</td><td>Rue de Merlan<br/>à Bétheniville (Marne)</td>
+	            <td id="date">1911</td>
+	            <td id="adresse">Rue de Merlan<br/>à Bétheniville (Marne)</td>
 	        </tr>
 	    </tbody>   
 	</table>

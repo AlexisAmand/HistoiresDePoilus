@@ -8,14 +8,13 @@
 <meta content="Parcours et biographie du poilu Jules Joseph LESAGE, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
-			<link rel="stylesheet" href="../css/resp.css">
-			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+<link rel="stylesheet" href="../css/resp.css">
+<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
 			
-            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-            <link rel="icon" type="image/png" href="../images/favicon.png" />
-                    
-		</head>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link rel="icon" type="image/png" href="../images/favicon.png" />
 
+</head>
 
 <body>
 
@@ -122,24 +121,29 @@
 <p><strong>Jules Joseph LESAGE</strong> est né à Roeulx le 20 aout 1887, fils légitimie de Joseph et de Hubertine BOITELET. Il est le beau-frére des <a href="CARIN-Edouard.php">fréres CARIN</a>, dont j'ai déjà parlé sur ce site.</p>
     
     <table class="census">
-        <caption>Liste des domiciles de Jules Joseph LESAGE</caption>
+        <caption>Liste des domiciles de Jules</caption>
 	    <thead>
 	        <tr>
-	            <td>Dates</td><td>Adresses</td>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
 	        </tr>
 	    </thead>
 	    <tbody>
         <tr>
-            <td>13 juillet 1917</td><td>Chez Me Veuve ARSENE<br/>Vieux Coron<br/>à Barlin (Pas-de-Calais)</td>
+            <td headers="date">13 juillet 1917</td>
+            <td headers="adresse">Chez Me Veuve ARSENE<br/>Vieux Coron<br/>à Barlin (Pas-de-Calais)</td>
         </tr>
         <tr>
-            <td>26 octobre 1920</td><td>Coron Tout Quitte<br/>à Roeulx (Nord)</td>
+            <td headers="date">26 octobre 1920</td>
+            <td headers="adresse">Coron Tout Quitte<br/>à Roeulx (Nord)</td>
         </tr>
         <tr>
-            <td>28 juin 1922</td><td>45 Rue Socrate<br/>à Lourches (Nord)</td>
+            <td headers="date">28 juin 1922</td>
+            <td headers="adresse">45 Rue Socrate<br/>à Lourches (Nord)</td>
         </tr>
         <tr>
-            <td>8 septembre 1924</td><td>62 Rue de la République<br/>à Roeulx (Nord)</td>            
+            <td headers="date">8 septembre 1924</td>
+            <td headers="adresse">62 Rue de la République<br/>à Roeulx (Nord)</td>            
         </tr>
         </tbody>
     </table>
@@ -168,6 +172,5 @@
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 <script type="text/javascript" src="../js/script.js"></script>
 
- 
 </body>
 </html>

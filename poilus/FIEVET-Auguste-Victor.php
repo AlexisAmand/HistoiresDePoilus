@@ -132,26 +132,26 @@
 	    <caption>Liste des domiciles d'Auguste</caption>
 	    <thead>
 	        <tr>
-	            <td>Dates</td>
-	            <td>Adresses</td>
+	            <th id="date">Date</th>
+	            <th id="adresse">Adresse</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>8 janvier 1890</td>
-	            <td>rue du Grand Balcon<br/>à Lille</td>
+	            <td headers="date">8 janvier 1890</td>
+	            <td headers="adresse">rue du Grand Balcon<br/>à Lille</td>
 	        </tr>
 	        <tr>
-	            <td>11 mars 1922</td>
-	            <td>248 rue Jean Jaurès<br/>à Anzin</td>
+	            <td headers="date">11 mars 1922</td>
+	            <td headers="adresse">248 rue Jean Jaurès<br/>à Anzin</td>
 	        </tr>
 	        <tr>
-	            <td>avril 1930</td>
-	            <td>1 rue Jean Jaurès<br/>à Petite-Forêt</td>
+	            <td headers="date">avril 1930</td>
+	            <td headers="adresse">1 rue Jean Jaurès<br/>à Petite-Forêt</td>
 	        </tr>
 	        <tr>
-	            <td>17 décembre 1960</td>
-	            <td>803 rue Jean Jaures<br/>à Bruay-sur-L'Escaut</td>
+	            <td headers="date">17 décembre 1960</td>
+	            <td headers="adresse">803 rue Jean Jaures<br/>à Bruay-sur-L'Escaut</td>
 	        </tr>
 	    </tbody>   
 	</table>

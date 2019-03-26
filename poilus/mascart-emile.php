@@ -8,13 +8,13 @@
 <meta content="Parcours et biographie du poilu Emile MASCART, soldat pendant la Première Guerre Mondiale" name="description" />
 
 <link rel="stylesheet" href="../css/style.css">
-			<link rel="stylesheet" href="../css/resp.css">
-			<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+<link rel="stylesheet" href="../css/resp.css">
+<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
 			
-            <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-            <link rel="icon" type="image/png" href="../images/favicon.png" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link rel="icon" type="image/png" href="../images/favicon.png" />
                     
-		</head>
+</head>
 
 <body>
 
@@ -120,29 +120,29 @@
 <p><strong>Emile MASCART</strong> est né à Onnaing le 24 janvier 1887, fils légitime de Romain et Marie Thérèse LEBRUN. Mes ancêtres communs avec Emile sont Hierosme MASCART (1658-1720) et Marie MARTIN (1653-1722), un couple originaire de Quarouble. Avant la guerre, Emile exerce la profession de traceur en constructions métalliques chez LEMAIRE et vit rue Saint Joseph à Onnaing.</p>
 
     <table class="census">
-        <caption>Liste des domiciles d'Emile MASCART</caption>
+        <caption>Liste des domiciles d'Emile</caption>
 	    <thead>
 	        <tr>
-	            <td>Dates</td>
-	            <td>Adresses</td>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
 	        </tr>
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td>1906</td>
-	            <td>Rue Saint Joseph<br/>à Onnaing (Nord)</td>
+	            <td headers="date">1906</td>
+	            <td headers="adresse">Rue Saint Joseph<br/>à Onnaing (Nord)</td>
 	        </tr>
 	        <tr>
-	            <td>1914-1918</td>
-	            <td>Il est détaché<br/>aux Fonderies de Firminy (Loire)</td>
+	            <td headers="date">1914-1918</td>
+	            <td headers="adresse">Il est détaché<br/>aux Fonderies de Firminy (Loire)</td>
 	        </tr>
 	        <tr>
-	            <td>5 janvier 1929</td>
-	            <td>12 rue Etienne DOLET<br/>à Onnaing (Nord)</td>
+	            <td headers="date">5 janvier 1929</td>
+	            <td headers="adresse">12 rue Etienne DOLET<br/>à Onnaing (Nord)</td>
 	        </tr>
 	        <tr>
-	            <td>20 février 1941</td>
-	            <td>17 rue d'Estreux<br/>à Onnaing (Nord)</td>           
+	            <td headers="date">20 février 1941</td>
+	            <td headers="adresse">17 rue d'Estreux<br/>à Onnaing (Nord)</td>           
 	        </tr>
         </tbody>
     </table>
@@ -178,7 +178,6 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 <script type="text/javascript" src="../js/script.js"></script>
-
  
 </body>
 </html>

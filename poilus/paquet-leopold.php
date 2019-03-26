@@ -98,26 +98,26 @@
     <caption>Liste des domiciles de Léoplod PAQUET</caption>
     <thead>
         <tr>
-            <td>Dates</td>
-            <td>Adresses</td>
+            <th id="date">Date</th>
+            <th id="adresse">Adresse</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td> </td>
-            <td> </td>
+            <td headers="date"> </td>
+            <td headers="adresse"> </td>
         </tr>
         <tr>
-            <td> </td>
-            <td> </td>
+            <td headers="date"> </td>
+            <td headers="adresse"> </td>
         </tr>
         <tr>
-            <td> </td>
-            <td> </td>
+            <td headers="date"> </td>
+            <td headers="adresse"> </td>
         </tr>
         <tr>
-            <td> </td>
-            <td> </td>
+            <td headers="date"> </td>
+            <td headers="adresse"> </td>
         </tr>
     </tbody>   
 	</table>    
