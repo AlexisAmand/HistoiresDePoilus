@@ -181,6 +181,10 @@ tr{height:47px}
 
 #classe {width:45px}
 
+.census {
+	width:450px;caption-side: bottom;
+}
+
 /* ---------------- */
 /* Videos et images */ 
 /* ---------------- */

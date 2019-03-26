@@ -156,7 +156,7 @@
 	    <figcaption>Le tribunal d'Arras<br/>(Cliquez pour agrandir)</figcaption>
 	</figure>
 
-	<table style="width:70%;caption-side: bottom;">
+	<table class="census">
 	    <caption>Liste des domiciles de Théophile</caption>
 	    <thead>
 	        <tr>

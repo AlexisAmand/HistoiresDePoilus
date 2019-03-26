@@ -134,7 +134,7 @@
 	    <figcaption>Henri Gustave, debout avec le chapeau<br/>(Source: Archives familiales)</figcaption>
 	</figure>
 
-	<table style="width:70%;caption-side: bottom;">
+	<table class="census">
 	    <caption>Titre du tableau</caption>
 	    <thead>
 	        <tr>

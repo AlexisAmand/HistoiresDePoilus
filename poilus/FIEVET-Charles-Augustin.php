@@ -134,7 +134,7 @@
 	    <figcaption>Charles Augustin FIEVET<br/>(Source: Archives familiales)</figcaption>
 	</figure>
 
-	<table style="width:70%;caption-side: bottom;">
+	<table class="census">
 	    <caption>Liste des domiciles de Charles Augustin</caption>
 	    <thead>
 	        <tr>

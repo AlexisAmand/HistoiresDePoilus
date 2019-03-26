@@ -127,7 +127,7 @@
         <figcaption>Arbre simplifié de la famille HANZE<br/>(cliquez pour agrandir)</figcaption>
     </figure>
 
-	<table style="width:70%;caption-side: bottom;">
+	<table class="census">
 	    <caption>Liste des domiciles d'Auguste HANZE</caption>
 	    <thead>
 	        <tr>

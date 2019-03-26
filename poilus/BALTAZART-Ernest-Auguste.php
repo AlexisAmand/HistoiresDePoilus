@@ -108,7 +108,7 @@
 	    <figcaption>L'entrée de l'Usine Oudin<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
-	<table style="width:70%;caption-side: bottom;">
+	<table class="census">
 	    <caption>Liste des domiciles d'Ernest</caption>
 	    <thead>
 	        <tr>

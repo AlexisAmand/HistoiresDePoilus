@@ -114,7 +114,7 @@
    
 </aside>
 
-<article style="margin-left: 200px;">
+<article>
 
 <h1>Louis GRAIN</h1>
 
@@ -132,7 +132,7 @@
 	    <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
-	<table style="width:70%">
+	<table class="census">
 	    <caption>Liste des domiciles de Louis GRAIN</caption>
 	    <thead>
 	        <tr>
@@ -190,6 +190,8 @@
 <br/><h2>...mais à Villers-Guislain, la guerre arrive.</h2>
 
 <p>Dans son ouvrage "La France Occupée", Philippe Nivet raconte que le village de Villers-Guislain, où sont nés <a href="GRAIN-Louis.php">Louis</a> et <a href="GRAIN-Leon-Albert.php">Léon Albert GRAIN</a>, est occupé depuis 1914. En 1916, les Allemands ont demandé à la mairie une dizaine de jeune fille pour placer les cartouches dans les bandes de chargement; comme aucune volontaire ne s'est présentée, les Allemands en ont emprisonné 4 pendant 2 heures et ont fait savoir qu'ils mettraient toutes les filles en prison si la commune ne présentaient pas des volontaires. Six jeunes filles se sont finalement résignées à la faire le travail exigé. </p>
+
+<?php /* TODO: voir la feuille de style dans la note, il y en existe une qq part il me semble... */ ?>
 
 <div id="note1"></div>
 <p style="font-size: 12px"><sup>1</sup> En cas de guerre, la classe première à marcher pouvait être appelée par anticipation. C'est pourquoi l'armée active comprenait également en août la classe 1913 (hommes nés en 1893) qui n'aurait dû être appelée qu'à l'automne.</p>

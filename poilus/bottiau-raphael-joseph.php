@@ -128,7 +128,7 @@
     
 <p>Aprés avoir épousé en prenières noces Eugénie BRUNEAUX, Raphaël s'était uni en secondes noces à Dhany BOUTEILLE (1880-1927), ménagère et fille légitime de Nicolas BOUTEILLE et de Françoise MOLTEL, le 19 juillet 1924 à Quarouble (Nord).</p>
     
-    <table style="width:70%">
+    <table class="census">
         <caption>Liste des domiciles de Raphaël Joseph BOTTIAU</caption>
 	    <thead>
 	        <tr>

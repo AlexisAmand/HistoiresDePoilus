@@ -133,7 +133,7 @@
       	<figcaption>Jules Henri BOURSIER<br/>(cliquez pour agrandir - source: Kamalaa/Geneanet)</figcaption>
     </figure>
 
-	<table style="width:70%;caption-side: bottom;">
+	<table class="census">
 	    <caption>Liste des domiciles de Jules</caption>
 	    <thead>
 	        <tr>

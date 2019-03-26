@@ -119,7 +119,7 @@
         
 <p><strong>Emile MASCART</strong> est né à Onnaing le 24 janvier 1887, fils légitime de Romain et Marie Thérèse LEBRUN. Mes ancêtres communs avec Emile sont Hierosme MASCART (1658-1720) et Marie MARTIN (1653-1722), un couple originaire de Quarouble. Avant la guerre, Emile exerce la profession de traceur en constructions métalliques chez LEMAIRE et vit rue Saint Joseph à Onnaing.</p>
 
-    <table style="width:70%;caption-side: bottom;">
+    <table class="census">
         <caption>Liste des domiciles d'Emile MASCART</caption>
 	    <thead>
 	        <tr>

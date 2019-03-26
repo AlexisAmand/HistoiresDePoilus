@@ -128,7 +128,7 @@
 	    <figcaption>Les descendants de Léonie Louise FIEVET<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
-	<table style="width:70%;caption-side: bottom;border:1px solid red;">
+	<table class="census">
 	    <caption>Liste des domiciles d'Auguste</caption>
 	    <thead>
 	        <tr>

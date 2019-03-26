@@ -136,7 +136,7 @@
 	    <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
 	</figure>
 
-	<table style="width:70%;caption-side: bottom;">
+	<table class="census">
 	    <caption>Liste des domiciles de Druon</caption>
 	    <thead>
 	        <tr>

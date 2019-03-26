@@ -93,7 +93,7 @@
     <figcaption>Acte de naissance d'Alfred FROIDUROT<br/>(source: Archives Départementales du Nord)</figcaption>
 </figure>
 
-<table style="width:70%;caption-side: bottom;">
+<table class="census">
     <caption>Titre du tableau</caption>
     <thead>
         <tr>

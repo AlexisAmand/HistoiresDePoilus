@@ -120,7 +120,7 @@
 
 <h1>Relevé des morts pour la France à Capelle-sur-Ecaillon</h1>
 
-<p style="text-align:center;">- Cette page est en cours de rédaction -</p>
+<?php /* TODO: page à finir */ ?>
 	
 <p></p>
 

@@ -134,7 +134,7 @@
 	    <figcaption>Portrait de Noël Jules<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
-	<table style="width:70%;caption-side: bottom;">
+	<table class="census">
 	    <caption>Titre du tableau</caption>
 	    <thead>
 	        <tr>
