@@ -62,8 +62,8 @@
 <ul>
         <li class="asideheader">Belgique</li>
 
-        <li><a href="amand-jules.php">AMAND Jules</a></li>
-        <li><a href="quintin-raoul.php"  class="AsideSelected">QUINTIN Raoul</a></li>
+        <li><a href="amand-jules.php">AMAND Jules (+)</a></li>
+        <li><a href="quintin-raoul.php"  class="AsideSelected">QUINTIN Raoul (+)</a></li>
       
 </ul>
    

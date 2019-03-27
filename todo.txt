@@ -1,2 +1,1 @@
 - TODO: Vérifier si tous les poilus morts pour la France sont bien marqués d'un (+) dans le aside
-- TODO: trouver le lien de partage pour Instagram et le mettre dans social.inc
