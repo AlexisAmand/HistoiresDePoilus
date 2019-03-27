@@ -69,6 +69,7 @@
 		<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php" class="AsideSelected">CARIN Edouard (+)</a></li>
+        <li><a href="carin-joseph.php">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
@@ -118,7 +119,7 @@
 
 <h1>Edouard CARIN</h1>
 
-<p><strong>Edouard CARIN</strong> est né le 5 août 1884 à Lourches (Nord),  fils légitime de  François Louis CARIN et de Pauline DUSSART.<strong> Edouard</strong> est le frère de <a href="CARIN-Theophile.php">Théophile</a>, l'époux de mon arrière-arrière-grand-mère Zélia BRASSEUR. En 1906, il vit chez ses parents à Lourches (Rue Beauvois) en compagnie de ses parents et ses frères et sœurs: Alfred, Appoline, Clara, Joseph, <a href="CARIN-Leon.php">Léon</a>, Celeste et François.</p> 
+<p><strong>Edouard CARIN</strong> est né le 5 août 1884 à Lourches (Nord),  fils légitime de  François Louis CARIN et de Pauline DUSSART.<strong> Edouard</strong> est le frère de <a href="CARIN-Theophile.php">Théophile</a>, l'époux de mon arrière-arrière-grand-mère Zélia BRASSEUR. En 1906, il vit chez ses parents à Lourches (Rue Beauvois) en compagnie de ses parents et ses frères et sœurs: Alfred, Appoline, Clara, <a href="carin-joseph.php" title="Biographie de Joseph CARIN">Joseph</a>, <a href="CARIN-Leon.php" title="Biographie de Léon CARIN">Léon</a>, Celeste et François.</p> 
 
 	<figure>
 	    <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="La famille CARIN">

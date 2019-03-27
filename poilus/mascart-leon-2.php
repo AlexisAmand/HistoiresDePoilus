@@ -69,6 +69,7 @@
 	<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
     <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
     <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
+    <li><a href="carin-joseph.php">CARIN Joseph</a></li>
     <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
     <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
     <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>

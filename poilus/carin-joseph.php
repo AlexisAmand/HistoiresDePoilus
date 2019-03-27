@@ -68,7 +68,8 @@
 		<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
 		<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
-        <li><a href="CARIN-Edouard.php" class="AsideSelected">CARIN Edouard (+)</a></li>
+        <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
+        <li><a href="carin-joseph.php" class="AsideSelected">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
@@ -119,7 +120,7 @@
 <h1>Joseph CARIN</h1>
 
 <ul>	
-	<li>Joseph CARIN est né à Lourches (Nord) le 11 juillet 1894 à Lourches. Il est le fils de François CARIN et Pauline DUSSART. Selon le recensement de 1906, il vit Rue Beauvois à Lourches en compagnie de sa mère et 8 de ses frères et sœurs : Edouard, Alfred, Polonie, Clara, Joseph, Léon, Céleste et François.</li> 
+	<li>Joseph CARIN est né à Lourches (Nord) le 11 juillet 1894 à Lourches. Il est le fils de François CARIN et Pauline DUSSART. Selon le recensement de 1906, il vit Rue Beauvois à Lourches en compagnie de sa mère et 8 de ses frères et sœurs : <a href="CARIN-Edouard.php" title="biographie d'Edouard CARIN">Edouard</a>, Alfred, Polonie, Clara, Joseph, Léon, Céleste et François.</li> 
     <li>Classe 1914, matricule 1202, vol 5, bureau de Valenciennes</li>
 </ul>
 
