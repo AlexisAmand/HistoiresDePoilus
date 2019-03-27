@@ -182,8 +182,8 @@
 <p>Apolline BRIOT, sa veuve, reçoit la somme de 150 francs. Son nom est sur le Monument aux Morts de Villers-Guislain mais son corps repose au carré militaire de l'est du cimetière communal de Châlons-en-Champagne.</p>
 
 	<figure>
-	    <a href="../images/cimetiere-communal.jpg" data-fancybox="gallery" data-caption="Le cimetière militaire de Châlons-sur-Marne">
-	    <img src="../images/cimetiere-communal.jpg" alt="Le cimetière militaire de Châlons-sur-Marne sur une carte postale ancienne"/></a>
+	    <a href="images/cimetiere-communal.jpg" data-fancybox="gallery" data-caption="Le cimetière militaire de Châlons-sur-Marne">
+	    <img src="miniatures/cimetiere-communal.jpg" alt="Le cimetière militaire de Châlons-sur-Marne sur une carte postale ancienne"/></a>
 	    <figcaption>Le cimetière militaire de Châlons-sur-Marne<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 

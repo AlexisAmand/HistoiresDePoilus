@@ -1,4 +1,2 @@
 - TODO: Vérifier si tous les poilus morts pour la France sont bien marqués d'un (+) dans le aside
-- TODO: vérifier l'orthographe de Défense ^^
 - TODO: trouver le lien de partage pour Instagram et le mettre dans social.inc
-- TODO: virer les icones Google+ si elles sont encore dans des dossiers du projet
