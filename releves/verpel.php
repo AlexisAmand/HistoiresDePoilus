@@ -141,7 +141,7 @@
     <th id="mort" width="158px">Date et lieu<br/>de décès</th>
     <th id="corps" width="70px">Corps</th>
     <th id="genre" width="90px">Genre<br/>de mort</th>
-   </tr>
+  </tr>
   </thead>
   <tr>
     <td headers="nom">BOGUD<br/>Paulin Stanislas</td>
@@ -151,49 +151,49 @@
     <td headers="genre">Accident en captivité</td>
   </tr>
   <tr>
-    <td headers="nom">>BOUCHER<br/>Henri Pierre Hubert</td>
+    <td headers="nom">BOUCHER<br/>Henri Pierre Hubert</td>
     <td headers="naissance">Le 25 mai 1891<br/>à Verpel</td>
     <td headers="mort">Le 17 août 1917<br/>à l'Hôtel-Dieu de Lyon (Rhône)</td>
     <td headers="corps">235e R.I</td>
     <td headers="genre">Blessures de Guerre</td>
     </tr>
   <tr>
-    <td headers="nom">>BOUDET<br/>Marc François</td>
+    <td headers="nom">BOUDET<br/>Marc François</td>
     <td headers="naissance">Le 19 août 1893<br/>à Verpel</td>
     <td headers="mort">Le 16 avril 1917<br/>au Bois de la Bovette (Aisne)</td>
     <td headers="corps">132e R.I</td>
     <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">>CHAMELOT<br/>Paul Léon</td>
+    <td headers="nom">CHAMELOT<br/>Paul Léon</td>
     <td headers="naissance">Le 11 février 1882<br/>à Verpel</td>
     <td headers="mort">Le 1 octobre 1915<br/>à Saint-Hilaire-le-Grand (Marne)</td>
     <td headers="corps">154e R.I</td>
     <td headers="genre">Disparu</td>
   </tr>
   <tr>
-    <td headers="nom">>DIEUDONNE<br/>Paul</td>
+    <td headers="nom">DIEUDONNE<br/>Paul</td>
     <td headers="naissance">Le 18 mai 1892<br/>à Verpel</td>
     <td headers="mort">Le 5 mars 1915<br/>à Bois de la Gruerie (Marne)</td>
     <td headers="corps">161e R.I</td>
     <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">>GERMOND<br/>Robert</td>
+    <td headers="nom">GERMOND<br/>Robert</td>
     <td headers="naissance">Le 26 novembre 1898<br/>à Verpel</td>
     <td headers="mort">Le 1er septembre 1918<br/>à Beauvais (Oise)</td>
     <td headers="corps">287e R.I</td>
     <td headers="genre">Blessures de Guerre</td>
   </tr>
   <tr>
-    <td headers="nom">>MIQUEL<br/>Georges</td>
+    <td headers="nom">MIQUEL<br/>Georges</td>
     <td headers="naissance">Le 15 mars 1885<br/>à Verpel</td>
     <td headers="mort">Le 12 septembre 1916<br/>à Regnieville (M. et Moselle)</td>
     <td headers="corps">7e R.I</td>
     <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">>PIESVAUX<br/>Gaston Ferdinand</td>
+    <td headers="nom">PIESVAUX<br/>Gaston Ferdinand</td>
     <td headers="naissance">Le 16 avril 1892<br/>à Verpel</td>
     <td headers="mort">Le 14 décembre 1914<br/>à Ornes (Meuse)</td>
     <td headers="corps">165e R.I</td>
