@@ -246,3 +246,24 @@ header {height:175px;}
 }
 
 #btnresp {display: none;}
+
+/* --------------------- */
+/* Formulaire de contact */
+/* --------------------- */
+
+label {
+	margin-top:15px;
+	display:inline-block;
+}
+
+.btn {
+	float:left;
+	display: block;
+	background-color: #5b5b5b;
+	width: 100px;
+	padding: 8px;
+	text-align: center;
+	margin-left: 3px;
+	color: #e2ede4;
+	text-decoration: none;
+}

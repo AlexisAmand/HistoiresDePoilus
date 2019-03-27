@@ -1,1 +1,1 @@
-- TODO: Vérifier si tous les poilus morts pour la France sont bien marqués d'un (+) dans le aside
+- TODO: tiburce-louis.php le selected dans aside n'est pas le bon

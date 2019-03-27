@@ -59,7 +59,7 @@
 
 <li><a href="releves/anzin.php">Anzin</a></li>
 <li><a href="releves/bry.php">Bry</a></li>
-<li><a href="releves/cousolre.php">cousolre</a></li>
+<li><a href="releves/cousolre.php">Cousolre</a></li>
 <li><a href="releves/capelle.php">Capelle-sur-Ecaillon</a></li>
 <li><a href="releves/eth.php">Eth</a></li>
 <li><a href="releves/gussignies.php">Gussignies</a></li>
