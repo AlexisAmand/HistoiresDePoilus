@@ -120,8 +120,6 @@
 
 <h1>Relevé des morts pour la France à Gussignies</h1>
 
-<p>(Relevé en cours)</p>
-
 <p>Voici la liste des morts pour la France et des victimes civiles de Gussignies (Nord) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit commentaire</a>.</p>
 
 <p></p>
@@ -133,14 +131,6 @@
 </figure>
 
 <p></p>
-
-<?php 
-
-/* TODO: mettre une photo du monument aux morts de Gussignies
- * TODO: Finir le relevé : archives de la généalogie entre amis ? 
- * */
-
-?>
 
 <table>
   <thead>
@@ -157,8 +147,7 @@
     <td headers="nom">BATON<br/>Louis</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">1918</td>
-    <td colspan="2"><strong>Victime civile</strong></td>
-    <td headers="genre">&nbsp;</td>
+    <td colspan="3"><strong>Victime civile</strong></td>
   </tr>       
   <tr>
     <td headers="nom">COLOT<br/>Georges Albert</td>
@@ -196,8 +185,7 @@
     <td headers="nom">DELFOSSE<br/>Clément</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">1918</td>
-    <td colspan="2" ><strong>Victime civile</strong></td>
-    <td headers="genre">&nbsp;</td>
+    <td colspan="3"><strong>Victime civile</strong></td>
   </tr>
   <tr>
     <td headers="nom">DELHAYE<br/>Alfred</td>
@@ -211,32 +199,31 @@
     <td headers="nom">DENIS<br/>Léon</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">1917</td>
-    <td colspan="2"><strong>Victime civile</strong></td>
-    <td headers="genre">&nbsp;</td>
+    <td colspan="3"><strong>Victime civile</strong></td>
   </tr>
   <tr>
-    <td headers="nom">DESCAMPS<br/>Albert</td>
+    <td headers="nom">DE(S)CAMPS<br/>Albert</td>
     <td headers="naissance">12 février 1875<br/>à Gussignies</td>
-    <td headers="mort">1918</td>
-    <td headers="grade">&nbsp;</td>
+    <td headers="mort">19 novembre 1918<br />à Leysin (Suisse)</td>
+    <td headers="grade">Soldat</td>
     <td headers="corps">4e R.I.T</td>
-    <td headers="genre">&nbsp;</td>
+    <td headers="genre">Maladie en service</td>
   </tr>
   <tr>
-    <td headers="nom">DESCAMPS<br/>Marcel Alphonse</td>
+    <td headers="nom">DE(S)CAMPS<br/>Marcel Alphonse</td>
     <td headers="naissance">12 septembre 1894<br/>à Gussignies</td>
     <td headers="mort">20 janvier 1915<br/>à Marbotte (Meuse)</td>
     <td headers="grade">Soldat<br/>2e classe</td>
     <td headers="corps">95e R.I</td>
-    <td headers="genre">&nbsp;</td>
+    <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">DESMONCHAUX<br/>Louis Jean Baptiste</td>
+    <td headers="nom">DE(S)MONCHAUX<br/>Louis Jean Baptiste</td>
     <td headers="naissance">11 septembre 1886<br/>à Brillon (Nord)</td>
     <td headers="mort">19 mai 1915<br/>à Vauquois (Meuse)</td>
     <td headers="grade">ss-lieut</td>
     <td headers="corps">76e R.I</td>
-    <td headers="genre">&nbsp;</td>
+    <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
     <td headers="nom">DRUART<br/>Eusebe</td>
@@ -244,7 +231,7 @@
     <td headers="mort">12 décembre 1918<br/>à Roisin (Belgique)</td>
     <td headers="grade">Soldat</td>
     <td headers="corps">4e R.I.T</td>
-    <td headers="genre">&nbsp;</td>
+    <td headers="genre">Maladie en captivité</td>
   </tr>
   <tr>
     <td headers="nom">DRUART<br/>Henri</td>
@@ -252,7 +239,7 @@
     <td headers="mort">1er octobre 1915<br/>à Chaumont (Haute-Marne)</td>
     <td headers="grade">2e classe</td>
     <td headers="corps">65e B.C.P</td>
-    <td headers="genre">&nbsp;</td>
+    <td headers="genre">Blessures de guerre</td>
   </tr>
   <tr>
     <td headers="nom">DUBOIS<br/>Auguste</td>
@@ -268,7 +255,7 @@
     <td headers="mort">27 octobre 1916<br/>au Lazaret de <a href="../camps/camp-hagen.php">Hagen</a> (Allemagne)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">4e R.I.T</td>
-    <td headers="genre">&nbsp;</td>
+    <td headers="genre">Maladie contractée en captivité</td>
   </tr>
   <tr>
     <td headers="nom">DUPONT<br/>Léonard Louis</td>
@@ -276,14 +263,13 @@
     <td headers="mort">23 septembre 1914 octobre 1916<br/>à Spada (Meuse)</td>
     <td headers="grade">2e classe</td>
     <td headers="corps">25e B.C.P</td>
-    <td headers="genre">&nbsp;</td>
+    <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
     <td headers="nom">FUMIERE<br/>Julien</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">1918</td>
-    <td colspan="2" headers="grade"><strong>Victime civile</strong></td>
-    <td headers="genre">&nbsp;</td>
+    <td colspan="3" headers="grade"><strong>Victime civile</strong></td>
   </tr>
   <tr>
     <td headers="nom">HOSTELART<br/>Jean Baptiste</td>
@@ -305,8 +291,7 @@
     <td headers="nom">LECOMTE<br/>Julien</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">1918</td>
-    <td colspan="2" headers="grade"><strong>Victime civile</strong></td>  
-    <td headers="genre">&nbsp;</td>
+    <td colspan="3" headers="grade"><strong>Victime civile</strong></td>  
   </tr>    
   <tr>
     <td headers="nom">LEROY<br/>Paul Jean François</td>
@@ -320,8 +305,7 @@
     <td headers="nom">LOISEAU<br/>François</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">1918</td>
-    <td colspan="2" headers="grade"><strong>Victime civile</strong></td>
-    <td headers="genre">&nbsp;</td>
+    <td colspan="3" headers="grade"><strong>Victime civile</strong></td>
   </tr>     
   <tr>
     <td headers="nom">NALENNE<br/>Oscar Joseph</td>
@@ -340,12 +324,12 @@
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">PERSEAU<br/>Jules</td>
+    <td headers="nom">PERSIEAU<br/>Jules</td>
     <td headers="naissance">22 août 1882<br/>à Gussignies</td>
     <td headers="mort">29 septembre 1918<br/>à Sainte-Marie à Py</td>
     <td headers="grade">407e R.I</td>
     <td headers="corps">sergent</td>
-    <td headers="genre">&nbsp;</td>
+    <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
     <td headers="nom">SCHEFFER<br/>Albert Athanase</td>
@@ -353,7 +337,7 @@
     <td headers="mort">31 juillet 1915<br/>à Argonne (Meuse)</td>
     <td headers="grade">46e R.A</td>
     <td headers="corps">brigadier</td>
-    <td headers="genre"> </td>
+    <td headers="genre">Tué à l'ennemi</td>
   </tr>
   <tr>
     <td headers="nom">SEGERS<br/>Jules Elisée</td>
@@ -367,8 +351,7 @@
     <td headers="nom">WAROQUIER<br/>Gustave</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">1918</td>
-    <td colspan="2" headers="grade"><strong>Victime civile</strong></td>  
-    <td headers="corps">&nbsp;</td>
+    <td colspan="3" headers="grade"><strong>Victime civile</strong></td>  
   </tr>  
 </table>
 
