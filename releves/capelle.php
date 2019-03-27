@@ -120,8 +120,6 @@
 
 <h1>Relevé des morts pour la France à Capelle-sur-Ecaillon</h1>
 
-<?php /* TODO: page à finir */ ?>
-	
 <p></p>
 
 <p>Voici la liste des morts pour la France et des victimes civiles de Capelle-sur-Ecaillon (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php">laissant un petit message.</a></p>
@@ -148,7 +146,7 @@
     <td headers="naissance">20 avril 1889<br/>Capelle-sur-Ecaillon</td>
     <td headers="corps">127e RI<br/>(soldat)</td>
     <td headers="mort">19 février 1915<br/>Mesnil-les-Hurlus</td>
-    <td headers="remarque">&nbsp;</td>
+    <td headers="remarque">Tué à l'ennemi</td>
     <td headers="source">Livre<br/>d'or</td>
     </tr>
   <tr>
