@@ -148,7 +148,7 @@
         </tbody>
     </table>
 
-<p>Il est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 aout 1914">décret de mobilisation générale du 1 août 1914</a> et arrive au 91 Régiment d'Infanterie le 3. L'année qui suit, le 14 septembre, il est détaché aux Fonderies de Firminy (Loire) où on produit les cannons de 155 mm. Il est affecté au 86e Régiment d'Infanterie par la circulaire ministérielle du 25 mai 1917 mais maintenu détaché. Il est envoyé en congé illimité le 10 avril 1919 et se retire rue d'Estreux à Onnaing où il décède le jeudi 20 février 1941.</p>
+<p>Il est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de mobilisation générale du 1 août 1914</a> et arrive au 91 Régiment d'Infanterie le 3. L'année qui suit, le 14 septembre, il est détaché aux Fonderies de Firminy (Loire) où on produit les cannons de 155 mm. Il est affecté au 86e Régiment d'Infanterie par la circulaire ministérielle du 25 mai 1917 mais maintenu détaché. Il est envoyé en congé illimité le 10 avril 1919 et se retire rue d'Estreux à Onnaing où il décède le jeudi 20 février 1941.</p>
     
     <figure>
 	    <a href="http://cartespostalesanciennes.genealexis.fr/image/loire/930-acierie-de-firminy.jpg" data-fancybox="gallery" data-caption="Les Fonderies de Firminy (Loire)">

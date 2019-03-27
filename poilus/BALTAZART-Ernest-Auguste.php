@@ -135,7 +135,7 @@
 	        </tr>        
 	        <tr>
 	            <td headers="date">1876</td>
-	            <td headers="adresse">Au Munez<br />rue de Ponfaverger<br />à Béthenivile</td>
+	            <td headers="adresse">Au Munez<br/>rue de Ponfaverger<br/>à Béthenivile</td>
 	        </tr>
 	        <tr>
 	            <td headers="date">1881</td>
@@ -166,7 +166,7 @@
 
 <h2>Ernest et la campagne contre l'Allemagne</h2>
 
-<p>Comme la plupart des jeunes hommes de sa génération, <strong>Ernest Auguste BALTAZART</strong> est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 aout 1914">décret de mobilisation générale</a> d'août 1914 et il rejoint quelques jours plus tard le <strong>46e Régiment d'Infanterie Territoriale</strong>. Il est libéré le 2 sept 1914 en attendant d'être rappelé le 10 avril 1915 et placé en sursis d'appel provisoire le dit jour aux Forges et Aciéries de Saint Etienne (Usine du Marais).</p>
+<p>Comme la plupart des jeunes hommes de sa génération, <strong>Ernest Auguste BALTAZART</strong> est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de mobilisation générale</a> d'août 1914 et il rejoint quelques jours plus tard le <strong>46e Régiment d'Infanterie Territoriale</strong>. Il est libéré le 2 sept 1914 en attendant d'être rappelé le 10 avril 1915 et placé en sursis d'appel provisoire le dit jour aux Forges et Aciéries de Saint Etienne (Usine du Marais).</p>
 
 	<figure>
 	    <a href="images/saint-etienne-marais.jpg" data-fancybox="gallery" data-caption="Les Aciéries de Saint-Etienne">

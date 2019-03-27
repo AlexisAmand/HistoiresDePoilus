@@ -204,7 +204,7 @@
   <tr>
     <td headers="nom">DE(S)CAMPS<br/>Albert</td>
     <td headers="naissance">12 février 1875<br/>à Gussignies</td>
-    <td headers="mort">19 novembre 1918<br />à Leysin (Suisse)</td>
+    <td headers="mort">19 novembre 1918<br/>à Leysin (Suisse)</td>
     <td headers="grade">Soldat</td>
     <td headers="corps">4e R.I.T</td>
     <td headers="genre">Maladie en service</td>

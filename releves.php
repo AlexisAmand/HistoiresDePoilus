@@ -130,10 +130,12 @@
 <p>B.C - Bataillon de Chasseurs</p>
 <p>B.C.P - Bataillon de Chasseurs à Pied</p>
 <p>B.D - Bataillon de Douaniers</p>
+<p>B.I.C.M - Bataillon d'Infanterie Coloniale du Maroc</p>
 <p>B.M.A - Bataillon de Marche d'Afrique</p>
 <p>C.M.D - Corps Militaire des Douanes</p>
 <p>C.O.A - Section de Commis et Ouvriers militaires d'Administration</p>
 <p>C.P - Cuirassier à Pied</p>
+<p>E.T.E - Escadron de Train d'Equipage</p>
 <p>G.A - Groupe d'aviation</p>
 <p>R.A - Régiment d'Artillerie</p>
 <p>R.A.L - Régiment d'Artillerie Lourde</p>

@@ -314,7 +314,7 @@
   <tr>
     <td headers="nom">MOREAU<br/>Pierre</td>
     <td headers="naissance">Le 26 septembre 1888<br/>à Fresnes-sur-Escaut (Nord)</td>
-    <td headers="mort">Le 22 amrs 1916<br/>à Haucourt-Malancourt (Meuse)</td>
+    <td headers="mort">Le 22 mars 1916<br/>à Haucourt-Malancourt (Meuse)</td>
     <td headers="corps">141e R.I</td>
     <td  headers="genre">&nbsp;</td>
   </tr>

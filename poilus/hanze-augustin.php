@@ -156,7 +156,7 @@
 	    </tbody>   
 	</table>    
 
-<p>Rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 aout 1914">décret de Mobilisation Générale</a> du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux-ges.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le <a href="../releves/cousolre.php">Monument aux Morts deCousolre</a> (où il était né) et sur les plaques commémoratives du square de l’Armistice à Carcassonne (où il était serrurier).</p>
+<p>Rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de Mobilisation Générale</a> du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux-ges.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le <a href="../releves/cousolre.php">Monument aux Morts deCousolre</a> (où il était né) et sur les plaques commémoratives du square de l’Armistice à Carcassonne (où il était serrurier).</p>
 
 	<figure>
 	    <a href="sources/hanze-augustin.jpg" data-fancybox="gallery" data-caption="Augustin HANZE, mort pour la France">
@@ -170,7 +170,7 @@
 	    <figcaption>Inauguration du monument de Cousolre<br/>(Le 29 juillet 1923)</figcaption>
     </figure>
     
-<p>Le 23 mars 1920, Berthe se remarie avec <a href="tiburce-louis.php">Louis Henri François TIBURCE</a>, un préposé aux douanes né à Marly (Nord) le 20 aout 1889.</p>    
+<p>Le 23 mars 1920, Berthe se remarie avec <a href="tiburce-louis.php">Louis Henri François TIBURCE</a>, un préposé aux douanes né à Marly (Nord) le 20 août 1889.</p>    
     
 <p>Pour la petite histoire, Louis PERGAUD (1882-1915), prix Goncourt et auteur de "La Guerre des Boutons" (publié en 1912) a disparu durant la même bataille, dans la nuit du 7 au 8 avril 1915.</p>    
         
