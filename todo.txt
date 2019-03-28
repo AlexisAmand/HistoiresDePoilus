@@ -1,5 +1,15 @@
 - TODO : voir le camp de Westhofen (Allemagne)
-- TODO : voir le camp de Bochum (Allemagne)
+- TODO : voir le camp de Bochum (Allemagne) n°114 sur le fond de carte
 - TODO : voir le camp de Dortmund (Allemagne)
+- TODO : voir le camp de Heilsberg (Allemagne)
+- TODO : voir le camp de Trèves (Allemagne)
+- TODO : voir le camp de Sudelkopff (Allemagne)
+- TODO : voir le camp de Minderheide (Allemagne)
+- TODO : voir le camp de Förstört (Allemagne)
+- TODO : voir le camp de Gründerg(Allemagne)
 - TODO : hôpital de Saint-Denis (Seine)
-- TODO : à quelle ville correspond Zutenlick en Grèce ? 
+- TODO : à quelle ville correspond Zutenlick en Grèce ?  
+		 Mettre une note pour indiquer qu'il se pourrait que ça corresponde à Zeitenlik -> voir wikipedia
+- TODO : mette la ligne : <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p> sur toutes les pages, et ensuite voir pour mettre un margin top (voir page cousolre) au dessus de chaque tableau de relevés.
+		-> 35 px en version desktop
+		-> -35 px en version mobile

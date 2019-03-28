@@ -130,7 +130,9 @@
 	  <figcaption>Le monument de Capelle-sur-Ecaillon<br/>(Source: Photo privée)</figcaption>
 </figure>
 
-<table>
+<p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
+
+<table style="margin-top:35px;">
   <thead>
   <tr>
     <th id="nom">Nom</th>

@@ -122,18 +122,15 @@
 
 <p>Voici la liste des morts pour la France de Verpel (Ardennes) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit commentaire</a>.</p>
 
-<p></p>
-
 <figure>
     <a href="images/monument-verpel.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Verpel">
     <img src="images/mini/monument-verpel.jpg" alt="le Monument aux Morts de Verpel sur une carte postale ancienne"/></a>
     <figcaption>Le Monument aux Morts<br/>(cliquez pour agrandir)</figcaption>
 </figure>
 
-<p></p>
+<p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
-<table>
-
+<table style="margin-top:35px;">
   <thead>
   <tr>
     <th id="nom" width="158px">Nom et prénoms</th>

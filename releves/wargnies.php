@@ -122,17 +122,15 @@
 
 <p>Voici la liste des morts pour la France et des victimes civiles de Wargnies-le-Grand (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php">laissant un petit message.</a></p>
 
-<p></p>
-
 <figure>
     <a href="images/monument-wargnies.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Wargnies-le-Grand">
     <img src="images/mini/monument-wargnies.jpg" alt="le Monument aux Morts de Wargnies-le-Grand sur une carte postale ancienne"/></a>
     <figcaption>Le Monument aux Morts et la Montée Paulus.<br/>(cliquez pour agrandir)</figcaption>
 </figure>
 
-<p></p>
+<p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
-<table>
+<table style="margin-top:35px;">
   <thead>
   <tr>
     <th id="nom" width="158px">Nom et prénom(s)</th>

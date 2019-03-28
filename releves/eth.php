@@ -102,7 +102,7 @@
 
 </ul>
    
-      <div id="pubaside">
+   <div id="pubaside">
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Poilus -->
     <ins class="adsbygoogle"
@@ -122,16 +122,14 @@
 
 <p>Voici la liste des morts pour la France  de Eth (Nord) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit message</a>.</p>
 
-<p></p>
-
-    <figure>
-        <img src="images/mini/monument-eth.jpg" alt="Le Monument aux Morts pour la France à Eth">
+	<figure>
+    	<img src="images/mini/monument-eth.jpg" alt="Le Monument aux Morts pour la France à Eth">
         <figcaption>Le Monument aux Morts d'Eth,<br/>dans le petit cimetière.</figcaption>
     </figure>
 
-<p></p>
+<p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
-<table>
+<table style="margin-top:35px;">
   <thead>
   <tr>
     <th id="nom">Nom et prénom(s)</th>

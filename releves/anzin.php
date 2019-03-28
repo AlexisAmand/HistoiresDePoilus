@@ -124,17 +124,15 @@
 
 <p>Voici la liste des morts pour la France de Anzin (Nord) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant un petit commentaire.</p>
 
-<p></p>
-
 <figure>
     <a href="images/monument-anzin.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts d'Anzin">
     <img src="images/mini/monument-anzin.jpg" alt="le Monument aux Morts dans le cimetière d'Anzin sur une carte postale ancienne"/></a>
     <figcaption>Le Monument aux Morts de la guerre 1914-1918<br/>(Source: Delcampe)</figcaption>
 </figure>
 
-<p></p>
+<p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
-<table>
+<table style="margin-top:35px;">
   <thead>
   <tr>
     <th id="nom">Nom et prénoms</th>

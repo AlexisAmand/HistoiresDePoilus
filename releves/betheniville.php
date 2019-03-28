@@ -122,8 +122,6 @@
 
 <p>Voici la liste des morts pour la France de <a href="http://cartespostalesanciennes.genealexis.fr/album/63-betheniville" title="cartes postales anciennes de Bétheniville sur le site Genealexis">Bétheniville</a> (Marne) pendant le premier conflit mondial. Cette page sera mise à jour au fur et à mesure des découvertes que j'aurais l'occasion de faire. Ce relevé a été réalisé avec le Livre d'Or des soldats morts pour la France pour la commune de Bétheniville, puis complété avec le site "Mémoire des Hommes". Comme je ne suis à l'abris d'une erreur de retranscription,  n'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit message</a>.</p>
 
-<p></p>
-
 <figure>
     <a href="images/betheniville-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Bétheniville">
     <img src="images/mini/betheniville-monument-aux-morts.jpg" alt="le Monument aux Morts de Bétheniville sur une carte postale ancienne"/></a>
@@ -134,9 +132,9 @@
 
 <p><em>A cette liste, certains sites internet ajoutent les noms suivants: </em><em>Adrien Agard,     Eugène Boeglin,  Émile Cercelet, Auguste Cloé,   ,Raphaël Dartois,    Honoré Hémart,  Georges Edgard Leclère, Charles, Gaston Rêve. Cependant, ils ne figurent pas dans le Livre d'Or des morts pour la France.</em></p>
 
-<p></p>
+<p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
-<table>
+<table style="margin-top:35px;">
   <thead>
   <tr>
     <th id="nom">Nom et prénom(s)</th>

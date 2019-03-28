@@ -124,17 +124,15 @@
 
 <p>Voici la liste des morts pour la France et des victimes civiles de Roeulx (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php">laissant un petit message.</a></p>
 
-<p></p>
-
 <figure>
     <a href="images/roeulx-monument.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Roeulx">
     <img src="images/mini/roeulx-monument.jpg" alt="le Monument aux Morts pour la France de Roeulx sur une carte postale ancienne"/></a>
     <figcaption>Le Monument aux Morts<br/>(Source: Google Map)</figcaption>
 </figure>
 
-<p></p>
+<p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
-<table>
+<table style="margin-top:35px;">
   <thead>
   <tr>
     <th id="nom">Nom et prénom(s)</th>

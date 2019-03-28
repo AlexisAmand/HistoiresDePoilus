@@ -124,17 +124,15 @@
 
 <p>Pour plus d'informations sur Isles-sur-Suippe pendant la Grande Guerre, je vous invite à consulter le site "http://frontdechampagne.over-blog.com" dont est extraite la carte postale ci-dessous.</p>
 
-<p></p>
-
 <figure>
     <a href="images/monument-isles.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts d'Isles-sur-Suippe">
     <img src="images/mini/monument-isles.jpg" alt="le Monument aux Morts d'Isles-sur-Suippe sur une carte postale ancienne"/></a>
     <figcaption>Le Monument aux Morts<br/>(cliquez pour agrandir)</figcaption>
 </figure>
 
-<p></p>
+<p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
-<table>
+<table style="margin-top:35px;">
   <thead>
   <tr>
     <th id="nom">Nom et prénom(s)</th>

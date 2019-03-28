@@ -122,18 +122,15 @@
 
 <p>Voici le relevé des morts pour la France de Saint-Hilaire-le-Petit (Marne) pendant la Grande Guerre. Cette liste a été établie avec le Livre d'Or et les fiches disponibles sur le site Mémoire des Hommes.</p>
 
-<p></p>
-
 <figure>
     <a href="images/hilaire-monument.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Saint-Hilaire-le-Petit">
-    <img src="images/mini/hilaire-monument.jpg" alt="le Monument aux Morts pour la France de Saint-Hilaire-le-Petit sur une carte postale ancienne"/>
-    </a>
+    <img src="images/mini/hilaire-monument.jpg" alt="le Monument aux Morts pour la France de Saint-Hilaire-le-Petit sur une carte postale ancienne"/></a>
     <figcaption>Le Monument aux Morts<br/>(Source: Google Map)</figcaption>
 </figure>
 
-<p></p>
+<p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
-<table>
+<table style="margin-top:35px;">
   <thead>
   <tr>
     <th id="nom">Nom et prénom(s)</th>

@@ -132,17 +132,15 @@
  */
 ?>
 
-<p></p>
-
 <figure>
     <a href="images/monument-frencq.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Frencq">
     <img src="images/mini/monument-frencq.jpg" alt="le monument commémoratif des enfants de Frencq morts pour la France pendant la Première Guerre Mondiale sur une carte postale ancienne"/></a>
     <figcaption>Le monument commémoratif<br/>(Source: Delcampe)</figcaption>
 </figure>
 
-<p></p>
+<p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
-<table>
+<table style="margin-top:35px;">
   <thead>  
       <tr>
         <th id="nom">Nom</th>
