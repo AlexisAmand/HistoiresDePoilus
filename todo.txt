@@ -13,3 +13,6 @@
 - TODO : mette la ligne : <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p> sur toutes les pages, et ensuite voir pour mettre un margin top (voir page cousolre) au dessus de chaque tableau de relevés.
 		-> 35 px en version desktop
 		-> -35 px en version mobile
+- TODO : page erreur.php (pour erreur 404) avec un sommaire qui contient des liens vers les principales rubriques, un truc comme "page que vous cherchez n'existe plus, qu'étiez vous en train de chercher ?"
+- TODO : en bas de la page d'accueil une liste à puces pour indiquer la liste des derniéres mises à jour ?
+- TODO : faire un lien vers la page mobilisation-1914.php à chaque fois qu'une page en parle

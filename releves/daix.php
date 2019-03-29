@@ -128,7 +128,7 @@
 
 <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
-<table style="margin-top:35px;">
+<table class="releves">
   <thead>
   <tr>
     <th id="nom">Nom et prénom(s)</th>
@@ -245,7 +245,7 @@
     </tr>
   </table>
 
-<p><sup>1</sup>Le lieu de naissance n'est pas le même selon les sources: Daix pour le livre d'or, Messigny sur la fiche issue du site "Mémoire des Hommes".</p>
+<p class="note"><sup>1</sup>Le lieu de naissance n'est pas le même selon les sources: Daix pour le livre d'or, Messigny sur la fiche issue du site "Mémoire des Hommes".</p>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

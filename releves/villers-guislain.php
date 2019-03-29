@@ -131,7 +131,7 @@
 
 <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
-<table style="margin-top:35px;">
+<table class="releves">
   <thead>
   <tr>
     <th id="nom" width="158px">Nom et prénom(s)</th>

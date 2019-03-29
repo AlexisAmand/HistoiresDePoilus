@@ -241,7 +241,10 @@ header {height:175px;}
 /* Arbre généalogique */ 
 /* ------------------ */
 
-.ArbreGenealogique {box-shadow:none;width:650px;}	
+.ArbreGenealogique {
+	box-shadow:none;
+	width:650px;
+}	
 		
 }
 
@@ -266,4 +269,8 @@ label {
 	margin-left: 3px;
 	color: #e2ede4;
 	text-decoration: none;
+}
+
+.releves {
+	margin-top:35px;
 }

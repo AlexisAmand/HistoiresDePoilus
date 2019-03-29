@@ -69,18 +69,18 @@ Décret prescrivant la mobilisation des Armées de terre et de mer du 1er août 
 </p>
 
  	<figure>
-        <a href="sources/mobilisation-1914-01.jpg" data-fancybox="gallery" data-caption=" ">
-        <img src="miniatures/mobilisation-1914-01.jpg" style="width:70%"></a>
+        <a href="sources/mobilisation-1914-01.jpg" data-fancybox="gallery" data-caption="Le décret de mobilisation générale du 1er août 1914">
+        <img src="miniatures/mobilisation-1914-01.jpg" alt="Texte du décret de mobilisation générale daté du 1er août 1914"></a>
     </figure>
     
  	<figure>
-        <a href="sources/mobilisation-1914-02.jpg" data-fancybox="gallery" data-caption=" ">
-        <img src="miniatures/mobilisation-1914-02.jpg" style="width:70%"></a>
+        <a href="sources/mobilisation-1914-02.jpg" data-fancybox="gallery" data-caption="Le décret de mobilisation générale du 1er août 1914">
+        <img src="miniatures/mobilisation-1914-02.jpg" alt="Texte du décret de mobilisation générale daté du 1er août 1914"></a>
     </figure>
 
  	<figure>
-        <a href="sources/mobilisation-1914-03.jpg" data-fancybox="gallery" data-caption=" ">
-        <img src="miniatures/mobilisation-1914-03.jpg" style="width:70%"></a>
+        <a href="sources/mobilisation-1914-03.jpg" data-fancybox="gallery" data-caption="Le décret de mobilisation générale du 1er août 1914">
+        <img src="miniatures/mobilisation-1914-03.jpg" alt="Texte du décret de mobilisation générale daté du 1er août 1914"></a>
     </figure>
     
 <p class="sources">
@@ -106,5 +106,6 @@ Décret prescrivant la mobilisation des Armées de terre et de mer du 1er août 
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 <script type="text/javascript" src="../js/script.js"></script>
+
 </body>
 </html>

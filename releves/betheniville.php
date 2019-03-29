@@ -134,7 +134,7 @@
 
 <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
-<table style="margin-top:35px;">
+<table class="releves">
   <thead>
   <tr>
     <th id="nom">Nom et prénom(s)</th>
@@ -363,7 +363,7 @@
   </tr>
   <tr>
     <td headers="nom">LANGLOIS<br/>Henri Georges</td>
-    <td headers="naissance">le 23 janvier 1883<br/>à Boulogne / Mer (62)<sup><a href="#note1">1</a></sup></td>
+    <td headers="naissance">le 23 janvier 1883<br/>à Boulogne / Mer (62)<sup>1</sup></td>
     <td headers="mort">le 5 septembre 1914<br/>à Saint-Soupplets (77)</td>
     <td headers="classe">1903</td>
     <td headers="corps">65e B.C.P</td>
@@ -556,8 +556,7 @@
 
 <br/><br/>
 
-<p><a href="#note1"></a><sup>1</sup>
-Le livre d'Or indique Boulogne-sur-Mer dans le Pas-de-Calais, la fiche du site Memoire des Hommes indique quant à elle Boulogne dans l'ancien département de la Seine.</p>
+<p class="note"><sup>1</sup>Le livre d'Or indique Boulogne-sur-Mer dans le Pas-de-Calais, la fiche du site Memoire des Hommes indique quant à elle Boulogne dans l'ancien département de la Seine.</p>
 
 <?php /* indiquer les sources : Livre d'or du Ministère des pensions (Archives Nationales), Mémoire des Hommes (Ministère de la Défense), CPA ? */ ?>
 

@@ -130,7 +130,7 @@
 
 <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
-<table style="margin-top:35px;">
+<table class="releves">
   <thead>
   <tr>
     <th id="nom">Nom et prénom(s)</th>
@@ -279,7 +279,7 @@
   </tr>
 </table>
 
-<p><sup>1</sup>Giromagny était dans le Haut-Rhin de 1801 à 1871, en Allemagne de 1871 à 1919 et dans le Territoire de Belfort à partir de 1922.</p>
+<p class="note"><sup>1</sup>Giromagny était dans le Haut-Rhin de 1801 à 1871, en Allemagne de 1871 à 1919 et dans le Territoire de Belfort à partir de 1922.</p>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

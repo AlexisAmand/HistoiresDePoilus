@@ -177,7 +177,7 @@
         </tbody>
     </table>
     
-<p><sup>1</sup>Selon DBL, de Twitter, il s'agit de l'actuelle rue Farès El Khoumi, parallèle à l'avenue de la République, qui longe le port.</p>    
+<p class="note"><sup>1</sup>Selon DBL, de Twitter, il s'agit de l'actuelle rue Farès El Khoumi, parallèle à l'avenue de la République, qui longe le port.</p>    
       
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
