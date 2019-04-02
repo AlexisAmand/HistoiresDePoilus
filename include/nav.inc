@@ -4,7 +4,7 @@
     <a href="../lieux.php">Les Batailles</a>
     <a href="../camps.php" class="NavSelected">Les Camps</a>
     <a href="../releves.php">Les Relevés</a>
-    <a href="hopitaux.php">Les Hôpitaux</a>
+    <a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
     <a href="../poilus.php">Les Poilus</a>
 </nav>
 

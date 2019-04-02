@@ -152,7 +152,7 @@
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-  	<td headers="nom"><a href="../poilus/poilus/CARIN-Leon.php">CARIN<br/>Leon</a></td>
+  	<td headers="nom"><a href="../poilus/CARIN-Leon.php">CARIN<br/>Leon</a></td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="grade">&nbsp;</td>

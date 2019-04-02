@@ -222,7 +222,7 @@
 	    <figcaption>Carte d'ancien combattant ayant appartenu à Noël<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
-<p>Cependant le 3 décembre 1947,<strong> Noël Jules</strong> apprend qu’il n’a plus droit à la carte du combattant au titre de l’<a href="sources/jorf-3-juillet-1930.php" title="lien vers le décrêt du 1er juillet 1930">article 2 du décret du 1er juillet 1930</a>. En effet, il était présent au <strong>1er Régiment d’Artillerie à Pied</strong> comme auxiliaire d’artillerie de places fortes et il s’agissait d’un « emploi non combattant ». Il faut bien comprendre que les régiments de territoriaux constitués par des hommes de 43 à 49 ans n'avaient pas pour vocation principale de participer à des combats mais plutôt d'occuper toutes les tâches non combattantes.</p>
+<p>Cependant le 3 décembre 1947,<strong> Noël Jules</strong> apprend qu’il n’a plus droit à la carte du combattant au titre de l’<a href="jorf-3-juillet-1930.php" title="lien vers le décrêt du 1er juillet 1930">article 2 du décret du 1er juillet 1930</a>. En effet, il était présent au <strong>1er Régiment d’Artillerie à Pied</strong> comme auxiliaire d’artillerie de places fortes et il s’agissait d’un « emploi non combattant ». Il faut bien comprendre que les régiments de territoriaux constitués par des hommes de 43 à 49 ans n'avaient pas pour vocation principale de participer à des combats mais plutôt d'occuper toutes les tâches non combattantes.</p>
 
 	<figure>
 	    <a href="sources/JOLY-carte-combattant.jpg" data-fancybox="gallery" data-caption="Dossier d'ancien combattant de Noël Jules JOLY (extrait)">

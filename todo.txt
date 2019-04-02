@@ -1,6 +1,5 @@
 - TODO : voir le camp de Bochum (Allemagne) n°114 sur le fond de carte
 
-
 - TODO : voir le camp de Gründerg (Allemagne)
 - TODO : voir le camp de Heilsberg (Allemagne)
 - TODO : voir le camp de Minderheide (Allemagne)
@@ -16,11 +15,10 @@
 - TODO : sur l'arbre de Jules AMAND, certaines cases sont bleues alors qu'il s'agit de femmes ^^
 
 - TODO : ajouter camps.php sur la page erreur.php
-
-- TODO : lien vers le camp de Westhofen (Allemagne)
-- TODO : lien vers le camp de Bochum (Allemagne)
-- TODO : lien vers le camp de Dortmund (Allemagne)
-- TODO : lien vers le camp de Förstört (Allemagne)
+- TODO : lien vers le camp de Westhofen (Allemagne)  sur la page erreur.php
+- TODO : lien vers le camp de Bochum (Allemagne)  sur la page erreur.php
+- TODO : lien vers le camp de Dortmund (Allemagne)  sur la page erreur.php
+- TODO : lien vers le camp de Förstört (Allemagne)  sur la page erreur.php
 
 Aprés la mise en ligne
 ----------------------
