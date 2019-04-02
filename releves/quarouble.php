@@ -496,7 +496,7 @@
   <tr>
     <td headers="nom">LARIVIERE<br/>Émile Marcelin </td>
     <td headers="naissance">Le 6 septembre 1889<br/>à Quarouble (Nord)</td>
-    <td headers="mort">Le 4 novembre 1918<br/>à Förstört (Allemagne)</td>
+    <td headers="mort">Le 4 novembre 1918<br/>à <a href="../camps/camp-forstort.php" title="le camp de prisonniers de Förstört">Förstört (Allemagne)</td>
     <td headers="corps">1er R.A</td>
     <td headers="genre">&nbsp;</td>
   </tr>

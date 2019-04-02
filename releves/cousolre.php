@@ -266,7 +266,7 @@
   <tr>
     <td headers="nom">COULONVAL<br/>Adonis Renalde</td>
     <td headers="naissance">25 mai 1874<br/>à Chaudeville (Belgique)</td>
-    <td headers="mort">8 août 1915<br/>à Bochum (Allemagne)</td>
+    <td headers="mort">8 août 1915<br/>à <a href="../camps/camp-bochum.php" title="le camp de prisonniers de Bochum">Bochum</a> (Allemagne)</td>
     <td headers="classe">soldat</td>
     <td headers="corps">4e R.I.T</td>
     <td headers="genre">&nbsp;</td>
@@ -394,7 +394,7 @@
   <tr>
     <td headers="nom">HANNECART<br/>Arthur Ernest</td>
     <td headers="naissance">11 mars 1894<br/>à Trelon (Nord)</td>
-    <td headers="mort">23 septembre 1916<br/>à Dortmund (Allemagne)</td>
+    <td headers="mort">23 septembre 1916<br/>à <a href="../camps/camp-dortmund.php" title="le camp de prisonniers de Dortmund">Dortmund</a> (Allemagne)</td>
     <td headers="classe">2e classe</td>
     <td headers="corps">C.M.D</td>
     <td headers="genre">&nbsp;</td>

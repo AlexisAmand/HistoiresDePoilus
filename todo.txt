@@ -1,12 +1,12 @@
-- TODO : voir le camp de Westhofen (Allemagne)
 - TODO : voir le camp de Bochum (Allemagne) n°114 sur le fond de carte
-- TODO : voir le camp de Dortmund (Allemagne)
+
+
+- TODO : voir le camp de Gründerg (Allemagne)
 - TODO : voir le camp de Heilsberg (Allemagne)
-- TODO : voir le camp de Trèves (Allemagne)
-- TODO : voir le camp de Sudelkopff (Allemagne)
 - TODO : voir le camp de Minderheide (Allemagne)
-- TODO : voir le camp de Förstört (Allemagne)
-- TODO : voir le camp de Gründerg(Allemagne)
+- TODO : voir le camp de Sudelkopff (Allemagne)
+- TODO : voir le camp de Trèves (Allemagne)
+
 - TODO : hôpital de Saint-Denis (Seine)
 - TODO : à quelle ville correspond Zutenlick en Grèce ?  
 		 Mettre une note pour indiquer qu'il se pourrait que ça corresponde à Zeitenlik -> voir wikipedia
@@ -17,6 +17,10 @@
 
 - TODO : ajouter camps.php sur la page erreur.php
 
+- TODO : lien vers le camp de Westhofen (Allemagne)
+- TODO : lien vers le camp de Bochum (Allemagne)
+- TODO : lien vers le camp de Dortmund (Allemagne)
+- TODO : lien vers le camp de Förstört (Allemagne)
 
 Aprés la mise en ligne
 ----------------------

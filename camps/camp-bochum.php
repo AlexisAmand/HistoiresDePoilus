@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Le camp de prisonniers de Regensburg pendant la Grande Guerre - Histoires de Poilus</title>
-<meta name="description"  content="Présentation du camp de prisonniers de Regensburg en Allemagne pendant la Première Guerre mondiale (1914-1918)">
+<title>Le camp de prisonniers de Bochum pendant la Grande Guerre - Histoires de Poilus</title>
+<meta name="description"  content="Présentation du camp de prisonniers de Bochum en Allemagne pendant la Première Guerre mondiale (1914-1918)">
     
 <link rel="stylesheet" href="../css/style.css">
 			<link rel="stylesheet" href="../css/resp.css">
@@ -31,12 +31,12 @@
 <?php include('../include/resp.inc'); ?>
 
 <header>
-	
-    <?php include('../include/social.inc'); ?>
-    
-<a href="../index.php" title="retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
+<?php include('../include/social.inc'); ?>
+    
+  <a href="../index.php" title="Retour sur la page d'accueil du site">
+  <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+  
 </header>
    
 <?php include('../include/nav.inc'); ?>
@@ -47,8 +47,7 @@
 
 	<ul>
         <li><a href="camp-bad-orb.php">Bad Orb</a></li>
-        <li><a href="camp-bochum.php">Bochum</a></li>
-        <li><a href="camp-bochum.php">Bochum</a></li>
+        <li><a href="camp-bochum.php" class="AsideSelected">Bochum</a></li>
         <li><a href="camp-chemnitz.php">Chemnitz</a></li>
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
@@ -81,16 +80,15 @@
         <li><a href="camp-munster.php">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
 
-        <li><a href="camp-regensburg.php" class="AsideSelected">Rastisbonne</a></li> 
+        <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
-        <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>  
-        <li><a href="camp-westhofen.php">Westhofen</a></li> 
+        <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>
+        <li><a href="camp-westhofen.php">Westhofen</a></li>   
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
         
         <li><a href="camp-zerbst.php">Zerbst</a></li>
         <li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li> 
-        
    </ul>
  
     <div id="pubaside">
@@ -109,43 +107,9 @@
 
 <article>
 
-<h1>Le camp de prisonniers de Ratisbonne</h1>
+<h1>Le camp de prisonniers de Bochum</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
-
-<p>Ce camp était situé à Ratisbonne (Regensburg) dans le Haut-Palatinat, en Bavière.</p>
-
-<figure>    
-    <a href="images/Regensburg/camp-regensburg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Regensburg">
-    <img src="miniatures/Regensburg/camp-regensburg.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Regensburg"></a>
-    <figcaption>Localisation du camp de Regensburg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
-</figure>    
-
-<figure>
-    <a href="images/Regensburg/regensburg-01.jpg" data-fancybox="gallery" data-caption="Dans la cours du camp à Ratisbonne">
-    <img src="miniatures/Regensburg/regensburg-01.jpg" alt="des prisonniers dans la cours du camp de Ratisbonne pendant la Première Guerre Mondiale"></a>
-    <figcaption>Dans la cours du camp<br/>(Source allemande)</figcaption>
-</figure>
-
-<figure>
-    <a href="images/Regensburg/regensburg-02.jpg" data-fancybox="gallery" data-caption="Vue du camp de Ratisbonne">    
-    <img src="miniatures/Regensburg/regensburg-02.jpg" alt="une vue du camp de prisonniers de Regensburg pendant la Grande Guerre"></a>
-    <figcaption>Vue du camp de Ratisbonne<br/>(Source allemande)</figcaption>
-</figure>
-
-<figure>
-    <a href="images/Regensburg/regensburg-03.jpg" data-fancybox="gallery" data-caption="Exercice des pompiers à Ratisbonne"> 
-    <img src="miniatures/Regensburg/regensburg-03.jpg" alt="Exercice des pompiers dans le camp de prisonniers de Ratisbonne pendant la Première Guerre Mondiale"></a>
-    <figcaption>Exercice des pompiers<br/>(Source allemande)</figcaption>
-</figure>
-
-<h2>Sources et bibliographie</h2>
-
-<ul>
-    <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
-    <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
-    <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre, 1924)</li>
-</ul>    
+<p>Fuerit toto in consulatu sine provincia, cui fuerit, antequam designatus est, decreta provincia. Sortietur an non? Nam et non sortiri absurdum est, et, quod sortitus sis, non habere. Proficiscetur paludatus? Quo? Quo pervenire ante certam diem non licebit. ianuario, Februario, provinciam non habebit; Kalendis ei denique Martiis nascetur repente provincia.</p>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
@@ -157,7 +121,7 @@
 
 <footer><?php include('../include/footer.inc'); ?></footer>
 
-<?php include('../include/stats.inc'); ?> 
+<?php include('../include/stats.inc'); ?>
 
 <!-- javascript -->
 

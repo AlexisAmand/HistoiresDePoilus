@@ -47,9 +47,12 @@
 
 	<ul>
         <li><a href="camp-bad-orb.php">Bad Orb</a></li>
+        <li><a href="camp-bochum.php">Bochum</a></li>
         <li><a href="camp-chemnitz.php">Chemnitz</a></li>
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
+        <li><a href="camp-dortmund.php">Dortmund</a></li>
+        <li><a href="camp-forstort.php">Förstört</a></li>
         <li><a href="camp-frankfurt.php" class="AsideSelected">Francfort-sur-le-Main</a></li>
 
         <li><a href="camp-friedberg.php">Friedberg</a></li>
