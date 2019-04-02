@@ -138,9 +138,12 @@
 		<li>Les camps allemands
 			<ul>
 		        <li><a href="/camps/camp-bad-orb.php">Bad Orb</a></li>
+		        <li><a href="camp-bochum.php">Bochum</a></li>
 		        <li><a href="/camps/camp-chemnitz.php">Chemnitz</a></li>
 		        <li><a href="/camps/camp-czersk.php">Czersk</a></li>
 		        <li><a href="/camps/camp-darmstadt.php">Darmstadt</a></li>
+		        <li><a href="camp-dortmund.php">Dortmund</a></li>
+       			<li><a href="camp-forstort.php">Förstört</a></li>
 		        <li><a href="/camps/camp-frankfurt.php">Francfort-sur-le-Main</a></li>
 
 		        <li><a href="/camps/camp-friedberg.php">Friedberg</a></li>
@@ -171,6 +174,7 @@
 		        <li><a href="/camps/camp-regensburg.php">Rastisbonne</a></li> 
 		        <li><a href="/camps/camp-ruhleben.php">Ruhleben</a></li> 
 		        <li><a href="/camps/camp-schneidemuhl.php">Schneidemühl</a></li>   
+		        <li><a href="camp-westhofen.php">Westhofen</a></li> 
 		        <li><a href="/camps/camp-wetzlar.php">Wetzlar</a></li>  
 		        <li><a href="/camps/camp-wurzburg.php">Würzburg</a></li>
 		        
@@ -271,6 +275,8 @@
 		</ul>
 		</li>
 		<li><a href="/poilus/mobilisation-1914.php">Décret de mobilisation générale (1914)</a></li>
+		<li><a href="/poilus/jorf-3-juillet-1930.php">Attribution des cartes d'ancien combattant (1930)</a></li>
+		<li><a href="/poilus/dossier-ancien-combattant-01.php">Dossier d'ancien combattant de FIEVET Auguste Victor</a></li>
 		<li><a href="/webographie.php">Webographie</a></li>
 		<li><a href="/contact.php">Contact</a></li>
 		<li><a href="/mentions.php">Mentions Légales</a></li>

@@ -50,10 +50,10 @@
 </nav>
 
 <div id="navbis">
-<a href="poilus/BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="poilus/BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="poilus/FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="poilus/amand-jules.php">Les jasses de Belgique</a>
+	<a href="poilus/BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="poilus/BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="poilus/FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="poilus/amand-jules.php">Les jasses de Belgique</a>
 </div>
 
 <section>
@@ -62,12 +62,16 @@
  
 <h1>Les poilus</h1>
 
+<h2>Qu'est ce que c'est un poilu ?</h2>
+
 <p>Avant de vous donner quelques chiffres, je vous propose de revenir avec vous sur le sens du mot « poilu », utilisé pour désigner les combattants français de la Grande Guerre. Contrairement aux idées reçues, le « poilu » ne doit pas son nom aux  mauvaises conditions d’hygiènes qui régnaient sur le front et qui auraient poussé les hommes à se laisser pousser la barbe et la moustache. Le terme « poilu » est en réalité apparu un siècle avant la Première Guerre Mondiale, sous le Premier Empire. Le linguiste français Albert DAUZAT indique qu’« <em>Avant d’être le soldat de la Marne, le « poilu » est le grognard d’Austerlitz, ce n’est pas l’homme à la barbe inculte, qui n’a pas le temps de se raser, ce serait trop pittoresque, c’est beaucoup mieux : c’est l’homme qui a du poil au bon endroit, pas dans la main !</em>». Il précise également que c’est les civils de 1914 qui ont fait du poilu le soldat combattant.</p>
 
 <figure>
     <img src="poilus/miniatures/depart-des-poilus-Albert-Herter.jpg" alt="Le départ des poilus par Albert Herbert">
     <figcaption>Le Départ des Poilus<br/>(par Albert Herbert)</figcaption>
 </figure>
+
+<h2>Quelles étaient les forces en présence ?</h2>
 
 <p>Dès l’été 1914, la France et l’Allemagne étaient en position de force. En effet, le service militaire obligatoire leurs permettait de mobiliser un nombre très important d’hommes : 3,6 millions pour la France et 4 millions pour l’Allemagne.  Ces chiffres sont toutefois à relativiser car ils prennent en compte les territoriaux qui sont chargés de faire fonctionner l’administration de guerre et de garder les voies de communication (c’est par exemple le cas de <a href="poilus/JOLY-Noel-Jules.php" title="Biographie du poilus Noël JOLY">Noël JOLY</a> ou d'<a href="poilus/MAILLART-Alexandre.php" title="Biographie du poilus Alexandre MAILLART">Alexandre MAILLART</a>). Il faut donc ramener le nombre de combattants à 1,3 millions pour la France et 1,5 millions pour l’Allemagne. De plus, en cas de guerre, la classe première à marcher pouvait être appelée par anticipation. C'est pourquoi l'armée active comprenait également en août la classe 1913 (hommes nés en 1893) qui n'aurait dû être appelée qu'à l'automne.</p>
 
@@ -101,137 +105,137 @@
     <figcaption>Volontaires britanniques en août 1914<br/>(source : <a href="https://www.iwm.org.uk/">Imperial War Museums</a>)</figcaption>
 </figure>
   
-<h2>Le bilan de la Grande Guerre</h2>
+<h2>Quel est le bilan de la Grande Guerre ?</h2>
 
     <table class="tab_camp">
         <caption>Le bilan humain de la Grande Guerre<br/>(Source : The Great War and the British People par J. Winter)</caption>
         <thead>
         <tr>
-            <td>&nbsp;</td>
-            <td>Mobilisés</td>
-            <td>Tués et disparus</td>
-            <td>Blessés</td>
-            <td>Prisonniers</td>
+            <th id="noname">&nbsp;</th>
+            <th id="mobilises">Mobilisés</th>
+            <th id="tues">Tués et disparus</th>
+            <th id="blesses">Blessés</th>
+            <th id="prisonniers">Prisonniers</th>
         </tr>
         </thead>
         <tr>
-            <td>Autriche-Hongrie</td>
-            <td> 9 000 000</td>
-            <td> 1 100 000</td>
-            <td> 3 620 000</td>
-            <td> 2 200 000</td>
+            <td headers="noname">Autriche-Hongrie</td>
+            <td headers="mobilises"> 9 000 000</td>
+            <td headers="tues"> 1 100 000</td>
+            <td headers="blesses"> 3 620 000</td>
+            <td headers="prisonniers"> 2 200 000</td>
         </tr>
         <tr>
-            <td>Belgique</td>
-            <td>  365 000</td>
-            <td>   38 716</td>
-            <td>   44 686</td>
-            <td>   34 659</td>
+            <td headers="noname">Belgique</td>
+            <td headers="mobilises">  365 000</td>
+            <td headers="tues">   38 716</td>
+            <td headers="blesses">   44 686</td>
+            <td headers="prisonniers">   34 659</td>
         </tr>
         <tr>
-            <td>Bulgarie</td>
-            <td>  400 000</td>
-            <td>   87 500</td>
-            <td>  152 390</td>
-            <td>   27 029</td> 
+            <td headers="noname">Bulgarie</td>
+            <td headers="mobilises">  400 000</td>
+            <td headers="tues">   87 500</td>
+            <td headers="prisonniers">  152 390</td>
+            <td headers="prisonniers">   27 029</td> 
         </tr>
         <tr>
-            <td>Empire Allemand</td>
-            <td>13 200 000</td>
-            <td> 2 033 700</td>
-            <td> 4 216 058</td>
-            <td> 1 152 000</td>
+            <td headers="noname">Empire Allemand</td>
+            <td headers="mobilises">13 200 000</td>
+            <td headers="tues"> 2 033 700</td>
+            <td headers="blesses"> 4 216 058</td>
+            <td headers="prisonniers"> 1 152 000</td>
         </tr>
         <tr>
-            <td>Empire Russe</td>
-            <td>18 100 000</td>
-            <td> 1 800 000</td>
-            <td> 4 950 000</td>
-            <td> 2 500 000</td>
+            <td headers="noname">Empire Russe</td>
+            <td headers="mobilises">18 100 000</td>
+            <td headers="tues"> 1 800 000</td>
+            <td headers="blesses"> 4 950 000</td>
+            <td headers="prisonniers"> 2 500 000</td>
         </tr>
         <tr>
-            <td>États-Unis</td>
-            <td>4 273 000</td>
-            <td>  114 000</td>
-            <td>  234 000</td>
-            <td>    4 526</td>
+            <td headers="noname">États-Unis</td>
+            <td headers="mobilises">4 273 000</td>
+            <td headers="tues">  114 000</td>
+            <td headers="blesses">  234 000</td>
+            <td headers="prisonniers">    4 526</td>
         </tr>
         <tr>
-            <td>France (+ Colonies)</td>
-            <td>7 891 000</td>
-            <td>1 375 800</td>
-            <td>4 266 000</td>
-            <td>  537 000</td>
+            <td headers="noname">France (+ Colonies)</td>
+            <td headers="mobilises">7 891 000</td>
+            <td headers="tues">1 375 800</td>
+            <td headers="blesses">4 266 000</td>
+            <td headers="prisonniers">  537 000</td>
         </tr>
         <tr>
-            <td>Grèce</td>
-            <td>  353 000</td>
-            <td>   26 000</td>
-            <td>   21 000</td>
-            <td>    1 000</td>
+            <td headers="noname">Grèce</td>
+            <td headers="mobilises">  353 000</td>
+            <td headers="tues">   26 000</td>
+            <td headers="blesses">   21 000</td>
+            <td headers="prisonniers">    1 000</td>
         </tr>
         <tr>
-            <td>Italie</td>
-            <td>5 615 000</td>
-            <td>  578 000</td>
-            <td>  947 000</td>
-            <td>  600 000</td>
+            <td headers="noname">Italie</td>
+            <td headers="mobilises">5 615 000</td>
+            <td headers="tues">  578 000</td>
+            <td headers="blesses">  947 000</td>
+            <td headers="prisonniers">  600 000</td>
         </tr>
         <tr>
-            <td>Japon</td>
-            <td>  800 000</td>
-            <td>      300</td>
-            <td>      907</td>
-            <td>        3</td>
+            <td headers="noname">Japon</td>
+            <td headers="mobilises">  800 000</td>
+            <td headers="tues">      300</td>
+            <td headers="blesses">      907</td>
+            <td headers="prisonniers">        3</td>
         </tr>
         <tr>
-            <td>Monténégro</td>
-            <td>   50 000</td>
-            <td>    3 000</td>
-            <td>   10 000</td>
-            <td>    7 000</td>
+            <td headers="noname">Monténégro</td>
+            <td headers="mobilises">   50 000</td>
+            <td headers="tues">    3 000</td>
+            <td headers="blesses">   10 000</td>
+            <td headers="prisonniers">    7 000</td>
         </tr>
         <tr>
-            <td>Portugal</td>
-            <td>  100 000</td>
-            <td>    7 222</td>
-            <td>   13 751</td>
-            <td>   12 318</td>
+            <td headers="noname">Portugal</td>
+            <td headers="mobilises">  100 000</td>
+            <td headers="tues">    7 222</td>
+            <td headers="blesses">   13 751</td>
+            <td headers="prisonniers">   12 318</td>
         </tr>
         <tr>
-            <td>Roumanie</td>
-            <td>1 000 000</td>
-            <td>  250 706</td>
-            <td>  120 000</td>
-            <td>   80 000</td>           
+            <td headers="noname">Roumanie</td>
+            <td headers="mobilises">1 000 000</td>
+            <td headers="tues">  250 706</td>
+            <td headers="blesses">  120 000</td>
+            <td headers="prisonniers">   80 000</td>           
         </tr>
         <tr>
-            <td>Royaume-Uni (+ Empire)</td>
-            <td>8 904 000</td>
-            <td>  908 371</td>
-            <td>2 090 212</td>
-            <td>  191 652</td>
+            <td headers="noname">Royaume-Uni (+ Empire)</td>
+            <td headers="mobilises">8 904 000</td>
+            <td headers="tues">  908 371</td>
+            <td headers="blesses">2 090 212</td>
+            <td headers="prisonniers">  191 652</td>
         </tr>
         <tr>
-            <td>Serbie</td>
-            <td>  750 000</td>
-            <td>  278 000</td>
-            <td>  133 148</td>
-            <td>   15 958</td>
+            <td headers="noname">Serbie</td>
+            <td headers="mobilises">  750 000</td>
+            <td headers="tues">  278 000</td>
+            <td headers="blesses">  133 148</td>
+            <td headers="prisonniers">   15 958</td>
         </tr>
         <tr>
-            <td>Turquie</td>
-            <td> 2 998 000</td>
-            <td>   804 000</td>
-            <td>   400 000</td>
-            <td>   250 000</td>
+            <td headers="noname">Turquie</td>
+            <td headers="mobilises"> 2 998 000</td>
+            <td headers="tues">   804 000</td>
+            <td headers="blesses">   400 000</td>
+            <td headers="prisonniers">   250 000</td>
         </tr>
         <tr>
-            <td>Total</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td headers="noname">Total</td>
+            <td headers="mobilises"> </td>
+            <td headers="tues"> </td>
+            <td headers="blesses"> </td>
+            <td headers="prisonniers"> </td>
         </tr>
     </table>
 
