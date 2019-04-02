@@ -164,7 +164,7 @@
 
 <br/><h2>La mobilisation d'août 1914</h2>
 
-<p>Âgé de 34 ans au moment de la mobilisation, il intègre le <strong>94e Régiment d'Infanterie</strong> qui donnera naissance au <strong>294e Régiment d’Infanterie</strong>. En effet, à la mobilisation, chaque régiment d'active crée un régiment de réserve dont le numéro est le sien plus 200.  Je pense que c’est ce qui explique que sa fiche matricule indique qu’il fait parti du 94e alors que sa fiche de mort pour la France indique le 294e.</p>
+<p>Âgé de 34 ans au moment de <a href="mobilisation-1914" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, il intègre le <strong>94e Régiment d'Infanterie</strong> qui donnera naissance au <strong>294e Régiment d’Infanterie</strong>. En effet, à la mobilisation, chaque régiment d'active crée un régiment de réserve dont le numéro est le sien plus 200.  Je pense que c’est ce qui explique que sa fiche matricule indique qu’il fait parti du 94e alors que sa fiche de mort pour la France indique le 294e.</p>
 
 	<figure>
 	    <a href="sources/DUBOIS-Emile-Edmond-matricule.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Émile DUBOIS">

@@ -154,7 +154,7 @@
 
 <br/><h2>La mobilisation d'août 1914</h2>
 
-<p>Lors de la mobilisation, <strong>Louis</strong> est âgé de 38 ans et est le père de 6 enfants: Marguerite, Marthe, Marcel, Maurice, Fortunée et Hélène (mon arrière-grand-mère). Il rejoint le <strong>3e Régiment d'Infanterie Territoriale</strong> qui cantonnait à Hautmont. Au début de la guerre, Les régiments d’infanterie territoriale (R.I.T), sont essentiellement constitués de citoyens anciens nés entre 1875 et 1880. Ils sont surtout assignés à des missions plus statiques, moins exposées: gares, nœuds ferroviaires, ponts, entrepôts, places fortes, etc. </p>
+<p>Lors de <a href="mobilisation-1914" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, <strong>Louis</strong> est âgé de 38 ans et est le père de 6 enfants: Marguerite, Marthe, Marcel, Maurice, Fortunée et Hélène (mon arrière-grand-mère). Il rejoint le <strong>3e Régiment d'Infanterie Territoriale</strong> qui cantonnait à Hautmont. Au début de la guerre, Les régiments d’infanterie territoriale (R.I.T), sont essentiellement constitués de citoyens anciens nés entre 1875 et 1880. Ils sont surtout assignés à des missions plus statiques, moins exposées: gares, nœuds ferroviaires, ponts, entrepôts, places fortes, etc. </p>
 
 <p>Durant le mois d’août, <strong>Louis</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> étaient affectés au 1er secteur qui comprenait le centre de résistance avancé, les centres de résistance du fort Grévaux et du fort d'Hautmont.</p>
 
