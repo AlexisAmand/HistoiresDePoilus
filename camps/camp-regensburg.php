@@ -79,7 +79,8 @@
 
         <li><a href="camp-regensburg.php" class="AsideSelected">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
-        <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
+        <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>  
+        <li><a href="camp-westhofen.php">Westhofen</a></li> 
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
         

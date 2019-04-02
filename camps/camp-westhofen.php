@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Le camp de prisonniers de Czersk pendant la Grande Guerre - Histoires de Poilus</title>
-<meta name="description" content="Présentation du camp de prisonniers de Czersk en Allemagne pendant la Première Guerre mondiale (1914-1918)">
+<title>Le camp de prisonniers de Westhofen pendant la Grande Guerre - Histoires de Poilus</title>
+<meta name="description"  content="Présentation du camp de prisonniers de Westhofen en Allemagne pendant la Première Guerre mondiale (1914-1918)">
     
 <link rel="stylesheet" href="../css/style.css">
 			<link rel="stylesheet" href="../css/resp.css">
@@ -31,8 +31,8 @@
 <?php include('../include/resp.inc'); ?>
 
 <header>
-	
-  <?php include('../include/social.inc'); ?>
+
+<?php include('../include/social.inc'); ?>
     
   <a href="../index.php" title="Retour sur la page d'accueil du site">
   <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
@@ -48,7 +48,7 @@
 	<ul>
         <li><a href="camp-bad-orb.php">Bad Orb</a></li>
         <li><a href="camp-chemnitz.php">Chemnitz</a></li>
-        <li><a href="camp-czersk.php" class="AsideSelected">Czersk</a></li>
+        <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
 
@@ -79,8 +79,8 @@
 
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
-        <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
-        <li><a href="camp-westhofen.php">Westhofen</a></li>
+        <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>
+        <li><a href="camp-westhofen.php" class="AsideSelected">Westhofen</a></li>   
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
         
@@ -104,37 +104,9 @@
 
 <article>
 
-<h1>Le camp de prisonniers de Czersk</h1>
+<h1>Le camp de prisonniers de Westhofen</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br/><p>Le camp de Czersk était situé en Poméranie (Prusse Orientale).</p><p>En 1918, pour les pansements comme pour la nourriture de nombreux erzatz règnent, comme en témoigne une note&nbsp; de service du lazaret du camp de Czersk datée d'août qui recommande <em>"qu'en ce qui concerne le matériel de pansement, l'économie la plus grand doit être pratiquée, comme ont doit aussi tendre à le pratiquer rigoureusement dans les hôpitaux allemands."</em></p><br/>
-
-<figure>
-    <a href="images/Czersk/Czersk-01.jpg" data-fancybox="gallery" data-caption="Le camp de Czersk">
-    <img src="miniatures/Czersk/Czersk-01.jpg" alt="un groupe de prisonniers dans le camp de Czersk"></a>
-    <figcaption>Un groupe de prisonniers<br/>(source allemande)</figcaption>
-</figure>
-
-<figure>
-    <a href="images/Czersk/Czersk-02.jpg" data-fancybox="gallery"  title="Le camp de Czersk">
-    <img src="miniatures/Czersk/Czersk-02.jpg" alt="Jeux et danse dans le camp de Czersk"></a>
-    <figcaption>Jeux et danse au camp<br/>(source allemande)</figcaption>
-</figure>
-
-<figure>
-    <a href="images/Czersk/Czersk-02.jpg" data-fancybox="gallery"  title="Le camp de Czersk">
-    <img src="miniatures/Czersk/Czersk-03.jpg" alt="Des prisonniers russes fabriquant des chaussures dans le camp de prisonniers de Czersk"></a>
-    <figcaption>Fabrication de chaussures par des prisonniers russes<br/>(Carte postale)</figcaption>
-</figure>
-
-<p>En 1923, la "Gazette de Bayonne, de Biarritz et du Pays Basque" annonce dans un article daté du 12 août que les corps de 49 soldats français morts en captivité au camp de Czersk vont être rapatriés.</p>
-
-<h2>Sources et bibliographie</h2>
-
-<ul>
-    <li>Gazette de Bayonne, de Biarritz et du Pays Basque du 12 août 1923 (disponible sur Gallica)
-    <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
-    <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
-</ul>    
+<p>Fuerit toto in consulatu sine provincia, cui fuerit, antequam designatus est, decreta provincia. Sortietur an non? Nam et non sortiri absurdum est, et, quod sortitus sis, non habere. Proficiscetur paludatus? Quo? Quo pervenire ante certam diem non licebit. ianuario, Februario, provinciam non habebit; Kalendis ei denique Martiis nascetur repente provincia.</p>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

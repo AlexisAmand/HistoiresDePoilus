@@ -79,20 +79,22 @@
         <li><a href="camps/camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camps/camp-herne.php">Herne</a></li>
         
+        <li><a href="camp-heuberg.php">Heuberg</a></li>
         <li><a href="camps/camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camps/camp-limburg.php">Limburg</a></li>
         <li><a href="camps/camp-mannheim.php">Mannheim</a></li>        
         <li><a href="camps/camp-meschede.php">Meschede</a></li>
-        <li><a href="camps/camp-merzdorf.php">Merzdorf</a></li>
         
+        <li><a href="camps/camp-merzdorf.php">Merzdorf</a></li>      
         <li><a href="camps/camp-meyenburg.php">Meyenburg</a></li>
     	<li><a href="camps/camp-minden.php">Minden</a></li>
         <li><a href="camps/camp-munster.php">Munster</a></li> 
         <li><a href="camps/camp-nurnberg.php">Nuremberg</a></li>
-        <li><a href="camps/camp-regensburg.php">Regensburg</a></li> 
         
+        <li><a href="camps/camp-regensburg.php">Rastisbonne</a></li>         
         <li><a href="camps/camp-ruhleben.php">Ruhleben</a></li> 
-        <li><a href="camps/camp-schneidemuhl.php">Schneidemühl</a></li>   
+        <li><a href="camps/camp-schneidemuhl.php">Schneidemühl</a></li> 
+        <li><a href="camp-westhofen.php">Westhofen</a></li>    
         <li><a href="camps/camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camps/camp-wurzburg.php">Würzburg</a></li>
         
