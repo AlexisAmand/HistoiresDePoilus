@@ -78,7 +78,23 @@
 
             <p class="right">Bonne lecture,<br/>Alexis, webmaster.</p>
             
-            </div>  
+            </div> 
+            
+            <div id="news" style="margin-top: 15px;">
+            
+            <h2>Dernières mises à jour</h2>
+            
+            <ul>
+            
+            	<li style="margin-top:5px;"><strong>29 mars 2019</strong><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+            	<li style="margin-top:5px;"><strong>29 mars 2019</strong><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+            	<li style="margin-top:5px;"><strong>29 mars 2019</strong><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+            	<li style="margin-top:5px;"><strong>29 mars 2019</strong><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+            	<li style="margin-top:5px;"><strong>29 mars 2019</strong><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+            	
+            </ul> 
+            
+            </div>
 
             <p class="sources">
             <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

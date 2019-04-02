@@ -4,8 +4,8 @@
 
 <meta charset="utf-8">
           
-<title>Les camps d'internement Suisse pendant la Grande Guerre - Histoires de Poilus</title>
-<meta name="description"  content="Présentation des camps d'internement Suisse pendant la Première Guerre mondiale (1914-1918)">
+<title>Les camps d'internement Suisses pendant la Grande Guerre - Histoires de Poilus</title>
+<meta name="description"  content="Présentation des camps d'internement Suisses pendant la Première Guerre mondiale (1914-1918)">
     
 <link rel="stylesheet" href="../css/style.css">
 			<link rel="stylesheet" href="../css/resp.css">

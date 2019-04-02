@@ -64,6 +64,8 @@ article .right{text-align:right}
 	color:#363535;
 	margin-bottom:35px}
 
+.col3{-moz-column-count:3;-webkit-column-count:3;-o-column-count:3;column-count:3;-moz-column-gap:40px;-webkit-column-gap:40px;-o-column-gap:40px;column-gap:40px;-webkit-column-rule-width:1px;-webkit-column-rule-color:silver;-webkit-column-rule-style:dashed;-moz-column-rule-width:1px;-moz-column-rule-color:silver;-moz-column-rule-style:dashed;-o-column-rule-width:1px;-o-column-rule-color:silver;-o-column-rule-style:dashed;column-rule-width:1px;column-rule-color:silver;column-rule-style:dashed;text-align:justify}
+
 /* ----- */
 /* Notes */
 /* ----- */

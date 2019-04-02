@@ -16,3 +16,12 @@
 - TODO : page erreur.php (pour erreur 404) avec un sommaire qui contient des liens vers les principales rubriques, un truc comme "page que vous cherchez n'existe plus, qu'étiez vous en train de chercher ?"
 - TODO : en bas de la page d'accueil une liste à puces pour indiquer la liste des derniéres mises à jour ?
 - TODO : faire un lien vers la page mobilisation-1914.php à chaque fois qu'une page en parle
+- TODO : faire remplacer le footer par un include -> soucis quand je tourne en localhost car les liens seront des /...
+- TODO : sur l'arbre de Jules AMAND, certaines cases sont bleues alors qu'il s'agit de femmes ^^
+
+
+Aprés la mise en ligne
+----------------------
+
+- Xenu pour liens morts
+- vérification de la page erreur.php
