@@ -18,6 +18,7 @@
 - TODO : faire un lien vers la page mobilisation-1914.php à chaque fois qu'une page en parle
 - TODO : faire remplacer le footer par un include -> soucis quand je tourne en localhost car les liens seront des /...
 - TODO : sur l'arbre de Jules AMAND, certaines cases sont bleues alors qu'il s'agit de femmes ^^
+- TODO : ajouter camps.php sur la page erreur.php
 
 
 Aprés la mise en ligne

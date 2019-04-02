@@ -214,23 +214,7 @@
 
 </section>
 
-<footer>
-	<a href="../mentions.php">Mentions Légales</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="../contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="../cookies.php">Cookies</a>
-    <br/><br/>Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br/>Tous droits réservés
-</footer>
-
-<!-- code js pour l'avertissement sur les cookies -->
-
-<script src="../js/cookiechoices.js"></script>
-<script>
-  document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
-      'Ok', 'En savoir plus', '../cookies.php');
-  });
-</script>
+<footer><?php include('../include/footer.inc'); ?></footer>
 
 <?php include('../include/stats.inc'); ?>
 
