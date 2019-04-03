@@ -191,6 +191,15 @@ tr{height:47px}
 	width: 30%;
 }
 
+.PuissancesCentrales {
+	color:darkred;
+}
+
+.PuissancesAlliees {
+	color:darkgreen;
+	
+}
+
 /* ---------------- */
 /* Videos et images */ 
 /* ---------------- */
