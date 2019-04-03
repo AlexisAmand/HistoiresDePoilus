@@ -66,6 +66,8 @@
 
 <p>Avant de vous donner quelques chiffres, je vous propose de revenir avec vous sur le sens du mot « poilu », utilisé pour désigner les combattants français de la Grande Guerre. Contrairement aux idées reçues, le « poilu » ne doit pas son nom aux  mauvaises conditions d’hygiènes qui régnaient sur le front et qui auraient poussé les hommes à se laisser pousser la barbe et la moustache. Le terme « poilu » est en réalité apparu un siècle avant la Première Guerre Mondiale, sous le Premier Empire. Le linguiste français Albert DAUZAT indique qu’« <em>Avant d’être le soldat de la Marne, le « poilu » est le grognard d’Austerlitz, ce n’est pas l’homme à la barbe inculte, qui n’a pas le temps de se raser, ce serait trop pittoresque, c’est beaucoup mieux : c’est l’homme qui a du poil au bon endroit, pas dans la main !</em>». Il précise également que c’est les civils de 1914 qui ont fait du poilu le soldat combattant.</p>
 
+<p>Pour faire simple, et surtout pour faciliter la lecture, j'ai regroupé tous les combattants sous le terme de poilu, mais je dois avouer qu'il s'agit là d'un abus de langage, car dans l'état actuel de mes recherches, j'ai pu constater que seuls les français et parfois les belges étaient qualifiés de cette façon. En réalité, les autres belligérants de la Grande Guerre avaient eux aussi leurs petits noms en fonction de leur origine ou de leur corps d'engagement. Ainsi, on peut entendre parler dans les documents d'époque de diggers pour l'Australie, de Mehmetçik pour l'Empire Ottoman, de Kiwis pour la Nouvelle-Zélande ou encore de Serranos pour le Portugal.</p>
+
 <figure>
     <img src="poilus/miniatures/depart-des-poilus-Albert-Herter.jpg" alt="Le départ des poilus par Albert Herbert">
     <figcaption>Le Départ des Poilus<br/>(par Albert Herbert)</figcaption>
@@ -240,8 +242,8 @@
     </table>
 
     <p class="sources">
-    Dernière modification effectuée le 25/09/2018 
-    </p>
+	<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
+	</p>
 
 </article>
 
