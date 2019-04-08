@@ -23,7 +23,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -48,7 +48,7 @@
 	<ul>
         <li><a href="camp-bad-orb.php">Bad Orb</a></li>
         <li><a href="camp-bochum.php">Bochum</a></li>
-        <li><a href="camp-chemnitz.php" class="AsideSelected">Chemnitz</a></li>       
+        <li><a href="camp-chemnitz.php">Chemnitz</a></li>       
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
         <li><a href="camp-dortmund.php">Dortmund</a></li>
@@ -63,7 +63,7 @@
 
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
         <li><a href="camp-guben.php">Guben</a></li>
-        <li><a href="camp-hagen.php">Hagen</a></li>
+        <li><a href="camp-hagen.php" class="AsideSelected">Hagen</a></li>
         <li><a href="camp-hammelburg.php">Hammelburg</a></li>
         <li><a href="camp-hammerstein.php">Hammerstein</a></li>
         <li><a href="camp-herne.php">Herne</a></li>

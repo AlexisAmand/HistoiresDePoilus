@@ -23,7 +23,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -109,7 +109,7 @@
 
 <h1>Le camp de prisonniers de Friedberg</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br/><p>Le « Rapports des Délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne » indique que vers la fin de l’année 1917, tous les prisonniers ont été transférés au camp d'Eutin.</p>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br/><p>Le « Rapports des Délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne » indique que vers la fin de l'année 1917, tous les prisonniers ont été transférés au camp d'Eutin.</p>
 
 <figure>
     <a href="images/Friedberg/friedberg-01.jpg" data-fancybox="gallery" data-caption="Le camp de Friedberg">

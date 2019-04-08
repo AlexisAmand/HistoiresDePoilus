@@ -23,7 +23,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -75,7 +75,7 @@
 
 <h1>Les camps d'internement aux Pays-Bas</h1>
 
-<p>En application des conventions internationales, tout belligérant qui traverse la frontière d’un pays neutre doit être interné par les autorités du pays. <strong>40000 soldats échappés du Siège d’Anvers</strong>, parmi lesquels un grand nombre de jeunes conscrits qui n’avaient pas eu le temps d’être formés, furent ainsi internés dans des <strong>camps au sein des Pays-Bas</strong>. De la même façon, des camps d'internement furent mis en place sur le territoire Suisse.</p>
+<p>En application des conventions internationales, tout belligérant qui traverse la frontière d'un pays neutre doit être interné par les autorités du pays. <strong>40000 soldats échappés du Siège d'Anvers</strong>, parmi lesquels un grand nombre de jeunes conscrits qui n'avaient pas eu le temps d'être formés, furent ainsi internés dans des <strong>camps au sein des Pays-Bas</strong>. De la même façon, des camps d'internement furent mis en place sur le territoire Suisse.</p>
 
 <p>Les camps situés par exemple à <a href="camp-harderwijk.php">Harderwijk</a>, <a href="camp-amersfoort.php">Amersfoort</a>, <a href="camp-loosduinen.php">Loosduinen</a>, <a href="camp-kampen.php">Assen</a>, <a href="camp-leeuwarden.php">Leeuwarden</a>, <a href="camp-kampen.php">Kampen</a>, <a href="camp-zwolle.php">Zwolle</a> ou <a href="camp-zeist.php">Zeist</a> comptent parmi les plus importants. Il y avait aussi un camp reversé aux officiers alliés à <a href="camp-bodegraven.php">Dodegraven</a>, dans un fort sur la rive du vieux Rhin.</p>
 

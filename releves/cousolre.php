@@ -22,7 +22,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -164,7 +164,7 @@
     <td headers="naissance">7 janvier 1877<br/>à Wavrechain-Sous-Faulx (Nord)</td>
     <td headers="mort">2 novembre 1916<br/>à Salonique (Grece)</td>
     <td headers="classe">soldat</td>
-    <td headers="corps">>18e E.T.E</td>
+    <td headers="corps">18e E.T.E</td>
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
@@ -425,8 +425,8 @@
   </tr>
   <tr>
     <td headers="nom">HAZARD<br/>Arthur Ariste</td>
-    <td headers="naissance">4 aout 1884<br/>à Cousolre</td>
-    <td headers="mort">3 aout 1916<br/>à Zutenlick (Grèce)</td>
+    <td headers="naissance">4 août 1884<br/>à Cousolre</td>
+    <td headers="mort">3 août 1916<br/>à Zutenlick (Grèce)</td>
     <td headers="classe">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
     <td headers="genre">&nbsp;</td>

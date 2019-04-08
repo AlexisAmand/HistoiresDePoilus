@@ -5,7 +5,7 @@
 <meta charset="utf-8">
           
 <title>Biographie et parcours du soldat CARLIER Louis Abraham - Histoires de Poilus</title>
-<meta content="Parcours de Louis Abraham CARLIER, soldat sebourgeois pendant la Première Guerre Mondiale. Il était membre du 1er Régiment d’Artillerie à Pied puis prisonnier de guerre à Münster" name="description">    
+<meta content="Parcours de Louis Abraham CARLIER, soldat sebourgeois pendant la Première Guerre Mondiale. Il était membre du 1er Régiment d'Artillerie à Pied puis prisonnier de guerre à Münster" name="description">    
     
 <link rel="stylesheet" href="../css/style.css">
 			<link rel="stylesheet" href="../css/resp.css">
@@ -22,7 +22,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -158,7 +158,7 @@
 
 <br/><h2>La mobilisation d'août 1914</h2>
 
-<p>Âgé de 43 ans en 1914, <strong>Louis Abraham</strong> est mobilisé comme la plupart des hommes de sa génération et devient auxiliaire de place forte au sein de la 1ere batterie (3e selon certaines sources) du <strong>1er Régiment d’Artillerie à Pied</strong>. En 1914, l’artillerie à pied est réservée à la défense d'une zone que l’on appelle groupe  et a en charge outre la défense de ce groupe, celle des forts et ouvrages. Il est cantonné au groupe de Grévaux, sous les ordres  Capitaine BOCQUET.</p>
+<p>Âgé de 43 ans en 1914, <strong>Louis Abraham</strong> est mobilisé comme la plupart des hommes de sa génération et devient auxiliaire de place forte au sein de la 1ere batterie (3e selon certaines sources) du <strong>1er Régiment d'Artillerie à Pied</strong>. En 1914, l'artillerie à pied est réservée à la défense d'une zone que l'on appelle groupe  et a en charge outre la défense de ce groupe, celle des forts et ouvrages. Il est cantonné au groupe de Grévaux, sous les ordres  Capitaine BOCQUET.</p>
 
 	<figure>
 	    <a href="portraits/Louis Abraham CARLIER (frère de sosa 22).jpg" data-fancybox="gallery" data-caption="Portrait de Louis Abraham CARLIER">
@@ -188,7 +188,7 @@
 
 <br/><h2>La capture des soldats à Ferrière-la-Grande</h2>
 
-<p><strong>Louis Abraham</strong> est fait prisonnier le 7 septembre 1914 à Ferrière-la-Grande (à côté de Maubeuge) et  envoyé à Munster  (Munster III selon sa fiche matricule, Munster II selon sa carte d’ancien combattant).</p>
+<p><strong>Louis Abraham</strong> est fait prisonnier le 7 septembre 1914 à Ferrière-la-Grande (à côté de Maubeuge) et  envoyé à Munster  (Munster III selon sa fiche matricule, Munster II selon sa carte d'ancien combattant).</p>
 
 	<figure>
 	    <a href="sources/Louis-Carlier-dossier-01.jpg" data-fancybox="gallery" data-caption="Carte d'ancien de Louis Abraham CARLIER">
@@ -224,7 +224,7 @@
 	    <figcaption>La vie au camp de Münster<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
-<p>Selon le CICR, Louis est dans le convoi de l’internement du 8 novembre 1918, en provenance de Münster III et à destination de Leysin (Suisse). Il y est mentionné en tant que soldat du 1er Régiment d’Artillerie.</p>
+<p>Selon le CICR, Louis est dans le convoi de l'internement du 8 novembre 1918, en provenance de Münster III et à destination de Leysin (Suisse). Il y est mentionné en tant que soldat du 1er Régiment d'Artillerie.</p>
 
 	<figure>
 	    <a href="images/convoi-08111918.jpg" data-fancybox="gallery" data-caption="Convoi de l'internement du 8 novembre 1918">
@@ -234,7 +234,7 @@
 
 <h2>La vie de Louis après la guerre</h2>
 
-<p>Au début des années 30, <strong>Louis Abraham</strong> habite rue du Cordeau à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a>. Il reçoit une carte d’ancien combattant délivrée par le Comité Départemental du Nord.</p>
+<p>Au début des années 30, <strong>Louis Abraham</strong> habite rue du Cordeau à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a>. Il reçoit une carte d'ancien combattant délivrée par le Comité Départemental du Nord.</p>
 
 	<figure>
 	    <a href="sources/louis-carlier-ancien-combattant.jpg" data-fancybox="gallery">

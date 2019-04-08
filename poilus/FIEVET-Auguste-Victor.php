@@ -23,7 +23,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -174,7 +174,7 @@
 	<figure>
 	    <a href="" data-fancybox="gallery" data-caption="La gare d'Arras vers 1907">
 	    <img src="miniatures/gare-arras-1907.jpg" alt="La gare d'Arras en 1907 sur une carte postale ancienne"/></a>
-	    <figcaption>La gare d’Arras en 1907</figcaption>
+	    <figcaption>La gare d'Arras en 1907</figcaption>
 	</figure>
 
 <p><br/> Le 7 août, le régiment cantonne à Saint-Michel, et le 8, il se dirige vers Maubert-Fontaine (Ardennes), puis à Bourg-Fidèle (Ardennes) à 2 kilomètres de Rocroi. Pendant les journées des 6 et 7 août, le<strong> 33e Régiment d'Infanterie </strong>avait accompli, avec des réservistes non entraînés, de 60 à 70 kilomètres en vingt-six heures, sans laisser un seul traînard.</p>
@@ -209,7 +209,7 @@
 	    <figcaption>Dinant détruite en 1914</figcaption>
 	</figure>
 
-<p>Le commandant du détachement prit alors le parti de rejoindre le régiment. La 12e commença le mouvement. Accueillie, dès son départ, par une grêle de balles provenant des mitrailleuses allemandes installées dans la tour de Montfort, elle rebroussa chemin après avoir subi de très lourdes pertes. La <strong>4e compagnie</strong>, dont faisait partie <strong>Auguste</strong>,  en arrivant sur le plateau au nord de la ferme du Rond Chêne, est prise subitement sous le feu de l’artillerie et de nombreuses mitrailleuses invisibles en position à petite portée sur la rive droite de la Meuse. </p>
+<p>Le commandant du détachement prit alors le parti de rejoindre le régiment. La 12e commença le mouvement. Accueillie, dès son départ, par une grêle de balles provenant des mitrailleuses allemandes installées dans la tour de Montfort, elle rebroussa chemin après avoir subi de très lourdes pertes. La <strong>4e compagnie</strong>, dont faisait partie <strong>Auguste</strong>,  en arrivant sur le plateau au nord de la ferme du Rond Chêne, est prise subitement sous le feu de l'artillerie et de nombreuses mitrailleuses invisibles en position à petite portée sur la rive droite de la Meuse. </p>
 
 	<figure>
 	    <a href="images/carte-dinant.jpg" data-fancybox="gallery" data-caption="Emplacement de la ferme du Rond-chêne">
@@ -217,7 +217,7 @@
 	    <figcaption>La ferme du Rond Chêne sur une carte de Dinant<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
-<p>En quelques minutes, 90 hommes sont mis hors de combat dont <strong>Auguste</strong> qui est blessé par balle au pied droit, à la cheville et à la main. Il est évacué à <a href="../hopitaux/hopitaux-pdl.php" title="Les hôpitaux pendant la Grande Guerre">l’hôpital 31 de Nantes</a> et devient invalide à 40%. Selon les Archives Municipales de Nantes, l'hôpital 31 était situé dans l'ancien séminaire de philosophie, rue Saint-Clément  et avait une capacité de 300 lits. Il fonctionne du 25 août 1914 au 24 septembre 1916.</p>
+<p>En quelques minutes, 90 hommes sont mis hors de combat dont <strong>Auguste</strong> qui est blessé par balle au pied droit, à la cheville et à la main. Il est évacué à <a href="../hopitaux/hopitaux-pdl.php" title="Les hôpitaux pendant la Grande Guerre">l'hôpital 31 de Nantes</a> et devient invalide à 40%. Selon les Archives Municipales de Nantes, l'hôpital 31 était situé dans l'ancien séminaire de philosophie, rue Saint-Clément  et avait une capacité de 300 lits. Il fonctionne du 25 août 1914 au 24 septembre 1916.</p>
 
 	<figure>
 	    <a href="" data-fancybox="gallery"  data-fancybox="gallery" data-caption="Les hôpitaux de Nantes">

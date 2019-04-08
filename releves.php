@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="css/fontawesome/css/all.css">  
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="images/favicon.png" />
                    
 </head>
 
@@ -23,7 +23,7 @@
 <script src="js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>

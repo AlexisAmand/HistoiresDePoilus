@@ -22,7 +22,7 @@
 
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -93,7 +93,7 @@
 
 <h2>Paris</h2>
 
-<p>L'Hôpital du gouvernement italien pour les blessés de Guerre Français (également appelé Hôpital de L'ambassade d’Italie) était situé au 41 quai d'Orsay à Paris. C'était un des hôpitaux complémentaires de l’hôpital militaire du Val-de-Grâce et également un des rares hôpitaux complémentaires à disposer de la radiologie.</p>
+<p>L'Hôpital du gouvernement italien pour les blessés de Guerre Français (également appelé Hôpital de L'ambassade d'Italie) était situé au 41 quai d'Orsay à Paris. C'était un des hôpitaux complémentaires de l'hôpital militaire du Val-de-Grâce et également un des rares hôpitaux complémentaires à disposer de la radiologie.</p>
 
     <figure>
     <a href="images/hopital-begin.jpg" data-fancybox="gallery" data-caption="l'hôpital militaire Bégin">

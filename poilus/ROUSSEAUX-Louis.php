@@ -5,7 +5,7 @@
 <meta charset="utf-8">
           
 <title>Biographie et parcours du soldat ROUSSEAUX Louis - Histoires de Poilus</title>
-<meta content="Parcours de Louis Rousseaux, soldat pendant la Première Guerre Mondiale et membre du 4e Bataillon d’Infanterie Légère d’Afrique" name="description">
+<meta content="Parcours de Louis Rousseaux, soldat pendant la Première Guerre Mondiale et membre du 4e Bataillon d'Infanterie Légère d'Afrique" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 <link rel="stylesheet" href="../css/resp.css">
@@ -23,7 +23,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -119,7 +119,7 @@
 
 <h1>Louis Henri ROUSSEAUX</h1>
 
-<p><strong>Louis Henri ROUSSEAUX</strong> est né le 8 août 1883 à Lille (Nord), rue du marché. Il est le fils légitime d’Achille Léopold ROUSSEAUX, plafonneur, âgé de 20 ans et de Clara Elisa AUGEZ, âgée de 17 ans. Il est né AUGEZ et est reconnu et légitimé par le mariage de ses parents célébré à Lille le 27 décembre 1884. Louis Henri ROUSSEAUX épouse Hélène Adeline CANONNE à Lille le 30 juillet 1907.</p>
+<p><strong>Louis Henri ROUSSEAUX</strong> est né le 8 août 1883 à Lille (Nord), rue du marché. Il est le fils légitime d'Achille Léopold ROUSSEAUX, plafonneur, âgé de 20 ans et de Clara Elisa AUGEZ, âgée de 17 ans. Il est né AUGEZ et est reconnu et légitimé par le mariage de ses parents célébré à Lille le 27 décembre 1884. Louis Henri ROUSSEAUX épouse Hélène Adeline CANONNE à Lille le 30 juillet 1907.</p>
 
 	<figure>
 	    <a href="images/rousseau-louis-henri-matricule.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Louis Henri ROUSSEAUX">    
@@ -127,7 +127,7 @@
 	    <figcaption>Extrait de sa fiche matricule</figcaption>
 	</figure>
 
-<p>La parenté qui me lie à Louis est un peu compliquée, je vais essayer d’être le plus clair possible. Comme <a href="FIEVET-Charles-Augustin.php">Charles Augustin</a> et <a href="FIEVET-Auguste-Victor.php">Auguste Victor</a>, <strong>Louis Henri</strong> est le petit-fils de Léonie FIEVEZ, mon aïeule. <a href="FIEVET-Charles-Augustin.php">Charles</a> et <a href="FIEVET-Charles-Augustin.php">Auguste</a> sont issus de Charles Jules, que Léonie a eu d’un père inconnu alors qu’Achille est issu d’Achille Léopold, que Léonie a eu de son mariage avec Augustin ROUSSEAUX. Pour faire bref, Le père de Louis Henri ROUSSEAUX et le père de <a href="FIEVET-Charles-Augustin.php">Charles Augustin</a> sont des demi-frères.</p>
+<p>La parenté qui me lie à Louis est un peu compliquée, je vais essayer d'être le plus clair possible. Comme <a href="FIEVET-Charles-Augustin.php">Charles Augustin</a> et <a href="FIEVET-Auguste-Victor.php">Auguste Victor</a>, <strong>Louis Henri</strong> est le petit-fils de Léonie FIEVEZ, mon aïeule. <a href="FIEVET-Charles-Augustin.php">Charles</a> et <a href="FIEVET-Charles-Augustin.php">Auguste</a> sont issus de Charles Jules, que Léonie a eu d'un père inconnu alors qu'Achille est issu d'Achille Léopold, que Léonie a eu de son mariage avec Augustin ROUSSEAUX. Pour faire bref, Le père de Louis Henri ROUSSEAUX et le père de <a href="FIEVET-Charles-Augustin.php">Charles Augustin</a> sont des demi-frères.</p>
 
 	<figure>
 	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
@@ -147,7 +147,7 @@
     
 <p>Le 21 août 1915, <strong>Louis Henri ROUSSEAUX</strong> passe au <strong>12e Bataillon de Chasseurs</strong>, en application du décret ministériel du 14 août 1915. De juillet à octobre 1915, Louis Henri participe, avec son bataillon, aux violents combats du Barrenkopf et Linge dans le Haut-Rhin. Le bataillon y subit tellement de pertes que certaines compagnies sont déclarées anéanties sur le JMO du bataillon. La journée du 1er août voit successivement, trois chef de corps tomber avec leurs hommes. En décembre 1915, il participe aux combats de l'Hartmannswillerkopf, un éperon rocheux dans les Vosges.</p>
 
-<p>Porté disparu à Curlu (Somme) le 20 juillet 1916, son décès est constaté à Hem Monacu, une commune située à quelques kilomètres au nord-ouest de Péronne, le 3 septembre 1916. <strong>Louis Henri ROUSSEAUX</strong> est inhumé au Bois de la Pépinière sous le n°11. Il reçoit la croix de guerre avec étoile d’argent à titre posthume le 15 novembre 1920 pour être « tombé glorieusement » le 20 juillet 1916 lors de l’assaut des lignes de Maurepas (Somme). La Croix de Guerre est une médaille qui a été instituée par la loi du 8 avril 1915. Elle est en bronze florentin, a quatre branches et deux épées croisées.</p>
+<p>Porté disparu à Curlu (Somme) le 20 juillet 1916, son décès est constaté à Hem Monacu, une commune située à quelques kilomètres au nord-ouest de Péronne, le 3 septembre 1916. <strong>Louis Henri ROUSSEAUX</strong> est inhumé au Bois de la Pépinière sous le n°11. Il reçoit la croix de guerre avec étoile d'argent à titre posthume le 15 novembre 1920 pour être « tombé glorieusement » le 20 juillet 1916 lors de l'assaut des lignes de Maurepas (Somme). La Croix de Guerre est une médaille qui a été instituée par la loi du 8 avril 1915. Elle est en bronze florentin, a quatre branches et deux épées croisées.</p>
         
     <figure>
 	    <a href="images/rousseau-louis-mpf.jpg" data-fancybox="gallery" data-caption="Louis ROUSSEAUX, mort pour la France">

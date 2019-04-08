@@ -23,7 +23,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -131,7 +131,7 @@
 	</figure>
 
 <ul>
-    <li>Il est ajourné pour faiblesse par le conseil de révision de Guéret (Creuse) en date du 18 novembre 1914. Décision annulée par celle du Conseil de révision de Saint-Omer (Pas-de-Calais) en date du 28 octobre 1914 qui le déclare bon au service. (Les dates sont celles de la fiche matricule… il semble y avoir un problème d’ordre chronologique)</li>
+    <li>Il est ajourné pour faiblesse par le conseil de révision de Guéret (Creuse) en date du 18 novembre 1914. Décision annulée par celle du Conseil de révision de Saint-Omer (Pas-de-Calais) en date du 28 octobre 1914 qui le déclare bon au service. (Les dates sont celles de la fiche matricule… il semble y avoir un problème d'ordre chronologique)</li>
     <li>Il rejoint le 94e RI en décembre 1914, soldat de 2e classe</li>
     <li>Disparu le 30 juin 1915 en Argonne</li>
     <li>Prisonnier interné à Rastadt</li>

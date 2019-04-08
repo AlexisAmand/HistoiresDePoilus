@@ -22,7 +22,7 @@
 
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -91,13 +91,13 @@
 
 <h1>Les hôpitaux</h1>
 
-<p>Regroupés dans des hôpitaux d’évacuation puis transportés par train sanitaire, les blessés pouvaient être répartis dans différentes structures après, parfois, un bref séjour dans un hôpital dit <em>"de passage"</em>:</p>
+<p>Regroupés dans des hôpitaux d'évacuation puis transportés par train sanitaire, les blessés pouvaient être répartis dans différentes structures après, parfois, un bref séjour dans un hôpital dit <em>"de passage"</em>:</p>
 
 <h2>Les hôpitaux militaires classiques</h2>
 
 <h2>Les hôpitaux auxiliaires (HA)</h2>
 
-<p>contrôlé par la Croix-Rouge et géré par l’une de ses trois composantes</p>
+<p>contrôlé par la Croix-Rouge et géré par l'une de ses trois composantes</p>
 
 <h2>Les hôpitaux complémentaires (HC)</h2>
 
@@ -105,7 +105,7 @@
 
 <h2>Les hôpitaux bénévoles (HB)</h2>
 
-<p>souvent appelé « ambulance », d’initiative privée (HB). Les hôpitaux bénévoles étaient souvent installés dans des locaux réquisitionnés (écoles, casino, bateaux,…) et ils pouvaient être d’importance variable et parfois éphémères.</p>
+<p>souvent appelé « ambulance », d'initiative privée (HB). Les hôpitaux bénévoles étaient souvent installés dans des locaux réquisitionnés (écoles, casino, bateaux,…) et ils pouvaient être d'importance variable et parfois éphémères.</p>
 
 <h2>Hôpitaux mixtes</h2>
 

@@ -23,7 +23,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -119,7 +119,7 @@
     <figcaption>Localisation du camp de Chemnitz<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>  
 
-<p>En novembre 1915, l'Office d'information des oeuvres de secours aux prisonniers de guerre est informé que tous les prisonniers civils appartenant au camp de Chemnitz viennent d’être transférés au camp de Grofsporitscg Bei Zittau (Saxe). Lors de la visite du camp le 12, le dépôt de prisonnier est installé à la caserne Friedrich August, située dans le quartier Ebensdorf.</p>
+<p>En novembre 1915, l'Office d'information des oeuvres de secours aux prisonniers de guerre est informé que tous les prisonniers civils appartenant au camp de Chemnitz viennent d'être transférés au camp de Grofsporitscg Bei Zittau (Saxe). Lors de la visite du camp le 12, le dépôt de prisonniers est installé à la caserne Friedrich August, située dans le quartier Ebensdorf.</p>
 
 <figure>
     <img src="miniatures/Chemnitz/caserne-friedrich-august.jpg" data-fancybox="gallery" alt="La caserne Friedrich August à Chemnitz" >
@@ -132,7 +132,7 @@
     <figcaption>Répartition des prisonniers en 1915<br/>(Cliquez pour agrandir)</figcaption>
 </figure>
 
-<p>Des maladies comme le typhus ou le choléra font très vite leur apparition dans les camps de prisonniers comme celui de Chemnitz où survit désormais <a href="../poilus/GRAIN-Louis.php">Louis GRAIN</a>. Le confinement des logements, le nombre de prisonniers par baraque qui est en moyenne de 250, expliquent en partie le phénomène car l’atmosphère viciée se renouvelle très peu. Dans sa thèse "Gefangen im Großen Krieg", Uta Hinz explique qu'en février 1915, le camp de Chemnitz a été mis sous quarantaine. Un des prisonniers avait alors écrit que les seules voitures qui s’approchent du camp étaient celles qui transportaient les cercueils. Au total, on estime à 44732 le nombre de prisonniers de guerre ayant été victimes du typhus.</p>
+<p>Des maladies comme le typhus ou le choléra font très vite leur apparition dans les camps de prisonniers comme celui de Chemnitz où survit désormais <a href="../poilus/GRAIN-Louis.php">Louis GRAIN</a>. Le confinement des logements, le nombre de prisonniers par baraque qui est en moyenne de 250, expliquent en partie le phénomène car l'atmosphère viciée se renouvelle très peu. Dans sa thèse "Gefangen im Großen Krieg", Uta Hinz explique qu'en février 1915, le camp de Chemnitz a été mis sous quarantaine. Un des prisonniers avait alors écrit que les seules voitures qui s'approchent du camp étaient celles qui transportaient les cercueils. Au total, on estime à 44732 le nombre de prisonniers de guerre ayant été victimes du typhus.</p>
 
 <figure>
     <a href="images/chemnitz-cholera.jpg" data-fancybox="gallery" data-caption="La vaccination contre le choléra">

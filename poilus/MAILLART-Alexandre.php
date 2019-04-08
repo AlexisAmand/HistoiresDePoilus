@@ -24,7 +24,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -93,7 +93,7 @@
 
 <h1>Alexandre Ernest MAILLART</h1>
 
-<p><strong>Alexandre Ernest MAILLART </strong>est né le 24 juillet 1874 à <a href="../releves/betheniville.php">Bétheniville</a>, fils d’Achille Onésiphore et Julie Adèle BALTAZART, elle-même fille de Jean-Baptiste et Julie Joséphine KRAUTH (mes sosas n°116 et n°117).&nbsp; Alexandre est le cousin d'<a href="BALTAZART-Ernest-Auguste.php">Ernest Auguste BALTAZART</a>.</p>
+<p><strong>Alexandre Ernest MAILLART </strong>est né le 24 juillet 1874 à <a href="../releves/betheniville.php">Bétheniville</a>, fils d'Achille Onésiphore et Julie Adèle BALTAZART, elle-même fille de Jean-Baptiste et Julie Joséphine KRAUTH (mes sosas n°116 et n°117).&nbsp; Alexandre est le cousin d'<a href="BALTAZART-Ernest-Auguste.php">Ernest Auguste BALTAZART</a>.</p>
 
 	<figure>
 	    <a href="images/arbre-maillart.png" data-fancybox="gallery" data-caption="Arbre simplifié de la famille MAILLART-BALTAZART">
@@ -107,7 +107,7 @@
 	    <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
-<p>Le 18 septembre 1899, Alexandre épouse à Boult-sur-Suippe (Marne) Marie Berthe GAUCHET, âgée de 25 ans, fille légitime d’Hyppolyte et Marie-Zélie SOMMELIER. Lors de son mariage, Alexandre travaille pour la Compagnie des Chemins de Fer de l’Est. Leur fils Marcel naît à Bar-le-Duc (Meuse) le 9 mai 1901, rue des romains.</p>
+<p>Le 18 septembre 1899, Alexandre épouse à Boult-sur-Suippe (Marne) Marie Berthe GAUCHET, âgée de 25 ans, fille légitime d'Hyppolyte et Marie-Zélie SOMMELIER. Lors de son mariage, Alexandre travaille pour la Compagnie des Chemins de Fer de l'Est. Leur fils Marcel naît à Bar-le-Duc (Meuse) le 9 mai 1901, rue des romains.</p>
 
 	<table class="census">
 	    <caption>Liste des domiciles d'Alexandre</caption>
@@ -156,9 +156,9 @@
 	    </tbody>   
 	</table>
 
-<p>A <a href="mobilisation-1914" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, <strong>Alexandre</strong> est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des <strong>Sections de Chemins de Fer de Campagne</strong> du 2 août 1914 au 5 janvier 1919. Je sais que, pour de nombreux lecteurs, cette affectation ne fait pas de lui un poilu au sens strict du terme, car il n’était pas dans l’enfer de Verdun ou dans la boue des tranchées. Mais laissez-moi vous raconter la suite.</p>
+<p>A <a href="mobilisation-1914" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, <strong>Alexandre</strong> est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des <strong>Sections de Chemins de Fer de Campagne</strong> du 2 août 1914 au 5 janvier 1919. Je sais que, pour de nombreux lecteurs, cette affectation ne fait pas de lui un poilu au sens strict du terme, car il n'était pas dans l'enfer de Verdun ou dans la boue des tranchées. Mais laissez-moi vous raconter la suite.</p>
 
-<p>Il est inscrit au tableau spécial de la médaille militaire d’employé principal de 2e classe à la <strong>6e Section de Chemin de Fer de Campagne</strong> : <em>"Détaché dans une gare depuis le 12 février 1915, il a assuré avec beaucoup de zèle, de sang-froid et sans défaillances le service de cette gare et jusqu’à ce que l’intensité du bombardement sur la ligne et sur la station l’ait obligé à s’en éloigner le 22 février 1916 au soir. Au cours de plus de 20 bombardements dirigés sur la localité et sur la voie ferrée, il a pris a chaque fois que les circonstances l’ont commandé les dispositions convenables pour empêcher les trains de franchir la zone bombardée et assurer leur passage à l’issue du bombardement. (arrêté ministériel du 20-4-16 et J.O du 23-4-16)."</em></p>
+<p>Il est inscrit au tableau spécial de la médaille militaire d'employé principal de 2e classe à la <strong>6e Section de Chemin de Fer de Campagne</strong> : <em>"Détaché dans une gare depuis le 12 février 1915, il a assuré avec beaucoup de zèle, de sang-froid et sans défaillances le service de cette gare et jusqu'à ce que l'intensité du bombardement sur la ligne et sur la station l'ait obligé à s'en éloigner le 22 février 1916 au soir. Au cours de plus de 20 bombardements dirigés sur la localité et sur la voie ferrée, il a pris a chaque fois que les circonstances l'ont commandé les dispositions convenables pour empêcher les trains de franchir la zone bombardée et assurer leur passage à l'issue du bombardement. (arrêté ministériel du 20-4-16 et J.O du 23-4-16)."</em></p>
 
 <p>La gare n'est pas indiquée sur le JO.</p>
 

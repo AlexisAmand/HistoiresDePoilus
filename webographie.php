@@ -12,7 +12,7 @@
 <link rel="stylesheet" href="css/fontawesome/css/all.css">  
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="images/favicon.png" />
                    
 </head>
 
@@ -23,7 +23,7 @@
 <script src="js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', 'cookies.php');
   });
 </script>
@@ -140,7 +140,7 @@
             <li><a href="pdf/souffrances_prisonniers_guerre_1914_1918.pdf" title="Les souffrances des prisonniers de guerre en 1914-1918 par Jean-Jules Dufour">
             Les souffrances des prisonniers de guerre en 1914-1918</a><br/>(Par Jean-Jules Dufour)</li>
             <li><a href="pdf/fiche-objet-uniformes-14-18.pdf" title=" ">
-            L’uniforme du fantassin français en 1914 et 1915</a><br/>(Musée de l’Armée - Hôtel des Invalides)</li>
+            L'uniforme du fantassin français en 1914 et 1915</a><br/>(Musée de l'Armée - Hôtel des Invalides)</li>
             <li><a href="https://amzn.to/2vNzdh1" title=" ">L'uniforme et les armes des soldats de la guerre de 1914-1918</a><br/>(Editions Casterman / Liliane et Fred Funcken)</li>
             <li><a href="pdf/letraitementdesp00chriuoft.pdf" title="Le traitement des prisonniers français en Allemagne par Dr. de Christmas">
             Le traitement des prisonniers français en Allemagne</a><br/>(Librairie Chapelot / Dr. de Christmas)</li>
@@ -207,7 +207,7 @@
 	<h2>Doctorats et thèses</h2>
     
     <ul>
-    	<li>Prisonnier pendant la Grande Guerre, la captivité de guerre en Allemagne, 1914–1921<br/>(thèse rédigée par Uta Hinz sous la direction de Gerd Krumeich et soutenue par elle à l’université de Fribourg en 2000)</li>
+    	<li>Prisonnier pendant la Grande Guerre, la captivité de guerre en Allemagne, 1914–1921<br/>(thèse rédigée par Uta Hinz sous la direction de Gerd Krumeich et soutenue par elle à l'université de Fribourg en 2000)</li>
     </ul>
     
 	<br/><br/>
@@ -247,7 +247,7 @@
 	<ul>
         <li><a href="http://www.bel-memorial.org" title=" ">Bel-Memorial (Belgique)</a></li>
         <li><a href="https://www.wardeadregister.be/fr" title=" ">Dead War Register (Belgique)</a></li>
-        <li><a href="http://arch.arch.be/" title=" ">Les Archives de l’État (Belgique)</a></li>      
+        <li><a href="http://arch.arch.be/" title=" ">Les Archives de l'État (Belgique)</a></li>      
         <li><a href="http://grandeguerre.icrc.org/fr" title=" ">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
         <li><a href="http://monumentsmorts.univ-lille3.fr/" title=" ">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
 	</ul>
@@ -259,6 +259,7 @@
 	<ul>
 		<li>Les livres d'or des soldats morts pour la France (Archives Nationales)</li>     
         <li><a href="http://archives.cg08.fr/" title=" ">Archives Départementales des Ardennes</a></li>
+        <li><a href="https://archives.cotedor.fr" title=" ">Archives Départementales de la Côte-d'Or</a></li>
         <li><a href="http://archives.marne.fr/" title=" ">Archives Départementales de la Marne</a></li>
 		<li><a href="http://archivesdepartementales.lenord.fr" title=" ">Archives Départementales du Nord</a></li>
         <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title=" ">Mémoire des Hommes</a> (Ministère de la Défense)</li>

@@ -12,7 +12,7 @@
 			<link rel="stylesheet" href="css/fontawesome/css/all.css">  
   
             <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-            <link rel="icon" type="image/png" href="/images/favicon.png" />
+            <link rel="icon" type="image/png" href="images/favicon.png" />
     
       </head>
       <body>
@@ -22,7 +22,7 @@
         <script src="js/cookiechoices.js"></script>
         <script>
           document.addEventListener('DOMContentLoaded', function(event) {
-            cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+            cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
               'Ok', 'En savoir plus', 'cookies.php');
           });
         </script>
@@ -56,25 +56,25 @@
 
             <div id="colindex">
     
-            <p>A l’origine, je devais continuer ma série d’articles sur le thème de la Première Guerre Mondiale en vous parlant de mes poilus sur mon site <a href="http://www.genealexis.fr">Genealexis</a>. Mouais… dit comme ça, je m'aperçois que c’est loin d’être génial.</p>
+            <p>A l'origine, je devais continuer ma série d'articles sur le thème de la Première Guerre Mondiale en vous parlant de mes poilus sur mon site <a href="http://www.genealexis.fr">Genealexis</a>. Mouais… dit comme ça, je m'aperçois que c'est loin d'être génial.</p>
 
                 <figure>
                 <img src="images/image-diapo-1.jpg" alt="Affiche pour la mobilisation générale" />
                 </figure>
             
-            <p>J’aurais certainement pu trouver une autre façon d’introduire la chose ? Peut-être que la solution était de vous raconter comment certains hommes de ma famille sont partis la fleur au fusil pour une guerre qu’ils pensaient courte ? Je suis désolé, mais je ne veux pas rentrer dans ce jeu-là.</p>
+            <p>J'aurais certainement pu trouver une autre façon d'introduire la chose ? Peut-être que la solution était de vous raconter comment certains hommes de ma famille sont partis la fleur au fusil pour une guerre qu'ils pensaient courte ? Je suis désolé, mais je ne veux pas rentrer dans ce jeu-là.</p>
     
                 <figure>
                 <img src="images/image-diapo-2.jpg" alt="Fiche de mort pour la France issue du site Mémoire des Hommes" />
                 </figure>
            
-            <p>Aucun spécialiste de ce conflit, n’arrivera à me faire croire que des hommes dans la fleur de l’âge ont quitté leurs maisons, leurs travails, leurs femmes,  leurs enfants, leurs amis “avec plaisir”, je dirais plutôt qu’ils s’y étaient résignés. En 1994, Jean-Baptiste DUROSELLE (historien français) écrit: <i>« Qui va faire la moisson imminente ? Et comment, avec la réquisition de nombreux chevaux, pourra-t-on labourer en octobre, si toutefois, par impossible, la guerre n’est pas encore gagnée et terminée ? »</i>. Il y a bien eu des scènes festives, avec des wagons et des fusils fleuris, mais c’est surtout dû au fait que le  départ des troupes était fortement ritualisé: discours d'officiers, défilés dans la ville des casernes aux gares. Il ne faut pas oublier non plus que  la <strong>loi sur l'état de siège du 3 avril 1878</strong> attribue aux autorités militaires un large pouvoir, en particulier celui de sanctionner toute parole opposée à la guerre. On peut donc facilement comprendre que les mobilisés et les civils n’avaient pas vraiment le choix, mieux valait dire que l’on était “pour la guerre”. Si vous n’êtes pas convaincu, je vous invite à lire le mémoire d’Yves POURCHER intitulé <a href="http://terrain.revues.org/1027#txt">Les clichés de la Grande Guerre</a>.</p>
+            <p>Aucun spécialiste de ce conflit, n'arrivera à me faire croire que des hommes dans la fleur de l'âge ont quitté leurs maisons, leurs travails, leurs femmes,  leurs enfants, leurs amis “avec plaisir”, je dirais plutôt qu'ils s'y étaient résignés. En 1994, Jean-Baptiste DUROSELLE (historien français) écrit: <i>« Qui va faire la moisson imminente ? Et comment, avec la réquisition de nombreux chevaux, pourra-t-on labourer en octobre, si toutefois, par impossible, la guerre n'est pas encore gagnée et terminée ? »</i>. Il y a bien eu des scènes festives, avec des wagons et des fusils fleuris, mais c'est surtout dû au fait que le  départ des troupes était fortement ritualisé: discours d'officiers, défilés dans la ville des casernes aux gares. Il ne faut pas oublier non plus que  la <strong>loi sur l'état de siège du 3 avril 1878</strong> attribue aux autorités militaires un large pouvoir, en particulier celui de sanctionner toute parole opposée à la guerre. On peut donc facilement comprendre que les mobilisés et les civils n'avaient pas vraiment le choix, mieux valait dire que l'on était “pour la guerre”. Si vous n'êtes pas convaincu, je vous invite à lire le mémoire d'Yves POURCHER intitulé <a href="http://terrain.revues.org/1027#txt">Les clichés de la Grande Guerre</a>.</p>
 
                 <figure>
                 <img src="images/image-diapo-3.jpg" alt="Carte postale représentant le départ des soldats pour le Front" />
                 </figure>
 
-            <p>Je vous propose donc, à travers ce site, un résumé des découvertes que j’ai eu la chance de réaliser à propos des membres de ma famille qui ont participé à la Première Guerre Mondiale. Vous allez ainsi découvrir que <a href="camps.php" title="Les camps de prisonniers pendant la Grande Guerre">certains ont été fait prisonniers</a> et emmenés en Allemagne, que certains ont été blessés en défendant leur patrie et enfin que <a href="releves.php">d’autres sont morts pour leur patrie</a>. Ce site est avant toute chose là pour rendre hommage à tous les soldats de la Der des Der, qu'ils soient <em>Poilus</em> en France, <em>Landsers</em> en Allemagne, <em>Tommies</em> en Angleterre, <em>Diggers</em> en Australie, <a href="poilus/amand-jules.php" title="biographies de soldats belges de la Première Guerre Mondiale">Jass en Belgique</a>, <em>Sammies</em> aux États-Unis ou encore <em>Mehmetçik</em> en Turquie (Empire Ottoman).</p>
+            <p>Je vous propose donc, à travers ce site, un résumé des découvertes que j'ai eu la chance de réaliser à propos des membres de ma famille qui ont participé à la Première Guerre Mondiale. Vous allez ainsi découvrir que <a href="camps.php" title="Les camps de prisonniers pendant la Grande Guerre">certains ont été fait prisonniers</a> et emmenés en Allemagne, que certains ont été blessés en défendant leur patrie et enfin que <a href="releves.php">d'autres sont morts pour leur patrie</a>. Ce site est avant toute chose là pour rendre hommage à tous les soldats de la Der des Der, qu'ils soient <em>Poilus</em> en France, <em>Landsers</em> en Allemagne, <em>Tommies</em> en Angleterre, <em>Diggers</em> en Australie, <a href="poilus/amand-jules.php" title="biographies de soldats belges de la Première Guerre Mondiale">Jass en Belgique</a>, <em>Sammies</em> aux États-Unis ou encore <em>Mehmetçik</em> en Turquie (Empire Ottoman).</p>
 
             <p class="right">Bonne lecture,<br/>Alexis, webmaster.</p>
             

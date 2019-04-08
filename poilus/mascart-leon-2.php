@@ -23,7 +23,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -121,11 +121,11 @@
 
 <ul>        
 	<li>Né le 22 avril 1889 à Onnaing.</li>
-	<li>Fils de Jules Jean Baptiste MASCART et d’Alcidie SEVREZ.</li>
+	<li>Fils de Jules Jean Baptiste MASCART et d'Alcidie SEVREZ.</li>
 	<li>Jules Jean Baptiste est le fils de Jean-Baptiste MASCART et Louise Charlotte DOCHEZ.</li>
 	<li>Fiche matricule n°528, volume 2, Bureau de Valenciennes, Classe de 1909 – la fiche est impossible à trouver</li>
 	<li>Mort pour la France le 7 mars 1915 à Châlons-sur-Marne</li>
-	<li>Livre d’Or de Vicq</li>
+	<li>Livre d'Or de Vicq</li>
 </ul>
 
 	<figure>

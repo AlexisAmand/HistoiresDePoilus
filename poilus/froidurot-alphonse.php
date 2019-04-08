@@ -23,7 +23,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -86,10 +86,10 @@
 <h1>Alphonse FROIDUROT</h1>
 
 <p>
-Père d’Alfred<br/>
+Père d'Alfred<br/>
 Né le 20 juillet 1869 à Dijon<br/>
 Matricule n°327, classe 1888 bureau de Dijon<br/>
-Rappelé à l’activité par la mobilisation générale du 2 août 1914. Arrivé au service de « la garde des voies de communication »  le dit jour et renvoyé dans ses foyers le 28 janviers 1915<br/>
+Rappelé à l'activité par la mobilisation générale du 2 août 1914. Arrivé au service de « la garde des voies de communication »  le dit jour et renvoyé dans ses foyers le 28 janviers 1915<br/>
 </p>
 
 	<figure>

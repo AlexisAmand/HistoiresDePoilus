@@ -12,7 +12,7 @@
 <link rel="stylesheet" href="css/fontawesome/css/all.css">  
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="images/favicon.png" />
        
 </head>
 
@@ -23,7 +23,7 @@
 <script src="js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', 'cookies.php');
   });
 </script>
@@ -69,8 +69,8 @@
 <br/><h2>Informations complémentaires</h2>
 
 <ul>
-	<li>Conformément à la loi n° 78-17 du 6 janvier 1978, relative à l'Informatique, aux Fichiers et aux Libertés, vous disposez d'un droit d'accès et de rectification des données à caractère personnel vous concernant et faisant l’objet de traitements.</li>
-    <li>En vue d’adapter le site aux demandes de ses visiteurs, je mesure le nombre de visites, le nombre de pages vues ainsi que de l'activité des visiteurs sur le site et leur fréquence de retour avec l'outil <a href="https://matomo.org" title="aller sur le site de Matomo">Matomo (ex Piwik)</a>.</li>
+	<li>Conformément à la loi n° 78-17 du 6 janvier 1978, relative à l'Informatique, aux Fichiers et aux Libertés, vous disposez d'un droit d'accès et de rectification des données à caractère personnel vous concernant et faisant l'objet de traitements.</li>
+    <li>En vue d'adapter le site aux demandes de ses visiteurs, je mesure le nombre de visites, le nombre de pages vues ainsi que de l'activité des visiteurs sur le site et leur fréquence de retour avec l'outil <a href="https://matomo.org" title="aller sur le site de Matomo">Matomo (ex Piwik)</a>.</li>
     <li><a href="https://matomo.org" title="aller sur le site de Matomo">Matomo (ex Piwik)</a>, l'outil de statistiques utilisé par le site "Histoires de Poilus", génère un cookie avec un identifiant unique, dont la durée de conservation est limitée à 13 mois. Je collecte également votre adresse IP, afin de déterminer la ville depuis laquelle vous vous connectez. Celle-ci est immédiatement anonymisée après utilisation. "Histoires de Poilus" ne peut donc en aucun cas remonter par ce biais à une personne physique.</li>
 </ul>
 

@@ -23,7 +23,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -121,7 +121,7 @@
     <figcaption>Localisation du camp de Würzburg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure>  
 
-<p>Le « Rapports des délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne » indique qu’au 19 août 1916, il y a environ 1500 prisonniers dans le camp de Würzburg.</p>
+<p>Le « Rapports des délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne » indique qu'au 19 août 1916, il y a environ 1500 prisonniers dans le camp de Würzburg.</p>
 
 &nbsp;<figure>
     <a href="images/wurzburg-01.png" data-fancybox="gallery" data-caption="La salle des lavabos dans le camp de Würzburg">

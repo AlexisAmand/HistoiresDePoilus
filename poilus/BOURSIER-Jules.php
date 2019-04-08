@@ -22,7 +22,7 @@
 
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', 'cookies.php');
   });
 </script>
@@ -208,7 +208,7 @@
     	<figcaption>Le Monument aux Morts de la guerre 1914-1918<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
        
-<p>Le 5 novembre 1918, la Ville d’Onnaing est libérée. Les Canadiens sont à <a href="http://genealexis.fr/cartes-postales/quarouble.php" title="Histoire de Quarouble">Quarouble</a> et à Rombies et se dirigent vers la frontière belge. Huit soldats canadiens et un anglais sont tués. Ils ont leurs tombes au cimetière d’Onnaing. Le 11 Novembre, l’Allemagne signe l’Armistice à Rethondes avec les Alliés…</p>
+<p>Le 5 novembre 1918, la Ville d'Onnaing est libérée. Les Canadiens sont à <a href="http://genealexis.fr/cartes-postales/quarouble.php" title="Histoire de Quarouble">Quarouble</a> et à Rombies et se dirigent vers la frontière belge. Huit soldats canadiens et un anglais sont tués. Ils ont leurs tombes au cimetière d'Onnaing. Le 11 Novembre, l'Allemagne signe l'Armistice à Rethondes avec les Alliés…</p>
     
 <p>Jules est décédé le 30 décembre 1936 à Onnaing, Rue Marcelin Berthelot.</p>
 

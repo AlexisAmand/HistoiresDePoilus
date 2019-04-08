@@ -23,7 +23,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -109,7 +109,7 @@
 
 <h1>Le camp de prisonniers de Czersk</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br/><p>Le camp de Czersk était situé en Poméranie (Prusse Orientale).</p><p>En 1918, pour les pansements comme pour la nourriture de nombreux erzatz règnent, comme en témoigne une note&nbsp; de service du lazaret du camp de Czersk datée d'août qui recommande <em>"qu'en ce qui concerne le matériel de pansement, l'économie la plus grand doit être pratiquée, comme ont doit aussi tendre à le pratiquer rigoureusement dans les hôpitaux allemands."</em></p><br/>
+<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br/><p>Le camp de Czersk était situé en Poméranie (Prusse Orientale).</p><p>En 1918, pour les pansements comme pour la nourriture de nombreux ersatz règnent, comme en témoigne une note&nbsp; de service du lazaret du camp de Czersk datée d'août qui recommande <em>"qu'en ce qui concerne le matériel de pansement, l'économie la plus grand doit être pratiquée, comme ont doit aussi tendre à le pratiquer rigoureusement dans les hôpitaux allemands."</em></p><br/>
 
 <figure>
     <a href="images/Czersk/Czersk-01.jpg" data-fancybox="gallery" data-caption="Le camp de Czersk">

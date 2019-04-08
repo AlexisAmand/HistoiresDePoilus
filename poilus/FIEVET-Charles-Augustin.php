@@ -24,7 +24,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', 'cookies.php');
   });
 </script>
@@ -192,7 +192,7 @@
 	    <figcaption>Extraits de sa fiche matricule<br/>(Source: Archives Départementales du Nord)</figcaption>
 	</figure>
 
-<p>Selon les docs de la Croix Rouge, il est fait prisonnier à Bikschote (Belgique) avant le 23 janvier 1915, selon moi durant la Première Bataille d’Ypres entre la fin du mois d’octobre et le début du mois de novembre 1914. </p>
+<p>Selon les docs de la Croix Rouge, il est fait prisonnier à Bikschote (Belgique) avant le 23 janvier 1915, selon moi durant la Première Bataille d'Ypres entre la fin du mois d'octobre et le début du mois de novembre 1914. </p>
 
 	<figure>
 	    <a href="sources/cicr-fievet-01.JPG" data-fancybox="gallery" data-caption="Extrait d'une liste de prisonniers (source: CICR)">

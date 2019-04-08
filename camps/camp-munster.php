@@ -23,7 +23,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -141,7 +141,7 @@
 
 <h2>Le camp de Munster I (dit camp de l'Haus-Spital)</h2>
 
-<p>Dans <cite>Westfalen in Ersten Weltkrieg</cite>, l'historien allemand Rainer PÖPPINGHEGE évalue à 20947 le nombre de soldats prisonniers dans le camp de Münster I à la fin de la Première Guerre Mondiale. Les délégués du Gouvernement Espagnol précisent que l’effectif est de 1894 prisonniers pour le camp même et 18052 répartis dans les hôpitaux et les différents détachements de travail (le 11 juin 1918). Le camp de Münster I était situé à 5 km à l'ouest de la ville.</p>
+<p>Dans <cite>Westfalen in Ersten Weltkrieg</cite>, l'historien allemand Rainer PÖPPINGHEGE évalue à 20947 le nombre de soldats prisonniers dans le camp de Münster I à la fin de la Première Guerre Mondiale. Les délégués du Gouvernement Espagnol précisent que l'effectif est de 1894 prisonniers pour le camp même et 18052 répartis dans les hôpitaux et les différents détachements de travail (le 11 juin 1918). Le camp de Münster I était situé à 5 km à l'ouest de la ville.</p>
 
 <table class="tab_camp">
     <caption>Effectif du camp au 11 juin 1918</caption>
@@ -233,7 +233,7 @@
 
     <p>Ce camp était situé à l'est de Münster, à l'emplacement d'un champ de course.</p>
 
-    <p>En octobre 1915, les prisonniers sont répartis dans 4 baraquements (appelés blocks). Ils forment chacun un rectangle en pleine campagne. Les dits baraquements sont décrits comme étant en planches à double cloison et éclairés à l’électricité. Les hommes disposent d’une paillasse et de deux couvertures, de lavabos ainsi que de bains-douches. Les chambres sont chauffées par des poêles. Chaque block dispose également d’une infirmerie dont le service est assuré par un infirmier français. Si un malade est gravement atteint, il est transporté dans un lazaret qui se trouve à l’extérieur du camp. Plusieurs aumôniers se trouvent à Munster II. Il y avait également un séminaire où des prêtes allemands et français des cours pour permettre à des séminaristes prisonniers, sous certaines conditions,&nbsp; de continuer leurs études. </p>
+    <p>En octobre 1915, les prisonniers sont répartis dans 4 baraquements (appelés blocks). Ils forment chacun un rectangle en pleine campagne. Les dits baraquements sont décrits comme étant en planches à double cloison et éclairés à l'électricité. Les hommes disposent d'une paillasse et de deux couvertures, de lavabos ainsi que de bains-douches. Les chambres sont chauffées par des poêles. Chaque block dispose également d'une infirmerie dont le service est assuré par un infirmier français. Si un malade est gravement atteint, il est transporté dans un lazaret qui se trouve à l'extérieur du camp. Plusieurs aumôniers se trouvent à Munster II. Il y avait également un séminaire où des prêtes allemands et français des cours pour permettre à des séminaristes prisonniers, sous certaines conditions,&nbsp; de continuer leurs études. </p>
     <p>A partir du mois de mars 1917, les représentations théâtrales au camp de Münster II sont suspendues. <cite>L'Exilé</cite> (Organe des Prisonniers du <a href="camp-hammelburg.php">camp d'Hammelburg</a>) précise qu'elles sont remplacées par des conférences payantes (5 à 10 pfenning, pour les nécessiteux, l'entrée est gratuite). La recette est versée au fond de secours du camp. </p>
 
 <p>Dans <em>Westfalen in Ersten Weltkrieg</em>, l'historien allemand Rainer PÖPPINGHEGE évalue à 47911 le nombre de soldats prisonniers dans le camp de Münster II à la fin de la Première Guerre Mondiale.</p>

@@ -24,7 +24,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -111,7 +111,7 @@
   
 <br/><h2>Pendant ce temps, les Allemands s'installent dans son village</h2>
 
-<p>Pendant ce temps, l'état-major de la IIIe armée du Baron Von Hausen quitte le château de Thugny pour s'installer à Bétheniville, village d’origine de <strong>Firmin</strong>, dans une "élégante et gracieuse villa" appartenant aux frères Renaut qui étaient absents. Une partie de l'état major occupait une seconde villa située de l'autre côté de la route. Le Q.G.A est porté de Bétheniville à <a href="http://cartespostalesanciennes.genealexis.fr/album/85-chalons-sur-marne" title="cartes postales anciennes de Châlons-sur-Marne sur le site Genealexis">Châlons</a> dès le lendemain.</p>
+<p>Pendant ce temps, l'état-major de la IIIe armée du Baron Von Hausen quitte le château de Thugny pour s'installer à Bétheniville, village d'origine de <strong>Firmin</strong>, dans une "élégante et gracieuse villa" appartenant aux frères Renaut qui étaient absents. Une partie de l'état major occupait une seconde villa située de l'autre côté de la route. Le Q.G.A est porté de Bétheniville à <a href="http://cartespostalesanciennes.genealexis.fr/album/85-chalons-sur-marne" title="cartes postales anciennes de Châlons-sur-Marne sur le site Genealexis">Châlons</a> dès le lendemain.</p>
 
 	<figure>
 	    <a href="portraits/Max_von_Hausen.jpg" data-fancybox="gallery" data-caption="portrait du Baron Max Von Hausen">
@@ -142,7 +142,7 @@
 
 <br/><h2>Saint-Hilaire-le-Petit pendant la Grande Guerre</h2>
 
-<p>Dès le lundi 31 août 1914, l'armée française recul en bloc. La région située entre Bétheniville et Saint-Hilaire devient un immense bivouac. La plupart des habitants décident de quitter le village, mais ils seront contraints au retour par les Allemands quelques jours plus tard. Le 12 septembre 1914 le reflux des troupes allemandes commence et les Allemands s’installent à Saint-Hilaire-le-Petit, qu'ils quitteront à la fin de la guerre.</p>
+<p>Dès le lundi 31 août 1914, l'armée française recul en bloc. La région située entre Bétheniville et Saint-Hilaire devient un immense bivouac. La plupart des habitants décident de quitter le village, mais ils seront contraints au retour par les Allemands quelques jours plus tard. Le 12 septembre 1914 le reflux des troupes allemandes commence et les Allemands s'installent à Saint-Hilaire-le-Petit, qu'ils quitteront à la fin de la guerre.</p>
 
 	<figure>
 	    <a href="images/Saint-Hilaire-ww1-01.jpg" data-fancybox="gallery" data-caption="Un canon anti-poux à Saint-Hilaire">

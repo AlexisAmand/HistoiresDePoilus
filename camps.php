@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="css/fontawesome/css/all.css">  
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link rel="icon" type="image/png" href="images/favicon.png" />
                   
 </head>
 
@@ -23,7 +23,7 @@
 <script src="js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -123,7 +123,7 @@
  
 <h1>Les camps de prisonniers en Allemagne</h1>
 
-<p>Quand la guerre éclate en août 1914, L'Empire Allemand est certain que sa victoire sera aussi rapide que celle de 1870. Seulement très vite, il doit faire face à un afflux de prisonniers qu'il n'avait pas prévu. Cette situation l'oblige à ouvrir des camps un peu partout sur son territoire. En cette fin d'année 1914, les soldats prisonniers dorment dans la paille, dans des huttes de fortune ou dans des trous creusés à même le sol pour&nbsp; s'abriter du froid et de la pluie. L'hygiène est déplorable, et très vite, des <strong>épidémies de Typhus</strong> apparaissent. Faute d'être prêt à nourrir et à loger un si grand nombre de prisonniers, l'hiver 1914 sera mortel pour des centaines d'hommes. Il faudra attendre l'année 1915 pour que la situation s'améliore un peu.</p>
+<p>Quand la guerre éclate en août 1914, L'Empire Allemand est certain que sa victoire sera aussi rapide que celle de 1870. Seulement, très vite, il doit faire face à un afflux de prisonniers qu'il n'avait pas prévu. Cette situation l'oblige à ouvrir des camps un peu partout sur son territoire. En cette fin d'année 1914, les soldats prisonniers dorment dans la paille, dans des huttes de fortune ou dans des trous creusés à même le sol pour&nbsp; s'abriter du froid et de la pluie. L'hygiène est déplorable, et très vite, des <strong>épidémies de Typhus</strong> apparaissent. Faute d'être prêt à nourrir et à loger un si grand nombre de prisonniers, l'hiver 1914 sera mortel pour des centaines d'hommes. Il faudra attendre l'année 1915 pour que la situation s'améliore un peu.</p>
 
 <figure>
     <a href="camps/images/friedrichsfeld-prisonniers-français.jpg" data-fancybox="gallery" data-caption="Des prisonniers français au camp de Friedrichsfeld">

@@ -27,14 +27,14 @@
 
 -	ajout de déterminant devant les éléments du menu
 -	Biblio-webo devient "Les sources" Je pense que ça parlera mieux aux gens
--	J’ai mis un petit code dans le fichier htaccess qui permet d’utiliser la compression des pages 
--	J’ai fusionné les css pour accélérer le chargement des pages
--	Je suis en train de m’occuper des images « miniatures »
+-	J'ai mis un petit code dans le fichier htaccess qui permet d'utiliser la compression des pages 
+-	J'ai fusionné les css pour accélérer le chargement des pages
+-	Je suis en train de m'occuper des images « miniatures »
 
 26 janvier 2015 (mise à jour n°6)
 ---------------------------------
 
--> J’ai ajouté des balises <meta> et <title> pour les pages de la partie « relevés »
+-> J'ai ajouté des balises <meta> et <title> pour les pages de la partie « relevés »
 
 29 juin 2015 (mise à jour n°7)
 ------------------------------
@@ -484,6 +484,6 @@ TODO
 - Ajouter la liste des mpf de Wargnies-le-Grand
 - Ajouter la liste des mpf de Saint-Hilaire-le-Petit
 - Ajouter la liste des mpf de Lille ??? LOL
-- Ajouter la liste des mpf de Roubaix ??? LOL aussi ^^ c’est pour LETIENNE Florimond
-- Voir pour empêcher les visiteurs d’accéder à un répertoire (exemple relevés)
+- Ajouter la liste des mpf de Roubaix ??? LOL aussi ^^ c'est pour LETIENNE Florimond
+- Voir pour empêcher les visiteurs d'accéder à un répertoire (exemple relevés)
 - En cherchant Sebourg sur http://www.1418europeana.fr/ , il y a une photo du Sebourg Chateau "near Valenciennes, which was the King's headquarters. 5 December 1918. The Guard was provided by the P.P.C.L.I."

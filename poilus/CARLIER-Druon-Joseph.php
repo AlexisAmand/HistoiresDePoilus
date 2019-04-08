@@ -25,7 +25,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -165,7 +165,7 @@
 	    </tbody>  
 	</table>
 
-<p>Durant son service militaire, <strong>Druon Joseph CARLIER</strong> est incorporé comme soldat de 2e classe au <strong>1er Régiment d’Infanterie</strong> sous le matricule n°8102 le 15 novembre 1897. C'est un régiment qui est né en 1479 et est issu des "bandes de Picardie". Il a traversé toutes les époques en participant à toutes les campagnes qui ont fait la France.</p><p>En application de la décision ministérielle du 21 septembre 1898, il passe au <strong>1er Régiment d’Infanterie de Marine</strong> le 1er décembre 1898 et est immatriculé sous le n° A 7225. Le 16 septembre 1899, il devient soldat de 1e classe. Il ne s’agit pas d’un grade mais plutôt d’une distinction qui permettrait d’accéder ensuite au grade de caporal. Il est envoyé en congé en attendant son passage dans la réserve avec un certificat de bonne conduite accordé le 28 septembre 1900.</p>
+<p>Durant son service militaire, <strong>Druon Joseph CARLIER</strong> est incorporé comme soldat de 2e classe au <strong>1er Régiment d'Infanterie</strong> sous le matricule n°8102 le 15 novembre 1897. C'est un régiment qui est né en 1479 et est issu des "bandes de Picardie". Il a traversé toutes les époques en participant à toutes les campagnes qui ont fait la France.</p><p>En application de la décision ministérielle du 21 septembre 1898, il passe au <strong>1er Régiment d'Infanterie de Marine</strong> le 1er décembre 1898 et est immatriculé sous le n° A 7225. Le 16 septembre 1899, il devient soldat de 1e classe. Il ne s'agit pas d'un grade mais plutôt d'une distinction qui permettrait d'accéder ensuite au grade de caporal. Il est envoyé en congé en attendant son passage dans la réserve avec un certificat de bonne conduite accordé le 28 septembre 1900.</p>
 
 	<figure>
 	      <a href="portraits/Druon Joseph CARLIER (sosa 22).jpg" data-fancybox="gallery" data-caption="agrandir le portrait de Druon Joseph CARLIER">
@@ -195,7 +195,7 @@
 
 <br/><h2>La chute de l'ouvrage permanent de Ferrière-la-Petite</h2>
 
-<p>La 12e compagnie, dont fait partie <strong>Druon</strong>, est la garnison d'infanterie de l'ouvrage permanent de Ferrière-la-Petite sous les ordres du chef de Bataillon du génie CRÉPY. Pendant la nuit du 31 août 1914, Les avant-postes du centre de Ferrière-la-Petite sont fortement inquiétés, alerte générale, le bombardement continu, l'artillerie du Bourdiau riposte. Prévu pour une seule compagnie, l’ouvrage de Ferrière-la-petite était composé d’abris bétonnés que les Allemands ont détruit à la fin du mois de septembre 1914.</p>
+<p>La 12e compagnie, dont fait partie <strong>Druon</strong>, est la garnison d'infanterie de l'ouvrage permanent de Ferrière-la-Petite sous les ordres du chef de Bataillon du génie CRÉPY. Pendant la nuit du 31 août 1914, Les avant-postes du centre de Ferrière-la-Petite sont fortement inquiétés, alerte générale, le bombardement continu, l'artillerie du Bourdiau riposte. Prévu pour une seule compagnie, l'ouvrage de Ferrière-la-petite était composé d'abris bétonnés que les Allemands ont détruit à la fin du mois de septembre 1914.</p>
 
 	<figure>
 	    <a href="images/Ferrière-la-Petite-01.jpg" data-fancybox="gallery" data-caption="L'ouvrage de Ferrière-la-Petite">
@@ -214,11 +214,11 @@
   
 <br/><h2>Enfin libre !</h2>
 
-<p>Druon Joseph est libéré le 13 décembre 1918 et retourne vivre Rue Giraud à Onnaing, ville où en avril 1917, l’explosion d’un obus prussien abandonné dans un champ de tir propose la mort tragique d’enfants, et où les jeunes femmes étaient obligées de récolter le chou pour l’occupant qui en était friand. La Fosse Cuvinot a quant à elle été complètement détruite par les Allemands lors de leur retraite de 1918.</p>
+<p>Druon Joseph est libéré le 13 décembre 1918 et retourne vivre Rue Giraud à Onnaing, ville où en avril 1917, l'explosion d'un obus prussien abandonné dans un champ de tir propose la mort tragique d'enfants, et où les jeunes femmes étaient obligées de récolter le chou pour l'occupant qui en était friand. La Fosse Cuvinot a quant à elle été complètement détruite par les Allemands lors de leur retraite de 1918.</p>
 
 <br/><h2>L'après guerre de Druon</h2>
 
-<p>Le 18 juin 1930, <strong>Druon Joseph CARLIER</strong> habite rue Giraud à Onnaing (Nord). Il y reçoit une carte d’ancien combattant délivrée par le Comité Départemental du Nord de l'Office Nationale du Combattant.</p>
+<p>Le 18 juin 1930, <strong>Druon Joseph CARLIER</strong> habite rue Giraud à Onnaing (Nord). Il y reçoit une carte d'ancien combattant délivrée par le Comité Départemental du Nord de l'Office Nationale du Combattant.</p>
 
 	<figure>
 	    <a href="sources/druon-carlier-ancien-combattant.jpg" data-fancybox="gallery" data-caption="La carte d'ancien combattant de Druon Joseph CARLIER">

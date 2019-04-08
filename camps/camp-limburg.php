@@ -23,7 +23,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -121,7 +121,7 @@
     <figcaption>Localisation du camp de Limburg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
 </figure> 
 
-<p>Le Rapport des Délégués du Gouvernement Espagnol du 27 avril 1916 indique que le camp est composé d’une série de baraques de 75 mètres de long et 12 mètres de large. Elles sont disposées sur deux rangées formées chacune de 24 baraques. Dans les intervalles qui existent entre les baraques avait été installées des cabinets d’aisances et les cantines. Les cuisines sont placées devant et derrière. Le chauffage se fait au moyen de poêles à charbon et l’éclairage est électrique.</p>
+<p>Le Rapport des Délégués du Gouvernement Espagnol du 27 avril 1916 indique que le camp est composé d'une série de baraques de 75 mètres de long et 12 mètres de large. Elles sont disposées sur deux rangées formées chacune de 24 baraques. Dans les intervalles qui existent entre les baraques avait été installées des cabinets d'aisances et les cantines. Les cuisines sont placées devant et derrière. Le chauffage se fait au moyen de poêles à charbon et l'éclairage est électrique.</p>
 
 <p>Il y avait au camp de Limburg une chapelle. Pour se distraire, les prisonniers avaient une bibliothèque riche de 2000 volumes. Une troupe théâtrale divertissait également les prisonniers. Un terrain était mis à disposition où, dimanche et fêtes, des équipes se livraient à des matchs de football.</p> 
 

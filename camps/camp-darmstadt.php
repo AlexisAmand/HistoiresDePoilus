@@ -23,7 +23,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -111,7 +111,7 @@
 
 <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p>
 
-<p>Ce camp était situé dans un vaste champ de manœuvres à quelques kilomètres de la ville de Darmstadt, en Hesse, dans le centre-ouest de l'Allemagne.. Il était constitué de grandes baraques en bois réunies en groupe de dix pouvant contenir un bataillon. Le camp était entouré d’un réseau de fils de fer et chaque bataillon (ensemble de 10 baraques) était à son tour entouré par un fils de fer.</p>  
+<p>Ce camp était situé dans un vaste champ de manœuvres à quelques kilomètres de la ville de Darmstadt, en Hesse, dans le centre-ouest de l'Allemagne.. Il était constitué de grandes baraques en bois réunies en groupe de dix pouvant contenir un bataillon. Le camp était entouré d'un réseau de fils de fer et chaque bataillon (ensemble de 10 baraques) était à son tour entouré par un fils de fer.</p>  
 <figure>
     <img src="miniatures/Darmstadt/carte-camp-darmstadt.jpg" data-fancybox="gallery" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Darmstadt">
     <figcaption>Localisation du camp de Darmstadt<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>

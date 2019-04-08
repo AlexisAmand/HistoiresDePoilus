@@ -5,7 +5,7 @@
 <meta charset="utf-8">
           
 <title>Biographie et parcours du soldat CARIN Théophile - Histoires de Poilus</title>
-<meta content="Parcours de Théophile CARIN, soldat pendant la Première Guerre Mondiale et membre du 4e Bataillon d’Infanterie Légère d’Afrique" name="description">
+<meta content="Parcours de Théophile CARIN, soldat pendant la Première Guerre Mondiale et membre du 4e Bataillon d'Infanterie Légère d'Afrique" name="description">
 
 <link rel="stylesheet" href="../css/style.css">
 			<link rel="stylesheet" href="../css/resp.css">
@@ -23,7 +23,7 @@
 <script src="../js/cookiechoices.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l’utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
       'Ok', 'En savoir plus', '../cookies.php');
   });
 </script>
@@ -141,7 +141,7 @@
 	    <figcaption>La mairie de Lourches<br/>(Cliquez pour agrandir)</figcaption>
 	</figure>
 
-<p>Du 20 août 1906 au 16 septembre 1906,  <strong>Théophile</strong> accomplit une première période d'exercice au sein du <strong>127e Régiment d’Infanterie</strong> qui est en garnison à Valenciennes depuis 1873. Du 1er juin 1909 au  17 juin 1909, il accomplit une 2e période d'exercice (toujours au sein du <strong>127e Régiment d’Infanterie</strong>). Les périodes d'exercice étaient organisées afin que ces réservistes restent opérationnels, même 10 ans après la fin de leur service militaire, trois périodes d'exercices sont organisées par les différentes lois de recrutement et circulaires ministérielles.</p>
+<p>Du 20 août 1906 au 16 septembre 1906,  <strong>Théophile</strong> accomplit une première période d'exercice au sein du <strong>127e Régiment d'Infanterie</strong> qui est en garnison à Valenciennes depuis 1873. Du 1er juin 1909 au  17 juin 1909, il accomplit une 2e période d'exercice (toujours au sein du <strong>127e Régiment d'Infanterie</strong>). Les périodes d'exercice étaient organisées afin que ces réservistes restent opérationnels, même 10 ans après la fin de leur service militaire, trois périodes d'exercices sont organisées par les différentes lois de recrutement et circulaires ministérielles.</p>
 
 	<figure>
 	    <a href="sources/CARIN-matricule-01.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Théophile CARIN">
@@ -149,7 +149,7 @@
 	    <figcaption>Extrait de sa fiche matricule<br/>(Cliquez pour agrandir)</figcaption>
 	</figure>
 
-<p>Le 5 mars 1908, <strong>Théophile CARIN</strong> est condamné par jugement du tribunal correctionnel de Douai à 10 jours de prison pour violence et voies de fait volontaires. Le 28 avril 1909, il est condamné une seconde fois à 8 jours de prison pour coup par le tribunal correctionnel de Valenciennes. Le 21 novembre 1911, il est condamné une troisième fois par jugement contradictoire du tribunal correctionnel d’Arras à un mois de prison pour vol. Le 15 mai 1913, Il est une nouvelle fois condamné, mais cette fois ci c'est à 20 jours de prison pour vol par le tribunal de Bethune.</p>
+<p>Le 5 mars 1908, <strong>Théophile CARIN</strong> est condamné par jugement du tribunal correctionnel de Douai à 10 jours de prison pour violence et voies de fait volontaires. Le 28 avril 1909, il est condamné une seconde fois à 8 jours de prison pour coup par le tribunal correctionnel de Valenciennes. Le 21 novembre 1911, il est condamné une troisième fois par jugement contradictoire du tribunal correctionnel d'Arras à un mois de prison pour vol. Le 15 mai 1913, Il est une nouvelle fois condamné, mais cette fois ci c'est à 20 jours de prison pour vol par le tribunal de Bethune.</p>
 
 	<figure>
 	    <a href="images/arras-tribunal.jpg" data-fancybox="gallery" data-caption="Le tribunal d'Arras">
@@ -187,7 +187,7 @@
 
 <h2>La mobilisation d'août 1914</h2>
   
-<p>Mobilisation générale! Comme la plupart des hommes de sa génération, <strong>Théophile</strong> est rappelé à l’activité et  arrive au <strong>1er groupe spécial</strong> le 6 août. À la mobilisation, chaque Corps d'Armée soulevait un <strong>Groupe Spécial</strong> (le numéro est celui du Corps d'Armée). Dans ces groupes étaient reversés les condamnés réservistes.</p>
+<p>Mobilisation générale! Comme la plupart des hommes de sa génération, <strong>Théophile</strong> est rappelé à l'activité et  arrive au <strong>1er groupe spécial</strong> le 6 août. À la mobilisation, chaque Corps d'Armée soulevait un <strong>Groupe Spécial</strong> (le numéro est celui du Corps d'Armée). Dans ces groupes étaient reversés les condamnés réservistes.</p>
   
 	<figure>
 	    <a href="sources/CARIN-matricule-02.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Théophile CARIN">
@@ -199,7 +199,7 @@
 
 <br/><h2>Théophile en Afrique</h2>
 
-<p>Du 29 septembre 1914 au 14 août 1916, Théophile est affecté "<strong>Aux armées d’Algérie</strong>".</p><p> A partir du 9 août 1916, <strong>Théophile CARIN</strong> passe au <strong>4e Bataillon d’Infanterie Légère d’Afrique</strong> jusqu'au 16 août 1918, date de sa fusion avec le 5e bataillon d'Afrique. Le 4e bataillon est successivement commandé par le chef de bataillon Ardit, puis par le chef de bataillon FLOUCAUT de FOURCROY.</p>
+<p>Du 29 septembre 1914 au 14 août 1916, Théophile est affecté "<strong>Aux armées d'Algérie</strong>".</p><p> A partir du 9 août 1916, <strong>Théophile CARIN</strong> passe au <strong>4e Bataillon d'Infanterie Légère d'Afrique</strong> jusqu'au 16 août 1918, date de sa fusion avec le 5e bataillon d'Afrique. Le 4e bataillon est successivement commandé par le chef de bataillon Ardit, puis par le chef de bataillon FLOUCAUT de FOURCROY.</p>
 
 	<figure>
 	    <a href="images/tatahouine.jpg" data-fancybox="gallery" data-caption="Tatahouine (Tunisie) - Vu d'ensemble du camp">
