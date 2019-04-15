@@ -65,9 +65,9 @@
 	<li class="asideheader">Marne</li>
         
     <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
-    <li><a href="astiers-jules-alphonse.php" class="AsideSelected">ASTIERS Jules Alphonse</a></li>       
+    <li><a href="astiers-jules-alphonse.php" class="AsideSelected">ASTIER(S) Jules Alphonse</a></li>       
     <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-    <li><a href="caron-eugene-alexandre.php">CARON Eugéne Alexandre</a></li>
+    <li><a href="caron-eugene-alexandre.php">CARON Eugène Alexandre</a></li>
     <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
     <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
     <li><a href="paquet-leopold.php">PAQUET Léopold</a></li>
@@ -90,9 +90,17 @@
 
 <article>
 
-<h1>Jules Alphonse ASTIERS</h1>
+<h1>Jules Alphonse ASTIER(S)</h1>
 
-<p>Jules Alphonse ASTIERS est né le 14 février 1872 à Bétheniville, dans la Marne. Tisseur, il est le fils légitime d'André ASTIER et de Louise Adèle BALTAZART. Il part pour le service militaire le 16 novembre 1893 avec avoir été déclaré "bon" lors de son conseil de révision. Il rejoint le 91e Régiment d'Infanterie et arrive au corps en tant que soldat de 2e classe. Il devient soldat de 1ere classe le 8 octobre 1894 et est envoyé en congés un mois plus tard avec le certificat de bonne conduite.</p>
+<p>Jules Alphonse ASTIER(S) est né le 14 février 1872 à Bétheniville, dans la Marne. Tisseur, il est le fils légitime d'André ASTIER et de Louise Adèle BALTAZART. Jules est le cousin germain d'un autre poilu de ce site nommé <a href="arnould-henri-rene.php" title="biographie de Henri René ARNOULD">Henri René ARNOULD</a>.</p> 
+
+<figure>
+	    <a href="images/arbre-astiers-jules.png" data-fancybox="gallery" data-caption="Les ascendants de Jules ASTIER(S)">
+	    <img src="miniatures/arbre-astiers-jules.png" alt="Arbre généalogique partiel de Jules ASTIER(S)" class="ArbreGenealogique"></a>
+	    <figcaption>Arbre généalogique partiel de Jules ASTIER(S)<br/>(cliquez pour agrandir)</figcaption>
+	</figure>
+
+Il part pour le service militaire le 16 novembre 1893 aprés avoir été déclaré "bon" lors de son conseil de révision. Il rejoint le 91e Régiment d'Infanterie, et arrive au corps en tant que soldat de 2e classe. Il devient soldat de 1ere classe le 8 octobre 1894 et est envoyé en congés un mois plus tard avec le certificat de bonne conduite.</p>
 
 	<figure>
 	    <a href="images/bethenville-place-munet.jpg" data-fancybox="gallery" data-caption="La Place du Munet à Bétheniville">
@@ -103,7 +111,7 @@
 <p>20 ans plus tard, lors de <a href="mobilisation-1914" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation générale</a> du 1er août 1914, il est rappelé mais est renvoyé provisoirement le 2 septembre 1914. Quelques mois plus tard, le 3 avril 1915, il est de nouveau rappelé et rejoint le 10e Escadron de Train dés le 20 où il reste 9 jours avant de rejoindre le 13e Régiment d'Artillerie. Il passe les deux dernières années de la guerre détaché dans des usines d'armement de Colombe et Mondeville (Normandie) avant d'être finalement libéré du service le 1 octobre 1919.</p>
 	
 	<table class="census">
-	    <caption>Liste des domiciles de Jules Alphonse ASTIERS</caption>
+	    <caption>Liste des domiciles de Jules Alphonse ASTIER(S)</caption>
 	    <thead>
 	        <tr>
 	            <th id="date">Date</th>

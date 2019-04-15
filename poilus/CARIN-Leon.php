@@ -143,8 +143,8 @@
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td headers="date">1</td>
-	            <td headers="adresse">2</td>
+	            <td headers="date">Rue Beauvois</td>
+	            <td headers="adresse">à Lourches (Nord)</td>
 	        </tr>
 	        <tr>
 	            <td headers="date">1</td>
@@ -225,6 +225,5 @@
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 <script type="text/javascript" src="../js/script.js"></script>
 
- 
 </body>
 </html>

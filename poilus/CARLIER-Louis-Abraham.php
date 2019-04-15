@@ -138,25 +138,25 @@
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td headers="date"> </td>
-	            <td headers="adresse"> </td>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
 	        </tr>
 	        <tr>
-	            <td headers="date"> </td>
-	            <td headers="adresse"> </td>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
 	        </tr>
 	        <tr>
-	            <td headers="date"> </td>
-	            <td headers="adresse"> </td>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
 	        </tr>
 	        <tr>
-	            <td headers="date"> </td>
-	            <td headers="adresse"> </td>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
 	        </tr>
 	    </tbody>    
 	</table>
 
-<br/><h2>La mobilisation d'août 1914</h2>
+<h2>La mobilisation d'août 1914</h2>
 
 <p>Âgé de 43 ans en 1914, <strong>Louis Abraham</strong> est mobilisé comme la plupart des hommes de sa génération et devient auxiliaire de place forte au sein de la 1ere batterie (3e selon certaines sources) du <strong>1er Régiment d'Artillerie à Pied</strong>. En 1914, l'artillerie à pied est réservée à la défense d'une zone que l'on appelle groupe  et a en charge outre la défense de ce groupe, celle des forts et ouvrages. Il est cantonné au groupe de Grévaux, sous les ordres  Capitaine BOCQUET.</p>
 
@@ -166,7 +166,7 @@
 	    <figcaption>Louis Abraham CARLIER<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
-<br/><h2>La bataille de Maubeuge</h2>
+<h2>La bataille de Maubeuge</h2>
 
 <p>Le bombardement reprend sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er territorial opposent une belle résistance.</p>
 
@@ -176,7 +176,7 @@
 	    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br/>et mouvement des troupes allemandes</figcaption>
 	</figure>
 
-<br/><h2>On brûle les drapeaux de la garnison de Maubeuge...</h2>
+<h2>On brûle les drapeaux de la garnison de Maubeuge...</h2>
 
 <p>Le 4 septembre 1914, le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e, 2e, 3e  et 4e  territorial et enfin celui du <strong>1er Régiment d'Artillerie à Pied</strong>.</p><p>Dès le lendemain, à 7 heures, les drapeaux de la garnison sont brûlés dans le jardin du Pavillon, à proximité de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
 
@@ -186,7 +186,7 @@
 	    <figcaption>La Caserne Joyeuse à Maubeuge<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
-<br/><h2>La capture des soldats à Ferrière-la-Grande</h2>
+<h2>La capture des soldats à Ferrière-la-Grande</h2>
 
 <p><strong>Louis Abraham</strong> est fait prisonnier le 7 septembre 1914 à Ferrière-la-Grande (à côté de Maubeuge) et  envoyé à Munster  (Munster III selon sa fiche matricule, Munster II selon sa carte d'ancien combattant).</p>
 
@@ -245,6 +245,7 @@
 <h2>Sources et bibliographie</h2>
     
     <ul>
+		<li><a href="sources/agfh_notice_carlier_louis.pdf" title=" ">Notice biographique réalisée par l'AGFH</a></li>
     	<li><a href="http://archives.genealexis.fr/album/15-carlier-louis-abraham" title="version numérisée du dossier d'ancien combattant de Louis Abraham CARLIER">Le dossier d'ancien combattant de Louis Abraham CARLIER</a></li>
          <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
         <li><a href="../pdf/Maubeuge-1914-Duvivier.pdf" title="La Bataille de Maubeuge en septembre 1914">Maubeuge 1914</a> (Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>

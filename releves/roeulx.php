@@ -144,7 +144,7 @@
   </tr>
   </thead>
   <tr>
-    <td headers="nom"><a href="../poilus/CARIN-Edouard.php">CARIN<br/>Edouard</a></td>
+    <td headers="nom"><a href="../poilus/CARIN-Edouard.php" title="biographie du poilu Edouard CARIN">CARIN<br/>Edouard</a></td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="grade">&nbsp;</td>
@@ -152,7 +152,7 @@
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-  	<td headers="nom"><a href="../poilus/CARIN-Leon.php">CARIN<br/>Leon</a></td>
+  	<td headers="nom"><a href="../poilus/CARIN-Leon.php" title="biographie du poilu Léon CARIN">CARIN<br/>Leon</a></td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="grade">&nbsp;</td>

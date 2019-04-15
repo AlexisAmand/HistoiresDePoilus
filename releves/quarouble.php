@@ -167,7 +167,7 @@
   <tr>
     <td headers="nom">CARLIER<br/>Charles Auguste</td>
     <td headers="naissance">Le 24 septembre 1893<br/>à Quarouble (Nord)</td>
-    <td headers="mort">Le 21 novembre 1914 <br/>à l'hôpital St Hippolyte<br/>du Fort (30)</td>
+    <td headers="mort">Le 21 novembre 1914 <br/>à l'hôpital St Hippolyte<br/>du Fort (Gars)</td>
     <td headers="corps">82e R.I</td>
     <td headers="genre">blessures de guerre</td>
   </tr>
@@ -179,14 +179,14 @@
     <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">CARLIER<br/>Nazaire Hippolyte </td>
+    <td headers="nom">CARLIER<br/>Nazaire Hippolyte</td>
     <td headers="naissance">Le 22 septembre 1892<br/>à Anzin (Nord)</td>
     <td headers="mort">Le 22 août 1914<br/>à Pierrepont (Meurthe-et-Moselle)</td>
     <td headers="corps">151e R.I</td>
     <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">COLLE <br/>Jules </td>
+    <td headers="nom">COLLE <br/>Jules</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
@@ -200,14 +200,14 @@
     <td headers="genre">maladie contractée en captivité</td>
   </tr>
   <tr>
-    <td headers="nom">DANGREAU <br/>Auguste </td>
+    <td headers="nom">DANGREAU <br/>Auguste</td>
     <td headers="naissance">Le 13 février 1887 <br/>à Quarouble (Nord)</td>
     <td headers="mort">Le 2 mai 1916<br/>à Cuperly (Marne)</td>
     <td headers="corps">225e R.A</td>
     <td headers="genre">blessures de guerre</td>
   </tr>
   <tr>
-    <td headers="nom">DANGREAU <br/>Noël Désiré </td>
+    <td headers="nom">DANGREAU <br/>Noël Désiré</td>
     <td headers="naissance">Le 2 août 1890<br/>à Quarouble (Nord)</td>
     <td headers="mort">Le 5 novembre 1918<br/>à Bourbourg (Nord)</td>
     <td headers="corps">28e R.D</td>
@@ -221,9 +221,9 @@
     <td headers="genre">blessures de guerre</td>
   </tr>
   <tr>
-    <td headers="nom">DEBRUXELLES <br/>Gaston Victor </td>
+    <td headers="nom">DEBRUXELLES <br/>Gaston Victor</td>
     <td headers="naissance">Le 11 novembre 1884<br/>à Quarouble (Nord)</td>
-    <td headers="mort">Le 14 septembre 1914<br/>à Tours (37)</td>
+    <td headers="mort">Le 14 septembre 1914<br/>à Tours (Indre-et-Loire)</td>
     <td headers="corps">327e R.I</td>
     <td headers="genre">blessures de guerre</td>
   </tr>
@@ -235,7 +235,7 @@
     <td headers="genre">maladie contractée au service</td>
   </tr>
   <tr>
-    <td headers="nom">DECHAMP<br/>Oscar </td>
+    <td headers="nom">DECHAMP<br/>Oscar</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
@@ -256,28 +256,28 @@
     <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">DERAMEAUX <br/>Édouard </td>
+    <td headers="nom">DERAMEAUX <br/>Édouard</td>
     <td headers="naissance">Le 6 mai 1885<br/>à Onnaing (Nord)</td>
     <td headers="mort">Le 23 juin 1915<br/>à Amiens (Somme)</td>
     <td headers="corps">327e R.I</td>
     <td headers="genre">blessures et maladie</td>
   </tr>
   <tr>
-    <td headers="nom">DERVAUX<br/>Léon </td>
+    <td headers="nom">DERVAUX<br/>Léon</td>
     <td headers="naissance">Le 23 mai 1884<br/>à Quarouble (Nord)</td>
     <td headers="mort">Le 3 novembre 1916<br/>à Bray-sur-Somme (Somme)</td>
     <td headers="corps">151e R.I</td>
     <td headers="genre">blessures de guerre</td>
   </tr>
   <tr>
-    <td headers="nom">DESORM(E)AUX<br/>Louis </td>
+    <td headers="nom">DESORM(E)AUX<br/>Louis</td>
     <td headers="naissance">Le 19 octobre 1896<br/>à Quarouble (Nord)</td>
     <td headers="mort">Le 10 septembre 1917<br/>à Toul (Meurthe-et-Moselle)</td>
     <td headers="corps">23e section<br/>C.O.A</td>
     <td headers="genre">blessures en service commandé</td>
   </tr>
   <tr>
-    <td headers="nom">DETRAIT <br/>Gilbert </td>
+    <td headers="nom">DETRAIT <br/>Gilbert</td>
     <td headers="naissance">Le 20 novembre 1894<br/>à Quarouble (Nord)</td>
     <td headers="mort">Le 4 avril 1917<br/>à Paris</td>
     <td headers="corps">31e R.A.L</td>
@@ -319,21 +319,21 @@
     <td headers="genre">tué à la suite de blessures (?)</td>
   </tr>
   <tr>
-    <td headers="nom">DUEE<br/>Léon Jean-Baptiste </td>
+    <td headers="nom">DUEE<br/>Léon Jean-Baptiste</td>
     <td headers="naissance">Le 19 juin 1889<br/>à Quarouble (Nord)</td>
     <td headers="mort">Le 22 août 1915<br/>à <a href="../camps/camp-merzdorf.php">Merzdorf (Allemagne)</a></td>
     <td headers="corps">147e R.I</td>
     <td headers="genre">maladie contractée en captivité</td>
   </tr>
   <tr>
-    <td headers="nom">DUEE <br/>Léon Joseph </td>
+    <td headers="nom">DUEE <br/>Léon Joseph</td>
     <td headers="naissance">Le 27 janvier 1888<br/>à Quarouble (Nord)</td>
-    <td headers="mort">Le 19 juin 1915<br/>à Compiègne (60)</td>
+    <td headers="mort">Le 19 juin 1915<br/>à Compiègne (Oise)</td>
     <td headers="corps">148e R.I</td>
     <td headers="genre">blessures de guerre</td>
   </tr>
   <tr>
-    <td headers="nom">DUEE <br/>Omer Henri </td>
+    <td headers="nom">DUEE <br/>Omer Henri</td>
     <td headers="naissance">Le 6 août 1890<br/>à Quarouble (Nord)</td>
     <td headers="mort">Le 29 juillet 1918<br/>à Ville-en-Tardenois (Marne)</td>
     <td headers="corps">60e R.I</td>
@@ -347,7 +347,7 @@
     <td headers="genre">blessures de guerre</td>
   </tr>
   <tr>
-    <td headers="nom">DUPONT<br/>André Antoine Prudent </td>
+    <td headers="nom">DUPONT<br/>André Antoine Prudent</td>
     <td headers="naissance">Le 26 mars 1892<br/>à Quarouble (Nord)</td>
     <td headers="mort">Le 31 octobre 1915<br/>à Perthes (Marne)</td>
     <td headers="corps">147e R.I</td>
@@ -361,21 +361,21 @@
     <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">DUSSART <br/>Léon Victor </td>
+    <td headers="nom">DUSSART <br/>Léon Victor</td>
     <td headers="naissance">Le 9 novembre 1894<br/>à Quarouble (Nord)</td>
     <td headers="mort">Le 1 mars 1915<br/>à Mesnil-les-Hurlus (Marne)</td>
     <td headers="corps">87e R.I</td>
     <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">FAIDHERBE <br/>Émile </td>
+    <td headers="nom">FAIDHERBE <br/>Émile</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">FERNEZ<br/>Léonard </td>
+    <td headers="nom">FERNEZ<br/>Léonard</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
@@ -389,21 +389,21 @@
     <td headers="genre">disparu</td>
   </tr>
   <tr>
-    <td headers="nom">FLAMENT <br/>Ovide Celestin </td>
+    <td headers="nom">FLAMENT <br/>Ovide Celestin</td>
     <td headers="naissance">Le 27 novembre 1876<br/>à Quarouble (Nord)</td>
-    <td headers="mort">Le 13 mai 1915<br/>à Neuville-St-Vaast (62)</td>
+    <td headers="mort">Le 13 mai 1915<br/>à Neuville-St-Vaast (Pas-de-Calais)</td>
     <td headers="corps">329e R.I</td>
     <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">FLAMENT Paul </td>
+    <td headers="nom">FLAMENT Paul</td>
     <td headers="naissance">Le 18 octobre 1893<br/>à Quarouble (Nord)</td>
-    <td headers="mort">Le 29 mars 1916<br/>à Bordeaux (33)</td>
+    <td headers="mort">Le 29 mars 1916<br/>à Bordeaux (Gironde)</td>
     <td headers="corps">3e R.G</td>
     <td headers="genre">maladie en service</td>
   </tr>
   <tr>
-    <td headers="nom">FLAMME<br/>Abel Joseph </td>
+    <td headers="nom">FLAMME<br/>Abel Joseph</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
@@ -417,16 +417,16 @@
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">FLAMME<br/>Joseph Auguste </td>
+    <td headers="nom">FLAMME<br/>Joseph Auguste</td>
     <td headers="naissance">Le 1 avril 1892<br/>à Quarouble (Nord)</td>
     <td headers="mort">Le 29 août 1914<br/>à la Herie-la-Vieville (Aisne)</td>
     <td headers="corps">127e R.I</td>
     <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">FLAMME<br/>Léon </td>
+    <td headers="nom">FLAMME<br/>Léon</td>
     <td headers="naissance">Le 16 février 1876<br/>à Quarouble (Nord)</td>
-    <td headers="mort">Le 7 février 1917<br/>à Calais (62)</td>
+    <td headers="mort">Le 7 février 1917<br/>à Calais (Pas-de-Calais)</td>
     <td headers="corps">5e S.C.F.C</td>
     <td headers="genre">maladie contractée en service</td>
   </tr>
@@ -445,7 +445,7 @@
     <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">FROISSART <br/>Albert Jean-Baptiste </td>
+    <td headers="nom">FROISSART <br/>Albert Jean-Baptiste</td>
     <td headers="naissance">Le 27 juin 1892<br/>à Quarouble (Nord)</td>
     <td headers="mort">Le 27 septembre 1914<br/>à Saint-Thomas (Marne)</td>
     <td headers="corps">147e R.I</td>
@@ -459,14 +459,14 @@
     <td headers="genre">tuberculose contractée en captivité</td>
   </tr>
   <tr>
-    <td headers="nom">GERARD <br/>Victor </td>
+    <td headers="nom">GERARD <br/>Victor</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">GLINEUR <br/>Auguste </td>
+    <td headers="nom">GLINEUR <br/>Auguste</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
@@ -480,21 +480,21 @@
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">GOSTEAU <br/>Louis Émile </td>
+    <td headers="nom">GOSTEAU <br/>Louis Émile</td>
     <td headers="naissance">Le 30 juillet 1881<br/>à Quarouble (Nord)</td>
     <td headers="mort">Le 6 juillet 1916<br/>à Pierrepont (Meurthe-et-Moselle)</td>
     <td headers="corps">348e R.I</td>
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">GRUEL<br/>Zacharie Joseph </td>
+    <td headers="nom">GRUEL<br/>Zacharie Joseph</td>
     <td headers="naissance">Le 4 mars 1876<br/>à Quarouble (Nord)</td>
     <td headers="mort">Le 30 octobre 1914<br/>au Bois de la Chalade (Meuse)</td>
     <td headers="corps">37e R.I.T</td>
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">LARIVIERE<br/>Émile Marcelin </td>
+    <td headers="nom">LARIVIERE<br/>Émile Marcelin</td>
     <td headers="naissance">Le 6 septembre 1889<br/>à Quarouble (Nord)</td>
     <td headers="mort">Le 4 novembre 1918<br/>à <a href="../camps/camp-forstort.php" title="le camp de prisonniers de Förstört">Förstört (Allemagne)</td>
     <td headers="corps">1er R.A</td>
@@ -522,7 +522,7 @@
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">LOISEAU <br/>Émile </td>
+    <td headers="nom">LOISEAU <br/>Émile</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
@@ -677,7 +677,12 @@
   </tr>    
 </table>
 
-<?php /* indiquer les sources : Livre d'or du Ministère des pensions (Archives Nationales), Mémoire des Hommes (Ministère de la Défense), CPA ? */ ?>
+<h2>Sources</h2>
+
+<ul>
+  <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
+  <li>Mémoire des Hommes (Ministère de la Défense)</li>
+</ul>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

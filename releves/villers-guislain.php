@@ -208,7 +208,7 @@
   </tr>
   <tr>
     <td headers="nom">BRUNELLE<br/>Georges</td>
-    <td headers="naissance">Le 27 décembre 1875<br/>à Paris (75)</td>
+    <td headers="naissance">Le 27 décembre 1875<br/>à Paris (Seine)</td>
     <td headers="mort">Le 31 octobre 1916<br/>à Souain (Marne)</td>
     <td headers="classe">1913</td>
     <td headers="corps">1er R.I</td>
@@ -471,6 +471,13 @@
     <td headers="genre">&nbsp;</td>
   </tr>
 </table>
+
+<h2>Sources</h2>
+
+<ul>
+  <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
+  <li>Mémoire des Hommes (Ministère de la Défense)</li>
+</ul>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

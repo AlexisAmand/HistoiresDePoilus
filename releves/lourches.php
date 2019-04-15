@@ -297,7 +297,7 @@
   <tr>
     <td headers="nom">BLOND<br/>Joseph François</td>
     <td headers="naissance">Le 5 février 1886 à<br/>Neuville-St-Rémy (Nord)</td>
-    <td headers="mort">Le 7 septembre 1914 à<br/>Saint-Soupplets (S-et-M)</td>
+    <td headers="mort">Le 7 septembre 1914 à<br/>Saint-Soupplets (Seine-et-Marne)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">361e R.I</td>
     <td headers="genre">&nbsp;</td>
@@ -464,7 +464,7 @@
   </tr>
   <tr>
     <td headers="nom">CAUDRON<br/>François</td>
-    <td headers="naissance">22 novembre 1876 à<br/>Hersin Coupigny (P-d-C)</td>
+    <td headers="naissance">22 novembre 1876 à<br/>Hersin Coupigny (Pas-de-Calais)</td>
     <td headers="mort">1er septembre 1915 à<br/>Hyères (Var)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">2e R.I.T</td>
@@ -497,7 +497,7 @@
   <tr>
     <td headers="nom">COPIN<br/>François Jules</td>
     <td headers="naissance">24 novembre 1883 à<br/>Lourches (Nord)</td>
-    <td headers="mort">23 janvier 1918 à<br/>Saint-Omer (P-d-C)</td>
+    <td headers="mort">23 janvier 1918 à<br/>Saint-Omer (Pas-de-Calais)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">102e R.A.L</td>
     <td headers="genre">&nbsp;</td>

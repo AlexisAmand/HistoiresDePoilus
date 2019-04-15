@@ -63,8 +63,7 @@
         <li class="asideheader">Côte-d'Or</li>
 
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
-        <li><a href="froidurot-alphonse.php"  class="AsideSelected">FROIDUROT Alphonse</a></li>
-              
+        <li><a href="froidurot-alphonse.php"  class="AsideSelected">FROIDUROT Alphonse</a></li>           
 </ul>
    
     <div id="pubaside">
@@ -97,6 +96,34 @@ Rappelé à l'activité par la mobilisation générale du 2 août 1914. Arrivé 
 	    <img src="miniatures/froidurot-alphonse-matricule.jpg" alt="Extrait de la fiche matricule d'Alphonse FROIDUROT"/></a>
 	    <figcaption>Extrait de sa fiche matricule<br/>(Source: Archives Départementales de la Côte-d'Or)</figcaption>
 	</figure>
+
+  <table class="census">
+	    <caption>Liste des domiciles d'Alphonse</caption>
+	    <thead>
+	        <tr>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	    </tbody>   
+	</table>
     
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

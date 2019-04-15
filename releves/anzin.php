@@ -171,7 +171,7 @@
     <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">AUDIN<br/>Arthur Victor </td>
+    <td headers="nom">AUDIN<br/>Arthur Victor</td>
     <td headers="naissance">le 14 novembre 1886<br/>à Le Quesnoy (Nord)</td>
     <td headers="mort">le 5 septembre 1919<br/>à <a href="../hopitaux/hopitaux-hdf.php">L'hôpital mixte de Valenciennes (Nord)</a></td>
     <td headers="corps">?</td>
@@ -185,14 +185,14 @@
     <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">BARMARIN<br/>François Eugène Louis </td>
+    <td headers="nom">BARMARIN<br/>François Eugène Louis</td>
     <td headers="naissance">le 26 février 1885<br/>à Anzin (Nord)</td>
     <td headers="mort">le 30 août 1914<br/>à Franqueville (Aisne)</td>
     <td headers="corps">327e R.I</td>
     <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">BASILY<br/>Georges </td>
+    <td headers="nom">BASILY<br/>Georges</td>
     <td headers="naissance">le 30 juillet 1886<br/>à Anzin (Nord)</td>
     <td headers="mort">le 1er avril 1918<br/>à <a href="../hopitaux/hopitaux-hdf.php">l'hôpital temporaire<br/>n°11 du lycée Jeanne Hachette de Beauvais (Somme)</a></td>
     <td headers="corps">?</td>
@@ -227,56 +227,56 @@
     <td headers="genre">tué au bombardement de Trévausaux</td>
   </tr>
   <tr>
-    <td headers="nom">BEAUCHAMP<br/>Lucien </td>
+    <td headers="nom">BEAUCHAMP<br/>Lucien</td>
     <td headers="naissance">le 2 septembre 1894<br/>à Anzin (Nord)</td>
     <td headers="mort">le 5 avril 1915<br/>à Maizery (Meuse)</td>
     <td headers="corps">91e R.I</td>
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">BEAUCHAMP <br/>Maurice Paul Benoit </td>
+    <td headers="nom">BEAUCHAMP <br/>Maurice Paul Benoit</td>
     <td headers="naissance">le 1 septembre 1895<br/>à Anzin (Nord)</td>
     <td headers="mort">le 14 septembre 1918<br/>à Courlandon (Marne)</td>
     <td headers="corps">1er B.M.A</td>
     <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">BECK<br/>Adrien </td>
+    <td headers="nom">BECK<br/>Adrien</td>
     <td headers="naissance">le 11 novembre 1883<br/>à Anzin (Nord)</td>
     <td headers="mort">le 12 octobre 1914<br/>à Bagatelle (Marne)</td>
     <td headers="corps">91e R.I</td>
     <td headers="genre">tué à l'ennemi</td>
   </tr>
   <tr>
-    <td headers="nom">BERTEAUX<br/>Gaston </td>
+    <td headers="nom">BERTEAUX<br/>Gaston</td>
     <td headers="naissance">Le 13 juillet 1883<br/>à Saint-Amand (Nord)</td>
     <td headers="mort">Le 15 octobre 1914<br/>à Berry-au-Bac (Aisne)</td>
     <td headers="corps">127e R.I</td>
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">BINET<br/>Alcide Joseph </td>
+    <td headers="nom">BINET<br/>Alcide Joseph</td>
     <td headers="naissance">Le 24 mars 1871<br/>à Douai (Nord)</td>
-    <td headers="mort">Le 8 avril 1917<br/>à Dieulouard (M. et Moselle)</td>
+    <td headers="mort">Le 8 avril 1917<br/>à Dieulouard (Meurthe-et-Moselle)</td>
     <td headers="corps">95e R.I.T</td>
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">BLAISE<br/>Constant </td>
+    <td headers="nom">BLAISE<br/>Constant</td>
     <td headers="naissance">Le 14 janvier 1891<br/>à La Sentinelle (Nord)</td>
     <td headers="mort">Le 28 avril 1915<br/>à Het-Sas (Belgique)</td>
     <td headers="corps">9e R.M.Z</td>
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">BLANCHAR<br/>Jean-Baptiste </td>
+    <td headers="nom">BLANCHAR<br/>Jean-Baptiste</td>
     <td headers="naissance">Le 17 août 1890<br/>à Valenciennes (Nord)</td>
     <td headers="mort">Le 29 septembre 1914<br/>à La Chalade (Meuse)</td>
     <td headers="corps">18e B. C. P.</td>
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">BLANQUART<br/>Achille </td>
+    <td headers="nom">BLANQUART<br/>Achille</td>
     <td headers="naissance">Le 4 septembre 1885<br/>à Anzin</td>
     <td headers="mort">Le 23 juillet 1918<br/>à <a href="../camps/camp-friedrichsfeld.php">Friedrichsfeld </a>(Allemagne)</td>
     <td headers="corps">1er R.A.P</td>
@@ -290,7 +290,7 @@
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">BLIN<br/>Augustin </td>
+    <td headers="nom">BLIN<br/>Augustin</td>
     <td headers="naissance">Le 11 juin 1888<br/>à Anzin</td>
     <td headers="mort">Le 15 octobre 1914<br/>à Berry-au-Bac (Aisne)</td>
     <td headers="corps">127e R.I</td>
@@ -311,21 +311,21 @@
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">BOUCHAIN <br/>Arthur </td>
+    <td headers="nom">BOUCHAIN <br/>Arthur</td>
     <td headers="naissance">Le 23 juillet 1883<br/>à Anzin</td>
     <td headers="mort">Le 1 mai 1915<br/>aux Eparges (Meuse)</td>
     <td headers="corps">147e R.I</td>
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">BOUCHAIN<br/>Joseph Cyprien </td>
+    <td headers="nom">BOUCHAIN<br/>Joseph Cyprien</td>
     <td headers="naissance">Le 19 mai 1894<br/>à Valenciennes (Nord)</td>
     <td headers="mort">Le 14 mars 1915<br/>à Mesnil-les-Hurlus (Marne)</td>
     <td headers="corps">91e R.I</td>
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">BOUCQ<br/>Albert </td>
+    <td headers="nom">BOUCQ<br/>Albert</td>
     <td headers="naissance">Le 13 mai 1893<br/>à La Sentinelle (Nord)</td>
     <td headers="mort">Le 4 février 1917<br/>à ?</td>
     <td headers="corps">5e R.C</td>
@@ -346,7 +346,7 @@
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">BOURGEOIS <br/>Fernand </td>
+    <td headers="nom">BOURGEOIS <br/>Fernand</td>
     <td headers="naissance">Le 3 mars 1895<br/>à Beaudignies (Nord)</td>
     <td headers="mort">Le 24 juillet 1915<br/>à <a href="../camps/camp-darmstadt.php">Darmstadt</a> (Allemagne)</td>
     <td headers="corps">162e R.I</td>
@@ -374,7 +374,7 @@
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">BRABANT<br/>Louis </td>
+    <td headers="nom">BRABANT<br/>Louis</td>
     <td headers="naissance">Le 30 janvier 1892<br/>à Anzin</td>
     <td headers="mort">Le 13 juillet 1915<br/>à la Forêt d'Argonne (Meuse)</td>
     <td headers="corps">4e R.I</td>
@@ -382,13 +382,13 @@
   </tr>
   <tr>
     <td headers="nom">BRACONNIER<br/>Arthur</td>
-    <td headers="naissance">Le 9 février 1890<br/>à Anzin </td>
+    <td headers="naissance">Le 9 février 1890<br/>à Anzin</td>
     <td headers="mort">Le 1 mars 1915<br/>à Mesnil-les-Hurlus (Marne)</td>
     <td headers="corps">147e R.I</td>
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">BRACONNIER<br/>Julien </td>
+    <td headers="nom">BRACONNIER<br/>Julien</td>
     <td headers="naissance">Le 20 mai 1885<br/>à Anzin</td>
     <td headers="mort">Le 9 décembre 1918<br/>à Heilsberg (Allemagne)</td>
     <td headers="corps">56e B.C.P</td>
@@ -409,190 +409,147 @@
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_dargent%20klebert.pdf" title=" ">DARGENT<br/>Klébert</a></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_doucement%20arthur.pdf" title=" ">DOUCEMENT<br/>Arthur</a></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_genez%20andre.pdf" title=" ">GENEZ<br/>André</a></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_lebrun_georges.pdf" title=" ">LEBRUN Georges</a></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_parmentier%20orlis.pdf" title=" ">PARMENTIER Orlis Joseph</a></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_queant%20gustave.pdf" title=" ">QUÉANT Gustave Antoine</a></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
-  </tr>
-  <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
-  </tr>
-  <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
-  </tr>
-  <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
-  </tr>
-  <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
-  </tr>
-  <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
-  </tr>
-  <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
-  </tr>
-  <tr>
-    <td headers="nom"> </td>
-    <td headers="naissance"> </td>
-    <td headers="mort"> </td>
-    <td headers="corps"> </td>
-    <td headers="genre"> </td>
+    <td headers="nom"></td>
+    <td headers="naissance"></td>
+    <td headers="mort"></td>
+    <td headers="corps"></td>
+    <td headers="genre"></td>
   </tr>
   </table>
 
-<?php /* indiquer les sources : Livre d'or du Ministère des pensions (Archives Nationales), Mémoire des Hommes (Ministère de la Défense), CPA ? */ ?>
+<h2>Sources</h2>
+
+<ul>
+  <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
+  <li>Mémoire des Hommes (Ministère de la Défense)</li>
+  <li><a href="http://agfh59.free.fr/memorial_14_18/agfh_1418_hommes.htm" title=" ">Notices biographiques de l'AGFH</li>
+</ul>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

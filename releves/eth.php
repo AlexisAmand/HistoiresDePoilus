@@ -122,10 +122,10 @@
 
 <p>Voici la liste des morts pour la France  de Eth (Nord) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit message</a>.</p>
 
-	<figure>
-    	<img src="images/mini/monument-eth.jpg" alt="Le Monument aux Morts pour la France à Eth">
-        <figcaption>Le Monument aux Morts d'Eth,<br/>dans le petit cimetière.</figcaption>
-    </figure>
+<figure>
+	<img src="images/mini/monument-eth.jpg" alt="Le Monument aux Morts pour la France à Eth">
+  <figcaption>Le Monument aux Morts d'Eth,<br/>dans le petit cimetière.</figcaption>
+</figure>
 
 <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
@@ -235,7 +235,7 @@
             <td headers="morts">8 novembre 1918</td>
         </tr>
         <tr>
-            <td headers="nom">DORAN<br/>A. J. </td>
+            <td headers="nom">DORAN<br/>A. J.</td>
             <td headers="age">19 ans</td>
             <td headers="corps">Welch Regiment</td>
             <td headers="grade">Private</td>
@@ -284,6 +284,13 @@
             <td headers="morts">?</td>
         </tr>
     </table>
+
+<h2>Sources</h2>
+
+<ul>
+  <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
+  <li>Mémoire des Hommes (Ministère de la Défense)</li>
+</ul>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

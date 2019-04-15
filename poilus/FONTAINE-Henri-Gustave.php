@@ -167,7 +167,7 @@
 
 <p>Âgé de 24 ans au début du conflit, <strong>Henri Gustave</strong> devient soldat de 2e classe au sein du <strong>91e Régiment d'Infanterie</strong>. Il est réformé le 18 août 1914 pour emphysème pulmonaire. Il s'agit d'une maladie souvent liée au tabac qui touche les alvéoles pulmonaires et détruit progressivement les poumons.</p>
 
-<br/><h2>Anzin, ville occupée</h2>
+<h2>Anzin, ville occupée</h2>
 
 <p>Anzin, commune où est né <strong>Henri</strong>, est occupée par l'armée allemande dès le 25 août 1914, aussitôt un couvre-feu instauré.</p><p><a href="http://cartespostalesanciennes.genealexis.fr/album/36-anzin" title="cartes postales anciennes d'Anzin sur le site Genealexis">Anzin</a> avait la particularité d'être située dans la « zone d'étape », qui comprenait toutes les compagnies du Nord, la compagnie des mines d'Anzin reprit l'exploitation au bout de quelques semaines en partie avec du personnel réquisitionné et sous le contrôle étroit de la Bergverwaltung (section des mines de l'administration allemande). Sa production est toutefois  inférieure de 30 % à celle de 1913. </p><p>L'exploitation industrielle fut par contre arrêtée : les usines de la Société des Forges furent totalement démolies, les machines et ferrailles étant récupérées au profit de l'industrie allemande ; l'usine Escaut-et-Meuse fut transformée en atelier de réparation de canons. </p><p>La ville d'Anzin est libérée le 1er novembre 1918.</p>
 

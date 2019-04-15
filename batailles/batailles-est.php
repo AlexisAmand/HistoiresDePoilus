@@ -265,7 +265,7 @@
   					</tr>
   					<tr>
 				        <td headers="lieu">Mărășești<br/>(Roumanie)</td>
-				        <td headers="bataille">Bataille de Mărășești </td>
+				        <td headers="bataille">Bataille de Mărășești</td>
 				        <td headers="date">du 6 août<br/>au 8 septembre 1917</td>
 				        <td headers="issue">Victoire Roumaine</td>
   					</tr>

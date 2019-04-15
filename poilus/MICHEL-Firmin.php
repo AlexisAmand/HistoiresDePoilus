@@ -66,9 +66,9 @@
 	<li class="asideheader">Marne</li>
         
     <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
-    <li><a href="astiers-jules-alphonse.php">ASTIERS Jules Alphonse</a></li>       
+    <li><a href="astiers-jules-alphonse.php">ASTIER(S) Jules Alphonse</a></li>       
     <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-    <li><a href="caron-eugene-alexandre.php">CARON Eugéne Alexandre</a></li>
+    <li><a href="caron-eugene-alexandre.php">CARON Eugène Alexandre</a></li>
     <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
     <li><a href="MICHEL-Firmin.php" class="AsideSelected">MICHEL Firmin (+)</a></li>
     <li><a href="paquet-leopold.php">PAQUET Léopold</a></li>
@@ -105,11 +105,11 @@
 
 <p><strong>Firmin</strong> est âgé de 20 ans lors de <a href="mobilisation-1914" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation</a> du 1 août 1914. Selon la fiche consultée sur le site "Mémoire de Hommes", il devient membre du <strong>164e Régiment d'Infanterie</strong>. Le site "<a href="http://www.memoiresdesmontsdechampagne.fr" title="Lien vers le site Mémoires des Monts de Champagne">Mémoires des Monts de Champagne</a>" estime à 300 le nombre de mobilisés à <a href="http://cartespostalesanciennes.genealexis.fr/album/63-betheniville" title="cartes postales anciennes de Bétheniville sur le site Genealexis">Bétheniville</a>. Parmi eux, 51 ne reviendront pas. </p>
 
-<br/><h2>De l'été 14 à Verdun</h2>
+<h2>De l'été 14 à Verdun</h2>
 
 <p>Du 2 août 1914 au 26 février 1916, le régiment de <strong>Firmin</strong> ne cesse de combattre dans la région fortifiée de Verdun et de concourir à la défense de la place. Dans une première période allant du 2 août au 20 octobre 1914, il prête son appui aux troupes de campagne et participe à des attaques locales. Dans une deuxième période allant du 20 octobre 1914 au 26 février 1916, il combat dans les conditions ordinaires de la guerre de tranchées et soutient, du 21 au 26 février 1916, la plus formidable attaque qui ait été vue jusqu'alors. </p>
   
-<br/><h2>Pendant ce temps, les Allemands s'installent dans son village</h2>
+<h2>Pendant ce temps, les Allemands s'installent dans son village</h2>
 
 <p>Pendant ce temps, l'état-major de la IIIe armée du Baron Von Hausen quitte le château de Thugny pour s'installer à Bétheniville, village d'origine de <strong>Firmin</strong>, dans une "élégante et gracieuse villa" appartenant aux frères Renaut qui étaient absents. Une partie de l'état major occupait une seconde villa située de l'autre côté de la route. Le Q.G.A est porté de Bétheniville à <a href="http://cartespostalesanciennes.genealexis.fr/album/85-chalons-sur-marne" title="cartes postales anciennes de Châlons-sur-Marne sur le site Genealexis">Châlons</a> dès le lendemain.</p>
 
@@ -119,7 +119,7 @@
 	    <figcaption>Max Von Hausen<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
-<br/><h2>Firmin, mort pour la France</h2>
+<h2>Firmin, mort pour la France</h2>
 
 <p>Sous l'énergique impulsion du commandant Roussel, du 166e, qui prend le 2 décembre, le commandement du régiment, le  <strong>164e Régiment d'Infanterie</strong> attaque à son tour et, le 14 décembre 1914, le 3e bataillon s'élance sur les Jumelles d'Ornes où <strong>Firmin MICHEL</strong> est porté disparu. Son corps y fut retrouvé et identifié qu'en Mars/Avril 1922.</p>
 
@@ -140,7 +140,7 @@
 <p>Son fils <strong>Firmin</strong>, né le 7 janvier 1914 à Bétheniville, sera mobilisé en 1939 et rejoindra le <strong>8e Régiment de Zouaves</strong>. Capturé le 4 juin 1940 à Malo-les-Bains, il est emmené en captivité au Stalag VI A (a compté du 3 juillet 1940 à Hener Iserlhom) puis au Stalag VI H (Arnoldsweiler–duren, matricule 20495, liste du 11 juillet 1940). Il est décédé de maladie le 5 janvier 1941 à Aix-la-Chapelle (Allemagne)  à l'hôpital de réserve à Aachen.</p>
 <p>Mais ça, c'est une autre histoire...</p>
 
-<br/><h2>Saint-Hilaire-le-Petit pendant la Grande Guerre</h2>
+<h2>Saint-Hilaire-le-Petit pendant la Grande Guerre</h2>
 
 <p>Dès le lundi 31 août 1914, l'armée française recul en bloc. La région située entre Bétheniville et Saint-Hilaire devient un immense bivouac. La plupart des habitants décident de quitter le village, mais ils seront contraints au retour par les Allemands quelques jours plus tard. Le 12 septembre 1914 le reflux des troupes allemandes commence et les Allemands s'installent à Saint-Hilaire-le-Petit, qu'ils quitteront à la fin de la guerre.</p>
 

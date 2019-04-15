@@ -674,7 +674,7 @@
   <tr>
     <td headers="nom">LAMBECQ<br/>Léonard</td>
     <td headers="naissance">le 26 septembre 1889<br/>à Onnaing (Nord)</td>
-    <td headers="mort">le 7 novembre 1914<br/>à Lyon (69)</td>
+    <td headers="mort">le 7 novembre 1914<br/>à Lyon (Rhône)</td>
     <td headers="classe">soldat</td>
     <td headers="corps">91e R.I</td>
     <td headers="genre">&nbsp;</td>
@@ -762,7 +762,7 @@
   <tr>
     <td headers="nom">LEDUC<br/>Léon Joseph</td>
     <td headers="naissance">le 31 janvier 1878<br/>à Onnaing (Nord)</td>
-    <td headers="mort">le 2 janvier 1915<br/>à Minderheide (Allemagne) </td>
+    <td headers="mort">le 2 janvier 1915<br/>à Minderheide (Allemagne)</td>
     <td headers="classe">soldat</td>
     <td headers="corps">2e R.I.T</td>
     <td headers="genre">&nbsp;</td>

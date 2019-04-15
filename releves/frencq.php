@@ -151,7 +151,7 @@
       </tr>
       </thead>  
       <tr>
-        <td headers="nom">BLIN<br/>Jean </td>
+        <td headers="nom">BLIN<br/>Jean</td>
         <td headers="naissance">&nbsp;</td>
         <td headers="mort"> &nbsp;</td>
         <td headers="corps">Lieutenant</td>
@@ -193,14 +193,14 @@
         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td headers="nom">DELHAYE<br/>Auguste Alexandre </td>
+        <td headers="nom">DELHAYE<br/>Auguste Alexandre</td>
         <td headers="naissance">&nbsp;</td>
         <td headers="mort">&nbsp;</td>
         <td headers="corps">&nbsp;</td>
         <td headers="genre">&nbsp;</td>
       </tr>
       <tr>
-        <td headers="nom">DELHAYE<br/>Auguste Elis&eacute;e </td>
+        <td headers="nom">DELHAYE<br/>Auguste Elis&eacute;e</td>
         <td headers="naissance">&nbsp;</td>
         <td headers="mort">&nbsp;</td>
         <td headers="corps">&nbsp;</td>
@@ -432,7 +432,12 @@
       </tr>
     </table>
 
-<?php /* indiquer les sources : Livre d'or du Ministère des pensions (Archives Nationales), Mémoire des Hommes (Ministère de la Défense), CPA ? */ ?>
+<h2>Sources</h2>
+
+<ul>
+  <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
+  <li>Mémoire des Hommes (Ministère de la Défense)</li>
+</ul>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

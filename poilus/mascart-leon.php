@@ -65,8 +65,8 @@
 	<li class="asideheader">Nord</li>
 
     <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
-	<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
-	<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
+  	<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
+  	<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
     <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
     <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
     <li><a href="carin-joseph.php">CARIN Joseph</a></li>
@@ -122,10 +122,38 @@
 <p><strong>Léon MASCART</strong> est né à Onnaing le 30 janvier 1874. Avant la guerre (1906), il est mineur à la Fosse de Cuvinot et vit "au Trié" à Onnaing avec son épouse Maire FINET. Frère de <a href="mascart-louis.php">Louis</a>, il est maintenu en surcis aux Mines d'Anzin à <a href="mobilisation-1914" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation</a>. Le 17 décembre 1914, par le bulletin n°63, il est mis en sursis aux mines de Bruay (Pas-de-Calais) où il est entré en fonction le 28 octobre de la même année. Il est rayé de la mine le 15 janvier 1919 et est envoyé en congés illimités le 12 février 1919. Il se retire à Onnaing, Rue de l'Eglise.</p>
 		
 	<figure>
-	    <a href="http://cartespostalesanciennes.genealexis.fr/image/onnaing/168-fosse_cuvinot_a_onnaing_vers_1900.jpg" data-fancybox="gallery" data-caption="La Fosse de Cuvinot à Onnaing">
-	    <img src="http://cartespostalesanciennes.genealexis.fr/image/onnaing/168-fosse_cuvinot_a_onnaing_vers_1900.jpg" width="450px" alt="La Fosse de Cuvinot à Onnaing"/></a>
-	    <figcaption>La Fosse de Cuvinot</figcaption>
-    </figure>
+	  <a href="http://cartespostalesanciennes.genealexis.fr/image/onnaing/168-fosse_cuvinot_a_onnaing_vers_1900.jpg" data-fancybox="gallery" data-caption="La Fosse de Cuvinot à Onnaing">
+	  <img src="http://cartespostalesanciennes.genealexis.fr/image/onnaing/168-fosse_cuvinot_a_onnaing_vers_1900.jpg" width="450px" alt="La Fosse de Cuvinot à Onnaing"/></a>
+	  <figcaption>La Fosse de Cuvinot</figcaption>
+  </figure>
+
+  <table class="census">
+	    <caption>Liste des domiciles de Léon</caption>
+	    <thead>
+	        <tr>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	    </tbody>   
+	</table>
 	
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
@@ -145,6 +173,5 @@
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 <script type="text/javascript" src="../js/script.js"></script>
 
- 
 </body>
 </html>

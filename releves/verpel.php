@@ -185,7 +185,7 @@
   <tr>
     <td headers="nom">MIQUEL<br/>Georges</td>
     <td headers="naissance">Le 15 mars 1885<br/>à Verpel</td>
-    <td headers="mort">Le 12 septembre 1916<br/>à Regnieville (M. et Moselle)</td>
+    <td headers="mort">Le 12 septembre 1916<br/>à Regnieville (Meurthe-et-Moselle)</td>
     <td headers="corps">7e R.I</td>
     <td headers="genre">Tué à l'ennemi</td>
   </tr>

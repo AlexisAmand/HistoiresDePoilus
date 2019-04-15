@@ -148,7 +148,7 @@
   <tr>
     <td headers="nom">BOUSSAGEON<br/>Henri Alfred</td>
     <td headers="naissance">Le 8 septembre 1895<br/>à Daix<sup>1</sup></td>
-    <td headers="mort">Le 26 septembre 1915<br/>à Aix-Noulette (P. de Calais)</td>
+    <td headers="mort">Le 26 septembre 1915<br/>à Aix-Noulette (Pas-de-Calais)</td>
     <td headers="corps">149e R.I</td>
     <td headers="genre">tué à l'ennemi</td>
   </tr>
@@ -244,6 +244,13 @@
     <td headers="genre">&nbsp;</td>
     </tr>
   </table>
+
+<h2>Sources</h2>
+
+<ul>
+  <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
+  <li>Mémoire des Hommes (Ministère de la Défense)</li>
+</ul>
 
 <p class="note"><sup>1</sup>Le lieu de naissance n'est pas le même selon les sources: Daix pour le livre d'or, Messigny sur la fiche issue du site "Mémoire des Hommes".</p>
 

@@ -162,7 +162,7 @@
   <tr>
     <td headers="nom">BAUDUIN<br/>Jean Baptiste Joseph</td>
     <td headers="naissance">7 janvier 1877<br/>à Wavrechain-Sous-Faulx (Nord)</td>
-    <td headers="mort">2 novembre 1916<br/>à Salonique (Grece)</td>
+    <td headers="mort">2 novembre 1916<br/>à Salonique (Grèce)</td>
     <td headers="classe">soldat</td>
     <td headers="corps">18e E.T.E</td>
     <td headers="genre">&nbsp;</td>
@@ -530,6 +530,13 @@
   </tr>
     
 </table>
+
+<h2>Sources</h2>
+
+<ul>
+  <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
+  <li>Mémoire des Hommes (Ministère de la Défense)</li>
+</ul>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

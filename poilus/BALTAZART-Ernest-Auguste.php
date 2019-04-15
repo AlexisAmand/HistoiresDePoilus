@@ -65,9 +65,9 @@
 	<li class="asideheader">Marne</li>
         
     <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
-    <li><a href="astiers-jules-alphonse.php">ASTIERS Jules Alphonse</a></li>       
+    <li><a href="astiers-jules-alphonse.php">ASTIER(S) Jules Alphonse</a></li>       
     <li><a href="BALTAZART-Ernest-Auguste.php" class="AsideSelected">BALTAZART Ernest Auguste</a></li>
-    <li><a href="caron-eugene-alexandre.php">CARON Eugéne Alexandre</a></li>
+    <li><a href="caron-eugene-alexandre.php">CARON Eugène Alexandre</a></li>
     <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
     <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
     <li><a href="paquet-leopold.php">PAQUET Léopold</a></li>
@@ -92,7 +92,7 @@
 
 <h1>Ernest Auguste BALTAZART</h1>
 
-<p><strong>Ernest Auguste BALTAZART</strong> est né le samedi 21 juillet 1872 à <a href="http://cartespostalesanciennes.genealexis.fr/album/63-betheniville" title="cartes postales anciennes de Bétheniville sur le site Genealexis">Bétheniville</a> (Marne), fils de Ernest Louis, menuisier, et de Anne Joseph LEDUC, domestique. Le 26 avril 1897, il épouse Marie Eugènie HUET à Bétheniville et ils partent vivre Rue de la Cochette.</p>
+<p><strong>Ernest Auguste BALTAZART</strong> est né le samedi 21 juillet 1872 à <a href="http://cartespostalesanciennes.genealexis.fr/album/63-betheniville" title="cartes postales anciennes de Bétheniville sur le site Genealexis">Bétheniville</a> (Marne), fils de Ernest Louis, menuisier, et de Anne Joseph LEDUC, domestique. Le 26 avril 1897, il épouse Marie Eugénie HUET à Bétheniville et ils partent vivre Rue de la Cochette. Ernest est aussi le cousin germain d'un autre poilu de ce site nommé <a href="astiers-jules-alphonse.php" title="biographie de Jules Alphonse ASTIER(S)">Jules Alphonse ASTIER(S)</a>.</p>
 
 	<figure>
 	    <a href="images/arbre-baltazart-ernest.png" data-fancybox="gallery" data-caption="Les ascendants d'Ernest Auguste BALTAZART">

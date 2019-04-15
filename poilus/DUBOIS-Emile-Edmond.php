@@ -144,25 +144,25 @@
 	    </thead>
 	    <tbody>
 	        <tr>
-	            <td headers="date"> </td>
-	            <td headers="adresse"> </td>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
 	        </tr>
 	        <tr>
-	            <td headers="date"> </td>
-	            <td headers="adresse"> </td>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
 	        </tr>
 	        <tr>
-	            <td headers="date"> </td>
-	            <td headers="adresse"> </td>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
 	        </tr>
 	        <tr>
-	            <td headers="date"> </td>
-	            <td headers="adresse"> </td>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
 	        </tr>
 	    </tbody>   
 	</table>
 
-<br/><h2>La mobilisation d'août 1914</h2>
+<h2>La mobilisation d'août 1914</h2>
 
 <p>Âgé de 34 ans au moment de <a href="mobilisation-1914" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, il intègre le <strong>94e Régiment d'Infanterie</strong> qui donnera naissance au <strong>294e Régiment d'Infanterie</strong>. En effet, à la mobilisation, chaque régiment d'active crée un régiment de réserve dont le numéro est le sien plus 200.  Je pense que c'est ce qui explique que sa fiche matricule indique qu'il fait parti du 94e alors que sa fiche de mort pour la France indique le 294e.</p>
 
@@ -176,11 +176,11 @@
 
 <p><em>"Formé à deux bataillons, <strong>Émile Edmond DUBOIS</strong> et le 294e Régiment d'Infanterie quittent Bar-le-Duc et entrent en campagne le 9 août sous les ordres du Lieutenant Colonel DUPERRIER. Le 294e R.I fait partie de la 56e Division d'Infanterie, 111e Brigade. Au cours de la campagne de 1914, il participe au combat de Buzy, de Senlis, à la Bataille de la Marne, au combat sur l'Aisne et à la Bataille de l'Oise."</em></p>
 
-<br/><h2>Le combat de Buzy</h2>
+<h2>Le combat de Buzy</h2>
 
 <p><em>"Le choc a lieu le 25 août. Le Régiment est en deuxième ligne. La 56e Division d'Infanterie obtient un succès important et repousse complètement l'ennemi à Buzy le contraignant à battre en retraite et lui infligeant de grosses pertes. La situation critique de l'Aile Gauche de l'Armée Française est telle que le succès n'est pas exploité et la 56e Division d'Infanterie reçoit l'ordre de rompre le combat pour être transportée vers le Nord. Le 294e Régiment d'Infanterie embarque en chemin de fer à Dugny et à Dieue, débarque à Moyenneville et Tricot (Oise) et se dirige sur Montdidier pour prendre position en avant de Senlis."</em></p>
 
-<br/><h2>Le combat de Senlis</h2>
+<h2>Le combat de Senlis</h2>
     
 <p><em>"La 56e Division d'Infanterie a pour mission de ralentir la marche de l'ennemi dont les avant-gardes cherchent à se rapprocher de Paris. Le 2 septembre, le régiment en arrière garde de la 56e Division d'Infanterie, reçoit l'ordre de tenir les lisères de Senlis jusqu'à 13 heures. Dès l'aube, les éléments avancés de l'ennemi attaquent, mais ne parviennent pas, malgré le tir acharné de leur artillerie, à nous déloger et le Régiment résiste sur les positions qui ont été assignées jusqu'à 15 heures, se replie ensuite par les bois et par la ville de Senlis. Le 3, le Régiment se dégage et se replie sur Ory-la-Ville, le Lieutenant Colonel DUPERRIER, malade, est évacué et le Chef de Bataillon SELVA prend le commandement du régiment. Le 4, le Régiment cantonne à Dammartin-en-Goele, et prend le lendemain la direction de l'Est, se dirigeant vers Saint-Soupplet."</em></p>
     
@@ -190,7 +190,7 @@
 	    <figcaption>Senlis incendiée par les Allemands le 2 septembre 1914<br/>(cliquez pour agrandir)</figcaption> 
 	</figure>
 
-<br/><h2>La Bataille de la Marne</h2>
+<h2>La Bataille de la Marne</h2>
    
 <p><em>"L'Armée Française prend l'offensive, le 294e Régiment d'Infanterie prend par en 1ère ligne au combat d'Etrépilly et attaque la ferme de Champfleury, dont il s'empare le 5 septembre. Le 6 et le 7, les combats se succèdent très violents et le Régiment poursuivant l'ennemi continue sa progression vers l'Aisne."</em></p>
 
@@ -200,11 +200,11 @@
 	    <figcaption>La ferme de Champfleury après le bombardement<br/>(cliquez pour agrandir)</figcaption> 
 	</figure>
 
-<br/><h2>Le combat sur l'Aisne</h2>
+<h2>Le combat sur l'Aisne</h2>
     
 <p>Le 13 septembre, Émile DUBOIS et son régiment reçoivent l'ordre de traverser l'Aisne. Ils se heurtent à Saconin-et-Breuil, à une résistance acharnée de l'ennemi dont l'artillerie déclenche des barrages continuels sur les ponts (Combat de Vaux-Mercin). Après plusieurs tentatives meurtrières, le Régiment parvient le 15 à franchir la rivière après avoir glissé sur la droite jusque 4 km environ à l'Est de Vic-sur-Aisne, à Fontenoy. Le Régiment se regroupe sur la rive droite et prend part aux combats livrés sur le plateau de Nouvron les 17-18-19 et 20 septembre (Combat de Berry-au-Bac). Placé en réserve le 21, Émile et le 294e Régiment d'Infanterie prennent la direction au Nord et après avoir traversé Carlepont et Ribécourt, et sont embarqués à Compiègne à destination de la Boissière – Fécamp ou s'opère le débarquement.</p>
 
-<br/><h2>La Bataille de l'Oise</h2>
+<h2>La Bataille de l'Oise</h2>
 
 <p>L'historique du 294e R.I continue :<em> "Le repli ennemi s'est arrêté ; les Allemands sont solidement organisés au Sud de Roye. Le Régiment en première ligne vient s'installer aussitôt débarqué à cheval sur la voie ferrée Roye – Compiègne à la hauteur du passage à niveau de Beuvraigne et de l'église de ce village où nos patrouilles se sont heurtées aux avants postes ennemis."</em></p> 
         
@@ -222,7 +222,7 @@
 	    <figcaption>Les ruines de Montdidier (date inconnue)<br/>(cliquez pour agrandir)</figcaption>
 	</figure>  
 
-<br/><h2>Émile, mort pour la France</h2>
+<h2>Émile, mort pour la France</h2>
 
 <p><strong>Émile Edmond DUBOIS </strong> est porté disparu au nord de <a href="http://cartespostalesanciennes.genealexis.fr/album/87-souain" title="cartes postales ancienne de Souain sur le site Genealexis">Souain</a> (Marne, Souain-Perthes-lès-Hurlus depuis le 16 juin 1950) le 8 octobre 1915 à l'âge de 35 ans. Son décès a été fixé à cette date par jugement du tribunal de Dijon le 18 mai 1920. Son nom figure sur le <a href="../releves/villers-guislain.php">Monument aux Morts du village de Villers-Guislain</a> (à côté de Cambrai).</p><p>&nbsp;</p>
 

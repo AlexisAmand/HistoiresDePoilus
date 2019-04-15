@@ -119,16 +119,8 @@
     
 <h1>Raphaël Joseph BOTTIAU</h1>
 
-<p><strong>Raphaël Joseph BOTTIAU</strong> est né le 26 janvier 1880 à Quarouble, fils légitime de Antoine Joseph BOTTIAU et de Léopoldine Augustine JOLY (elle même fille de mon sosa n°80 et de sa 2e épouse). Il arrive au 15e Régiment d'Artillerie de Campagne le 11 août 1914. Libéré provisoirement le 19 août 1914, il est fait prisonnier le 24 août à Quarouble et interné derrière les lignes. Raphaël est envoyé en congés illimités le 12 février 1919 par le dépôt démobilisateur du 15e Régiment d'Artillerie et se retire à Quarouble, où il décède le 19 mars 1926 à son domicile de la Rue du Moulin.</p>
-	
-    <figure>
-        <a href="sources/Bottiau-Raphael-1926.jpg" data-fancybox="gallery" data-caption="Acte de décès de Raphaël BOTTIAU">
-        <img src="miniatures/Bottiau-Raphael-1926.jpg" alt="Acte de décès de Raphaël BOTTIAU issu des AD du Nord"/></a>
-        <figcaption>Acte de décès de Raphaël BOTTIAU<br/>(Source: Archives Départementales du Nord)</figcaption>
-    </figure>
-    
-<p>Aprés avoir épousé en prenières noces Eugénie BRUNEAUX, Raphaël s'était uni en secondes noces à Dhany BOUTEILLE (1880-1927), ménagère et fille légitime de Nicolas BOUTEILLE et de Françoise MOLTEL, le 19 juillet 1924 à Quarouble (Nord).</p>
-    
+<p><strong>Raphaël Joseph BOTTIAU</strong> est né le 26 janvier 1880 à Quarouble, fils légitime de Antoine Joseph BOTTIAU et de Léopoldine Augustine JOLY (elle même fille de mon sosa n°80 et de sa 2e épouse).</p>
+	        
     <table class="census">
         <caption>Liste des domiciles de Raphaël Joseph BOTTIAU</caption>
 	    <thead>
@@ -154,6 +146,10 @@
 	            <td headers="dates">26 janvier 1908</td>
 	            <td headers="adresses">Rue du Marais<br/>à Férin (Nord)</td>          
 	        </tr>
+            <tr>
+	            <td headers="dates">10 février 1908</td>
+	            <td headers="adresses">Férin (Nord)</td>          
+	        </tr>
 	        <tr>
 	            <td headers="dates">25 mai 1908</td>
 	            <td headers="adresses">Bouligny (Meuse)</td>
@@ -176,7 +172,19 @@
 	        </tr>      
         </tbody>
     </table>
-    
+
+<p>Raphaël épouse en premiéres noces Eugénie BRUNEAUX, le couple a un fils né en 1903 à Férin.</p>
+
+<p>Aprés avoir épousé en prenières noces Eugénie BRUNEAUX, Raphaël s'était uni en secondes noces à Dhany BOUTEILLE (1880-1927), ménagère et fille légitime de Nicolas BOUTEILLE et de Françoise MOLTEL, le 19 juillet 1924 à Quarouble (Nord).</p>
+
+<p>Raphaël arrive au 15e Régiment d'Artillerie de Campagne le 11 août 1914. Libéré provisoirement le 19 août 1914, il est fait prisonnier le 24 août à Quarouble et interné derrière les lignes. Raphaël est envoyé en congés illimités le 12 février 1919 par le dépôt démobilisateur du 15e Régiment d'Artillerie et se retire à Quarouble, où il décède le 19 mars 1926 à son domicile de la Rue du Moulin.</p>    
+
+<figure>
+    <a href="sources/Bottiau-Raphael-1926.jpg" data-fancybox="gallery" data-caption="Acte de décès de Raphaël BOTTIAU">
+    <img src="miniatures/Bottiau-Raphael-1926.jpg" alt="Acte de décès de Raphaël BOTTIAU issu des AD du Nord"/></a>
+    <figcaption>Acte de décès de Raphaël BOTTIAU<br/>(Source: Archives Départementales du Nord)</figcaption>
+</figure>
+
 <p class="note"><sup>1</sup>Selon DBL, de Twitter, il s'agit de l'actuelle rue Farès El Khoumi, parallèle à l'avenue de la République, qui longe le port.</p>    
       
 <p class="sources">

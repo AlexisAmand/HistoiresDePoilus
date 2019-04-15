@@ -142,7 +142,7 @@
   </tr>
   </thead>
   <tr>
-    <td headers="nom">ARBONNIER <br/>Léon </td>
+    <td headers="nom">ARBONNIER <br/>Léon</td>
     <td headers="naissance">26 janvier 1897 <br/>à Villers-Pol (Nord)</td>
     <td headers="mort">23 juin 1916<br/>à Dugny (Meuse)</td>
     <td headers="grade">soldat</td>
@@ -210,7 +210,7 @@
     <td headers="corps">165e R.I</td>
   </tr>
   <tr>
-    <td headers="nom">CRETU<br/>Druon </td>
+    <td headers="nom">CRETU<br/>Druon</td>
     <td headers="naissance">2 août 1882<br/>à Sebourg (Nord)</td>
     <td headers="mort">6 avril 1915<br/>à Pintheville (Meuse)</td>
     <td headers="grade">soldat</td>
@@ -238,7 +238,7 @@
     <td headers="corps">327e R.I</td>
   </tr>
   <tr>
-    <td headers="nom">DEHON<br/>Augustin </td>
+    <td headers="nom">DEHON<br/>Augustin</td>
     <td headers="naissance">19 décembre 1879<br/>à Sebourg (Nord)</td>
     <td headers="mort">4 octobre 1914<br/>à Limoges (Haute-Vienne)</td>
     <td headers="grade">soldat</td>
@@ -252,7 +252,7 @@
     <td headers="corps">148e R.I</td>
   </tr>
   <tr>
-    <td headers="nom">DEHON<br/>Émile Louis </td>
+    <td headers="nom">DEHON<br/>Émile Louis</td>
     <td headers="naissance">7 juillet 1893<br/>à Sebourg (Nord)</td>
     <td headers="mort">1er juin 1916<br/>au Bois de la Cailette (Meuse)</td>
     <td headers="grade">soldat</td>
@@ -279,21 +279,21 @@
     <td colspan="2" headers="corps"><strong>victime civile</strong></td>
   </tr>
   <tr>
-    <td headers="nom">DELFOSSE<br/>Henri </td>
+    <td headers="nom">DELFOSSE<br/>Henri</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="grade">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">DELMOTTE<br/>Léon </td>
+    <td headers="nom">DELMOTTE<br/>Léon</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="grade">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">DELVALLEE<br/>Ferdinand </td>
+    <td headers="nom">DELVALLEE<br/>Ferdinand</td>
     <td headers="naissance">1er mars 1882<br/>à Sebourg (Nord)</td>
     <td headers="mort">15 septembre 1914<br/>à Servon (Marne)</td>
     <td headers="grade">soldat</td>
@@ -307,7 +307,7 @@
     <td headers="corps">167e R.I</td>
   </tr>
   <tr>
-    <td headers="nom">DERESMES<br/>Armand </td>
+    <td headers="nom">DERESMES<br/>Armand</td>
     <td headers="naissance">13 mars 1883<br/>à Saint-Remy-Chaussée (Nord)</td>
     <td headers="mort">6 octobre 1915<br/> à <a href="http://cartespostalesanciennes.genealexis.fr/album/87-souain" title="cartes postales ancienne de Souain sur le site Genealexis">Souain</a> (Marne)</td>
     <td headers="grade">sous-lieutenant</td>
@@ -335,7 +335,7 @@
     <td headers="corps">145e R.I</td>
   </tr>
   <tr>
-    <td headers="nom">DUEZ<br/>Alcide </td>
+    <td headers="nom">DUEZ<br/>Alcide</td>
     <td headers="naissance">17 août 1883<br/>à Sebourg (Nord)</td>
     <td headers="mort">11 décembre 1914<br/>à Verdun (Meuse)</td>
     <td headers="grade">soldat</td>
@@ -356,14 +356,14 @@
     <td headers="corps">2e R.I.T</td>
   </tr>
   <tr>
-    <td headers="nom">FRANCOIS<br/>Émile </td>
+    <td headers="nom">FRANCOIS<br/>Émile</td>
     <td headers="naissance">16 juin 1881<br/>à Sebourg (Nord)</td>
     <td headers="mort">12 juin 1916<br/>à Verdun (Meuse)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">348e R.I</td>
   </tr>
   <tr>
-    <td headers="nom">FRANCOIS<br/>Nestor </td>
+    <td headers="nom">FRANCOIS<br/>Nestor</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="grade">&nbsp;</td>
@@ -376,7 +376,7 @@
     <td colspan="2" headers="corps"><strong>victime civile</strong></td>
   </tr>
   <tr>
-    <td headers="nom">GRAVELLE<br/>Alexandre Joseph</td>
+    <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_gravelle%20alexandre.pdf" title=" ">GRAVELLE<br/>Alexandre Joseph</a></td>
     <td headers="naissance">23 mars 1870<br/>à Sebourg (Nord)</td>
     <td>2 février 1915<br/>à <a href="../camps/camp-minden.php" title="le camp allemand de Minden">Minden (Allemagne)</a></td>
     <td>soldat</td>
@@ -403,7 +403,7 @@
     <td  headers="corps" colspan="2"><strong>victime civile</strong></td>
   </tr>
   <tr>
-    <td headers="nom">HOT<br/>Louis Isidore </td>
+    <td headers="nom">HOT<br/>Louis Isidore</td>
     <td headers="naissance">15 janvier 1891<br/>à Sebourg (Nord)</td>
     <td headers="mort">9 décembre 1914<br/>à Saint-Hubert (Marne)</td>
     <td headers="grade">caporal</td>
@@ -416,7 +416,7 @@
     <td colspan="2" headers="corps"><strong>victime civile</strong></td>
   </tr>
   <tr>
-    <td headers="nom">HOUZE<br/>Fernand </td>
+    <td headers="nom">HOUZE<br/>Fernand</td>
     <td headers="naissance">15 avril 1891<br/>à Valenciennes (Nord)</td>
     <td headers="mort">28 octobre 1914 à bord<br/>du torpilleur "Le mousquet"</td>
     <td headers="grade">apprenti<br/>marin</td>
@@ -461,7 +461,7 @@
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">LEPINE<br/>Odon Louis </td>
+    <td headers="nom">LEPINE<br/>Odon Louis</td>
     <td headers="naissance">3 août 1886<br/>à Sebourg (Nord)</td>
     <td headers="mort">15 octobre 1916<br/>à Sailly-Saillisel (Somme)</td>
     <td headers="drage">soldat</td>
@@ -488,7 +488,7 @@
     <td headers="corps">144e R.I</td>
   </tr>
   <tr>
-    <td headers="nom">MARIN<br/>Paul </td>
+    <td headers="nom">MARIN<br/>Paul</td>
     <td headers="naissance">&nbsp;</td>
     <td headers="mort">&nbsp;</td>
     <td headers="corps">&nbsp;</td>
@@ -536,7 +536,7 @@
     <td colspan="2" headers="corps"><strong>victime civile</strong></td>
   </tr>
   <tr>
-    <td headers="nom">PISSON<br/>Philippe </td>
+    <td headers="nom">PISSON<br/>Philippe</td>
     <td headers="naissance">26 septembre 1884<br/>à Sebourg (Nord)</td>
     <td headers="mort">23 novembre 1914<br/>à Dunkerque (Nord)</td>
     <td headers="grade">soldat</td>
@@ -557,14 +557,14 @@
     <td headers="genre">&nbsp;</td>
   </tr>
   <tr>
-    <td headers="nom">RICHARD<br/>Ernest </td>
+    <td headers="nom">RICHARD<br/>Ernest</td>
     <td headers="naissance">6 avril 1892<br/>à Sebourg (Nord)</td>
     <td headers="mort">3 septembre 1916<br/>à Maurepas (Somme)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">127e R.I</td>
   </tr>
   <tr>
-    <td headers="nom">VALLE<br/>Félix </td>
+    <td headers="nom">VALLE<br/>Félix</td>
     <td headers="naissance">13 novembre 1878<br/>à Sebourg (Nord)</td>
     <td headers="mort">12 septembre 1918<br/>à Marseille (Bouches-du-Rhône)</td>
     <td headers="grade">soldat</td>
@@ -585,7 +585,13 @@
   </tr>
 </table>
 
-<br/>
+<h2>Sources</h2>
+
+<ul>
+  <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
+  <li>Mémoire des Hommes (Ministère de la Défense)</li>
+  <li><a href="http://agfh59.free.fr/memorial_14_18/agfh_1418_hommes.htm" title=" ">Notices biographiques de l'AGFH</li>
+</ul>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

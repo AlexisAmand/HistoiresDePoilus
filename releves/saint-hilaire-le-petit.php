@@ -232,7 +232,7 @@
   <tr>
     <td headers="nom">HENNEQUIN<br/>Émile Paul</td>
     <td headers="naissance">Le 22 Mai 1893<br/>à St-Hilaire-le-Petit</td>
-    <td headers="mort">Le 5 avril 1917<br/>à Lunéville (M. et Moselle)</td>
+    <td headers="mort">Le 5 avril 1917<br/>à Lunéville (Meurthe-et-Moselle)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">36e R.I</td>
     <td headers="genre">Maladie contractée en service</td>

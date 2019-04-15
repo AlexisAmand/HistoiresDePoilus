@@ -66,8 +66,8 @@
         <li class="asideheader">Nord</li>
 
         <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
-		<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
-		<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
+		    <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
+		    <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
@@ -127,11 +127,50 @@
 <p>Il est cité à l'ordre général n°38 du 30 octobre 1915 pendant son "séjour" au sein du 53e Régiment d'Infanterie.</p>
     
 	<figure>
-        <a href="images/carte-oscar-delaux.png" data-fancybox="gallery" data-caption="Carte d'ancien combattant d'Oscar DELAUX">
-        <img src="miniatures/carte-oscar-delaux.png" alt="Carte du combattant d'Oscar DELAUX"/></a>
-        <figcaption>Carte du combattant d'Oscar DELAUX<br/>(Source: Archives Départementales du Nord)</figcaption>
-    </figure>
-    
+    <a href="images/carte-oscar-delaux.png" data-fancybox="gallery" data-caption="Carte d'ancien combattant d'Oscar DELAUX">
+    <img src="miniatures/carte-oscar-delaux.png" alt="Carte du combattant d'Oscar DELAUX"/></a>
+    <figcaption>Carte du combattant d'Oscar DELAUX<br/>(Source: Archives Départementales du Nord)</figcaption>
+  </figure>
+
+  <table class="census">
+	    <caption>Liste des domiciles d'Oscar</caption>
+	    <thead>
+	        <tr>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+          <tr>
+              <td headers="date">1906</td>
+              <td headers="adresse">Rue Desaix<br>à Roubaix (Nord)</td>
+          </tr>
+	        <tr>
+	            <td headers="date">1 avril 1921</td>
+	            <td headers="adresse">32 rue du Halage<br/>à Anzin (Nord)</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">23 décembre 1921</td>
+	            <td headers="adresse">32 rue du Halage<br/>à Anzin (Nord)</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">12 novembre 1929</td>
+	            <td headers="adresse">rue du Marché<br/>à Lille (Nord)</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">5 avril 1935</td>
+	            <td headers="adresse">34 rue Aristote<br/>à Lille (Nord)</td>
+	        </tr>
+	    </tbody>   
+	</table>
+
+<h2>Sources et bibliographie</h2>
+
+<ul>
+  <li>Fiche matricule (Archives Départementales du Nord)</li>
+  <li>Carte du combattant (Archives Départementales du Nord)</li>
+</ul>
+
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
 </p>
@@ -150,6 +189,5 @@
 <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
 <script type="text/javascript" src="../js/script.js"></script>
 
- 
 </body>
 </html>

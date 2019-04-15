@@ -86,33 +86,23 @@
 
 <h1>Jules AMAND</h1>
 
-<p><strong>Jules AMAND</strong> est né à Boussu (Belgique) le 24 novembre 1888, fils de Jules AMAND et Antoinette AMAND. Ma parenté avec lui étant assez compliqué, je vous ai préparé un petit arbre généalogique pour résumé tout ça. Il contient uniquement les porteurs du patronyme AMAND.</p> 
+<p>Antoine AMAND est né le 24 novembre 1888 à Boussu (Belgique), fils légitime de Jules AMAND et Antoinette AMAND. Les liens qui m’unissent aux parents d’Antoine sont assez compliqués car je suis parent à la fois avec sa mère et son père qui sont eux-mêmes cousins.</p> 
 
  	<figure>
-        <a href="images/arbre-amand.png" data-fancybox="gallery" data-caption="Arbre généalogiqe simplifié de Jules AMAND">
-        <img src="miniatures/arbre-amand.png" alt="Arbre généalogique simplifié de Jules AMAND" class="ArbreGenealogique"></a>
+        <a href="images/arbre-amand.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de Jules AMAND">
+        <img src="miniatures/arbre-amand.png" alt="Arbre généalogique simplifié de Jules AMAND" class="ArbreGenealogique" style="width:470px;"></a>
         <figcaption>Arbre généalogiqe simplifié de Jules AMAND<br/>(Source: Recherches personnelles)</figcaption>
     </figure>
-    
-<p>Soldat de 2e classe et milicien au sein du 9e Régiment de Ligne pendant la Grande Guerre sous le matricule 109/54524. Sa fiche sépulture indique qu'il est probable qu'il soit tombé au combat le 6 août 1914 au Bois Saint-Jean à Ougrée (prés de Liège) étant entendu que son livret de mobilisation a été retrouvé sur le champ de bataille de cette commune. L'ancêtre que j'ai en commun avec lui est Jean Joseph AMAND, mon sosa n°256, 8 générations avant moi. (source: <a href="https://www.wardeadregister.be/fr">Dead War Register</a>)</p>
 
+<p>Pendant la Grande Guerre, Antoine est soldat de 2e classe et milicien au sein du 9e Régiment de Ligne sous le matricule 109/54524. Antoinette AMAND, sa mère, est fixée sur le sort de son fils seulement 6 ans après la fin de la guerre, quand son livret de mobilisation est retrouvé sur le champ de bataille d’Ougrée, à côté de Liège. Antoine serait tombé au combat le 6 août 1914, à l’âge de 25 ans. D’après ce que j’ai pu comprendre sur les documents du site Dead War Register, son corps aurait été retrouvé dans la fosse commune du Gros Hêtre. il est probable qu'il soit tombé au combat le 6 août 1914 étant entendu que son livret de mobilisation a été retrouvé sur le champ de bataille de la commune d'Ougrée.</p>  
+    
     <figure>
         <a href="sources/amand-jules-01.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
         <img src="miniatures/amand-jules-01.jpg" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
         <figcaption>Fiche Sépultures et cimetières militaires<br/>(Source: War Heritage Institute)</figcaption>
     </figure>
 
-	<figure>
-        <a href="sources/amand-jules-02.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
-        <img src="miniatures/amand-jules-02.jpg" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
-        <figcaption>Fiche Sépultures et cimetières militaires<br/>(Source: War Heritage Institute)</figcaption>
-    </figure>
-    
-    <figure>
-        <a href="sources/amand-jules-03.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
-        <img src="miniatures/amand-jules-03.jpg" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
-        <figcaption>Fiche Sépultures et cimetières militaires<br/>(Source: War Heritage Institute)</figcaption>
-    </figure>
+<p>Son nom figure sur le monument aux morts d'Ougrée dédié au 9e Régiment d'Infanterie de Ligne.</p>
 
     <figure>
     	<a href="images/ougree.jpg" data-fancybox="gallery" data-caption="Jules AMAND sur le monument d'Ougrée en Belgique">

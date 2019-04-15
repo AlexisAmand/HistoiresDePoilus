@@ -228,9 +228,9 @@
 		<li>Les poilus de la Marne
 		<ul>		        
 		    <li><a href="/poilus/arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
-		    <li><a href="/poilus/astiers-jules-alphonse.php">ASTIERS Jules Alphonse</a></li>       
+		    <li><a href="/poilus/astiers-jules-alphonse.php">ASTIER(S) Jules Alphonse</a></li>       
 		    <li><a href="/poilus/BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-		    <li><a href="/poilus/caron-eugene-alexandre.php">CARON Eugéne Alexandre</a></li>
+		    <li><a href="/poilus/caron-eugene-alexandre.php">CARON Eugène Alexandre</a></li>
 		    <li><a href="/poilus/MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
 		    <li><a href="/poilus/MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
 		    <li><a href="/poilus/paquet-leopold.php">PAQUET Léopold</a></li>		  	      

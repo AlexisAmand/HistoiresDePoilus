@@ -252,7 +252,7 @@
   <tr>
     <td headers="nom">DELAGLOYE<br/>Georges</td>
     <td headers="naissance">le 19 octobre 1895<br/>à Bétheniville (Marne)</td>
-    <td headers="mort">le 22 juillet 1915<br/>à Barrenkopf (68)</td>
+    <td headers="mort">le 22 juillet 1915<br/>à Barrenkopf (Haut-Rhin)</td>
     <td headers="classe">1915</td>
     <td headers="corps">106e B.C.A</td>
     <td headers="genre">tué à l'ennemi</td>
@@ -292,7 +292,7 @@
   <tr>
     <td headers="nom">DUPUIT<br/>Jean Joseph Paul</td>
     <td headers="naissance">le 21 septembre 1886<br/>à Tagnon (Ardennes)</td>
-    <td headers="mort">le 9 juin 1918<br/>à Gury (60)</td>
+    <td headers="mort">le 9 juin 1918<br/>à Gury (Oise)</td>
     <td headers="classe">1906</td>
     <td headers="corps">11e C.P</td>
     <td headers="genre">tué à l'ennemi</td>
@@ -363,8 +363,8 @@
   </tr>
   <tr>
     <td headers="nom">LANGLOIS<br/>Henri Georges</td>
-    <td headers="naissance">le 23 janvier 1883<br/>à Boulogne / Mer (62)<sup>1</sup></td>
-    <td headers="mort">le 5 septembre 1914<br/>à Saint-Soupplets (77)</td>
+    <td headers="naissance">le 23 janvier 1883<br/>à Boulogne / Mer (Pas-de-Calais)<sup>1</sup></td>
+    <td headers="mort">le 5 septembre 1914<br/>à Saint-Soupplets (Seine-et-Marne)</td>
     <td headers="classe">1903</td>
     <td headers="corps">65e B.C.P</td>
     <td headers="genre">tué à l'ennemi</td>
@@ -372,7 +372,7 @@
   <tr>
     <td headers="nom">LAPOULE<br/>Alfred</td>
     <td headers="naissance">le 25 juillet 1879<br/>à Bétheniville (Marne)</td>
-    <td headers="mort">le 4 septembre 1918<br/>à Bruyeres (88)</td>
+    <td headers="mort">le 4 septembre 1918<br/>à Bruyeres (Vosges)</td>
     <td headers="classe">1899</td>
     <td headers="corps">14e ?</td>
     <td headers="genre">des suites de maladie contractée en service</td>
@@ -426,7 +426,7 @@
   </tr>
   <tr>
     <td headers="nom">PESSIN<br/>Clotaire</td>
-    <td headers="naissance">le 3 juin 1889<br/>à Hermeray (Seine et Oise)</td>
+    <td headers="naissance">le 3 juin 1889<br/>à Hermeray (Seine-et-Oise)</td>
     <td headers="mort">le 10 septembre 1914<br/>à Rembercourt au Pot (Meuse)</td>
     <td headers="classe">1909</td>
     <td headers="corps">106e R.I</td>
@@ -491,7 +491,7 @@
   <tr>
     <td headers="nom">SANTAMBIEN<br/>Georges Gustave Victor</td>
     <td headers="naissance">le 26 août 1895<br/>à Bétheniville (Marne)</td>
-    <td headers="mort">le 9 mai 1915<br/>à Roclincourt (62)</td>
+    <td headers="mort">le 9 mai 1915<br/>à Roclincourt (Pas-de-Calais)</td>
     <td headers="classe">1915</td>
     <td headers="corps">7e R.I</td>
     <td headers="genre">tué à l'ennemi</td>
@@ -558,7 +558,12 @@
 
 <p class="note"><sup>1</sup>Le livre d'Or indique Boulogne-sur-Mer dans le Pas-de-Calais, la fiche du site Memoire des Hommes indique quant à elle Boulogne dans l'ancien département de la Seine.</p>
 
-<?php /* indiquer les sources : Livre d'or du Ministère des pensions (Archives Nationales), Mémoire des Hommes (Ministère de la Défense), CPA ? */ ?>
+<h2>Sources</h2>
+
+<ul>
+  <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
+  <li>Mémoire des Hommes (Ministère de la Défense)</li>
+</ul>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

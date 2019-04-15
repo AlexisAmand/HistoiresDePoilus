@@ -157,7 +157,7 @@
 
 <p>Inscrit sous le n°1 de la liste de Marcoing, Adrien est incorporé au <strong>1er Régiment d'Infanterie</strong> qu'il rejoint le 3 octobre 1910 en tant que soldat de 2e classe. Il est envoyé en congé le 25 septembre 1912 en attendant son passage dans la réserve de l'armée active avec <em>certificat de bonne conduite accordé.</em></p>
 
-<br/><h2>Adrien et le Ier R.I</h2>
+<h2>Adrien et le Ier R.I</h2>
 
 <p>A <a href="mobilisation-1914" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, <strong>Adrien VELU</strong> rejoint le <strong>1er Régiment d'Infanterie</strong> en tant que soldat de 2e classe. Le régiment part de Cambrai par voie ferrée dès le 5 août et arrive à Rumigny le même jour. Le 1er R.I s'est illustré en Argonne, à Verdun, au Chemin des Dames, dans la Somme, dans l'Aisne et pendant la Bataille de la Marne.</p> 
     
@@ -169,7 +169,7 @@
     
 <p>3300 de ses hommes, dont <strong>Adrien</strong>, donneront leurs vies et lui vaudront quatre citations à l'ordre de l'armée. Le 19 octobre 1918, le Général de CASTELNAU le décore de la fourragère au couleur de la médaille militaire.</p>
 
-<br/><h2>Adrien, mort pour la France</h2>
+<h2>Adrien, mort pour la France</h2>
 
 <p><strong>Adrien</strong> contracte la fièvre typhoïde pendant son service et est déclaré mort pour la France le 2 avril 1915 à <a href="../hopitaux/hopitaux-ges.php"  title="Les hôpitaux pendant la Grande Guerre">l'hôpital temporaire n°18 de Corbineau</a> (Châlons-sur-Marne, devenu  Châlons-en-Champagne depuis le 17 novembre 1995).</p>
 

@@ -142,7 +142,7 @@
   </thead>
   <tr>
     <td headers="nom">BAILLEUX<br/>Adolphe Jean Baptiste</td>
-    <td headers="naissance">31 août 1889<br/>à Préseau  (Nord)</td>
+    <td headers="naissance">31 août 1889<br/>à Préseau (Nord)</td>
     <td headers="mort">3 mars 1915<br/>à Beauséjour (Marne)</td>
     <td headers="corps">91e R.I<br/>Soldat</td>
     <td headers="genre">Tué à l'ennemi</td>

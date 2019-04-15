@@ -226,10 +226,10 @@
         </tr>
         <tr>
             <td>Total</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
     </table>
     

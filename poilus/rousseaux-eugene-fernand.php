@@ -65,8 +65,8 @@
         <li class="asideheader">Nord</li>
 
         <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
-		<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
-		<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
+	      <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
+		    <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
@@ -120,6 +120,34 @@
 <h1>Eugène Fernand ROUSSEAUX</h1>
         
 <p><strong>Eugène Fernand ROUSSEAUX</strong>, né en 1891 à Roubaix (Nord) et prisonnier de guerre au camp de <a href="../camps/camp-hammerstein.php" title="Le camp de prisonniers de Hammerstein">Hammerstein</a> puis à celui de <a href="../camps/camp-minden.php" title="Le camp de prisonniers de Minden">Minden</a>. Eugène est le petit-fils de Léonie FIEVET (ma sosa n°97), et le cousin de <a href="FIEVET-Charles-Augustin.php">Charles</a> et <a href="FIEVET-Auguste-Victor.php" title="Biographie du poilu Auguste FIEVET">Auguste FIEVET</a> (par contre, ils n'ont que 3 de leurs 4 grand-parents en commun car Léonie a eu des enfants avec 2 hommes différents)</p>
+
+<table class="census">
+	    <caption>Liste des domiciles d'Eugène</caption>
+	    <thead>
+	        <tr>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	    </tbody>   
+	</table>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

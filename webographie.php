@@ -57,7 +57,7 @@
     
     <p>Vous trouverez sur cette page la liste de toutes les ressources qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. Il peut s'agir de sites web, de livres ou même de revues. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php">me contacter</a> si vous avec une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p>Certains documents sont <strong>des pdf</strong>, selon la configuration de votre ordinateur, ils peuvent <strong>mettre un petit moment à s'afficher</strong>. Pour lire ces pdf, vous devez posséder un logiciel comme Adobe Reader, que vous pouvez <a href="https://get.adobe.com/fr/reader/" title=" ">télécharger gratuitement ici</a>.</p>
 
-    <br/><h2>Dossiers d'anciens combattants</h2>
+    <h2>Dossiers d'anciens combattants</h2>
 
     <ul>
 		<li><a href="http://archives.genealexis.fr/album/13-carlier-druon-joseph" title="version numérisée du dossier d'ancien combattant de Druon Joseph CARLIER">
@@ -211,6 +211,12 @@
     </ul>
     
 	<br/><br/>
+
+    <h2>Notices Biographiques</h2>    
+
+    <li><a href="http://agfh59.free.fr/memorial_14_18/agfh_1418_hommes.htm" title=" ">Notices biographiques réalisées par l'AGFH</a></li>
+
+    <br/><br/>
 	
 	<h2>Documents officiels</h2>
     
@@ -230,6 +236,7 @@
         <li><a href="https://amzn.to/2LqzGM2" title=" ">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
         <li><a href="https://amzn.to/2NuoqQb" title=" ">Recherchez vos ancêtres soldats et leur famille (1914-1918)</a><br/>(Martin Média / Revue Française de Généalogie)</li>
         <li><a href="http://www.rfgenealogie.com" title=" ">Les médailles et décorations</a><br/>(Martin Média / Revue Française de Généalogie)</li>
+        <li><a href="https://amzn.to/2UXyxnc">Guide pratique des décorations françaises actuelles</a> par J. BATTINI et W. ZANIEWICKI (Lavauzelle)</li>
     </ul>
     
     <br/><br/>

@@ -76,10 +76,10 @@
                     </tr>
                 </thead> 
                 <tr>
-				    <td headers="lieu"> </td>
-				    <td headers="bataille"> </td>
-				    <td headers="date"> </td>
-				    <td headers="issue"> </td>
+				    <td headers="lieu"></td>
+				    <td headers="bataille"></td>
+				    <td headers="date"></td>
+				    <td headers="issue"></td>
 				</tr> 
             </table>
 

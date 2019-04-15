@@ -215,7 +215,7 @@
   <tr>
     <td headers="nom">JAUVIN<br/>Armand Arthur</td>
     <td headers="naissance">Le 19 octobre 1887<br/>à Tinqueux (Marne)</td>
-    <td headers="mort">Le 26 août 1914<br/>à Saint-Jean-de-Buzy</td>
+    <td headers="mort">Le 26 août 1914<br/>à Saint-Jean-de-Buzy (Meuse)</td>
     <td headers="corps">354e R.I</td>
     <td headers="genre">&nbsp;</td>
   </tr>

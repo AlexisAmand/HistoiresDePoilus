@@ -167,7 +167,7 @@
 	    </tbody>   
 	</table>
 
-<p>La photo ci-dessus date sans doute du début des années 20. Il s'agit d'un extrait d'une photo de groupe prise lors du conseil de révision de son fils Charles Jules Henri. De gauche à droite, on trouve Kleber Camille (né en 1910, fils de Charles Augustin), Charles Jules (pére de Charles Augustin), Charles Jules Henri (né en 1903) et Charles Augustin... j'espère que vous avez suivi avec attention...</p>
+<p>La photo ci-dessus date sans doute du début des années 20. Il s'agit d'un extrait d'une photo de groupe prise lors du conseil de révision de son fils Charles Jules Henri. De gauche à droite, on trouve Kleber Camille (né en 1910, fils de Charles Augustin), Charles Jules (père de Charles Augustin), Charles Jules Henri (né en 1903) et Charles Augustin... j'espère que vous avez suivi avec attention...</p>
 
 	<figure>
 	    <a href="portraits/Le-conseil-de-revision.jpg" data-fancybox="gallery" data-caption="Le conseil de révision">
@@ -177,7 +177,7 @@
 
 <p>Le 2 décembre 1907, <strong>Charles Augustin</strong> épouse à Roubaix (Nord) Nathalie Emilie DELAUX, mécanicienne, la fille légitime d'Adolphe Auguste DELAUX et de Josephine RICHOMME. Le couple aura deux enfants: Charles Jules Henri (né en 1903) et Kléber Camille (né en 1910).</p>
 
-<br/><h2>La mobilisation d'août 1914</h2>
+<h2>La mobilisation d'août 1914</h2>
 
 <p>Soldat de 2e classe âgé de 32 ans en 1914, <strong>Charles Augustin</strong> est mobilisé et rejoint le <strong>162e Régiment d'Infanterie</strong>. Je connais peut de chose sur son destin pendant le conflit. Mon seul indice ? Il est prisonnier de guerre à <a href="../camps/camp-gardelegen.php">Gardelegen (Allemagne)</a>. </p>
 

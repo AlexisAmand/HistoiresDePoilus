@@ -152,7 +152,7 @@
 	    </tbody>   
 	</table>
 
-<br/><h2>La mobilisation d'août 1914</h2>
+<h2>La mobilisation d'août 1914</h2>
 
 <p>Lors de <a href="mobilisation-1914" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, <strong>Louis</strong> est âgé de 38 ans et est le père de 6 enfants: Marguerite, Marthe, Marcel, Maurice, Fortunée et Hélène (mon arrière-grand-mère). Il rejoint le <strong>3e Régiment d'Infanterie Territoriale</strong> qui cantonnait à Hautmont. Au début de la guerre, Les régiments d'infanterie territoriale (R.I.T), sont essentiellement constitués de citoyens anciens nés entre 1875 et 1880. Ils sont surtout assignés à des missions plus statiques, moins exposées: gares, nœuds ferroviaires, ponts, entrepôts, places fortes, etc. </p>
 
@@ -164,11 +164,11 @@
 	    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br/>et position des troupes le 3 septembre 1914<br/>(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
 	</figure>
 
-<br/><h2>L'attaque des allemands</h2>
+<h2>L'attaque des allemands</h2>
 
 <p>Le 2 septembre, les bombardements reprennent sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance.</p>
 
-<br/><h2>Les drapeaux de la garnison sont brûlés</h2>
+<h2>Les drapeaux de la garnison sont brûlés</h2>
 
 <p>Deux jours plus tard - le 4 septembre - le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e , 2e , 3e (celui de <strong>Louis</strong>) et 4e  territorial et enfin celui du 1er régiment d'artillerie à pied.</p><p> Les drapeaux de la garnison sont brûlés le lendemain à 7 heures du matin dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande une cérémonie qui émotionne fortement les assistants.</p>
 
@@ -178,7 +178,7 @@
 	    <figcaption>La Caserne Joyeuse à Maubeuge<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
-<br/><h2>C'est fini pour Maubeuge...</h2>
+<h2>C'est fini pour Maubeuge...</h2>
 
 <p>Le 7 septembre, à 11 heures 30, le Drapeau blanc est aperçu sur un clocher de Maubeuge. La Place de Maubeuge a capitulé. <strong>Louis GRAIN</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> furent entièrement fait prisonnier et furent parmi les 45 000 combattants de la poche de Maubeuge à être internés dans les camps allemands dont celui de <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">Chemnitz</a>, entre Dresde et Zwickau,  où ira Louis. </p>
 
@@ -190,7 +190,7 @@
 
 <p>Selon son dossier d'ancien combattant, <strong>Louis</strong> est libéré du <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de Chemnitz</a> le 8 janvier 1919.</p>
 
-<br/><h2>...mais à Villers-Guislain, la guerre arrive.</h2>
+<h2>...mais à Villers-Guislain, la guerre arrive.</h2>
 
 <p>Dans son ouvrage "La France Occupée", Philippe Nivet raconte que le village de Villers-Guislain, où sont nés <a href="GRAIN-Louis.php">Louis</a> et <a href="GRAIN-Leon-Albert.php">Léon Albert GRAIN</a>, est occupé depuis 1914. En 1916, les Allemands ont demandé à la mairie une dizaine de jeune fille pour placer les cartouches dans les bandes de chargement; comme aucune volontaire ne s'est présentée, les Allemands en ont emprisonné 4 pendant 2 heures et ont fait savoir qu'ils mettraient toutes les filles en prison si la commune ne présentaient pas des volontaires. Six jeunes filles se sont finalement résignées à la faire le travail exigé. </p>
 

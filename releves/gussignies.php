@@ -250,7 +250,7 @@
   <tr>
     <td headers="nom">DUPONT<br/>Jules Louis</td>
     <td headers="naissance">8 janvier 1874<br/>à Gussignies</td>
-    <td headers="mort">27 octobre 1916<br/>au Lazaret de <a href="../camps/camp-hagen.php">Hagen</a> (Allemagne)</td>
+    <td headers="mort">27 octobre 1916<br/>au Lazaret de <a href="../camps/camp-hagen.php" title="le camp de prisonniers de Hagen">Hagen</a> (Allemagne)</td>
     <td headers="grade">soldat</td>
     <td headers="corps">4e R.I.T</td>
     <td headers="genre">Maladie contractée en captivité</td>
@@ -307,11 +307,11 @@
   </tr>     
   <tr>
     <td headers="nom">NALENNE<br/>Oscar Joseph</td>
-    <td headers="naissance">18 novembre 1873<br/>à Bousignies-a-Bac (Nord) </td>
+    <td headers="naissance">18 novembre 1873<br/>à Bousignies-a-Bac (Nord)</td>
     <td headers="mort">28 février 1915<br/>à Beauséjour (Marne)</td>
     <td headers="grade">91e R.I</td>  
     <td headers="corps">soldat</td>
-    <td headers="genre"> </td>
+    <td headers="genre"></td>
   </tr>
   <tr>
     <td headers="nom">PANGRAZZI<br/>Camille</td>
@@ -324,7 +324,7 @@
   <tr>
     <td headers="nom">PERSIEAU<br/>Jules</td>
     <td headers="naissance">22 août 1882<br/>à Gussignies</td>
-    <td headers="mort">29 septembre 1918<br/>à Sainte-Marie à Py</td>
+    <td headers="mort">29 septembre 1918<br/>à Sainte-Marie-à-Py (Marne)</td>
     <td headers="grade">407e R.I</td>
     <td headers="corps">sergent</td>
     <td headers="genre">Tué à l'ennemi</td>
@@ -353,7 +353,12 @@
   </tr>  
 </table>
 
-<?php /* indiquer les sources : Livre d'or du Ministère des pensions (Archives Nationales), Mémoire des Hommes (Ministère de la Défense), CPA ? */ ?>
+<h2>Sources</h2>
+
+<ul>
+  <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
+  <li>Mémoire des Hommes (Ministère de la Défense)</li>
+</ul>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

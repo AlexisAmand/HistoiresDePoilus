@@ -142,7 +142,7 @@
   </thead>
   <tr>
     <td headers="nom">ALGLAVE<br/>Nestor Nicolas</td>
-    <td headers="naissance">Le 6 décembre 1885<br/>à Vicq </td>
+    <td headers="naissance">Le 6 décembre 1885<br/>à Vicq</td>
     <td headers="mort">Le 18 septembre 1914<br/>à Orléans (Loiret)</td>
     <td headers="corps">291e R.I<br/>(caporal)</td>
     <td  headers="genre">&nbsp;</td>
@@ -282,7 +282,7 @@
   </tr>
   <tr>
     <td headers="nom">LIEGEOIS<br/>Ernest</td>
-    <td headers="naissance">Le 9 juin 1893<br/>à Lens (P. de Calais)</td>
+    <td headers="naissance">Le 9 juin 1893<br/>à Lens (Pas-de-Calais)</td>
     <td headers="mort">Le 11 novembre 1914<br/>à Ste-Menehould (Meuse)</td>
     <td headers="corps">147e R.I</td>
     <td  headers="genre">&nbsp;</td>
@@ -303,7 +303,7 @@
   </tr>
   <tr>
     <td headers="nom">MOREAU<br/>Forcinal</td>
-    <td headers="naissance">Le 7 fuillet 1894<br/>à Liévin (P. de Calais)</td>
+    <td headers="naissance">Le 7 fuillet 1894<br/>à Liévin (Pas-de-Calais)</td>
     <td headers="mort">Le 28 mars 1917<br/>à Concevreux (Aisne)</td>
     <td headers="corps">3e R.G<br/>(sergent)</td>
     <td  headers="genre">&nbsp;</td>
@@ -358,6 +358,13 @@
     <td  headers="genre">&nbsp;</td>
   </tr>
   </table>
+
+  <h2>Sources</h2>
+
+<ul>
+  <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
+  <li>Mémoire des Hommes (Ministère de la Défense)</li>
+</ul>
 
 <p class="sources">
 <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 

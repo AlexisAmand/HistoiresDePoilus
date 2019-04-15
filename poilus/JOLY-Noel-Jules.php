@@ -162,7 +162,7 @@
 	    </tbody>   
 	</table>
 
-<br/><h2>La mobilisation d'août 1914</h2>
+<h2>La mobilisation d'août 1914</h2>
 
 <p>Selon sa fiche matricule, <strong>Noël Jules</strong> devient soldat 2e classe au sein du <strong>2e Régiment d'Infanterie Territoriale</strong>. En 1914, Les régiments d'infanterie territoriale (R.I.T), sont essentiellement constitués de citoyens anciens nés entre 1875 et 1880. Ils sont surtout assignés à des missions plus statiques, moins exposées: gares, nœuds ferroviaires, ponts, entrepôts, places fortes, etc. Noël, quant à lui, cantonne à  Ferrière.</p>
 
@@ -172,7 +172,7 @@
 	    <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
-<br/><h2> Noël et le "Centre de résistance de Rocq"</h2>
+<h2> Noël et le "Centre de résistance de Rocq"</h2>
 
 <p>Selon son dossier d'ancien combattant, <strong>Noël Jules</strong> fait partie de la 16e batterie du 13e groupe auxiliaire du <strong>1er Régiment d'Artillerie à Pied</strong> sous les ordres du capitaine Lafeuille (voir document en bas de la page). Pourquoi une telle différence entre la fiche matricule, qui indique le 2e R.I.T, et sa carte d'ancien combattant qui indique 1er R.A.P ? Mystère...!</p><p>Les soldats du 1er Régiment d'Artillerie à Pied étaient stationnés sur l'ensemble qui prendra le nom de « Centre de résistance de Rocq ». </p><p>Le 2 septembre 1914, le bombardement reprend sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance. </p>
     
@@ -190,7 +190,7 @@
 	    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br/>et position des troupes le 3 septembre 1914<br/>(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
 	</figure>   
 
-<br/><h2>La chute de Maubeuge</h2>
+<h2>La chute de Maubeuge</h2>
 
 <p>Le Gouverneur fait rassembler les drapeaux de la garnison le 4 septembre. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e , 2e , 3e  et 4e  territorial et enfin celui du 1er régiment d'artillerie à pied. Le lendemain, à 7 heures du matin, les drapeaux de la garnison sont brûlés dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
 
@@ -200,7 +200,7 @@
 	    <figcaption>La Caserne Joyeuse à Maubeuge<br/>(cliquez pour agrandir)</figcaption>
 	</figure>
 
-<br/><h2>Prisonnier en Allemagne</h2>
+<h2>Prisonnier en Allemagne</h2>
 
 <p><strong>Noël Jules</strong> est fait prisonnier le 7 septembre. Les troupes françaises de Maubeuge capturées à Maubeuge sont ensuite rassemblées à Rousies et une partie (dont <strong>Noël Jules JOLY</strong>) est envoyée en internement  à <a href="../camps/camp-friedrichsfeld.php">Friedrichsfeld</a> (Allemagne) et <a href="../camps/camp-munster.php">Munster III</a>. <strong>Noël</strong> sera  interné à Munster III du 7 septembre 1914 au 18 décembre 1918.</p>
 
@@ -212,7 +212,7 @@
 
 <p><strong>Noël Jules</strong> est libéré le 18 décembre 1918 et envoyé en congé illimité le 11 février 1919 par le 1er d'artillerie. Il se retire à Onnaing, rue Émile Zola.</p>
 
-<br/><h2>L'après guerre de Noël</h2>
+<h2>L'après guerre de Noël</h2>
 
 <p>Le 9 septembre 1929, <strong>Noël Jules</strong> se voit délivrer une carte d'ancien combattant par le comité départemental. Il habite alors 30 rue Voltaire à Onnaing.</p>
 

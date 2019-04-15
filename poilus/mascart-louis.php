@@ -119,9 +119,9 @@
     
 <h1>Louis MASCART</h1>
 
-<p>Louis MASCART est né à Onnaing le 1 février 1892, frére de Léon, il est lui aussi le fils légitime de Léon MASCART et de Philomène DOYE.</p>
+<p>Louis MASCART est né à Onnaing le 1 février 1892, frère de Léon, il est lui aussi le fils légitime de Léon MASCART et de Philomène DOYE.</p>
 
-<p>En 1906, il est aide traceur chez Barbier et Cie, et vit avec sa mére Rue Fontaine, à Onnaing.</p>
+<p>En 1906, il est aide traceur chez Barbier et Cie, et vit avec sa mère Rue Fontaine, à Onnaing.</p>
 
 <p>Il est décidé le 15 janvier 1919 à <a href="../hopitaux/hopitaux-naq.php">l'hôpital Chastaing</a> de Limoges des suites de ses blessures.</p>
 

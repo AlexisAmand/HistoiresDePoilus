@@ -65,8 +65,8 @@
         <li class="asideheader">Nord</li>
 
         <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
-		<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
-		<li><a href="boursier-edmond.php" class="AsideSelected">BOURSIER Edmond</a></li>
+	    	<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
+	    	<li><a href="boursier-edmond.php" class="AsideSelected">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>

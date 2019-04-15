@@ -66,9 +66,9 @@
 	<li class="asideheader">Marne</li>
         
     <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
-    <li><a href="astiers-jules-alphonse.php">ASTIERS Jules Alphonse</a></li>       
+    <li><a href="astiers-jules-alphonse.php">ASTIER(S) Jules Alphonse</a></li>       
     <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-    <li><a href="caron-eugene-alexandre.php">CARON Eugéne Alexandre</a></li>
+    <li><a href="caron-eugene-alexandre.php">CARON Eugène Alexandre</a></li>
     <li><a href="MAILLART-Alexandre.php" class="AsideSelected">MAILLART Alexandre Ernest</a></li>
     <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
     <li><a href="paquet-leopold.php">PAQUET Léopold</a></li>

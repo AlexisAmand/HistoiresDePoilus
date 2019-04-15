@@ -143,26 +143,34 @@
 	        </tr>
 	    </thead>
 	    <tbody>
+            <tr>
+	            <td headers="date">7 décembre 1879</td>
+	            <td headers="adresse">Onnaing (Nord)</td>
+	        </tr>
+            <tr>
+	            <td headers="date">1906</td>
+	            <td headers="adresse">Rue de la Chevauchoire<br/>à Onnaing (Nord)</td>
+	        </tr>
 	        <tr>
 	            <td headers="date">30 décembre 1936</td>
-	            <td headers="adresse">1 Rue Marcelin Berthelot<br/>à Onnaing (Nord).</td>
+	            <td headers="adresse">1 Rue Marcelin Berthelot<br/>à Onnaing (Nord)</td>
 	        </tr>
 	        <tr>
-	            <td headers="date">1</td>
-	            <td headers="adresse">2</td>
+	            <td headers="date"> du 7 septembre 1914<br/>au 20 juin 1918</td>
+	            <td headers="adresse">Il est prisonnier à Friedrichsfeld (Allemagne) puis à Grossen (Allemagne)</td>
 	        </tr>
-	        <tr>
-	            <td headers="date">1</td>
-	            <td headers="adresse">2</td>
+            <tr>
+	            <td headers="date">du 20 juin 1918<br/>au 3 Novembre 1918</td>
+	            <td headers="adresse">Malade, il sejourne dans la région du Bern Oberland B (Suisse)</td>
 	        </tr>
-	        <tr>
-	            <td headers="date">1</td>
-	            <td headers="adresse">2</td>
+            <tr>
+	            <td headers="date">Novembre 1918</td>
+	            <td headers="adresse">Il est en permission à Manneville (Eure) pour une durée de 30 jours</td>
 	        </tr>
 	    </tbody>   
 	</table>
 
-<br/><h2> La mobilisation d'août 1914</h2>
+<h2> La mobilisation d'août 1914</h2>
 
 <p><strong>Jules</strong> est âgé de 35 ans lors de mobilisation. Il est rappelé à l'activité et arrive au <strong>1er Régiment d'Artillerie à Pied</strong> le 2 août 1914. La portion centrale de ce régiment était à Dunkerque avec les 4e, 6e et 7e batteries, la 3e était à Boulogne, la 5e à Calais et enfin les 1ere et 2e étaient à Maubeuge. </p><p>Pas moins de 3 780 000 hommes sont mobilisés en août 1914. Au total, durant toute la guerre, environ 8 410 000 soldats et marins français seront mobilisés, dont 7 % de soldats indigènes venant des colonies de l'Empire. Parmi tous ces soldats, 1 397 800 sont <a href="../releves.php">morts pour la France</a> et 4 266 000 ont été bléssés au combat.</p>
 
@@ -172,9 +180,9 @@
         <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir)</figcaption>
     </figure>
 
-<br/><h2>La chute de Maubeuge</h2>
+<h2>De Maubeuge à la Suisse</h2>
 
-<p>Jules Henri BOURSIER est fait prisonnier de guerre à Maubeuge le 7 septembre 1914. Les troupes françaises de Maubeuge capturées à Maubeuge sont ensuite rassemblées à Rousies et une partie (dont Jules) est envoyée en internement  à <a href="../camps/camp-friedrichsfeld.php" title="le camp de prisonniers de Friedrichsfeld">Friedrichsfeld (Allemagne)</a>.</p>
+<p>Jules Henri BOURSIER est fait prisonnier de guerre à Maubeuge le 7 septembre 1914. Les troupes françaises de Maubeuge capturées sont d’abord rassemblées à Rousies et une partie (dont Jules) est ensuite envoyée en internement à Friedrichsfeld (Allemagne).</p>
 
 	<figure>
     	<a href="images/siege-maubeuge" data-fancybox="gallery" data-caption="Bombardement de la forteresse de Maubeuge par les Allemands">
@@ -182,9 +190,7 @@
     	<figcaption>Bombardement de la forteresse de Maubeuge par les Allemands<br/>(source: Delcampe)</figcaption>
 	</figure>
 
-<br/><h2>La fin du calvaire</h2>
-
-<p>Durant son "séjour",  Jules Henri BOURSIER est hospitalisé en Suisse avant d'être rapatrié le 3 novembre 1918, date à laquelle il obtient une permission de 30 jours qu'il passe à Manneville dans l'Eure.</p>
+<p>Jules est transféré à Grossen (date inconnue) où il reste jusqu’au 20 juin 1918. Victime de bronchite chronique, il fait partie du transport de rapatriement à destination du Bern Oberland B (B.O.B), en Suisse, où il sejourne jusqu’au 2 novembre de la même année. Il termine la conflit par un mois de permission à Menville (Eure), dans doute en convalescence.</p>
 
     <figure>
         <a href="sources/BOURSIER-Jules-Henri-CICR.jpg" data-fancybox="gallery" data-caption="Fiche numérisée du CICR">
@@ -192,13 +198,7 @@
         <figcaption>Fiche du CICR<br/>(cliquez pour agrandir)</figcaption>
     </figure>
 
-    <figure>
-        <a href="sources/BOURSIER-Jules-Henri-CICR-02.jpg" data-fancybox="gallery" data-caption="Extrait des archives de la Croix Rouge">
-        <img src="miniatures/BOURSIER-Jules-Henri-CICR-02.jpg"  alt="Extrait des archives de la Croix Rouge"/></a>
-        <figcaption>Extrait des archives de la Croix Rouge<br/>(cliquez pour agrandir)</figcaption>
-    </figure>
-
-<h2>Onnaing en guerre !</h2>
+<h2>La guerre à Onnaing</h2>
 
 <p>Pendant ce temps, à Onnaing, où est né Jules Henri BOURSIER, les Allemands enlèvent les cloches de l'église (1915). Elles sont conduites à Saint-Saulve pour y être fondues et faire des canons. Trois ans plus tard, en 1918, les Allemands se retirent et font sauter la Route Nationale pour couper la route aux troupes de l'armée canadienne. Le monuments aux morts de la Première Guerre Mondiale est érigé en 1922, en hommage aux <a href="../releves/onnaing.php">150 victimes militaires de la commune.</a></p>
     
