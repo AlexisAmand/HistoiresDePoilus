@@ -115,10 +115,7 @@
 	    <img src="dossier-ancien-combattant.jpg" alt="Dossier d'ancien combattant d'Auguste Victor FIEVET"/> 
 	</figure>
 
-<p class="sources">
-<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
-</p>
-
+<p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 </article>
 
 </section>
