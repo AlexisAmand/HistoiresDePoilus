@@ -120,6 +120,7 @@ data-ad-slot="8236218848"></ins>
 <h1>Raphaël Joseph BOTTIAU</h1>
 
 <p><strong>Raphaël Joseph BOTTIAU</strong> est né le 26 janvier 1880 à Quarouble, fils légitime de Antoine Joseph BOTTIAU et de Léopoldine Augustine JOLY (elle même fille de mon sosa n°80 et de sa 2e épouse).</p>
+<<<<<<< HEAD
 
 <table class="census">
 <caption>Liste des domiciles de Raphaël Joseph BOTTIAU</caption>
@@ -172,6 +173,60 @@ data-ad-slot="8236218848"></ins>
 </tr>      
 </tbody>
 </table>
+=======
+	        
+    <table class="census">
+        <caption>Liste des domiciles de Raphaël Joseph BOTTIAU</caption>
+	    <thead>
+	        <tr>
+	            <th id="dates">Date</th>
+	            <th id="adresses">Adresse</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td headers="dates">26 janvier 1880</td>
+	            <td headers="adresses">Quarouble (Nord)</td>
+	        </tr>
+	        <tr>
+	            <td headers="dates">1906</td>
+	            <td headers="adresses"><a href="http://cartespostalesanciennes.genealexis.fr/image/436-valenciennes-rue-de-lille" title="L'entrée de la rue de Lille à Valenciennes">Rue de Lille</a><br/>à Valenciennes (Nord)</td>
+	        </tr>
+	        <tr>
+	            <td headers="dates">18 septembre 1907</td>
+	            <td headers="adresses">"Pelissier chez Rivière"<br/>à Albi (Tarn)</td>
+	        </tr>
+	        <tr>
+	            <td headers="dates">26 janvier 1908</td>
+	            <td headers="adresses">Rue du Marais<br/>à Férin (Nord)</td>          
+	        </tr>
+            <tr>
+	            <td headers="dates">10 février 1908</td>
+	            <td headers="adresses">Férin (Nord)</td>          
+	        </tr>
+	        <tr>
+	            <td headers="dates">25 mai 1908</td>
+	            <td headers="adresses">Bouligny (Meuse)</td>
+	        </tr>
+	        <tr>
+	            <td headers="dates">29 décembre 1909</td>
+	            <td headers="adresses">9 rue de Flandre<br/>à Tunis (Tunisie)<sup>1</sup></td>
+	        </tr>
+	        <tr>
+	            <td headers="dates">13 février 1910</td>
+	            <td headers="adresses">Onnaing (Nord)</td>        
+	        </tr>
+	         <tr>
+	            <td headers="dates">19 juillet 1924</td>
+	            <td headers="adresses">Quarouble (Nord)</td>          
+	        </tr>
+	        <tr>
+	            <td headers="dates">19 mars 1926</td>
+	            <td headers="adresses">Rue du moulin<br/>à Quarouble (Nord)</td>
+	        </tr>      
+        </tbody>
+    </table>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <p>Raphaël épouse en premiéres noces Eugénie BRUNEAUX, le couple a un fils né en 1903 à Férin.</p>
 
@@ -180,9 +235,15 @@ data-ad-slot="8236218848"></ins>
 <p>Raphaël arrive au 15e Régiment d'Artillerie de Campagne le 11 août 1914. Libéré provisoirement le 19 août 1914, il est fait prisonnier le 24 août à Quarouble et interné derrière les lignes. Raphaël est envoyé en congés illimités le 12 février 1919 par le dépôt démobilisateur du 15e Régiment d'Artillerie et se retire à Quarouble, où il décède le 19 mars 1926 à son domicile de la Rue du Moulin.</p>    
 
 <figure>
+<<<<<<< HEAD
 <a href="sources/Bottiau-Raphael-1926.jpg" data-fancybox="gallery" data-caption="Acte de décès de Raphaël BOTTIAU">
 <img src="miniatures/Bottiau-Raphael-1926.jpg" alt="Acte de décès de Raphaël BOTTIAU issu des AD du Nord"/></a>
 <figcaption>Acte de décès de Raphaël BOTTIAU<br/>(Source: Archives Départementales du Nord)</figcaption>
+=======
+    <a href="sources/Bottiau-Raphael-1926.jpg" data-fancybox="gallery" data-caption="Acte de décès de Raphaël BOTTIAU">
+    <img src="miniatures/Bottiau-Raphael-1926.jpg" alt="Acte de décès de Raphaël BOTTIAU issu des AD du Nord"/></a>
+    <figcaption>Acte de décès de Raphaël BOTTIAU<br/>(Source: Archives Départementales du Nord)</figcaption>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 </figure>
 
 <p class="note"><sup>1</sup>Selon DBL, de Twitter, il s'agit de l'actuelle rue Farès El Khoumi, parallèle à l'avenue de la République, qui longe le port.</p>    

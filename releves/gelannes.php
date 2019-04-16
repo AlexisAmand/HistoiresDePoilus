@@ -356,6 +356,14 @@
     </table>
     
 <h2>Sources</h2>
+<<<<<<< HEAD
+=======
+
+<ul>
+  <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
+  <li>Mémoire des Hommes (Ministère de la Défense)</li>
+</ul>   
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <ul>
   <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>

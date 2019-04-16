@@ -128,6 +128,7 @@ data-ad-slot="8236218848"></ins>
 
 <p>Comme lui, il est le fils de Druon Joseph CARLIER et de Sidonie Célestine PATOU. Ouvrier agricole chez LENGRAND à Sebourg, Louis s'unit avec Volaine GRAVELLE. Le couple aura 5 enfants: Valérine (née en 1869), Louis Druon (né en 1898), Yvonne (née en 1901), Louise (née en 1903) et Blondine Clémence (née en 1908). En 1906, il est ouvrier agricole chez Lengrand et vit à Sebourg (Rue de l'église) avec son épouse, Volcide GRAVELLE, et ses 4 enfants: Olia, Louis, Yvonne et Louise.</p>
 
+<<<<<<< HEAD
 <table class="census">
 <caption>Liste des domiciles de Louis</caption>
 <thead>
@@ -155,6 +156,35 @@ data-ad-slot="8236218848"></ins>
 </tr>
 </tbody>    
 </table>
+=======
+	<table class="census">
+	    <caption>Liste des domiciles de Louis</caption>
+		<thead>
+	        <tr>
+	            <th id="date">Date</th>
+	            <th id="adresse">Adresse</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
+	        </tr>
+	        <tr>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
+	        </tr>
+	        <tr>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
+	        </tr>
+	        <tr>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
+	        </tr>
+	    </tbody>    
+	</table>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <h2>La mobilisation d'août 1914</h2>
 
@@ -243,6 +273,25 @@ data-ad-slot="8236218848"></ins>
 </figure>
 
 <h2>Sources et bibliographie</h2>
+<<<<<<< HEAD
+=======
+    
+    <ul>
+		<li><a href="sources/agfh_notice_carlier_louis.pdf" title=" ">Notice biographique réalisée par l'AGFH</a></li>
+    	<li><a href="http://archives.genealexis.fr/album/15-carlier-louis-abraham" title="version numérisée du dossier d'ancien combattant de Louis Abraham CARLIER">Le dossier d'ancien combattant de Louis Abraham CARLIER</a></li>
+         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
+        <li><a href="../pdf/Maubeuge-1914-Duvivier.pdf" title="La Bataille de Maubeuge en septembre 1914">Maubeuge 1914</a> (Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
+        <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a> (source allemande)</li>
+        <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf">Aus deutschen Kriegsgefangenenlagern</a> (Deutsches Rotes Kreuz)</li>
+        <li><a href="http://amzn.to/2rvOovF">Prisonniers 1914-1918</a> (Editions Sulton / Jean-Paul Briaste)</li>
+        <li><a href="https://grandeguerre.icrc.org/">Archives de la Croix Rouge</a></li>
+        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
+    </ul>
+
+<p class="sources">
+<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
+</p>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <ul>
 <li><a href="sources/agfh_notice_carlier_louis.pdf" title=" ">Notice biographique réalisée par l'AGFH</a></li>

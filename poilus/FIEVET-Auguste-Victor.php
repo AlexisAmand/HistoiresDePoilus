@@ -123,6 +123,7 @@ data-ad-slot="8236218848"></ins>
 
 <br/>
 
+<<<<<<< HEAD
 <figure>
 <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
 <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX" class="ArbreGenealogique"></a>
@@ -156,6 +157,41 @@ data-ad-slot="8236218848"></ins>
 </tr>
 </tbody>   
 </table>
+=======
+	<figure>
+	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
+	    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX" class="ArbreGenealogique"></a>
+	    <figcaption>Les descendants de Léonie Louise FIEVET<br/>(cliquez pour agrandir)</figcaption>
+	</figure>
+
+	<table class="census">
+	    <caption>Liste des domiciles d'Auguste</caption>
+	    <thead>
+	        <tr>
+	            <th id="date">Date</th>
+	            <th id="adresse">Adresse</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td headers="date">8 janvier 1890</td>
+	            <td headers="adresse">rue du Grand Balcon<br/>à Lille</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">11 mars 1922</td>
+	            <td headers="adresse">248 rue Jean Jaurès<br/>à Anzin</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">avril 1930</td>
+	            <td headers="adresse">1 rue Jean Jaurès<br/>à Petite-Forêt</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">17 décembre 1960</td>
+	            <td headers="adresse">803 rue Jean Jaures<br/>à Bruay-sur-L'Escaut</td>
+	        </tr>
+	    </tbody>   
+	</table>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <h2>La mobilisation d'août 1914</h2>
 
@@ -178,8 +214,15 @@ data-ad-slot="8236218848"></ins>
 </figure>
 
 <p><br/> Le 7 août, le régiment cantonne à Saint-Michel, et le 8, il se dirige vers Maubert-Fontaine (Ardennes), puis à Bourg-Fidèle (Ardennes) à 2 kilomètres de Rocroi. Pendant les journées des 6 et 7 août, le<strong> 33e Régiment d'Infanterie </strong>avait accompli, avec des réservistes non entraînés, de 60 à 70 kilomètres en vingt-six heures, sans laisser un seul traînard.</p>
+<<<<<<< HEAD
 
 <h2>L'invasion de la Belgique</h2>
+=======
+  
+<h2>L'invasion de la Belgique</h2>
+
+<p>Le 9 août, le général commandant le <strong>1er Groupe d'Armée</strong> réuni à Maubert-Fontaine les officiers et leur exposa la situation générale : Une armée allemande dite «de la Meuse», composée de quatre corps d'armée et commandée par le général VON EMMICH, a envahi la Belgique; elle a passé en partie la Meuse, au nord de Liège, et se porte à l'attaque de cette place. Les Allemands ont violé le territoire belge. Quatre de nos divisions de cavalerie, concentrées autour de Mézières (Ardennes), sous le commandement du général SORDET, ont pénétré en Belgique pour opèrer contre VON EMMICH. Ce corps de cavalerie est appuyé par une brigade d'infanterie échelonnée le long de la Meuse, couvrant la concentration du 1er corps... </p>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <p>Le 9 août, le général commandant le <strong>1er Groupe d'Armée</strong> réuni à Maubert-Fontaine les officiers et leur exposa la situation générale : Une armée allemande dite «de la Meuse», composée de quatre corps d'armée et commandée par le général VON EMMICH, a envahi la Belgique; elle a passé en partie la Meuse, au nord de Liège, et se porte à l'attaque de cette place. Les Allemands ont violé le territoire belge. Quatre de nos divisions de cavalerie, concentrées autour de Mézières (Ardennes), sous le commandement du général SORDET, ont pénétré en Belgique pour opèrer contre VON EMMICH. Ce corps de cavalerie est appuyé par une brigade d'infanterie échelonnée le long de la Meuse, couvrant la concentration du 1er corps... </p>
 
@@ -228,6 +271,7 @@ data-ad-slot="8236218848"></ins>
 <p>Un lieutenant sera blessé le même jour, pendant la même bataille de Dinant : un certain <strong>Charles de GAULLE</strong>… </p>
 
 <h2>L'après-guerre d'Auguste</h2>
+<<<<<<< HEAD
 
 <p><strong>Auguste</strong> reçoit la Croix de Guerre "étoile de vermeil" en août 1920, l'étoile de vermeil signifiant qu'il s'agit d'une citation concernant le corps d'Armée. La médaille militaire lui est quant à elle remise par décret du 11 avril 1962. Ma mère a très bien connu Auguste. Elle se souvient par exemple d'un cadre contenant un "diplôme" et une médaille, il aurait également tenu un magasin de chaussures en face de la place de Thiers à Bruay-sur-l'-Escaut.</p>
 
@@ -236,6 +280,10 @@ data-ad-slot="8236218848"></ins>
 <img src="miniatures/fav-matricule-01.jpg" alt="Extrait de la fiche matricule d'Auguste Victor FIEVET"/></a>
 <figcaption>Extrait de sa fiche matricule</figcaption>
 </figure>
+=======
+
+<p><strong>Auguste</strong> reçoit la Croix de Guerre "étoile de vermeil" en août 1920, l'étoile de vermeil signifiant qu'il s'agit d'une citation concernant le corps d'Armée. La médaille militaire lui est quant à elle remise par décret du 11 avril 1962. Ma mère a très bien connu Auguste. Elle se souvient par exemple d'un cadre contenant un "diplôme" et une médaille, il aurait également tenu un magasin de chaussures en face de la place de Thiers à Bruay-sur-l'-Escaut.</p>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <figure>
 <a href="images/carte-auguste-fievet.jpg" data-fancybox="gallery" data-caption="Carte d'ancien combattant ayant appartenu à Auguste">

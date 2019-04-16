@@ -338,11 +338,21 @@ data-ad-slot="8236218848"></ins>
 <h2>Sources</h2>
 
 <ul>
+<<<<<<< HEAD
 <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
 <li>Mémoire des Hommes (Ministère de la Défense)</li>
 </ul>
 
 <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+=======
+  <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
+  <li>Mémoire des Hommes (Ministère de la Défense)</li>
+</ul>
+
+<p class="sources">
+<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
+</p>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 </article>
 

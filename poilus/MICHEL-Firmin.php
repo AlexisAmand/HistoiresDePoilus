@@ -63,6 +63,7 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 
 <ul>
 
+<<<<<<< HEAD
 <li class="asideheader">Marne</li>
 
 <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
@@ -73,6 +74,18 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 <li><a href="MICHEL-Firmin.php" class="AsideSelected">MICHEL Firmin (+)</a></li>
 <li><a href="paquet-leopold.php">PAQUET Léopold</a></li>
 
+=======
+	<li class="asideheader">Marne</li>
+        
+    <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
+    <li><a href="astiers-jules-alphonse.php">ASTIER(S) Jules Alphonse</a></li>       
+    <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
+    <li><a href="caron-eugene-alexandre.php">CARON Eugène Alexandre</a></li>
+    <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
+    <li><a href="MICHEL-Firmin.php" class="AsideSelected">MICHEL Firmin (+)</a></li>
+    <li><a href="paquet-leopold.php">PAQUET Léopold</a></li>
+  	      
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 </ul>
 
 <div id="pubaside">
@@ -108,7 +121,11 @@ data-ad-slot="8236218848"></ins>
 <h2>De l'été 14 à Verdun</h2>
 
 <p>Du 2 août 1914 au 26 février 1916, le régiment de <strong>Firmin</strong> ne cesse de combattre dans la région fortifiée de Verdun et de concourir à la défense de la place. Dans une première période allant du 2 août au 20 octobre 1914, il prête son appui aux troupes de campagne et participe à des attaques locales. Dans une deuxième période allant du 20 octobre 1914 au 26 février 1916, il combat dans les conditions ordinaires de la guerre de tranchées et soutient, du 21 au 26 février 1916, la plus formidable attaque qui ait été vue jusqu'alors. </p>
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 <h2>Pendant ce temps, les Allemands s'installent dans son village</h2>
 
 <p>Pendant ce temps, l'état-major de la IIIe armée du Baron Von Hausen quitte le château de Thugny pour s'installer à Bétheniville, village d'origine de <strong>Firmin</strong>, dans une "élégante et gracieuse villa" appartenant aux frères Renaut qui étaient absents. Une partie de l'état major occupait une seconde villa située de l'autre côté de la route. Le Q.G.A est porté de Bétheniville à <a href="http://cartespostalesanciennes.genealexis.fr/album/85-chalons-sur-marne" title="cartes postales anciennes de Châlons-sur-Marne sur le site Genealexis">Châlons</a> dès le lendemain.</p>

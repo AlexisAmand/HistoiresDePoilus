@@ -123,6 +123,7 @@ data-ad-slot="8236218848"></ins>
 
 <p><strong>Charles Augustin FIEVET</strong>, le père de mon arrière-grand-père (Kleber pour ceux qui lisent régulièrement <a href="http://www.genealexis.fr">mon blog</a>), est né le dimanche 3 décembre 1882 à Lille (Nord). Il est le fils de Charles Jules Henri, fileur de Coton, âgé de 28 ans et de Marie Roseline LOHIEZ, âgée de 19 ans. Il a pour frère <a href="FIEVET-Auguste-Victor.php">Auguste Victor</a>. </p>
 
+<<<<<<< HEAD
 <figure>
 <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
 <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX"  class="ArbreGenealogique"></a>
@@ -174,6 +175,59 @@ data-ad-slot="8236218848"></ins>
 <img src="miniatures/Le-conseil-de-revision.jpg" alt="La famille FIEVET au conseil de révision"/></a>
 <figcaption>Le conseil de révision<br/>(Source: Archives familiales)</figcaption>
 </figure>
+=======
+	<figure>
+	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
+	    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX"  class="ArbreGenealogique"></a>
+	    <figcaption>Les descendants de Léonie Louise FIEVET<br/>(cliquez pour agrandir)</figcaption>
+	</figure>
+	
+	<figure>
+	    <a href="portraits/charles-augustin-FIEVET.jpg" data-fancybox="gallery" data-caption="Charles Augustin FIEVET">
+	    <img src="miniatures/charles-augustin-FIEVET.jpg" height="278" alt="Portrait de Charles Augustin FIEVET"/></a>
+	    <figcaption>Charles Augustin FIEVET<br/>(Source: Archives familiales)</figcaption>
+	</figure>
+
+	<table class="census">
+	    <caption>Liste des domiciles de Charles Augustin</caption>
+	    <thead>
+	        <tr>
+	            <th headers="date">Date</th>
+	            <th headers="adresse">Adresse</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td id="date">3 décembre 1882</td>
+	            <td id="adresse">Rue de Poids<br/>à Lille</td>
+	        </tr>
+	        <tr>
+	            <td id="date">25 septembre 1908</td>
+	            <td id="adresse">Rue du Grand Balcon<br/>Impasse Saint Henri<br/>à Lille</td>
+	        </tr>
+	        <tr>
+	            <td id="date">8 février 1914</td>
+	            <td id="adresse">73 Rue du Chauffour<br/>(Gué du dit)<br/>à Valenciennes</td>
+	        </tr>
+	        <tr>
+	            <td id="date">8 avril 1922</td>
+	            <td id="adresse">248 Rue Jean Jaurés<br/>à Anzin</td>
+	        </tr>       
+	        <tr>
+	            <td id="date">16 février 1928</td>
+	            <td id="adresse">149 Rue du Chauffour<br/>à Valenciennes</td>
+	        </tr>
+	    </tbody>   
+	</table>
+
+<p>La photo ci-dessus date sans doute du début des années 20. Il s'agit d'un extrait d'une photo de groupe prise lors du conseil de révision de son fils Charles Jules Henri. De gauche à droite, on trouve Kleber Camille (né en 1910, fils de Charles Augustin), Charles Jules (père de Charles Augustin), Charles Jules Henri (né en 1903) et Charles Augustin... j'espère que vous avez suivi avec attention...</p>
+
+	<figure>
+	    <a href="portraits/Le-conseil-de-revision.jpg" data-fancybox="gallery" data-caption="Le conseil de révision">
+	    <img src="miniatures/Le-conseil-de-revision.jpg" alt="La famille FIEVET au conseil de révision"/></a>
+	    <figcaption>Le conseil de révision<br/>(Source: Archives familiales)</figcaption>
+	</figure>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <p>Le 2 décembre 1907, <strong>Charles Augustin</strong> épouse à Roubaix (Nord) Nathalie Emilie DELAUX, mécanicienne, la fille légitime d'Adolphe Auguste DELAUX et de Josephine RICHOMME. Le couple aura deux enfants: Charles Jules Henri (né en 1903) et Kléber Camille (né en 1910).</p>
 

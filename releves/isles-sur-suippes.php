@@ -133,6 +133,7 @@ data-ad-slot="8236218848"></ins>
 <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
 <table class="releves">
+<<<<<<< HEAD
 <thead>
 <tr>
 <th id="nom">Nom et prénom(s)</th>
@@ -257,6 +258,135 @@ data-ad-slot="8236218848"></ins>
 </table>
 
 <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+=======
+  <thead>
+  <tr>
+    <th id="nom">Nom et prénom(s)</th>
+    <th id="naissance">Date et lieu<br/>de naissance</th>
+    <th id="mort">Date et lieu<br/>de décès</th>
+    <th id="corps">Corps</th>
+    <th id="genre">Genre<br/>de mort</th>
+   </tr>
+   </thead>
+  <tr>
+    <td headers="nom">ANSELME<br/>Jules Maurice</td>
+    <td headers="naissance">Le 3 décembre 1889<br/>à Isles-sur-Suippes</td>
+    <td headers="mort">Le 18 mars 1915<br/>à Marcheville (Meuse)</td>
+    <td headers="corps">166e R.I</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">BERTIN<br/>Léopold Gabriel</td>
+    <td headers="naissance">Le 22 janvier 1892<br/>à Trigny (Marne)</td>
+    <td headers="mort">Le 27 septembre 1915<br/>Butte de Souain (Marne)</td>
+    <td headers="corps">354e R.I</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">CHARLIER<br/>Jean-Baptiste</td>
+    <td headers="naissance">Le 13 juin 1891<br/>à Isles-sur-Suippes</td>
+    <td headers="mort">Le 29 septembre 1914<br/>à Servon (Marne)</td>
+    <td headers="corps">91e R.I</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">CHARLIER<br/>Marcel Jean Marie</td>
+    <td headers="naissance">Le 1 novembre 1894<br/>à Soles (Marne)</td>
+    <td headers="mort">Le 7 mai 1915<br/>à Verdun (Meuse)</td>
+    <td headers="corps">91e R.I</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">DEMAGUE<br/>Charles Henri</td>
+    <td headers="naissance">Le 9 octobre 1883<br/>à Isles-sur-Suippes</td>
+    <td headers="mort">Le 15 septembre 1915<br/>à ? (Grèce)</td>
+    <td headers="corps">97e B.C</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">DUSSART<br/>Jean-Baptiste</td>
+    <td headers="naissance">Le 10 novembre 1890<br/>à Le Chatelet sur Retourne (Marne)</td>
+    <td headers="mort">Le 30 avril 1917<br/>à Prosnes (Marne)</td>
+    <td headers="corps">25e R.I</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">GANGAND<br/>Jules Alexandre</td>
+    <td headers="naissance">Le 24 août 1884<br/>à Isles-sur-Suippes</td>
+    <td headers="mort">Le 23 novembre 1918<br/>à Bannes (Marne)</td>
+    <td headers="corps">132e R.I</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">GOBREAU<br/>Jules Jean-Baptiste</td>
+    <td headers="naissance">Le 23 avril 1886<br/>à Isles-sur-Suippes</td>
+    <td headers="mort">Le 17 avril 1917<br/>à Prouilly (Marne)</td>
+    <td headers="corps">332e R.I</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">HENRY<br/>Paul Léon</td>
+    <td headers="naissance">Le 20 décembre 1875<br/>à Avaux (Ardennes)</td>
+    <td headers="mort">Le 14 décembre 1914<br/>à Ormes (Meuse)</td>
+    <td headers="corps">46e R.I</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">JACOB<br/>Marcel Pierre</td>
+    <td headers="naissance">Le 12 avril 1889<br/>à Cuperly (Marne)</td>
+    <td headers="mort">Le 3 mai 1915<br/>à Verdun (Meuse)</td>
+    <td headers="corps">25e B.C</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">JAUVIN<br/>Armand Arthur</td>
+    <td headers="naissance">Le 19 octobre 1887<br/>à Tinqueux (Marne)</td>
+    <td headers="mort">Le 26 août 1914<br/>à Saint-Jean-de-Buzy (Meuse)</td>
+    <td headers="corps">354e R.I</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">LEGROS<br/>Lucien Edmond</td>
+    <td headers="naissance">Le 7 janvier 1886<br/>à Avize (Marne)</td>
+    <td headers="mort">Le 31 août 1916<br/>à Sudelkopff (Allemagne)</td>
+    <td headers="corps">348e R.I</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">PIERRET<br/>Alcide</td>
+    <td headers="naissance">Le 16 mars 1889<br/>à Isles-sur-Suippes</td>
+    <td headers="mort">Le 9 septembre 1917<br/>à Courrières (Meuse)</td>
+    <td headers="corps">169e R.I</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">POCQUET<br/>Honoré Jules</td>
+    <td headers="naissance">Le 26 novembre 1878<br/>à Isles-sur-Suippes</td>
+    <td headers="mort">Le 22 mai 1916<br/>à la Ferme de Thiaumont (Meuse)</td>
+    <td headers="corps">354e R.I</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">PETITFAUX<br/>Paul Prosper</td>
+    <td headers="naissance">Le 23 novembre 1885<br/>à Paris (16e)</td>
+    <td headers="mort">16 août 1915<br/>à Toulon (Var)</td>
+    <td headers="corps">25e R.A</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">VERNET<br/>Louis Joseph</td>
+    <td headers="naissance">Le 22 décembre 1880<br/>à Saint-Brice courcelles (Marne)</td>
+    <td headers="mort">le 15 mai 1916<br/>à Chattantcourt (Meuse)</td>
+    <td headers="corps">162e R.I</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  </table>
+
+<p class="sources">
+<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
+</p>
+
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 </article>
 
 </section>

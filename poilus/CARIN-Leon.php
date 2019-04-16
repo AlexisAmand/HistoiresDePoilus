@@ -121,6 +121,7 @@ adsbygoogle = window.adsbygoogle || []).push({});
 
 <p>Léon CARIN est né à Lourches (Nord) le 28 juillet 1896, fils légitime de François Louis CARIN et de Pauline DUSSART. Il a pour frère <a href="CARIN-Edouard.php">Edouard</a> et <a href="CARIN-Theophile.php">Théophile.</a> En 1906, Léon vit Rue de Beauvois à Lourches, avec ses parents et ses frères et sœurs.</p>
 
+<<<<<<< HEAD
 <figure>
 <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="La famille CARIN">
 <img src="miniatures/arbre-carin.png" alt="arbre généalogique de la Famille Carin de Lourches et Roeulx"  class="ArbreGenealogique"></a>
@@ -160,6 +161,47 @@ adsbygoogle = window.adsbygoogle || []).push({});
 </tr>
 </tbody>   
 </table>
+=======
+	<figure>
+	    <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="La famille CARIN">
+	    <img src="miniatures/arbre-carin.png" alt="arbre généalogique de la Famille Carin de Lourches et Roeulx"  class="ArbreGenealogique"></a>
+	    <figcaption>Arbre généalogique de la famille CARIN<br/>(cliquez pour agrandir)</figcaption>
+	</figure>
+
+	<figure>
+	    <a href="sources/CARIN-Leon-matricule.jpg"  data-fancybox="gallery" data-caption="Fiche matricule de léon CARIN">
+	    <img src="miniatures/CARIN-Leon-matricule.jpg" alt="extrait de la fiche matricule de Léon CARIN"/></a>
+	    <figcaption>Extrait de sa fiche matricule.<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
+	</figure>
+
+	<table class="census">
+	    <caption>Liste des domiciles de Léon</caption>
+	    <thead>
+	        <tr>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td headers="date">Rue Beauvois</td>
+	            <td headers="adresse">à Lourches (Nord)</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	    </tbody>   
+	</table>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <p>Léon s'est engagé pour la durée la guerre à la mairie de Roanne, où il vivait en tant que réfugié, le 16 février 1915 au titre du <strong>127e Régiment d'Infanterie</strong>. A la mobilisation, l'infanterie de ligne était composée de 173 régiments qui contenaient chacun 73 officiers et 3200 hommes.</p> 
 

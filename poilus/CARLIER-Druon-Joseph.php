@@ -131,6 +131,7 @@ data-ad-slot="8236218848"></ins>
 
 <p>Pour simplifier les choses, je n'ai pas représenté tous les membres de la famille sur l'arbre ci-dessus, mais à sa naissance, Druon a pour frères et sœurs : Gustave (né en 1864), Maria Sidonie (née en 1865), Marie Zélia (née en 1869) et <a href="CARLIER-Louis-Abraham.php">Louis Abraham</a> (né en 1871). En 1906, il vit au hameau de Sebourquiaux avec son épouse Angèle DANHIEZ et ses deux filles Lucia (mon arrière-grand-mère) et Maria.</p>
 
+<<<<<<< HEAD
 <figure>
 <a href="sources/carlier-druon-matricule-01.jpg" data-fancybox="gallery" data-caption="Druon Joseph CARLIER - Extrait de sa fiche matricule">
 <img src="miniatures/carlier-druon-matricule-01.jpg" alt="Extrait de la fiche matricule de Druon CARLIER"/></a>
@@ -164,6 +165,41 @@ data-ad-slot="8236218848"></ins>
 </tr>
 </tbody>  
 </table>
+=======
+	<figure>
+	    <a href="sources/carlier-druon-matricule-01.jpg" data-fancybox="gallery" data-caption="Druon Joseph CARLIER - Extrait de sa fiche matricule">
+	    <img src="miniatures/carlier-druon-matricule-01.jpg" alt="Extrait de la fiche matricule de Druon CARLIER"/></a>
+	    <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
+	</figure>
+
+	<table class="census">
+	    <caption>Liste des domiciles de Druon</caption>
+	    <thead>
+        <tr>
+            <th id="date">Date</th>
+            <th id="adresse">Adresse</th>
+        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
+	        </tr>
+	        <tr>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
+	        </tr>
+	        <tr>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
+	        </tr>
+	        <tr>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
+	        </tr>
+	    </tbody>  
+	</table>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <p>Durant son service militaire, <strong>Druon Joseph CARLIER</strong> est incorporé comme soldat de 2e classe au <strong>1er Régiment d'Infanterie</strong> sous le matricule n°8102 le 15 novembre 1897. C'est un régiment qui est né en 1479 et est issu des "bandes de Picardie". Il a traversé toutes les époques en participant à toutes les campagnes qui ont fait la France.</p><p>En application de la décision ministérielle du 21 septembre 1898, il passe au <strong>1er Régiment d'Infanterie de Marine</strong> le 1er décembre 1898 et est immatriculé sous le n° A 7225. Le 16 septembre 1899, il devient soldat de 1e classe. Il ne s'agit pas d'un grade mais plutôt d'une distinction qui permettrait d'accéder ensuite au grade de caporal. Il est envoyé en congé en attendant son passage dans la réserve avec un certificat de bonne conduite accordé le 28 septembre 1900.</p>
 
@@ -197,12 +233,21 @@ data-ad-slot="8236218848"></ins>
 
 <p>La 12e compagnie, dont fait partie <strong>Druon</strong>, est la garnison d'infanterie de l'ouvrage permanent de Ferrière-la-Petite sous les ordres du chef de Bataillon du génie CRÉPY. Pendant la nuit du 31 août 1914, Les avant-postes du centre de Ferrière-la-Petite sont fortement inquiétés, alerte générale, le bombardement continu, l'artillerie du Bourdiau riposte. Prévu pour une seule compagnie, l'ouvrage de Ferrière-la-petite était composé d'abris bétonnés que les Allemands ont détruit à la fin du mois de septembre 1914.</p>
 
+<<<<<<< HEAD
 <figure>
 <a href="images/Ferrière-la-Petite-01.jpg" data-fancybox="gallery" data-caption="L'ouvrage de Ferrière-la-Petite">
 <img src="miniatures/Ferrière-la-Petite-01.jpg" alt="Les ruines de l'ouvrage de Ferrière-la-Petite"/></a>
 <figcaption>Les ruines de l'ouvrage de Ferrière-la-Petite<br/>(cliquez pour agrandir - source: http://www.mapio.cz/ )</figcaption>
 </figure>
 
+=======
+	<figure>
+	    <a href="images/Ferrière-la-Petite-01.jpg" data-fancybox="gallery" data-caption="L'ouvrage de Ferrière-la-Petite">
+	    <img src="miniatures/Ferrière-la-Petite-01.jpg" alt="Les ruines de l'ouvrage de Ferrière-la-Petite"/></a>
+	    <figcaption>Les ruines de l'ouvrage de Ferrière-la-Petite<br/>(cliquez pour agrandir - source: http://www.mapio.cz/ )</figcaption>
+	</figure>
+	
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 <h2>La chute de la place forte de Maubeuge</h2>
 
 <p>Le 4 septembre 1914, le Gouverneur fait rassembler les drapeaux de la garnison de Maubeuge. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e, 2e, 3e  et 4e  territoriale et enfin celui du <strong>1er Régiment d'Artillerie à Pied</strong>. Le lendemain, à 7 heures du matin, 
@@ -211,7 +256,11 @@ les drapeaux de la garnison sont brûlés dans le jardin du Pavillon, près de l
 <h2>La capture de Druon Joseph</h2>
 
 <p><strong>Druon Joseph CARLIER</strong> est capturé à Ferrière-la-Petite, à quelques kilomètres de Maubeuge et envoyé comme prisonnier à <a href="../camps/camp-friedrichsfeld.php">Friedrichsfeld (Allemagne)</a> après que les troupes françaises capturées suite à la Bataille de Maubeuge aient été regroupées à Rousies.</p>
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 <h2>Enfin libre !</h2>
 
 <p>Druon Joseph est libéré le 13 décembre 1918 et retourne vivre Rue Giraud à Onnaing, ville où en avril 1917, l'explosion d'un obus prussien abandonné dans un champ de tir propose la mort tragique d'enfants, et où les jeunes femmes étaient obligées de récolter le chou pour l'occupant qui en était friand. La Fosse Cuvinot a quant à elle été complètement détruite par les Allemands lors de leur retraite de 1918.</p>

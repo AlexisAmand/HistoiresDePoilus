@@ -1,4 +1,5 @@
 <!doctype html>
+<<<<<<< HEAD
 <html lang="fr">
 <head>
 <meta charset="utf-8">
@@ -92,6 +93,7 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 </section>
 
 <footer><?php include('../include/footer.inc'); ?></footer>
+
 <?php include('../include/stats.inc'); ?>
 
 <!-- javascript -->

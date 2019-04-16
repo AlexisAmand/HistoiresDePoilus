@@ -129,6 +129,7 @@ data-ad-slot="8236218848"></ins>
 
 <p>La parenté qui me lie à Louis est un peu compliquée, je vais essayer d'être le plus clair possible. Comme <a href="FIEVET-Charles-Augustin.php">Charles Augustin</a> et <a href="FIEVET-Auguste-Victor.php">Auguste Victor</a>, <strong>Louis Henri</strong> est le petit-fils de Léonie FIEVEZ, mon aïeule. <a href="FIEVET-Charles-Augustin.php">Charles</a> et <a href="FIEVET-Charles-Augustin.php">Auguste</a> sont issus de Charles Jules, que Léonie a eu d'un père inconnu alors qu'Achille est issu d'Achille Léopold, que Léonie a eu de son mariage avec Augustin ROUSSEAUX. Pour faire bref, Le père de Louis Henri ROUSSEAUX et le père de <a href="FIEVET-Charles-Augustin.php">Charles Augustin</a> sont des demi-frères.</p>
 
+<<<<<<< HEAD
 <figure>
 <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
 <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX" class="ArbreGenealogique"></a>
@@ -162,6 +163,41 @@ data-ad-slot="8236218848"></ins>
 </tr>
 </tbody>   
 </table>
+=======
+	<figure>
+	    <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
+	    <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX" class="ArbreGenealogique"></a>
+	    <figcaption>Les descendants de Léonie Louise FIEVET<br/>(cliquez pour agrandir)</figcaption>
+	</figure>
+
+    <table class="census">
+	    <caption>Liste des domiciles de Louis</caption>
+	    <thead>
+	        <tr>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	    </tbody>   
+	</table>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <h2>Mobilisation générale !</h2>
 

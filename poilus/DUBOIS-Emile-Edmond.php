@@ -122,6 +122,7 @@ data-ad-slot="8236218848"></ins>
 
 <p><strong>Émile Edmond DUBOIS</strong>, le beau frère de <a href="GRAIN-Louis.php" title="biographie du soldat Louis GRAIN">Louis GRAIN</a> et de <a href="GRAIN-Leon-Albert.php" title="biographie du poilu Léon GRAIN">Léon GRAIN</a>, est né le 25 janvier 1880 à Villers-Guislain (Nord). Il est le fils légitime de Désiré Émile et Catherine Vénérose BROYE. En 1906, il est tisseur et vit à Villers-Guislain (Rue Hérode) avec ses parents, sa sœur Malvina et son frère Christophe. Le 3 décembre 1907, il épouse Fortunée Luce GRAIN à Villers-Guislain.</p>
 
+<<<<<<< HEAD
 <figure>
 <a href="images/arbre-grain.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille DUBOIS-GRAIN">
 <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille DUBOIS-GRAIN" class="ArbreGenealogique"/></a>
@@ -161,6 +162,47 @@ data-ad-slot="8236218848"></ins>
 </tr>
 </tbody>   
 </table>
+=======
+	<figure>
+	    <a href="images/arbre-grain.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille DUBOIS-GRAIN">
+	    <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille DUBOIS-GRAIN" class="ArbreGenealogique"/></a>
+	    <figcaption>Arbre simplifié de la famille DUBOIS-GRAIN<br/>(cliquez pour agrandir)</figcaption>
+	</figure>
+	
+	<figure>
+	    <a href="images/census-villers-guislain-1906.jpg" data-fancybox="gallery" data-caption="Extrait du recensement de Villers-Guislain">
+	    <img src="miniatures/census-villers-guislain-1906.jpg" alt="Extrait du recensement de Villers-Guislain de 1906"></a>
+	    <figcaption>Extrait du recensement de Villers-Guislain (1906)<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption> 
+	</figure>
+
+	<table class="census">
+	    <caption>Liste des domiciles d'Emile</caption>
+		<thead>
+	        <tr>
+	            <th id="date">Date</th>
+	            <th id="adresse">Adresse</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
+	        </tr>
+	        <tr>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
+	        </tr>
+	        <tr>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
+	        </tr>
+	        <tr>
+	            <td headers="date"></td>
+	            <td headers="adresse"></td>
+	        </tr>
+	    </tbody>   
+	</table>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <h2>La mobilisation d'août 1914</h2>
 
@@ -181,6 +223,7 @@ data-ad-slot="8236218848"></ins>
 <p><em>"Le choc a lieu le 25 août. Le Régiment est en deuxième ligne. La 56e Division d'Infanterie obtient un succès important et repousse complètement l'ennemi à Buzy le contraignant à battre en retraite et lui infligeant de grosses pertes. La situation critique de l'Aile Gauche de l'Armée Française est telle que le succès n'est pas exploité et la 56e Division d'Infanterie reçoit l'ordre de rompre le combat pour être transportée vers le Nord. Le 294e Régiment d'Infanterie embarque en chemin de fer à Dugny et à Dieue, débarque à Moyenneville et Tricot (Oise) et se dirige sur Montdidier pour prendre position en avant de Senlis."</em></p>
 
 <h2>Le combat de Senlis</h2>
+<<<<<<< HEAD
 
 <p><em>"La 56e Division d'Infanterie a pour mission de ralentir la marche de l'ennemi dont les avant-gardes cherchent à se rapprocher de Paris. Le 2 septembre, le régiment en arrière garde de la 56e Division d'Infanterie, reçoit l'ordre de tenir les lisères de Senlis jusqu'à 13 heures. Dès l'aube, les éléments avancés de l'ennemi attaquent, mais ne parviennent pas, malgré le tir acharné de leur artillerie, à nous déloger et le Régiment résiste sur les positions qui ont été assignées jusqu'à 15 heures, se replie ensuite par les bois et par la ville de Senlis. Le 3, le Régiment se dégage et se replie sur Ory-la-Ville, le Lieutenant Colonel DUPERRIER, malade, est évacué et le Chef de Bataillon SELVA prend le commandement du régiment. Le 4, le Régiment cantonne à Dammartin-en-Goele, et prend le lendemain la direction de l'Est, se dirigeant vers Saint-Soupplet."</em></p>
 
@@ -192,6 +235,19 @@ data-ad-slot="8236218848"></ins>
 
 <h2>La Bataille de la Marne</h2>
 
+=======
+    
+<p><em>"La 56e Division d'Infanterie a pour mission de ralentir la marche de l'ennemi dont les avant-gardes cherchent à se rapprocher de Paris. Le 2 septembre, le régiment en arrière garde de la 56e Division d'Infanterie, reçoit l'ordre de tenir les lisères de Senlis jusqu'à 13 heures. Dès l'aube, les éléments avancés de l'ennemi attaquent, mais ne parviennent pas, malgré le tir acharné de leur artillerie, à nous déloger et le Régiment résiste sur les positions qui ont été assignées jusqu'à 15 heures, se replie ensuite par les bois et par la ville de Senlis. Le 3, le Régiment se dégage et se replie sur Ory-la-Ville, le Lieutenant Colonel DUPERRIER, malade, est évacué et le Chef de Bataillon SELVA prend le commandement du régiment. Le 4, le Régiment cantonne à Dammartin-en-Goele, et prend le lendemain la direction de l'Est, se dirigeant vers Saint-Soupplet."</em></p>
+    
+	<figure>
+	    <a href="images/Cpa_Senlis.jpg" data-fancybox="gallery" data-caption="Senlis incendiée par les Allemands en 1914">
+	    <img src="miniatures/Cpa_Senlis.jpg" alt="Senlis incendiée par les Allemands pendant la Grande Guerre sur une carte postale ancienne"></a>
+	    <figcaption>Senlis incendiée par les Allemands le 2 septembre 1914<br/>(cliquez pour agrandir)</figcaption> 
+	</figure>
+
+<h2>La Bataille de la Marne</h2>
+   
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 <p><em>"L'Armée Française prend l'offensive, le 294e Régiment d'Infanterie prend par en 1ère ligne au combat d'Etrépilly et attaque la ferme de Champfleury, dont il s'empare le 5 septembre. Le 6 et le 7, les combats se succèdent très violents et le Régiment poursuivant l'ennemi continue sa progression vers l'Aisne."</em></p>
 
 <figure>
@@ -202,6 +258,11 @@ data-ad-slot="8236218848"></ins>
 
 <h2>Le combat sur l'Aisne</h2>
 
+<<<<<<< HEAD
+=======
+<h2>Le combat sur l'Aisne</h2>
+    
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 <p>Le 13 septembre, Émile DUBOIS et son régiment reçoivent l'ordre de traverser l'Aisne. Ils se heurtent à Saconin-et-Breuil, à une résistance acharnée de l'ennemi dont l'artillerie déclenche des barrages continuels sur les ponts (Combat de Vaux-Mercin). Après plusieurs tentatives meurtrières, le Régiment parvient le 15 à franchir la rivière après avoir glissé sur la droite jusque 4 km environ à l'Est de Vic-sur-Aisne, à Fontenoy. Le Régiment se regroupe sur la rive droite et prend part aux combats livrés sur le plateau de Nouvron les 17-18-19 et 20 septembre (Combat de Berry-au-Bac). Placé en réserve le 21, Émile et le 294e Régiment d'Infanterie prennent la direction au Nord et après avoir traversé Carlepont et Ribécourt, et sont embarqués à Compiègne à destination de la Boissière – Fécamp ou s'opère le débarquement.</p>
 
 <h2>La Bataille de l'Oise</h2>

@@ -62,6 +62,7 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 
 <ul>
 
+<<<<<<< HEAD
 <li class="asideheader">Marne</li>
 
 <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
@@ -72,6 +73,18 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
 <li><a href="paquet-leopold.php" class="AsideSelected">PAQUET Léopold</a></li>
 
+=======
+	<li class="asideheader">Marne</li>
+        
+    <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
+    <li><a href="astiers-jules-alphonse.php">ASTIER(S) Jules Alphonse</a></li>       
+    <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
+    <li><a href="caron-eugene-alexandre.php">CARON Eugène Alexandre</a></li>
+    <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
+    <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
+    <li><a href="paquet-leopold.php" class="AsideSelected">PAQUET Léopold</a></li>
+  	      
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 </ul>
 
 <div id="pubaside">
@@ -93,6 +106,41 @@ data-ad-slot="8236218848"></ins>
 <h1>Léopold PAQUET</h1>
 
 <p><strong>Léopold PAQUET</strong> est né le 5 décembre 1886 à Reims (Marne), fils légitime de François PAQUET et Marie LEFEVRE. Le 20 juin 1914, il épouse à Bétheniville Marie Hélène ARNOULD, la sœur de mon arrière-grand-père. Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 août 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 août 1917 pour paralysie radiale du bras gauche, juste après la Bataille des Ardennes. Il est décédé à Bétheniville le 10 octobre 1953.</p>
+<<<<<<< HEAD
+=======
+    
+    <table class="census">
+    <caption>Liste des domiciles de Léoplod PAQUET</caption>
+    <thead>
+        <tr>
+            <th id="date">Date</th>
+            <th id="adresse">Adresse</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td headers="date"></td>
+            <td headers="adresse"></td>
+        </tr>
+        <tr>
+            <td headers="date"></td>
+            <td headers="adresse"></td>
+        </tr>
+        <tr>
+            <td headers="date"></td>
+            <td headers="adresse"></td>
+        </tr>
+        <tr>
+            <td headers="date"></td>
+            <td headers="adresse"></td>
+        </tr>
+    </tbody>   
+	</table>    
+            
+<p class="sources">
+<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
+</p>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <table class="census">
 <caption>Liste des domiciles de Léoplod PAQUET</caption>

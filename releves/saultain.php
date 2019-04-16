@@ -131,6 +131,7 @@ data-ad-slot="8236218848"></ins>
 <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
 <table class="releves">
+<<<<<<< HEAD
 <thead>
 <tr>
 <th id="nom">Nom et prénom(s)</th>
@@ -322,6 +323,199 @@ data-ad-slot="8236218848"></ins>
 <td headers="corps">9e Génie<br/>Sergent</td>
 <td headers="genre">Tué à l'ennemi</td>
 </tr>                  
+=======
+  <thead>
+  <tr>
+    <th id="nom">Nom et prénom(s)</th>
+    <th id="naissance">Date et lieu<br/>de naissance</th>
+    <th id="mort">Date et lieu<br/>de décès</th>
+    <th id="corps">Corps</th>
+    <th id="genre">Genre<br/>de mort</th>
+  </tr>
+  </thead>
+  <tr>
+    <td headers="nom">BAILLEUX<br/>Adolphe Jean Baptiste</td>
+    <td headers="naissance">31 août 1889<br/>à Préseau (Nord)</td>
+    <td headers="mort">3 mars 1915<br/>à Beauséjour (Marne)</td>
+    <td headers="corps">91e R.I<br/>Soldat</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr>
+  <tr>
+    <td headers="nom">BASQUIN<br/>Léon</td>
+    <td headers="naissance">26 février 1888<br/>à Neuvilly (Nord)</td>
+    <td headers="mort">22 au 28 août 1914<br/>à Yoncq (Ardennes)</td>
+    <td headers="corps">147e R.I<br/>Soldat</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr> 
+  <tr>
+    <td headers="nom">BERTEAU<br/>Désiré Joseph</td>
+    <td headers="naissance">24 novembre 1870<br/>à Saultain</td>
+    <td headers="mort">2 avril 1918<br/>à <a href="../camps/camp-munster.php" title="Le camp de prisonniers de Münster">Münster (Allemagne)</a></td>
+    <td headers="corps">4e R.I.T<br/>Soldat</td>
+    <td headers="genre">Maladie</td>
+  </tr>
+  <tr>
+    <td headers="nom">BERTEAU<br/>Georges</td>
+    <td headers="naissance">30 octobre 1884<br/>à Saultain</td>
+    <td headers="mort">7 octobre 1915<br/>à Souain (Marne)</td>
+    <td headers="corps">327e R.I<br/>Soldat</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr>
+  <tr>
+    <td headers="nom">BLAREAU<br/>Henri</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps" colspan="2"><strong>Victime civile</strong></td>   
+  </tr>   
+    <tr>
+    <td headers="nom">COCHE<br/>Chrysoline</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps" colspan="2"><strong>Victime civile</strong></td>   
+  </tr> 
+  <tr>
+    <td headers="nom">DEHON<br/>Désiré</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps" colspan="2"><strong>Victime civile</strong></td>   
+  </tr> 
+  <tr>
+    <td headers="nom">DUHAUT<br/>François</td>
+    <td headers="naissance">6 mars 1881 (?)<br/>à Préseaux</td>
+    <td headers="mort">20 mai 1916<br/>à Verdun (Meuse)</td>
+    <td headers="corps">162e R.I<br/>Soldat</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr>    
+    <tr>
+    <td headers="nom">HACART<br/>Héloïse</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps" colspan="2"><strong>Victime civile</strong></td>   
+  </tr> 
+  <tr>
+    <td headers="nom">HOURDEAU<br/>Émile</td>
+    <td headers="naissance">10 juillet 1889<br/>à Préseaux (Nord)</td>
+    <td headers="mort">25 août 1918<br/>à <a href="../hopitaux/hopitaux-hdf.php" title="liste des hopitaux des Hauts-de-France pendant la Grande-Guerre">L'hopital d'évacuation n°36 de Catenoy (Oise)</a></td>
+    <td headers="corps">297e R.I<br/>Caporal</td>
+    <td headers="genre">Blessures de guerre</td>
+  </tr>
+  <tr>
+    <td headers="nom">HUYSMAN<br/>Clément</td>
+    <td headers="naissance">23 mars 1885<br/>à Maresches (Nord)</td>
+    <td headers="mort">24 février 1916<br/>au Bois des Fosses (Meuse)</td>
+    <td headers="corps">327e R.I<br/>Caporal</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr>
+  <tr>
+    <td headers="nom">HUYSMAN<br/>Léon</td>
+    <td headers="naissance">1 août 1891<br/>à Maresches (Nord)</td>
+    <td headers="mort">18 juillet 1918<br/>à Montmirail (Marne)</td>
+    <td headers="corps">18e B.C.P<br/>Caporal</td>
+    <td headers="genre">Blessures de guerre</td>
+  </tr>
+  <tr>
+    <td headers="nom">LABOUREAU<br/>Albert</td>
+    <td headers="naissance">24 août 1888<br/>à Saultain</td>
+    <td headers="mort">1er mai 1917<br/>à La Neuville (Marne)</td>
+    <td headers="corps">51e R.I<br/>Caporal</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr>
+  <tr>
+    <td headers="nom">LABOUREAU<br/>Émile Joseph</td>
+    <td headers="naissance">18 octobre 1892<br/>à Saultain</td>
+    <td headers="mort">8 mai 1916<br/>à Malancourt (Meuse)</td>
+    <td headers="corps">32e R.I<br/>Soldat</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr>
+  <tr>
+    <td headers="nom">LASSERON<br/>Georges Aimé</td>
+    <td headers="naissance">17 juillet 1893<br/>à Becquigny (Aisne)</td>
+    <td headers="mort">16 avril 1917<br/>à Craonne (Aisne)</td>
+    <td headers="corps">8e R.I<br/>Soldat</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr>
+  <tr>
+    <td headers="nom">LECONTE<br/>Laurent Joseph</td>
+    <td headers="naissance">26 août 1883<br/>à Saultain</td>
+    <td headers="mort">12 octobre 1914<br/>à Bagatelle (Marne)</td>
+    <td headers="corps">91e R.I<br/>Soldat</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr> 
+  <tr>
+    <td headers="nom">LEGROS<br/>Pierre</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps" colspan="2"><strong>Victime civile</strong></td>   
+  </tr>   
+  <tr>
+    <td headers="nom">LIBAN<br/>Gaston</td>
+    <td headers="naissance">15 avril 1893<br/>à Saultain</td>
+    <td headers="mort">16 novembre 1914<br/>à Vieil-Arcy (Aisne)</td>
+    <td headers="corps">84e R.I<br/>Soldat</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr>  
+  <tr>
+    <td headers="nom">LORY<br/>Nestor</td>
+    <td headers="naissance">10 août 1891<br/>à Saultain</td>
+    <td headers="mort">20 février 1917<br/>à Nieuport (Belgique)</td>
+    <td headers="corps">141e R.I<br/>Sergent</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr>
+  <tr>
+    <td headers="nom">MONTROEUL<br/>Ernest Joseph</td>
+    <td headers="naissance">22 juillet 1884<br/>à Anzin (Nord)</td>
+    <td headers="mort">12 juin 1915<br/>à Colincamps (Somme)</td>
+    <td headers="corps">327e R.I<br/>Soldat</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr>
+  <tr>
+    <td headers="nom">MOUFTIER<br/>Maria</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps" colspan="2"><strong>Victime civile</strong></td>   
+  </tr> 
+  <tr>
+    <td headers="nom">REMY<br/>Paul</td>
+    <td headers="naissance">16 mars 1894<br/>à Saultain</td>
+    <td headers="mort">6 février 1915<br/>à Vienne-le-Château (Marne)</td>
+    <td headers="corps">1er R.I<br/>Soldat</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr>
+  <tr>
+    <td headers="nom">RIQUET<br/>Rosine</td>
+    <td headers="naissance">&nbsp;</td>
+    <td headers="mort">&nbsp;</td>
+    <td headers="corps" colspan="2"><strong>Victime civile</strong></td>   
+  </tr>   
+  <tr>
+    <td headers="nom">SAINTIN<br/>Albert</td>
+    <td headers="naissance">31 mars 1892<br/>à Saultain</td>
+    <td headers="mort">5 décembre 1914<br/>à Saint-Hubert (Marne)</td>
+    <td headers="corps">91e R.I<br/>soldat</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr>
+  <tr>
+    <td headers="nom">TAQUET<br/>Jules</td>
+    <td headers="naissance">16 novembre 1885<br/>à Saultain</td>
+    <td headers="mort">17 septembre 1914<br/>à Prosnes (Marne)</td>
+    <td headers="corps">291e R.I<br/>Soldat</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr>
+  <tr>
+    <td headers="nom">WARCHEZ<br/>Albert</td>
+    <td headers="naissance">13 septembre 1893<br/>à Anzin (Nord)</td>
+    <td headers="mort">29 août 1914<br/>à La Hérie (Aisne)</td>
+    <td headers="corps">84e R.I<br/>Soldat</td>
+    <td headers="genre">&nbsp;</td>
+  </tr>
+  <tr>
+    <td headers="nom">WUILLOT<br/>Gustave</td>
+    <td headers="naissance">8 janvier 1882<br/>à Saultain</td>
+    <td headers="mort">7 septembre 1914<br/>Vaux-Marie (Marne)</td>
+    <td headers="corps">9e Génie<br/>Sergent</td>
+    <td headers="genre">Tué à l'ennemi</td>
+  </tr>                  
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 </table>
 
 <h3>Remarques</h3>

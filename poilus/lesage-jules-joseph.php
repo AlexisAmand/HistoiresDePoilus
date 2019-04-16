@@ -118,6 +118,43 @@ data-ad-slot="8236218848"></ins>
 <article>
 
 <h1>Jules Joseph LESAGE</h1>
+<<<<<<< HEAD
+=======
+        
+<p><strong>Jules Joseph LESAGE</strong> est né à Roeulx le 20 août 1887, fils légitimie de Joseph et de Hubertine BOITELET. Il est le beau-frère des <a href="CARIN-Edouard.php">frères CARIN</a>, dont j'ai déjà parlé sur ce site.</p>
+    
+    <table class="census">
+        <caption>Liste des domiciles de Jules</caption>
+	    <thead>
+	        <tr>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+        <tr>
+            <td headers="date">13 juillet 1917</td>
+            <td headers="adresse">Chez Me Veuve ARSENE<br/>Vieux Coron<br/>à Barlin (Pas-de-Calais)</td>
+        </tr>
+        <tr>
+            <td headers="date">26 octobre 1920</td>
+            <td headers="adresse">Coron Tout Quitte<br/>à Roeulx (Nord)</td>
+        </tr>
+        <tr>
+            <td headers="date">28 juin 1922</td>
+            <td headers="adresse">45 Rue Socrate<br/>à Lourches (Nord)</td>
+        </tr>
+        <tr>
+            <td headers="date">8 septembre 1924</td>
+            <td headers="adresse">62 Rue de la République<br/>à Roeulx (Nord)</td>            
+        </tr>
+        </tbody>
+    </table>
+
+<p class="sources">
+<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
+</p>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <p><strong>Jules Joseph LESAGE</strong> est né à Roeulx le 20 août 1887, fils légitimie de Joseph et de Hubertine BOITELET. Il est le beau-frère des <a href="CARIN-Edouard.php">frères CARIN</a>, dont j'ai déjà parlé sur ce site.</p>
 

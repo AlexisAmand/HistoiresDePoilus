@@ -62,6 +62,7 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 
 <ul>
 
+<<<<<<< HEAD
 <li class="asideheader">Nord</li>
 
 <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
@@ -99,6 +100,45 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 <li><a href="tiburce-louis.php">TIBURCE Louis</a></li>
 <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
 
+=======
+        <li class="asideheader">Nord</li>
+
+        <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
+	      <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
+		    <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
+        <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
+        <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
+        <li><a href="carin-joseph.php">CARIN Joseph</a></li>
+        <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
+        <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
+        <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
+        <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
+        <li><a href="delaux-oscar-julien.php">DELAUX Oscar Julien</a></li>
+        <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
+        <li><a href="dubois-jean-charles.php">DUBOIS Jean Charles (+)</a></li>
+        <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
+        <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
+        <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
+        <li><a href="GRAIN-Leon-Albert.php">GRAIN Léon Albert</a></li>
+        <li><a href="GRAIN-Louis.php">GRAIN Louis</a></li>
+        <li><a href="hanze-augustin.php">HANZE Augustin (+)</a></li>
+        <li><a href="JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
+        <li><a href="lamandin-georges.php">LAMANDIN Georges (+)</a></li>
+        <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
+        <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
+        <li><a href="magny-jules.php">MAGNY Jules</a></li>
+        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-leon.php">MASCART Léon</a></li>
+        <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
+        <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
+        <li><a href="patou-druon-adrien.php">PATOU Druon Adrien (+)</a></li>
+        <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
+        <li><a href="rousseaux-eugene-fernand.php" class="AsideSelected">ROUSSEAUX Eugène Fernand</a></li>
+        <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
+        <li><a href="tiburce-louis.php">TIBURCE Louis</a></li>
+        <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
+           	      
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 </ul>
 
 <div id="pubaside">
@@ -119,7 +159,41 @@ data-ad-slot="8236218848"></ins>
 
 <h1>Eugène Fernand ROUSSEAUX</h1>
 
+<<<<<<< HEAD
 <p><strong>Eugène Fernand ROUSSEAUX</strong>, né en 1891 à Roubaix (Nord) et prisonnier de guerre au camp de <a href="../camps/camp-hammerstein.php" title="Le camp de prisonniers de Hammerstein">Hammerstein</a> puis à celui de <a href="../camps/camp-minden.php" title="Le camp de prisonniers de Minden">Minden</a>. Eugène est le petit-fils de Léonie FIEVET (ma sosa n°97), et le cousin de <a href="FIEVET-Charles-Augustin.php">Charles</a> et <a href="FIEVET-Auguste-Victor.php" title="Biographie du poilu Auguste FIEVET">Auguste FIEVET</a> (par contre, ils n'ont que 3 de leurs 4 grand-parents en commun car Léonie a eu des enfants avec 2 hommes différents)</p>
+=======
+<table class="census">
+	    <caption>Liste des domiciles d'Eugène</caption>
+	    <thead>
+	        <tr>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	    </tbody>   
+	</table>
+
+<p class="sources">
+<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
+</p>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <table class="census">
 <caption>Liste des domiciles d'Eugène</caption>

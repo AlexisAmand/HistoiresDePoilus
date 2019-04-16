@@ -62,8 +62,13 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 <ul>
 <li class="asideheader">Côte-d'Or</li>
 
+<<<<<<< HEAD
 <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
 <li><a href="froidurot-alphonse.php"  class="AsideSelected">FROIDUROT Alphonse</a></li>           
+=======
+        <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
+        <li><a href="froidurot-alphonse.php"  class="AsideSelected">FROIDUROT Alphonse</a></li>           
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 </ul>
 
 <div id="pubaside">
@@ -91,6 +96,7 @@ Matricule n°327, classe 1888 bureau de Dijon<br/>
 Rappelé à l'activité par la mobilisation générale du 2 août 1914. Arrivé au service de « la garde des voies de communication »  le dit jour et renvoyé dans ses foyers le 28 janviers 1915<br/>
 </p>
 
+<<<<<<< HEAD
 <figure>
 <a href="sources/froidurot-alphonse-matricule.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Alphonse FROIDUROT">
 <img src="miniatures/froidurot-alphonse-matricule.jpg" alt="Extrait de la fiche matricule d'Alphonse FROIDUROT"/></a>
@@ -126,6 +132,46 @@ Rappelé à l'activité par la mobilisation générale du 2 août 1914. Arrivé 
 </table>
 
 <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+=======
+	<figure>
+	    <a href="sources/froidurot-alphonse-matricule.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Alphonse FROIDUROT">
+	    <img src="miniatures/froidurot-alphonse-matricule.jpg" alt="Extrait de la fiche matricule d'Alphonse FROIDUROT"/></a>
+	    <figcaption>Extrait de sa fiche matricule<br/>(Source: Archives Départementales de la Côte-d'Or)</figcaption>
+	</figure>
+
+  <table class="census">
+	    <caption>Liste des domiciles d'Alphonse</caption>
+	    <thead>
+	        <tr>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	    </tbody>   
+	</table>
+    
+<p class="sources">
+<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
+</p>
+
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 </article>
 
 </section>

@@ -62,6 +62,7 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 
 <ul>
 
+<<<<<<< HEAD
 <li class="asideheader">Marne</li>
 
 <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
@@ -72,6 +73,18 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
 <li><a href="paquet-leopold.php">PAQUET Léopold</a></li>
 
+=======
+	<li class="asideheader">Marne</li>
+        
+    <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
+    <li><a href="astiers-jules-alphonse.php">ASTIER(S) Jules Alphonse</a></li>       
+    <li><a href="BALTAZART-Ernest-Auguste.php" class="AsideSelected">BALTAZART Ernest Auguste</a></li>
+    <li><a href="caron-eugene-alexandre.php">CARON Eugène Alexandre</a></li>
+    <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
+    <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
+    <li><a href="paquet-leopold.php">PAQUET Léopold</a></li>
+  	      
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 </ul>
 
 <div id="pubaside">

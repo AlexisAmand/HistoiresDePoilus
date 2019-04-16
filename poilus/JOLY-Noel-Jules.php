@@ -127,6 +127,7 @@ data-ad-slot="8236218848"></ins>
 </figure>
 
 <p>Pour la petite histoire, Lucia CARLIER (fille de <a href="CARLIER-Druon-Joseph.php" title="lien vers la page consacrée à Druon Carlier">Druon CARLIER</a>) épouse Noël JOLY (le fils de <a href="JOLY-Noel-Jules.php">Noël Jules JOLY) </a>le 24 septembre 1927 à Onnaing. </p>
+<<<<<<< HEAD
 
 <figure>
 <a href="portraits/joly-noel-jules.jpg" data-fancybox="gallery" data-caption="Portrait de Noël Jules JOLY">
@@ -161,6 +162,42 @@ data-ad-slot="8236218848"></ins>
 </tr>
 </tbody>   
 </table>
+=======
+  
+	<figure>
+	    <a href="portraits/joly-noel-jules.jpg" data-fancybox="gallery" data-caption="Portrait de Noël Jules JOLY">
+	    <img src="miniatures/joly-noel-jules.jpg" alt="Portrait de Noël Jules JOLY"/></a>
+	    <figcaption>Portrait de Noël Jules<br/>(cliquez pour agrandir)</figcaption>
+	</figure>
+
+	<table class="census">
+	    <caption>Liste des domiciles de Noël</caption>
+	    <thead>
+	        <tr>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	    </tbody>   
+	</table>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <h2>La mobilisation d'août 1914</h2>
 
@@ -175,6 +212,7 @@ data-ad-slot="8236218848"></ins>
 <h2> Noël et le "Centre de résistance de Rocq"</h2>
 
 <p>Selon son dossier d'ancien combattant, <strong>Noël Jules</strong> fait partie de la 16e batterie du 13e groupe auxiliaire du <strong>1er Régiment d'Artillerie à Pied</strong> sous les ordres du capitaine Lafeuille (voir document en bas de la page). Pourquoi une telle différence entre la fiche matricule, qui indique le 2e R.I.T, et sa carte d'ancien combattant qui indique 1er R.A.P ? Mystère...!</p><p>Les soldats du 1er Régiment d'Artillerie à Pied étaient stationnés sur l'ensemble qui prendra le nom de « Centre de résistance de Rocq ». </p><p>Le 2 septembre 1914, le bombardement reprend sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance. </p>
+<<<<<<< HEAD
 
 <figure>
 <a href="images/fort-cerfontaine.jpg" data-fancybox="gallery" data-caption="L'entrée du Fort de Cerfontaine">
@@ -189,6 +227,22 @@ data-ad-slot="8236218848"></ins>
 <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
 <figcaption>L'emplacement des forts de la place forte de Maubeuge<br/>et position des troupes le 3 septembre 1914<br/>(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
 </figure>   
+=======
+    
+	<figure>
+	    <a href="images/fort-cerfontaine.jpg" data-fancybox="gallery" data-caption="L'entrée du Fort de Cerfontaine">
+	    <img src="miniatures/fort-cerfontaine.jpg" alt="L'entrée du Fort de Cerfontaine"/></a>
+	    <figcaption>Le Fort de Cerfontaine<br/>(cliquez pour agrandir - source: http://www.mapio.cz/ )</figcaption>
+	</figure>    
+    
+    <p>Le 3 septembre, un déluge d'obus allemands, de gros calibres, du 210 et du 420, tombe pendant 2 jours sur les secteurs de Fagnet, la Salmagne, Boussois, Cerfontaine et Rocq où est cantonné Noël JOLY. </p><p>Le <strong>Centre de résistance de Rocq</strong> résistera héroïquement, plus d'une semaine, jusqu'au 6 septembre 1914, date à laquelle le secteur nord-est donne des signes de craquement. Le matin, au sud-est, une attaque est repoussée devant la position de Rocq. Au nord-est, deux attaques échouent mais une troisième parvient à enlever l'ouvrage de la Salmagne. Celui de Bersillies succombe à son tour le soir.</p>
+
+	<figure>
+	    <a href="images/forts-maubeuge.jpg" data-fancybox="gallery" data-caption="L'emplacement des forts de la place forte de Maubeuge en 1914">
+	    <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
+	    <figcaption>L'emplacement des forts de la place forte de Maubeuge<br/>et position des troupes le 3 septembre 1914<br/>(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
+	</figure>   
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <h2>La chute de Maubeuge</h2>
 

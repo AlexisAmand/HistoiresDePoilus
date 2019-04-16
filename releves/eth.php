@@ -123,8 +123,13 @@ data-ad-slot="8236218848"></ins>
 <p>Voici la liste des morts pour la France  de Eth (Nord) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant <a href="../contact.php">un petit message</a>.</p>
 
 <figure>
+<<<<<<< HEAD
 <img src="images/mini/monument-eth.jpg" alt="Le Monument aux Morts pour la France à Eth">
 <figcaption>Le Monument aux Morts d'Eth,<br/>dans le petit cimetière.</figcaption>
+=======
+	<img src="images/mini/monument-eth.jpg" alt="Le Monument aux Morts pour la France à Eth">
+  <figcaption>Le Monument aux Morts d'Eth,<br/>dans le petit cimetière.</figcaption>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 </figure>
 
 <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
@@ -206,6 +211,7 @@ data-ad-slot="8236218848"></ins>
 
 <br/><br/>
 
+<<<<<<< HEAD
 <h2>Tombes de guerre du Commonwealth</h2>
 <p>Le cimetière communal d'Eth contient aussi 9 tombes du Commonwealth.</p>
 <p>&nbsp;</p>
@@ -284,13 +290,103 @@ data-ad-slot="8236218848"></ins>
 <td headers="morts">?</td>
 </tr>
 </table>
+=======
+    <h2>Tombes de guerre du Commonwealth</h2>
+    <p>Le cimetière communal d'Eth contient aussi 9 tombes du Commonwealth.</p>
+    <p>&nbsp;</p>
+
+    <table>
+        <thead>
+        <tr>
+            <th id="nom">Nom</th>
+            <th id="age">Âge</th>
+            <th id="corps">Corps</th>
+            <th id="grade">Grade</th>
+            <th id="morts">Date du décès</th>
+        </tr>
+        </thead>
+        <tr>
+            <td headers="nom">BEDFORD<br/>Thomas Arthur</td>
+            <td headers="age">28 ans</td>
+            <td headers="corps">West Yorkshire Regiment</td>
+            <td headers="grade">Second Lieutenant</td>
+            <td headers="morts">4 novembre 1918</td>
+        </tr>
+        <tr>
+            <td headers="nom">CHAPMAN<br/>Albert</td>
+            <td headers="age">27 ans</td>
+            <td headers="corps">Welch Regiment</td>
+            <td headers="grade">Lance Caporal</td>
+            <td headers="morts">8 novembre 1918</td>
+        </tr>
+        <tr>
+            <td headers="nom">DORAN<br/>A. J.</td>
+            <td headers="age">19 ans</td>
+            <td headers="corps">Welch Regiment</td>
+            <td headers="grade">Private</td>
+            <td headers="morts">4 novembre 1918</td>
+        </tr>
+        <tr>
+            <td headers="nom">GRIFFITHS<br/>Thomas</td>
+            <td headers="age">23 ans</td>
+            <td headers="corps">Welch Regiment</td>
+            <td headers="grade">Lance Caporal</td>
+            <td headers="morts">4 novembre 1918</td>
+        </tr>
+        <tr>
+            <td headers="nom">LAMBDIN<br/>Reginald George</td>
+            <td headers="age">19 ans</td>
+            <td headers="corps">Wiltshire Regiment</td>
+            <td headers="grade">Private</td>
+            <td headers="morts">4 novembre 1918</td>
+        </tr>
+        <tr>
+            <td headers="nom">POTTER<br/>E.</td>
+            <td headers="age">?</td>
+            <td headers="corps">Welch Regiment</td>
+            <td headers="grade">Private</td>
+            <td headers="morts">4 novembre 1918</td>
+        </tr>
+        <tr>
+            <td headers="nom">STAPLES<br/>G. H.</td>
+            <td headers="age">?</td>
+            <td headers="corps">Machine Gun Corps</td>
+            <td headers="grade">Private</td>
+            <td headers="morts">4 novembre 1918</td>
+        </tr>
+        <tr>
+            <td headers="nom">WARD <br/>F.</td>
+            <td headers="age">?</td>
+            <td headers="corps">Wiltshire Regiment</td>
+            <td headers="grade">Private</td>
+            <td headers="morts">4 novembre 1918</td>
+        </tr>
+        <tr>
+            <td headers="nom">Un soldat inconnu</td>
+            <td headers="age">?</td>
+            <td headers="corps">?</td>
+            <td headers="grade">?</td>
+            <td headers="morts">?</td>
+        </tr>
+    </table>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <h2>Sources</h2>
 
 <ul>
+<<<<<<< HEAD
 <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
 <li>Mémoire des Hommes (Ministère de la Défense)</li>
 </ul>
+=======
+  <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
+  <li>Mémoire des Hommes (Ministère de la Défense)</li>
+</ul>
+
+<p class="sources">
+<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
+</p>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 </article>

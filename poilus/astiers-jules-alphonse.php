@@ -62,6 +62,7 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 
 <ul>
 
+<<<<<<< HEAD
 <li class="asideheader">Marne</li>
 
 <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
@@ -72,6 +73,18 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
 <li><a href="paquet-leopold.php">PAQUET Léopold</a></li>
 
+=======
+	<li class="asideheader">Marne</li>
+        
+    <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
+    <li><a href="astiers-jules-alphonse.php" class="AsideSelected">ASTIER(S) Jules Alphonse</a></li>       
+    <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
+    <li><a href="caron-eugene-alexandre.php">CARON Eugène Alexandre</a></li>
+    <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
+    <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
+    <li><a href="paquet-leopold.php">PAQUET Léopold</a></li>
+  	      
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 </ul>
 
 <div id="pubaside">
@@ -91,6 +104,7 @@ data-ad-slot="8236218848"></ins>
 <article>
 
 <h1>Jules Alphonse ASTIER(S)</h1>
+<<<<<<< HEAD
 
 <p>Jules Alphonse ASTIER(S) est né le 14 février 1872 à Bétheniville, dans la Marne. Tisseur, il est le fils légitime d'André ASTIER et de Louise Adèle BALTAZART. Jules est le cousin germain d'un autre poilu de ce site nommé <a href="arnould-henri-rene.php" title="biographie de Henri René ARNOULD">Henri René ARNOULD</a>.</p> 
 
@@ -99,6 +113,18 @@ data-ad-slot="8236218848"></ins>
 <img src="miniatures/arbre-astiers-jules.png" alt="Arbre généalogique partiel de Jules ASTIER(S)" class="ArbreGenealogique"></a>
 <figcaption>Arbre généalogique partiel de Jules ASTIER(S)<br/>(cliquez pour agrandir)</figcaption>
 </figure>
+=======
+
+<p>Jules Alphonse ASTIER(S) est né le 14 février 1872 à Bétheniville, dans la Marne. Tisseur, il est le fils légitime d'André ASTIER et de Louise Adèle BALTAZART. Jules est le cousin germain d'un autre poilu de ce site nommé <a href="arnould-henri-rene.php" title="biographie de Henri René ARNOULD">Henri René ARNOULD</a>.</p> 
+
+<figure>
+	    <a href="images/arbre-astiers-jules.png" data-fancybox="gallery" data-caption="Les ascendants de Jules ASTIER(S)">
+	    <img src="miniatures/arbre-astiers-jules.png" alt="Arbre généalogique partiel de Jules ASTIER(S)" class="ArbreGenealogique"></a>
+	    <figcaption>Arbre généalogique partiel de Jules ASTIER(S)<br/>(cliquez pour agrandir)</figcaption>
+	</figure>
+
+Il part pour le service militaire le 16 novembre 1893 aprés avoir été déclaré "bon" lors de son conseil de révision. Il rejoint le 91e Régiment d'Infanterie, et arrive au corps en tant que soldat de 2e classe. Il devient soldat de 1ere classe le 8 octobre 1894 et est envoyé en congés un mois plus tard avec le certificat de bonne conduite.</p>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <p>Il part pour le service militaire le 16 novembre 1893 aprés avoir été déclaré "bon" lors de son conseil de révision. Il rejoint le 91e Régiment d'Infanterie, et arrive au corps en tant que soldat de 2e classe. Il devient soldat de 1ere classe le 8 octobre 1894 et est envoyé en congés un mois plus tard avec le certificat de bonne conduite.</p>
 
@@ -109,6 +135,69 @@ data-ad-slot="8236218848"></ins>
 </figure>
 
 <p>20 ans plus tard, lors de <a href="mobilisation-1914" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation générale</a> du 1er août 1914, il est rappelé mais est renvoyé provisoirement le 2 septembre 1914. Quelques mois plus tard, le 3 avril 1915, il est de nouveau rappelé et rejoint le 10e Escadron de Train dés le 20 où il reste 9 jours avant de rejoindre le 13e Régiment d'Artillerie. Il passe les deux dernières années de la guerre détaché dans des usines d'armement de Colombe et Mondeville (Normandie) avant d'être finalement libéré du service le 1 octobre 1919.</p>
+<<<<<<< HEAD
+=======
+	
+	<table class="census">
+	    <caption>Liste des domiciles de Jules Alphonse ASTIER(S)</caption>
+	    <thead>
+	        <tr>
+	            <th id="date">Date</th>
+	            <th id="adresse">Adresse</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	    	<tr>
+	            <td headers="date">1881</td>
+	            <td headers="adresse">Chez ses parents<br/>Place du Munet<br/>à Bétheniville (Marne)</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">27 juillet 1897</td>
+	            <td headers="adresse">13 rue Neufchatel<br/>à Reims (Marne)</td>
+	        </tr>
+	        <tr>
+	        	<td headers="date">15 mars 1898</td>
+	        	<td headers="adresse">Bétheniville (Marne)</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1901</td>
+	            <td headers="adresse">Grand'rue<br/>à Bétheniville (Marne)</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1906</td>
+	            <td headers="adresse">Rue des chevaliers<br/>à Bétheniville (Marne)</td>
+	        </tr>
+	        <tr>
+	        	<td headers="date">21 octobre 1906</td>
+	        	<td headers="adresse">13 rue de Bétheny<br/>à Reims (Marne)</td>
+	        </tr>
+	        <tr>
+	        	<td headers="date">21 juillet 1907</td>
+	        	<td headers="adresse">10 rue Villeminot<br/>à Reims (Marne)</td>
+	        </tr>
+	        <tr>
+	        	<td headers="date">20 octobre 1907</td>
+	        	<td headers="adresse"><a href="http://cartespostalesanciennes.genealexis.fr/image/517-la-route-de-reims-a-betheniville">Rue de Reims</a><br/>à Bétheniville (Marne)</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1911</td>
+	            <td headers="adresse">Rue de Merlan<br/>à Bétheniville (Marne)</td>
+	        </tr>
+	        <tr>
+	        	<td headers="date">27 octobre 1912</td>
+	        	<td headers="adresse">29 rue Maucroix<br/>à Reims (Marne)</td>
+	        </tr>
+	        <tr>
+	        	<td headers="date">7 septembre 1914</td>
+	        	<td headers="adresse">à Missy (Calvados)</td>
+	        </tr>
+	    </tbody>   
+	</table> 
+
+<p class="sources">
+<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
+</p>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <table class="census">
 <caption>Liste des domiciles de Jules Alphonse ASTIER(S)</caption>

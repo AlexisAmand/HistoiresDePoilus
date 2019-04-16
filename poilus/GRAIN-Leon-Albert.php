@@ -121,6 +121,7 @@ data-ad-slot="8236218848"></ins>
 
 <p>Frère de <a href="GRAIN-Louis.php" title="voir la page consacrée à Louis Grain">Louis</a>, <strong>Léon Albert GRAIN</strong> est né le vendredi 26 décembre 1879 à Villers-Guislain (Nord). Il est le fils légitime de Louis GRAIN, domestique âgé de 19 ans et Joséphine VELU, âgé de 17 ans. En 1906, Léon est tisseur et vit Rue du Catelet à Villers-Guislain en compagnie de son épouse Angèle BERCHON et de leur fille Lucie.</p>
 
+<<<<<<< HEAD
 <figure>
 <a href="images/arbre-grain.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille GRAIN">
 <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" class="ArbreGenealogique"/></a>
@@ -160,6 +161,47 @@ data-ad-slot="8236218848"></ins>
 </tr>
 </tbody>   
 </table>
+=======
+	<figure>
+	    <a href="images/arbre-grain.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille GRAIN">
+	    <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" class="ArbreGenealogique"/></a>
+	    <figcaption>Arbre simplifié de la famille GRAIN<br/>(cliquez pour agrandir)</figcaption>
+	</figure>
+	
+	<figure>
+	    <a href="sources/Leon-grain-matricule-02.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Léon Albert GRAIN">
+	    <img src="miniatures/Leon-grain-matricule-02.jpg" alt="extrait de la fiche matricule de Léon Albert GRAIN"/></a>
+	    <figcaption>Extrait de sa fiche matricule.<br/>(cliquez pour agrandir)</figcaption>
+	</figure>
+
+	<table class="census">
+	    <caption>Liste des domiciles de Léon</caption>
+	    <thead>
+	        <tr>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	    </tbody>   
+	</table>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <h2>La mobilisation d'août 1914</h2>
 

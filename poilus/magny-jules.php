@@ -118,6 +118,21 @@ data-ad-slot="8236218848"></ins>
 <article>
 
 <h1>Jules MAGNY</h1>
+<<<<<<< HEAD
+=======
+        
+<p><strong>Jules MAGNY</strong>, né le 18 août 1892 à Onnaing (Nord). Le 6 septembre 1916, soldat mitrailleur, il a,  par son calme et la précision de son tir, entravé une tentative de contre attaque allemande. Nommé caporal le 5 décembre 1917, il est ensuite prisonnier de guerre du 31 mai au 14 décembre 1918. Il était titulaire plusieurs médailles:</p>
+
+<ul>
+  <li>La croix de guerre avec étoile de bronze qui indique une ciation à l'ordre de l'armée.</li>
+  <li>la médaille commémorative de la Grande Guerre est une médaille qui a été créée par la loi du 23 juin 1920 et dont les catégories possibles de postulants sont reprises par une instruction du 20 janvier 21. Elle était, par exemple, attribuée aux militaires présents sous les drapeaux entre le 2 août 1914 et le 11 novembre 1918. Elle est parfois appelée "la médaille des poilus" en allusion au surnom donné aux soldats de la Premiére Guerre Mondiale.</li>
+  <li>la médaille interalliée.</li>
+</ul>
+
+<p>Abel, le frère de Jules MAGNY, épouse la fille de <a href="JOLY-Noel-Jules.php" title="biographie de Noël Jules JOLY">Noël Jules JOLY</a>.</p>
+
+
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <p><strong>Jules MAGNY</strong>, né le 18 août 1892 à Onnaing (Nord). Le 6 septembre 1916, soldat mitrailleur, il a,  par son calme et la précision de son tir, entravé une tentative de contre attaque allemande. Nommé caporal le 5 décembre 1917, il est ensuite prisonnier de guerre du 31 mai au 14 décembre 1918. Il était titulaire plusieurs médailles:</p>
 

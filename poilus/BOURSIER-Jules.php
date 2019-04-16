@@ -128,6 +128,7 @@ data-ad-slot="8236218848"></ins>
 
 <p><strong>Jules Henri BOURSIER</strong> est le poilu avec lequel ma parenté est la plus éloignée car il était marié avec Suzanne GODIN, descendante de quatre de mes ancêtres ayant vécu à la fin du XVIIe et au début du XVIIIe siècle. J'ai trouvé la photo ci-dessous grâce à un membre de Geneanet. Il me reste à comprendre pourquoi il y a 16 sur son col, alors qu'il faisait parti du <strong>1er Régiment d'Artillerie à Pied</strong> pendant la Première Guerre Mondiale. Peut-être que la photo n'est pas contemporaine au conflit ?</p>
 
+<<<<<<< HEAD
 <figure>
 <a href="portraits/BOURSIER-Jules-Henri.jpg" data-fancybox="gallery" data-caption="portrait de Jules Henri BOURSIER">
 <img src="miniatures/BOURSIER-Jules-Henri.jpg" alt="portrait de Jules Henri BOURSIER"/></a>
@@ -169,6 +170,49 @@ data-ad-slot="8236218848"></ins>
 </tr>
 </tbody>   
 </table>
+=======
+    <figure>
+    	<a href="portraits/BOURSIER-Jules-Henri.jpg" data-fancybox="gallery" data-caption="portrait de Jules Henri BOURSIER">
+      	<img src="miniatures/BOURSIER-Jules-Henri.jpg" alt="portrait de Jules Henri BOURSIER"/></a>
+      	<figcaption>Jules Henri BOURSIER<br/>(cliquez pour agrandir - source: Kamalaa/Geneanet)</figcaption>
+    </figure>
+
+	<table class="census">
+	    <caption>Liste des domiciles de Jules</caption>
+	    <thead>
+	        <tr>
+	            <th id="date">Date</th>
+	            <th id="adresse">Adresse</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+            <tr>
+	            <td headers="date">7 décembre 1879</td>
+	            <td headers="adresse">Onnaing (Nord)</td>
+	        </tr>
+            <tr>
+	            <td headers="date">1906</td>
+	            <td headers="adresse">Rue de la Chevauchoire<br/>à Onnaing (Nord)</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">30 décembre 1936</td>
+	            <td headers="adresse">1 Rue Marcelin Berthelot<br/>à Onnaing (Nord)</td>
+	        </tr>
+	        <tr>
+	            <td headers="date"> du 7 septembre 1914<br/>au 20 juin 1918</td>
+	            <td headers="adresse">Il est prisonnier à Friedrichsfeld (Allemagne) puis à Grossen (Allemagne)</td>
+	        </tr>
+            <tr>
+	            <td headers="date">du 20 juin 1918<br/>au 3 Novembre 1918</td>
+	            <td headers="adresse">Malade, il sejourne dans la région du Bern Oberland B (Suisse)</td>
+	        </tr>
+            <tr>
+	            <td headers="date">Novembre 1918</td>
+	            <td headers="adresse">Il est en permission à Manneville (Eure) pour une durée de 30 jours</td>
+	        </tr>
+	    </tbody>   
+	</table>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <h2> La mobilisation d'août 1914</h2>
 
@@ -191,15 +235,19 @@ data-ad-slot="8236218848"></ins>
 </figure>
 
 <p>Jules est transféré à Grossen (date inconnue) où il reste jusqu’au 20 juin 1918. Victime de bronchite chronique, il fait partie du transport de rapatriement à destination du Bern Oberland B (B.O.B), en Suisse, où il sejourne jusqu’au 2 novembre de la même année. Il termine la conflit par un mois de permission à Menville (Eure), dans doute en convalescence.</p>
+<<<<<<< HEAD
 
 <figure>
 <a href="sources/BOURSIER-Jules-Henri-CICR.jpg" data-fancybox="gallery" data-caption="Fiche numérisée du CICR">
 <img src="miniatures/BOURSIER-Jules-Henri-CICR.jpg" alt="Fiche de Jules Henri BOURSIER numérisée par le CICR"/></a>
 <figcaption>Fiche du CICR<br/>(cliquez pour agrandir)</figcaption>
 </figure>
+=======
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <h2>La guerre à Onnaing</h2>
 
+<<<<<<< HEAD
 <p>Pendant ce temps, à Onnaing, où est né Jules Henri BOURSIER, les Allemands enlèvent les cloches de l'église (1915). Elles sont conduites à Saint-Saulve pour y être fondues et faire des canons. Trois ans plus tard, en 1918, les Allemands se retirent et font sauter la Route Nationale pour couper la route aux troupes de l'armée canadienne. Le monuments aux morts de la Première Guerre Mondiale est érigé en 1922, en hommage aux <a href="../releves/onnaing.php">150 victimes militaires de la commune.</a></p>
 
 <figure>
@@ -207,6 +255,9 @@ data-ad-slot="8236218848"></ins>
 <img src="../releves/images/mini/onnaing-monument-aux-morts.jpg" alt="le Monument aux Morts d'Onnaing sur une carte postale ancienne"/></a>
 <figcaption>Le Monument aux Morts de la guerre 1914-1918<br/>(cliquez pour agrandir)</figcaption>
 </figure>
+=======
+<h2>La guerre à Onnaing</h2>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <p>Le 5 novembre 1918, la Ville d'Onnaing est libérée. Les Canadiens sont à <a href="http://genealexis.fr/cartes-postales/quarouble.php" title="Histoire de Quarouble">Quarouble</a> et à Rombies et se dirigent vers la frontière belge. Huit soldats canadiens et un anglais sont tués. Ils ont leurs tombes au cimetière d'Onnaing. Le 11 Novembre, l'Allemagne signe l'Armistice à Rethondes avec les Alliés…</p>
 

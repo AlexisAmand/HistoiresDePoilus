@@ -160,6 +160,36 @@ data-ad-slot="8236218848"></ins>
 </tbody>   
 </table>
 
+
+
+    <table class="census">
+	    <caption>Liste des domiciles de Joseph</caption>
+	    <thead>
+	        <tr>
+	            <th id="date">Dates</th>
+	            <th id="adresse">Adresses</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td headers="date">Rue Beauvois</td>
+	            <td headers="adresse">à Lourches (Nord)</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	        <tr>
+	            <td headers="date">1</td>
+	            <td headers="adresse">2</td>
+	        </tr>
+	    </tbody>   
+	</table>
+
 <ul>
 <li>Il est ajourné pour faiblesse par le conseil de révision de Guéret (Creuse) en date du 18 novembre 1914. Décision annulée par celle du Conseil de révision de Saint-Omer (Pas-de-Calais) en date du 28 octobre 1914 qui le déclare bon au service. (Les dates sont celles de la fiche matricule… il semble y avoir un problème d'ordre chronologique)</li>
 <li>Il rejoint le 94e RI en décembre 1914, soldat de 2e classe</li>

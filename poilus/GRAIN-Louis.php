@@ -120,6 +120,7 @@ data-ad-slot="8236218848"></ins>
 
 <p><strong>Louis GRAIN</strong>, le père de mon arrière-grand-mère, est né le 21 juin 1876 à Villers-Guislain (Nord). Il est le fils légitime de Louis GRAIN, domestique âgé de 19 ans et Joséphine VELU, âgé de 17 ans. Le 18 mai 1895 à Villers-Guislain, il épouse en premières noces Martine VELU (1875-1935). Son frère <a href="GRAIN-Leon-Albert.php">Léon Albert</a> a aussi été mobilisé. En 1906, <strong>Louis</strong> est tisseur et vit à Villers-Guislain (Rue Neuve) en compagnie de son épouse Martine, ses filles Marguerite et Marthe et son fils Marcel.</p>
 
+<<<<<<< HEAD
 <figure>
 <a href="images/arbre-grain.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille GRAIN">
 <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" class="ArbreGenealogique"/></a>
@@ -151,6 +152,39 @@ data-ad-slot="8236218848"></ins>
 </tr>
 </tbody>   
 </table>
+=======
+	<figure>
+	    <a href="images/arbre-grain.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille GRAIN">
+	    <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" class="ArbreGenealogique"/></a>
+	    <figcaption>Arbre simplifié de la famille GRAIN<br/>(cliquez pour agrandir)</figcaption>
+	</figure>
+
+	<figure>
+	    <a href="sources/louis-grain-matricule-01.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Louis GRAIN (Extrait)">
+	    <img src="miniatures/louis-grain-matricule-01.jpg" alt="Extrait de la fiche matricule de Louis GRAIN"/></a>
+	    <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir)</figcaption>
+	</figure>
+
+	<table class="census">
+	    <caption>Liste des domiciles de Louis</caption>
+	    <thead>
+	        <tr>
+	            <th id="date">Date</th>
+	            <th id="adresse">Adresse</th>
+	        </tr>
+	    </thead>
+	    <tbody>
+	        <tr>
+	            <td id="date">1906</td>
+	            <td id="adresse">Rue Neuve<br/>à Villers-Guislain (Nord)</td>
+	        </tr>
+	        <tr>
+	            <td id="date">1911</td>
+	            <td id="adresse">Rue de Merlan<br/>à Bétheniville (Marne)</td>
+	        </tr>
+	    </tbody>   
+	</table>
+>>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 <h2>La mobilisation d'août 1914</h2>
 
