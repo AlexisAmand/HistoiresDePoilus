@@ -24,6 +24,9 @@
 - TODO : lien vers le camp de Dortmund (Allemagne)  sur la page erreur.php
 - TODO : lien vers le camp de Förstört (Allemagne)  sur la page erreur.php
 
+- TODO : corriger les <a href=" ">
+- idem avec le title=" "
+
 Aprés la mise en ligne
 ----------------------
 

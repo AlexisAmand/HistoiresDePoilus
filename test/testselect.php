@@ -12,7 +12,7 @@
 	<link rel="stylesheet" href="../css/fontawesome/css/all.css">
 	
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-	<link rel="icon" type="image/png" href="../images/favicon.png" />
+	<link rel="icon" type="image/png" href="../images/favicon.png"/>
 	   
 </head> 
  

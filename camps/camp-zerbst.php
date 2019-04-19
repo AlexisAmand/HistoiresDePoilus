@@ -1,20 +1,21 @@
 <!doctype html>
 <html lang="fr">
-<head>
 
-<meta charset="utf-8">
+    <head>
 
-<title>Le camp de prisonniers de Zerbst pendant la Grande Guerre - Histoires de Poilus</title>
-<meta name="description"  content="Présentation du camp de prisonniers de Zerbst pendant la Première Guerre mondiale (1914-1918)">
+        <meta charset="utf-8">
 
-<link rel="stylesheet" href="../css/style.css">
-<link rel="stylesheet" href="../css/resp.css">
-<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+        <title>Le camp de prisonniers de Zerbst pendant la Grande Guerre - Histoires de Poilus</title>
+        <meta name="description"  content="Présentation du camp de prisonniers de Zerbst pendant la Première Guerre mondiale (1914-1918)">
 
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
+        <link rel="stylesheet" href="../css/style.css">
+        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/fontawesome/css/all.css">
 
-</head>
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link rel="icon" type="image/png" href="../images/favicon.png"/>
+
+    </head>
 
 <body>
 
@@ -34,8 +35,8 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 
 <?php include('../include/social.inc'); ?>
 
-<a href="../index.php" title="retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+    <a href="../index.php" title="retour sur la page d'accueil du site">
+    <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
 </header>
 
@@ -45,100 +46,99 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 
 <aside>
 
-<ul>
-<li><a href="camp-bad-orb.php">Bad Orb</a></li>
-<li><a href="camp-bochum.php">Bochum</a></li>
-<li><a href="camp-chemnitz.php">Chemnitz</a></li>
-<li><a href="camp-czersk.php">Czersk</a></li>
-<li><a href="camp-darmstadt.php">Darmstadt</a></li>
-<li><a href="camp-dortmund.php">Dortmund</a></li>
-<li><a href="camp-forstort.php">Förstört</a></li>
-<li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
+    <ul>
+        <li><a href="camp-bad-orb.php">Bad Orb</a></li>
+        <li><a href="camp-bochum.php">Bochum</a></li>
+        <li><a href="camp-chemnitz.php">Chemnitz</a></li>
+        <li><a href="camp-czersk.php">Czersk</a></li>
+        <li><a href="camp-darmstadt.php">Darmstadt</a></li>
+        <li><a href="camp-dortmund.php">Dortmund</a></li>
+        <li><a href="camp-forstort.php">Förstört</a></li>
+        <li><a href="camp-frankfurt.php">Francfort-sur-le-Main</a></li>
 
-<li><a href="camp-friedberg.php">Friedberg</a></li>
-<li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
-<li><a href="camp-gardelegen.php">Gardelegen</a></li>
-<li><a href="camp-giessen.php">Giessen</a></li>
-<li><a href="camp-gorlitz.php">Görlitz</a></li>
+        <li><a href="camp-friedberg.php">Friedberg</a></li>
+        <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
+        <li><a href="camp-gardelegen.php">Gardelegen</a></li>
+        <li><a href="camp-giessen.php">Giessen</a></li>
+        <li><a href="camp-gorlitz.php">Görlitz</a></li>
 
-<li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
-<li><a href="camp-guben.php">Guben</a></li>
-<li><a href="camp-hagen.php">Hagen</a></li>
-<li><a href="camp-hammelburg.php">Hammelburg</a></li>
-<li><a href="camp-hammerstein.php">Hammerstein</a></li>
-<li><a href="camp-herne.php">Herne</a></li>
+        <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
+        <li><a href="camp-guben.php">Guben</a></li>
+        <li><a href="camp-hagen.php">Hagen</a></li>
+        <li><a href="camp-hammelburg.php">Hammelburg</a></li>
+        <li><a href="camp-hammerstein.php">Hammerstein</a></li>
+        <li><a href="camp-herne.php">Herne</a></li>
 
-<li><a href="camp-heuberg.php">Heuberg</a></li>
-<li><a href="camp-lechfeld.php">Lechfeld</a></li>
-<li><a href="camp-limburg.php">Limburg</a></li>
-<li><a href="camp-mannheim.php">Mannheim</a></li>        
-<li><a href="camp-meschede.php">Meschede</a></li>
+        <li><a href="camp-heuberg.php">Heuberg</a></li>
+        <li><a href="camp-lechfeld.php">Lechfeld</a></li>
+        <li><a href="camp-limburg.php">Limburg</a></li>
+        <li><a href="camp-mannheim.php">Mannheim</a></li>
+        <li><a href="camp-meschede.php">Meschede</a></li>
 
-<li><a href="camp-merzdorf.php">Merzdorf</a></li>
-<li><a href="camp-meyenburg.php">Meyenburg</a></li>
-<li><a href="camp-minden.php">Minden</a></li>
-<li><a href="camp-munster.php">Munster</a></li> 
-<li><a href="camp-nurnberg.php">Nuremberg</a></li>
+        <li><a href="camp-merzdorf.php">Merzdorf</a></li>
+        <li><a href="camp-meyenburg.php">Meyenburg</a></li>
+        <li><a href="camp-minden.php">Minden</a></li>
+        <li><a href="camp-munster.php">Munster</a></li> 
+        <li><a href="camp-nurnberg.php">Nuremberg</a></li>
 
-<li><a href="camp-regensburg.php">Rastisbonne</a></li> 
-<li><a href="camp-ruhleben.php">Ruhleben</a></li> 
-<li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>   
-<li><a href="camp-westhofen.php">Westhofen</a></li>
-<li><a href="camp-wetzlar.php">Wetzlar</a></li>  
-<li><a href="camp-wurzburg.php">Würzburg</a></li>
+        <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
+        <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
+        <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>
+        <li><a href="camp-westhofen.php">Westhofen</a></li>
+        <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
+        <li><a href="camp-wurzburg.php">Würzburg</a></li>
 
-<li><a href="camp-zerbst.php" class="AsideSelected">Zerbst</a></li>
-<li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li>        
-</ul>
+        <li><a href="camp-zerbst.php" class="AsideSelected">Zerbst</a></li>
+        <li><a href="camp-wunsdorf.php">Zossen-Wünsdorf </a></li>
+    </ul>
 
 <div id="pubaside">
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Poilus -->
-<ins class="adsbygoogle"
-style="display:inline-block;width:160px;height:600px"
-data-ad-client="ca-pub-1550427609493753"
-data-ad-slot="8236218848"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Poilus -->
+    <ins class="adsbygoogle"
+    style="display:inline-block;width:160px;height:600px"
+    data-ad-client="ca-pub-1550427609493753"
+    data-ad-slot="8236218848"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
 </div>
 
 </aside>
 
-<article>
+    <article>
 
-<h1>Le camp de Zerbst</h1>
+        <h1>Le camp de Zerbst</h1>
 
-<p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
-<figure>    
-<a href="images/Zerbst/localisation-zerbst.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Zerbst">
-<img src="miniatures/Zerbst/localisation-zerbst.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Zerbst"></a>
-<figcaption>Localisation du camp de Zerbst<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
-</figure>  
+        <figure>    
+            <a href="images/Zerbst/localisation-zerbst.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Zerbst">
+            <img src="miniatures/Zerbst/localisation-zerbst.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Zerbst"></a>
+            <figcaption>Localisation du camp de Zerbst<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+        </figure>  
 
-<p>Ce camp était situé à Zerbst, une ville d'Allemagne située dans le land actuel de Saxe-Anhalt.</p>
+        <p>Ce camp était situé à Zerbst, une ville d'Allemagne située dans le land actuel de Saxe-Anhalt.</p>
 
-<!--p>Le 28 juin 1917, les membres du comité de secours "Franco-Belge" sont incarcérés pendant 106 jours à la prison de Gommen. Ils sont accusés d'avoir transmis un document de la Kommandantur à la France. Le 11 octobre 1917, ils sont envoyés au camp de Alten-Grabow. Parmi les 106 coupables désignés par les Allemands figure deux belges: le premier maréchal des logis de gendarmerie COGNIAUX et le caporal LESQUOIS, originaire de Sommethonne-les-Virton.</p-->
+        <!--p>Le 28 juin 1917, les membres du comité de secours "Franco-Belge" sont incarcérés pendant 106 jours à la prison de Gommen. Ils sont accusés d'avoir transmis un document de la Kommandantur à la France. Le 11 octobre 1917, ils sont envoyés au camp de Alten-Grabow. Parmi les 106 coupables désignés par les Allemands figure deux belges: le premier maréchal des logis de gendarmerie COGNIAUX et le caporal LESQUOIS, originaire de Sommethonne-les-Virton.</p-->
 
-<figure>
-<a href="images/Zerbst/zerbst-01.jpg" data-fancybox="gallery" data-caption="Vue du camp de Zerbst">
-<img src="miniatures/Zerbst/zerbst-01.jpg" alt="Vue du camp de prisonniers de Zerbst pendant la Grande Guerre"></a>
-<figcaption>Vue du camp de Zerbst
-<br/>(source allemande)</figcaption>
-</figure>
+        <figure>
+            <a href="images/Zerbst/zerbst-01.jpg" data-fancybox="gallery" data-caption="Vue du camp de Zerbst">
+            <img src="miniatures/Zerbst/zerbst-01.jpg" alt="Vue du camp de prisonniers de Zerbst pendant la Grande Guerre"></a>
+            <figcaption>Vue du camp de Zerbst<br/>(source allemande)</figcaption>
+        </figure>
 
-<figure>
-<a href="images/Zerbst/zerbst-02.jpg" data-fancybox="gallery" data-caption="Une cérémonie au camp de Zerbst">
-<img src="miniatures/Zerbst/zerbst-02.jpg" alt="Une cérémonie au camp de prisonnier de Zerbst pendant la Première Guerre Mondiale"></a>
-<figcaption>Une cérémonie au camp de Zerbst
-<br/>(carte postale)</figcaption>
-</figure>
+        <figure>
+            <a href="images/Zerbst/zerbst-02.jpg" data-fancybox="gallery" data-caption="Une cérémonie au camp de Zerbst">
+            <img src="miniatures/Zerbst/zerbst-02.jpg" alt="Une cérémonie au camp de prisonnier de Zerbst pendant la Première Guerre Mondiale"></a>
+            <figcaption>Une cérémonie au camp de Zerbst<br/>(carte postale)</figcaption>
+        </figure>
 
-<p>Les 200 belges présents dans le camp de Zerbst ont été rapatriés via Enschede (Pays-Bas) le 7 janvier 1919.</p>
+        <p>Les 200 belges présents dans le camp de Zerbst ont été rapatriés via Enschede (Pays-Bas) le 7 janvier 1919.</p>
 
-<p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
-</article>
+        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+
+    </article>
 
 </section>
 

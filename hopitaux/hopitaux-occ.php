@@ -1,20 +1,21 @@
 <!doctype html>
 <html lang="fr">
-<head>
 
-<meta charset="utf-8">
+    <head>
 
-<title>Les hôpitaux d'Occitanie pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles d'Occitanie pendant la Première Guerre Mondiale" name="description">
+        <meta charset="utf-8">
 
-<link rel="stylesheet" href="../css/style.css">
-<link rel="stylesheet" href="../css/resp.css">
-<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+        <title>Les hôpitaux d'Occitanie pendant la Grande Guerre - Histoires de Poilus</title>
+        <meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles d'Occitanie pendant la Première Guerre Mondiale" name="description">
 
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
+        <link rel="stylesheet" href="../css/style.css">
+        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/fontawesome/css/all.css">  
 
-</head>
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link rel="icon" type="image/png" href="../images/favicon.png"/>
+
+    </head>
 
 <body>
 

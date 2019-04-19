@@ -1,20 +1,21 @@
 <!doctype html>
 <html lang="fr">
-<head>
 
-<meta charset="utf-8">
+    <head>
+    
+        <meta charset="utf-8">
 
-<title>Les hôpitaux pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles pendant la Première Guerre Mondiale" name="description">
+        <title>Les hôpitaux pendant la Grande Guerre - Histoires de Poilus</title>
+        <meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles pendant la Première Guerre Mondiale" name="description">
 
-<link rel="stylesheet" href="../css/style.css">
-<link rel="stylesheet" href="../css/resp.css">
-<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+        <link rel="stylesheet" href="../css/style.css">
+        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/fontawesome/css/all.css">  
 
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link rel="icon" type="image/png" href="../images/favicon.png"/>
 
-</head>
+    </head>
 
 <body>
 

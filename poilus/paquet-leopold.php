@@ -1,189 +1,141 @@
 <!doctype html>
 <html lang="fr">
-<head>
 
-<meta charset="utf-8">
+    <head>
 
-<title>Biographie et parcours du soldat Léopold PAQUET - Histoires de Poilus</title>
-<meta content="Parcours et biographie du poilu Léopold PAQUET, soldat pendant la Première Guerre Mondiale" name="description" />
+        <meta charset="utf-8">
 
-<link rel="stylesheet" href="../css/style.css">
-<link rel="stylesheet" href="../css/resp.css">
-<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+        <title>Biographie et parcours du soldat Léopold PAQUET - Histoires de Poilus</title>
+        <meta content="Parcours et biographie du poilu Léopold PAQUET, soldat pendant la Première Guerre Mondiale" name="description"/>
 
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
+        <link rel="stylesheet" href="../css/style.css">
+        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/fontawesome/css/all.css">  
 
-</head>
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link rel="icon" type="image/png" href="../images/favicon.png"/>
 
-<body>
+    </head>
 
-<!-- code js pour l'avertissement sur les cookies -->
+    <body>
 
-<script src="../js/cookiechoices.js"></script>
-<script>
-document.addEventListener('DOMContentLoaded', function(event) {
-cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
-'Ok', 'En savoir plus', '../cookies.php');
-});
-</script>
+    <!-- code js pour l'avertissement sur les cookies -->
 
-<?php include('../include/resp.inc'); ?>
+    <script src="../js/cookiechoices.js"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    'Ok', 'En savoir plus', '../cookies.php');
+    });
+    </script>
 
-<header>
+    <?php include('../include/resp.inc'); ?>
 
-<?php include('../include/social.inc'); ?>
+    <header>
 
-<a href="../index.php" title="Retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+        <?php include('../include/social.inc'); ?>
 
-</header>
+        <a href="../index.php" title="Retour sur la page d'accueil du site">
+        <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
-<nav>
-<a href="../contact.php">Contact</a>
-<a href="../webographie.php">Webographie</a>
-<a href="../lieux.php">Les Batailles</a>
-<a href="../camps.php">Les Camps</a>
-<a href="../releves.php">Les Relevés</a>
-<a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
-<a href="../poilus.php" class="NavSelected">Les Poilus</a>
-</nav>
+    </header>
 
-<div id="navbis">
-<a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="amand-jules.php">Les jasses de Belgique</a>
-</div>
+    <nav>
+        <a href="../contact.php">Contact</a>
+        <a href="../webographie.php">Webographie</a>
+        <a href="../lieux.php">Les Batailles</a>
+        <a href="../camps.php">Les Camps</a>
+        <a href="../releves.php">Les Relevés</a>
+        <a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
+        <a href="../poilus.php" class="NavSelected">Les Poilus</a>
+    </nav>
 
-<section>
+    <div id="navbis">
+        <a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="amand-jules.php">Les jasses de Belgique</a>
+    </div>
 
-<aside>
+    <section>
 
-<ul>
+    <aside>
 
-<<<<<<< HEAD
-<li class="asideheader">Marne</li>
+    <ul>
+        <li class="asideheader">Marne</li>
 
-<li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
-<li><a href="astiers-jules-alphonse.php">ASTIER(S) Jules Alphonse</a></li>       
-<li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-<li><a href="caron-eugene-alexandre.php">CARON Eugène Alexandre</a></li>
-<li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
-<li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-<li><a href="paquet-leopold.php" class="AsideSelected">PAQUET Léopold</a></li>
+        <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
+        <li><a href="astiers-jules-alphonse.php">ASTIER(S) Jules Alphonse</a></li>       
+        <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
+        <li><a href="caron-eugene-alexandre.php">CARON Eugène Alexandre</a></li>
+        <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
+        <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
+        <li><a href="paquet-leopold.php" class="AsideSelected">PAQUET Léopold</a></li>
+    </ul>
 
-=======
-	<li class="asideheader">Marne</li>
+    <div id="pubaside">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Poilus -->
+        <ins class="adsbygoogle"
+        style="display:inline-block;width:160px;height:600px"
+        data-ad-client="ca-pub-1550427609493753"
+        data-ad-slot="8236218848"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+
+    </aside>
+
+        <article>
+
+        <h1>Léopold PAQUET</h1>
+
+        <p><strong>Léopold PAQUET</strong> est né le 5 décembre 1886 à Reims (Marne), fils légitime de François PAQUET et Marie LEFEVRE. Le 20 juin 1914, il épouse à Bétheniville Marie Hélène ARNOULD, la sœur de mon arrière-grand-père. Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 août 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 août 1917 pour paralysie radiale du bras gauche, juste après la Bataille des Ardennes. Il est décédé à Bétheniville le 10 octobre 1953.</p>
+
+        <table class="census">
+        <caption>Liste des domiciles de Léoplod PAQUET</caption>
+            <thead>
+            <tr>
+                <th id="date">Date</th>
+                <th id="adresse">Adresse</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td headers="date"></td>
+                <td headers="adresse"></td>
+            </tr>
+            <tr>
+                <td headers="date"></td>
+                <td headers="adresse"></td>
+            </tr>
+            <tr>
+                <td headers="date"></td>
+                <td headers="adresse"></td>
+            </tr>
+            <tr>
+                <td headers="date"></td>
+                <td headers="adresse"></td>
+            </tr>
+        </tbody>
+        </table>
+
+        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         
-    <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
-    <li><a href="astiers-jules-alphonse.php">ASTIER(S) Jules Alphonse</a></li>       
-    <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
-    <li><a href="caron-eugene-alexandre.php">CARON Eugène Alexandre</a></li>
-    <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
-    <li><a href="MICHEL-Firmin.php">MICHEL Firmin (+)</a></li>
-    <li><a href="paquet-leopold.php" class="AsideSelected">PAQUET Léopold</a></li>
-  	      
->>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
-</ul>
+        </article>
 
-<div id="pubaside">
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Poilus -->
-<ins class="adsbygoogle"
-style="display:inline-block;width:160px;height:600px"
-data-ad-client="ca-pub-1550427609493753"
-data-ad-slot="8236218848"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
+    </section>
 
-</aside>
+    <footer><?php include('../include/footer.inc'); ?></footer>
 
-<article>
+    <?php include('../include/stats.inc'); ?>
 
-<h1>Léopold PAQUET</h1>
+    <!-- javascript -->
 
-<p><strong>Léopold PAQUET</strong> est né le 5 décembre 1886 à Reims (Marne), fils légitime de François PAQUET et Marie LEFEVRE. Le 20 juin 1914, il épouse à Bétheniville Marie Hélène ARNOULD, la sœur de mon arrière-grand-père. Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 août 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 août 1917 pour paralysie radiale du bras gauche, juste après la Bataille des Ardennes. Il est décédé à Bétheniville le 10 octobre 1953.</p>
-<<<<<<< HEAD
-=======
-    
-    <table class="census">
-    <caption>Liste des domiciles de Léoplod PAQUET</caption>
-    <thead>
-        <tr>
-            <th id="date">Date</th>
-            <th id="adresse">Adresse</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td headers="date"></td>
-            <td headers="adresse"></td>
-        </tr>
-        <tr>
-            <td headers="date"></td>
-            <td headers="adresse"></td>
-        </tr>
-        <tr>
-            <td headers="date"></td>
-            <td headers="adresse"></td>
-        </tr>
-        <tr>
-            <td headers="date"></td>
-            <td headers="adresse"></td>
-        </tr>
-    </tbody>   
-	</table>    
-            
-<p class="sources">
-<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
-</p>
->>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+    <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+    <script type="text/javascript" src="../js/script.js"></script>
 
-<table class="census">
-<caption>Liste des domiciles de Léoplod PAQUET</caption>
-<thead>
-<tr>
-<th id="date">Date</th>
-<th id="adresse">Adresse</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td headers="date"></td>
-<td headers="adresse"></td>
-</tr>
-<tr>
-<td headers="date"></td>
-<td headers="adresse"></td>
-</tr>
-<tr>
-<td headers="date"></td>
-<td headers="adresse"></td>
-</tr>
-<tr>
-<td headers="date"></td>
-<td headers="adresse"></td>
-</tr>
-</tbody>   
-</table>    
-
-<p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
-</article>
-
-</section>
-
-<footer><?php include('../include/footer.inc'); ?></footer>
-
-<?php include('../include/stats.inc'); ?>
-
-<!-- javascript -->
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
-<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-<script type="text/javascript" src="../js/script.js"></script>
-
-</body>
+    </body>
 </html>

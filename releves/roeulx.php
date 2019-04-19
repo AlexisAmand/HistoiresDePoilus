@@ -1,20 +1,21 @@
 <!doctype html>
 <html lang="fr">
-<head>
 
-<meta charset="utf-8">
+    <head>
 
-<title>Relevé des morts pour la France de Lourches - Histoires de Poilus</title>
-<meta content="relevés des soldats et des civils de Lourches morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or">
+        <meta charset="utf-8">
 
-<link rel="stylesheet" href="../css/style.css">
-<link rel="stylesheet" href="../css/resp.css">
-<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+        <title>Relevé des morts pour la France de Lourches - Histoires de Poilus</title>
+        <meta content="relevés des soldats et des civils de Lourches morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or">
 
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-    
-</head>
+        <link rel="stylesheet" href="../css/style.css">
+        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link rel="icon" type="image/png" href="../images/favicon.png"/>
+
+    </head>
 
 <body>
 <!-- code js pour l'avertissement sur les cookies -->
@@ -133,7 +134,6 @@ data-ad-slot="8236218848"></ins>
 <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
 <table class="releves">
-<<<<<<< HEAD
 <thead>
 <tr>
 <th id="nom">Nom et prénom(s)</th>
@@ -168,42 +168,6 @@ data-ad-slot="8236218848"></ins>
 <td headers="corps">&nbsp;</td>
 <td headers="genre">&nbsp;</td>
 </tr>
-=======
-  <thead>
-  <tr>
-    <th id="nom">Nom et prénom(s)</th>
-    <th id="naissance">Date et lieu<br/>de naissance</th>
-    <th id="mort">Date et lieu<br/>de décès</th>
-    <th id="grade">Grade</th>
-    <th id="corps">Corps</th>
-    <th id="genre">Genre<br/>de mort</th>
-  </tr>
-  </thead>
-  <tr>
-    <td headers="nom"><a href="../poilus/CARIN-Edouard.php" title="biographie du poilu Edouard CARIN">CARIN<br/>Edouard</a></td>
-    <td headers="naissance">&nbsp;</td>
-    <td headers="mort">&nbsp;</td>
-    <td headers="grade">&nbsp;</td>
-    <td headers="corps">&nbsp;</td>
-    <td headers="genre">&nbsp;</td>
-  </tr>
-  <tr>
-  	<td headers="nom"><a href="../poilus/CARIN-Leon.php" title="biographie du poilu Léon CARIN">CARIN<br/>Leon</a></td>
-    <td headers="naissance">&nbsp;</td>
-    <td headers="mort">&nbsp;</td>
-    <td headers="grade">&nbsp;</td>
-    <td headers="corps">&nbsp;</td>
-    <td headers="genre">&nbsp;</td>
-  </tr>
-  <tr>
-    <td headers="nom">&nbsp;</td>
-    <td headers="naissance">&nbsp;</td>
-    <td headers="mort">&nbsp;</td>
-    <td headers="grade">&nbsp;</td>
-    <td headers="corps">&nbsp;</td>
-    <td headers="genre">&nbsp;</td>
-  </tr>
->>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 </table>
 
 <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

@@ -67,132 +67,126 @@
 ?>  
 
 <!doctype html>
-<!doctype html>
 <html lang="fr">
+
 <head>
 
-<meta charset="utf-8">
-          
-<title>Contacter le webmaster - Histoires de Poilus</title>
+        <meta charset="utf-8">
 
-<meta content="formulaire pour envoyer un message au webmaster du site" name="description">
+        <title>Contacter le webmaster - Histoires de Poilus</title>
+        <meta content="formulaire pour envoyer un message au webmaster du site" name="description">
 
-<link rel="stylesheet" href="css/style.css">
-<link rel="stylesheet" href="css/resp.css">
-<link rel="stylesheet" href="css/fontawesome/css/all.css">  
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/resp.css">
+        <link rel="stylesheet" href="css/fontawesome/css/all.css">  
 
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="images/favicon.png" />
-                  
-</head>
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link rel="icon" type="image/png" href="images/favicon.png" />
 
-<body>
+    </head>
 
-<script src="js/cookiechoices.js"></script>
+    <body>
 
-<script>
-  document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
-      'Ok', 'En savoir plus', 'cookies.php');
-  });
-</script>
+    <script src="js/cookiechoices.js"></script>
 
-<?php include('include/resp.inc'); ?>
+    <script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+        cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+        'Ok', 'En savoir plus', 'cookies.php');
+    });
+    </script>
 
-<header>
-	
- <?php include('include/social.inc'); ?>
+    <?php include('include/resp.inc'); ?>
+
+    <header>
+        
+        <?php include('include/social.inc'); ?>
+            
+        <a href="index.php" title="retour sur la page d'accueil du site">
+        <img src="images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+
+    </header>
     
-<a href="index.php" title="retour sur la page d'accueil du site">
-<img src="images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+    <nav>
+        <a href="contact.php" class="NavSelected">Contact</a>
+        <a href="webographie.php">Webographie</a>
+        <a href="lieux.php">Les Batailles</a>
+        <a href="camps.php">Les Camps</a>
+        <a href="releves.php">Les Relevés</a>
+        <a href="hopitaux/hopitaux.php">Les Hôpitaux</a>
+        <a href="poilus.php">Les Poilus</a>     
+    </nav>
 
-</header>
-   
-<nav>
-    <a href="contact.php" class="NavSelected">Contact</a>
-    <a href="webographie.php">Webographie</a>
-    <a href="lieux.php">Les Batailles</a>
-    <a href="camps.php">Les Camps</a>
-    <a href="releves.php">Les Relevés</a>
-    <a href="hopitaux/hopitaux.php">Les Hôpitaux</a>
-    <a href="poilus.php">Les Poilus</a>     
-</nav>
+    <section>
 
-<section>
+        <article style="margin-left:0px;">
 
-<article style="margin-left:0px;">
-
-<h1>Pour me contacter</h1>
-         
-<?php  
-    if( $mailSent === true ) // si le message a bien été envoyé, on affiche le récapitulatif  
-    {  
-?>  
-
-        <p>Votre message a bien été envoyé.</p>  
-        <p><strong>Courriel pour la réponse :</strong><br/><?php echo( $from ); ?></p>  
-        <p><strong>Objet :</strong><br/><?php echo( $object ); ?></p>  
-        <p><strong>Message :</strong><br/><?php echo( nl2br( htmlspecialchars( $message ) ) ); ?></p>  
-<?php  
-    }  
-    else // le formulaire est affiché pour la première fois ou le formulaire a été soumis mais contenait des erreurs  
-    {  
-        if( count( $errors ) !== 0 )  
-        {  
-            echo( "\t\t<ul>\n" );  
-            foreach( $errors as $error )  
+        <h1>Pour me contacter</h1>
+                
+        <?php  
+            if( $mailSent === true ) // si le message a bien été envoyé, on affiche le récapitulatif  
             {  
-                echo( "\t\t\t<li>$error</li>\n" );  
+        ?>  
+
+                <p>Votre message a bien été envoyé.</p>  
+                <p><strong>Courriel pour la réponse :</strong><br/><?php echo( $from ); ?></p>  
+                <p><strong>Objet :</strong><br/><?php echo( $object ); ?></p>  
+                <p><strong>Message :</strong><br/><?php echo( nl2br( htmlspecialchars( $message ) ) ); ?></p>  
+        <?php  
             }  
-            echo( "\t\t</ul>\n" );  
-        }  
-        else  
-        {  
-            echo( "\t\t<p><em>Tous les champs sont obligatoires</em></p>\n" );  
-        }  
-?>  
+            else // le formulaire est affiché pour la première fois ou le formulaire a été soumis mais contenait des erreurs  
+            {  
+                if( count( $errors ) !== 0 )  
+                {  
+                    echo( "\t\t<ul>\n" );  
+                    foreach( $errors as $error )  
+                    {  
+                        echo( "\t\t\t<li>$error</li>\n" );  
+                    }  
+                    echo( "\t\t</ul>\n" );  
+                }  
+                else  
+                {  
+                    echo( "\t\t<p><em>Tous les champs sont obligatoires</em></p>\n" );  
+                }  
+        ?>  
 
-        <form method="post" action="<?php echo( $_SERVER['REQUEST_URI'] ); ?>">  
-        
-        		<?php /* TODO: mettre en page avec des CSS pour qu'il y ait de l'espace entre les labels */ ?>
-          
-                <label for="from">Courriel pour la réponse</label><br/>
-                <input type="text" name="from" id="from" value="<?php echo( $from ); ?>" /><br/>  
-          
-                <label for="object">Objet</label><br/>
-                <input type="text" name="object" id="object" value="<?php echo( $object ); ?>" /><br/>  
-             
-                <label for="message">Message</label><br/>  
-                <textarea name="message" id="message" rows="20" cols="80"><?php echo( $message ); ?></textarea><br/>  
-          
-                <input type="reset" name="reset" value="Effacer" class="btn"/>  
-                <input type="submit" name="send" value="Envoyer" class="btn"/>    
-        
-        </form>  
-<?php  
-    }  
-?>  
+                <form method="post" action="<?php echo( $_SERVER['REQUEST_URI'] ); ?>">  
+                
+                        <?php /* TODO: mettre en page avec des CSS pour qu'il y ait de l'espace entre les labels */ ?>
+                
+                        <label for="from">Courriel pour la réponse</label><br/>
+                        <input type="text" name="from" id="from" value="<?php echo( $from ); ?>" /><br/>  
+                
+                        <label for="object">Objet</label><br/>
+                        <input type="text" name="object" id="object" value="<?php echo( $object ); ?>" /><br/>  
+                    
+                        <label for="message">Message</label><br/>  
+                        <textarea name="message" id="message" rows="20" cols="80"><?php echo( $message ); ?></textarea><br/>  
+                
+                        <input type="reset" name="reset" value="Effacer" class="btn"/>  
+                        <input type="submit" name="send" value="Envoyer" class="btn"/>    
+                
+                </form>  
+        <?php  
+            }  
+        ?>  
 
-<p class="sources">
-<?php
-setlocale(LC_ALL,'french'); 
-echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod());
-?> 
-</p>
+        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 
-</article>
+        </article>
 
-</section>
+    </section>
 
-<footer><?php include('include/footer.inc'); ?></footer>
+    <footer><?php include('include/footer.inc'); ?></footer>
 
-<?php include('include/stats.inc'); ?>
+    <?php include('include/stats.inc'); ?>
 
-<!-- javascript -->
+    <!-- javascript -->
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
-<script type="text/javascript" src="js/jquery.fancybox.min.js"></script>
-<script type="text/javascript" src="js/script.js"></script>
- 
-</body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+    <script type="text/javascript" src="js/jquery.fancybox.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+    
+    </body>
 </html>

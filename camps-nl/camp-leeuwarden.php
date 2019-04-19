@@ -1,99 +1,102 @@
 <!doctype html>
 <html lang="fr">
-<head>
 
-<meta charset="utf-8">
+    <head>
 
-<title>Le camp d'internement de Leeuwarden pendant la Grande Guerre - Histoires de Poilus</title>
-<meta name="description"  content="Présentation du camp d'internement de Leeuwarden aux Pays-Bas pendant la Première Guerre mondiale (1914-1918)">
+        <meta charset="utf-8">
 
-<link rel="stylesheet" href="../css/style.css">
-<link rel="stylesheet" href="../css/resp.css">
-<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+        <title>Le camp d'internement de Leeuwarden pendant la Grande Guerre - Histoires de Poilus</title>
+        <meta name="description"  content="Présentation du camp d'internement de Leeuwarden aux Pays-Bas pendant la Première Guerre mondiale (1914-1918)">
 
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-    
-</head>
+        <link rel="stylesheet" href="../css/style.css">
+        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/fontawesome/css/all.css">
 
-<body>
-<!-- code js pour l'avertissement sur les cookies -->
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link rel="icon" type="image/png" href="../images/favicon.png"/>
 
-<script src="../js/cookiechoices.js"></script>
-<script>
-document.addEventListener('DOMContentLoaded', function(event) {
-cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
-'Ok', 'En savoir plus', '../cookies.php');
-});
-</script>
+    </head>
 
-<?php include('../include/resp.inc'); ?>
+    <body>
 
-<header>
+    <!-- code js pour l'avertissement sur les cookies -->
 
-<?php include('../include/social.inc'); ?>
+    <script src="../js/cookiechoices.js"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    'Ok', 'En savoir plus', '../cookies.php');
+    });
+    </script>
 
-<a href="../index.php" title="retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+    <?php include('../include/resp.inc'); ?>
 
-</header>
+    <header>
 
-<?php include('../include/nav.inc'); ?>
+        <?php include('../include/social.inc'); ?>
 
-<section>
+        <a href="../index.php" title="retour sur la page d'accueil du site">
+        <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
-<aside>
+    </header>
 
-<ul>
-<li><a href="camp-amersfoort.php">Amersfoort</a></li>
-<li><a href="camp-assen.php">Assen</a></li>
-<li><a href="camp-bodegraven.php">Bodegraven</a></li>   
-<li><a href="camp-harderwijk.php">Harderwijk</a></li> 
-<li><a href="camp-kampen.php">kampen</a></li>   
-<li><a href="camp-leeuwarden.php" class="AsideSelected">Leeuwarden</a></li>
-<li><a href="camp-loosduinen.php">Loosduinen</a></li>     
-<li><a href="camp-zeist.php">Zeist</a></li>
-<li><a href="camp-zwolle.php">Zwolle</a></li>
-</ul>
+    <?php include('../include/nav.inc'); ?>
 
-<div id="pubaside">
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Poilus -->
-<ins class="adsbygoogle"
-style="display:inline-block;width:160px;height:600px"
-data-ad-client="ca-pub-1550427609493753"
-data-ad-slot="8236218848"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
+    <section>
 
-</aside>
+    <aside>
 
-<article>
+    <ul>
+        <li><a href="camp-amersfoort.php">Amersfoort</a></li>
+        <li><a href="camp-assen.php">Assen</a></li>
+        <li><a href="camp-bodegraven.php">Bodegraven</a></li>
+        <li><a href="camp-harderwijk.php">Harderwijk</a></li>
+        <li><a href="camp-kampen.php">kampen</a></li>
+        <li><a href="camp-leeuwarden.php" class="AsideSelected">Leeuwarden</a></li>
+        <li><a href="camp-loosduinen.php">Loosduinen</a></li>
+        <li><a href="camp-zeist.php">Zeist</a></li>
+        <li><a href="camp-zwolle.php">Zwolle</a></li>
+    </ul>
 
-<h1>Le camp d'internement de Leeuwarden</h1>
+    <div id="pubaside">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Poilus -->
+        <ins class="adsbygoogle"
+        style="display:inline-block;width:160px;height:600px"
+        data-ad-client="ca-pub-1550427609493753"
+        data-ad-slot="8236218848"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
 
-<figure>
-<a href="images/Leeuwarden/leeuwarden-01.jpg" data-fancybox="gallery">
-<img src="miniatures/Leeuwarden/leeuwarden-01.jpg" alt="Un bout de toilette au camp de Leeuwarden"></a>
-<figcaption>Un bout de toilette au camp de Leeuwarden<br/>(Carte postale)</figcaption>
-</figure>
+    </aside>
 
-<p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
-</article>
+        <article>
 
-</section>
+        <h1>Le camp d'internement de Leeuwarden</h1>
 
-<footer><?php include('../include/footer.inc'); ?></footer>
+        <figure>
+            <a href="images/Leeuwarden/leeuwarden-01.jpg" data-fancybox="gallery">
+            <img src="miniatures/Leeuwarden/leeuwarden-01.jpg" alt="Un bout de toilette au camp de Leeuwarden"></a>
+            <figcaption>Un bout de toilette au camp de Leeuwarden<br/>(Carte postale)</figcaption>
+        </figure>
 
-<?php include('../include/stats.inc'); ?>
+        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+        
+        </article>
 
-<!-- javascript -->
+    </section>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
-<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-<script type="text/javascript" src="../js/script.js"></script>
+    <footer><?php include('../include/footer.inc'); ?></footer>
 
-</body>
+    <?php include('../include/stats.inc'); ?>
+
+    <!-- javascript -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+    <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+    <script type="text/javascript" src="../js/script.js"></script>
+
+    </body>
 </html>

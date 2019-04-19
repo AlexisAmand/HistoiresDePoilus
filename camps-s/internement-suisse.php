@@ -1,86 +1,88 @@
 <!doctype html>
 <html lang="fr">
-<head>
 
-<meta charset="utf-8">
+    <head>
 
-<title>Les camps d'internement Suisses pendant la Grande Guerre - Histoires de Poilus</title>
-<meta name="description"  content="Présentation des camps d'internement Suisses pendant la Première Guerre mondiale (1914-1918)">
+        <meta charset="utf-8">
 
-<link rel="stylesheet" href="../css/style.css">
-<link rel="stylesheet" href="../css/resp.css">
-<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+        <title>Les camps d'internement Suisses pendant la Grande Guerre - Histoires de Poilus</title>
+        <meta name="description"  content="Présentation des camps d'internement Suisses pendant la Première Guerre mondiale (1914-1918)">
 
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
+        <link rel="stylesheet" href="../css/style.css">
+        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/fontawesome/css/all.css">
 
-</head>
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link rel="icon" type="image/png" href="../images/favicon.png"/>
 
-<body>
+    </head>
 
-<!-- code js pour l'avertissement sur les cookies -->
+    <body>
 
-<script src="../js/cookiechoices.js"></script>
-<script>
-document.addEventListener('DOMContentLoaded', function(event) {
-cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
-'Ok', 'En savoir plus', '../cookies.php');
-});
-</script>
+    <!-- code js pour l'avertissement sur les cookies -->
 
-<?php include('../include/resp.inc'); ?>
+    <script src="../js/cookiechoices.js"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    'Ok', 'En savoir plus', '../cookies.php');
+    });
+    </script>
 
-<header>
+    <?php include('../include/resp.inc'); ?>
 
-<?php include('../include/social.inc'); ?>
+    <header>
 
-<a href="../index.php" title="retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+        <?php include('../include/social.inc'); ?>
 
-</header>
+        <a href="../index.php" title="retour sur la page d'accueil du site">
+        <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
-<nav>
-<a href="../contact.php">Contact</a>
-<a href="../webographie.php">Webographie</a>
-<a href="../lieux.php">Les Batailles</a>
-<a href="../camps.php" class="NavSelected">Les Camps</a>
-<a href="../releves.php">Les Relevés</a>
-<a href="../poilus.php">Les Poilus</a>
-<a href="../index.php">Accueil</a>   
-</nav>
+    </header>
 
-<div id="navbis">
-<a href="../camps.php">Les camps de prisonniers en Allemagne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="../camps-nl/camps-internements.php">Les camps d'internement au Pays-Bas</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="internement-suisse.php">Les camps d'internement en Suisse</a>
-</div>
+    <nav>
+        <a href="../contact.php">Contact</a>
+        <a href="../webographie.php">Webographie</a>
+        <a href="../lieux.php">Les Batailles</a>
+        <a href="../camps.php" class="NavSelected">Les Camps</a>
+        <a href="../releves.php">Les Relevés</a>
+        <a href="../poilus.php">Les Poilus</a>
+        <a href="../index.php">Accueil</a>   
+    </nav>
 
-<section>
+    <div id="navbis">
+        <a href="../camps.php">Les camps de prisonniers en Allemagne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="../camps-nl/camps-internements.php">Les camps d'internement au Pays-Bas</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="internement-suisse.php">Les camps d'internement en Suisse</a>
+    </div>
 
-<article>
+    <section>
 
-<h1>Les camps d'internement en Suisse</h1>
+        <article>
 
-<!--p>http://gallica.bnf.fr/ark:/12148/bpt6k373147f/f312.image.r=</p-->
+        <h1>Les camps d'internement en Suisse</h1>
 
-<figure>
-<img src="img/travaux.png">
-</figure>
+        <!--p>http://gallica.bnf.fr/ark:/12148/bpt6k373147f/f312.image.r=</p-->
 
-<p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
-</article>
+        <figure>
+            <img src="img/travaux.png">
+        </figure>
 
-</section>
+        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+        
+        </article>
 
-<footer><?php include('../include/footer.inc'); ?></footer>
+    </section>
 
-<?php include('../include/stats.inc'); ?>
+    <footer><?php include('../include/footer.inc'); ?></footer>
 
-<!-- javascript -->
+    <?php include('../include/stats.inc'); ?>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
-<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-<script type="text/javascript" src="../js/script.js"></script>
+    <!-- javascript -->
 
-</body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+    <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+    <script type="text/javascript" src="../js/script.js"></script>
+
+    </body>
 </html>

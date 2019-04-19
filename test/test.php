@@ -5,14 +5,14 @@
 <meta charset="utf-8">
           
 <title>Biographie et parcours du soldat Jules AMAND - Histoires de Poilus</title>
-<meta content="Parcours et biographie du jass Jules AMAND, soldat belge pendant la Première Guerre Mondiale" name="description" />
+<meta content="Parcours et biographie du jass Jules AMAND, soldat belge pendant la Première Guerre Mondiale" name="description"/>
 
 <link rel="stylesheet" href="../css/style.css">
 <link rel="stylesheet" href="../css/resp.css">
 <link rel="stylesheet" href="../css/fontawesome/css/all.css">
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
+<link rel="icon" type="image/png" href="../images/favicon.png"/>
    
 </head>   
 

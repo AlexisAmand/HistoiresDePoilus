@@ -1,20 +1,21 @@
 <!doctype html>
 <html lang="fr">
-<head>
 
-<meta charset="utf-8">
+    <head>
 
-<title>Relevé des morts pour la France de Wargnies-le-Grand - Histoires de Poilus</title>
-<meta content="relevés des soldats et des civils de Wargnies-le-Grand morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or">
+        <meta charset="utf-8">
 
-<link rel="stylesheet" href="../css/style.css">
-<link rel="stylesheet" href="../css/resp.css">
-<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+        <title>Relevé des morts pour la France de Wargnies-le-Grand - Histoires de Poilus</title>
+        <meta content="relevés des soldats et des civils de Wargnies-le-Grand morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or">
 
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-                  
-</head>
+        <link rel="stylesheet" href="../css/style.css">
+        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link rel="icon" type="image/png" href="../images/favicon.png"/>
+
+    </head>
 
 <body>
 <!-- code js pour l'avertissement sur les cookies -->
@@ -338,21 +339,11 @@ data-ad-slot="8236218848"></ins>
 <h2>Sources</h2>
 
 <ul>
-<<<<<<< HEAD
 <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
 <li>Mémoire des Hommes (Ministère de la Défense)</li>
 </ul>
 
 <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
-=======
-  <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
-  <li>Mémoire des Hommes (Ministère de la Défense)</li>
-</ul>
-
-<p class="sources">
-<?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
-</p>
->>>>>>> 75fb96710df4588515c4cc45104ec4ff6087d03a
 
 </article>
 

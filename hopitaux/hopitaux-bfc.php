@@ -1,126 +1,125 @@
 <!doctype html>
 <html lang="fr">
-<head>
 
-<meta charset="utf-8">
+    <head>
 
-<title>Les hôpitaux de Bourgogne-Franche-Comté pendant la Grande Guerre - Histoires de Poilus</title>
-<meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles de Bourgogne-Franche-Comté pendant la Première Guerre Mondiale" name="description">
+        <meta charset="utf-8">
 
-<link rel="stylesheet" href="../css/style.css">
-<link rel="stylesheet" href="../css/resp.css">
-<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+        <title>Les hôpitaux de Bourgogne-Franche-Comté pendant la Grande Guerre - Histoires de Poilus</title>
+        <meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles de Bourgogne-Franche-Comté pendant la Première Guerre Mondiale" name="description">
 
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
+        <link rel="stylesheet" href="../css/style.css">
+        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/fontawesome/css/all.css">  
 
-</head>
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link rel="icon" type="image/png" href="../images/favicon.png"/>
 
-<body>
+    </head>
 
-<script src="../js/cookiechoices.js"></script>
+    <body>
 
-<script>
-document.addEventListener('DOMContentLoaded', function(event) {
-cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
-'Ok', 'En savoir plus', '../cookies.php');
-});
-</script>
+    <script src="../js/cookiechoices.js"></script>
 
-<?php include('../include/resp.inc'); ?>
+    <script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    'Ok', 'En savoir plus', '../cookies.php');
+    });
+    </script>
 
-<header>
+    <?php include('../include/resp.inc'); ?>
 
-<?php include('../include/social.inc'); ?>
+    <header>
 
-<a href="../index.php" title="retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+        <?php include('../include/social.inc'); ?>
 
-</header>
+        <a href="../index.php" title="retour sur la page d'accueil du site">
+        <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
-<nav>
+    </header>
 
-<a href="../contact.php">Contact</a>
-<a href="../webographie.php">Webographie</a>
-<a href="../lieux.php">Les Batailles</a>
-<a href="../camps.php">Les Camps</a>
-<a href="../releves.php">Les Relevés</a>
-<a href="hopitaux.php" class="NavSelected">Les Hôpitaux</a>
-<a href="../poilus.php">Les Poilus</a>
+    <nav>
+        <a href="../contact.php">Contact</a>
+        <a href="../webographie.php">Webographie</a>
+        <a href="../lieux.php">Les Batailles</a>
+        <a href="../camps.php">Les Camps</a>
+        <a href="../releves.php">Les Relevés</a>
+        <a href="hopitaux.php" class="NavSelected">Les Hôpitaux</a>
+        <a href="../poilus.php">Les Poilus</a>
+    </nav>
 
-</nav>
+    <section>
 
-<section>
+    <aside>
 
-<aside>
+    <ul>
+        <li class="asideheader">Hôpitaux français</li>
 
-<ul>
-<li class="asideheader">Hôpitaux français</li>
+        <li><a href="hopitaux-ara.php">Auvergne-Rhône-Alpes</a></li>
+        <li><a href="hopitaux-bfc.php" class="AsideSelected">Bourgogne-Franche-Comté</a></li>
+        <li><a href="hopitaux-bre.php">Bretagne</a></li>
+        <li><a href="hopitaux-cvl.php">Centre-Val de Loire</a></li>
+        <li><a href="hopitaux-cor.php">Corse</a></li>
+        <li><a href="hopitaux-ges.php">Grand Est</a></li>
+        <li><a href="hopitaux-hdf.php">Hauts-de-France</a></li>
+        <li><a href="hopitaux-idf.php">Île-de-France</a></li>
+        <li><a href="hopitaux-nor.php">Normandie</a></li>
+        <li><a href="hopitaux-naq.php">Nouvelle-Aquitaine</a></li>
+        <li><a href="hopitaux-occ.php">Occitanie</a></li>
+        <li><a href="hopitaux-pdl.php">Pays de la Loire</a></li>
+        <li><a href="hopitaux-pac.php">Provence-Alpes-Côte d'Azur</a></li>
+    </ul>
 
-<li><a href="hopitaux-ara.php">Auvergne-Rhône-Alpes</a></li>
-<li><a href="hopitaux-bfc.php" class="AsideSelected">Bourgogne-Franche-Comté</a></li>
-<li><a href="hopitaux-bre.php">Bretagne</a></li>
-<li><a href="hopitaux-cvl.php">Centre-Val de Loire</a></li>
-<li><a href="hopitaux-cor.php">Corse</a></li>
-<li><a href="hopitaux-ges.php">Grand Est</a></li>
-<li><a href="hopitaux-hdf.php">Hauts-de-France</a></li>
-<li><a href="hopitaux-idf.php">Île-de-France</a></li>
-<li><a href="hopitaux-nor.php">Normandie</a></li>
-<li><a href="hopitaux-naq.php">Nouvelle-Aquitaine</a></li>
-<li><a href="hopitaux-occ.php">Occitanie</a></li>
-<li><a href="hopitaux-pdl.php">Pays de la Loire</a></li>
-<li><a href="hopitaux-pac.php">Provence-Alpes-Côte d'Azur</a></li>
+    <div id="pubaside">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Poilus -->
+        <ins class="adsbygoogle"
+        style="display:inline-block;width:160px;height:600px"
+        data-ad-client="ca-pub-1550427609493753"
+        data-ad-slot="8236218848"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
 
-</ul>
+    </aside>
 
-<div id="pubaside">
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Poilus -->
-<ins class="adsbygoogle"
-style="display:inline-block;width:160px;height:600px"
-data-ad-client="ca-pub-1550427609493753"
-data-ad-slot="8236218848"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
+        <article>
 
-</aside>
+        <h1>Les hôpitaux</h1>
 
-<article>
+        <h2>Chatillon-sur-Seine</h2>
 
-<h1>Les hôpitaux</h1>
+        <figure>
+            <a href="images/chatillon-ht-69" data-fancybox="gallery" data-caption="Hôpital temporaire n°69 (Chatillon-sur-Seine)">
+            <img src="miniatures/chatillon-ht-69" alt="L'hôpital temporaire n°69 de Chatillon-sur-Seine"></a>
+            <figcaption>L'hôpital temporaire n°69</figcaption>
+        </figure>
 
-<h2>Chatillon-sur-Seine</h2>
+        <h2>Sens</h2>
 
-<figure>
-<a href="images/chatillon-ht-69" data-fancybox="gallery" data-caption="Hôpital temporaire n°69 (Chatillon-sur-Seine)">
-<img src="miniatures/chatillon-ht-69" alt="L'hôpital temporaire n°69 de Chatillon-sur-Seine"></a>
-<figcaption>L'hôpital temporaire n°69</figcaption>
-</figure>
+        <figure>
+            <a href="images/sens-ht-31.jpg" data-fancybox="gallery" data-caption="L'hôpital temporaire n°31 (Sens)">
+            <img src="miniatures/sens-ht-31.jpg" alt="L'hôpital temporaire n°31 dans l'ancien grand séminaire de Sens'"></a>
+            <figcaption>L'hôpital temporaire n°31,<br/>situé dans l'ancien grand séminaire</figcaption>
+        </figure>
 
-<h2>Sens</h2>
+        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+        
+        </article>
 
-<figure>
-<a href="images/sens-ht-31.jpg" data-fancybox="gallery" data-caption="L'hôpital temporaire n°31 (Sens)">
-<img src="miniatures/sens-ht-31.jpg" alt="L'hôpital temporaire n°31 dans l'ancien grand séminaire de Sens'"></a>
-<figcaption>L'hôpital temporaire n°31,<br/>situé dans l'ancien grand séminaire</figcaption>
-</figure>
+    </section>
 
-<p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
-</article>
+    <footer><?php include('../include/footer.inc'); ?></footer>
 
-</section>
+    <?php include('../include/stats.inc'); ?> 
 
-<footer><?php include('../include/footer.inc'); ?></footer>
+    <!-- javascript -->
 
-<?php include('../include/stats.inc'); ?> 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+    <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+    <script type="text/javascript" src="../js/script.js"></script>
 
-<!-- javascript -->
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
-<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-<script type="text/javascript" src="../js/script.js"></script>
-
-</body>
+    </body>
 </html>

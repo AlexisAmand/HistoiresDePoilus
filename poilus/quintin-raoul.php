@@ -1,106 +1,107 @@
 <!doctype html>
 <html lang="fr">
-<head>
 
-<meta charset="utf-8">
+    <head>
 
-<title>Biographie et parcours du soldat Raoul QUINTIN - Histoires de Poilus</title>
-<meta content="Parcours et biographie du Jass Raoul QUINTIN, soldat belge pendant la Première Guerre Mondiale" name="description" />
+        <meta charset="utf-8">
 
-<link rel="stylesheet" href="../css/style.css">
-<link rel="stylesheet" href="../css/resp.css">
-<link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+        <title>Biographie et parcours du soldat Raoul QUINTIN - Histoires de Poilus</title>
+        <meta content="Parcours et biographie du Jass Raoul QUINTIN, soldat belge pendant la Première Guerre Mondiale" name="description"/>
 
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<link rel="icon" type="image/png" href="../images/favicon.png" />
-    
-</head>
+        <link rel="stylesheet" href="../css/style.css">
+        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/fontawesome/css/all.css">
 
-<body>
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link rel="icon" type="image/png" href="../images/favicon.png"/>
 
-<!-- code js pour l'avertissement sur les cookies -->
+    </head>
 
-<script src="../js/cookiechoices.js"></script>
-<script>
-document.addEventListener('DOMContentLoaded', function(event) {
-cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
-'Ok', 'En savoir plus', '../cookies.php');
-});
-</script>
+    <body>
 
-<?php include('../include/resp.inc'); ?>
+    <!-- code js pour l'avertissement sur les cookies -->
 
-<header>
+    <script src="../js/cookiechoices.js"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    'Ok', 'En savoir plus', '../cookies.php');
+    });
+    </script>
 
-<?php include('../include/social.inc'); ?>
+    <?php include('../include/resp.inc'); ?>
 
-<a href="../index.php" title="Retour sur la page d'accueil du site">
-<img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+    <header>
 
-</header>
+        <?php include('../include/social.inc'); ?>
 
-<nav>
-<a href="../contact.php">Contact</a>
-<a href="../webographie.php">Webographie</a>
-<a href="../lieux.php">Les Batailles</a>
-<a href="../camps.php">Les Camps</a>
-<a href="../releves.php">Les Relevés</a>
-<a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
-<a href="../poilus.php" class="NavSelected">Les Poilus</a>
-</nav>
+        <a href="../index.php" title="Retour sur la page d'accueil du site">
+        <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
-<div id="navbis">
-<a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="amand-jules.php">Les jasses de Belgique</a>
-</div>
+    </header>
 
-<section>
+    <nav>
+        <a href="../contact.php">Contact</a>
+        <a href="../webographie.php">Webographie</a>
+        <a href="../lieux.php">Les Batailles</a>
+        <a href="../camps.php">Les Camps</a>
+        <a href="../releves.php">Les Relevés</a>
+        <a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
+        <a href="../poilus.php" class="NavSelected">Les Poilus</a>
+    </nav>
 
-<aside>
-<ul>
-<li class="asideheader">Belgique</li>
+    <div id="navbis">
+        <a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="amand-jules.php">Les jasses de Belgique</a>
+    </div>
 
-<li><a href="amand-jules.php">AMAND Jules (+)</a></li>
-<li><a href="quintin-raoul.php"  class="AsideSelected">QUINTIN Raoul (+)</a></li>
+    <section>
 
-</ul>
+    <aside>
 
-<div id="pubaside">
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Poilus -->
-<ins class="adsbygoogle"
-style="display:inline-block;width:160px;height:600px"
-data-ad-client="ca-pub-1550427609493753"
-data-ad-slot="8236218848"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
+    <ul>
+        <li class="asideheader">Belgique</li>
+        <li><a href="amand-jules.php">AMAND Jules (+)</a></li>
+        <li><a href="quintin-raoul.php"  class="AsideSelected">QUINTIN Raoul (+)</a></li>
+    </ul>
 
-</aside>
+    <div id="pubaside">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Poilus -->
+        <ins class="adsbygoogle"
+        style="display:inline-block;width:160px;height:600px"
+        data-ad-client="ca-pub-1550427609493753"
+        data-ad-slot="8236218848"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
 
-<article>
+    </aside>
 
-<h1>Raoul QUINTIN</h1>
+        <article>
 
-<p>Né le 19 octobre 1890 à Condé-sur-l'Escaut (Nord) mais déclaré à Bernissart, <strong>Raoul Charles Jules QUINTIN</strong> fait partie de l'Armée Belge. Il porte le numéro de matricule 101/57096 et est mort pour sa patrie le 26 août 1914. La parenté reste à confirmer. (source: <a href="https://www.wardeadregister.be/fr">Dead War Register</a>) 
+        <h1>Raoul QUINTIN</h1>
 
-<p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
-</article>
+        <p>Né le 19 octobre 1890 à Condé-sur-l'Escaut (Nord) mais déclaré à Bernissart, <strong>Raoul Charles Jules QUINTIN</strong> fait partie de l'Armée Belge. Il porte le numéro de matricule 101/57096 et est mort pour sa patrie le 26 août 1914. La parenté reste à confirmer. (source: <a href="https://www.wardeadregister.be/fr">Dead War Register</a>) 
 
-</section>
+        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+        
+        </article>
 
-<footer><?php include('../include/footer.inc'); ?></footer>
+    </section>
 
-<?php include('../include/stats.inc'); ?>
+    <footer><?php include('../include/footer.inc'); ?></footer>
 
-<!-- javascript -->
+    <?php include('../include/stats.inc'); ?>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
-<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-<script type="text/javascript" src="../js/script.js"></script>
+    <!-- javascript -->
 
-</body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+    <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+    <script type="text/javascript" src="../js/script.js"></script>
+
+    </body>
 </html>
