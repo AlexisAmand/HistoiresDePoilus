@@ -127,35 +127,35 @@
         <caption>Effectif du camp au 24 mars 1916</caption>
             <thead>
             <tr>
-                <td>Nationalités</td>
-                <td>Dans le camp</td>
-                <td>A l'infirmerie du camp</td>
+                <th headers="nations">Nationalités</th>
+                <th headers="camp">Au camp</td>
+                <th headers="travail">Dans les détachements<br/>de travail</th>
             </tr>
             </thead>
             <tr>
-                <td>Français</td>
-                <td>1909</td>
-                <td>55</td>
+                <td id="nations">Français</td>
+                <td id="camp">1909</td>
+                <td id="travail">55</td>
             </tr>
             <tr>
-                <td>Belges</td>
-                <td>311</td>
-                <td>1</td>
+                <td id="nations">Belges</td>
+                <td id="camp">311</td>
+                <td id="travail">1</td>
             </tr>
             <tr>
-                <td>Anglais</td>
-                <td>14</td>
-                <td>0</td>
+                <td id="nations">Anglais</td>
+                <td id="camp">14</td>
+                <td id="travail">0</td>
             </tr>
             <tr>
-                <td>Russes</td>
-                <td>3656</td>
-                <td>220</td>
+                <td id="nations">Russes</td>
+                <td id="camp">3656</td>
+                <td id="travail">220</td>
             </tr>
             <tr>
-                <td>Serbes</td>
-                <td>1362</td>
-                <td>12</td>
+                <td id="nations">Serbes</td>
+                <td id="camp">1362</td>
+                <td id="travail">12</td>
             </tr>
         </table>
 

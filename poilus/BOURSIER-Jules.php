@@ -66,7 +66,7 @@
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php" class="AsideSelected">BOURSIER Jules Henri</a></li>
-        <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
+        <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
@@ -86,7 +86,7 @@
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
-        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-emile.php">MASCART Émile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
         <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
@@ -116,7 +116,7 @@
 
         <h1>Jules Henri BOURSIER</h1>
 
-        <p><strong>Jules Henri BOURSIER</strong> est né à Onnaing (Nord) le 7 décembre 1879, fils légitime de Edmond François BOURSIER, cultivateur, et de Julia JUDES. En 1906, il est chaudronnier et vit chez ses parents à Onnaing (Rue De La Chevauchoire), avec son frère Edouard. Le 19 novembre de la même année, il épouse Suzanne Hyacinthe GODIN (1879-1939). </p> 
+        <p><strong>Jules Henri BOURSIER</strong> est né à Onnaing (Nord) le 7 décembre 1879, fils légitime de Edmond François BOURSIER, cultivateur, et de Julia JUDES. En 1906, il est chaudronnier et vit chez ses parents à Onnaing (Rue De La Chevauchoire), avec son frère Édouard. Le 19 novembre de la même année, il épouse Suzanne Hyacinthe GODIN (1879-1939). </p> 
 
         <figure>
             <a href="images/BOURSIER-Jules-Henri-naissance-1879.jpg" data-fancybox="gallery" data-caption="acte de naissance de Jules Henri BOURSIER">
@@ -159,7 +159,7 @@
             </tr>
             <tr>
                 <td headers="date">du 20 juin 1918<br/>au 3 Novembre 1918</td>
-                <td headers="adresse">Malade, il sejourne dans la région du Bern Oberland B (Suisse)</td>
+                <td headers="adresse">Malade, il séjourne dans la région du Bern Oberland B (Suisse)</td>
             </tr>
             <tr>
                 <td headers="date">Novembre 1918</td>
@@ -170,7 +170,7 @@
 
         <h2> La mobilisation d'août 1914</h2>
 
-        <p><strong>Jules</strong> est âgé de 35 ans lors de mobilisation. Il est rappelé à l'activité et arrive au <strong>1er Régiment d'Artillerie à Pied</strong> le 2 août 1914. La portion centrale de ce régiment était à Dunkerque avec les 4e, 6e et 7e batteries, la 3e était à Boulogne, la 5e à Calais et enfin les 1ere et 2e étaient à Maubeuge. </p><p>Pas moins de 3 780 000 hommes sont mobilisés en août 1914. Au total, durant toute la guerre, environ 8 410 000 soldats et marins français seront mobilisés, dont 7 % de soldats indigènes venant des colonies de l'Empire. Parmi tous ces soldats, 1 397 800 sont <a href="../releves.php">morts pour la France</a> et 4 266 000 ont été bléssés au combat.</p>
+        <p><strong>Jules</strong> est âgé de 35 ans lors de mobilisation. Il est rappelé à l'activité et arrive au <strong>1er Régiment d'Artillerie à Pied</strong> le 2 août 1914. La portion centrale de ce régiment était à Dunkerque avec les 4e, 6e et 7e batteries, la 3e était à Boulogne, la 5e à Calais et enfin les 1ère et 2e étaient à Maubeuge. </p><p>Pas moins de 3 780 000 hommes sont mobilisés en août 1914. Au total, durant toute la guerre, environ 8 410 000 soldats et marins français seront mobilisés, dont 7 % de soldats indigènes venant des colonies de l'Empire. Parmi tous ces soldats, 1 397 800 sont <a href="../releves.php">morts pour la France</a> et 4 266 000 ont été blessés au combat.</p>
 
         <figure>
         <a href="sources/BOURSIER-Jules-Henri-matricule-01.jpg" data-fancybox="gallery" data-caption="extrait sa fiche matricule">
@@ -188,7 +188,7 @@
         <figcaption>Bombardement de la forteresse de Maubeuge par les Allemands<br/>(source: Delcampe)</figcaption>
         </figure>
 
-        <p>Jules est transféré à Grossen (date inconnue) où il reste jusqu’au 20 juin 1918. Victime de bronchite chronique, il fait partie du transport de rapatriement à destination du Bern Oberland B (B.O.B), en Suisse, où il sejourne jusqu’au 2 novembre de la même année. Il termine la conflit par un mois de permission à Menville (Eure), dans doute en convalescence.</p>
+        <p>Jules est transféré à Grossen (date inconnue) où il reste jusqu’au 20 juin 1918. Victime de bronchite chronique, il fait partie du transport de rapatriement à destination du Bern Oberland B (B.O.B), en Suisse, où il séjourne jusqu’au 2 novembre de la même année. Il termine la conflit par un mois de permission à Menville (Eure), dans doute en convalescence.</p>
 
         <figure>
         <a href="sources/BOURSIER-Jules-Henri-CICR.jpg" data-fancybox="gallery" data-caption="Fiche numérisée du CICR">

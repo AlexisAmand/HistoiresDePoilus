@@ -378,7 +378,7 @@ data-ad-slot="8236218848"></ins>
 <td headers="genre">&nbsp;</td>
 </tr>
 <tr>
-<td headers="nom">GEORGE<br/>Fernand Emile</td>
+<td headers="nom">GEORGE<br/>Fernand Émile</td>
 <td headers="naissance">16 octobre 1887<br/>à Cousolre</td>
 <td headers="mort">7 décembre 1914<br/>à Verdun (Meuse)</td>
 <td headers="classe">soldat</td>

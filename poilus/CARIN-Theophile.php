@@ -67,7 +67,7 @@
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
-        <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
+        <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php" class="AsideSelected">CARIN Théophile</a></li>
@@ -87,7 +87,7 @@
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
-        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-emile.php">MASCART Émile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
         <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
@@ -147,7 +147,7 @@
             <figcaption>Extrait de sa fiche matricule<br/>(Cliquez pour agrandir)</figcaption>
         </figure>
 
-        <p>Le 5 mars 1908, <strong>Théophile CARIN</strong> est condamné par jugement du tribunal correctionnel de Douai à 10 jours de prison pour violence et voies de fait volontaires. Le 28 avril 1909, il est condamné une seconde fois à 8 jours de prison pour coup par le tribunal correctionnel de Valenciennes. Le 21 novembre 1911, il est condamné une troisième fois par jugement contradictoire du tribunal correctionnel d'Arras à un mois de prison pour vol. Le 15 mai 1913, Il est une nouvelle fois condamné, mais cette fois ci c'est à 20 jours de prison pour vol par le tribunal de Bethune.</p>
+        <p>Le 5 mars 1908, <strong>Théophile CARIN</strong> est condamné par jugement du tribunal correctionnel de Douai à 10 jours de prison pour violence et voies de fait volontaires. Le 28 avril 1909, il est condamné une seconde fois à 8 jours de prison pour coup par le tribunal correctionnel de Valenciennes. Le 21 novembre 1911, il est condamné une troisième fois par jugement contradictoire du tribunal correctionnel d'Arras à un mois de prison pour vol. Le 15 mai 1913, Il est une nouvelle fois condamné, mais cette fois-ci c'est à 20 jours de prison pour vol par le tribunal de Bethune.</p>
 
         <figure>
             <a href="images/arras-tribunal.jpg" data-fancybox="gallery" data-caption="Le tribunal d'Arras">

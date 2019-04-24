@@ -130,25 +130,25 @@
         <caption>Effectif du camp au 27 avril 1916</caption>
             <thead>
             <tr>
-                <td>Nationalités</td>
-                <td>Dans le camp</td>
-                <td>Dans les équipes de<br/>travail qui en dépendent</td>
+                <th headers="nations">Nationalités</th>
+                <th headers="camp">Au camp</td>
+                <th headers="travail">Dans les détachements<br/>de travail</th>
             </tr>
             </thead>
             <tr>
-                <td>Français</td>
-                <td>3812</td>
-                <td>4361</td>
+                <td id="nations">Français</td>
+                <td id="camps">3812</td>
+                <td id="travail">4361</td>
             </tr>
             <tr>
-                <td>Anglais</td>
-                <td>681</td>
-                <td>1373</td>
+                <td id="nations">Anglais</td>
+                <td id="camps">681</td>
+                <td id="travail">1373</td>
             </tr>
             <tr>
-                <td>Russes</td>
-                <td>51</td>
-                <td>100</td>
+                <td id="nations">Russes</td>
+                <td id="camps">51</td>
+                <td id="travail">100</td>
             </tr>
         </table>
 

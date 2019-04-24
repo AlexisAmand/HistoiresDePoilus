@@ -247,7 +247,7 @@
                 <li><a href="/poilus/boucher-gervais.php">BOUCHER Gervais</a></li>
                 <li><a href="/poilus/boursier-edmond.php">BOURSIER Edmond</a></li>
                 <li><a href="/poilus/BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
-                <li><a href="/poilus/CARIN-Edouard.php">CARIN Edouard (+)</a></li>
+                <li><a href="/poilus/CARIN-Edouard.php">CARIN Édouard (+)</a></li>
                 <li><a href="/poilus/carin-joseph.php">CARIN Joseph</a></li>
                 <li><a href="/poilus/CARIN-Leon.php">CARIN Léon (+)</a></li>
                 <li><a href="/poilus/CARIN-Theophile.php">CARIN Théophile</a></li>
@@ -267,7 +267,7 @@
                 <li><a href="/poilus/lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
                 <li><a href="/poilus/LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
                 <li><a href="/poilus/magny-jules.php">MAGNY Jules</a></li>
-                <li><a href="/poilus/mascart-emile.php">MASCART Emile</a></li>
+                <li><a href="/poilus/mascart-emile.php">MASCART Émile</a></li>
                 <li><a href="/poilus/mascart-leon.php">MASCART Léon</a></li>
                 <li><a href="/poilus/mascart-leon-2.php">MASCART Léon (+)</a></li>
                 <li><a href="/poilus/mascart-louis.php">MASCART Louis (+)</a></li>

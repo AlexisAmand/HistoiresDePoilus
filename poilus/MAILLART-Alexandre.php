@@ -167,9 +167,9 @@
         </figure>
 
         <figure>
-            <a href="images/bethenville-place-munet-01.jpg" data-fancybox="gallery" data-caption="La Place du Munet aprés la Grande Guerre">
+            <a href="images/bethenville-place-munet-01.jpg" data-fancybox="gallery" data-caption="La Place du Munet Après la Grande Guerre">
             <img src="miniatures/bethenville-place-munet-01.jpg" alt="La Place du Munet à Bétheniville où a vécu Alexandre MAILLART"/></a>
-            <figcaption>La Place du Munet aprés la Grande Guerre<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>La Place du Munet Après la Grande Guerre<br/>(cliquez pour agrandir)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

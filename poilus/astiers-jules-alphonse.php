@@ -101,12 +101,12 @@
             <figcaption>Arbre généalogique partiel de Jules ASTIER(S)<br/>(cliquez pour agrandir)</figcaption>
         </figure>
 
-        <p>Il part pour le service militaire le 16 novembre 1893 aprés avoir été déclaré "bon" lors de son conseil de révision. Il rejoint le 91e Régiment d'Infanterie, et arrive au corps en tant que soldat de 2e classe. Il devient soldat de 1ere classe le 8 octobre 1894 et est envoyé en congés un mois plus tard avec le certificat de bonne conduite.</p>
+        <p>Il part pour le service militaire le 16 novembre 1893 Après avoir été déclaré "bon" lors de son conseil de révision. Il rejoint le 91e Régiment d'Infanterie, et arrive au corps en tant que soldat de 2e classe. Il devient soldat de 1ère classe le 8 octobre 1894 et est envoyé en congés un mois plus tard avec le certificat de bonne conduite.</p>
 
         <figure>
             <a href="images/bethenville-place-munet.jpg" data-fancybox="gallery" data-caption="La Place du Munet à Bétheniville">
             <img src="miniatures/bethenville-place-munet.jpg" alt="La Place du Munet à Bétheniville sur une carte postale ancienne"/></a>
-            <figcaption>La Place du Munet à Bétheniville<br/>où est né Jules, aprés la guerre.</figcaption>
+            <figcaption>La Place du Munet à Bétheniville<br/>où est né Jules, Après la guerre.</figcaption>
         </figure>
 
         <p>20 ans plus tard, lors de <a href="mobilisation-1914" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation générale</a> du 1er août 1914, il est rappelé mais est renvoyé provisoirement le 2 septembre 1914. Quelques mois plus tard, le 3 avril 1915, il est de nouveau rappelé et rejoint le 10e Escadron de Train dés le 20 où il reste 9 jours avant de rejoindre le 13e Régiment d'Artillerie. Il passe les deux dernières années de la guerre détaché dans des usines d'armement de Colombe et Mondeville (Normandie) avant d'être finalement libéré du service le 1 octobre 1919.</p>

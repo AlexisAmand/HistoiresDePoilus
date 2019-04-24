@@ -69,7 +69,7 @@
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
-        <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
+        <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
@@ -89,7 +89,7 @@
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
-        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-emile.php">MASCART Émile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
         <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
@@ -210,7 +210,7 @@
         <figure>
             <a href="images/Beuvraignes-1914.jpg" data-fancybox="gallery" data-caption="Beuvraignes pendant la Grande Guuerre">
             <img src="miniatures/Beuvraignes-1914.jpg"  alt="Le village de Beuvraignes pendant la Première Guerre Mondiale"/></a>
-            <figcaption>Le village de Beuvraignes pendant la Grande Guerre<br/>(source: Wikipedia - cliquez pour agrandir)</figcaption>
+            <figcaption>Le village de Beuvraignes pendant la Grande Guerre<br/>(source: Wikipédia - cliquez pour agrandir)</figcaption>
         </figure>        
 
         <p><em>Les 3, 4 et 5 octobre, des combats acharnés sont livrés pour la possession du village, l'ennemi nous opposant des forces bien supérieures en nombre. De part et d'autre les contres attaques se succèdent aux attaques et nos hommes se battent au corps à corps dans les rues et les maisons du village. Malgré des pertes importantes, (le Régiment ne compte plus que 400 hommes environ), l'ennemi ne parvient pas à nous chasser des lisières Sud du village et nous faisons une centaine de prisonniers dont deux officiers. Le 7, le régiment passe en seconde ligne, relevé par d'autres éléments de la 56e Division d'Infanterie gagne les villages de Bus et de Tilloloy, incorpore un renfort de 600 hommes et repasse en première ligne le 10 occupant le Bois allongé. Le 11, un coup de main tenté à Beuvraignes par deux compagnies permet de gagner quelques maisons du village. Le 14, le Régiment est relevé par le 92e Régiment d'Infanterie Du 14 au 30, la Division passe en réserve mobile d'Armée aux environs de Montdidier.</em></p>

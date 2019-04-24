@@ -145,7 +145,7 @@ data-ad-slot="8236218848"></ins>
 </tr>
 </thead>
 <tr>
-<td headers="nom"><a href="../poilus/CARIN-Edouard.php" title="biographie du poilu Edouard CARIN">CARIN<br/>Edouard</a></td>
+<td headers="nom"><a href="../poilus/CARIN-Edouard.php" title="biographie du poilu Édouard CARIN">CARIN<br/>Edouard</a></td>
 <td headers="naissance">&nbsp;</td>
 <td headers="mort">&nbsp;</td>
 <td headers="grade">&nbsp;</td>

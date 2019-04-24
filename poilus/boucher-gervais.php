@@ -69,7 +69,7 @@
         <li><a href="boucher-gervais.php" class="AsideSelected">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
-        <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
+        <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
@@ -89,7 +89,7 @@
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
-        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-emile.php">MASCART Émile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
         <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
@@ -136,7 +136,7 @@
             <figcaption>La Place d'Armes de Valenciennes,<br/>avec vue sur l'Hôtel de Ville<br/>(Source: Delcampe)</figcaption>
         </figure>
 
-        <p>Il rejoint alors la 1ere compagnie d'ouvrier d'artillerie où il arrive le lendemain et est immatriculé sous le n°677. Durant son engagement, il suit une formation et devient ouvrier en bois. Son engagement terminé, il part vivre à Calais (Pas-de-Calais) avec le certificat de bonne conduite accordé. Le 5 Juin 1905, Gervais épouse à Onnaing Marie Céline MASCART, une descendante d'Antoine MASCART (1721-1797) et Michelle BRACONNIER (1684-1727), mes sosas n°644 et 645.</p>
+        <p>Il rejoint alors la 1ère compagnie d'ouvrier d'artillerie où il arrive le lendemain et est immatriculé sous le n°677. Durant son engagement, il suit une formation et devient ouvrier en bois. Son engagement terminé, il part vivre à Calais (Pas-de-Calais) avec le certificat de bonne conduite accordé. Le 5 Juin 1905, Gervais épouse à Onnaing Marie Céline MASCART, une descendante d'Antoine MASCART (1721-1797) et Michelle BRACONNIER (1684-1727), mes sosas n°644 et 645.</p>
 
         <table class="census">
         <caption>Liste des domiciles de Gervais</caption>
@@ -179,9 +179,9 @@
             <figcaption>Entrée de la fabrique de pipes d'Onnaing, rue Saint-Roch<br/>(Source: Bibliothèque Municipale de Valenciennes)</figcaption>
         </figure>
 
-        <p>Pour l'instant, j'ai trouvé pour le couple formé par céline et Gervais un seul enfant, Marie Louise Célina, née le lundi 16 août 1909 à Calais (Rue Liévin DELHAYE) où Gervais est menuisier pour un certain Recq, qui est peut-être à rapprocher de la famille qui s'occupaient de Pompes Funebres.</p>
+        <p>Pour l'instant, j'ai trouvé pour le couple formé par céline et Gervais un seul enfant, Marie Louise Célina, née le lundi 16 août 1909 à Calais (Rue Liévin DELHAYE) où Gervais est menuisier pour un certain Recq, qui est peut-être à rapprocher de la famille qui s'occupaient de pompes funèbres .</p>
 
-        <p>Quelques années plus tard, quand la guerre éclate, Gervais est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de mobilisation générale</a> du 1er août 1914 et rejoint le 1er R.A.P Il est fait prisonnier à Maubeuge le 7 septembre 1914 et est envoyé en internement à <a href="../camps/camp-munster.php" title="Le camp de prisonniers de Munster">Munster III</a> d'où il sera rapatrié le 8 décembre 1918. Il est envoyé en congés illimités le 17 février 1919 aprés une permission de 60 jours. Gervais est décédé à son domicile situé <a href="http://cartespostalesanciennes.genealexis.fr/image/421-valenciennes-le-depart-du-tramway-rue-de-mons" title="Le départ du Tramway, rue de Mons, à Valenciennes">Rue de Mons à Valenciennes</a>, le 27 décembre 1964.</p>
+        <p>Quelques années plus tard, quand la guerre éclate, Gervais est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de mobilisation générale</a> du 1er août 1914 et rejoint le 1er R.A.P. Il est fait prisonnier à Maubeuge le 7 septembre 1914 et est envoyé en internement à <a href="../camps/camp-munster.php" title="Le camp de prisonniers de Munster">Munster III</a> d'où il sera rapatrié le 8 décembre 1918. Il est envoyé en congés illimités le 17 février 1919 Après une permission de 60 jours. Gervais est décédé à son domicile situé <a href="http://cartespostalesanciennes.genealexis.fr/image/421-valenciennes-le-depart-du-tramway-rue-de-mons" title="Le départ du Tramway, rue de Mons, à Valenciennes">Rue de Mons à Valenciennes</a>, le 27 décembre 1964.</p>
 
         <figure>
             <a href="../camps/images/camps_prisonniers_munster_01.jpg" data-fancybox="gallery" data-caption="Le retour des corvées à Münster III">

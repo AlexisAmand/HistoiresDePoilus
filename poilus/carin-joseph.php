@@ -5,8 +5,8 @@
 
 		<meta charset="utf-8">
 
-		<title>Biographie et parcours du soldat CARIN Edouard - Histoires de Poilus</title>
-		<meta content="Parcours de Edouard CARIN, soldat pendant la Première Guerre Mondiale et membre du 162e Régiment d'Infanterie" name="description">
+		<title>Biographie et parcours du soldat CARIN Édouard - Histoires de Poilus</title>
+		<meta content="Parcours de Édouard CARIN, soldat pendant la Première Guerre Mondiale et membre du 162e Régiment d'Infanterie" name="description">
 
 		<link rel="stylesheet" href="../css/style.css">
 		<link rel="stylesheet" href="../css/resp.css">
@@ -67,7 +67,7 @@
 		<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
 		<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
 		<li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
-		<li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
+		<li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
 		<li><a href="carin-joseph.php" class="AsideSelected">CARIN Joseph</a></li>
 		<li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
 		<li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
@@ -87,7 +87,7 @@
 		<li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
 		<li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
 		<li><a href="magny-jules.php">MAGNY Jules</a></li>
-		<li><a href="mascart-emile.php">MASCART Emile</a></li>
+		<li><a href="mascart-emile.php">MASCART Émile</a></li>
 		<li><a href="mascart-leon.php">MASCART Léon</a></li>
 		<li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
 		<li><a href="mascart-louis.php">MASCART Louis (+)</a></li>

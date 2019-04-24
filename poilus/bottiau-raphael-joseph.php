@@ -67,7 +67,7 @@
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
-        <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
+        <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
@@ -87,7 +87,7 @@
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
-        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-emile.php">MASCART Émile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
         <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
@@ -117,7 +117,7 @@
 
         <h1>Raphaël Joseph BOTTIAU</h1>
 
-        <p><strong>Raphaël Joseph BOTTIAU</strong> est né le 26 janvier 1880 à Quarouble, fils légitime de Antoine Joseph BOTTIAU et de Léopoldine Augustine JOLY (elle même fille de mon sosa n°80 et de sa 2e épouse).</p>
+        <p><strong>Raphaël Joseph BOTTIAU</strong> est né le 26 janvier 1880 à Quarouble, fils légitime de Antoine Joseph BOTTIAU et de Léopoldine Augustine JOLY (elle-même fille de mon sosa n°80 et de sa 2e épouse).</p>
 
         <table class="census">
         <caption>Liste des domiciles de Raphaël Joseph BOTTIAU</caption>
@@ -173,7 +173,7 @@
 
         <p>Raphaël épouse en Premières noces Eugénie BRUNEAUX, le couple a un fils né en 1903 à Férin.</p>
 
-        <p>Aprés avoir épousé en prenières noces Eugénie BRUNEAUX, Raphaël s'était uni en secondes noces à Dhany BOUTEILLE (1880-1927), ménagère et fille légitime de Nicolas BOUTEILLE et de Françoise MOLTEL, le 19 juillet 1924 à Quarouble (Nord).</p>
+        <p>Après avoir épousé en premières noces Eugénie BRUNEAUX, Raphaël s'était uni en secondes noces à Dhany BOUTEILLE (1880-1927), ménagère et fille légitime de Nicolas BOUTEILLE et de Françoise MOLTEL, le 19 juillet 1924 à Quarouble (Nord).</p>
 
         <p>Raphaël arrive au 15e Régiment d'Artillerie de Campagne le 11 août 1914. Libéré provisoirement le 19 août 1914, il est fait prisonnier le 24 août à Quarouble et interné derrière les lignes. Raphaël est envoyé en congés illimités le 12 février 1919 par le dépôt démobilisateur du 15e Régiment d'Artillerie et se retire à Quarouble, où il décède le 19 mars 1926 à son domicile de la Rue du Moulin.</p>    
 

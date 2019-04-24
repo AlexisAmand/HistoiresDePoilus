@@ -67,7 +67,7 @@
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
-        <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
+        <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
@@ -87,7 +87,7 @@
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
-        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-emile.php">MASCART Émile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
         <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
@@ -157,7 +157,7 @@
 
         <h2>La mobilisation d'août 1914</h2>
 
-        <p>Âgé de 43 ans en 1914, <strong>Louis Abraham</strong> est mobilisé comme la plupart des hommes de sa génération et devient auxiliaire de place forte au sein de la 1ere batterie (3e selon certaines sources) du <strong>1er Régiment d'Artillerie à Pied</strong>. En 1914, l'artillerie à pied est réservée à la défense d'une zone que l'on appelle groupe  et a en charge outre la défense de ce groupe, celle des forts et ouvrages. Il est cantonné au groupe de Grévaux, sous les ordres  Capitaine BOCQUET.</p>
+        <p>Âgé de 43 ans en 1914, <strong>Louis Abraham</strong> est mobilisé comme la plupart des hommes de sa génération et devient auxiliaire de place forte au sein de la 1ère batterie (3e selon certaines sources) du <strong>1er Régiment d'Artillerie à Pied</strong>. En 1914, l'artillerie à pied est réservée à la défense d'une zone que l'on appelle groupe  et a en charge outre la défense de ce groupe, celle des forts et ouvrages. Il est cantonné au groupe de Grévaux, sous les ordres  Capitaine BOCQUET.</p>
 
         <figure>
             <a href="portraits/Louis Abraham CARLIER (frère de sosa 22).jpg" data-fancybox="gallery" data-caption="Portrait de Louis Abraham CARLIER">

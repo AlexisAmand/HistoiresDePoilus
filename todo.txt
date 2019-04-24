@@ -27,7 +27,7 @@
 - TODO : corriger les <a href=" ">
 - idem avec le title=" "
 
-Aprés la mise en ligne
+Après la mise en ligne
 ----------------------
 
 - Xenu pour liens morts

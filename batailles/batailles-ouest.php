@@ -204,7 +204,7 @@
                 <td headers="lieu">Artois<br/>(France)</td>
                 <td headers="bataille">La Bataille de l'Artois</td>
                 <td headers="date">Du 8 mai 1915<br/>au 25 juin 1915</td>
-                <td>Indécise</td>
+                <td headers="issue">Indécise</td>
             </tr>    
             <tr>
                 <td headers="lieu">Pas-de-Calais<br/>(France)</td>

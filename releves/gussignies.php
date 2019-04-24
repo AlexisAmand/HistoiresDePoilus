@@ -123,7 +123,7 @@
         <figure>
             <a href="images/monument-gussignies.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Gussignies">
             <img src="images/mini/monument-gussignies.jpg" alt="le Monument aux Morts de Gussignies"/></a>
-            <figcaption>Le Monument aux Morts<br/>(Source: Wikipedia Commons)</figcaption>
+            <figcaption>Le Monument aux Morts<br/>(Source: Wikipédia Commons)</figcaption>
         </figure>
 
         <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>

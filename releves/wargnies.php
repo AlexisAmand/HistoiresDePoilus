@@ -247,7 +247,7 @@ data-ad-slot="8236218848"></ins>
 <td headers="genre">Tué à l'ennemi</td>
 </tr>
 <tr>
-<td headers="nom">GUMEZ<br/>Émile Edouard</td>
+<td headers="nom">GUMEZ<br/>Émile Édouard</td>
 <td headers="naissance">Le 4 décembre 1882<br/>à Wargnies-le-Grand</td>
 <td headers="mort">Le 9 mars 1915<br/>à Beausejour (Marne)</td>
 <td headers="grade">Soldat</td>

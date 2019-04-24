@@ -5,8 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>Biographie et parcours du soldat Emile MASCART - Histoires de Poilus</title>
-        <meta content="Parcours et biographie du poilu Emile MASCART, soldat pendant la Première Guerre Mondiale" name="description"/>
+        <title>Biographie et parcours du soldat Émile MASCART - Histoires de Poilus</title>
+        <meta content="Parcours et biographie du poilu Émile MASCART, soldat pendant la Première Guerre Mondiale" name="description"/>
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -67,7 +67,7 @@
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
-        <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
+        <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
@@ -87,7 +87,7 @@
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
-        <li><a href="mascart-emile.php" class="AsideSelected">MASCART Emile</a></li>
+        <li><a href="mascart-emile.php" class="AsideSelected">MASCART Émile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
         <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
@@ -117,7 +117,7 @@
 
         <h1>Emile MASCART</h1>
 
-        <p><strong>Emile MASCART</strong> est né à Onnaing le 24 janvier 1887, fils légitime de Romain et Marie Thérèse LEBRUN. Mes ancêtres communs avec Emile sont Hierosme MASCART (1658-1720) et Marie MARTIN (1653-1722), un couple originaire de Quarouble. Avant la guerre, Emile exerce la profession de traceur en constructions métalliques chez LEMAIRE et vit rue Saint Joseph à Onnaing.</p>
+        <p><strong>Emile MASCART</strong> est né à Onnaing le 24 janvier 1887, fils légitime de Romain et Marie Thérèse LEBRUN. Mes ancêtres communs avec Émile sont Hierosme MASCART (1658-1720) et Marie MARTIN (1653-1722), un couple originaire de Quarouble. Avant la guerre, Émile exerce la profession de traceur en constructions métalliques chez LEMAIRE et vit rue Saint Joseph à Onnaing.</p>
 
         <table class="census">
         <caption>Liste des domiciles d'Emile</caption>

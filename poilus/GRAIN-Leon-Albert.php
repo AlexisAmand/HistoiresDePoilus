@@ -67,7 +67,7 @@
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
-        <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
+        <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
@@ -87,7 +87,7 @@
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
-        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-emile.php">MASCART Émile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
         <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
@@ -181,7 +181,7 @@
 
         <h2>On brûle les drapeaux...</h2>
 
-        <p>Le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e d'infanterie, des 31e  et 32e  colonial, des 1er, 2e, 3e (celui de <strong>Léon albert GRAIN</strong>) et 4e territorial et enfin celui du 1er régiment d'artillerie à pied. Les drapeaux de la garnison sont brûlés le lendemain dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
+        <p>Le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e d'infanterie, des 31e  et 32e  colonial, des 1er, 2e, 3e (celui de <strong>Léon Albert GRAIN</strong>) et 4e territorial et enfin celui du 1er régiment d'artillerie à pied. Les drapeaux de la garnison sont brûlés le lendemain dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
 
         <figure>
             <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" data-caption="La Caserne Joyeuse (Maubeuge) avant 1914">
@@ -191,7 +191,7 @@
 
         <h2>La chute de Maubeuge</h2>
 
-        <p><strong>Léon Albert</strong> est fait prisonnier le 8 septembre à 1914 à Maubeuge et envoyé à Chemnitz, un <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de prisonniers de Chemnitz</a>  situé en Saxe, entre Dresde et Zwickau, au Sud-est de Leipzig. Pour rappel, 46000 soldats français ont été fait prisonniers à la suite de la chute de la ville Maubeuge.</p>
+        <p><strong>Léon Albert</strong> est fait prisonnier le 8 septembre à 1914 à Maubeuge et envoyé à Chemnitz, un <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de prisonniers de Chemnitz</a>  situé en Saxe, entre Dresde et Zwickau, au Sud-est de Leipzig. Pour rappel, 46000 soldats français Albertprisonniers à la suite de la chute de la ville Maubeuge.</p>
 
         <figure>
             <a href="images/camp-de-chemnitz.jpg" data-fancybox="gallery" data-caption="Le camp de Chemnitz pendant la Grande Guerre">

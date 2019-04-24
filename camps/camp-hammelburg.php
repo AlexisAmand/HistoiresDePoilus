@@ -128,25 +128,25 @@
         <caption>Effectif du camp au 28 novembre 1915</caption>
         <thead>
             <tr>
-                <td>Nationalités</td>
-                <td>Au camp</td>
-                <td>Dans les détachements<br/>de travail</td>
+                <th headers="nations">Nationalités</th>
+                <th headers="camp">Au camp</td>
+                <th headers="travail">Dans les détachements<br/>de travail</th>
             </tr>
             </thead>
             <tr>
-                <td>Français</td>
-                <td>1195</td>
-                <td>5492</td>
+                <td id="nations">Français</td>
+                <td id="camp">1195</td>
+                <td id="travail">5492</td>
             </tr>
             <tr>
-                <td>Russes</td>
-                <td>31</td>
-                <td>208</td>
+                <td id="nations">Russes</td>
+                <td id="camp">31</td>
+                <td id="travail">208</td>
             </tr>
             <tr>
-                <td>Anglais</td>
-                <td>103</td>
-                <td>256</td>
+                <td id="nations">Anglais</td>
+                <td id="camp">103</td>
+                <td id="travail">256</td>
             </tr>
         </table>
 
@@ -154,25 +154,25 @@
         <caption>Effectif du camp au 18 juin 1918</caption>
             <thead>
             <tr>
-                <td>Nationalités</td>
-                <td>Au camp</td>
-                <td>Dans les détachements<br/>de travail</td>
+                <th headers="nations">Nationalités</th>
+                <th headers="camp">Au camp</td>
+                <th headers="travail">Dans les détachements<br/>de travail</th>
             </tr>
             </thead>
             <tr>
-                <td>Français</td>
-                <td>550</td>
-                <td>5950</td>
+                <td id="nations">Français</td>
+                <td id="camp">550</td>
+                <td id="travail">5950</td>
             </tr>
             <tr>
-                <td>Belges</td>
-                <td>15</td>
-                <td>62</td>
+                <td id="nations">Belges</td>
+                <td id="camp">15</td>
+                <td id="travail">62</td>
             </tr>
             <tr>
-                <td>Anglais</td>
-                <td>100</td>
-                <td>500</td>
+                <td id="nations">Anglais</td>
+                <td id="camp">100</td>
+                <td id="travail">500</td>
             </tr>
         </table>
 

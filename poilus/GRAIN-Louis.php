@@ -67,7 +67,7 @@
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
-        <li><a href="CARIN-Edouard.php">CARIN Edouard (+)</a></li>
+        <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
@@ -87,7 +87,7 @@
         <li><a href="lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
         <li><a href="LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
         <li><a href="magny-jules.php">MAGNY Jules</a></li>
-        <li><a href="mascart-emile.php">MASCART Emile</a></li>
+        <li><a href="mascart-emile.php">MASCART Émile</a></li>
         <li><a href="mascart-leon.php">MASCART Léon</a></li>
         <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
@@ -181,7 +181,7 @@
 
         <h2>C'est fini pour Maubeuge...</h2>
 
-        <p>Le 7 septembre, à 11 heures 30, le Drapeau blanc est aperçu sur un clocher de Maubeuge. La Place de Maubeuge a capitulé. <strong>Louis GRAIN</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> furent entièrement fait prisonnier et furent parmi les 45 000 combattants de la poche de Maubeuge à être internés dans les camps allemands dont celui de <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">Chemnitz</a>, entre Dresde et Zwickau,  où ira Louis. </p>
+        <p>Le 7 septembre, à 11 heures 30, le Drapeau blanc est aperçu sur un clocher de Maubeuge. La Place de Maubeuge a capitulé. <strong>Louis GRAIN</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> furent entièrement faits prisonniers et furent parmi les 45 000 combattants de la poche de Maubeuge à être internés dans les camps allemands dont celui de <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">Chemnitz</a>, entre Dresde et Zwickau,  où ira Louis. </p>
 
         <figure>
             <a id="single_image0" href="images/camp-de-chemnitz.jpg" title="le camp de Chemnitz pendant la Première Guerre Mondiale">

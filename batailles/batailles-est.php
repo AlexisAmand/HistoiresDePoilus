@@ -137,7 +137,7 @@
             </tr>    
             <tr>
                 <td headers="lieu">Mazurie<br/>(Prusse-Orientale)</td>
-                <td headers="bataille">1ere Bataille<br/>des lacs de Mazurie</td>
+                <td headers="bataille">1ère Bataille<br/>des lacs de Mazurie</td>
                 <td headers="date">Du 7 septembre 1914<br/>au 14 septembre 1914</td>
                 <td headers="issue">Victoire allemande</td>
             </tr>    
