@@ -94,7 +94,7 @@
 
         <figure>
             <a href="images/arbre-arnould-rene.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille ARNOULD">
-            <img src="miniatures/arbre-arnould-rene.png" alt=" " class="ArbreGenealogique" alt="Arbre généalogique simplifié de la famille ARNOULD"></a>
+            <img src="miniatures/arbre-arnould-rene.png" class="ArbreGenealogique" alt="Arbre généalogique simplifié de la famille ARNOULD"></a>
             <figcaption>Arbre généalogique partiel de René ARNOULD</figcaption>
         </figure> 
 

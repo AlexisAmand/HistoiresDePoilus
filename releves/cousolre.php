@@ -533,7 +533,7 @@ data-ad-slot="8236218848"></ins>
 
 </table>
 
-<h2>Sources</h2>
+<h2>Sources et bibliographie</h2>
 
 <ul>
 <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>

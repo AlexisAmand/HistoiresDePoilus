@@ -393,7 +393,7 @@
                 <td headers="genre">tué à l'ennemi</td>
             </tr>
             <tr>
-                <td headers="nom"><a href="../poilus/MICHEL-Firmin.php">MICHEL<br/>Firmin</a></td>
+                <td headers="nom"><a href="../poilus/MICHEL-Firmin.php" title="biographie du poilu Firmin MICHEL">MICHEL<br/>Firmin</a></td>
                 <td headers="naissance">12 mars 1894<br/>à Saint-Hilaire-le-Petit '51)</td>
                 <td headers="mort">le 14 décembre 1914<br/>à Ornes (Meuse)</td>
                 <td headers="classe">1914</td>
@@ -558,7 +558,7 @@
 
         <p class="note"><sup>1</sup>Le livre d'Or indique Boulogne-sur-Mer dans le Pas-de-Calais, la fiche du site Memoire des Hommes indique quant à elle Boulogne dans l'ancien département de la Seine.</p>
 
-        <h2>Sources</h2>
+        <h2>Sources et bibliographie</h2>
 
         <ul>
             <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>

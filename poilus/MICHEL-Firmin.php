@@ -105,6 +105,7 @@
         <h2>De l'été 14 à Verdun</h2>
 
         <p>Du 2 août 1914 au 26 février 1916, le régiment de <strong>Firmin</strong> ne cesse de combattre dans la région fortifiée de Verdun et de concourir à la défense de la place. Dans une première période allant du 2 août au 20 octobre 1914, il prête son appui aux troupes de campagne et participe à des attaques locales. Dans une deuxième période allant du 20 octobre 1914 au 26 février 1916, il combat dans les conditions ordinaires de la guerre de tranchées et soutient, du 21 au 26 février 1916, la plus formidable attaque qui ait été vue jusqu'alors. </p>
+
         <h2>Pendant ce temps, les Allemands s'installent dans son village</h2>
 
         <p>Pendant ce temps, l'état-major de la IIIe armée du Baron Von Hausen quitte le château de Thugny pour s'installer à Bétheniville, village d'origine de <strong>Firmin</strong>, dans une "élégante et gracieuse villa" appartenant aux frères Renaut qui étaient absents. Une partie de l'état major occupait une seconde villa située de l'autre côté de la route. Le Q.G.A est porté de Bétheniville à <a href="http://cartespostalesanciennes.genealexis.fr/album/85-chalons-sur-marne" title="cartes postales anciennes de Châlons-sur-Marne sur le site Genealexis">Châlons</a> dès le lendemain.</p>
@@ -125,7 +126,7 @@
             <figcaption>Firmin, mort pour la France<br/>(cliquez pour agrandir)</figcaption>
         </figure>
 
-        <p><strong>Firmin</strong> repose aujourd'hui à la Nécropole Nationale de Bras-sur-Meuse (Tombe 50) et son nom figure sur le <a href="../releves/betheniville.php" title="lien vers la liste des morts pour la France de Bétheniville">Monument aux Morts du village de Bétheniville</a> (Marne).</p>
+       <p>Sa fiche, retrouvée sur le site "Mémoire des Hommes", nous apprend qu'il dépendait du bureau de Reims (Marne) pour son recrutement et que son acte de décès a été retranscrit sur l'état civil de Betheniville (Marne), où son nom figure sur le <a href="../releves/betheniville.php" title="liste des morts pour la France de Bétheniville">Monument aux Morts</a>. <strong>Firmin</strong> repose aujourd'hui à la Nécropole Nationale de Bras-sur-Meuse (Tombe 50) </p>
 
         <figure>
             <a href="../releves/images/betheniville-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Bétheniville - Le Monument aux Morts">
@@ -153,7 +154,7 @@
         </figure>
 
         <figure>
-            <a href="images/Saint-Hilaire-ww1-03.jpg" data-fancybox="gallery">
+            <a href="images/Saint-Hilaire-ww1-03.jpg" data-fancybox="gallery" data-caption="Les allemands préparent le pain pour le déjeuner">
             <img src="miniatures/Saint-Hilaire-ww1-03.jpg" alt="Les allemands préparant le pain pour le déjeuner à Saint-Hilaire-le-Petit"/></a>
             <figcaption>Préparations du pain pour le déjeuner<br/>(cliquez pour agrandir)</figcaption>
         </figure>
