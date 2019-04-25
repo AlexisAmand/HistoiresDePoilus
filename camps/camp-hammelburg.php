@@ -178,13 +178,13 @@
 
 
         <figure>
-            <a href="images/Hammelburg-01.jpg" data-fancybox="gallery" data-caption="Hammelburg: Le repas des prisonniers">
+            <a href="images/Hammelburg-01.jpg" data-fancybox="gallery" data-caption="Le repas des prisonniers au camp de Hammelburg">
             <img src="miniatures/Hammelburg-01.jpg" alt="Le repas au camp de prisonniers de Hammelburg pendant la Première Guerre Mondiale"></a>
             <figcaption>Le repas au camp<br/>(source allemande)</figcaption>
         </figure>
 
         <figure>
-            <a href="images/Hammelburg-02.jpg" data-fancybox="gallery" data-caption="Hammelburg: La lessive au camp">
+            <a href="images/Hammelburg-02.jpg" data-fancybox="gallery" data-caption="La lessive au camp de Hammelburg">
             <img src="miniatures/Hammelburg-02.jpg" alt="La lessive au camp de prisonniers de Hammelburg pendant la Grande Guerre"></a>
             <figcaption>La lessive au camp<br/>(source allemande)</figcaption>
         </figure>

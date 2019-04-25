@@ -118,7 +118,7 @@
 
         <h1>Relevé des morts pour la France à Wargnies-le-Grand</h1>
 
-        <p>Voici la liste des morts pour la France et des victimes civiles de Wargnies-le-Grand (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php">laissant un petit message.</a></p>
+        <p>Voici la liste des morts pour la France et des victimes civiles de Wargnies-le-Grand (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php" title="contacter le webmaster">laissant un petit message.</a></p>
 
         <figure>
             <a href="images/monument-wargnies.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Wargnies-le-Grand">
@@ -198,7 +198,7 @@
             <tr>
                 <td headers="nom">DANHIEZ<br/>Georges César</td>
                 <td headers="naissance">Le 7 septembre 1883<br/>à Wargnies-le-Grand</td>
-                <td headers="mort">Le 12 mars 1918<br/>à Salomique (Grèce)</td>
+                <td headers="mort">Le 12 mars 1918<br/>à Salonique (Grèce)</td>
                 <td headers="grade">Soldat</td>
                 <td headers="corps">19e R.A</td>
                 <td headers="genre">Maladie contractée en service</td>
@@ -206,7 +206,7 @@
             <tr>
                 <td headers="nom">DASSONVILLE<br/>Télésphore Joseph</td>
                 <td headers="naissance">Le 4 janvier 1885<br/>à Wargnies-le-Grand</td>
-                <td headers="mort">Le 12 mai 1916<br/>à Fromersville (Meuse)</td>
+                <td headers="mort">Le 12 mai 1916<br/>à Fromeréville (Meuse)</td>
                 <td headers="grade">Soldat</td>
                 <td headers="corps">306e R.I</td>
                 <td headers="genre">Tué à l'ennemi</td>
@@ -244,12 +244,12 @@
                 <td headers="genre">Tué à l'ennemi</td>
             </tr>
             <tr>
-            <td headers="nom">GUMEZ<br/>Émile Édouard</td>
-            <td headers="naissance">Le 4 décembre 1882<br/>à Wargnies-le-Grand</td>
-            <td headers="mort">Le 9 mars 1915<br/>à Beausejour (Marne)</td>
-            <td headers="grade">Soldat</td>
-            <td headers="corps">84e R.I</td>
-            <td headers="genre">Tué à l'ennemi</td>
+                <td headers="nom">GUMEZ<br/>Émile Édouard</td>
+                <td headers="naissance">Le 4 décembre 1882<br/>à Wargnies-le-Grand</td>
+                <td headers="mort">Le 9 mars 1915<br/>à Beausejour (Marne)</td>
+                <td headers="grade">Soldat</td>
+                <td headers="corps">84e R.I</td>
+                <td headers="genre">Tué à l'ennemi</td>
             </tr>
             <tr>
                 <td headers="nom">GUMEZ<br/>Léon Alexis</td>

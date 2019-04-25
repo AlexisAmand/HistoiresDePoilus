@@ -135,7 +135,7 @@
         <table class="releves">
             <thead>
             <tr>
-                <th id="nom">Nom et prénoms</th>
+                <th id="nom">Nom et prénom()s</th>
                 <th id="naissance">Date et lieu<br/>de naissance</th>
                 <th id="mort">Date et lieu<br/>de décès</th>
                 <th id="corps">Corps</th>

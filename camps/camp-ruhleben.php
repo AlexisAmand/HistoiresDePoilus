@@ -122,7 +122,7 @@
 
         <p>Le 27 juillet 1915, le journal "La Croix" raconte que deux anglais, l'un correspondant de l'agence Reuters, l'autre du Daily Chronicle, se sont évadés du camp allemand de Ruhleben et viennent d'arriver en territoire hollandais.</p>
 
-        <p>Dès le 15 août 1915, et à l'initiative d'un prisonnier anglais nommé KAMPS, les autorités allemandes mettent en place 24 boîtes aux lettres réparties à travers le camps, ainsi qu'un bureau de poste (le Post Office R. X. D.) situé à côté du corps de garde. Cette poste privée, exclusivement réservée à un usage à l'intérieur du camp, a pour but la simplification de la distribution du courrier aux prisonniers qui n'ont plus besoin d'aller le chercher eux mêmes.</p>
+        <p>Dès le 15 août 1915, et à l'initiative d'un prisonnier anglais nommé KAMPS, les autorités allemandes mettent en place 24 boîtes aux lettres réparties à travers le camp, ainsi qu'un bureau de poste (le Post Office R. X. D.) situé à côté du corps de garde. Cette poste privée, exclusivement réservée à un usage à l'intérieur du camp, a pour but la simplification de la distribution du courrier aux prisonniers qui n'ont plus besoin d'aller le chercher eux mêmes.</p>
 
         <h2>Sources et bibliographie</h2>
 

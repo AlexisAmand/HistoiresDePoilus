@@ -170,7 +170,7 @@
                 <td headers="genre">Tué à l'ennemi</td>
             </tr>  
             <tr>
-                <td headers="nom">DEGORGUE<br/>Emile</td>
+                <td headers="nom">DEGORGUE<br/>Émile</td>
                 <td headers="naissance">26 mai 1881<br/>à Frasnoy (Nord)</td>
                 <td headers="mort">16 février 1915<br/>à Minaucourt (Marne)</td>
                 <td headers="grade">soldat</td>

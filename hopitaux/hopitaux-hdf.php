@@ -102,7 +102,7 @@ data-ad-slot="8236218848"></ins>
 <p>Hôpital mixte ?</p>
 
 <figure>
-<a href="images/hopital-mixte-amiens.jpeg" data-fancybox="gallery" data-caption="L'hôpital mixte d'Amiens">
+<a href="images/hopital-mixte-amiens.jpeg" data-fancybox="gallery" data-caption="L'hôpital mixte d'Amiens (Somme)">
 <img src="miniatures/hopital-mixte-amiens.jpeg" alt="L'hôpital mixte installé à l'Hôtel Dieu d'Amiens"></a>
 <figcaption>
 Localisation d'un projectile sur un blessé<br/>

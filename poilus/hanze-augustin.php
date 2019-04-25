@@ -6,7 +6,7 @@
         <meta charset="utf-8">
 
         <title>Biographie et parcours du soldat Augustin HANZE - Histoires de Poilus</title>
-        <meta content="Parcours et biographie du poilu Augustin HANZE, soldat pendant la Première Guerre Mondiale" name="description"/>
+        <meta content="Parcours et biographie du poilu Augustin HANZE, soldat pendant la Première Guerre Mondiale. Originaire de Cousolre, il est mort pour la France en 1915." name="description"/>
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -100,15 +100,15 @@
     </ul>
 
     <div id="pubaside">
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <!-- Poilus -->
-    <ins class="adsbygoogle"
-    style="display:inline-block;width:160px;height:600px"
-    data-ad-client="ca-pub-1550427609493753"
-    data-ad-slot="8236218848"></ins>
-    <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Poilus -->
+        <ins class="adsbygoogle"
+        style="display:inline-block;width:160px;height:600px"
+        data-ad-client="ca-pub-1550427609493753"
+        data-ad-slot="8236218848"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
     </div>
 
     </aside>
@@ -153,7 +153,7 @@
             </tbody>
         </table>
 
-        <p>Rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de Mobilisation Générale</a> du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux-ges.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le <a href="../releves/cousolre.php">Monument aux Morts deCousolre</a> (où il était né) et sur les plaques commémoratives du square de l'Armistice à Carcassonne (où il était serrurier).</p>
+        <p>Rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de Mobilisation Générale</a> du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux-ges.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le <a href="../releves/cousolre.php">Monument aux Morts de Cousolre</a> (où il était né) et sur les plaques commémoratives du square de l'Armistice à Carcassonne (où il était serrurier).</p>
 
         <figure>
             <a href="sources/hanze-augustin.jpg" data-fancybox="gallery" data-caption="Augustin HANZE, mort pour la France">

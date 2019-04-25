@@ -77,7 +77,7 @@
         <h1>Le camp d'internement de Leeuwarden</h1>
 
         <figure>
-            <a href="images/Leeuwarden/leeuwarden-01.jpg" data-fancybox="gallery">
+            <a href="images/Leeuwarden/leeuwarden-01.jpg" data-fancybox="gallery" title="Un bout de toilette au camp de Leeuwarden">
             <img src="miniatures/Leeuwarden/leeuwarden-01.jpg" alt="Un bout de toilette au camp de Leeuwarden"></a>
             <figcaption>Un bout de toilette au camp de Leeuwarden<br/>(Carte postale)</figcaption>
         </figure>

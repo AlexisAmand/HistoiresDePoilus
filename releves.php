@@ -117,58 +117,50 @@
 
     </aside>
 
-    <article>
+        <article>
 
-        <h1>Relevés</h1>
+            <h1>Relevés</h1>
 
-        <p>Dans cette partie du site, vous trouverez quelques relevés de <strong>morts pour la France</strong> réalisés en associant les données des monuments aux morts avec celle du site "Mémoire des Hommes" et d'autres sites d'archives. J'ai réalisé ce travail de mémoire pour les communes où j'ai pu trouver des hommes de ma famille qui ont été mobilisés pendant la Grande Guerre.</p>
+            <p>Dans cette partie du site, vous trouverez quelques relevés de <strong>morts pour la France</strong> réalisés en associant les données des monuments aux morts avec celles du site "Mémoire des Hommes" et d'autres sites d'archives. J'ai réalisé ce travail de mémoire pour les communes où j'ai pu trouver des hommes de ma famille qui ont été mobilisés pendant la Grande Guerre.</p>
 
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
 
-        <h2>Liste des abréviations utilisées</h2>
+            <h2>Liste des abréviations utilisées</h2>
 
-        <p>Pour plus de lisibilité, j'ai dû utiliser quelques abréviations dont voici la signification.</p>
-        <p>&nbsp;</p>
-        <p>B.C - Bataillon de Chasseurs</p>
-        <p>B.C.P - Bataillon de Chasseurs à Pied</p>
-        <p>B.D - Bataillon de Douaniers</p>
-        <p>B.I.C.M - Bataillon d'Infanterie Coloniale du Maroc</p>
-        <p>B.M.A - Bataillon de Marche d'Afrique</p>
-        <p>C.M.D - Corps Militaire des Douanes</p>
-        <p>C.O.A - Section de Commis et Ouvriers militaires d'Administration</p>
-        <p>C.P - Cuirassier à Pied</p>
-        <p>E.T.E - Escadron de Train d'Equipage</p>
-        <p>G.A - Groupe d'aviation</p>
-        <p>R.A - Régiment d'Artillerie</p>
-        <p>R.A.L - Régiment d'Artillerie Lourde</p>
-        <p>R.A.P - Régiment d'Artillerie à Pied</p>
-        <p>R.C - Régiment de Cuirassiers</p>
-        <p>R.D - Régiment de Dragons</p>
-        <p>R.E - Régiment étranger</p>
-        <p>R.G - Régiment du Génie</p>
-        <p>R.I - Régiment d'Infanterie</p>
-        <p>R.I.C - Régiment d'Infanterie Coloniale</p>
-        <p>R.I.T - Régiment d'Infanterie Territoriale</p>
-        <p>R.M.Z - Régiment de Marche des Zouaves</p>
-        <p>R.T - Régiment de Tirailleurs</p>
-        <p>R.Z - Régiment de Zouaves</p>
-        <p>S.C.F.C - Section de Chemin de Fer de Campagne</p>
-        <p>S.I.M - Section d'infirmiers militaires</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
+            <p>Pour plus de lisibilité, j'ai dû utiliser quelques abréviations dont voici la signification.</p>
+            <p>&nbsp;</p>
+            <p>B.C - Bataillon de Chasseurs</p>
+            <p>B.C.P - Bataillon de Chasseurs à Pied</p>
+            <p>B.D - Bataillon de Douaniers</p>
+            <p>B.I.C.M - Bataillon d'Infanterie Coloniale du Maroc</p>
+            <p>B.M.A - Bataillon de Marche d'Afrique</p>
+            <p>C.M.D - Corps Militaire des Douanes</p>
+            <p>C.O.A - Section de Commis et Ouvriers militaires d'Administration</p>
+            <p>C.P - Cuirassier à Pied</p>
+            <p>E.T.E - Escadron de Train d'Equipage</p>
+            <p>G.A - Groupe d'aviation</p>
+            <p>R.A - Régiment d'Artillerie</p>
+            <p>R.A.L - Régiment d'Artillerie Lourde</p>
+            <p>R.A.P - Régiment d'Artillerie à Pied</p>
+            <p>R.C - Régiment de Cuirassiers</p>
+            <p>R.D - Régiment de Dragons</p>
+            <p>R.E - Régiment étranger</p>
+            <p>R.G - Régiment du Génie</p>
+            <p>R.I - Régiment d'Infanterie</p>
+            <p>R.I.C - Régiment d'Infanterie Coloniale</p>
+            <p>R.I.T - Régiment d'Infanterie Territoriale</p>
+            <p>R.M.Z - Régiment de Marche des Zouaves</p>
+            <p>R.T - Régiment de Tirailleurs</p>
+            <p>R.Z - Régiment de Zouaves</p>
+            <p>S.C.F.C - Section de Chemin de Fer de Campagne</p>
+            <p>S.I.M - Section d'infirmiers militaires</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
 
-        <h2>Liste des sources utilisées</h2>
+            <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 
-        <p>- <a href="http://monumentsmorts.univ-lille3.fr">http://monumentsmorts.univ-lille3.fr</a></p>
-        <p>- Livres d'or des morts pour la France (Archives Nationales)</p>
-        <p>- Mémoires des Hommes</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-
-        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
-
-    </article>
+        </article>
 
     </section>
 

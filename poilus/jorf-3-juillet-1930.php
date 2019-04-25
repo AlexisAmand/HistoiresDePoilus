@@ -119,18 +119,14 @@
 
         <h2>Attribution des cartes d'ancien combattant</h2>
 
-        <p>Extrait du Journal Officiel de la République Française n°156 du 3 juillet 1930.<br/>
-        Article n°2 du décret concerant les conditions d'attribution de la carte d'ancien combattant.
-        <br/>(source: Gallica / Bibliothèque Nationale de France)</p>
-
         <figure>
             <img src="sources/decret-1-juillet-1930-article-2-01.jpg" alt="Article n°2 du décret concerant les conditions d'attribution de la carte d'ancien combattant." width="550px">
-            <figcaption> <br/>( )</figcaption>
+            <figcaption>Extrait du Journal Officiel de la République Française n°156 du 3 juillet 1930.<br/>(source: Gallica / Bibliothèque Nationale de France)</figcaption>
         </figure>
 
         <figure>
             <img src="sources/decret-1-juillet-1930-article-2-02.jpg" alt="Article n°2 du décret concerant les conditions d'attribution de la carte d'ancien combattant." width="550px">
-            <figcaption> <br/>( )</figcaption>
+            <figcaption>Extrait du Journal Officiel de la République Française n°156 du 3 juillet 1930.<br/>(source: Gallica / Bibliothèque Nationale de France)</figcaption>
         </figure>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

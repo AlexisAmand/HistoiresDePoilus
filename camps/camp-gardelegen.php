@@ -120,7 +120,7 @@
         <p>Les prisonniers avaient installé à Gardelegen un petit théâtre où les Français, les Anglais et les Belges donnaient de représentations. Il était également possible d'y donner des représentations cinématographiques.</p>
 
         <figure>
-            <a href="images/camps_prisonniers_gardelegen.jpg" data-fancybox="gallery" data-caption="La cantine du camp de Gardelegen">
+            <a href="images/camps_prisonniers_gardelegen.jpg" data-fancybox="gallery" data-caption="La cantine du camp de prisonniers de Gardelegen">
             <img src="miniatures/camps_prisonniers_gardelegen.jpg" alt="la cantine du camp de prisonniers de Gardelegen pendant la Grande Guerre"></a>
             <figcaption>La cantine à Gardelegen<br/>(Carte postale)</figcaption>
         </figure>

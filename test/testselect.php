@@ -94,9 +94,9 @@
 <p class="note"><sup>1</sup>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 	<figure>
-	    <a href="portraits/FIEVET-Auguste-Victor.jpg" data-fancybox="gallery" data-caption=" ">
-	    <img src="http://lorempixel.com/450/200" /></a>
-	    <figcaption>Auguste Victor FIEVET</figcaption>
+	    <a href="portraits/FIEVET-Auguste-Victor.jpg" data-fancybox="gallery" data-caption="Portrait d'Auguste Victor FIEVET">
+	    <img src="http://lorempixel.com/450/200" alt="Portrait d'Auguste Victor FIEVET"/></a>
+	    <figcaption>Auguste Victor FIEVET<br/>(source: Collection privée)</figcaption>
 	</figure>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>

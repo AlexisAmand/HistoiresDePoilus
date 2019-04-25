@@ -131,7 +131,7 @@
         <table class="releves">
             <thead>
             <tr>
-                <th id="nom" width="158px">Nom et prénoms</th>
+                <th id="nom" width="158px">Nom et prénom()s</th>
                 <th id="naissance" width="158px">Date et lieu<br/>de naissance</th>
                 <th id="mort" width="158px">Date et lieu<br/>de décès</th>
                 <th id="corps" width="70px">Corps</th>
@@ -246,7 +246,7 @@
             <tr>
                 <td headers="nom">HERATTE<br/>Philogène</td>
                 <td headers="naissance">Le 2 avril 1888<br/>à Marches-les-Ecaussinnes (Belgique)</td>
-                <td headers="mort">Le 30 juillet 1917<br/>à <a href="../camps/camp-mannheim.php">Mannheim</a> (Allemagne)</td>
+                <td headers="mort">Le 30 juillet 1917<br/>à <a href="../camps/camp-mannheim.php" title="Le camp de prisonniers de Mannheim">Mannheim</a> (Allemagne)</td>
                 <td headers="corps">327e R.I</td>
                 <td  headers="genre">&nbsp;</td>
             </tr>
@@ -293,7 +293,7 @@
                 <td  headers="genre">&nbsp;</td>
             </tr>
             <tr>
-                <td headers="nom"><a href="../poilus/mascart-leon-2.php">MASCART<br/>Léon</a></td>
+                <td headers="nom"><a href="../poilus/mascart-leon-2.php" title="Biographie du poilu Léon MASCART">MASCART<br/>Léon</a></td>
                 <td headers="naissance">22 avril 1889<br/>à Onnaing (Nord)</td>
                 <td headers="mort">Le 7 mars 1915<br/>à Châlons-sur-Marne (Marne)</td>
                 <td  headers="genre">127e R.I<br/>(caporal)</td>

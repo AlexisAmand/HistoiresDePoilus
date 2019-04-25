@@ -213,7 +213,7 @@
         <table>
             <thead>
             <tr>
-                <th id="nom">Nom</th>
+            <th id="nom">Nom et prénom(s)</th>
                 <th id="age">Âge</th>
                 <th id="corps">Corps</th>
                 <th id="grade">Grade</th>

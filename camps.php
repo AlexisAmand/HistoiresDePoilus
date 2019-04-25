@@ -125,7 +125,7 @@
 
         <h1>Les camps de prisonniers en Allemagne</h1>
 
-        <p>Quand la guerre éclate en août 1914, L'Empire Allemand est certain que sa victoire sera aussi rapide que celle de 1870. Seulement, très vite, il doit faire face à un afflux de prisonniers qu'il n'avait pas prévu. Cette situation l'oblige à ouvrir des camps un peu partout sur son territoire. En cette fin d'année 1914, les soldats prisonniers dorment dans la paille, dans des huttes de fortune ou dans des trous creusés à même le sol pour&nbsp; s'abriter du froid et de la pluie. L'hygiène est déplorable, et très vite, des <strong>épidémies de Typhus</strong> apparaissent. Faute d'être prêt à nourrir et à loger un si grand nombre de prisonniers, l'hiver 1914 sera mortel pour des centaines d'hommes. Il faudra attendre l'année 1915 pour que la situation s'améliore un peu.</p>
+        <p>Quand la guerre éclate en août 1914, L'Empire Allemand est certain que sa victoire sera aussi rapide que celle de 1870. Seulement, très vite, il doit faire face à un afflux de prisonniers qu'il n'avait pas prévu. Cette situation l'oblige à ouvrir des camps un peu partout sur son territoire. En cette fin d'année 1914, les soldats prisonniers dorment dans la paille, dans des huttes de fortune ou dans des trous creusés à même le sol pour s'abriter du froid et de la pluie. L'hygiène est déplorable, et très vite, des <strong>épidémies de Typhus</strong> apparaissent. Faute d'être prêt à nourrir et à loger un si grand nombre de prisonniers, l'hiver 1914 sera mortel pour des centaines d'hommes. Il faudra attendre l'année 1915 pour que la situation s'améliore un peu.</p>
 
         <figure>
             <a href="camps/images/friedrichsfeld-prisonniers-français.jpg" data-fancybox="gallery" data-caption="Des prisonniers français au camp de Friedrichsfeld">
@@ -150,9 +150,7 @@
 
         <p><em><strong>Note:</strong> Certaines photographies sont issues d'un ouvrage allemand paru en 1916 et intitulé "<a href="pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a>". Je sais que l'on peut me reprocher d'avoir créer un site en reprenant bêtement les illustrations d'un livre paru il y a 100 ans. A ceux-là, je répondrais humblement que je me suis contenté de faire un travail de classement pour que la recherche et la consultation soit plus facile et ainsi éviter aux chercheurs de parcourir tout le livre pour trouver la photo d'un camp. J'en ai également profité pour supprimer les légendes racistes et nationalistes qui accompagnaient les photos.</em></p>
 
-        <p></p>
-
-        <br/>
+        <br/><br/>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 
