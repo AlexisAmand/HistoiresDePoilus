@@ -131,6 +131,7 @@
             <p>Pour plus de lisibilité, j'ai dû utiliser quelques abréviations dont voici la signification.</p>
             <p>&nbsp;</p>
             <p>B.C - Bataillon de Chasseurs</p>
+            <p>B.C.A - Bataillon de Chasseurs Alpin</p>
             <p>B.C.P - Bataillon de Chasseurs à Pied</p>
             <p>B.D - Bataillon de Douaniers</p>
             <p>B.I.C.M - Bataillon d'Infanterie Coloniale du Maroc</p>
@@ -144,12 +145,14 @@
             <p>R.A.L - Régiment d'Artillerie Lourde</p>
             <p>R.A.P - Régiment d'Artillerie à Pied</p>
             <p>R.C - Régiment de Cuirassiers</p>
+            <p>R.C.C - Régiment de Chasseurs à Cheval</p>
             <p>R.D - Régiment de Dragons</p>
             <p>R.E - Régiment étranger</p>
             <p>R.G - Régiment du Génie</p>
             <p>R.I - Régiment d'Infanterie</p>
             <p>R.I.C - Régiment d'Infanterie Coloniale</p>
             <p>R.I.T - Régiment d'Infanterie Territoriale</p>
+            <p>R.M - Régiment de Marche</p>
             <p>R.M.Z - Régiment de Marche des Zouaves</p>
             <p>R.T - Régiment de Tirailleurs</p>
             <p>R.Z - Régiment de Zouaves</p>

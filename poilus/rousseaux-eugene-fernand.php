@@ -135,23 +135,23 @@
             <tbody>
             <tr>
                 <td headers="date">vers 1912</td>
-                <td headers="adresse">Rue de l'argilliére<br />à Lille (Nord)</td>
+                <td headers="adresse">Rue de l'argilliére<br/>à Lille (Nord)</td>
             </tr>
             <tr>
                 <td headers="date">20 mai 1921</td>
-                <td headers="adresse">Chambéry<br />Au Cirque Palace<br />(Vosges)</td>
+                <td headers="adresse">Chambéry<br/>Au Cirque Palace<br/>(Vosges)</td>
             </tr>
             <tr>
                 <td headers="date">23 novembre 1921</td>
-                <td headers="adresse">Rue Lambety<br />à Saint-Servan (Ille-et-Vilaine)</td>
+                <td headers="adresse">Rue Lambety<br/>à Saint-Servan (Ille-et-Vilaine)</td>
             </tr>
             <tr>
                 <td headers="date">24 février 1925</td>
-                <td headers="adresse">47 rue des amandiers<br />à Paris (XXe Arrondissement)</td>
+                <td headers="adresse">47 rue des amandiers<br/>à Paris (XXe Arrondissement)</td>
             </tr>
             <tr>
                 <td headers="date">13 octobre 1938</td>
-                <td headers="adresse">47 Boulevard de Ménilmontant<br />à Paris (XIe Arrondissement)</td>
+                <td headers="adresse">47 Boulevard de Ménilmontant<br/>à Paris (XIe Arrondissement)</td>
             </tr>
             </tbody>
         </table>

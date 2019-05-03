@@ -139,11 +139,11 @@
 			<tbody>
 			<tr>
 				<td headers="date">1906</td>
-				<td headers="adresse">Rue Beauvois<br />à Lourches (Nord)</td>
+				<td headers="adresse">Rue Beauvois<br/>à Lourches (Nord)</td>
 			</tr>
 			<tr>
 				<td headers="date">12 décembre 1929</td>
-				<td headers="adresse">Rue de la Briquette<br />Flers-en-Escrebieux (Nord)</td>
+				<td headers="adresse">Rue de la Briquette<br/>Flers-en-Escrebieux (Nord)</td>
 			</tr>
 			</tbody>
 		</table>

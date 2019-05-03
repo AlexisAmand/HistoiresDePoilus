@@ -251,43 +251,43 @@
                 <td headers="nom">BERTEAUX<br/>Gaston</td>
                 <td headers="naissance">Le 13 juillet 1883<br/>à Saint-Amand (Nord)</td>
                 <td headers="mort">Le 15 octobre 1914<br/>à Berry-au-Bac (Aisne)</td>
-                <td headers="corps">127e R.I</td>
-                <td headers="genre">&nbsp;</td>
+                <td headers="corps">127e R.I<br/>soldat</td>
+                <td headers="genre">blessures de guerre</td>
             </tr>
             <tr>
                 <td headers="nom">BINET<br/>Alcide Joseph</td>
                 <td headers="naissance">Le 24 mars 1871<br/>à Douai (Nord)</td>
                 <td headers="mort">Le 8 avril 1917<br/>à Dieulouard (Meurthe-et-Moselle)</td>
-                <td headers="corps">95e R.I.T</td>
-                <td headers="genre">&nbsp;</td>
+                <td headers="corps">95e R.I.T<br/>caporal</td>
+                <td headers="genre">Intoxication par les gaz</td>
             </tr>
             <tr>
                 <td headers="nom">BLAISE<br/>Constant</td>
                 <td headers="naissance">Le 14 janvier 1891<br/>à La Sentinelle (Nord)</td>
                 <td headers="mort">Le 28 avril 1915<br/>à Het-Sas (Belgique)</td>
-                <td headers="corps">9e R.M.Z</td>
-                <td headers="genre">&nbsp;</td>
+                <td headers="corps">9e R.M.Z<br/>1ere classe</td>
+                <td headers="genre">Tué à l'ennemi</td>
             </tr>
             <tr>
                 <td headers="nom">BLANCHAR<br/>Jean-Baptiste</td>
                 <td headers="naissance">Le 17 août 1890<br/>à Valenciennes (Nord)</td>
                 <td headers="mort">Le 29 septembre 1914<br/>à La Chalade (Meuse)</td>
-                <td headers="corps">18e B. C. P.</td>
-                <td headers="genre">&nbsp;</td>
+                <td headers="corps">18e B. C. P.<br/>2e classe</td>
+                <td headers="genre">Tué à l'ennemi</td>
             </tr>
             <tr>
                 <td headers="nom">BLANQUART<br/>Achille</td>
                 <td headers="naissance">Le 4 septembre 1885<br/>à Anzin</td>
                 <td headers="mort">Le 23 juillet 1918<br/>à <a href="../camps/camp-friedrichsfeld.php">Friedrichsfeld </a>(Allemagne)</td>
-                <td headers="corps">1er R.A.P</td>
-                <td headers="genre">&nbsp;</td>
+                <td headers="corps">1er R.A.P<br/>2e classe</td>
+                <td headers="genre">décédé en captivité</td>
             </tr>
             <tr>
                 <td headers="nom">BLARY<br/>Edmond Charles Remy</td>
                 <td headers="naissance">Le 24 janvier 1883<br/>à Marly (Nord)</td>
                 <td headers="mort">Le 16 janvier 1916<br/>à Louvois (Marne)</td>
-                <td headers="corps">291e R.I</td>
-                <td headers="genre">&nbsp;</td>
+                <td headers="corps">291e R.I<br/>caporal</td>
+                <td headers="genre">blessures de guerre</td>
             </tr>
             <tr>
                 <td headers="nom">BLIN<br/>Augustin</td>
@@ -311,7 +311,7 @@
                 <td headers="genre">&nbsp;</td>
             </tr>
             <tr>
-                <td headers="nom">BOUCHAIN <br/>Arthur</td>
+                <td headers="nom">BOUCHAIN<br/>Arthur</td>
                 <td headers="naissance">Le 23 juillet 1883<br/>à Anzin</td>
                 <td headers="mort">Le 1 mai 1915<br/>aux Eparges (Meuse)</td>
                 <td headers="corps">147e R.I</td>
@@ -408,6 +408,154 @@
                 <td headers="corps">91e R.I</td>
                 <td headers="genre">&nbsp;</td>
             </tr>
+            <tr>
+                <td headers="nom">CAFFIAUX<br/>Henri</td>
+                <td headers="naissance">31 mai 1878<br/>à Haspres (Nord)</td>
+                <td headers="mort">30 aout 1916</td>
+                <td headers="corps">1er E.T.E<br/>soldat</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom">CARDON<br/>Gustave</td>
+                <td headers="naissance">29 avril 1882<br/>à Anzin</td>
+                <td headers="mort">24 octobre 1914<br/>à La Harazée (Marne)</td>
+                <td headers="corps">91e R.I<br/>soldat</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom">CARLIER<br/>Ferdinand Florimond</td>
+                <td headers="naissance">14 aout 1894<br/>à Anzin</td>
+                <td headers="mort"></td>
+                <td headers="corps">130e R.I<br/>soldat</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom">CARRE<br/>Maurice Romain</td>
+                <td headers="naissance">25 février 1891<br/>à Petite-Forêt (Nord)</td>
+                <td headers="mort">4e septembre 1914<br/>à Oulchy-le-Château (Aisne)</td>
+                <td headers="corps">19e B.C.A</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom">CAVALIER<br/>Abel Fernand</td>
+                <td headers="naissance">8 juillet 1894<br/>à Anzin</td>
+                <td headers="mort">18 février 1915<br/>à Aux Eparges (Meuse)</td>
+                <td headers="corps">87e R.I<br/>soldat</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom">CAVROT<br/>Constant</td>
+                <td headers="naissance">16 mars 1893<br/>à Neuvilly (Nord)</td>
+                <td headers="mort">28 avril 1917<br/>à Loivre (Marne)</td>
+                <td headers="corps">135e R.I<br/>soldat</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom">CHARPENTIER<br/>Eugène Dominique Charles</td>
+                <td headers="naissance">1 septembre 1885<br/>Vieux-Condé (Nord)</td>
+                <td headers="mort">8 octobre 1916<br/>Liunmica (Grece)</td>
+                <td headers="corps">284e R.I<br/>capitaine</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom">CHOQUET<br/>Joseph Marcel</td>
+                <td headers="naissance">4 décembre 1892<br/>à Anzin</td>
+                <td headers="mort">13 septembre 1918<br/>à Faverois (Haut-Rhin)<sup>1</sup></td>
+                <td headers="corps">6e R.C.C<br/>soldat</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom">CLOEZ<br/>Henri</td>
+                <td headers="naissance">2 septembre 1878<br/>à Anzin</td>
+                <td headers="mort">28 septembre 1915<br/>à Suippes (Marne)</td>
+                <td headers="corps">2e R.M<br/>1er étranger<br/>soldat</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom">COENE<br/>Emile</td>
+                <td headers="naissance">24 décembre 1891<br/>à Anzin</td>
+                <td headers="mort">29 janvier 1915<br/>au Bois de la Gruerie (Marne)</td>
+                <td headers="corps">153e R.I<br/>caporal</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom">COLINET<br/>Eugène Camille</td>
+                <td headers="naissance">28 janvier 1887<br/>à Villers-Bretonneux (Somme)</td>
+                <td headers="mort">23 aout 1914<br/>à Onhaye (Belgique)</td>
+                <td headers="corps">310e R.I<br/>soldat</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom">CORNU<br/>Jean-Baptiste</td>
+                <td headers="naissance">10 mars 1885<br/>à Anzin</td>
+                <td headers="mort">5 juillet 1915<br/>à Amiens (Somme)</td>
+                <td headers="corps">327e R.I<br/>soldat</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom">CORNU<br/>Victor</td>
+                <td headers="naissance">30 octobre 1886<br/>à Anzin</td>
+                <td headers="mort">3 juin 1915<br/>à Verdun (Meuse)</td>
+                <td headers="corps">91e R.I<br/>soldat</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom">CORROYETTE<br/>Henri</td>
+                <td headers="naissance">10 décembre 1873<br/>à Anzin</td>
+                <td headers="mort">4 février 1915<br/>à Munster (Allemagne)</td>
+                <td headers="corps">1er R.A.P<br/>soldat</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom">COUVREUR<br/>Lucien</td>
+                <td headers="naissance">11 aout 1875<br/>à Manetz (Nord)<sup>2</sup></td>
+                <td headers="mort">18 aout 1915<br/>à Cherbourg (Manche)</td>
+                <td headers="corps">50 R.A<br/>soldat</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom">CRAUC<br/>Leopold</td>
+                <td headers="naissance">3 mars 1884<br/>à Valenciennes (Nord)</td>
+                <td headers="mort">20 mai 1916<br/>à Verdun (Meuse)</td>
+                <td headers="corps">162e R.I<br/>soldat</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom">CUVELIEZ<br/>Henri Augustin</td>
+                <td headers="naissance">185 novembre 1891<br/>à Raismes (Nord)</td>
+                <td headers="mort">2 octobre 1916<br/>à Sailly-Saillisel (Somme)</td>
+                <td headers="corps">161e R.I<br/>soldat</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom"></td>
+                <td headers="naissance"> </td>
+                <td headers="mort"> </td>
+                <td headers="corps"> </td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom"></td>
+                <td headers="naissance"> </td>
+                <td headers="mort"> </td>
+                <td headers="corps"> </td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom"></td>
+                <td headers="naissance"> </td>
+                <td headers="mort"> </td>
+                <td headers="corps"> </td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom"></td>
+                <td headers="naissance"> </td>
+                <td headers="mort"> </td>
+                <td headers="corps"> </td>
+                <td headers="genre"></td>
+            </tr>
+            
             <tr>
                 <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_dargent%20klebert.pdf" title=" ">DARGENT<br/>Klébert</a></td>
                 <td headers="naissance"></td>
@@ -542,6 +690,9 @@
                 <td headers="genre"></td>
             </tr>
         </table>
+        
+        <sup>1</sup>Faverois serait dans le T. de Belfort et non dans le H. Rhin ?
+        <sup>2</sup>Mametz serait dans le Pas-de-Calais ou dans la Somme ?
 
         <h2>Sources et bibliographie</h2>
 

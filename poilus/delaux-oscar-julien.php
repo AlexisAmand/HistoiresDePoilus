@@ -140,7 +140,7 @@
             <tbody>
             <tr>
                 <td headers="date">1906</td>
-                <td headers="adresse">Rue Desaix<br>à Roubaix (Nord)</td>
+                <td headers="adresse">Rue Desaix<br/>à Roubaix (Nord)</td>
             </tr>
             <tr>
                 <td headers="date">1 avril 1921</td>
