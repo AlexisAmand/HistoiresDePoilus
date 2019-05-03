@@ -100,6 +100,10 @@
         <li class="asideheader">Ardennes</li>
 
         <li><a href="verpel.php">Verpel</a></li>
+        
+        <li class="asideheader">Puy-de-Dôme</li>
+
+        <li><a href="st-priest-des-champs.php">Saint-Priest-des-Champs</a></li>
 
     </ul>
 
