@@ -5,8 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>Relevé des morts pour la France de Saint-Priest-des-Champs - Histoires de Poilus</title>
-        <meta content="relevés des soldats et des civils de Saint-Priest-des-Champs morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or">
+        <title>Relevé des morts pour la France de L'Isle-sur-Serein - Histoires de Poilus</title>
+        <meta content="relevés des soldats et des civils de L'Isle-sur-Serein morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or">
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -104,6 +104,10 @@
         <li class="asideheader">Puy-de-Dôme</li>
 
         <li><a href="st-priest-des-champs.php">Saint-Priest-des-Champs</a></li>
+        
+        <li class="asideheader">Yonne</li>
+
+        <li><a href="isle-serein.php">L'Isle-sur-Serein</a></li>
 
     </ul>
 
@@ -123,15 +127,9 @@
 
         <article>
 
-        <h1>Relevé des morts pour la France à Saint-Priest-des-Champs</h1>
+        <h1>Relevé des morts pour la France à L'Isle-sur-Serein</h1>
 
-        <p>Voici la liste des morts pour la France de Saint-Priest-des-Champs (Puy-de-Dôme) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant un petit commentaire.</p>
-        
-        <figure>
-            <a href="images/saint-priest.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts d'Anzin">
-            <img src="images/mini/saint-priest.jpg" alt="le Monument aux Morts dans le cimetière de Saint-Priest-des-Champs sur une carte postale ancienne"/></a>
-            <figcaption>Le Monument aux Morts de la guerre 1914-1918<br/>(Source: Delcampe)</figcaption>
-        </figure>
+        <p>Voici la liste des morts pour la France de L'Isle-sur-Serein (Yonne) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant un petit commentaire.</p>
               
         <table class="releves">
             <thead>
@@ -144,336 +142,203 @@
             </tr>
             </thead>
             <tr>
-                <td headers="nom">ARBITRE Clément</td>
+                <td headers="nom">BAILLY Louis</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">ARBITRE Felix</td>
+                <td headers="nom">BAUDION Georges</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">AUBIGNAT Jean</td>
+                <td headers="nom">BAUDIN Albert</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">BARGE François</td>
+                <td headers="nom">BEAURENAULT Charles</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">BENET Etienne</td>
+                <td headers="nom">BOBIN Gaston</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">BERAUD Jean</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre">(mort à l'intérieur)</td>
-            </tr>
-            <tr>
-                <td headers="nom">BOUDOL Eugène</td>
+                <td headers="nom">BOBIN Georges</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">BOUDOL Jean</td>
+                <td headers="nom">BOURDON Camille</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">BOUDOL Pierre</td>
+                <td headers="nom">CHATELAIN Antoine</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">CHABASSIERE Eugène</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre">(mort à l'intérieur)</td>
-            </tr>
-            <tr>
-                <td headers="nom">CHABRY Marien</td>
+                <td headers="nom">CHOQUENOT Eugène</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">CHAMBON Antoine</td>
+                <td headers="nom">CUISINIER Lucien</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">DEBOST Antoine</td>
+                <td headers="nom">FOURNIER André</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">DEMOULIN Alexandre</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre">(mort à l'intérieur)</td>
-            </tr>
-            <tr>
-                <td headers="nom">DEMOULIN Charles</td>
+                <td headers="nom">GENREAU Edouard</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">DESCHAMPS Victor</td>
+                <td headers="nom">JOLLY Etienne</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">DUBOSCLARD Maurice</td>
+                <td headers="nom">LAMY Maurice</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">DUFAL Baptiste</td>
+                <td headers="nom">LESOEUR Maxime</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">DUMAZET Jean</td>
+                <td headers="nom">NORMAND Alfred</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">DUMAZET Paul</td>
+                <td headers="nom">du PAYRAT Noël</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">FAURE Eugène</td>
+                <td headers="nom">PETIT Henri</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">FAVIER Edouard</td>
+                <td headers="nom">PREGERMAIN Georges</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">FRERET Maurice</td>
+                <td headers="nom">RENARD Jules</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">GARACHON Gilbert</td>
+                <td headers="nom">RENARD Marcel</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">GILLET Félix</td>
+                <td headers="nom">RENARD Maurice</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">GILLET Jules</td>
+                <td headers="nom">RETIF Paul</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">GIRAUD Joseph</td>
+                <td headers="nom">RIBOULOT Armand</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">GOURSONNET Léon</td>
+                <td headers="nom">ROUGEOT Auguste</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">GRANGE Prosper</td>
+                <td headers="nom">SOYER Emile</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">LAMADON Henri</td>
+                <td headers="nom">TISSIER Georges</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">LELION Louis</td>
+                <td headers="nom">VOTTIER Eugène</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom">LELION René</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre">(mort à l'intérieur)</td>
-            </tr>
-            <tr>
-                <td headers="nom">MAZERON Jean</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre"></td>
-            </tr>
-            <tr>
-                <td headers="nom">MAZON Jean</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre"></td>
-            </tr>
-            <tr>
-                <td headers="nom">MOUREUIL Jean</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre"></td>
-            </tr>
-            <tr>
-                <td headers="nom">PAILLOUX Philippe</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre"></td>
-            </tr>
-            <tr>
-                <td headers="nom">PAYRARD Annet</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre"></td>
-            </tr>
-            <tr>
-                <td headers="nom">PETIT Denis</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre"></td>
-            </tr>
-            <tr>
-                <td headers="nom">RANCE Antoine</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre">(mort à l'intérieur)</td>
-            </tr>
-            <tr>
-                <td headers="nom">ROUDIER Julien</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre"></td>
-            </tr>
-            <tr>
-                <td headers="nom">SIBELLE Jean</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre"></td>
-            </tr>
-            <tr>
-                <td headers="nom">TAYTARD Antoine</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre"></td>
-            </tr>
-            <tr>
-                <td headers="nom">TIXIER Félix</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre">(mort à l'intérieur)</td>
-            </tr>
-            <tr>
-                <td headers="nom">TIXIER Paulin</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre"></td>
-            </tr>
-            <tr>
-                <td headers="nom">TIXIER Pierre</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre"></td>
-            </tr>
-            <tr>
-                <td headers="nom">PEROL Jules</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre"></td>
-            </tr>
-            <tr>
-                <td headers="nom">VALANCHON Baptiste</td>
-                <td headers="naissance"></td>
-                <td headers="mort"></td>
-                <td headers="corps"></td>
-                <td headers="genre"></td>
-            </tr>
-            <tr>
-                <td headers="nom">VAURY François</td>
+                <td headers="nom">WEINLING Auguste</td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
@@ -485,7 +350,7 @@
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
-            </tr>        
+            </tr>             
         </table>
         
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
