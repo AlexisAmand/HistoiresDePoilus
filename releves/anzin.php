@@ -68,6 +68,7 @@
         <li><a href="onnaing.php">Onnaing</a></li>    
         <li><a href="quarouble.php">Quarouble</a></li>
         <li><a href="roeulx.php">Roeulx</a></li>
+        <li><a href="santes.php">Santes</a></li>
         <li><a href="saultain.php">Saultain</a></li>
         <li><a href="sebourg.php">Sebourg</a></li>
         <li><a href="vicq.php">Vicq</a></li>
@@ -135,7 +136,7 @@
         <table class="releves">
             <thead>
             <tr>
-                <th id="nom">Nom et prénom()s</th>
+                <th id="nom">Nom et prénoms</th>
                 <th id="naissance">Date et lieu<br/>de naissance</th>
                 <th id="mort">Date et lieu<br/>de décès</th>
                 <th id="corps">Corps</th>

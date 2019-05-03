@@ -67,6 +67,7 @@
     <li><a href="onnaing.php">Onnaing</a></li>    
     <li><a href="quarouble.php">Quarouble</a></li>
     <li><a href="roeulx.php">Roeulx</a></li>
+    <li><a href="santes.php">Santes</a></li>
     <li><a href="saultain.php">Saultain</a></li>
     <li><a href="sebourg.php">Sebourg</a></li>
     <li><a href="vicq.php">Vicq</a></li>
