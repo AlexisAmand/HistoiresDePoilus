@@ -140,15 +140,15 @@
                     </li>
                     </ul>		
                 </li>
-                <li>Les camps allemands
+                <li><a href="camps.php">Les camps allemands</a>
                 <ul>
                     <li><a href="/camps/camp-bad-orb.php">Bad Orb</a></li>
-                    <li><a href="camp-bochum.php">Bochum</a></li>
+                    <li><a href="/camps/camp-bochum.php">Bochum</a></li>
                     <li><a href="/camps/camp-chemnitz.php">Chemnitz</a></li>
                     <li><a href="/camps/camp-czersk.php">Czersk</a></li>
                     <li><a href="/camps/camp-darmstadt.php">Darmstadt</a></li>
-                    <li><a href="camp-dortmund.php">Dortmund</a></li>
-                    <li><a href="camp-forstort.php">Förstört</a></li>
+                    <li><a href="/camps/camp-dortmund.php">Dortmund</a></li>
+                    <li><a href="/camps/camp-forstort.php">Förstört</a></li>
                     <li><a href="/camps/camp-frankfurt.php">Francfort-sur-le-Main</a></li>
 
                     <li><a href="/camps/camp-friedberg.php">Friedberg</a></li>
@@ -179,7 +179,7 @@
                     <li><a href="/camps/camp-regensburg.php">Rastisbonne</a></li> 
                     <li><a href="/camps/camp-ruhleben.php">Ruhleben</a></li> 
                     <li><a href="/camps/camp-schneidemuhl.php">Schneidemühl</a></li>   
-                    <li><a href="camp-westhofen.php">Westhofen</a></li> 
+                    <li><a href="/camps/camp-westhofen.php">Westhofen</a></li> 
                     <li><a href="/camps/camp-wetzlar.php">Wetzlar</a></li>  
                     <li><a href="/camps/camp-wurzburg.php">Würzburg</a></li>
 

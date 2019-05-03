@@ -165,16 +165,16 @@
             </thead>
             <tbody>
             <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
+                <td headers="date">16 mars 1905</td>
+                <td headers="adresse">Cité 6, n°173<br />Fouquières-lès-Lens<br/>(Pas-de-Calais)</td>
             </tr>
             <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
+                <td headers="date">14 mai 1909</td>
+                <td headers="adresse">Rouvroy<br/>(Pas-de-Calais)</td>
             </tr>
             <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
+                <td headers="date">mars 1915</td>
+                <td headers="adresse"><br />Chez Elise<br />Rue de Neuville</td>
             </tr>
             <tr>
                 <td headers="date">1</td>

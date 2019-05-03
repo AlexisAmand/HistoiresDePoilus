@@ -118,14 +118,14 @@
 		<h1>Joseph CARIN</h1>
 
 		<ul>	
-		<li>Joseph CARIN est né à Lourches (Nord) le 11 juillet 1894 à Lourches. Il est le fils de François CARIN et Pauline DUSSART. Selon le recensement de 1906, il vit Rue Beauvois à Lourches en compagnie de sa mère et 8 de ses frères et sœurs : <a href="CARIN-Edouard.php" title="biographie d'Edouard CARIN">Edouard</a>, Alfred, Polonie, Clara, Joseph, Léon, Céleste et François.</li> 
-		<li>Classe 1914, matricule 1202, vol 5, bureau de Valenciennes</li>
+			<li>Joseph CARIN est né à Lourches (Nord) le 11 juillet 1894 à Lourches. Il est le fils de François CARIN et Pauline DUSSART. Selon le recensement de 1906, il vit Rue Beauvois à Lourches en compagnie de sa mère et 8 de ses frères et sœurs : <a href="CARIN-Edouard.php" title="biographie d'Edouard CARIN">Edouard</a>, Alfred, Polonie, Clara, Joseph, Léon, Céleste et François.</li> 
+			<li>Classe 1914, matricule 1202, vol 5, bureau de Valenciennes</li>
 		</ul>
 
 		<figure>
-		<a href="sources/carin-joseph-matricule.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Joseph CARIN">
-		<img src="miniatures/carin-joseph-matricule.jpg" alt="Extrait de la fiche matricule de Joseph CARIN"/></a>
-		<figcaption>Extrait de sa fiche matricule<br/>(Source: Archives Départementales du Nord)</figcaption>
+			<a href="sources/carin-joseph-matricule.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Joseph CARIN">
+			<img src="miniatures/carin-joseph-matricule.jpg" alt="Extrait de la fiche matricule de Joseph CARIN"/></a>
+			<figcaption>Extrait de sa fiche matricule<br/>(Source: Archives Départementales du Nord)</figcaption>
 		</figure>
 
 		<table class="census">
@@ -138,49 +138,13 @@
 			</thead>
 			<tbody>
 			<tr>
-				<td headers="date">Rue Beauvois</td>
-				<td headers="adresse">à Lourches (Nord)</td>
+				<td headers="date">1906</td>
+				<td headers="adresse">Rue Beauvois<br />à Lourches (Nord)</td>
 			</tr>
 			<tr>
-				<td headers="date">1</td>
-				<td headers="adresse">2</td>
+				<td headers="date">12 décembre 1929</td>
+				<td headers="adresse">Rue de la Briquette<br />Flers-en-Escrebieux (Nord)</td>
 			</tr>
-			<tr>
-				<td headers="date">1</td>
-				<td headers="adresse">2</td>
-			</tr>
-			<tr>
-				<td headers="date">1</td>
-				<td headers="adresse">2</td>
-			</tr>
-			</tbody>
-		</table>
-
-		<table class="census">
-		<caption>Liste des domiciles de Joseph</caption>
-			<thead>
-				<tr>
-					<th id="date">Dates</th>
-					<th id="adresse">Adresses</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td headers="date">Rue Beauvois</td>
-					<td headers="adresse">à Lourches (Nord)</td>
-				</tr>
-				<tr>
-					<td headers="date">1</td>
-					<td headers="adresse">2</td>
-				</tr>
-				<tr>
-					<td headers="date">1</td>
-					<td headers="adresse">2</td>
-				</tr>
-				<tr>
-					<td headers="date">1</td>
-					<td headers="adresse">2</td>
-				</tr>
 			</tbody>
 		</table>
 

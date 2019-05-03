@@ -2,7 +2,6 @@
 - TODO : indiquer que Henri René ARNOULD, BALTAZART Ernest Auguste sont cousins, ils ont BALTAZART Ernest Louis  et Anne Joseph LEDUC comme GP communs
 
 - TODO : voir le camp de Bochum (Allemagne) n°114 sur le fond de carte
-
 - TODO : voir le camp de Gründerg (Allemagne)
 - TODO : voir le camp de Heilsberg (Allemagne)
 - TODO : voir le camp de Minderheide (Allemagne)
@@ -16,15 +15,6 @@
 
 - TODO : en bas de la page d'accueil une liste à puces pour indiquer la liste des derniéres mises à jour ?
 
-- TODO : sur l'arbre de Jules AMAND, certaines cases sont bleues alors qu'il s'agit de femmes ^^
-
-- TODO : ajouter camps.php sur la page erreur.php
-- TODO : lien vers le camp de Westhofen (Allemagne)  sur la page erreur.php
-- TODO : lien vers le camp de Bochum (Allemagne)  sur la page erreur.php
-- TODO : lien vers le camp de Dortmund (Allemagne)  sur la page erreur.php
-- TODO : lien vers le camp de Förstört (Allemagne)  sur la page erreur.php
-
-- TODO : corriger les <a href=" ">
 - idem avec le title=" "
 
 Après la mise en ligne

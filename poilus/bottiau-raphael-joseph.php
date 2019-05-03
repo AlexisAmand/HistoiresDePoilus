@@ -117,7 +117,7 @@
 
         <h1>Raphaël Joseph BOTTIAU</h1>
 
-        <p><strong>Raphaël Joseph BOTTIAU</strong> est né le 26 janvier 1880 à Quarouble, fils légitime de Antoine Joseph BOTTIAU et de Léopoldine Augustine JOLY (elle-même fille de mon sosa n°80 et de sa 2e épouse).</p>
+        <p><strong>Raphaël Joseph BOTTIAU</strong> est né le 26 janvier 1880 à Quarouble, fils légitime de Antoine Joseph BOTTIAU et de Léopoldine Augustine JOLY (elle-même fille de mon sosa n°80 et de sa 2e épouse). Raphaël épouse en premières noces Eugénie BRUNEAUX. Dans l'état actuel de mes recherches, le couple a trois enfants : Louis né en 1903 à Férin (Nord), Alfred né en 1906 à Valenciennes (Nord) et Adéla née en 1908 à Férin (Nord).</p>
 
         <table class="census">
         <caption>Liste des domiciles de Raphaël Joseph BOTTIAU</caption>
@@ -170,8 +170,6 @@
             </tr>
             </tbody>
         </table>
-
-        <p>Raphaël épouse en Premières noces Eugénie BRUNEAUX, le couple a un fils né en 1903 à Férin.</p>
 
         <p>Après avoir épousé en premières noces Eugénie BRUNEAUX, Raphaël s'était uni en secondes noces à Dhany BOUTEILLE (1880-1927), ménagère et fille légitime de Nicolas BOUTEILLE et de Françoise MOLTEL, le 19 juillet 1924 à Quarouble (Nord).</p>
 

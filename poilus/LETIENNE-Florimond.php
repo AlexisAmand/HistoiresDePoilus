@@ -191,7 +191,7 @@
 
 		<h2>Florimond et la Grande Guerre</h2>
 
-		<p>Suite à <a href="mobilisation-1914" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, il arrive au corps le 2 août 1914 (peut-être le <strong>27e Régiment d'Artillerie</strong>). Ensuite, il passera successivement par le <strong>6e Régiment d'Artillerie à Pied</strong> (le 21 septembre 1915), le <strong>7e Régiment d'Artillerie</strong> à Pied (le 1 mars 1916), le <strong>11e Régiment d'Artillerie à Pied</strong> (le 25 décembre 1917) et enfin le <strong>13e Régiment d'Artillerie de Campagne</strong> (le 10 mars 1918).</p>
+		<p>Suite à <a href="mobilisation-1914.php" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, il arrive au corps le 2 août 1914 (peut-être le <strong>27e Régiment d'Artillerie</strong>). Ensuite, il passera successivement par le <strong>6e Régiment d'Artillerie à Pied</strong> (le 21 septembre 1915), le <strong>7e Régiment d'Artillerie</strong> à Pied (le 1 mars 1916), le <strong>11e Régiment d'Artillerie à Pied</strong> (le 25 décembre 1917) et enfin le <strong>13e Régiment d'Artillerie de Campagne</strong> (le 10 mars 1918).</p>
 
 		<figure>
 			<a href="images/carte-florimond-letienne.jpg" data-fancybox="gallery" data-caption="Carte d'ancien combattant">

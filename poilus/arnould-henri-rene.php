@@ -98,7 +98,7 @@
             <figcaption>Arbre généalogique partiel de René ARNOULD</figcaption>
         </figure> 
 
-        <p>Lors de <a href="mobilisation-1914" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation générale</a>, Henri abandonne son métier de garçon coiffeur et rejoint le 106e Régiment d'Infanterie. Il est déclaré "tué à l'ennemi" par des éclats multiples à la tête le 22 mai 1916 au Mont-Homme, dans la Meuse.</p>
+        <p>Lors de <a href="mobilisation-1914.php" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation générale</a>, Henri abandonne son métier de garçon coiffeur et rejoint le 106e Régiment d'Infanterie. Il est déclaré "tué à l'ennemi" par des éclats multiples à la tête le 22 mai 1916 au Mont-Homme, dans la Meuse.</p>
 
         <figure>
             <a href="images/mont-homme.jpg" data-fancybox="gallery" data-caption="Chattancourt et vue sur le Mort-Homme">

@@ -100,7 +100,7 @@
 
         <h2>La mobilisation d'août 1914</h2>
 
-        <p><strong>Firmin</strong> est âgé de 20 ans lors de <a href="mobilisation-1914" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation</a> du 1 août 1914. Selon la fiche consultée sur le site "Mémoire de Hommes", il devient membre du <strong>164e Régiment d'Infanterie</strong>. Le site "<a href="http://www.memoiresdesmontsdechampagne.fr" title="Lien vers le site Mémoires des Monts de Champagne">Mémoires des Monts de Champagne</a>" estime à 300 le nombre de mobilisés à <a href="http://cartespostalesanciennes.genealexis.fr/album/63-betheniville" title="cartes postales anciennes de Bétheniville sur le site Genealexis">Bétheniville</a>. Parmi eux, 51 ne reviendront pas. </p>
+        <p><strong>Firmin</strong> est âgé de 20 ans lors de <a href="mobilisation-1914.php" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation</a> du 1 août 1914. Selon la fiche consultée sur le site "Mémoire de Hommes", il devient membre du <strong>164e Régiment d'Infanterie</strong>. Le site "<a href="http://www.memoiresdesmontsdechampagne.fr" title="Lien vers le site Mémoires des Monts de Champagne">Mémoires des Monts de Champagne</a>" estime à 300 le nombre de mobilisés à <a href="http://cartespostalesanciennes.genealexis.fr/album/63-betheniville" title="cartes postales anciennes de Bétheniville sur le site Genealexis">Bétheniville</a>. Parmi eux, 51 ne reviendront pas. </p>
 
         <h2>De l'été 14 à Verdun</h2>
 

@@ -191,7 +191,7 @@
 
         <h2>La chute de Maubeuge</h2>
 
-        <p><strong>Léon Albert</strong> est fait prisonnier le 8 septembre à 1914 à Maubeuge et envoyé à Chemnitz, un <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de prisonniers de Chemnitz</a>  situé en Saxe, entre Dresde et Zwickau, au Sud-est de Leipzig. Pour rappel, 46000 soldats français Albertprisonniers à la suite de la chute de la ville Maubeuge.</p>
+        <p><strong>Léon Albert</strong> est fait prisonnier le 8 septembre à 1914 à Maubeuge et envoyé à Chemnitz, un <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de prisonniers de Chemnitz</a>  situé en Saxe, entre Dresde et Zwickau, au Sud-est de Leipzig. Pour rappel, 46000 soldats français prisonniers à la suite de la chute de la ville Maubeuge.</p>
 
         <figure>
             <a href="images/camp-de-chemnitz.jpg" data-fancybox="gallery" data-caption="Le camp de Chemnitz pendant la Grande Guerre">

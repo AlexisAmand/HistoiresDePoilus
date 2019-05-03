@@ -131,34 +131,6 @@
             <figcaption>Extrait de sa fiche matricule.<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
         </figure>
 
-        <table class="census">
-        <caption>Liste des domiciles de Léon</caption>
-            <thead>
-            <tr>
-                <th id="date">Dates</th>
-                <th id="adresse">Adresses</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-                <td headers="date">Rue Beauvois</td>
-                <td headers="adresse">à Lourches (Nord)</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            </tbody>   
-        </table>
-
         <p>Léon s'est engagé pour la durée la guerre à la mairie de Roanne, où il vivait en tant que réfugié, le 16 février 1915 au titre du <strong>127e Régiment d'Infanterie</strong>. A la mobilisation, l'infanterie de ligne était composée de 173 régiments qui contenaient chacun 73 officiers et 3200 hommes.</p> 
 
         <figure>
