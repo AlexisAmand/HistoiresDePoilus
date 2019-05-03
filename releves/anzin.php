@@ -54,53 +54,42 @@
 
     <aside>
 
-    <ul>
-
-        <li class="asideheader">Nord</li>
-
-        <li><a href="anzin.php"  class="AsideSelected">Anzin</a></li>
-        <li><a href="bry.php">Bry</a></li>
-        <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
-        <li><a href="cousolre.php">Cousolre</a></li> 
-        <li><a href="eth.php">Eth</a></li>
-        <li><a href="gussignies.php">Gussignies</a></li>
-        <li><a href="lourches.php">Lourches</a></li>
-        <li><a href="onnaing.php">Onnaing</a></li>    
-        <li><a href="quarouble.php">Quarouble</a></li>
-        <li><a href="roeulx.php">Roeulx</a></li>
-        <li><a href="santes.php">Santes</a></li>
-        <li><a href="saultain.php">Saultain</a></li>
-        <li><a href="sebourg.php">Sebourg</a></li>
-        <li><a href="vicq.php">Vicq</a></li>
-        <li><a href="villers-guislain.php">Villers-Guislain</a></li>
-        <li><a href="wargnies.php">Wargnies-le-Grand</a></li>    
-
-        <li class="asideheader">Marne</li>
-
-        <li><a href="betheniville.php">Bétheniville</a></li>
-        <li><a href="isles-sur-suippes.php">Isles-sur-Suippes</a></li>
-        <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit</a></li>
-
-        <li class="asideheader">Côte-d'Or</li>
-
-        <li><a href="daix.php">Daix</a></li>
-
-        <li class="asideheader">Yvelines</li>
-
-        <li><a href="feucherolles.php">Feucherolles</a></li>
-
-        <li class="asideheader">Pas-de-Calais</li>
-
-        <li><a href="frencq.php">Frencq</a></li>
-
+    <ul>   
+    	<li class="asideheader">Ardennes</li>
+        	<li><a href="verpel.php">Verpel</a></li>
         <li class="asideheader">Aube</li>
-
-        <li><a href="gelannes.php">Gélannes</a></li>
-
-        <li class="asideheader">Ardennes</li>
-
-        <li><a href="verpel.php">Verpel</a></li>
-
+       		<li><a href="gelannes.php">Gélannes</a></li>     		
+       	<li class="asideheader">Côte-d'Or</li>
+        	<li><a href="daix.php">Daix</a></li>     
+    	<li class="asideheader">Marne</li>
+	        <li><a href="betheniville.php">Bétheniville</a></li>
+	        <li><a href="isles-sur-suippes.php">Isles-sur-Suippes</a></li>
+	        <li><a href="saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit</a></li>
+        <li class="asideheader">Nord</li>
+	        <li><a href="anzin.php" class="AsideSelected">Anzin</a></li>
+	        <li><a href="bry.php">Bry</a></li>
+	        <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
+	        <li><a href="cousolre.php">Cousolre</a></li> 
+	        <li><a href="eth.php">Eth</a></li>
+	        <li><a href="gussignies.php">Gussignies</a></li>
+	        <li><a href="lourches.php">Lourches</a></li>
+	        <li><a href="onnaing.php">Onnaing</a></li>    
+	        <li><a href="quarouble.php">Quarouble</a></li>
+	        <li><a href="roeulx.php">Roeulx</a></li>
+	        <li><a href="santes.php">Santes</a></li>
+	        <li><a href="saultain.php">Saultain</a></li>
+	        <li><a href="sebourg.php">Sebourg</a></li>
+	        <li><a href="vicq.php">Vicq</a></li>
+	        <li><a href="villers-guislain.php">Villers-Guislain</a></li>
+	        <li><a href="wargnies.php">Wargnies-le-Grand</a></li>      
+        <li class="asideheader">Pas-de-Calais</li>
+        	<li><a href="frencq.php">Frencq</a></li>      	       
+        <li class="asideheader">Puy-de-Dôme</li>
+        	<li><a href="st-priest-des-champs.php">Saint-Priest-des-Champs</a></li>       
+        <li class="asideheader">Yonne</li>
+        	<li><a href="isle-serein.php">L'Isle-sur-Serein</a></li>       	
+       	<li class="asideheader">Yvelines</li>
+   	    	<li><a href="feucherolles.php">Feucherolles</a></li>
     </ul>
 
     <div id="pubaside">
@@ -279,7 +268,7 @@
             <tr>
                 <td headers="nom">BLANQUART<br/>Achille</td>
                 <td headers="naissance">Le 4 septembre 1885<br/>à Anzin</td>
-                <td headers="mort">Le 23 juillet 1918<br/>à <a href="../camps/camp-friedrichsfeld.php">Friedrichsfeld </a>(Allemagne)</td>
+                <td headers="mort">Le 23 juillet 1918<br/>à <a href="../camps/camp-friedrichsfeld.php" title="le camp de prisonniers de Friedrichsfeld">Friedrichsfeld </a>(Allemagne)</td>
                 <td headers="corps">1er R.A.P<br/>2e classe</td>
                 <td headers="genre">décédé en captivité</td>
             </tr>
@@ -349,7 +338,7 @@
             <tr>
                 <td headers="nom">BOURGEOIS <br/>Fernand</td>
                 <td headers="naissance">Le 3 mars 1895<br/>à Beaudignies (Nord)</td>
-                <td headers="mort">Le 24 juillet 1915<br/>à <a href="../camps/camp-darmstadt.php">Darmstadt</a> (Allemagne)</td>
+                <td headers="mort">Le 24 juillet 1915<br/>à <a href="../camps/camp-darmstadt.php" title="le camp de prisonniers de Darmstadt">Darmstadt</a> (Allemagne)</td>
                 <td headers="corps">162e R.I</td>
                 <td headers="genre">&nbsp;</td>
             </tr>
@@ -503,7 +492,7 @@
             <tr>
                 <td headers="nom">CORROYETTE<br/>Henri</td>
                 <td headers="naissance">10 décembre 1873<br/>à Anzin</td>
-                <td headers="mort">4 février 1915<br/>à Munster (Allemagne)</td>
+                <td headers="mort">4 février 1915<br/>à <a href="../camps/camp-munster.php" title="le camp de prisonniers de Munster">Munster (Allemagne)</a></td>
                 <td headers="corps">1er R.A.P<br/>soldat</td>
                 <td headers="genre"></td>
             </tr>
