@@ -132,7 +132,6 @@
                 <th id="corps">Corps</th>
                 <th id="mort">Décès</th>
                 <th id="remarque">Remarque</th>
-                <th id="source">Source</th>
             </tr>
             </thead>
             <tr>
@@ -141,7 +140,6 @@
                 <td headers="corps">127e RI<br/>(soldat)</td>
                 <td headers="mort">19 février 1915<br/>Mesnil-les-Hurlus</td>
                 <td headers="remarque">Tué à l'ennemi</td>
-                <td headers="source">Livre<br/>d'or</td>
             </tr>
             <tr>
                 <td headers="nom">CHASTIN<br/>Aimé</td>
@@ -149,7 +147,6 @@
                 <td headers="corps">&nbsp;</td>
                 <td headers="mort">&nbsp;</td>
                 <td headers="remarque">Victime<br/>civile</td>
-                <td headers="source">Photo<br/>du monument</td>
             </tr>
             <tr>
                 <td headers="nom">DECAUDIN<br/>Louis</td>
@@ -157,7 +154,6 @@
                 <td headers="corps">&nbsp;</td>
                 <td headers="mort">&nbsp;</td>
                 <td headers="remarque">&nbsp;</td>
-                <td headers="source">Photo<br/>du monument</td>
             </tr>
             <tr>
                 <td headers="nom">DECOSTER<br/>Edouard Gaston</td>
@@ -165,7 +161,6 @@
                 <td headers="corps">110e RI<br/>(soldat)</td>
                 <td headers="mort">12 décembre 1914<br/>Orléans (Loiret)</td>
                 <td headers="remarque">Radié</td>
-                <td headers="source">Livre<br/>d'or</td>
             </tr>
             <tr>
                 <td headers="nom">LECAIL<br/>Adèle</td>
@@ -173,7 +168,6 @@
                 <td headers="corps">&nbsp;</td>
                 <td headers="mort">&nbsp;</td>
                 <td headers="remarque">Victime<br/>civile</td>
-                <td headers="source">Photo<br/>du monument</td>
             </tr>
             <tr>
                 <td headers="nom">MALAQUIN<br/>Edmond</td>
@@ -181,7 +175,6 @@
                 <td headers="corps">&nbsp;</td>
                 <td headers="mort">&nbsp;</td>
                 <td headers="remarque">Victime<br/>civile</td>
-                <td headers="source">Photo<br/>du monument</td>
             </tr>
             <tr>
                 <td headers="nom">NOISETTE<br/>Hubert</td>
@@ -189,7 +182,6 @@
                 <td headers="corps">&nbsp;</td>
                 <td headers="mort">&nbsp;</td>
                 <td headers="remarque">Victime<br/>civile</td>
-                <td headers="source">Photo<br/>du monument</td>
             </tr>
             <tr>
                 <td headers="nom">VANESSE<br/>Joseph</td>
@@ -197,7 +189,6 @@
                 <td headers="corps">&nbsp;</td>
                 <td headers="mort">&nbsp;</td>
                 <td headers="remarque">&nbsp;</td>
-                <td headers="source">Photo<br/>du monument</td>
             </tr> 
         </table>
 

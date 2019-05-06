@@ -137,115 +137,115 @@
           </tr>
         </thead>
           <tr>
-            <td headers="nom">DOUINE<br/>N</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1914</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">DOUINE<br/>Noël Paul Jules</td>
+            <td headers="naissance">31 janvier 1893 à Gelannes</td>
+            <td headers="mort">25 juin 1914<br/>à Vauquois (Meuse)</td>
+            <td headers="corps">2e. B.C.P<br/>soldat</td>
             <td headers="genre">&nbsp;</td>  
           </tr>
           <tr>
-            <td headers="nom">DULIN<br/>L</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1914</td>       
-            <td headers="corps">&nbsp;</td>       
+            <td headers="nom">DULIN<br/>Louis Léger</td>
+            <td headers="naissance">3 novembre 1888<br/>à Romilly-s-Seine (Aube)</td>
+            <td headers="mort">22 septembre 1914<br/>à Champenoux (Meurthe-et-Moselle)</td>       
+            <td headers="corps">156e R.I<br/>soldat</td>    
             <td headers="genre">&nbsp;</td>      
           </tr>
           <tr>
-            <td headers="nom">JEANNET<br/>H</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1914</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">JEANNET<br/>Henri Gabriel</td>
+            <td headers="naissance">8 mai 1893<br/>à Gelannes</td>
+            <td headers="mort">1er octobre 1914<br/>à Mametz (Somme)</td>
+            <td headers="corps">2e B.C.P<br/>sergent</td>
             <td headers="genre">&nbsp;</td>    
           </tr>
           <tr>
-            <td headers="nom">JACQUES<br/>E</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1914</td> 
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">JACQUES<br/>Zéphir Elie</td>
+            <td headers="naissance">2 mars 1882<br/>à Courceroy (Aube)</td>
+            <td headers="mort">5 octobre 1914<br/>à Oppy (Pas-de-Calais)</td> 
+            <td headers="corps">237e R.I<br/>Jacques</td>
             <td headers="genre">&nbsp;</td> 
           </tr>
           <tr>
-            <td headers="nom">PELLERIN<br/>L</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort"> 1914</td>
-            <td headers="corps"> &nbsp;</td>
+            <td headers="nom">PELLERIN<br/>Louis Albert</td>
+            <td headers="naissance">12 septembre 1882<br/>à La Fosse-Corduan (Aube)</td>
+            <td headers="mort">15 novembre 1914<br/>à Bixchoote (Belgique)</td>
+            <td headers="corps">37e R.I<br/>soldat</td>
             <td headers="genre"> &nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">GHERVOT<br/>A</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1915</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">CHERVOT<br/>André Bertrand</td>
+            <td headers="naissance">30 décembre 1894<br/>à Gélannes</td>
+            <td headers="mort">25 juin 1915<br/>à Labyrinthe (Pas-de-Calais)</td>
+            <td headers="corps">2e B.C.P<br/>soldat</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">CERCUEIL<br/>Y</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1915</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">CERCUEIL<br/>Victor Félix</td>
+            <td headers="naissance">6 juin 1895<br/>à Gélannes</td>
+            <td headers="mort">27 juillet 1915<br/>à Lingekopf (Haut-Rhin)</td>
+            <td headers="corps">120e B.C<br/>soldat</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">DUCHAT<br/>L</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1915</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">DUCHAT<br/>Léon</td>
+            <td headers="naissance">27 avril 1892<br/>à Bar-sur-Aube (Aube)</td>
+            <td headers="mort">5 mars 1915<br/>à Notre-Dame-de-Lorette (Pas-de-Calais)</td>
+            <td headers="corps">1e B.C.P<br/>Caporal</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">GARNIER<br/>F</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1915</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">GARNIER<br/>Florent</td>
+            <td headers="naissance">20 août 1892<br/>à Villegruis (Seine-et-Marne)</td>
+            <td headers="mort">8 février 1915<br/>à Malo-les-Bains (Nord)</td>
+            <td headers="corps">156e R.I<br/>soldat</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">GRADOS<br/>P</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1915</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">GRADOS<br/>Paul Théophile</td>
+            <td headers="naissance">7 février 1895<br/>à Gélannes</td>
+            <td headers="mort">6 novembre 1915<br/>à Amiens (Somme)</td>
+            <td headers="corps">405e R.I<br/>soldat</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">JEANSON<br/>G</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1915</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">JEANSON<br/>Georges</td>
+            <td headers="naissance">27 janvier 1882<br/>à Gélannes</td>
+            <td headers="mort">28 septembre 1915<br/>à Gicenchy (Pas-de-Calais)</td>
+            <td headers="corps">60e B.C.P<br/>soldat</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">MANSUY<br/>AL</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1915</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">MANSUY<br/>Alfred</td>
+            <td headers="naissance">25 novembre 1874<br/>à Villenauxe (Aube)</td>
+            <td headers="mort">23 mai 1915<br/>à Bordeaux (Gironde)</td>
+            <td headers="corps">237e R.I.T<br/>soldat</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">MANSUY<br/>AD</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1915</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">MANSUY<br/>Adrien</td>
+            <td headers="naissance">18 novembre 1880<br/>à Villenauxe (Aube)</td>
+            <td headers="mort">25 septembre 1915<br/>à Beauséjour (Marne)</td>
+            <td headers="corps">37e R.I<br/>soldat</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">PETITEAU<br/>M</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1915</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">PETITEAU<br/>Marcel André</td>
+            <td headers="naissance">28 juillet 1893<br/>à Saint-Flavy (Aube)</td>
+            <td headers="mort">8 mai 1915<br/>à Seddulbhar (Turquie)</td>
+            <td headers="corps">4e R.M.A<br/>sergent</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">PALLIER<br/>W</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1915</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">PALLIER<br/>Walter Emile</td>
+            <td headers="naissance">le 30 mars 1886<br/>à Dierrey (Aube)</td>
+            <td headers="mort">le 25 mai 1915<br/>à Pont-à-Mousson (Meurthe-et-Moselle)</td>
+            <td headers="corps">10e R.G<br/>soldat</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">ROUZEAU<br/>F</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1915</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">ROUZEAU<br/>Félicien Isaac</td>
+            <td headers="naissance">le 21 février 1891<br/>à Gélannes</td>
+            <td headers="mort">10 mai 1915 à La Targette (Pas-de-Calais)</td>
+            <td headers="corps">160e R.I<br/>sergent major</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
@@ -256,38 +256,38 @@
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">BLANCHOT<br/>M</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1916</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">BLANCHOT<br/>Marceau Henri</td>
+            <td headers="naissance">10 août 1895<br/>à La Fosse-Corduan (Aube)</td>
+            <td headers="mort">16 juillet 1916<br/>à Hardecourt (Somme)</td>
+            <td headers="corps">4e B.C<br/>soldat</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">CARON<br/>L</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1916</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">CARON<br/>Louis Edmond</td>
+            <td headers="naissance">22 novembre 1872<br/>Chalautre-la-Grande (Seine-et-Marne)</td>
+            <td headers="mort">14 mai 1916<br/>Verdun (Meuse)</td>
+            <td headers="corps">47e R.I.T<br/>soldat</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">REINERT<br/>E</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1916</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">REINERT<br/>Emile Joseph Elie</td>
+            <td headers="naissance">18 novembre 1889<br/>Gélannes</td>
+            <td headers="mort">26 août 1916<br/>Curlu (Somme)</td>
+            <td headers="corps">23e R.I<br/>soldat</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">BRULEY<br/>O</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1917</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">BRULEY<br/>Olivier Raphaël</td>
+            <td headers="naissance">2 novembre 1882<br/>Gélannes</td>
+            <td headers="mort">13 novembre 1917<br/>Bezonvaux (Meuse)</td>
+            <td headers="corps">152e R.I<br/>soldat</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">CHAMBRILLON<br/>V</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1917</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">CHAMBRILLON<br/>Victor Alfred</td>
+            <td headers="naissance">30 mars 1872<br/>Gélannes</td>
+            <td headers="mort">24 avril 1917<br/>Hermonville (Marne)</td>
+            <td headers="corps">47e R.I.T<br/>soldat</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
@@ -299,44 +299,44 @@
           </tr>
           <tr>
             <td headers="nom">VOITRIN<br/>L</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1917</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="naissance">30 avril 1896<br/>Gélannes</td>
+            <td headers="mort">11 juillet 1917<br/>à Maisons-de-Champagne (Marne)</td>
+            <td headers="corps">27e R.I<br/>soldat</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">BEAUDOIN<br/>M</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1918</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">BEAUDOIN<br/>Gabriel Marcel</td>
+            <td headers="naissance">26 juin 1896<br/>Gélannes</td>
+            <td headers="mort">15 octobre 1918<br/>Ambulance 15 (Aisnes)</td>
+            <td headers="corps">12e R.I<br/>soldat</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">CHASSEIGNE<br/>M</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1918</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">CHASSEIGNE<br/>Marcelin</td>
+            <td headers="naissance">10 mai 1890<br/>Gélannes</td>
+            <td headers="mort">18 mars 1918<br/>Lusse (Vosges)</td>
+            <td headers="corps">158e R.I<br/>sergent</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">GARNIER<br/>J</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1918</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">GARNIER<br/>Jules</td>
+            <td headers="naissance">5 avril 1888<br/>Maizieres-la-Grande-Paroisse (Aube)</td>
+            <td headers="mort">31 août 1918<br/></td>
+            <td headers="corps">48e B.C<br/>soldat</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">REMES<br/>L</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1918</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">REMES<br/>Louis Jules</td>
+            <td headers="naissance">7 août 1879<br/>Gélannes</td>
+            <td headers="mort">7 mai 1918<br/>au Scherpenberg (Belgique)</td>
+            <td headers="corps">128e B.C<br/>soldat</td>
             <td headers="genre">&nbsp;</td>
           </tr>
           <tr>
-            <td headers="nom">PHILIPPON<br/>M</td>
-            <td headers="naissance">&nbsp;</td>
-            <td headers="mort">1919</td>
-            <td headers="corps">&nbsp;</td>
+            <td headers="nom">PHILIPPON<br/>Maxime</td>
+            <td headers="naissance">15 novembre 1883<br/>St-Martin-de-Bossenay (Aube)</td>
+            <td headers="mort">30 mars 1919<br/>Dieppe (Seine-Maritime)</td>
+            <td headers="corps">133e R.A.L</td>
             <td headers="genre">&nbsp;</td>
           </tr>
         </table>

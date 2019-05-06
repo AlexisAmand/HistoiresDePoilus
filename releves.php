@@ -153,6 +153,7 @@
             <p>R.I.C - Régiment d'Infanterie Coloniale</p>
             <p>R.I.T - Régiment d'Infanterie Territoriale</p>
             <p>R.M - Régiment de Marche</p>
+            <p>R.M.A - Régiment de Marche d'Afrique</p>
             <p>R.M.Z - Régiment de Marche des Zouaves</p>
             <p>R.T - Régiment de Tirailleurs</p>
             <p>R.Z - Régiment de Zouaves</p>

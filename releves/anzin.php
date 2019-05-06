@@ -401,7 +401,7 @@
             <tr>
                 <td headers="nom">CAFFIAUX<br/>Henri</td>
                 <td headers="naissance">31 mai 1878<br/>à Haspres (Nord)</td>
-                <td headers="mort">30 aout 1916</td>
+                <td headers="mort">30 août 1916</td>
                 <td headers="corps">1er E.T.E<br/>soldat</td>
                 <td headers="genre"></td>
             </tr>
@@ -414,7 +414,7 @@
             </tr>
             <tr>
                 <td headers="nom">CARLIER<br/>Ferdinand Florimond</td>
-                <td headers="naissance">14 aout 1894<br/>à Anzin</td>
+                <td headers="naissance">14 août 1894<br/>à Anzin</td>
                 <td headers="mort"></td>
                 <td headers="corps">130e R.I<br/>soldat</td>
                 <td headers="genre"></td>
@@ -471,7 +471,7 @@
             <tr>
                 <td headers="nom">COLINET<br/>Eugène Camille</td>
                 <td headers="naissance">28 janvier 1887<br/>à Villers-Bretonneux (Somme)</td>
-                <td headers="mort">23 aout 1914<br/>à Onhaye (Belgique)</td>
+                <td headers="mort">23 août 1914<br/>à Onhaye (Belgique)</td>
                 <td headers="corps">310e R.I<br/>soldat</td>
                 <td headers="genre"></td>
             </tr>
@@ -498,8 +498,8 @@
             </tr>
             <tr>
                 <td headers="nom">COUVREUR<br/>Lucien</td>
-                <td headers="naissance">11 aout 1875<br/>à Manetz (Nord)<sup>2</sup></td>
-                <td headers="mort">18 aout 1915<br/>à Cherbourg (Manche)</td>
+                <td headers="naissance">11 août 1875<br/>à Manetz (Nord)<sup>2</sup></td>
+                <td headers="mort">18 août 1915<br/>à Cherbourg (Manche)</td>
                 <td headers="corps">50 R.A<br/>soldat</td>
                 <td headers="genre"></td>
             </tr>
