@@ -111,20 +111,6 @@
 
     <h1>Relevé des morts pour la France à Valenciennes</h1>
 
-    <h2>Tombes non indentifiées pour le moment</h2>
-
-    <figure>
-        <a href="images/inconnu-01.jpg" data-fancybox="gallery" data-caption=" ">
-        <img src="images/mini/inconnu-01.jpg" alt=" "/></a>
-        <figcaption>Tombe non identifiée n°1<br/>cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
-
-    <figure>
-        <a href="images/inconnu-02.jpg" data-fancybox="gallery" data-caption=" ">
-        <img src="images/mini/inconnu-02.jpg" alt=" "/></a>
-        <figcaption>Tombe non identifiée n°1<br/>cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
-
     <h2>André BERNARD</h2>
 
     <figure>
@@ -161,11 +147,25 @@
         <figcaption>Tombe d'Etienne POSTILLE<br/>cimetière Saint-Roch (Valenciennes)</figcaption>
     </figure>
 
+    <h2>Tombes non indentifiées pour le moment</h2>
+
+    <figure>
+        <a href="images/inconnu-01.jpg" data-fancybox="gallery" data-caption="Tombe d'un soldat mort pour la France">
+        <img src="images/mini/inconnu-01.jpg" alt="Tombe d'un soldat mort pour la France"/></a>
+        <figcaption>Tombe non identifiée n°1<br/>cimetière Saint-Roch (Valenciennes)</figcaption>
+    </figure>
+
+    <figure>
+        <a href="images/inconnu-02.jpg" data-fancybox="gallery" data-caption=" ">
+        <img src="images/mini/inconnu-02.jpg" alt=" "/></a>
+        <figcaption>Tombe non identifiée n°1<br/>cimetière Saint-Roch (Valenciennes)</figcaption>
+    </figure>
+
     <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 
     </article>
 
-</section>
+</section>git
 
 <footer><?php include('../include/footer.inc'); ?></footer>
 
