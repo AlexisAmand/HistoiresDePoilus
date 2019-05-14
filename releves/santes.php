@@ -79,6 +79,7 @@
 	        <li><a href="santes.php" class="AsideSelected">Santes</a></li>
 	        <li><a href="saultain.php">Saultain</a></li>
 	        <li><a href="sebourg.php">Sebourg</a></li>
+            <li><a href="valenciennes.php">Valenciennes</a></li>
 	        <li><a href="vicq.php">Vicq</a></li>
 	        <li><a href="villers-guislain.php">Villers-Guislain</a></li>
 	        <li><a href="wargnies.php">Wargnies-le-Grand</a></li>      
