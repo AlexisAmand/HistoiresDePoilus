@@ -151,6 +151,7 @@
             Prisonniers 1914-1918</a><br/>(Editions Sulton / Jean-Paul Briaste)</li>
             <li><a href="https://amzn.to/2xLG65W" title="Les oubliés de Grande Guerre par Annette Becker">
             Les oubliés de la Grande Guerre</a><br/>(par Annette Becker)</li>
+            <li><a href="#">Bulletin de la Société de secours aux blessés militaires</a></li>
         </ul>
 
         <br/><br/>
@@ -239,6 +240,11 @@
             <li><a href="https://amzn.to/2NuoqQb" title=" ">Recherchez vos ancêtres soldats et leur famille (1914-1918)</a><br/>(Martin Média / Revue Française de Généalogie)</li>
             <li><a href="http://www.rfgenealogie.com" title=" ">Les médailles et décorations</a><br/>(Martin Média / Revue Française de Généalogie)</li>
             <li><a href="https://amzn.to/2UXyxnc">Guide pratique des décorations françaises actuelles</a> par J. BATTINI et W. ZANIEWICKI (Lavauzelle)</li>
+            <li>Un ancêtre dans la Grande Guerre venant des colonies<br />(Editions Hachette / fiche "La Généalogie Facile")</li>
+            <li>Mémoire des hommes<br />(Editions Hachette / fiche "La Généalogie Facile")</li>
+            <li>La recherche d'un officier, de la Révolution à nos jours<br />(Editions Hachette / fiche "La Généalogie Facile")</li>
+            <li>La recherche d'un ancêtre aviateur<br />(Editions Hachette / fiche "La Généalogie Facile")</li>
+            <li>Un ancêtre militaire alsacien ou mosellan de 1871 à 1919<br />(Editions Hachette / fiche "La Généalogie Facile")</li>          
         </ul>
 
         <br/><br/>

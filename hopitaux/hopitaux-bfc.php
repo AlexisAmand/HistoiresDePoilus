@@ -87,9 +87,9 @@
 
         <article>
 
-        <h1>Les hôpitaux</h1>
+        <h1>Bourgogne-Franche-Comté</h1>
 
-        <h2>Chatillon-sur-Seine</h2>
+        <h2>Les hôpitaux de Chatillon-sur-Seine</h2>
 
         <figure>
             <a href="images/chatillon-ht-69" data-fancybox="gallery" data-caption="Hôpital temporaire n°69 (Chatillon-sur-Seine)">
@@ -97,7 +97,7 @@
             <figcaption>L'hôpital temporaire n°69</figcaption>
         </figure>
 
-        <h2>Sens</h2>
+        <h2>Les hôpitaux de Sens</h2>
 
         <figure>
             <a href="images/sens-ht-31.jpg" data-fancybox="gallery" data-caption="L'hôpital temporaire n°31 (Sens)">

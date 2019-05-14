@@ -86,9 +86,9 @@
 
         <article>
 
-        <h1>Les hôpitaux</h1>
+        <h1>Auvergne-Rhône-Alpes</h1>
 
-        <h2>Saint-Chamond</h2>
+        <h2>Les hôpitaux de Saint-Chamond</h2>
 
         <p>A Saint-Chamond, l'accueil hospitalier des soldats blessés ou convalescents se fait à l'École supérieure de jeunes filles (hôpital auxiliaire n°10) et au collège Sainte-Marie (hôpital complémentaire n°94).</p>
 
@@ -106,7 +106,7 @@
             <figcaption>L'hôpital auxiliaire n°10,<br/>à l'Institution Sainte Marie</figcaption>
         </figure>
 
-        <h2>Vichy</h2>
+        <h2>Les hôpitaux de Vichy</h2>
 
         <figure>
             <a href="images/vichy-ht-48.jpg" data-fancybox="gallery" data-caption="L'hôpital complémentaire n°48 (Vichy)">
