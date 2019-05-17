@@ -69,6 +69,7 @@
 	        <li><a href="saint-hilaire-le-petit.php" class="AsideSelected">Saint-Hilaire-le-Petit</a></li>
         <li class="asideheader">Nord</li>
 	        <li><a href="anzin.php">Anzin</a></li>
+            <li><a href="awoingt.php">Awoingt</a></li>
 	        <li><a href="bry.php">Bry</a></li>
 	        <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
 	        <li><a href="cousolre.php">Cousolre</a></li> 

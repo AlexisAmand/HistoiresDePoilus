@@ -68,6 +68,7 @@
 	        <li><a href="releves/saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit</a></li>
         <li class="asideheader">Nord</li>
 	        <li><a href="releves/anzin.php">Anzin</a></li>
+            <li><a href="releves/awoingt.php">Awoingt</a></li>
 	        <li><a href="releves/bry.php">Bry</a></li>
 	        <li><a href="releves/capelle.php">Capelle-sur-Ecaillon</a></li>
 	        <li><a href="releves/cousolre.php">Cousolre</a></li> 
