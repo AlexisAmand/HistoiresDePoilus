@@ -101,8 +101,8 @@
         <p>Lors de <a href="mobilisation-1914.php" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation générale</a>, Henri abandonne son métier de garçon coiffeur et rejoint le 106e Régiment d'Infanterie. Il est déclaré "tué à l'ennemi" par des éclats multiples à la tête le 22 mai 1916 au Mont-Homme, dans la Meuse.</p>
 
         <figure>
-            <a href="images/mont-homme.jpg" data-fancybox="gallery" data-caption="Chattancourt et vue sur le Mort-Homme">
-            <img src="miniatures/mont-homme.jpg" alt="Chattancourt et vue sur le Mort-Homme"></a>
+            <a href="images/mort-homme.jpg" data-fancybox="gallery" data-caption="Chattancourt et vue sur le Mort-Homme">
+            <img src="miniatures/mort-homme.jpg" alt="Chattancourt et vue sur le Mort-Homme"></a>
             <figcaption>Chattancourt et vue sur le Mort-Homme<br/>(source: Delcampe)</figcaption>
         </figure>
 
