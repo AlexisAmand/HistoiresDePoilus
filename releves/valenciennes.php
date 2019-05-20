@@ -140,6 +140,14 @@
         <figcaption>Tombe de René et Maurice GOUVION<br/>cimetière Saint-Roch (Valenciennes)</figcaption>
     </figure>
 
+	<h2>Georges NOLLIN</h2>
+
+    <figure>
+        <a href="images/georges-nollin-01.jpg" data-fancybox="gallery" data-caption="Tombe de Georges NOLLIN, mort pour la France pendant la Grande Guerre">
+        <img src="images/mini/georges-nollin-01.jpg" alt="Tombe de Georges NOLLIN, poilu mort pour la France pendant la Grande Guerre"/></a>
+        <figcaption>Tombe de Georges NOLLIN<br/>cimetière Saint-Roch (Valenciennes)</figcaption>
+    </figure>
+
     <h2>Etienne POSTILLE</h2>
 
     <figure>

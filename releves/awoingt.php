@@ -108,35 +108,49 @@
     
     </aside>
 
-    <article>
+      <article>
 
-    <h1>Relevé des morts pour la France à Awoingt</h1>
+      <h1>Relevé des morts pour la France à Awoingt</h1>
 
-	<h2>Monument anglais</h2>
+      <h2>Monument anglais</h2>
 
-	<figure>
-        <a href="images/awoingt-03.jpg" data-fancybox="gallery" data-caption=" ">
-        <img src="images/mini/awoingt-03.jpg" alt=" "/></a>
-        <figcaption> </figcaption>
-    </figure>
+      <p>Le 9 octobre 1918 à environ 3 mètres en amont de ce calvaire au point marqué par une croix. Les officiers et hommes de troupe anglais dont les noms suivent ont été instantanément tués par un projectile ennemi. Ils sont inhumés au <a href="#cma">cimetière militaire d'Awoingt</a>.</p>
 
-    <figure>
-        <a href="images/awoingt-01.jpg" data-fancybox="gallery" data-caption=" ">
-        <img src="images/mini/awoingt-01.jpg" alt=" "/></a>
-        <figcaption> </figcaption>
-    </figure>
+      <ul>
+          <li>Le lieutenant W.G.G. LEVESON-GOWER, des Coldstream Guards</li>
+          <li>Le sous-lieutenant H.A GREEN, du Royal West Kent Regiment</li>
+          <li>Le sergent E.S. HODGE, du Royal West Kent Regiment</li>
+          <li>Le soldat de 1ère classe C.H. GRIX, du Royal West Kent Regiment</li>
+          <li>Le soldat de 2e classe I. MARSHALL, du Royal West Kent Regiment</li>
+          <li>Le soldat de 2e classe G.H. CAIN, du Royal West Kent Regiment</li>
+          <li>Le soldat de 2e classe T.S. AMIS, du Royal West Kent Regiment</li>
+      </ul>
 
-	<h2>Awoingt British Cemetery</h2>
+      <figure>
+          <a href="images/awoingt-03.jpg" data-fancybox="gallery" data-caption="Monument hommage aux morts du 9 octobre 1918 à Awoingt">
+          <img src="images/mini/awoingt-03.jpg" alt="Croix hommage à des britanniques tombés à Awoingt le 9 octobre 1918 pendant la Grande Guerre"/></a>
+          <figcaption>Aux anglais morts à Awoingt le 9 octobre 1918<br />(source : photo personnelle)</figcaption>
+      </figure>
 
-	<figure>
-        <a href="images/awoingt-02.jpg" data-fancybox="gallery" data-caption=" ">
-        <img src="images/mini/awoingt-02.jpg" alt=" "/></a>
-        <figcaption> </figcaption>
-    </figure>
+      <figure>
+          <a href="images/awoingt-01.jpg" data-fancybox="gallery" data-caption="Monument hommage aux morts du 9 octobre 1918 à Awoingt">
+          <img src="images/mini/awoingt-01.jpg" alt="Croix hommage à des britanniques tombés à Awoingt le 9 octobre 1918 pendant la Grande Guerre"/></a>
+          <figcaption>Aux anglais morts à Awoingt le 9 octobre 1918<br />(source : photo personnelle)</figcaption>
+      </figure>
 
-    <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
-    
-    </article>
+      <div id="cma"></div>      
+
+      <h2>Awoingt British Cemetery</h2>
+
+      <figure>
+          <a href="images/awoingt-02.jpg" data-fancybox="gallery" data-caption="La croix du monument hommage aux britanniques morts pendant la Première Guerre Mondiale">
+          <img src="images/mini/awoingt-02.jpg" alt="La croix du cimetière britannique d'Awoingt"/></a>
+          <figcaption>Awoingt British Cemetery<br />(source : photo personnelle)<figcaption>
+      </figure>
+
+      <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+      
+      </article>
 
   </section>
 
