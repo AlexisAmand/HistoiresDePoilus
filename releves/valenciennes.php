@@ -140,6 +140,20 @@
         <figcaption>Tombe de René et Maurice GOUVION<br/>cimetière Saint-Roch (Valenciennes)</figcaption>
     </figure>
 
+    <h2>Lucien MASCLET</h2>
+
+    <figure>
+        <a href="images/lucien-masclet-02.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien MASCLET, mort pour la France pendant la Grande Guerre">
+        <img src="images/mini/lucien-masclet-02.jpg" alt="Tombe de Lucien MASCLET, poilu mort pour la France pendant la Grande Guerre"/></a>
+        <figcaption>Tombe de Georges NOLLIN<br/>cimetière Saint-Roch (Valenciennes)</figcaption>
+    </figure>
+
+    <figure>
+        <a href="images/lucien-masclet-01.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien MASCLET, mort pour la France pendant la Grande Guerre">
+        <img src="images/mini/lucien-masclet-01.jpg" alt="Tombe de Lucien MASCLET, poilu mort pour la France pendant la Grande Guerre"/></a>
+        <figcaption>Tombe de Georges NOLLIN<br/>cimetière Saint-Roch (Valenciennes)</figcaption>
+    </figure>
+    
 	<h2>Georges NOLLIN</h2>
 
     <figure>
