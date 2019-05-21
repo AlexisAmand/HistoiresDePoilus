@@ -117,7 +117,7 @@
 
         <h1>Léon MASCART</h1>
 
-        <p><strong>Léon MASCART</strong> est né à Onnaing le 30 janvier 1874. Avant la guerre (1906), il est mineur à la Fosse de Cuvinot et vit "au Trié" à Onnaing avec son épouse Maire FINET. Frère de <a href="mascart-louis.php">Louis</a>, il est maintenu en sursis aux Mines d'Anzin à <a href="mobilisation-1914.php" Titre="Voir le décret de mobilisation générale de 1914">la mobilisation</a>. Le 17 décembre 1914, par le bulletin n°63, il est mis en sursis aux mines de Bruay (Pas-de-Calais) où il est entré en fonction le 28 octobre de la même année. Il est rayé de la mine le 15 janvier 1919 et est envoyé en congés illimités le 12 février 1919. Il se retire à Onnaing, Rue de l'Eglise.</p>
+        <p><strong>Léon MASCART</strong> est né à Onnaing le 30 janvier 1874. Avant la guerre (1906), il est mineur à la Fosse de Cuvinot et vit "au Trié" à Onnaing avec son épouse Maire FINET. Frère de <a href="mascart-louis.php">Louis</a>, il est maintenu en sursis aux Mines d'Anzin à <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a>. Le 17 décembre 1914, par le bulletin n°63, il est mis en sursis aux mines de Bruay (Pas-de-Calais) où il est entré en fonction le 28 octobre de la même année. Il est rayé de la mine le 15 janvier 1919 et est envoyé en congés illimités le 12 février 1919. Il se retire à Onnaing, Rue de l'Eglise.</p>
 
         <figure>
             <a href="http://cartespostalesanciennes.genealexis.fr/image/onnaing/168-fosse_cuvinot_a_onnaing_vers_1900.jpg" data-fancybox="gallery" data-caption="La Fosse de Cuvinot à Onnaing">

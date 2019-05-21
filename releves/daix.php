@@ -1,3 +1,7 @@
+<?php 
+/* TODO : continuer le relevé de Daix */ 
+?>
+
 <!doctype html>
 <html lang="fr">
 

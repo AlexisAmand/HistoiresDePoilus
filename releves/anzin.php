@@ -1,3 +1,7 @@
+<?php 
+/* TODO : continuer le relevé de Anzin */ 
+?>
+
 <!doctype html>
 <html lang="fr">
 
@@ -691,7 +695,7 @@
         <ul>
             <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
             <li>Mémoire des Hommes (Ministère de la Défense)</li>
-            <li><a href="http://agfh59.free.fr/memorial_14_18/agfh_1418_hommes.htm" title=" ">Notices biographiques de l'AGFH</li>
+            <li><a href="http://agfh59.free.fr/memorial_14_18/agfh_1418_hommes.htm" title="Notices biographiques de poilus de l'AGFH">Notices biographiques de l'AGFH</a></li>
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

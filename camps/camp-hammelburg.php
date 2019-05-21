@@ -129,7 +129,7 @@
         <thead>
             <tr>
                 <th headers="nations">Nationalités</th>
-                <th headers="camp">Au camp</td>
+                <th headers="camp">Au camp</th>
                 <th headers="travail">Dans les détachements<br/>de travail</th>
             </tr>
             </thead>
@@ -155,7 +155,7 @@
             <thead>
             <tr>
                 <th headers="nations">Nationalités</th>
-                <th headers="camp">Au camp</td>
+                <th headers="camp">Au camp</th>
                 <th headers="travail">Dans les détachements<br/>de travail</th>
             </tr>
             </thead>
