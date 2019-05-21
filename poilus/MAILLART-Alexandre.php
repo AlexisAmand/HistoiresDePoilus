@@ -91,7 +91,7 @@
 
         <h1>Alexandre Ernest MAILLART</h1>
 
-        <p><strong>Alexandre Ernest MAILLART </strong>est né le 24 juillet 1874 à <a href="../releves/betheniville.php">Bétheniville</a>, fils d'Achille Onésiphore et Julie Adèle BALTAZART, elle-même fille de Jean-Baptiste et Julie Joséphine KRAUTH (mes sosas n°116 et n°117).&nbsp; Alexandre est le cousin d'<a href="BALTAZART-Ernest-Auguste.php">Ernest Auguste BALTAZART</a>.</p>
+        <p><strong>Alexandre Ernest MAILLART </strong>est né le 24 juillet 1874 à <a href="../releves/betheniville.php" title="relevé des morts pour la France de Bétheniville">Bétheniville</a>, fils d'Achille Onésiphore et Julie Adèle BALTAZART, elle-même fille de Jean-Baptiste et Julie Joséphine KRAUTH (mes sosas n°116 et n°117).&nbsp; Alexandre est le cousin de deux autres poilus de ce site nommés <a href="astiers-jules-alphonse.php" title="biographie de Jules Alphonse ASTIER(S)">Jules Alphonse ASTIER(S)</a> et <a href="BALTAZART-Ernest-Auguste.php" title="biographie d'Ernest Auguste BALTAZART">Ernest Auguste BALTAZART</a>. Ils ont Julie Joséphine KRAUTH et Jean Baptise Martial BALTAZART comme grands-parents communs</p>
 
         <figure>
             <a href="images/arbre-maillart.png" data-fancybox="gallery" data-caption="Arbre simplifié de la famille MAILLART-BALTAZART">

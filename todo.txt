@@ -1,6 +1,3 @@
-- TODO : indiquer que Jules Alphonse ASTIER(S), BALTAZART Ernest Auguste sont cousins, ils ont Julie Joséphine KRAUTH et Jean Baptise Martial BALTAZART comme GP communs
-- TODO : indiquer que Henri René ARNOULD, BALTAZART Ernest Auguste sont cousins, ils ont BALTAZART Ernest Louis  et Anne Joseph LEDUC comme GP communs
-
 - TODO : voir le camp de Gründerg (Allemagne)
 - TODO : voir le camp de Heilsberg (Allemagne)
 - TODO : voir le camp de Minderheide (Allemagne)

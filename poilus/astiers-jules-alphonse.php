@@ -93,7 +93,7 @@
 
         <h1>Jules Alphonse ASTIER(S)</h1>
 
-        <p>Jules Alphonse ASTIER(S) est né le 14 février 1872 à Bétheniville, dans la Marne. Tisseur, il est le fils légitime d'André ASTIER et de Louise Adèle BALTAZART. Jules est le cousin germain d'un autre poilu de ce site nommé <a href="arnould-henri-rene.php" title="biographie de Henri René ARNOULD">Henri René ARNOULD</a>.</p> 
+        <p>Jules Alphonse ASTIER(S) est né le 14 février 1872 à Bétheniville, dans la Marne. Tisseur, il est le fils légitime d'André ASTIER et de Louise Adèle BALTAZART. Jules est le cousin germain de deux autres poilus de ce site nommés <a href="BALTAZART-Ernest-Auguste.php" title="biographie d'Ernest Auguste BALTAZART">Ernest Auguste BALTAZART</a> et <a href="MAILLART-Alexandre.php" title="biographie d'Alexandre Ernest MAILLART">Alexandre Ernest MAILLART</a>. Ils ont Julie Joséphine KRAUTH et Jean Baptise Martial BALTAZART comme grands-parents communs</p> 
 
         <figure>
             <a href="images/arbre-astiers-jules.png" data-fancybox="gallery" data-caption="Les ascendants de Jules ASTIER(S)">
