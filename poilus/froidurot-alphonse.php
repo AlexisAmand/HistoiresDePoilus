@@ -92,12 +92,7 @@
             <img src="miniatures/froidurot-alphonse.jpg" alt="Extrait de la fiche matricule d'Alphonse FROIDUROT"/></a>
             <figcaption>Acte de naissance d'Alphonse<br/>(Source: Archives Départementales de la Côte-d'Or)</figcaption>
         </figure>
-
-
-
-
-        
-        
+     
         <p>Matricule n°327 au bureau Dijon, il est rappelé à l'activité par la mobilisation générale du 2 août 1914, rejoint comme la plupart des hommes de sa génération, la "Territoriale" et est affecté dès le début du mois d'aout à la garde des voies des communications. Il est renvoyé dans ses foyers le 28 janvier 1915, sans doute à cause de son âge, mais rien n'est sûr dans l'état actuel de mes recherches.</p>
 
         <figure>
