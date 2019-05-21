@@ -84,45 +84,27 @@
         <article>
 
         <h1>Alphonse FROIDUROT</h1>
+        
+        <p>Alphonse FROIDUROT voit le jour le 20 juillet 1869 dans la maison de ses parents située Rue de Montmuzard à Dijon (Côte-d'Or), fils légitime de Claude FROIDUROT et Alix MAURICE. Le 6 décmebre 1888, il épouse Marie Barbe GIRARDOT à Semur-en-Auxois (Côte-d'Or) où le couple par s'installer et où naît le petit <a href="FROIDUROT-Alfred.php" title="biographie du resistant Alfred Froidurot">Alfred</a>, qui sera un des nombreux héros anonymes de la Seconde Guerre Mondiale, le 29 janvier 1898.</p>
+        
+        <figure>
+            <a href="sources/froidurot-alphonse.jpg" data-fancybox="gallery" data-caption="Acte de naissance d'Alphonse FROIDUROT">
+            <img src="miniatures/froidurot-alphonse.jpg" alt="Extrait de la fiche matricule d'Alphonse FROIDUROT"/></a>
+            <figcaption>Acte de naissance d'Alphonse<br/>(Source: Archives Départementales de la Côte-d'Or)</figcaption>
+        </figure>
 
-        <p>Père d'Alfred<br/>
-        Né le 20 juillet 1869 à Dijon<br/>
-        Matricule n°327, classe 1888 bureau de Dijon<br/>
-        Rappelé à l'activité par la mobilisation générale du 2 août 1914. Arrivé au service de « la garde des voies de communication »  le dit jour et renvoyé dans ses foyers le 28 janviers 1915<br/></p>
+
+
+
+        
+        
+        <p>Matricule n°327 au bureau Dijon, il est rappelé à l'activité par la mobilisation générale du 2 août 1914, rejoint comme la plupart des hommes de sa génération, la "Territoriale" et est affecté dès le début du mois d'aout à la garde des voies des communications. Il est renvoyé dans ses foyers le 28 janvier 1915, sans doute à cause de son âge, mais rien n'est sûr dans l'état actuel de mes recherches.</p>
 
         <figure>
             <a href="sources/froidurot-alphonse-matricule.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Alphonse FROIDUROT">
             <img src="miniatures/froidurot-alphonse-matricule.jpg" alt="Extrait de la fiche matricule d'Alphonse FROIDUROT"/></a>
             <figcaption>Extrait de sa fiche matricule<br/>(Source: Archives Départementales de la Côte-d'Or)</figcaption>
         </figure>
-
-        <table class="census">
-        <caption>Liste des domiciles d'Alphonse</caption>
-            <thead>
-            <tr>
-                <th id="date">Dates</th>
-                <th id="adresse">Adresses</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            </tbody>
-        </table>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 
