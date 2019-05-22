@@ -367,7 +367,7 @@
                 <td colspan="2" headers="corps"><strong>victime civile</strong></td>
             </tr>
             <tr>
-                <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_gravelle%20alexandre.pdf" title=" ">GRAVELLE<br/>Alexandre Joseph</a></td>
+                <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_gravelle%20alexandre.pdf" title="Biographie du soldat d'Alexandre Joseph GRAVELLE">GRAVELLE<br/>Alexandre Joseph</a></td>
                 <td headers="naissance">23 mars 1870<br/>à Sebourg (Nord)</td>
                 <td headers="mort">2 février 1915<br/>à <a href="../camps/camp-minden.php" title="le camp allemand de Minden">Minden (Allemagne)</a></td>
                 <td headers="grade">soldat</td>
@@ -581,7 +581,7 @@
         <ul>
             <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
             <li>Mémoire des Hommes (Ministère de la Défense)</li>
-            <li><a href="http://agfh59.free.fr/memorial_14_18/agfh_1418_hommes.htm" title=" ">Notices biographiques de l'AGFH</a></li>
+            <li><a href="http://agfh59.free.fr/memorial_14_18/agfh_1418_hommes.htm" title="Notices biographiques de poilus réalisés par l'AGFH">Notices biographiques de l'AGFH</a></li>
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

@@ -125,7 +125,7 @@
             <figcaption>Extrait de sa fiche matricule</figcaption>
         </figure>
 
-        <p>La parenté qui me lie à Louis est un peu compliquée, je vais essayer d'être le plus clair possible. Comme <a href="FIEVET-Charles-Augustin.php" title=" ">Charles Augustin</a> et <a href="FIEVET-Auguste-Victor.php" title=" ">Auguste Victor</a>, <strong>Louis Henri</strong> est le petit-fils de Léonie FIEVEZ, mon aïeule. <a href="FIEVET-Charles-Augustin.php">Charles</a> et <a href="FIEVET-Charles-Augustin.php" title=" ">Auguste</a> sont issus de Charles Jules, que Léonie a eu d'un père inconnu alors qu'Achille est issu d'Achille Léopold, que Léonie a eu de son mariage avec Augustin ROUSSEAUX. Pour faire bref, Le père de Louis Henri ROUSSEAUX et le père de <a href="FIEVET-Charles-Augustin.php">Charles Augustin</a> sont des demi-frères.</p>
+        <p>La parenté qui me lie à Louis est un peu compliquée, je vais essayer d'être le plus clair possible. Comme <a href="FIEVET-Charles-Augustin.php" title="Biographie du soldat Charles Augustin FIEVET">Charles Augustin</a> et <a href="FIEVET-Auguste-Victor.php" title="Biographie du soldat Auguste Victor FIEVET">Auguste Victor</a>, <strong>Louis Henri</strong> est le petit-fils de Léonie FIEVEZ, mon aïeule. Charles et Charles Augustin sont issus de Charles Jules, que Léonie a eu d'un père inconnu alors qu'Achille est issu d'Achille Léopold, que Léonie a eu de son mariage avec Augustin ROUSSEAUX. Pour faire bref, Le père de Louis Henri ROUSSEAUX et le père de Charles Augustin sont des demi-frères.</p>
 
         <figure>
             <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">

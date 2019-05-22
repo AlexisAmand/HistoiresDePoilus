@@ -141,17 +141,19 @@
             Les souffrances des prisonniers de guerre en 1914-1918</a><br/>(Par Jean-Jules Dufour)</li>
             <li><a href="pdf/fiche-objet-uniformes-14-18.pdf" title="L'uniforme française au début de la Première Guerre Mondiale">
             L'uniforme du fantassin français en 1914 et 1915</a><br/>(Musée de l'Armée - Hôtel des Invalides)</li>
-            <li><a href="https://amzn.to/2vNzdh1" title=" ">L'uniforme et les armes des soldats de la guerre de 1914-1918</a><br/>(Editions Casterman / Liliane et Fred Funcken)</li>
+            <li><a href="https://amzn.to/2vNzdh1" title="L'uniforme et les armes des soldats de la guerre de 1914-1918 écrit Liliane et Fred Funcken">
+            L'uniforme et les armes des soldats de la guerre de 1914-1918</a><br/>(Editions Casterman / Liliane et Fred Funcken)</li>
             <li><a href="pdf/letraitementdesp00chriuoft.pdf" title="Le traitement des prisonniers français en Allemagne par Dr. de Christmas">
             Le traitement des prisonniers français en Allemagne</a><br/>(Librairie Chapelot / Dr. de Christmas)</li>
-            <li><a href="pdf/FoXIIa1133_qt.pdf" title=" ">Die Kriegsgefangenen in Deutschland</a><br/>(Hermann Montanus, 1915)</li>
-            <li><a href="pdf/aus-deutschen-kriegsgefangenenlagern.pdf" title=" ">
+            <li><a href="pdf/FoXIIa1133_qt.pdf" title="Die Kriegsgefangenen in Deutschland écrit par Hermann Montanus en 1915">
+            Die Kriegsgefangenen in Deutschland</a><br/>(Hermann Montanus, 1915)</li>
+            <li><a href="pdf/aus-deutschen-kriegsgefangenenlagern.pdf" title="Aus deutschen Kriegsgefangenenlagern écrit par la Deutsches Rotes Kreuz">
             Aus deutschen Kriegsgefangenenlagern</a><br/>(Deutsches Rotes Kreuz)</li>
             <li><a href="https://amzn.to/2Jfz7DO" title="Prisonniers 1914-1918 par Jean-Paul Briaste">
             Prisonniers 1914-1918</a><br/>(Editions Sulton / Jean-Paul Briaste)</li>
             <li><a href="https://amzn.to/2xLG65W" title="Les oubliés de Grande Guerre par Annette Becker">
             Les oubliés de la Grande Guerre</a><br/>(par Annette Becker)</li>
-            <li><a href="#">Bulletin de la Société de secours aux blessés militaires</a></li>
+            <li><a href="https://catalogue.bnf.fr/ark:/12148/cb32724205h">Bulletin de la Société de secours aux blessés militaires</a></li>
         </ul>
 
         <br/><br/>
@@ -236,10 +238,10 @@
         <h2>Guides de recherche</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title=" ">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
-            <li><a href="https://amzn.to/2NuoqQb" title=" ">Recherchez vos ancêtres soldats et leur famille (1914-1918)</a><br/>(Martin Média / Revue Française de Généalogie)</li>
-            <li><a href="http://www.rfgenealogie.com" title=" ">Les médailles et décorations</a><br/>(Martin Média / Revue Française de Généalogie)</li>
-            <li><a href="https://amzn.to/2UXyxnc">Guide pratique des décorations françaises actuelles</a> par J. BATTINI et W. ZANIEWICKI (Lavauzelle)</li>
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouvez l'histoire de votre grand-père en 1914-1918 en livre">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
+            <li><a href="https://amzn.to/2NuoqQb" title="Recherchez vos ancêtres soldats et leur famille (1914-1918) en livre">Recherchez vos ancêtres soldats et leur famille (1914-1918)</a><br/>(Martin Média / Revue Française de Généalogie)</li>
+            <li><a href="http://www.rfgenealogie.com" title="Hors-série de la RFG sur les médailles et décorations">Les médailles et décorations</a><br/>(Martin Média / Revue Française de Généalogie)</li>
+            <li><a href="https://amzn.to/2UXyxnc" title="Guide pratique des décorations françaises actuelles">Guide pratique des décorations françaises actuelles</a> par J. BATTINI et W. ZANIEWICKI (Lavauzelle)</li>
             <li>Un ancêtre dans la Grande Guerre venant des colonies<br />(Editions Hachette / fiche "La Généalogie Facile")</li>
             <li>Mémoire des hommes<br />(Editions Hachette / fiche "La Généalogie Facile")</li>
             <li>La recherche d'un officier, de la Révolution à nos jours<br />(Editions Hachette / fiche "La Généalogie Facile")</li>
@@ -260,11 +262,11 @@
         <h2>Recherches en Belgique</h2>
 
         <ul>
-            <li><a href="http://www.bel-memorial.org" title=" ">Bel-Memorial (Belgique)</a></li>
-            <li><a href="https://www.wardeadregister.be/fr" title=" ">Dead War Register (Belgique)</a></li>
-            <li><a href="http://arch.arch.be/" title=" ">Les Archives de l'État (Belgique)</a></li>      
-            <li><a href="http://grandeguerre.icrc.org/fr" title=" ">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
-            <li><a href="http://monumentsmorts.univ-lille3.fr/" title=" ">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
+            <li><a href="http://www.bel-memorial.org" title="Bel-Memorial">Bel-Memorial (Belgique)</a></li>
+            <li><a href="https://www.wardeadregister.be/fr" title="Dead War Register">Dead War Register (Belgique)</a></li>
+            <li><a href="http://arch.arch.be/" title="Archives de l'État en Belgique">Les Archives de l'État (Belgique)</a></li>      
+            <li><a href="http://grandeguerre.icrc.org/fr" title="Comité international de la Croix-Rouge">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
+            <li><a href="http://monumentsmorts.univ-lille3.fr/" title="Les monuments aux morts de France et Belgique">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
         </ul>
 
         <br/><br/>
@@ -273,16 +275,16 @@
 
         <ul>
             <li>Les livres d'or des soldats morts pour la France (Archives Nationales)</li>     
-            <li><a href="http://archives.cg08.fr/" title=" ">Archives Départementales des Ardennes</a></li>
-            <li><a href="https://archives.cotedor.fr" title=" ">Archives Départementales de la Côte-d'Or</a></li>
-            <li><a href="http://archives.marne.fr/" title=" ">Archives Départementales de la Marne</a></li>
-            <li><a href="http://archivesdepartementales.lenord.fr" title=" ">Archives Départementales du Nord</a></li>
-            <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title=" ">Mémoire des Hommes</a> (Ministère de la Défense)</li>
-            <li><a href="http://www.memorial-genweb.org/~memorial2/" title=" ">Mémorial-GenWeb</a></li>
-            <li><a href="http://grandeguerre.icrc.org/fr" title=" ">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
+            <li><a href="http://archives.cg08.fr/" title="Archives départementales des Ardennes">Archives Départementales des Ardennes</a></li>
+            <li><a href="https://archives.cotedor.fr" title="Archives départemental de la Côte-d'Or">Archives Départementales de la Côte-d'Or</a></li>
+            <li><a href="http://archives.marne.fr/" title="Archives départementales de la Marne">Archives Départementales de la Marne</a></li>
+            <li><a href="http://archivesdepartementales.lenord.fr" title="Archives départementales du Nord">Archives Départementales du Nord</a></li>
+            <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="Mémoire des hommes">Mémoire des Hommes</a> (Ministère de la Défense)</li>
+            <li><a href="http://www.memorial-genweb.org/~memorial2/" title="Portail MémorialGenweb">Mémorial-GenWeb</a></li>
+            <li><a href="http://grandeguerre.icrc.org/fr" title="Comité international de la Croix-Rouge">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
             <li><a href="http://prisonniers-de-guerre-1914-1918.chez-alice.fr/lestroupes.htm" title=" ">Prisonniers de guerre 14-18</a></li>
-            <li><a href="http://www.association14-18.org/index.htm" title=" ">Association 14-18</a></li>
-            <li><a href="http://monumentsmorts.univ-lille3.fr/" title=" ">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
+            <li><a href="http://www.association14-18.org/index.htm" title="Association Nationale 1914-1918, A la découverte des sites de la Grande Guerre">Association 14-18</a></li>
+            <li><a href="http://monumentsmorts.univ-lille3.fr/" title="Les monuments aux morts de France et Belgique">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

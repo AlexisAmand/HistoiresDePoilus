@@ -553,42 +553,42 @@
             </tr>
             
             <tr>
-                <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_dargent%20klebert.pdf" title=" ">DARGENT<br/>Klébert</a></td>
+                <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_dargent%20klebert.pdf" title="Biographie du soldat  Klébert DARGENT">DARGENT<br/>Klébert</a></td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_doucement%20arthur.pdf" title=" ">DOUCEMENT<br/>Arthur</a></td>
+                <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_doucement%20arthur.pdf" title="Biographie du soldat Arthur DOUCEMENT">DOUCEMENT<br/>Arthur</a></td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_genez%20andre.pdf" title=" ">GENEZ<br/>André</a></td>
+                <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_genez%20andre.pdf" title="Biographie du soldat André GENEZ">GENEZ<br/>André</a></td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_lebrun_georges.pdf" title=" ">LEBRUN Georges</a></td>
+                <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_lebrun_georges.pdf" title="Biographie du soldat Georges LEBRUN">LEBRUN Georges</a></td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_parmentier%20orlis.pdf" title=" ">PARMENTIER Orlis Joseph</a></td>
+                <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_parmentier%20orlis.pdf" title="Biographie du soldat Orlis Joseph PARMENTIER">PARMENTIER Orlis Joseph</a></td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>
                 <td headers="genre"></td>
             </tr>
             <tr>
-                <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_queant%20gustave.pdf" title=" ">QUÉANT Gustave Antoine</a></td>
+                <td headers="nom"><a href="http://agfh59.free.fr/memorial_14_18/agfh_notice_queant%20gustave.pdf" title="Biographie du soldat Gustave Antoine QUEANT">QUÉANT Gustave Antoine</a></td>
                 <td headers="naissance"></td>
                 <td headers="mort"></td>
                 <td headers="corps"></td>

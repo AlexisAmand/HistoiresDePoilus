@@ -121,7 +121,7 @@
 
         <p>En 1906, il est aide traceur chez Barbier et Cie, et vit avec sa mère Rue Fontaine, à Onnaing.</p>
 
-        <p>Il est décidé le 15 janvier 1919 à <a href="../hopitaux/hopitaux-naq.php" title=" ">l'hôpital Chastaing</a> de Limoges des suites de ses blessures.</p>
+        <p>Il est décidé le 15 janvier 1919 à <a href="../hopitaux/hopitaux-naq.php" title="Les hôpitaux de Nouvelle-Aquitaine pendant la Grande Guerre">l'hôpital Chastaing</a> de Limoges des suites de ses blessures.</p>
 
         <figure>
             <a href="sources/louis-mascart-mpf.jpg" data-fancybox="gallery" data-caption='Fiche "Mort pour la France" de Louis MASCART'>
