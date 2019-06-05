@@ -134,6 +134,7 @@
             <p>E.T.E - Escadron de Train d'Equipage</p>
             <p>G.A - Groupe d'aviation</p>
             <p>R.A - Régiment d'Artillerie</p>
+			<p>R.A.C - Régiment d'Artillerie de Campagne</p>            
             <p>R.A.L - Régiment d'Artillerie Lourde</p>
             <p>R.A.P - Régiment d'Artillerie à Pied</p>
             <p>R.C - Régiment de Cuirassiers</p>

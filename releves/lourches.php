@@ -560,13 +560,263 @@
                 <td headers="genre">&nbsp;</td>
             </tr>
             <tr>
+                <td headers="nom">DANGLOT<br/>Lucien</td>
+                <td headers="naissance">4 juin 1893<br/>Lourches</td>
+                <td headers="mort">4 mars 1915<br/>Beauséjour (Marne)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">84e R.I</td>
+                <td headers="genre"></td>
+            </tr>
+            <tr>
+                <td headers="nom">DANGREAUX<br/>Dieudonné</td>
+                <td headers="naissance">2 novembre 1894<br />Lourches</td>
+                <td headers="mort">10 novembre 1915<br />Souchez (Pas-de-Calais)</td>
+                <td headers="grade">413e R.I</td>
+                <td headers="corps">soldat</td>
+                <td headers="genre">&nbsp;</td>
+            </tr>
+            <tr>
+                <td headers="nom">DANNA<br />Cyrille</td>
+                <td headers="naissance">20 février 1887<br />Mouchin (Nord)</td>
+                <td headers="mort">30 septembre 1914<br />Ville-sur-Cousances (Meuse)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">365e R.I</td>
+                <td headers="genre">&nbsp;</td>
+            </tr>
+            <tr>
+                <td headers="nom">DANQUIGNY<br />Charles Joseph</td>
+                <td headers="naissance">22 décembre 1881<br />à Mastaing (Nord)</td>
+                <td headers="mort">10 mars 1915<br />à Saint-Jean-s-Tourbe (Marne)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">127e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DANQUIGNY<br />Fulgence Joseph</td>
+                <td headers="naissance">28 mai 1892<br />à Mastaing (Nord)</td>
+                <td headers="mort">3 mars 1915<br />à Mesnil-les-Hurlus (Marne)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">9e B.C.P</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DAUBRESSE<br />Léon Constant</td>
+                <td headers="naissance">29 janvier 1893<br />Lourches</td>
+                <td headers="mort">15 mars 1915<br />Beauséjour (Marne)</td>
+                <td headers="grade">caporal</td>
+                <td headers="corps">127e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DEGAND<br />François</td>
+                <td headers="naissance">29 septembre 1884<br />Lourches</td>
+                <td headers="mort">26 septembre 1914<br />Saint-Léonard (Marne)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">291e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DEGAND<br />Louis</td>
+                <td headers="naissance">4 aout 1889<br />Lourches</td>
+                <td headers="mort">17 avril 1917<br />Vauclerc (Aine)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">127e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DEGROISSE<br />Emile</td>
+                <td headers="naissance">14 avril 1887<br />à Wasnes-au-Bac (Nord)</td>
+                <td headers="mort">19 aout 1918<br />Rastani (Albanie)</td>
+                <td headers="grade">sergent</td>
+                <td headers="corps">58e B.C.P</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DEHON<br />Victor</td>
+                <td headers="naissance">9 mars 1898<br >Lourches</td>
+                <td headers="mort">29 mai 1918<br />à Dravegny-Coulon (Marne)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">416e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DELFOLIE<br />Célestin Alexandre</td>
+                <td headers="naissance">24 aout 1882<br />Lourches</td>
+                <td headers="mort">10 novembre 1914<br />Yser (Belgique)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">162e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DELHAYE<br />Jean-Baptiste</td>
+                <td headers="naissance">23 juin 1892<br />Lourches</td>
+                <td headers="mort">19 avril 1917<br />Plateau Vauclerc (Aisne)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">127e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DELIMAL<br />Charles</td>
+                <td headers="naissance">16 aout 1879<br />Wasnes-au-Bac</td>
+                <td headers="mort">30 mai 1915<br />Ecurie (Pas-de-Calais)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">205e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DEPRES<br />Lucien</td>
+                <td headers="naissance">23 décembre 1885<br />Denain (Nord)</td>
+                <td headers="mort">30 aout 1914<br />Chesnois Auboncourt (Ardennes)</td>
+                <td headers="grade">caporal</td>
+                <td headers="corps">18e B.C.P</td>
+                <td headers="genre"> </td>
+            </tr>
+             <tr>
                 <td headers="nom"><strong>DESBLEUMORTIER<br/>Léon</strong></td>
-                <td headers="naissance">&nbsp;</td>
+                <td headers="naissance"></td>
                 <td headers="mort">&nbsp;</td>
                 <td headers="grade">&nbsp;</td>
                 <td headers="corps">&nbsp;</td>
                 <td headers="genre"><strong>victime civile</strong></td>
             </tr>
+            <tr>
+                <td headers="nom">DESERT<br />Henri François</td>
+                <td headers="naissance">27 mai 1886<br />Saint-Saulve (Nord)</td>
+                <td headers="mort">23 juin 1916<br />Haudainville (Meuse)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">6e E.T.E</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DESMAREZ<br />Florimond Célestin</td>
+                <td headers="naissance">15 janvier 1882<br />Neuville-sur-Escaut (Nord)</td>
+                <td headers="mort">15 octobre 1914<br />Sapigneul (Marne)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">127e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DESMOUCELLES<br />Léonidas Joseph</td>
+                <td headers="naissance">6 février 1881<br />Lourches</td>
+                <td headers="mort">19 février 1915<br />Mesnil-les-Hurlus (Marne)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">127e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DESSERY<br />Léon</td>
+                <td headers="naissance">2 juillet 1883<br />Wasnes-au-Bac (Nord)</td>
+                <td headers="mort">15 novembre 1918<br />Paris (XVIIe)</td>
+                <td headers="grade">caporal</td>
+                <td headers="corps">103e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DETREZ<br />Louis Joseph</td>
+                <td headers="naissance">16 janvier 1892<br />Lourches</td>
+                <td headers="mort">17 février 1915<br />Mesnil-les-Hurlus (Marne)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">73e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DONNAINT Vincent</td>
+                <td headers="naissance">9 février 1881<br />Lourches</td>
+                <td headers="mort">6 décembre 1915<br />Berry-au-Bac (Aisne)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">1er R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DOUCHEMENT<br />Alfred</td>
+                <td headers="naissance">18 septembre 1884<br />à Lourches</td>
+                <td headers="mort">10 décembre 1918<br />à <a href="../camps/camp-meschede.php" title=" ">Meschede (Allemagne)</a></td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">327e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DUBOIS<br />Félicien Gaston Gustave</td>
+                <td headers="naissance">18 février 1882<br />Lourches</td>
+                <td headers="mort">30 avril 1915<br />Bois d'Ailly (Meuse)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">33e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DUHEM<br />Emile Joseph</td>
+                <td headers="naissance">22 mai 1890<br />Lourches</td>
+                <td headers="mort">1 septembre 1916<br />Maurepas (Somme)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">15e R.A.C</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DUFOUR<br />Louis</td>
+                <td headers="naissance">23 novembre 1884<br />Versailles (Seine-et-Oise)</td>
+                <td headers="mort">27 avril 1915<br />Verdun (Meuse)</td>
+                <td headers="grade">sergent</td>
+                <td headers="corps">91e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DULIEUX<br />Angèle</td>
+                <td headers="naissance">21 aout 1880<br />Bauvin (Nord)</td>
+                <td headers="mort">31 janvier 1915<br /><a href="..camps/camp-giessen.php" title=" ">Giessen (Allemagne)</a></td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">9e B.C.P</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DUPAS<br />Abel Fénelon François</td>
+                <td headers="naissance">12 janvier 1893<br />Roeulx (Nord)</td>
+                <td headers="mort">13 décembre 1914<br />à La Harazée (Marne)</td>
+                <td headers="grade">caporal</td>
+                <td headers="corps">3e R.G</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DUPUIS<br/>André</td>
+                <td headers="naissance">10 novembre 1890<br />Denain (Nord)</td>
+                <td headers="mort">17 septembre 1914 à Vienne-le-Chateau (Marne)</td>
+                <td headers="grade">sergent</td>
+                <td headers="corps">87e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DUSSART<br />Jean-Baptiste</td>
+                <td headers="naissance">24 juillet 1893<br />Lourches</td>
+                <td headers="mort">30 octobre 1914<br/>Four-de-Paris</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">91e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">DUWELZ<br />Gustave</td>
+                <td headers="naissance">12 mai 1879<br />Lourches</td>
+                <td headers="mort">5 octobre 1915<br />Saint-Hilaire-le-Grand (Marne)</td>
+                <td headers="grade">soldat</td>
+                <td headers="corps">317e R.I</td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom"> </td>
+                <td headers="naissance"> </td>
+                <td headers="mort"> </td>
+                <td headers="grade"> </td>
+                <td headers="corps"> </td>
+                <td headers="genre"> </td>
+            </tr>
+            <tr>
+                <td headers="nom"> </td>
+                <td headers="naissance"> </td>
+                <td headers="mort"> </td>
+                <td headers="grade"> </td>
+                <td headers="corps"> </td>
+                <td headers="genre"> </td>
+            </tr>
+            
+           
             <tr>
                 <td headers="nom"><strong>LEDENT <br/>Désiré</strong></td>
                 <td headers="naissance">&nbsp;</td>
