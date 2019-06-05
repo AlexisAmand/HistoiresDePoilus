@@ -145,7 +145,7 @@
       <figure>
           <a href="images/awoingt-02.jpg" data-fancybox="gallery" data-caption="La croix du monument hommage aux britanniques morts pendant la Première Guerre Mondiale">
           <img src="images/mini/awoingt-02.jpg" alt="La croix du cimetière britannique d'Awoingt"/></a>
-          <figcaption>Awoingt British Cemetery<br />(source : photo personnelle)<figcaption>
+          <figcaption>Awoingt British Cemetery<br />(source : photo personnelle)</figcaption>
       </figure>
 
       <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

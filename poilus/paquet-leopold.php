@@ -91,7 +91,8 @@
 
         <h1>Léopold PAQUET</h1>
 
-        <p><strong>Léopold PAQUET</strong> est né le 5 décembre 1886 à Reims (Marne), fils légitime de François PAQUET et Marie LEFEVRE. Le 20 juin 1914, il épouse à Bétheniville Marie Hélène ARNOULD, la sœur de mon arrière-grand-père. Il est rappelé à l'activité par l'Ordre de Mobilisation Générale, arrive au 106e d'infanterie le 2 août 1914 et passe au 19e Bataillon de Chasseurs à pied le 20 mars 1916. Il est reformé le 24 août 1917 pour paralysie radiale du bras gauche, juste après la Bataille des Ardennes. Il est décédé à Bétheniville le 10 octobre 1953.</p>
+        <p>Léopold paquet est né le 5 décembre 1886 à Reims, au domicile de ses parents situé Boulevard Saint-Marceaux, Fils légitime de Joseph PAQUET et Marie Julia LEFEVRE, Léopold est l’aîné de 4 enfants : Edmond, né à Reims en 1888, Charles, né à Reims en 1895 et Camille, né à Reims en 1898. Il épouse Marie-Hélène ARNOULD le 20 juin 1914, quelques mois avant la Mobilisation Générale et son départ pour la Grande Guerre, Pour la petite histoire, j’ai très bien connu André, le fils de 
+        Léopold et Marie-Hélène qui était le cousin germain de mon arrière-grand-père.</p>
 
         <table class="census">
         <caption>Liste des domiciles de Léoplod PAQUET</caption>
@@ -103,23 +104,99 @@
             </thead>
             <tbody>
             <tr>
-                <td headers="date"></td>
-                <td headers="adresse"></td>
+                <td headers="date">13 juin 1910</td>
+                <td headers="adresse">Frouard<br />(Meurthe-et-Moselle)</td>
             </tr>
             <tr>
-                <td headers="date"></td>
-                <td headers="adresse"></td>
+                <td headers="date">2 avril 1911</td>
+                <td headers="adresse">15 Grand-Rue<br />Bétheniville<br />(Marne)</td>
             </tr>
             <tr>
-                <td headers="date"></td>
-                <td headers="adresse"></td>
+                <td headers="date">17 novembre 1912</td>
+                <td headers="adresse">2 rue de Mars<br />Mezières<br />(Ardennes)</td>
             </tr>
             <tr>
-                <td headers="date"></td>
-                <td headers="adresse"></td>
+                <td headers="date">12 février 1914</td>
+                <td headers="adresse">296 rue de Belleville<br />Paris</td>
+            </tr>
+            <tr>
+                <td headers="date">30 juin 1914</td>
+                <td headers="adresse">15 bis rue de Paris<br />Pré-Saint-Gervais<br />(Seine)</td>
+            </tr>
+            <tr>
+                <td headers="date">1953</td>
+                <td headers="adresse">Bétheniville<br />(Marne)</td>
             </tr>
         </tbody>
         </table>
+
+        <p>Un coup d’oeil sur la fiche matricule de Léopold, qui porte le n°1864 du bureau de Reims pour la classe 1906, nous permet d’en apprendre un peu plus sur lui, outre les informations un peu plus intimes comme sa taille (1m56), la couleur de ses yeux (noirs) ou encore la forme de son visage, on lui découvre par exemple un niveau d’instruction de 3, ce qui signifie qu’il possède une instruction primaire. Globalement, les degrés d’instructions étaient répartis en 6 catégories qui permettaient d’évaluer le degré d’instruction du jeune qui se présentait devant le conseil de révision.</p>
+
+        <table class="census">
+        <caption>Les degrés d'instruction</caption>
+            <tbody>
+            <tr>
+                <td headers="date">0</td>
+                <td headers="adresse">ne sait ni lire, ni écrire, ni compter</td>
+            </tr>
+            <tr>
+                <td headers="date">1</td>
+                <td headers="adresse"> sait lire</td>
+            </tr>
+            <tr>
+                <td headers="date">2</td>
+                <td headers="adresse">sait lire et écrire</td>
+            </tr>
+            <tr>
+                <td headers="date">3</td>
+                <td headers="adresse">sait lire, écrire et compte.</td>
+            </tr>
+            <tr>
+                <td headers="date">4</td>
+                <td headers="adresse">brevet de l'enseignement primaire</td>
+            </tr>
+            <tr>
+                <td headers="date">5</td>
+                <td headers="adresse">bachelier, licencié.</td>
+            </tr>
+            <tr>
+                <td headers="date">X</td>
+                <td headers="adresse">inconnu</td>
+            </tr>
+        </tbody>
+        </table>
+
+        <p>Léopold fait parti des millions d’hommes mobilisés par le décret du 1er août 1914. Soldat de 2 classe, il rejoint le 106e R.I où il arrive dès le lendemain.</p>
+        
+        <h3>20 mars 1916</h3>
+            
+        <p>Il passe au 19e Bataillon de Chasseurs à Pied, quelques jours après que celui ci soit arrivé à Suippes (Marne), par une froide journée de neige, dans l’attente de renforts.</p>
+
+        <h3>7 octobre 1916</h3>
+
+        <p>Il est blessé à Bouchavenes (Somme) lors de l’attaque en direction de la « Tranchée de Fulda – Tête de Malassise ». Sa fiche matricule précise qu’il a des plaies au bras gauche et à la cuisse gauche dues à un éclats d’obus. Quelques jours plus tôt le bataillon avait été passé en revue par le président Poincaré, accompagné des généraux Joffre et Rocques.</p>
+
+        <figure>
+            <a href="images/cartes-bouchavenes.jpg" data-fancybox="gallery" data-caption=" ">
+            <img src="miniatures/cartes-bouchavenes.jpg" alt=" "></a>
+            <figcaption> </figcaption>
+        </figure>
+        
+        <h3>24 août 1917</h3>
+
+        <p>Il est proposé pour la réforme n°1 avec gratification renouvelable de 2e catégorie par la commission de Troyes du 24 août 1917 pour paralysie radiale du bras gauche.</p>
+
+        <h3>18 juin 1920</h3>
+
+        <p>Il est proposé pour pension temporaire de 80 % sur décision de la commission de réforme de chalon du 18 juin 120 : « infirmités multiples, paralysie radiale droite, limitation des mouvements de l’épaule gauche. »</p>
+
+        <h3>29 juillet 1921</h3>
+
+        <p>Réformé proposé pour pension permanente de 75 %: « infirmités multiples, paralysie radiale droite, vaste cicatrice de la paroi antérieure de l’aisselle »</p>
+
+        <h3>21 octobre 1922</h3>
+
+        <p>Pension de 18000 concédée par arrêté en date du 21 octobre 1922 avec jouissance du 24 août 1921.</p>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         

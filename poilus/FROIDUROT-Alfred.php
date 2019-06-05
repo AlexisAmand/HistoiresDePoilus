@@ -93,34 +93,6 @@
             <figcaption>Acte de naissance d'Alfred FROIDUROT<br/>(source: Archives Départementales du Nord)</figcaption>
         </figure>
 
-        <table class="census">
-        <caption>Liste des domiciles d'Alfred</caption>
-            <thead>
-            <tr>
-                <th id="date">Date</th>
-                <th id="adresse">Adresse</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            </tbody>
-        </table>
-
         <p>Alfred a tout juste 17 ans quand, le 2 juillet 1915 à Dijon, il s'engage comme volontaire pour la durée de la guerre au 17e Régiment de Dragons. Comme beaucoup de poilus, Alfred passe de régiment en régiment au grès des affectations: 2e Régiment de Zouaves (février 1916), 3e Régiment Mixte de Zouaves  (juin 1916), 1er Régiment de Zouaves (octobre 1917) et 3e Régiment de Zouaves  (décembre 1917).</p>
 
         <? /* TODO : mettre ici une photo de Dijon */ ?>

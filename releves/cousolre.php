@@ -419,8 +419,48 @@
                 <td headers="nom">HAZARD<br/>Arthur Ariste</td>
                 <td headers="naissance">4 août 1884<br/>à Cousolre</td>
                 <td headers="mort">3 août 1916<br/>à Zutenlick (Grèce)</td>
-                <td headers="classe">&nbsp;</td>
-                <td headers="corps">&nbsp;</td>
+                <td headers="classe">2e classe</td>
+                <td headers="corps">175e R.I</td>
+                <td headers="genre">&nbsp;</td>
+            </tr>
+            <tr>
+                <td headers="nom">HAZARD<br />Fernand</td>
+                <td headers="naissance">9 aout 1890<br/>à Cousolre</td>
+                <td headers="mort">6 juin 1918<br />à Saint-Euphraise (Marne)</td>
+                <td headers="classe">sergent</td>
+                <td headers="corps">22e R.I</td>
+                <td headers="genre">&nbsp;</td>
+            </tr>
+            <tr>
+                <td headers="nom">HENAUT<br />Léon</td>
+                <td headers="naissance">19 août 1889<br />à Cousolre</td>
+                <td headers="mort">26 septembre 1918<br />à Souain (Marne)</td>
+                <td headers="classe">2e classe</td>
+                <td headers="corps">118e R.I</td>
+                <td headers="genre">&nbsp;</td>
+            </tr>
+            <tr>
+                <td headers="nom">HERBECQ<br />Fernand</td>
+                <td headers="naissance">14 octobre 1888<br />à Cousolre</td>
+                <td headers="mort">20 juillet 1915<br />Forêt d'Argonne (Meuse)</td>
+                <td headers="classe">1ere classe</td>
+                <td headers="corps">4e R.I</td>
+                <td headers="genre">&nbsp;</td>
+            </tr>
+            <tr>
+                <td headers="nom">HIBING<br />Victor René</td>
+                <td headers="naissance">1 juin 1891<br />à Cousolre</td>
+                <td headers="mort">10 septembre 1914<br />à Bonneuil-en-Valois (Oise)</td>
+                <td headers="classe">2e classe</td>
+                <td headers="corps">22e R.D</td>
+                <td headers="genre">&nbsp;</td>
+            </tr>
+            <tr>
+                <td headers="nom">HOTTELOT<br />Leger</td>
+                <td headers="naissance">15 juillet 1882<br />à Bousignies-sur-Roc (Nord)</td>
+                <td headers="mort">16 janvier 1917<br />aux Eparges (Meuse)</td>
+                <td headers="classe">soldat</td>
+                <td headers="corps">85e R.I</td>
                 <td headers="genre">&nbsp;</td>
             </tr>
             <tr>
@@ -471,47 +511,6 @@
                 <td headers="corps">&nbsp;</td>
                 <td headers="genre">&nbsp;</td>
             </tr>
-            <tr>
-                <td headers="nom">&nbsp;</td>
-                <td headers="naissance">&nbsp;</td>
-                <td headers="mort">&nbsp;</td>
-                <td headers="classe">&nbsp;</td>
-                <td headers="corps">&nbsp;</td>
-                <td headers="genre">&nbsp;</td>
-            </tr>
-            <tr>
-                <td headers="nom">&nbsp;</td>
-                <td headers="naissance">&nbsp;</td>
-                <td headers="mort">&nbsp;</td>
-                <td headers="classe">&nbsp;</td>
-                <td headers="corps">&nbsp;</td>
-                <td headers="genre">&nbsp;</td>
-            </tr>
-            <tr>
-                <td headers="nom">&nbsp;</td>
-                <td headers="naissance">&nbsp;</td>
-                <td headers="mort">&nbsp;</td>
-                <td headers="classe">&nbsp;</td>
-                <td headers="corps">&nbsp;</td>
-                <td headers="genre">&nbsp;</td>
-            </tr>
-            <tr>
-                <td headers="nom">&nbsp;</td>
-                <td headers="naissance">&nbsp;</td>
-                <td headers="mort">&nbsp;</td>
-                <td headers="classe">&nbsp;</td>
-                <td headers="corps">&nbsp;</td>
-                <td headers="genre">&nbsp;</td>
-            </tr>
-            <tr>
-                <td headers="nom">&nbsp;</td>
-                <td headers="naissance">&nbsp;</td>
-                <td headers="mort">&nbsp;</td>
-                <td headers="classe">&nbsp;</td>
-                <td headers="corps">&nbsp;</td>
-                <td headers="genre">&nbsp;</td>
-            </tr>
-            <tr>
             <tr>
                 <td headers="nom">&nbsp;</td>
                 <td headers="naissance">&nbsp;</td>
