@@ -5,12 +5,12 @@
 
         <meta charset="utf-8">
 
-        <title>Biographie et parcours du soldat Raoul QUINTIN - Histoires de Poilus</title>
-        <meta content="Parcours et biographie du Jass Raoul QUINTIN, soldat belge pendant la Première Guerre Mondiale" name="description"/>
+        <title>Biographie et parcours du soldat Octave AMAND - Histoires de Poilus</title>
+        <meta content="Parcours et biographie du soldat Octave AMAND, soldat pendant la Première Guerre Mondiale" name="description"/>
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
-        <link rel="stylesheet" href="../css/fontawesome/css/all.css">
+        <link rel="stylesheet" href="../css/fontawesome/css/all.css">  
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
         <link rel="icon" type="image/png" href="../images/favicon.png"/>
@@ -64,8 +64,8 @@
     <ul>
         <li class="asideheader">Belgique</li>
         <li><a href="amand-jules.php">AMAND Jules (+)</a></li>
-        <li><a href="amand-octave.php">AMAND Octave (+)</a></li>
-        <li><a href="quintin-raoul.php"  class="AsideSelected">QUINTIN Raoul (+)</a></li>
+        <li><a href="amand-octave.php"  class="AsideSelected">AMAND Octave (+)</a></li>
+        <li><a href="quintin-raoul.php">QUINTIN Raoul (+)</a></li>
     </ul>
 
     <div id="pubaside">
@@ -84,9 +84,25 @@
 
         <article>
 
-        <h1>Raoul QUINTIN</h1>
+        <h1>Octave AMAND</h1>
 
-        <p>Né le 19 octobre 1890 à Condé-sur-l'Escaut (Nord) mais déclaré à Bernissart, <strong>Raoul Charles Jules QUINTIN</strong> fait partie de l'Armée Belge. Il porte le numéro de matricule 101/57096 et est mort pour sa patrie le 26 août 1914. La parenté reste à confirmer. (source: <a href="https://www.wardeadregister.be/fr">Dead War Register</a>) 
+        <p>Octave AMAND est né à Harzé (Belgique), le 1er juin 1895, fils de Léopold AMAND, âgé de 57 ans, négociant et de Hortense RINCHON, son épouse, ménagère de 38 ans, tous deux domiciliés à Harzé.</p>
+
+
+
+        <p>Elève de la première candidature en sciences naturelles, il franchit la frontière, en avril 1915, conquit, à l'école de Bayeux, le diplôme de sous-lieutenant au 11e régiment de ligne.</p>
+
+        <figure>
+            <a href="images/amand-octave.jpg" data-fancybox="gallery" data-caption="Portrait d'Octave AMAND">
+            <img src="miniatures/amand-octave.jpg" alt="Portrait d'Octave AMAND, soldat d'Harzé pendant la Grande Guerregit st"></a>
+            <figcaption>Octave AMAND</figcaption>
+        </figure>
+
+        <p>Il fut un officier d'un entrain et d'une intrépidité remarquables. Il s'est spécialement distingué, du 14 au 18 octobre 1918, à l'attaque de la Flandernstellung et de Lendelede, en réduisant plusieurs nids de mitrailleuses, en capturant un officier, 22 soldats et deux  mitrailleuses ennemies. Il mourut, le 6 décembre 1918, à Harzé, emporté par une grippe infectieuse.</p>
+
+        <p>Il est titulaire de l'Ordre de la Couronne et de la Croix de Guerre.</p>
+
+        <p>source : "Livre d'Or des universitaires liégeois", Imprimerie H. Vaillant-Carmanne, Liège, 1923</p>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         

@@ -64,6 +64,7 @@
     <ul>
         <li class="asideheader">Belgique</li>
         <li><a href="amand-jules.php"  class="AsideSelected">AMAND Jules (+)</a></li>
+        <li><a href="amand-octave.php">AMAND Octave (+)</a></li>
         <li><a href="quintin-raoul.php">QUINTIN Raoul (+)</a></li>
     </ul>
 
