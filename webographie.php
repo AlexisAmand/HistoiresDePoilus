@@ -262,6 +262,7 @@
         <h2>Recherches en Belgique</h2>
 
         <ul>
+            <li>Livre d'Or des universitaires liégeois (Imprimerie H. Vaillant-Carmanne, Liège, 1923)</li>
             <li><a href="http://www.bel-memorial.org" title="Bel-Memorial">Bel-Memorial (Belgique)</a></li>
             <li><a href="https://www.wardeadregister.be/fr" title="Dead War Register">Dead War Register (Belgique)</a></li>
             <li><a href="http://arch.arch.be/" title="Archives de l'État en Belgique">Les Archives de l'État (Belgique)</a></li>      

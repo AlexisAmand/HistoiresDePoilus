@@ -88,21 +88,23 @@
 
         <p>Octave AMAND est né à Harzé (Belgique), le 1er juin 1895, fils de Léopold AMAND, âgé de 57 ans, négociant et de Hortense RINCHON, son épouse, ménagère de 38 ans, tous deux domiciliés à Harzé.</p>
 
-
+        <figure>
+            <a href="sources/naissance-octave-amand.jpg" data-fancybox="gallery" data-caption="Acte de naissance d'Octave AMAND">
+            <img src="miniatures/naissance-octave-amand.jpg" alt="Acte de naissance d'Octave AMAND"></a>
+            <figcaption>Acte de naissance d'Octave AMAND (Source: Familysearch et Archives Belges)</figcaption>
+        </figure>
 
         <p>Elève de la première candidature en sciences naturelles, il franchit la frontière, en avril 1915, conquit, à l'école de Bayeux, le diplôme de sous-lieutenant au 11e régiment de ligne.</p>
 
+        <p>Il fut un officier d'un entrain et d'une intrépidité remarquables. Il s'est spécialement distingué, du 14 au 18 octobre 1918, à l'attaque de la Flandernstellung et de Lendelede, en réduisant plusieurs nids de mitrailleuses, en capturant un officier, 22 soldats et deux  mitrailleuses ennemies. Il mourut, le 6 décembre 1918, à Harzé, emporté par une grippe infectieuse.</p>
+
         <figure>
             <a href="images/amand-octave.jpg" data-fancybox="gallery" data-caption="Portrait d'Octave AMAND">
-            <img src="miniatures/amand-octave.jpg" alt="Portrait d'Octave AMAND, soldat d'Harzé pendant la Grande Guerregit st"></a>
+            <img src="miniatures/amand-octave.jpg" alt="Portrait d'Octave AMAND, soldat d'Harzé pendant la Grande Guerre"></a>
             <figcaption>Octave AMAND</figcaption>
         </figure>
 
-        <p>Il fut un officier d'un entrain et d'une intrépidité remarquables. Il s'est spécialement distingué, du 14 au 18 octobre 1918, à l'attaque de la Flandernstellung et de Lendelede, en réduisant plusieurs nids de mitrailleuses, en capturant un officier, 22 soldats et deux  mitrailleuses ennemies. Il mourut, le 6 décembre 1918, à Harzé, emporté par une grippe infectieuse.</p>
-
         <p>Il est titulaire de l'Ordre de la Couronne et de la Croix de Guerre.</p>
-
-        <p>source : "Livre d'Or des universitaires liégeois", Imprimerie H. Vaillant-Carmanne, Liège, 1923</p>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         
