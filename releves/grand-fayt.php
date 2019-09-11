@@ -1,8 +1,3 @@
-<?php 
-/* TODO : continuer le relevé de Roeulx */ 
-?>
-
-
 <!doctype html>
 <html lang="fr">
 
@@ -10,8 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>Relevé des morts pour la France de Lourches - Histoires de Poilus</title>
-        <meta content="relevés des soldats et des civils de Lourches morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or">
+        <title>Le monument de Grand-Fayt - Histoires de Poilus</title>
+        <meta content="Le monument aux morts pour la France de Grand-Fayt durant la Première Mondiale (1914-1918)">
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -77,13 +72,13 @@
 	        <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
 	        <li><a href="cousolre.php">Cousolre</a></li> 
 	        <li><a href="eth.php">Eth</a></li>
-	        <li><a href="grand-fayt">Grand-Fayt</a></li>
+	        <li><a href="grand-fayt" class="AsideSelected">Grand-Fayt</a></li>
 	        <li><a href="gussignies.php">Gussignies</a></li>
 	        <li><a href="lourches.php">Lourches</a></li>
 	        <li><a href="onnaing.php">Onnaing</a></li>    
 	        <li><a href="quarouble.php">Quarouble</a></li>
 	        <li><a href="roeulx.php">Roeulx</a></li>
-	        <li><a href="santes.php" class="AsideSelected">Santes</a></li>
+	        <li><a href="santes.php">Santes</a></li>
 	        <li><a href="saultain.php">Saultain</a></li>
 	        <li><a href="sebourg.php">Sebourg</a></li>
             <li><a href="valenciennes.php">Valenciennes</a></li>
@@ -116,67 +111,28 @@
 
         <article>
 
-        <h1>Relevé des morts pour la France à Roeulx</h1>
-
-        <p>(Relevé en cours)</p>
-
-        <p>Voici la liste des morts pour la France et des victimes civiles de Roeulx (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php">laissant un petit message.</a></p>
-
+        <h1>Le monument de Grand-Fayt</h1>
+        
         <figure>
-        <a href="images/roeulx-monument.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Roeulx">
-        <img src="images/mini/roeulx-monument.jpg" alt="le Monument aux Morts pour la France de Roeulx sur une carte postale ancienne"/></a>
-        <figcaption>Le Monument aux Morts<br/>(Source: Google Map)</figcaption>
+            <a href="images/grand-fayt-01.jpg" data-fancybox="gallery" data-caption="Le monument de Grand-Fayt">
+            <img src="images/mini/grand-fayt-01.jpg" alt="Le monument aux morts pour la France de Grand-Fayt dans l'Avesnois"/></a>
+            <figcaption>Le monument de Grand-Fayt<br/>(Source: Photo privée)</figcaption>
         </figure>
 
-        <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
-
-        <table class="releves">
-        <thead>
-            <tr>
-                <th id="nom">Nom et prénom(s)</th>
-                <th id="naissance">Date et lieu<br/>de naissance</th>
-                <th id="mort">Date et lieu<br/>de décès</th>
-                <th id="grade">Grade</th>
-                <th id="corps">Corps</th>
-                <th id="genre">Genre<br/>de mort</th>
-            </tr>
-            </thead>
-            <tr>
-                <td headers="nom"><a href="../poilus/CARIN-Edouard.php" title="biographie du poilu Édouard CARIN">CARIN<br/>Edouard</a></td>
-                <td headers="naissance">&nbsp;</td>
-                <td headers="mort">&nbsp;</td>
-                <td headers="grade">&nbsp;</td>
-                <td headers="corps">&nbsp;</td>
-                <td headers="genre">&nbsp;</td>
-            </tr>
-            <tr>
-                <td headers="nom"><a href="../poilus/CARIN-Leon.php" title="biographie du poilu Léon CARIN">CARIN<br/>Leon</a></td>
-                <td headers="naissance">&nbsp;</td>
-                <td headers="mort">&nbsp;</td>
-                <td headers="grade">&nbsp;</td>
-                <td headers="corps">&nbsp;</td>
-                <td headers="genre">&nbsp;</td>
-            </tr>
-            <tr>
-                <td headers="nom">&nbsp;</td>
-                <td headers="naissance">&nbsp;</td>
-                <td headers="mort">&nbsp;</td>
-                <td headers="grade">&nbsp;</td>
-                <td headers="corps">&nbsp;</td>
-                <td headers="genre">&nbsp;</td>
-            </tr>
-        </table>
-
-        <h2>Sources et bibliographie</h2>
-
-        <ul>
-            <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
-            <li>Mémoire des Hommes (Ministère de la Défense)</li>
-            <li>Photo du monument (Collection privée)</li>
-        </ul>
+		<figure>
+            <a href="images/grand-fayt-02.jpg" data-fancybox="gallery" data-caption="Le monument de Grand-Fayt">
+            <img src="images/mini/grand-fayt-02.jpg" alt="Le monument aux morts pour la France de Grand-Fayt dans l'Avesnois"/></a>
+            <figcaption>Le monument de Grand-Fayt<br/>(Source: Photo privée)</figcaption>
+        </figure>
+				
+		<figure>
+            <a href="images/grand-fayt-03.jpg" data-fancybox="gallery" data-caption="Le monument de Grand-Fayt">
+            <img src="images/mini/grand-fayt-03.jpg" alt="Le monument aux morts pour la France de Grand-Fayt dans l'Avesnois"/></a>
+            <figcaption>Le monument de Grand-Fayt<br/>(Source: Photo privée)</figcaption>
+        </figure>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
-        
+
         </article>
 
     </section>
