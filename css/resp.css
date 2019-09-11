@@ -203,7 +203,8 @@ header, section, footer
 	top:64px;
 	background-color:#5b5b5b;
 	visibility:hidden;
-	}
+	width:100%;
+	}	
 	
 #menuresp ul li 
 	{
