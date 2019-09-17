@@ -60,6 +60,7 @@
         <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camp-giessen.php">Giessen</a></li>
+        <li><a href="camp-gmund.php">Gmünd</a></li>
         <li><a href="camp-gorlitz.php">Görlitz</a></li>
 
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
@@ -70,6 +71,7 @@
         <li><a href="camp-herne.php">Herne</a></li>
 
         <li><a href="camp-heuberg.php">Heuberg</a></li>
+        <li><a href="camp-konigsbruck.php">Königsbrück</a></li>
         <li><a href="camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camp-limburg.php">Limburg</a></li>
         <li><a href="camp-mannheim.php">Mannheim</a></li>        
@@ -80,10 +82,12 @@
         <li><a href="camp-minden.php">Minden</a></li>
         <li><a href="camp-munster.php">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
+        <li><a href="camp-puchheim.php">Puchheim</a></li>
 
         <li><a href="camp-regensburg.php">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php" class="AsideSelected">Schneidemühl</a></li>   
+        <li><a href="camp-wahn.php">Wahn</a></li>
         <li><a href="camp-westhofen.php">Westhofen</a></li>
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
@@ -110,7 +114,9 @@
 
             <h1>Le camp de prisonniers de Schneidemühl</h1>
 
-            <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p><p>Le camp principal de prisonniers de Schneidemühl était situé en Posnanie, une ancienne province du Royaume de Prusse, à environ 90 kilomètres au nord de Posen (de nos jours Poznań en Pologne).</p>
+            <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+            
+            <p>Le camp principal de prisonniers de Schneidemühl était situé en Posnanie, une ancienne province du Royaume de Prusse, à environ 90 kilomètres au nord de Posen (de nos jours Poznań en Pologne). La ville de Schneidemühl est aujourd'hui située en Pologne et porte le nom de Piła.</p>
 
             <figure>
                 <a href="images/schneidemuhl-01.jpg" data-fancybox="gallery" data-caption="La lessive à Schneidemühl">

@@ -174,12 +174,12 @@
 
         <h3>7 octobre 1916</h3>
 
-        <p>Il est blessé à Bouchavenes (Somme) lors de l’attaque en direction de la « Tranchée de Fulda – Tête de Malassise ». Sa fiche matricule précise qu’il a des plaies au bras gauche et à la cuisse gauche dues à un éclats d’obus. Quelques jours plus tôt le bataillon avait été passé en revue par le président Poincaré, accompagné des généraux Joffre et Rocques.</p>
+        <p>Il est blessé à Bouchavesnes (Somme) lors de l’attaque en direction de la « Tranchée de Fulda – Tête de Malassise ». Sa fiche matricule précise qu’il a des plaies au bras gauche et à la cuisse gauche dues à un éclats d’obus. Quelques jours plus tôt le bataillon avait été passé en revue par le président Poincaré, accompagné des généraux Joffre et Rocques.</p>
 
         <figure>
-            <a href="images/cartes-bouchavenes.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="miniatures/cartes-bouchavenes.jpg" alt=" "></a>
-            <figcaption> </figcaption>
+            <a href="images/cartes-bouchavenes.jpg" data-fancybox="gallery" data-caption="Les tranchées à Bouchavesnes">
+            <img src="miniatures/cartes-bouchavenes.jpg" alt="Emplacement des tranchées dans la région de Bouchavesnes pendant la Grande Guerre"></a>
+            <figcaption>Les tranchées à Bouchavesnes</figcaption>
         </figure>
         
         <h3>24 août 1917</h3>

@@ -86,12 +86,12 @@
 
         <h1>Octave AMAND</h1>
 
-        <p>Octave AMAND est né à Harzé (Belgique), le 1er juin 1895, fils de Léopold AMAND, âgé de 57 ans, négociant et de Hortense RINCHON, son épouse, ménagère de 38 ans, tous deux domiciliés à Harzé.</p>
+        <p>Octave AMAND est né à Harzé (Belgique), le 1er juin 1895, fils de Léopold AMAND, âgé de 57 ans, négociant et de Hortense RINCHON, son épouse, ménagère de 38 ans, tous deux domiciliés à Harzé. A l'heure où j'écris ces ligne, je n'ai pas - encore - trouvé de parenté avec lui.</p>
 
         <figure>
             <a href="sources/naissance-octave-amand.jpg" data-fancybox="gallery" data-caption="Acte de naissance d'Octave AMAND">
             <img src="miniatures/naissance-octave-amand.jpg" alt="Acte de naissance d'Octave AMAND"></a>
-            <figcaption>Acte de naissance d'Octave AMAND (Source: Familysearch et Archives Belges)</figcaption>
+            <figcaption>Acte de naissance d'Octave AMAND<br />(Source: Familysearch et Archives Belges)</figcaption>
         </figure>
 
         <p>Elève de la première candidature en sciences naturelles, il franchit la frontière, en avril 1915, conquit, à l'école de Bayeux, le diplôme de sous-lieutenant au 11e régiment de ligne.</p>
@@ -105,6 +105,14 @@
         </figure>
 
         <p>Il est titulaire de l'Ordre de la Couronne et de la Croix de Guerre.</p>
+        
+        <figure>
+            <a href="images/ordre-de-la-couronne.jpg" data-fancybox="gallery" data-caption="Avers de la médaille d'officier de l'ordre de la Couronne">
+            <img src="miniatures/ordre-de-la-couronne.jpg" alt="Avers de la médaille d'officier de l'ordre de la Couronne"></a>
+            <figcaption>Officier de l'Ordre de la Couronne<br />(Source: Wikipedia Commons) </figcaption>
+        </figure>
+        
+        
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         

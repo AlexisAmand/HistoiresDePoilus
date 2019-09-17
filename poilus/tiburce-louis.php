@@ -117,7 +117,7 @@
 
         <h1>Louis TIBURCE</h1>
 
-		<p>Cette page sera trés bientôt disponible.</p>
+		<p>Cette page sera très bientôt disponible.</p>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         

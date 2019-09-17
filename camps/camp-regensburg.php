@@ -5,8 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>Le camp de prisonniers de Regensburg pendant la Grande Guerre - Histoires de Poilus</title>
-        <meta name="description"  content="Présentation du camp de prisonniers de Regensburg en Allemagne pendant la Première Guerre mondiale (1914-1918)">
+        <title>Le camp de prisonniers de Ratisbonne (Regensburg) pendant la Grande Guerre - Histoires de Poilus</title>
+        <meta name="description"  content="Présentation du camp de prisonniers de Ratisbonne (Regensburg) en Allemagne pendant la Première Guerre mondiale (1914-1918)">
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -61,6 +61,7 @@
         <li><a href="camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camp-giessen.php">Giessen</a></li>
+        <li><a href="camp-gmund.php">Gmünd</a></li>
         <li><a href="camp-gorlitz.php">Görlitz</a></li>
 
         <li><a href="camp-grafenwohr.php">Grafenwöhr</a></li>
@@ -71,6 +72,7 @@
         <li><a href="camp-herne.php">Herne</a></li>
 
         <li><a href="camp-heuberg.php">Heuberg</a></li>
+        <li><a href="camp-konigsbruck.php">Königsbrück</a></li>
         <li><a href="camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camp-limburg.php">Limburg</a></li>
         <li><a href="camp-mannheim.php">Mannheim</a></li>        
@@ -81,10 +83,12 @@
         <li><a href="camp-minden.php">Minden</a></li>
         <li><a href="camp-munster.php">Munster</a></li> 
         <li><a href="camp-nurnberg.php">Nuremberg</a></li>
+        <li><a href="camp-puchheim.php">Puchheim</a></li>
 
         <li><a href="camp-regensburg.php" class="AsideSelected">Rastisbonne</a></li> 
         <li><a href="camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camp-schneidemuhl.php">Schneidemühl</a></li>  
+        <li><a href="camp-wahn.php">Wahn</a></li>
         <li><a href="camp-westhofen.php">Westhofen</a></li> 
         <li><a href="camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camp-wurzburg.php">Würzburg</a></li>
@@ -116,26 +120,26 @@
         <p>Ce camp était situé à Ratisbonne (Regensburg) dans le Haut-Palatinat, en Bavière.</p>
 
         <figure>    
-            <a href="images/Regensburg/camp-regensburg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Regensburg">
-            <img src="miniatures/Regensburg/camp-regensburg.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Regensburg"></a>
-            <figcaption>Localisation du camp de Regensburg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <a href="images/Regensburg/camp-regensburg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Ratisbonne (Regensburg)">
+            <img src="miniatures/Regensburg/camp-regensburg.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Ratisbonne (Regensburg)"></a>
+            <figcaption>Localisation du camp de Ratisbonne (Regensburg)<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>    
 
         <figure>
-            <a href="images/Regensburg/regensburg-01.jpg" data-fancybox="gallery" data-caption="Dans la cours du camp à Ratisbonne">
-            <img src="miniatures/Regensburg/regensburg-01.jpg" alt="des prisonniers dans la cours du camp de Ratisbonne pendant la Première Guerre Mondiale"></a>
+            <a href="images/Regensburg/regensburg-01.jpg" data-fancybox="gallery" data-caption="Dans la cours du camp à Ratisbonne (Regensburg)">
+            <img src="miniatures/Regensburg/regensburg-01.jpg" alt="des prisonniers dans la cours du camp de Ratisbonne (Regensburg) pendant la Première Guerre Mondiale"></a>
             <figcaption>Dans la cours du camp<br/>(Source allemande)</figcaption>
         </figure>
 
         <figure>
-            <a href="images/Regensburg/regensburg-02.jpg" data-fancybox="gallery" data-caption="Vue du camp de Ratisbonne">    
-            <img src="miniatures/Regensburg/regensburg-02.jpg" alt="une vue du camp de prisonniers de Regensburg pendant la Grande Guerre"></a>
+            <a href="images/Regensburg/regensburg-02.jpg" data-fancybox="gallery" data-caption="Vue du camp de Ratisbonne (Regensburg)">    
+            <img src="miniatures/Regensburg/regensburg-02.jpg" alt="une vue du camp de prisonniers de Ratisbonne (Regensburg) pendant la Grande Guerre"></a>
             <figcaption>Vue du camp de Ratisbonne<br/>(Source allemande)</figcaption>
         </figure>
 
         <figure>
-            <a href="images/Regensburg/regensburg-03.jpg" data-fancybox="gallery" data-caption="Exercice des pompiers à Ratisbonne"> 
-            <img src="miniatures/Regensburg/regensburg-03.jpg" alt="Exercice des pompiers dans le camp de prisonniers de Ratisbonne pendant la Première Guerre Mondiale"></a>
+            <a href="images/Regensburg/regensburg-03.jpg" data-fancybox="gallery" data-caption="Exercice des pompiers à Ratisbonne (Regensburg)"> 
+            <img src="miniatures/Regensburg/regensburg-03.jpg" alt="Exercice des pompiers dans le camp de prisonniers de Ratisbonne (Regensburg) pendant la Première Guerre Mondiale"></a>
             <figcaption>Exercice des pompiers<br/>(Source allemande)</figcaption>
         </figure>
 

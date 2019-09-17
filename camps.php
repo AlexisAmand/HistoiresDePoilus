@@ -75,6 +75,7 @@
         <li><a href="camps/camp-friedrichsfeld.php">Friedrichsfeld</a></li>
         <li><a href="camps/camp-gardelegen.php">Gardelegen</a></li>
         <li><a href="camps/camp-giessen.php">Giessen</a></li>
+        <li><a href="camps/camp-gmund.php">Gmünd</a></li>
         <li><a href="camps/camp-gorlitz.php">Görlitz</a></li>
 
         <li><a href="camps/camp-grafenwohr.php">Grafenwöhr</a></li>
@@ -85,6 +86,7 @@
         <li><a href="camps/camp-herne.php">Herne</a></li>
 
         <li><a href="camps/camp-heuberg.php">Heuberg</a></li>
+        <li><a href="camps/camp-konigsbruck.php">Königsbrück</a></li>
         <li><a href="camps/camp-lechfeld.php">Lechfeld</a></li>
         <li><a href="camps/camp-limburg.php">Limburg</a></li>
         <li><a href="camps/camp-mannheim.php">Mannheim</a></li>        
@@ -95,10 +97,12 @@
         <li><a href="camps/camp-minden.php">Minden</a></li>
         <li><a href="camps/camp-munster.php">Munster</a></li> 
         <li><a href="camps/camp-nurnberg.php">Nuremberg</a></li>
+        <li><a href="camps/camp-puchheim.php">Puchheim</a></li>
 
         <li><a href="camps/camp-regensburg.php">Rastisbonne</a></li>         
         <li><a href="camps/camp-ruhleben.php">Ruhleben</a></li> 
         <li><a href="camps/camp-schneidemuhl.php">Schneidemühl</a></li> 
+        <li><a href="camps/camp-wahn.php">Wahn</a></li>
         <li><a href="camps/camp-westhofen.php">Westhofen</a></li>    
         <li><a href="camps/camp-wetzlar.php">Wetzlar</a></li>  
         <li><a href="camps/camp-wurzburg.php">Würzburg</a></li>

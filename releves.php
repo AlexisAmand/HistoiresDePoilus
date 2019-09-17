@@ -73,6 +73,7 @@
 	        <li><a href="releves/capelle.php">Capelle-sur-Ecaillon</a></li>
 	        <li><a href="releves/cousolre.php">Cousolre</a></li> 
 	        <li><a href="releves/eth.php">Eth</a></li>
+	        <li><a href="releves/grand-fayt">Grand-Fayt</a></li>
 	        <li><a href="releves/gussignies.php">Gussignies</a></li>
 	        <li><a href="releves/lourches.php">Lourches</a></li>
 	        <li><a href="releves/onnaing.php">Onnaing</a></li>    
