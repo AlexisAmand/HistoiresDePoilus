@@ -56,14 +56,51 @@
         <a href="amand-jules.php">Les jasses de Belgique</a>
     </div>
 
+	<select style="width:100%;background-color:#5b5b5b;border:0px;color:#e2ede4;height: 30px;"
+		onchange="window.location.href=this.value">
+		<option>Soldats du Nord</option>
+        <option value="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</option>
+        <option value="boucher-gervais.php">BOUCHER Gervais</option>
+        <option value="boursier-edmond.php">BOURSIER Edmond</option>
+        <option value="BOURSIER-Jules">BOURSIER Jules Henri</option>
+        <option value="CARIN-Edouard.php">CARIN Édouard (+)</option>
+        <option value="carin-joseph.php">CARIN Joseph</option>
+        <option value="CARIN-Leon.php">CARIN Léon (+)</option>
+        <option value="CARIN-Theophile.php">CARIN Théophile</option>
+        <option value="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</option>
+        <option value="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</option>
+        <option value="delaux-oscar-julien.php">DELAUX Oscar Julien</option>
+        <option value="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</option>
+        <option value="dubois-jean-charles.php">DUBOIS Jean Charles (+)</option>
+        <option value="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</option>
+        <option value="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</option>
+        <option value="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</option>
+        <option value="GRAIN-Leon-Albert.php">GRAIN Léon Albert</option>
+        <option value="GRAIN-Louis.php">GRAIN Louis</option>
+        <option value="hanze-augustin.php">HANZE Augustin (+)</option>
+        <option value="JOLY-Noel-Jules.php">JOLY Noël Jules</option>
+        <option value="lamandin-georges.php">LAMANDIN Georges (+)</option>
+        <option value="lesage-jules-joseph.php">LESAGE Jules Joseph</option>
+        <option value="LETIENNE-Florimond.php">LETIENNE Florimond</option>
+        <option value="magny-jules.php">MAGNY Jules</option>
+        <option value="mascart-emile.php">MASCART Émile</option>
+        <option value="mascart-leon.php">MASCART Léon</option>
+        <option value="mascart-leon-2.php">MASCART Léon (+)</option>
+        <option value="mascart-louis.php">MASCART Louis (+)</option>
+        <option value="patou-druon-adrien.php">PATOU Druon Adrien (+)</option>
+        <option value="pelez-alfred.php">PELEZ Alfred</option>
+        <option value="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</option>
+        <option value="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</option>
+        <option value="tiburce-louis.php">TIBURCE Louis</option>
+        <option value="VELU-Adrien.php">VELU Adrien (+)</option>
+	</select>
+		
     <section>
-
+    
     <aside>
 
     <ul>
         <li class="asideheader">Nord</li>
-        <li><a href="amand-hoche.php">AMAND Hoche</a></li>
-        <li><a href="amand-marceau.php">AMAND Marceau</a></li>
         <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>

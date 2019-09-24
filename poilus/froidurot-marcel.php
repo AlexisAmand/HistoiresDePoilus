@@ -5,8 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>Biographie et parcours du soldat Alphonse FROIDUROT  - Histoires de Poilus</title>
-        <meta content="Parcours de Alphonse Froidurot, soldat la Première Guerre Mondiale." name="description">
+        <title>Biographie et parcours du soldat Marcel FROIDUROT  - Histoires de Poilus</title>
+        <meta content="Parcours de Marcel Froidurot, soldat la Première Guerre Mondiale." name="description">
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -64,8 +64,8 @@
     <ul>
         <li class="asideheader">Côte-d'Or</li>
         <li><a href="FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
-        <li><a href="froidurot-alphonse.php"  class="AsideSelected">FROIDUROT Alphonse</a></li>      
-        <li><a href="froidurot-marcel.php">FROIDUROT Marcel</a></li>     
+        <li><a href="froidurot-alphonse.php">FROIDUROT Alphonse</a></li>       
+        <li><a href="froidurot-marcel.php"  class="AsideSelected">FROIDUROT Marcel</a></li>    
     </ul>
 
     <div id="pubaside">
@@ -84,24 +84,12 @@
 
         <article>
 
-        <h1>Alphonse FROIDUROT</h1>
+        <h1>Marcel FROIDUROT</h1>
         
-        <p>Alphonse FROIDUROT voit le jour le 20 juillet 1869 dans la maison de ses parents située Rue de Montmuzard à Dijon (Côte-d'Or), fils légitime de Claude FROIDUROT et Alix MAURICE. Le 6 décmebre 1888, il épouse Marie Barbe GIRARDOT à Semur-en-Auxois (Côte-d'Or) où le couple par s'installer et où naît le petit <a href="FROIDUROT-Alfred.php" title="biographie du resistant Alfred Froidurot">Alfred</a>, qui sera un des nombreux héros anonymes de la Seconde Guerre Mondiale, le 29 janvier 1898.</p>
+        <p>Alfred FROIDUROT est né le 12 mai 1891 à Semur-en-Auxois (Côte-d'Or). Il est le fils d'<a href="froidurot-alphonse.php">Alphonse</a> et le frère d'<a href="FROIDUROT-Alfred.php">Alfred</a>.</p>
         
-        <figure>
-            <a href="sources/froidurot-alphonse.jpg" data-fancybox="gallery" data-caption="Acte de naissance d'Alphonse FROIDUROT">
-            <img src="miniatures/froidurot-alphonse.jpg" alt="Extrait de la fiche matricule d'Alphonse FROIDUROT"/></a>
-            <figcaption>Acte de naissance d'Alphonse<br/>(Source: Archives Départementales de la Côte-d'Or)</figcaption>
-        </figure>
-     
-        <p>Matricule n°327 au bureau Dijon, il est rappelé à l'activité par la mobilisation générale du 2 août 1914, rejoint comme la plupart des hommes de sa génération, la "Territoriale" et est affecté dès le début du mois d'aout à la garde des voies des communications. Il est renvoyé dans ses foyers le 28 janvier 1915, sans doute à cause de son âge, mais rien n'est sûr dans l'état actuel de mes recherches. Quelques mois plus tard, le 2 juillet 1915 à Dijon, son fils Alfred a tout juste 17 ans quand il s'engage comme volontaire pour la durée de la guerre au 17e Régiment de Dragons.</p>
-
-        <figure>
-            <a href="sources/froidurot-alphonse-matricule.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Alphonse FROIDUROT">
-            <img src="miniatures/froidurot-alphonse-matricule.jpg" alt="Extrait de la fiche matricule d'Alphonse FROIDUROT"/></a>
-            <figcaption>Extrait de sa fiche matricule<br/>(Source: Archives Départementales de la Côte-d'Or)</figcaption>
-        </figure>
-
+        <p>fiche n°668, classe 1907, bureau de Dijon (Côte-d'Or).</p>
+        
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 
         </article>

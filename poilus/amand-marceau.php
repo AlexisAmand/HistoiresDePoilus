@@ -5,8 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>Biographie et parcours du soldat Jean Charles DUBOIS - Histoires de Poilus</title>
-        <meta content="Parcours et biographie du poilu Jean Charles DUBOIS, soldat pendant la Première Guerre Mondiale" name="description"/>
+        <title>Biographie et parcours du soldat Marceau AMAND - Histoires de Poilus</title>
+        <meta content=" " name="description"/>
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -15,7 +15,7 @@
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
         <link rel="icon" type="image/png" href="../images/favicon.png"/>
 
-    </head>
+    </head> 
 
     <body>
 
@@ -62,9 +62,9 @@
     <aside>
 
     <ul>
-        <li class="asideheader">Nord</li>
-        <li><a href="amand-hoche.php">AMAND Hoche</a></li>
-        <li><a href="amand-marceau.php">AMAND Marceau</a></li>
+     	<li class="asideheader">Nord</li>
+     	<li><a href="amand-hoche.php">AMAND Hoche</a></li>
+        <li><a href="amand-marceau.php" class="AsideSelected">AMAND Marceau</a></li>
         <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
@@ -77,7 +77,7 @@
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
         <li><a href="delaux-oscar-julien.php">DELAUX Oscar Julien</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
-        <li><a href="dubois-jean-charles.php" class="AsideSelected">DUBOIS Jean Charles (+)</a></li>
+        <li><a href="dubois-jean-charles.php">DUBOIS Jean Charles (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
         <li><a href="FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
         <li><a href="FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
@@ -98,7 +98,7 @@
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
         <li><a href="ROUSSEAUX-Louis.php">ROUSSEAUX Louis Henri (+)</a></li>
         <li><a href="tiburce-louis.php">TIBURCE Louis</a></li>
-        <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
+        <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>    
     </ul>
 
     <div id="pubaside">
@@ -117,51 +117,7 @@
 
         <article>
 
-        <h1>Jean Charles DUBOIS</h1>
-
-        <p><strong>Jean Charles DUBOIS</strong> est né le 8 février 1893 à Villers-Guislain (Nord), il est le frère d'<a href="DUBOIS-Emile-Edmond.php" title="Biographie d'Emile Edmond DUBOIS">Emile Edmond</a>. Inscrit sous le n°99 de la liste du canton de Marcoing, il est incorporé au 164e Régiment d'Infanterie le 27 novembre 1913 où il arrive le dit jour. Il est décédé d'une maladie contractée en service le 18 octobre 1914 à l'hôpital temporaire n°8 de Verdun (dans la Meuse). Son nom figure sur le Monument aux morts et dans le livre d'or de Villers-Guislain.</p>
-
-        <table class="census">
-        <caption>Liste des domiciles de Jean-Charles</caption>
-            <thead>
-            <tr>
-                <th id="date">Dates</th>
-                <th id="adresse">Adresses</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            </tbody>
-        </table>
-
-        <figure>
-            <a href="sources/dubois-jean-charles.jpg" data-fancybox="gallery" data-caption="Jean Charles DUBOIS, mort pour la France">
-            <img src="miniatures/dubois-jean-charles.jpg" alt="Fiche de mort pour la France de Jean Charles DUBOIS"/></a>
-            <figcaption>Jean Charles, mort pour la France.<br/>(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
-        </figure>
-
-        <h2>Sources et bibliographie</h2>
-
-        <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
-            <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense">Mémoire des Hommes</a> (Ministère de la Défense)</li>
-            <li><a href="https://archivesdepartementales.lenord.fr/">Archives Départementales du Nord</a></li>
-        </ul> 
+        <h1>Marceau AMAND</h1>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 

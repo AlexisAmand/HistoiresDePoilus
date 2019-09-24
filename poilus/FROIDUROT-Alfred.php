@@ -56,7 +56,7 @@
         <a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="amand-jules.php">Les jasses de Belgique</a>
     </div>
-
+    
     <section>
 
     <aside>
@@ -65,6 +65,7 @@
         <li class="asideheader">Côte-d'Or</li>
         <li><a href="FROIDUROT-Alfred.php"  class="AsideSelected">FROIDUROT Alfred</a></li>
         <li><a href="froidurot-alphonse.php">FROIDUROT Alphonse</a></li>
+        <li><a href="froidurot-marcel.php">FROIDUROT Marcel</a></li>
     </ul>
 
     <div id="pubaside">

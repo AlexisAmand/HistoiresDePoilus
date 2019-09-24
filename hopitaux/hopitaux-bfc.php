@@ -88,6 +88,14 @@
         <article>
 
         <h1>Bourgogne-Franche-Comté</h1>
+        
+        <h2>Les hôpitaux de Beaune</h2>
+        
+        <figure>
+            <a href="images/beaune-ha.jpg" data-fancybox="gallery" data-caption="L'hôpital auxiliaire n°205">
+            <img src="miniatures/beaune-ha.jpg" alt="L'hôpital auxiliaire n°205 à Beaune"></a>
+            <figcaption>L'hôpital auxiliaire n°205<br />situé rue des tonneliers<br />(source: Clio Team)</figcaption>
+        </figure>
 
         <h2>Les hôpitaux de Chatillon-sur-Seine</h2>
 

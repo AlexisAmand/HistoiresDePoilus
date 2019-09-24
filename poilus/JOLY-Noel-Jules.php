@@ -6,7 +6,7 @@
         <meta charset="utf-8">
 
         <title>Biographie et parcours du soldat JOLY Noël Jules - Histoires de Poilus</title>
-        <meta content="Parcours de Noeël Jules JOLY, soldat quaroubain pendant la Première Guerre Mondiale. Il était membre du 2e Régiment d'Infanterie Territoriale puis prisonnier de guerre à Friedrichsfeld" name="description">
+        <meta content="Parcours de Noël Jules JOLY, soldat quaroubain pendant la Première Guerre Mondiale. Il était membre du 2e Régiment d'Infanterie Territoriale puis prisonnier de guerre à Friedrichsfeld" name="description">
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -63,6 +63,8 @@
 
     <ul>
         <li class="asideheader">Nord</li>
+        <li><a href="amand-hoche.php">AMAND Hoche</a></li>
+        <li><a href="amand-marceau.php">AMAND Marceau</a></li>
         <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>

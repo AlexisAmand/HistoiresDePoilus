@@ -280,6 +280,7 @@
             <li><a href="https://archives.cotedor.fr" title="Archives départemental de la Côte-d'Or">Archives Départementales de la Côte-d'Or</a></li>
             <li><a href="http://archives.marne.fr/" title="Archives départementales de la Marne">Archives Départementales de la Marne</a></li>
             <li><a href="http://archivesdepartementales.lenord.fr" title="Archives départementales du Nord">Archives Départementales du Nord</a></li>
+            <a href="http://www.archives.nantes.fr/">Archives Municipales de Nantes</a>
             <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="Mémoire des hommes">Mémoire des Hommes</a> (Ministère de la Défense)</li>
             <li><a href="http://www.memorial-genweb.org/~memorial2/" title="Portail MémorialGenweb">Mémorial-GenWeb</a></li>
             <li><a href="http://grandeguerre.icrc.org/fr" title="Comité international de la Croix-Rouge">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>

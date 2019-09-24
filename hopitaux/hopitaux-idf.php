@@ -90,7 +90,19 @@
 		
 		<h2>Les hôpitaux de Paris</h2>
 		
+		<figure>
+			<a href="images/maison-blanche.jpg" data-fancybox="gallery" data-caption="Hôpital militaire de Maison Blanche à Neuilly-sur-Marne">
+			<img src="miniatures/maison-blanche.jpg" alt="Hôpital militaire de Maison Blanche"></a>
+			<figcaption>Hôpital militaire de Maison Blanche<br />à Neuilly-sur-Marne (source: Clio Team)</figcaption>	
+		</figure>
+		
 		<p>L'Hôpital du gouvernement italien pour les blessés de Guerre Français (également appelé Hôpital de L'ambassade d'Italie) était situé au 41 quai d'Orsay à Paris. C'était un des hôpitaux complémentaires de l'hôpital militaire du Val-de-Grâce et également un des rares hôpitaux complémentaires à disposer de la radiologie.</p>
+		
+		<figure>
+			<a href="images/val-de-grace-19.jpg" data-fancybox="gallery" data-caption=" ">
+			<img src="miniatures/val-de-grace-19.jpg" alt=" "></a>
+			<figcaption>un des... (source: Clio Team)</figcaption>
+		</figure>
 		
 		<figure>
 			<a href="images/hopital-begin.jpg" data-fancybox="gallery" data-caption="l'hôpital militaire Bégin">

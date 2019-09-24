@@ -87,6 +87,14 @@
         <article>
 
         <h1>Auvergne-Rhône-Alpes</h1>
+        
+        <h2>Les hôpitaux de Lyon</h2>
+             
+        <figure>
+			<a href="images/hopital-antiquaille.jpg" data-fancybox="gallery" data-caption="Hôpital de l'Antiquaille">
+			<img src="miniatures/hopital-antiquaille.jpg" alt="Hôpital de l'Antiquaille à Lyon"></a>
+			<figcaption>Hôpital de l'Antiquaille<br />(source: Clio Team)</figcaption>
+		</figure>
 
         <h2>Les hôpitaux de Saint-Chamond</h2>
 

@@ -63,6 +63,8 @@
 
     <ul>
         <li class="asideheader">Nord</li>
+        <li><a href="amand-hoche.php">AMAND Hoche</a></li>
+        <li><a href="amand-marceau.php">AMAND Marceau</a></li>
         <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>

@@ -98,6 +98,12 @@
 			<figcaption>L'hôpital complémentaire,<br/>installé dans le lycée.</figcaption>
 		</figure>
 		
+		<figure>
+			<a href="images/bordeaux-hopital-faucher.jpg" data-fancybox="gallery" data-caption="Hôpital dépot de convalescents Faucher">
+			<img src="miniatures/bordeaux-hopital-faucher.jpg" alt="Hôpital dépot de convalescents Faucher à Bordeaux"></a>
+			<figcaption>Hôpital dépot de convalescents Faucher<br />(source: Clio Team)</figcaption>
+		</figure>
+			
 		<h2>Les hôpitaux de Cognac</h2>
 		
 		<figure>

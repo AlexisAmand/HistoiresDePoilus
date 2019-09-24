@@ -108,7 +108,7 @@
 			<figcaption>Une salle de l'hôpital temporaire n°3,<br/>situé rue Mondésir</figcaption>
 		</figure>    
 		
-		<p>Selon les Archives Municipales de Nantes, il existait un hôpital n°31, situé dans l'ancien séminaire de philosophie, rue Saint-Clément. Il avait une capacité de 300 lits et a fonctionné du 25 août 1914 au 24 septembre 1916.</p> 
+		<p>Selon les <a href="http://www.archives.nantes.fr/">Archives Municipales de Nantes</a>, il existait un hôpital n°31, situé dans l'ancien séminaire de philosophie, rue Saint-Clément. Il avait une capacité de 300 lits et a fonctionné du 25 août 1914 au 24 septembre 1916.</p> 
 		
 		<p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 		

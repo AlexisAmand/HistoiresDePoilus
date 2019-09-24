@@ -90,7 +90,7 @@
 		
 		<p>L'hopital d'évacuation n°36 de Catenoy</p>
 		
-		<h2>Les hôpitaux d(Amiens</h2>
+		<h2>Les hôpitaux d'Amiens</h2>
 		
 		<p>HB n° 4 bis ?</p>
 		
@@ -122,15 +122,13 @@
 		
 		<h2>Les hôpitaux de Calais</h2>
 		
-		<h2>L'hôpital militaire temporaire n°51 de Calais</h2>
-		
 		<p>L'hôpital militaire temporaire n°51 de Calais était géré par le Service de Santé des Armées. Il était situé à la maison de commerce Leweng et Weinberg, 92 rue Gambetta. Il comportait 110 lits et a fonctionné dès le 26 décembre 1914.</p>
 		
-		<h2>Les hôpitaux de Courlandon (Somme)</h2>
+		<h2>Les hôpitaux de Courlandon</h2>
 		
 		<p>L'hôpital n°13 ?</p>
 		
-		<h2>Les hôpitaux de Doullens (Somme)</h2>
+		<h2>Les hôpitaux de Doullens</h2>
 		
 		<p>L'hôpital militaire ?</p>
 		

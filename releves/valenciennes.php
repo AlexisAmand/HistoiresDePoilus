@@ -5,8 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>Relevé des morts pour la France de Valenciennes - Histoires de Poilus</title>
-        <meta content="relevés des soldats et des civils de Valenciennes morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments">
+        <title>Tombes de poilus à Valenciennes - Histoires de Poilus</title>
+        <meta content="Quelques photos de tombes de soldats valenciennois morts pour la France pendant la Première Guerre Mondiale (1914-1918)">
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -111,7 +111,7 @@
 
     <article>
 
-    <h1>Relevé des morts pour la France à Valenciennes</h1>
+    <h1>Tombes de poilus à Valenciennes</h1>
 
     <h2>André BERNARD</h2>
 

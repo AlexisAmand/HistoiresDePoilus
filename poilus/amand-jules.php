@@ -90,7 +90,7 @@
 
         <figure>
             <a href="images/arbre-amand.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de Jules AMAND">
-            <img src="miniatures/arbre-amand.png" alt="Arbre généalogique simplifié de Jules AMAND" class="ArbreGenealogique" style="width:470px;"></a>
+            <img src="miniatures/arbre-amand.png" alt="Arbre généalogique simplifié de Jules AMAND" class="ArbreGenealogique"></a>
             <figcaption>Arbre généalogiqe simplifié de Jules AMAND<br/>(Source: Recherches personnelles)</figcaption>
         </figure>
 

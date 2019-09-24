@@ -49,6 +49,25 @@ tr:nth-child(even){ background-color: #eee; }
 /* ---------------------------- */
 	
 @media (max-width: 959px) {
+	
+/* ajout du 19/09/2019 */	
+	
+aside 
+	{
+	/* display:none; */
+	width:100%;
+	position:absolute;
+	top: 118px;
+	height: 34px;
+	overflow: hidden;
+	}
+
+.asideheader 
+	{	
+	border-left: 0px solid #e1ede3;
+	}
+	
+/* ---------------- */
 		
 #btnresp
 	{
@@ -132,11 +151,6 @@ article
 	{
 	width:100%;
 	padding: 8px;
-	}
-
-aside 
-	{
-	display:none;
 	}
 
 footer
@@ -233,3 +247,4 @@ header, section, footer
 	text-decoration: none;
 	}	
 	
+

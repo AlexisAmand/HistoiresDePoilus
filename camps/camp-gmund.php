@@ -125,25 +125,25 @@
         <figure>
             <a href="images/Gmund/camp-gmund-01.jpg" data-fancybox="gallery" data-caption="Enterrement d'un prisonnier français décédé à Gmünd">
             <img src="miniatures/Gmund/camp-gmund-01.jpg" alt="Enterrement d'un prisonnier français décédé au camp de Gmünd"></a>
-            <figcaption>Enterrement d'un prisonnier français décédé à Gmünd<br/>(source: CT)</figcaption>
+            <figcaption>Enterrement d'un prisonnier français décédé à Gmünd<br/>(source: Clio Team)</figcaption>
         </figure>
 
 		<figure>
             <a href="images/Gmund/camp-gmund-02.jpg" data-fancybox="gallery" data-caption="Prisonniers français à Gmünd">
             <img src="miniatures/Gmund/camp-gmund-02.jpg" alt="un groupe de prisonniers français au camp de Gmünd"></a>
-            <figcaption>Prisonniers français à Gmünd<br/>(source: CT)</figcaption>
+            <figcaption>Prisonniers français à Gmünd<br/>(source: Clio Team)</figcaption>
         </figure>
         
         <figure>
             <a href="images/Gmund/camp-gmund-03.jpg" data-fancybox="gallery" data-caption="Prisonniers français à Gmünd">
             <img src="miniatures/Gmund/camp-gmund-03.jpg" alt="un groupe de prisonniers français au camp de Gmünd"></a>
-            <figcaption>Prisonniers français à Gmünd<br/>(source: CT)</figcaption>
+            <figcaption>Prisonniers français à Gmünd<br/>(source: Clio Team)</figcaption>
         </figure>
         
         <figure>
             <a href="images/Gmund/camp-gmund-04.jpg" data-fancybox="gallery" data-caption="Prisonniers français à Gmünd">
             <img src="miniatures/Gmund/camp-gmund-04.jpg" alt="un groupe de prisonniers français au camp de Gmünd"></a>
-            <figcaption>Prisonniers français à Gmünd<br/>(source: CT)</figcaption>
+            <figcaption>Prisonniers français à Gmünd<br/>(source: Clio Team)</figcaption>
         </figure>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
