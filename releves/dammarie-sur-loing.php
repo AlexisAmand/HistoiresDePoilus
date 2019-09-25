@@ -9,8 +9,8 @@
 
         <meta charset="utf-8">
 
-        <title>Le monument aux morts de Grand-Fayt - Histoires de Poilus</title>
-        <meta content="Le monument aux morts pour la France pendant la Première Guerre Mondiale (1914-1918) à Grand-Fayt">
+        <title>Relevé des morts pour la France de Dammarie-sur-Loing (Loiret) - Histoires de Poilus</title>
+        <meta content="relevés des soldats et des civils de Dammarie-sur-Loing (Loiret) morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or">
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -64,9 +64,9 @@
         <li class="asideheader">Aube</li>
        		<li><a href="gelannes.php">Gélannes</a></li>     		
        	<li class="asideheader">Côte-d'Or</li>
-        	<li><a href="daix.php">Daix</a></li> 
+        	<li><a href="daix.php">Daix</a></li>
         <li class="asideheader">Loiret</li>
-        	<li><a href="dammerie-sur-loing.php">Dammarie-sur-Loing</a></li>    
+        	<li><a href="dammerie-sur-loing.php" class="AsideSelected">Dammarie-sur-Loing</a></li>       
     	<li class="asideheader">Marne</li>
 	        <li><a href="betheniville.php">Bétheniville</a></li>
 	        <li><a href="isles-sur-suippes.php">Isles-sur-Suippes</a></li>
@@ -78,7 +78,7 @@
 	        <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
 	        <li><a href="cousolre.php">Cousolre</a></li> 
 	        <li><a href="eth.php">Eth</a></li>
-	        <li><a href="grand-fayt" class="AsideSelected">Grand-Fayt</a></li>
+	        <li><a href="grand-fayt">Grand-Fayt</a></li>
 	        <li><a href="gussignies.php">Gussignies</a></li>
 	        <li><a href="lourches.php">Lourches</a></li>
 	        <li><a href="onnaing.php">Onnaing</a></li>    
@@ -117,25 +117,84 @@
 
         <article>
 
-        <h1>Le monuments aux morts de Grand-Fayt</h1>
+        <h1>Relevé des morts pour la France à Dammarie-sur-Loing</h1>
+
+        <p>(Relevé en cours)</p>
+
+        <p>Voici la liste des morts pour la France de Dammarie-sur-Loing (Loiret) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant un petit commentaire.</p>
 
         <figure>
-            <a href="images/grand-fayt-02.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts de Grand-Fayt">
-            <img src="images/mini/grand-fayt-02.jpg" alt="le Monument aux Morts de Grand-Fayt dans l'Avesnois"/></a>
-            <figcaption>Le Monument aux Morts de Grand-Fayt<br/>(Source: Photo privée)</figcaption>
-        </figure>
-
-		<figure>
-            <a href="images/grand-fayt-01.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts de Grand-Fayt">
-            <img src="images/mini/grand-fayt-01.jpg" alt="le Monument aux Morts de Grand-Fayt dans l'Avesnois"/></a>
-            <figcaption>Le Monument aux Morts de Grand-Fayt<br/>(Source: Photo privée)</figcaption>
+            <a href="images/dammarie-sur-loing.jpg" data-fancybox="gallery" data-caption=" ">
+            <img src="images/mini/dammarie-sur-loing.jpg" alt=" "/></a>
+            <figcaption> <br/>(Source: Delcampe)</figcaption>
         </figure>
         
-        <figure>
-            <a href="images/grand-fayt-03.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts de Grand-Fayt">
-            <img src="images/mini/grand-fayt-03.jpg" alt="le Monument aux Morts de Grand-Fayt dans l'Avesnois"/></a>
-            <figcaption>Le Monument aux Morts de Grand-Fayt<br/>(Source: Photo privée)</figcaption>
-        </figure>
+        <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
+
+        <table class="releves">
+            <thead>
+            <tr>
+                <th id="nom">Nom et prénoms</th>
+                <th id="mort">Date et lieu<br/>de décès</th>
+                <th id="corps">Corps</th>
+            </tr>
+            </thead>
+            <tr>
+                <td headers="nom">SAUVAGEON<br />Albert</td>
+                <td headers="mort">Le 20 aout 1914 à Grandfontaine à 29 ans</td>
+                <td headers="corps">60e Ch. à Pied</td>
+            </tr>
+            <tr>
+                <td headers="nom">VASSARD<br />Albert</td>
+                <td headers="mort">Le 20 septembre 1914 à Verdun à 32 ans</td>
+                <td headers="corps">82e R.I</td>
+            </tr>
+            <tr>
+                <td headers="nom">MITRE<br />Emile</td>
+                <td headers="mort">Le 22 septembre 1914 à Cheppy à 33 ans</td>
+                <td headers="corps">4e R.I</td>
+            </tr>
+            <tr>
+                <td headers="nom"> </td>
+                <td headers="mort"> </td>
+                <td headers="corps"> </td>
+            </tr>
+            <tr>
+                <td headers="nom"> </td>
+                <td headers="mort"> </td>
+                <td headers="corps"> </td>
+            </tr>
+            <tr>
+                <td headers="nom"> </td>
+                <td headers="mort"> </td>
+                <td headers="corps"> </td>
+            </tr>
+            <tr>
+                <td headers="nom"> </td>
+                <td headers="mort"> </td>
+                <td headers="corps"> </td>
+            </tr>
+            <tr>
+                <td headers="nom"> </td>
+                <td headers="mort"> </td>
+                <td headers="corps"> </td>
+            </tr>
+            <tr>
+                <td headers="nom"> </td>
+                <td headers="mort"> </td>
+                <td headers="corps"> </td>
+            </tr>
+            <tr>
+                <td headers="nom"> </td>
+                <td headers="mort"> </td>
+                <td headers="corps"> </td>
+            </tr>
+            <tr>
+                <td headers="nom"> </td>
+                <td headers="mort"> </td>
+                <td headers="corps"> </td>
+            </tr>
+        </table>    
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         
