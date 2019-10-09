@@ -66,7 +66,7 @@
        	<li class="asideheader">Côte-d'Or</li>
         	<li><a href="daix.php">Daix</a></li>
         <li class="asideheader">Loiret</li>
-        	<li><a href="dammerie-sur-loing.php" class="AsideSelected">Dammarie-sur-Loing</a></li>       
+        	<li><a href="dammarie-sur-loing.php" class="AsideSelected">Dammarie-sur-Loing</a></li>       
     	<li class="asideheader">Marne</li>
 	        <li><a href="betheniville.php">Bétheniville</a></li>
 	        <li><a href="isles-sur-suippes.php">Isles-sur-Suippes</a></li>
@@ -124,9 +124,9 @@
         <p>Voici la liste des morts pour la France de Dammarie-sur-Loing (Loiret) au cours de la Première Guerre Mondiale. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me laissant un petit commentaire.</p>
 
         <figure>
-            <a href="images/dammarie-sur-loing.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="images/mini/dammarie-sur-loing.jpg" alt=" "/></a>
-            <figcaption> <br/>(Source: Delcampe)</figcaption>
+            <a href="images/dammarie-sur-loing.jpg" data-fancybox="gallery" data-caption="Liste des morts pour la France de Dammarie-sur-Loing">
+            <img src="images/mini/dammarie-sur-loing.jpg" alt="Liste des morts pour la France de Dammarie-sur-Loing sur une carte postale"/></a>
+            <figcaption>Liste des morts pour la France de Dammarie-sur-Loing<br/>(Source: Delcampe)</figcaption>
         </figure>
         
         <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
@@ -136,62 +136,188 @@
             <tr>
                 <th id="nom">Nom et prénoms</th>
                 <th id="mort">Date et lieu<br/>de décès</th>
+                <th id="naissance">Âge</th>
                 <th id="corps">Corps</th>
             </tr>
             </thead>
             <tr>
                 <td headers="nom">SAUVAGEON<br />Albert</td>
-                <td headers="mort">Le 20 aout 1914 à Grandfontaine à 29 ans</td>
+                <td headers="mort">Le 20 aout 1914 à Grandfontaine</td>
+                <td headers="naissance">29 ans</td>
                 <td headers="corps">60e Ch. à Pied</td>
             </tr>
             <tr>
                 <td headers="nom">VASSARD<br />Albert</td>
-                <td headers="mort">Le 20 septembre 1914 à Verdun à 32 ans</td>
+                <td headers="mort">Le 20 septembre 1914 à Verdun</td>
+                <td headers="naissance">32 ans</td>
                 <td headers="corps">82e R.I</td>
             </tr>
             <tr>
                 <td headers="nom">MITRE<br />Emile</td>
-                <td headers="mort">Le 22 septembre 1914 à Cheppy à 33 ans</td>
+                <td headers="mort">Le 22 septembre 1914 à Cheppy</td>
+                <td headers="naissance">33 ans</td>
                 <td headers="corps">4e R.I</td>
             </tr>
             <tr>
+                <td headers="nom">MARION<br />Georges</td>
+                <td headers="mort">Le 23 septembre 1914 à Lérouville</td>
+                <td headers="naissance">26 ans</td>
+                <td headers="corps">356e R.I</td>
+            </tr>
+            <tr>
+                <td headers="nom">COSSET Anselme</td>
+                <td headers="mort">Le 29 septembre 1914 à Lérouville</td>
+                <td headers="naissance">30 ans</td>
+                <td headers="corps">346e R.I</td>
+            </tr>
+            <tr>
+                <td headers="nom">CLEMENT<br />André</td>
+                <td headers="mort">Le 2 octobre 1914 à Gavrelle</td>
+                <td headers="naissance">25 ans</td>
+                <td headers="corps">23e R.D</td>
+            </tr>
+            <tr>
+                <td headers="nom">ROULLET<br />Charles</td>
+                <td headers="mort">Le 4 octobre 1914 à Verdun</td>
+                <td headers="naissance">34 ans</td>
+                <td headers="corps">82e RI</td>
+            </tr>
+            <tr>
+                <td headers="nom">TEMPLIER<br />Justin</td>
+                <td headers="mort">Le 13 décembre 1914 à Verdun</td>
+                <td headers="naissance">27 ans</td>
+                <td headers="corps">10e B.C.P</td>
+            </tr>
+            <tr>
+                <td headers="nom">CHAINTREAU<br />Désiré</td>
+                <td headers="mort">Le 17 janvier 1915 à Crouy</td>
+                <td headers="naissance">32 ans</td>
+                <td headers="corps">231e R.I</td>
+            </tr>
+            <tr>
+                <td headers="nom">FAUVIN<br />Hippolyte</td>
+                <td headers="mort">Le 28 février 1915 à Argonne</td>
+                <td headers="naissance">24 ans</td>
+                <td headers="corps">70e R.I</td>
+            </tr>
+            <tr>
+                <td headers="nom">BESLAND<br />Jules</td>
+                <td headers="mort">Le 14 mai 1915 à Lorette</td>
+                <td headers="naissance">33 ans</td>
+                <td headers="corps"> </td>
+            </tr>
+            <tr>
+                <td headers="nom">GITTON<br />René</td>
+                <td headers="mort">Le 27 juin 1915 à B. Le Prêtre</td>
+                <td headers="naissance">21 ans</td>
+                <td headers="corps">169e R.I</td>
+            </tr>
+            <tr>
+                <td headers="nom">DIVINIAS<br />Armand</td>
+                <td headers="mort">Le 13 juillet 1915 à Argonne</td>
+                <td headers="naissance">39 ans</td>
+                <td headers="corps">82e R.I</td>
+            </tr>
+            <tr>
+                <td headers="nom">BOURDOIS<br />Alexandre</td>
+                <td headers="mort">Le 22 juillet 1915 à Les Islettes</td>
+                <td headers="naissance">32 ans</td>
+                <td headers="corps">82e R.I</td>
+            </tr>
+            <tr>
+                <td headers="nom">BOURDOISEAU<br />René</td>
+                <td headers="mort">Le 26 juillet 1915 à Argonne</td>
+                <td headers="naissance">33 ans</td>
+                <td headers="corps">82e R.I</td>
+            </tr>
+            <tr>
+                <td headers="nom">BONNET<br />Adolphe</td>
+                <td headers="mort">Le 16 septembre 1915 à <a href="../hopitaux/hopitaux-cvl.php">Montargis (Hopital)</a></td>
+                <td headers="naissance">45 ans</td>
+                <td headers="corps">38e R.A.T</td>
+            </tr>
+            <tr>
                 <td headers="nom"> </td>
                 <td headers="mort"> </td>
+                <td headers="naissance"> </td>
                 <td headers="corps"> </td>
             </tr>
             <tr>
                 <td headers="nom"> </td>
                 <td headers="mort"> </td>
+                <td headers="naissance"> </td>
                 <td headers="corps"> </td>
             </tr>
             <tr>
                 <td headers="nom"> </td>
                 <td headers="mort"> </td>
+                <td headers="naissance"> </td>
                 <td headers="corps"> </td>
             </tr>
             <tr>
                 <td headers="nom"> </td>
                 <td headers="mort"> </td>
+                <td headers="naissance"> </td>
                 <td headers="corps"> </td>
             </tr>
             <tr>
                 <td headers="nom"> </td>
                 <td headers="mort"> </td>
+                <td headers="naissance"> </td>
                 <td headers="corps"> </td>
             </tr>
             <tr>
                 <td headers="nom"> </td>
                 <td headers="mort"> </td>
+                <td headers="naissance"> </td>
                 <td headers="corps"> </td>
             </tr>
             <tr>
                 <td headers="nom"> </td>
                 <td headers="mort"> </td>
+                <td headers="naissance"> </td>
                 <td headers="corps"> </td>
             </tr>
             <tr>
                 <td headers="nom"> </td>
                 <td headers="mort"> </td>
+                <td headers="naissance"> </td>
+                <td headers="corps"> </td>
+            </tr>
+            <tr>
+                <td headers="nom"> </td>
+                <td headers="mort"> </td>
+                <td headers="naissance"> </td>
+                <td headers="corps"> </td>
+            </tr>
+            <tr>
+                <td headers="nom"> </td>
+                <td headers="mort"> </td>
+                <td headers="naissance"> </td>
+                <td headers="corps"> </td>
+            </tr>
+            <tr>
+                <td headers="nom"> </td>
+                <td headers="mort"> </td>
+                <td headers="naissance"> </td>
+                <td headers="corps"> </td>
+            </tr>
+            <tr>
+                <td headers="nom"> </td>
+                <td headers="mort"> </td>
+                <td headers="naissance"> </td>
+                <td headers="corps"> </td>
+            </tr>
+            <tr>
+                <td headers="nom"> </td>
+                <td headers="mort"> </td>
+                <td headers="naissance"> </td>
+                <td headers="corps"> </td>
+            </tr>
+            <tr>
+                <td headers="nom"> </td>
+                <td headers="mort"> </td>
+                <td headers="naissance"> </td>
                 <td headers="corps"> </td>
             </tr>
         </table>    

@@ -157,7 +157,7 @@
 
         <figure>
             <a href="images/Darmstadt/darmstadt-02.jpg" data-fancybox="gallery"  title="Le camp de Darmstadt">
-            <img src="miniatures/Darmstadt/darmstadt-02.jpg" alt="L'arrivée du courrier au camp de Darmstadt'"></a>
+            <img src="miniatures/Darmstadt/darmstadt-02.jpg" alt="L'arrivée du courrier au camp de Darmstadt"></a>
             <figcaption>L'arrivée du courrier (vers 1915)<br/>(source allemande)</figcaption>
         </figure>
 

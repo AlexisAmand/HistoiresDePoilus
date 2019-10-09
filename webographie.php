@@ -161,10 +161,10 @@
         <h2>Ouvrages sur la Grande Guerre</h2>
 
         <ul>
-            <li><a href="pdf/hanotaux-tome 03.pdf" title=" ">Histoire illustrée de la guerre de 1914 (tome 3)</a><br/>(Gabriel Hanotaux de l'Académie Française, 1916)</li>
-            <li><a href="pdf/Maubeuge-1914-Duvivier.pdf" title=" ">Maubeuge 1914</a><br/>(Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
-            <li><a href="pdf/labatailledelamarnes-01-hanotaux.pdf" title=" ">La Bataille de la Marne (tome 1)</a><br/>(University of Toronto / Gabriel Hanotaux)</li>
-            <li><a href="pdf/souvenirsdelacampagnedelamarne.pdf" title=" ">Souvenirs de la Campagne de la Marne</a><br/>(Brigham Young University / Baron Von Hausen, 1922)</li>
+            <li><a href="pdf/hanotaux-tome 03.pdf" title="Histoire illustrée de la guerre de 1914 par Gabriel Hanoteaux">Histoire illustrée de la guerre de 1914 (tome 3)</a><br/>(Gabriel Hanotaux de l'Académie Française, 1916)</li>
+            <li><a href="pdf/Maubeuge-1914-Duvivier.pdf" title="Document sur le siège de Maubeuge">Maubeuge 1914</a><br/>(Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
+            <li><a href="pdf/labatailledelamarnes-01-hanotaux.pdf" title="La Bataille de la Marne par Gabriel Hanoteaux">La Bataille de la Marne (tome 1)</a><br/>(University of Toronto / Gabriel Hanotaux)</li>
+            <li><a href="pdf/souvenirsdelacampagnedelamarne.pdf" title="Souvenirs de la Campagne de la Marne par le Baron Von Hausen">Souvenirs de la Campagne de la Marne</a><br/>(Brigham Young University / Baron Von Hausen, 1922)</li>
             <li><a href="pdf/recquignies-1914.pdf" title="Petite histoire de Recquignies et Rocq en 1914">Petite histoire de Recquignies et Rocq en 1914</a><br/>(Anonyme)</li>
             <li><a href="https://amzn.to/2vLNtXK" title="La Grande Guerre des français aux éditions Perrin">La Grande Guerre des français, 1914-1918</a><br/>(Editions Perrin / Jean-Baptiste Durosselle, 1994)</li>
             <li>Août 1914, La Bataille de Sarrebourg<br/>(Joseph Elmerich, 1993)</li>
@@ -201,8 +201,8 @@
         <h2>Presse&nbsp; ancienne</h2>
 
         <ul>
-            <li><a href="http://gallica.bnf.fr/ark:/12148/cb32732967q/date" title=" ">Bulletin Religieux de l'Archidiocèse de Rouen</a><br/>(Gallica / Bibliothèque nationale de France)</li>
-            <li><a href="http://gallica.bnf.fr/ark:/12148/cb32826480g/date" title=" ">Nouvelles de France : chronique hebdomadaire de la presse française </a> <br/>(Gallica / Bibliothèque nationale de France)</li>
+            <li><a href="http://gallica.bnf.fr/ark:/12148/cb32732967q/date" title="Bulletin Religieux de l'Archidiocèse de Rouen">Bulletin Religieux de l'Archidiocèse de Rouen</a><br/>(Gallica / Bibliothèque nationale de France)</li>
+            <li><a href="http://gallica.bnf.fr/ark:/12148/cb32826480g/date" title="Nouvelles de France : chronique hebdomadaire de la presse française">Nouvelles de France : chronique hebdomadaire de la presse française </a> <br/>(Gallica / Bibliothèque nationale de France)</li>
         </ul>
 
         <br/><br/>
@@ -226,10 +226,10 @@
         <h2>Documents officiels</h2>
 
         <ul>
-            <li><a href="pdf/jorf-03-07-1930.pdf" title=" ">Journal Officiel de la République française n°156 du 3 juillet 1930</a><br/>(Gallica / Bibliothèque nationale de France)<br/>Attention, le document fait presque 78 Mo, il peut mettre du temps à se télécharger...</li>
-            <li><a href="pdf/constitution-belge.pdf" title=" ">La constitution de la Belgique</a><br/>(Service juridique de la Chambre des représentants)</li>
-            <li><a href="pdf/guide_methodo_lasesouvient_web.pdf" title=" ">Combattants de la Grande Guerre</a><br/>(Guide méthodologique de recherche aux Archives départementales)</li>
-            <li><a href="pdf/rapports-gvt-espagnol.pdf" title=" ">Rapports des délégués du gouvernement espagnol sur leurs visites dans les camps de prisonniers français en Allemagne 1914-1917.</a></li>
+            <li><a href="pdf/jorf-03-07-1930.pdf" title="JO n°156 du 3 juillet 1930">Journal Officiel de la République française n°156 du 3 juillet 1930</a><br/>(Gallica / Bibliothèque nationale de France)<br/>Attention, le document fait presque 78 Mo, il peut mettre du temps à se télécharger...</li>
+            <li><a href="pdf/constitution-belge.pdf" title="La constitution de la Belgique">La constitution de la Belgique</a><br/>(Service juridique de la Chambre des représentants)</li>
+            <li><a href="pdf/guide_methodo_lasesouvient_web.pdf" title="Les combattants de la Grande Guerre">Combattants de la Grande Guerre</a><br/>(Guide méthodologique de recherche aux Archives départementales)</li>
+            <li><a href="pdf/rapports-gvt-espagnol.pdf" title="Rapports des délégués du gouvernement espagnol sur leurs visites dans les camps de prisonniers français en Allemagne 1914-1917">Rapports des délégués du gouvernement espagnol sur leurs visites dans les camps de prisonniers français en Allemagne 1914-1917.</a></li>
             <li><a href="pdf/convention-1907.pdf" title="texte de la Convention de la Haye de 1907">Convention de La Haye, 18 octobre 1907</a></li>
         </ul>
 
@@ -284,7 +284,7 @@
             <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="Mémoire des hommes">Mémoire des Hommes</a> (Ministère de la Défense)</li>
             <li><a href="http://www.memorial-genweb.org/~memorial2/" title="Portail MémorialGenweb">Mémorial-GenWeb</a></li>
             <li><a href="http://grandeguerre.icrc.org/fr" title="Comité international de la Croix-Rouge">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
-            <li><a href="http://prisonniers-de-guerre-1914-1918.chez-alice.fr/lestroupes.htm" title=" ">Prisonniers de guerre 14-18</a></li>
+            <li><a href="http://prisonniers-de-guerre-1914-1918.chez-alice.fr/lestroupes.htm" title="Les prisonniers de la Grande Guerre">Prisonniers de guerre 14-18</a></li>
             <li><a href="http://www.association14-18.org/index.htm" title="Association Nationale 1914-1918, A la découverte des sites de la Grande Guerre">Association 14-18</a></li>
             <li><a href="http://monumentsmorts.univ-lille3.fr/" title="Les monuments aux morts de France et Belgique">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
         </ul>

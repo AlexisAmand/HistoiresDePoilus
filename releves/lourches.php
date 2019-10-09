@@ -62,7 +62,7 @@
        	<li class="asideheader">Côte-d'Or</li>
         	<li><a href="daix.php">Daix</a></li>  
         <li class="asideheader">Loiret</li>
-        	<li><a href="dammerie-sur-loing.php">Dammarie-sur-Loing</a></li>   
+        	<li><a href="dammarie-sur-loing.php">Dammarie-sur-Loing</a></li>   
     	<li class="asideheader">Marne</li>
 	        <li><a href="betheniville.php">Bétheniville</a></li>
 	        <li><a href="isles-sur-suippes.php">Isles-sur-Suippes</a></li>
@@ -213,7 +213,7 @@
             <tr>
                 <td headers="nom">BERNARD<br/>Julien</td>
                 <td headers="naissance">Le 9 septembre 1891<br/>à Viesly (Nord)</td>
-                <td headers="mort">Le 24 novembre 1918<br/>à <a href="../camps/camp-schneidemuhl.php">Schneidemühl (Allemagne)</a></td>
+                <td headers="mort">Le 24 novembre 1918<br/>à <a href="../camps/camp-schneidemuhl.php" title="le camp de Schneidemühl">Schneidemühl (Allemagne)</a></td>
                 <td headers="grade">soldat</td>
                 <td headers="corps">45e R.I</td>
                 <td headers="genre">décédé en captivité de maladie</td>
@@ -435,7 +435,7 @@
                 <td headers="genre"><strong>victime civile</strong></td>
             </tr>
             <tr>
-                <td headers="nom"><a href="../poilus/CARIN-Edouard.php">CARIN<br/>Edouard</a></td>
+                <td headers="nom"><a href="../poilus/CARIN-Edouard.php" title="biographie du poilu Edouard CARIN">CARIN<br/>Edouard</a></td>
                 <td headers="naissance">4 août 1884 à<br/>Lourches (Nord)</td>
                 <td headers="mort">19 mars 1916 à<br/>Bras (Meuse)</td>
                 <td headers="grade">soldat</td>
@@ -733,7 +733,7 @@
             <tr>
                 <td headers="nom">DOUCHEMENT<br />Alfred</td>
                 <td headers="naissance">18 septembre 1884<br />à Lourches</td>
-                <td headers="mort">10 décembre 1918<br />à <a href="../camps/camp-meschede.php" title=" ">Meschede (Allemagne)</a></td>
+                <td headers="mort">10 décembre 1918<br />à <a href="../camps/camp-meschede.php" title="Le camp de prisonniers de Meschede">Meschede (Allemagne)</a></td>
                 <td headers="grade">soldat</td>
                 <td headers="corps">327e R.I</td>
                 <td headers="genre"> </td>
@@ -765,7 +765,7 @@
             <tr>
                 <td headers="nom">DULIEUX<br />Angèle</td>
                 <td headers="naissance">21 aout 1880<br />Bauvin (Nord)</td>
-                <td headers="mort">31 janvier 1915<br /><a href="..camps/camp-giessen.php" title=" ">Giessen (Allemagne)</a></td>
+                <td headers="mort">31 janvier 1915<br /><a href="../camps/camp-giessen.php" title="Le camp de prisonniers de Giessen">Giessen (Allemagne)</a></td>
                 <td headers="grade">soldat</td>
                 <td headers="corps">9e B.C.P</td>
                 <td headers="genre"> </td>

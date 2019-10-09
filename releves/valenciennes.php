@@ -62,7 +62,7 @@
        	<li class="asideheader">Côte-d'Or</li>
         	<li><a href="daix.php">Daix</a></li>   
         <li class="asideheader">Loiret</li>
-        	<li><a href="dammerie-sur-loing.php">Dammarie-sur-Loing</a></li>  
+        	<li><a href="dammarie-sur-loing.php">Dammarie-sur-Loing</a></li>  
     	<li class="asideheader">Marne</li>
 	        <li><a href="betheniville.php">Bétheniville</a></li>
 	        <li><a href="isles-sur-suippes.php">Isles-sur-Suippes</a></li>
@@ -177,13 +177,13 @@
 
     <figure>
         <a href="images/inconnu-01.jpg" data-fancybox="gallery" data-caption="Tombe d'un soldat mort pour la France">
-        <img src="images/mini/inconnu-01.jpg" alt="Tombe d'un soldat mort pour la France"/></a>
+        <img src="images/mini/inconnu-01.jpg" alt="Tombe d'un soldat mort pour la France située à Valenciennes"/></a>
         <figcaption>Tombe non identifiée n°1<br/>cimetière Saint-Roch (Valenciennes)</figcaption>
     </figure>
 
     <figure>
-        <a href="images/inconnu-02.jpg" data-fancybox="gallery" data-caption=" ">
-        <img src="images/mini/inconnu-02.jpg" alt=" "/></a>
+        <a href="images/inconnu-02.jpg" data-fancybox="gallery" data-caption="Tombe d'un soldat mort pour la France">
+        <img src="images/mini/inconnu-02.jpg" alt="Tombe d'un soldat mort pour la France située à Valenciennes"/></a>
         <figcaption>Tombe non identifiée n°1<br/>cimetière Saint-Roch (Valenciennes)</figcaption>
     </figure>
 

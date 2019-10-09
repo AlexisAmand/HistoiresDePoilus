@@ -88,6 +88,34 @@
 		
 		<h1>Centre-Val de Loire</h1>
 		
+		<h2>Les hôpitaux de Montargis</h2>
+		
+		<p>L'hopital auxiliaire n°208 semble avoir été situé dans les locaux de l'école des Filles, Rue Gambetta. Il était géré par l'Association des Dames Françaises.</p>
+		
+		<figure>
+			<a href="images/hopital-montargis-208.jpg" data-fancybox="gallery" data-caption="L'hopital auxiliaire n°208 de Montargis">
+			<img src="miniatures/hopital-montargis-208.jpg" alt="L'hopital auxiliaire n°208 situé à l'école des filles de Montargis"></a>
+			<figcaption>L'hopital auxiliaire n°208<br/>(source : Delcampe)</figcaption>
+		</figure>
+		
+		<figure>
+			<a href="images/hopital-montargis-01.jpg" data-fancybox="gallery" data-caption="L'hopital temporaire n°28 de Montargis">
+			<img src="miniatures/hopital-montargis-01.jpg" alt="L'hopital temporaire n°28 situé à l'école communale des garçons de Montargis"></a>
+			<figcaption>L'hopital temporaire n°28<br/>(source : Delcampe)</figcaption>
+		</figure>
+		
+		<figure>
+			<a href="images/hopital-montargis-02.jpg" data-fancybox="gallery" data-caption="L'hopital temporaire n°22 de Montargis">
+			<img src="miniatures/hopital-montargis-02.jpg" alt="L'hopital temporaire n°22 situé au collège des garçons de Montargis"></a>
+			<figcaption>L'hopital temporaire n°22<br/>(source : Delcampe)</figcaption>
+		</figure>
+		
+		<figure>
+			<a href="images/hopital-montargis-03.jpg" data-fancybox="gallery" data-caption="L'hopital temporaire n°2 de Montargis">
+			<img src="miniatures/hopital-montargis-03.jpg" alt="L'hopital n°2 situé au château de Montargis"></a>
+			<figcaption>L'hopital n°2<br/>(source : Delcampe)</figcaption>
+		</figure>
+		
 		<p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 		
 		</article>

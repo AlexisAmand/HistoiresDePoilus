@@ -66,7 +66,7 @@
        	<li class="asideheader">Côte-d'Or</li>
         	<li><a href="daix.php" class="AsideSelected">Daix</a></li>     
         <li class="asideheader">Loiret</li>
-        	<li><a href="dammerie-sur-loing.php">Dammarie-sur-Loing</a></li>
+        	<li><a href="dammarie-sur-loing.php">Dammarie-sur-Loing</a></li>
     	<li class="asideheader">Marne</li>
 	        <li><a href="betheniville.php">Bétheniville</a></li>
 	        <li><a href="isles-sur-suippes.php">Isles-sur-Suippes</a></li>

@@ -99,9 +99,9 @@
 		<p>L'Hôpital du gouvernement italien pour les blessés de Guerre Français (également appelé Hôpital de L'ambassade d'Italie) était situé au 41 quai d'Orsay à Paris. C'était un des hôpitaux complémentaires de l'hôpital militaire du Val-de-Grâce et également un des rares hôpitaux complémentaires à disposer de la radiologie.</p>
 		
 		<figure>
-			<a href="images/val-de-grace-19.jpg" data-fancybox="gallery" data-caption=" ">
-			<img src="miniatures/val-de-grace-19.jpg" alt=" "></a>
-			<figcaption>un des... (source: Clio Team)</figcaption>
+			<a href="images/val-de-grace-19.jpg" data-fancybox="gallery" data-caption="L'annexe du Val-de-Grâce à Paris">
+			<img src="miniatures/val-de-grace-19.jpg" alt="L'annexe du Val-de-Grâce à Paris, hôpital pendant la Première Guerre Mondiale"></a>
+			<figcaption>Annexe du Val-de-Grâce n°16 (source: Clio Team)</figcaption>
 		</figure>
 		
 		<figure>

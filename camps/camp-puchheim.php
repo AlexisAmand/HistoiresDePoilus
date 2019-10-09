@@ -133,8 +133,8 @@
 		Le camp ne fut pas dissous avant le rapatriement des derniers prisonniers en 1920.</p>
 
 		<figure>
-            <a href="images/Puchheim/camp-puchheim-01.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="miniatures/Puchheim/camp-puchheim-01.jpg" alt=" "></a>
+            <a href="images/Puchheim/camp-puchheim-01.jpg" data-fancybox="gallery" data-caption="Une partie de football au camp de Puchheim">
+            <img src="miniatures/Puchheim/camp-puchheim-01.jpg" alt="Une partie de football au camp de prisonniers de Puchheim pendant la Grande Guerre"></a>
             <figcaption>Une partie de football au camp de Puchheim<br/>(source: Clio Team)</figcaption>
         </figure>
 
