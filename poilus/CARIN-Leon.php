@@ -69,7 +69,9 @@
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
+        <li><a href="carin-alfred.php">CARIN Alfred</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
+        <li><a href="carin-jean-baptiste.php">CARIN Jean Baptiste</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php" class="AsideSelected">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
@@ -119,7 +121,7 @@
 
         <h1>Léon CARIN</h1>
 
-        <p>Léon CARIN est né à Lourches (Nord) le 28 juillet 1896, fils légitime de François Louis CARIN et de Pauline DUSSART. Il a pour frère <a href="CARIN-Edouard.php">Edouard</a> et <a href="CARIN-Theophile.php">Théophile.</a> En 1906, Léon vit Rue de Beauvois à Lourches, avec ses parents et ses frères et sœurs.</p>
+        <p>Léon CARIN est né à Lourches (Nord) le 28 juillet 1896, fils légitime de François Louis CARIN et de Pauline DUSSART. En 1906, Léon vit Rue de Beauvois à Lourches, avec ses parents et ses frères et sœurs.</p>
 
         <figure>
             <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="La famille CARIN">
@@ -171,6 +173,8 @@
             <img src="sources/CARIN-leon-mpf.JPG" height="450px" alt="Fiche de Mort pour la France de Léon CARIN"/></a>
             <figcaption>Léon, mort pour la France.</figcaption>
         </figure>
+        
+        <p>Pour info, Léon a plusieurs fréres et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="carin-joseph.php" title="Biographie du soldat Joseph CARIN">Joseph</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
 
         <h2>Sources et bibliographie</h2>
 

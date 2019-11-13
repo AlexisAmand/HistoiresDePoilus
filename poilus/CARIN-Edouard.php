@@ -69,7 +69,9 @@
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
+        <li><a href="carin-alfred.php">CARIN Alfred</a></li>
         <li><a href="CARIN-Edouard.php" class="AsideSelected">CARIN Édouard (+)</a></li>
+        <li><a href="carin-jean-baptiste.php">CARIN Jean Baptiste</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
@@ -133,7 +135,7 @@
             <figcaption>Acte de naissance d'Edouard.<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
         </figure>
 
-        <p>Je possède très peu de renseignements sur lui, car sa fiche matricule n'est pas disponible aux Archives Départementales. Ma seule piste pour l'instant ? Une fiche du site "Mémoire des Hommes" qui indique qu'il faisait partie du 162e Régiment d'Infanterie et qu'il est mort des suites de ses blessures le 19 mars 1916 à Bras dans la Meuse alors que le 162e RI est en train de défendre la rive droite, entre Bras et Louvemont, depuis le 10.</p>
+        <p>Je possède très peu de renseignements sur lui, car sa fiche matricule n'est pas disponible aux Archives Départementales. Ma seule piste pour l'instant ? Une fiche du site "Mémoire des Hommes" qui indique qu'il faisait partie du 162e Régiment d'Infanterie et qu'il est mort des suites de ses blessures le 19 mars 1916 à Bras dans la Meuse alors que le 162e RI est en train de défendre la rive droite, entre Bras et Louvemont, depuis le 10. La retranscription de son acte de décès nous donne toutefois un peu plus de précisions puisqu'elle nous apprend qu'il est décédé sur la côte de Froidette, commune de Bras (dans la Meuse) par suite de ses blessures de guerres et qu'il faisait partie de la 8e compagnie du 165e Régiment d'Infanterie.</p>
 
         <figure>
             <a href="images/bras-sur-meuse.jpg" data-fancybox="gallery" data-caption="Les ruines du village de Bras-sur-Meuse">
@@ -147,7 +149,7 @@
             <figcaption>Edouard dans le livre d'or des morts pour la France<br/>(cliquez pour agrandir - source: Archives Nationales)</figcaption>
         </figure>
 
-        <p>Son nom figure sur le Monument aux Morts de Roeulx (Nord) où il vivait avant la Première Guerre Mondiale. Pour info, Édouard et Théophile ont 2 autres frères, <a href="CARIN-Leon.php">Léon</a> et Alfred, qui ont également combattu pour la France pendant la Grande Guerre.</p>
+        <p>Son nom figure sur le Monument aux Morts de Roeulx (Nord) où il vivait avant la Première Guerre Mondiale. Pour info, Édouard a plusieurs fréres et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="carin-joseph.php" title="Biographie du soldat Joseph CARIN">Joseph</a>, <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
 
         <figure>
             <a href="sources/CARIN-edouard-mpf.JPG"  data-fancybox="gallery" data-caption="Edouard CARIN, mort pour la France">

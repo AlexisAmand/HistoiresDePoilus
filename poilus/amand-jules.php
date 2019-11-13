@@ -90,8 +90,8 @@
 
         <figure>
             <a href="images/arbre-amand.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de Jules AMAND">
-            <img src="miniatures/arbre-amand.png" alt="Arbre généalogique simplifié de Jules AMAND" class="ArbreGenealogique"></a>
-            <figcaption>Arbre généalogiqe simplifié de Jules AMAND<br/>(Source: Recherches personnelles)</figcaption>
+            <img src="miniatures/arbre-amand.png" alt="Arbre généalogique simplifié de Jules AMAND" class="ArbreGenealogique" style="width:470px"></a>
+            <figcaption>Arbre généalogique simplifié de Jules AMAND<br/>(Source: Recherches personnelles)</figcaption>
         </figure>
 
         <p>Pendant la Grande Guerre, Antoine est soldat de 2e classe et milicien au sein du 9e Régiment de Ligne sous le matricule 109/54524. Antoinette AMAND, sa mère, est fixée sur le sort de son fils seulement 6 ans après la fin de la guerre, quand son livret de mobilisation est retrouvé sur le champ de bataille d’Ougrée, à côté de Liège. Antoine serait tombé au combat le 6 août 1914, à l’âge de 25 ans. D’après ce que j’ai pu comprendre sur les documents du site <a href="https://www.wardeadregister.be/fr" title="Belgian War Dead Register">Dead War Register</a>, son corps aurait été retrouvé dans la fosse commune du Gros Hêtre. il est probable qu'il soit tombé au combat le 6 août 1914 étant entendu que son livret de mobilisation a été retrouvé sur le champ de bataille de la commune d'Ougrée.</p>  

@@ -69,7 +69,9 @@
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
+        <li><a href="carin-alfred.php">CARIN Alfred</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
+        <li><a href="carin-jean-baptiste.php">CARIN Jean Baptiste</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
@@ -118,6 +120,20 @@
         <article>
 
         <h1>Hoche Gaston AMAND</h1>
+                
+        <figure>
+            <a href="images/prise-de-tahure.jpg" data-fancybox="gallery" data-caption=" ">
+            <img src="miniatures/prise-de-tahure.jpg" alt=" "/></a>
+            <figcaption>La prise de Tahure<br />illustration par Léon Groc pour la collection Patrie<br/>(Source: Wikipedia Commons)</figcaption>
+        </figure>
+
+		<figure>
+            <a href="sources/matricule-gaston-amand.jpg" data-fancybox="gallery" data-caption=" ">
+            <img src="miniatures/matricule-gaston-amand.jpg" alt=" "/></a>
+            <figcaption>Ses domiciles sur sa fiche matricule<br/>(Source: Archives Départementales du Nord)</figcaption>
+        </figure>
+        
+        
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 

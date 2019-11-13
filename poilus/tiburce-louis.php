@@ -69,7 +69,9 @@
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
+        <li><a href="carin-alfred.php">CARIN Alfred</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
+        <li><a href="carin-jean-baptiste.php">CARIN Jean Baptiste</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
@@ -119,7 +121,34 @@
 
         <h1>Louis TIBURCE</h1>
 
-		<p>Cette page sera très bientôt disponible.</p>
+		<figure>
+            <a href="images/marly01.jpg" data-fancybox="gallery" data-caption="La rue du Quesnoy à Marly">
+            <img src="miniatures/marly01.jpg" alt="La rue du Quesnoy à Marly sur une carte postale ancienne"/></a>
+            <figcaption>La Rue du Quesnoy, à Marly<br/>(Source: Delcampe)</figcaption>
+        </figure>
+        
+        <figure>
+            <a href="images/blancmisseron01.jpg" data-fancybox="gallery" data-caption="La gare de Blanc-Misseron" >
+            <img src="miniatures/blancmisseron01.jpg" alt="La carte de Blanc-Misseron sur une carte postale ancienne"/></a>
+            <figcaption>La gare de Blanc-Misseron<br/>(Source: Delcampe)</figcaption>
+        </figure>
+        
+        <figure>
+            <a href="images/douanier-1916.jpg" data-fancybox="gallery" data-caption="Un douanier mobilisé en 1916">
+            <img src="miniatures/douanier-1916.jpg" alt="dessin d'un douanier mobilisé en 1916"/></a>
+            <figcaption>Un douanier mobilisé en 1916<br/>(Source: histoire-de-la-douane.org)</figcaption>
+        </figure>
+        
+        <h2>Sources et bibliographie</h2>
+        
+        <ul>
+            <li><a href="https://histoire-de-la-douane.org/historique-des-bataillons-douaniers-1914-1918/" title="Historique des bataillons de douaniers en 1914 et 1918">
+            Historique des bataillons douaniers 1914-1918</a></li>
+            <li><a href="http://books.openedition.org/igpde/4474?lang=fr" title="L'administration des douanes en France entre 1914 et 1940">
+            L'administration des douanes en France de 1914 à 1940</a><br/>(Par Jean Clinquart)</li>
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">
+            Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>       
+        </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         

@@ -69,7 +69,9 @@
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
+        <li><a href="carin-alfred.php">CARIN Alfred</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
+        <li><a href="carin-jean-baptiste.php">CARIN Jean Baptiste</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php" class="AsideSelected">CARIN Théophile</a></li>
@@ -224,11 +226,14 @@
         <h2>L'après guerre de Théophile</h2>
 
         <p>Quelques années après la guerre, le 15 mars 1923, <strong>Théophile</strong> et Zélia divorcent. Il part vivre à Roeulx, rue Arthur Lamendin, puis est libéré du service militaire le 28 novembre 1928.</p>
+        
+        <p>Pour info, Théophile a plusieurs fréres et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="carin-joseph.php" title="Biographie du soldat Joseph CARIN">Joseph</a> et <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
 
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>       
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">
+            Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>       
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

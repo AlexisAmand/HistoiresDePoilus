@@ -176,6 +176,15 @@
         </ul>
 
         <br/><br/>
+        
+        <h2>Les douanes et les douaniers</h2>
+
+        <ul>
+            <li><a href="http://histoire-de-la-douane.org" title="Site de l'Association pour l’Histoire de l’Administration des Douanes">Histoire de la douane</a><br />(Association pour l’Histoire de l’Administration des Douanes)</li>
+            <li><a href="http://books.openedition.org/igpde/4474?lang=fr" title=" ">L'Administration des douanes en France de 1914 à 1940</a><br/>(Par Jean Clinquart)</li>
+        </ul>
+
+        <br/><br/>
 
         <h2>Revues sur la Grande Guerre</h2>
 

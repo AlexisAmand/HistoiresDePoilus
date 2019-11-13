@@ -88,10 +88,39 @@
 		
 		<h1>Les hôpitaux pendant la Grande Guerre</h1>
 		
-		<h2>Zone de l'intérieur</h2>
+		<p>Pour que la compréhension du système de santé pendant la Grande Guerre soit plus simple à comprendre, je vous ai préparé un petit schéma explicatif. Bien sûr, je ne suis qu'un simple amateur qui n'est pas à l'abris d'une erreur. aussi, n'hésitez pas à me contacter si vous avez une remarque ou une correction à apporter.</p>
 		
+		<p  style="text-align:center;"><a href="docs/evacuation.pdf" title="Organisation du système de santé pendant la Première Guerre Mondiale">
+		Organisation du système de santé pendant la Première Guerre Mondiale (pdf)</a></p>
+				
 		<table style="width:70%">
 			<thead>
+			<tr>
+				<th colspan="2"><b>Titre</b></th>
+			</tr>
+			<tr>
+				<th style="width:50%;"><b>sous titre 1</b></th>
+				<th style="width:50%;"><b>sous titre 2</b></th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr>
+				<td>case 1</td>
+				<td>case 2</td>
+			</tr>
+			<tr>
+				<td>case 3</td>
+				<td>case 4</td>
+			</tr>		
+			</tbody>
+		</table>		
+				
+				
+		<table style="width:70%">
+			<thead>
+			<tr>
+				<th colspan="2">Zone de l'intérieur</th>
+			</tr>
 			<tr>
 				<th style="width:50%">Les hôpitaux permanents</th>
 				<th style="width:50%">Les hôpitaux temporaires</th>
@@ -120,9 +149,7 @@
 			</tr>	
 			</tbody>
 		</table>
-		
-		<h2>Zone des armées</h2>
-		
+				
 		<p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 		
 		</article>

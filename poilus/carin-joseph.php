@@ -69,10 +69,12 @@
 		<li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
 		<li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
 		<li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
-		<li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
-		<li><a href="carin-joseph.php" class="AsideSelected">CARIN Joseph</a></li>
-		<li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
-		<li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
+		<li><a href="carin-alfred.php">CARIN Alfred</a></li>
+        <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
+        <li><a href="carin-jean-baptiste.php">CARIN Jean Baptiste</a></li>
+        <li><a href="carin-joseph.php" class="AsideSelected">CARIN Joseph</a></li>
+        <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
+        <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
 		<li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
 		<li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
 		<li><a href="delaux-oscar-julien.php">DELAUX Oscar Julien</a></li>
@@ -157,6 +159,8 @@
 			<li>Prisonnier interné à Rastadt</li>
 			<li>Rapatrié le 13 janvier 1919</li>
 		</ul>
+		
+		<p>Pour info, Joseph a plusieurs fréres et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
 
 		<h2>Sources et bibliographie</h2>
 

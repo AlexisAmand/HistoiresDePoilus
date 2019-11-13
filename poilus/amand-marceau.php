@@ -69,7 +69,9 @@
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
+        <li><a href="carin-alfred.php">CARIN Alfred</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
+        <li><a href="carin-jean-baptiste.php">CARIN Jean Baptiste</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
@@ -137,10 +139,14 @@
             <figcaption>Un hussard en uniforme vers 1914<br/>(Source: Delcampe)</figcaption>
         </figure>
         
+        <figure>
+            <a href="sources/matricule-marceau-amand.jpg" data-fancybox="gallery" data-caption=" ">
+            <img src="miniatures/matricule-marceau-amand.jpg" alt=" "/></a>
+            <figcaption>Ses domiciles sur sa fiche matricule<br/>(Source: Archives Départementales de la Seine-Saint-Denis)</figcaption>
+        </figure>
+              
         <p>Selon la mention en marge de son acte de naissance, il est décédé à Beaucaire, sur la rive du Rhône, à côté de Nîmes, le 5 avril 1969. Il repose au cimetière de Neuville-sur-Escaut en compagnie de Kleber AMAND (1902-1987), Celestine OCCULISSE (1874-1957), Amélie POTIER (1907-1989) et Denis POTIER (1869-1943).</p>
-        
-        
-       	
+             	
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 
         </article>

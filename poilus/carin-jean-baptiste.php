@@ -5,8 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>Biographie et parcours du soldat Oscar Julien DELAUX - Histoires de Poilus</title>
-        <meta content="Parcours et biographie du poilu Oscar Julien DELAUX, soldat pendant la Première Guerre Mondiale" name="description"/>
+        <title>Biographie et parcours du soldat CARIN Jean Baptiste - Histoires de Poilus</title>
+        <meta content="Parcours de Jean Baptiste CARIN, soldat pendant la Première Guerre Mondiale" name="description">
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -23,7 +23,7 @@
 
     <script src="../js/cookiechoices.js"></script>
     <script>
-    document.addEventListener('DOMContentLoaded', function(event) {
+    document.addEventListener('DOMContentLoaded', function (event) {
     cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
     'Ok', 'En savoir plus', '../cookies.php');
     });
@@ -71,13 +71,13 @@
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="carin-alfred.php">CARIN Alfred</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
-        <li><a href="carin-jean-baptiste.php">CARIN Jean Baptiste</a></li>
+        <li><a href="carin-jean-baptiste.php" class="AsideSelected">CARIN Jean Baptiste</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
         <li><a href="CARIN-Leon.php">CARIN Léon (+)</a></li>
         <li><a href="CARIN-Theophile.php">CARIN Théophile</a></li>
         <li><a href="CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
         <li><a href="CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
-        <li><a href="delaux-oscar-julien.php" class="AsideSelected">DELAUX Oscar Julien</a></li>
+        <li><a href="delaux-oscar-julien.php">DELAUX Oscar Julien</a></li>
         <li><a href="DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond (+)</a></li>
         <li><a href="dubois-jean-charles.php">DUBOIS Jean Charles (+)</a></li>
         <li><a href="FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
@@ -111,7 +111,7 @@
         data-ad-client="ca-pub-1550427609493753"
         data-ad-slot="8236218848"></ins>
         <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
+        adsbygoogle = window.adsbygoogle || []).push({});
         </script>
     </div>
 
@@ -119,62 +119,20 @@
 
         <article>
 
-        <h1>Oscar Julien DELAUX</h1>
+        <h1>Jean Baptiste CARIN</h1>
 
-        <p><strong>Oscar Julien DELAUX</strong> est né à Roubaix le 13 novembre 1894, fils légitime d'Adolphe DELAUX et Joséphine RICHOMME (mes aïeux). Incorporé le 28 août 1914. Il passe successivement par le 165e Régiment d'Infanterie (le 29 août 1914) puis par le 33e Bataillon de Marche (le 2 février 1915).</p>
-
-        <p>le 21 mars 1915, Oscar rejoint le 53e Régiment d'Infanterie.</p> 
-
-        <p>Il est cité à l'ordre général n°38 du 30 octobre 1915 pendant son "séjour" au sein du 53e Régiment d'Infanterie.</p>
-
-        <figure>
-            <a href="images/carte-oscar-delaux.png" data-fancybox="gallery" data-caption="Carte d'ancien combattant d'Oscar DELAUX">
-            <img src="miniatures/carte-oscar-delaux.png" alt="Carte du combattant d'Oscar DELAUX"/></a>
-            <figcaption>Carte du combattant d'Oscar DELAUX<br/>(Source: Archives Départementales du Nord)</figcaption>
-        </figure>
-
-        <table class="census">
-        <caption>Liste des domiciles d'Oscar</caption>
-            <thead>
-            <tr>
-                <th id="date">Dates</th>
-                <th id="adresse">Adresses</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-                <td headers="date">1906</td>
-                <td headers="adresse">Rue Desaix<br/>à Roubaix (Nord)</td>
-            </tr>
-            <tr>
-                <td headers="date">1 avril 1921</td>
-                <td headers="adresse">32 rue du Halage<br/>à Anzin (Nord)</td>
-            </tr>
-            <tr>
-                <td headers="date">23 décembre 1921</td>
-                <td headers="adresse">32 rue du Halage<br/>à Anzin (Nord)</td>
-            </tr>
-            <tr>
-                <td headers="date">12 novembre 1929</td>
-                <td headers="adresse">rue du Marché<br/>à Lille (Nord)</td>
-            </tr>
-            <tr>
-                <td headers="date">5 avril 1935</td>
-                <td headers="adresse">34 rue Aristote<br/>à Lille (Nord)</td>
-            </tr>
-            </tbody>   
-        </table>
-
-        <h2>Sources et bibliographie</h2>
+		<p>Pour info, Jean Baptiste a plusieurs fréres et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-joseph.php" title="Biographie du soldat Joseph CARIN">Joseph</a>, <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
+		
+		<h2>Sources et bibliographie</h2>
 
         <ul>
-            <li>Fiche matricule (Archives Départementales du Nord)</li>
-            <li>Carte du combattant (Archives Départementales du Nord)</li>
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">
+            Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>       
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 
-    </article>
+        </article>
 
     </section>
 
