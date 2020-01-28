@@ -121,23 +121,90 @@
 
         <h1>Louis TIBURCE</h1>
 
+        <p>L'acte de naissance de Louis Henri François TIBURCE nous apprend qu'il voit le jour le 25 aout 1889 à Marly, au domicile de ses parents situé sur du Quesnoy. Déclaré dès le lendemain, il est le fils légitime de Louis Victoir et Marie Augustine DUSIN. Le 23 octobre 1920, il devient le 2e époux de Berthe DUSART, la cousine d'Henri Gustave FONTAINE (mon arrière-grand-père) et la veuve d'Augustin HANZE. Il suit la même carrière que son père en devenant commis puis préposé des Douanes.</p>
+
 		<figure>
             <a href="images/marly01.jpg" data-fancybox="gallery" data-caption="La rue du Quesnoy à Marly">
             <img src="miniatures/marly01.jpg" alt="La rue du Quesnoy à Marly sur une carte postale ancienne"/></a>
             <figcaption>La Rue du Quesnoy, à Marly<br>(Source: Archives Municipales de Valenciennes)</figcaption>
         </figure>
-        
+
+        <p>Il commence son service au sein de l'armée le 3 octobre 1910 en étant incorporé au sein du 91e Régiment d'Infanterie q'uil rejoint aussitôt en tant que soldat de 2e classe. Son service militaire se passe dans doute sans encombre car il devient soldat de 1ere classe le 6 octobre 1911 et même caporal le 13 octobre 1911. Il est mis en disponibilité le 25 septembre 1912 puis classsé afffecté spécial des douanes de Valenciennes à la gare de Blanc-Misseron à compté du 24 décembre 191 en tant que préposé des Douanes.</p>
+
         <figure>
             <a href="images/blancmisseron01.jpg" data-fancybox="gallery" data-caption="La gare de Blanc-Misseron" >
             <img src="miniatures/blancmisseron01.jpg" alt="La carte de Blanc-Misseron sur une carte postale ancienne"/></a>
             <figcaption>La gare de Blanc-Misseron<br>(Source: Archives Municipales de Valenciennes)</figcaption>
         </figure>
+
+        <p>Louis est mobilisé le 23 aout 1914 au 2e Bataillon de Douaniers. C'est un bataillon qui était composé de 700 hommes et qui avait été formé à partir des brigades de la partie nord de Valenciennes. Il était composée de 3 compagnies. Surpris par l'arrivé de l'avant garde allemande à Blanc-Misseron, il livre toute une journée de combat durant laquelle une partie des effectifs est faite prisonnière et l'autre parvient à battre en retraite. Ce Bataillon fut donc dissout de facto à la fin du mois d'aout 1914.</p>
         
         <figure>
             <a href="images/douanier-1916.jpg" data-fancybox="gallery" data-caption="Un douanier mobilisé en 1916">
             <img src="miniatures/douanier-1916.jpg" alt="dessin d'un douanier mobilisé en 1916"/></a>
             <figcaption>Un douanier mobilisé en 1916<br>(Source: histoire-de-la-douane.org)</figcaption>
         </figure>
+
+        <p>Louis et une partie de son bataillon parviennent ainsi à rejoindre Dunkerque et passent alors à la 4e Compagnie du Bataillon de Forteresse de Dunkerque à compter du 5 septembre 1914.</p>
+
+        <h2>Les domiciles de Louis</h2>
+
+        <table class="census">
+            <thead>
+            <tr>
+                <th id="date">Dates</th>
+                <th id="adresse">Adresses</th>
+                <th id="source">Sources</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td headers="date">1886</td>
+                <td headers="adresse">Il nait au domicile de ses parents, rue du Quesnoy, à Marly</td>
+                <td headers="source">Acte de naissance</td>
+            </tr>
+            <tr>
+                <td headers="date">1906</td>
+                <td headers="adresse">Il vit avec ses parents, rue du Quesnoy, à Marly</td>
+                <td headers="source">Recensement</td>
+            </tr>
+            <tr>
+                <td headers="date">avant 1920</td>
+                <td headers="adresse">Il habite 4 rue Sevigné à Paris (IVe Arrondissement)</td>
+                <td headers="source">Acte de mariage</td>
+            </tr>
+            <tr>
+                <td headers="date">1920</td>
+                <td headers="adresse">Il habite 49 rue Saint-Jacques à Valenciennes</td>
+                <td headers="source">Acte de mariage</td>
+            </tr>
+            <tr>
+                <td headers="date">fin des années 20</td>
+                <td headers="adresse">Il habite 71 Grand'Rue à Maulde</td>
+                <td headers="source">Dossier d'ancien combattant</td>
+            </tr>
+            <tr>
+                <td headers="date">10 octobre 1930</td>
+                <td headers="adresse">Il quitte Maulde pour aller vivre à Blanc-Misseron</td>
+                <td headers="source">Dossier d'ancien combattant</td>
+            </tr>
+            <tr>
+                <td headers="date">23 octobre 1930</td>
+                <td headers="adresse">Il habite Cité Belotte à Quiévrechain</td>
+                <td headers="source">Fiche matricule</td>
+            </tr>
+            <tr>
+                <td headers="date">1931, 1936 et 1938</td>
+                <td headers="adresse">Il habite 155 rue du Caos, à Quiévrechain</td>
+                <td headers="source">Dossier d'ancien combattant</td>
+            </tr>
+            <tr>
+                <td headers="date">1939</td>
+                <td headers="adresse">Il habite 39 rue des Glacis, à Valenciennes</td>
+                <td headers="source">Dossier d'ancien combattant</td>
+            </tr>
+            </tbody>
+        </table>
         
         <h2>Sources et bibliographie</h2>
         
