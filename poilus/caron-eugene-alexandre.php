@@ -95,7 +95,7 @@
         <figure>
             <a href="images/reims-barbatre.jpg" data-fancybox="gallery" data-caption="la Rue du Barbâtre à Reims">
             <img src="miniatures/reims-barbatre.jpg" alt="la Rue du Barbâtre à Reims sur une carte postale ancienne"/></a>
-            <figcaption>la Rue du Barbâtre<br/>(Source: Delcampe)</figcaption>
+            <figcaption>la Rue du Barbâtre<br>(Source: Archives Municipales de Reims)</figcaption>
         </figure>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

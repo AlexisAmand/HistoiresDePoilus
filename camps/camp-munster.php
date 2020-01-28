@@ -119,7 +119,7 @@
         <figure>
             <a href="images/Munster/localisation-munster.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Munster">
             <img src="miniatures/Munster/localisation-munster.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Munster"></a>
-            <figcaption>Localisation du camp de Munster<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Munster<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure> 
 
         <p>Charles PETIT, membre du 1er Régiment d'Artillerie, a été fait prisonnier à Maubeuge le 7 septembre 1914, et envoyé au camp de Munster. Le 25 juillet 1916, il est évacué vers la Suisse pour tuberculose pulmonaire. Dans un rapport, il raconte que <em>"pendant les premières six semaines, il n'y avait aucune installation pour loger les hommes, ni tentes, ni baraquements. Le nombre des prisonniers était de 24000; pour se mettre à l'abri, ils creusaient des trous dans la terre, en les couvrant tant bien que mal de mottes de gazon. Il n'y avait aucune installation de cuisine au début. La mortalité des prisonniers, à ce moment, était considérable. Les installations de baraquements n'ont été achevées que vers la fin de janvier 1915".</em></p>
@@ -127,19 +127,19 @@
         <figure>
             <a href="images/friedrichsfeld-chapelle.jpg" data-fancybox="gallery" data-caption="Camp de Friedrichsfeld: La chapelle">
             <img src="miniatures/friedrichsfeld-chapelle.jpg" alt="une chapelle dans le camp de prisonniers de Friedrichsfeld"></a>
-        <figcaption>Une chapelle dans un camp de prisonniers<br/>(Peut-être Munster)</figcaption>
+        <figcaption>Une chapelle dans un camp de prisonniers<br>(Peut-être Munster)</figcaption>
         </figure>
 
         <figure>
             <a href="images/munster-01.jpg" data-fancybox="gallery" data-caption="Prisonniers occupés à fendre du bois au Camp de Münster">
             <img src="miniatures/munster-01.jpg" alt="Prisonniers occupés à fendre du bois dans le camp de Münster pendant la Première Guerre Mondiale"></a>
-            <figcaption>Prisonniers occupés à fendre du bois<br/>(source allemande)</figcaption>
+            <figcaption>Prisonniers occupés à fendre du bois<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/munster-06.jpg" data-fancybox="gallery" data-caption="La chapelle catholique à Münster">
             <img src="miniatures/munster-06.jpg" alt="La chapelle catholique du camp de Münster pendant la Grande Guerre (1914-1918)"></a>
-            <figcaption>La chapelle catholique<br/>(source allemande)</figcaption>
+            <figcaption>La chapelle catholique<br>(source allemande)</figcaption>
         </figure>
 
         <h2>Le camp de Munster I (dit camp de l'Haus-Spital)</h2>
@@ -193,43 +193,43 @@
         <figure>
             <a href="images/Munster/munster_01.jpg" data-fancybox="gallery" data-caption="Le cimetière des prisonniers à Münster">
             <img src="miniatures/Munster/munster_01.jpg" alt="Le cimetière des prisonniers du camp de prisonniers de Münster"></a>
-            <figcaption>Vue du cimetière des prisonniers "Hausspital-Friedhof"<br/>(Carte postale)</figcaption>
+            <figcaption>Vue du cimetière des prisonniers "Hausspital-Friedhof"<br>(source : Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="images/munster-04.jpg" data-fancybox="gallery" data-caption="Vue de l'hôpital de Münster I">
             <img src="miniatures/munster-04.jpg" alt="Une vue de l'hôpital du camp de Münster I pendant la Première Guerre Mondiale"></a>
-            <figcaption>Une vue de l'hôpital<br/>(source allemande)</figcaption>
+            <figcaption>Une vue de l'hôpital<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/munster-05.jpg" data-fancybox="gallery" data-caption="La cour de l'hôpital de Münster I">
             <img src="miniatures/munster-05.jpg" alt="La cour de l'hôpital du camp de Münster I pendant la Grande Guerre"></a>
-            <figcaption>La cour de l'hôpital<br/>(source allemande)</figcaption>
+            <figcaption>La cour de l'hôpital<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Munster/munster_02.jpg" data-fancybox="gallery" data-caption="Le block n°1 de Münster I">
             <img src="miniatures/Munster/munster_02.jpg" alt="Vue du block n°1 au camp de Munster I pendant la Première Guerre Mondiale"></a>
-            <figcaption>Vue du block n°1<br/>(Carte postale)</figcaption>
+            <figcaption>Vue du block n°1<br>(source : Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Munster/munster_03.jpg" data-fancybox="gallery" data-caption="Le block n°2 de Münster I">
             <img src="miniatures/Munster/munster_03.jpg" alt="Vue du block n°2 au camp de Munster I pendant la Première Guerre Mondiale"></a>
-            <figcaption>Vue du block n°2<br/>(Carte postale)</figcaption>
+            <figcaption>Vue du block n°2<br>(source : Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Munster/munster_04.jpg" data-fancybox="gallery" data-caption="Le block n°3 de Münster I">
             <img src="miniatures/Munster/munster_04.jpg" alt="Vue du block n°3 au camp de Munster I pendant la Grande Guerre"></a>
-            <figcaption>Vue du block n°3<br/>(Carte postale)</figcaption>
+            <figcaption>Vue du block n°3<br>(source : Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Munster/munster_05.jpg" data-fancybox="gallery" data-caption="Le block n°4 de Münster I">
             <img src="miniatures/Munster/munster_05.jpg" alt="Vue du block n°4 au camp de Munster I pendant la Première Guerre Mondiale"></a>
-            <figcaption>Vue du block n°4<br/>(Carte postale)</figcaption>
+            <figcaption>Vue du block n°4<br>(source : Delcampe)</figcaption>
         </figure>
 
         <h2>Le camp de Münster II (dit camp de Rennbahn)</h2>
@@ -276,7 +276,7 @@
         <figure>
             <a href="images/munster-02.jpg" data-fancybox="gallery" data-caption="Représentation théâtrale à Münster II">
             <img src="miniatures/munster-02.jpg" alt="une représentation théâtrale au camp de Münster II"></a>
-            <figcaption>Une représentation théâtrale<br/>(source allemande)</figcaption> 
+            <figcaption>Une représentation théâtrale<br>(source allemande)</figcaption> 
         </figure>
 
         <figure>
@@ -288,7 +288,7 @@
         <figure>
             <a href="images/Munster/harmonie-rennbhan.jpg" data-fancybox="gallery" data-caption="L'harmonie du camp de Rennbahn">
             <img src="miniatures/Munster/harmonie-rennbhan.jpg" alt="l'harmonie du camp de prisonniers de Rennbahn"></a>
-            <figcaption>L'harmonie du camp de Rennbahn<br/>(Carte postale)</figcaption>
+            <figcaption>L'harmonie du camp de Rennbahn<br>(source : Delcampe)</figcaption>
         </figure>
 
         <h2>Le camp de Münster III (dit camp des Neue-Kasernen)</h2>
@@ -298,19 +298,19 @@
         <figure>
             <a href="images/camps_prisonniers_munster_01.jpg" data-fancybox="gallery" data-caption="Le retour des corvées à Münster III">
             <img src="miniatures/camps_prisonniers_munster_01.jpg" alt="Des soldats de retour des corvées au camp de Münster III"></a>
-            <figcaption>Le retour des corvées<br/>(Carte postale)</figcaption>
+            <figcaption>Le retour des corvées<br>(source : Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="images/camps_prisonniers_munster_02.jpg" data-fancybox="gallery" data-caption="Vue sur le block n°4 à Münster III">
             <img src="miniatures/camps_prisonniers_munster_02.jpg" alt="Vue sur un block du camp de prisonniers de Münster"></a>
-            <figcaption>Vue sur le block n°4<br/>(Carte postale)</figcaption>
+            <figcaption>Vue sur le block n°4<br>(source : Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="images/camps_prisonniers_munster_03.jpg" data-fancybox="gallery" data-caption="Vue sur le block n°3 à Münster III">
             <img src="miniatures/camps_prisonniers_munster_03.jpg" alt="Vue sur un block du camp de prisonniers de Münster"></a>
-            <figcaption>Déménagement au block n°3<br/>(Carte postale)</figcaption>
+            <figcaption>Déménagement au block n°3<br>(source : Delcampe)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

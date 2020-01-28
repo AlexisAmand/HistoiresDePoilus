@@ -121,55 +121,55 @@
             <figure>
                 <a href="images/schneidemuhl-01.jpg" data-fancybox="gallery" data-caption="La lessive à Schneidemühl">
                 <img src="miniatures/schneidemuhl-01.jpg" alt="prisonniers faisant la lessive dans le camp de schneidemühl"></a>
-                <figcaption>La lessive<br/>(Carte postale)</figcaption>
+                <figcaption>La lessive<br>(source : Delcampe)</figcaption>
             </figure>
 
             <figure>
                 <a href="images/schneidemuhl-02.jpg" data-fancybox="gallery" data-caption="Des prisonniers français à Schneidemühl">
                 <img src="miniatures/schneidemuhl-02.jpg" alt="des soldats français prisonniers en Allemagne au camp de Schneidemühl"></a>
-                <figcaption>Des prisonniers français, peut-être à Schneidemühl<br/>(Carte postale)</figcaption>
+                <figcaption>Des prisonniers français, peut-être à Schneidemühl<br>(source : Delcampe)</figcaption>
             </figure>
 
             <figure>
                 <a href="images/schneidemuhl-03.jpg" data-fancybox="gallery" data-caption="La préparation du repas de midi à Schneidemühl">
                 <img src="miniatures/schneidemuhl-03.jpg" alt="La préparation du repas de midi dans le camp de prisonniers de Schneidemühl"></a>
-                <figcaption>Préparation du repas de midi<br/>(source allemande)</figcaption>
+                <figcaption>Préparation du repas de midi<br>(source allemande)</figcaption>
             </figure>
 
             <figure>
                 <a href="images/schneidemuhl-04.jpg" data-fancybox="gallery" data-caption="La vaccination au camp à Schneidemühl">
                 <img src="miniatures/schneidemuhl-04.jpg" alt="La vaccination dans le camp de prisonniers de Schneidemühl pendant la Première Guerre Mondiale"></a>
-                <figcaption>La vaccination au camp<br/>(source allemande)</figcaption>
+                <figcaption>La vaccination au camp<br>(source allemande)</figcaption>
             </figure>
 
             <figure>
                 <a href="images/schneidemuhl-05.jpg" data-fancybox="gallery" data-caption="L'arrivée des nouveaux prisonniers à Schneidemühl">
                 <img src="miniatures/schneidemuhl-05.jpg" alt="l'arrivée de nouveaux soldat dans le camp de prisonniers de Schneidemühl pendant la Grande Guerre"></a>
-                <figcaption>L'arrivée de nouveaux prisonniers<br/>(source allemande)</figcaption>
+                <figcaption>L'arrivée de nouveaux prisonniers<br>(source allemande)</figcaption>
             </figure>
 
             <figure>
                 <a href="images/schneidemuhl-06.jpg" data-fancybox="gallery" data-caption="La distribution d'aliments aux nouveaux à Schneidemühl">
                 <img src="miniatures/schneidemuhl-06.jpg" alt="La distribution d'aliments aux nouveaux arrivants dans le camp de prisonniers de Schneidemühl pendant la Première Guerre Mondiale"></a>
-                <figcaption>La distribution d'aliments aux nouveaux arrivants<br/>(source allemande)</figcaption>
+                <figcaption>La distribution d'aliments aux nouveaux arrivants<br>(source allemande)</figcaption>
             </figure>
 
             <figure>
                 <a href="images/schneidemuhl-07.jpg" data-fancybox="gallery" data-caption="Des prisonniers anglais devant leurs baraques à Schneidemühl">
                 <img src="miniatures/schneidemuhl-07.jpg" alt="des prisonniers anglais dans le camp de Schneidemühl pendant la Grande Guerre"></a>
-                <figcaption>Prisonniers anglais devant leurs baraques<br/>(source allemande)</figcaption>
+                <figcaption>Prisonniers anglais devant leurs baraques<br>(source allemande)</figcaption>
             </figure>
 
             <figure>
                 <a href="images/schneidemuhl-08.jpg" data-fancybox="gallery" data-caption="Des prisonniers russes à Schneidemühl">
                 <img src="miniatures/schneidemuhl-08.jpg" alt="des prisonniers russes dans le camp de Schneidemühl"></a>
-                <figcaption>Des prisonniers russes<br/>(source allemande)</figcaption>
+                <figcaption>Des prisonniers russes<br>(source allemande)</figcaption>
             </figure>
 
             <figure>
                 <a href="images/schneidemuhl-09.jpg" data-fancybox="gallery" data-caption="Prisonniers anglais jouant au football à Schneidemühl">
                 <img src="miniatures/schneidemuhl-09.jpg" alt="des prisonniers anglais disputant un match de foot dans le camp de Schneidemühl"></a>
-                <figcaption>Prisonniers anglais jouant au football<br/>(source allemande)</figcaption>   
+                <figcaption>Prisonniers anglais jouant au football<br>(source allemande)</figcaption>   
             </figure>
 
             <h2>Sources et bibliographie</h2>

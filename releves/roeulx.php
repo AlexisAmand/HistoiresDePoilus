@@ -84,8 +84,8 @@
 	        <li><a href="lourches.php">Lourches</a></li>
 	        <li><a href="onnaing.php">Onnaing</a></li>    
 	        <li><a href="quarouble.php">Quarouble</a></li>
-	        <li><a href="roeulx.php">Roeulx</a></li>
-	        <li><a href="santes.php" class="AsideSelected">Santes</a></li>
+	        <li><a href="roeulx.php" class="AsideSelected">Roeulx</a></li>
+	        <li><a href="santes.php">Santes</a></li>
 	        <li><a href="saultain.php">Saultain</a></li>
 	        <li><a href="sebourg.php">Sebourg</a></li>
             <li><a href="valenciennes.php">Valenciennes</a></li>
@@ -127,7 +127,7 @@
         <figure>
         <a href="images/roeulx-monument.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Roeulx">
         <img src="images/mini/roeulx-monument.jpg" alt="le Monument aux Morts pour la France de Roeulx sur une carte postale ancienne"/></a>
-        <figcaption>Le Monument aux Morts<br/>(Source: Google Map)</figcaption>
+        <figcaption>Le Monument aux Morts<br>(Source: Google Map)</figcaption>
         </figure>
 
         <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
@@ -136,15 +136,15 @@
         <thead>
             <tr>
                 <th id="nom">Nom et prénom(s)</th>
-                <th id="naissance">Date et lieu<br/>de naissance</th>
-                <th id="mort">Date et lieu<br/>de décès</th>
+                <th id="naissance">Date et lieu<br>de naissance</th>
+                <th id="mort">Date et lieu<br>de décès</th>
                 <th id="grade">Grade</th>
                 <th id="corps">Corps</th>
-                <th id="genre">Genre<br/>de mort</th>
+                <th id="genre">Genre<br>de mort</th>
             </tr>
             </thead>
             <tr>
-                <td headers="nom"><a href="../poilus/CARIN-Edouard.php" title="biographie du poilu Édouard CARIN">CARIN<br/>Edouard</a></td>
+                <td headers="nom"><a href="../poilus/CARIN-Edouard.php" title="biographie du poilu Édouard CARIN">CARIN<br>Edouard</a></td>
                 <td headers="naissance">&nbsp;</td>
                 <td headers="mort">&nbsp;</td>
                 <td headers="grade">&nbsp;</td>
@@ -152,7 +152,7 @@
                 <td headers="genre">&nbsp;</td>
             </tr>
             <tr>
-                <td headers="nom"><a href="../poilus/CARIN-Leon.php" title="biographie du poilu Léon CARIN">CARIN<br/>Leon</a></td>
+                <td headers="nom"><a href="../poilus/CARIN-Leon.php" title="biographie du poilu Léon CARIN">CARIN<br>Leon</a></td>
                 <td headers="naissance">&nbsp;</td>
                 <td headers="mort">&nbsp;</td>
                 <td headers="grade">&nbsp;</td>

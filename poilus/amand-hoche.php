@@ -120,21 +120,29 @@
         <article>
 
         <h1>Hoche Gaston AMAND</h1>
+
+        <p>Hoche Gaston BLOMY est nà à bord du bateau de ses parents un couple de bateliers, le 10 février 1895, alors qu'il est à quai sur les rives de l'Escaut à Lourches. Comme Marceau, dont il est l'ainé, il est le fils légitime de Blomy Abélard et Adeline DELPLANQUE.</p>
+
+        <figure>
+            <a href="images/lourches-escaut-2.jpg" data-fancybox="gallery" data-caption="Vue des entrepôts et canal de l'Escaut à Lourches">
+            <img src="miniatures/lourches-escaut-2.jpg" alt="Vue des entrepôts et canal de l'Escaut à Lourches"/></a>
+            <figcaption>Vue des entrepôts et canal de l'Escaut à Lourches<br>(Source: Archives Municipales de Valenciennes)</figcaption>
+        </figure>
+
+
                 
         <figure>
             <a href="images/prise-de-tahure.jpg" data-fancybox="gallery" data-caption=" ">
             <img src="miniatures/prise-de-tahure.jpg" alt=" "/></a>
-            <figcaption>La prise de Tahure<br />illustration par Léon Groc pour la collection Patrie<br/>(Source: Wikipedia Commons)</figcaption>
+            <figcaption>La prise de Tahure<br>illustration par Léon Groc pour la collection Patrie<br>(Source: Wikipedia Commons)</figcaption>
         </figure>
 
 		<figure>
             <a href="sources/matricule-gaston-amand.jpg" data-fancybox="gallery" data-caption=" ">
             <img src="miniatures/matricule-gaston-amand.jpg" alt=" "/></a>
-            <figcaption>Ses domiciles sur sa fiche matricule<br/>(Source: Archives Départementales du Nord)</figcaption>
+            <figcaption>Ses domiciles sur sa fiche matricule<br>(Source: Archives Départementales du Nord)</figcaption>
         </figure>
         
-        
-
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 
         </article>

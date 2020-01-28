@@ -79,7 +79,7 @@
         <figure>
             <a href="images/Leeuwarden/leeuwarden-01.jpg" data-fancybox="gallery" title="Un bout de toilette au camp de Leeuwarden">
             <img src="miniatures/Leeuwarden/leeuwarden-01.jpg" alt="Un bout de toilette au camp de Leeuwarden"></a>
-            <figcaption>Un bout de toilette au camp de Leeuwarden<br/>(Carte postale)</figcaption>
+            <figcaption>Un bout de toilette au camp de Leeuwarden<br>(source : Delcampe)</figcaption>
         </figure>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

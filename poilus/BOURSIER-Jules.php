@@ -125,7 +125,7 @@
         <figure>
             <a href="images/BOURSIER-Jules-Henri-naissance-1879.jpg" data-fancybox="gallery" data-caption="acte de naissance de Jules Henri BOURSIER">
             <img src="miniatures/BOURSIER-Jules-Henri-naissance-1879.jpg" alt="acte de naissance de Jules Henri BOURSIER"/></a>
-            <figcaption>Acte de naissance de Jules Henri BOURSIER<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
+            <figcaption>Acte de naissance de Jules Henri BOURSIER<br>(source: Archives Départementales du Nord)</figcaption>
         </figure>
 
         <p><strong>Jules Henri BOURSIER</strong> est le poilu avec lequel ma parenté est la plus éloignée car il était marié avec Suzanne GODIN, descendante de quatre de mes ancêtres ayant vécu à la fin du XVIIe et au début du XVIIIe siècle. J'ai trouvé la photo ci-dessous grâce à un membre de Geneanet. Il me reste à comprendre pourquoi il y a 16 sur son col, alors qu'il faisait parti du <strong>1er Régiment d'Artillerie à Pied</strong> pendant la Première Guerre Mondiale. Peut-être que la photo n'est pas contemporaine au conflit ?</p>
@@ -133,7 +133,7 @@
         <figure>
             <a href="portraits/BOURSIER-Jules-Henri.jpg" data-fancybox="gallery" data-caption="portrait de Jules Henri BOURSIER">
             <img src="miniatures/BOURSIER-Jules-Henri.jpg" alt="portrait de Jules Henri BOURSIER"/></a>
-            <figcaption>Jules Henri BOURSIER<br/>(cliquez pour agrandir - source: Kamalaa/Geneanet)</figcaption>
+            <figcaption>Jules Henri BOURSIER<br>(source: Kamalaa/Geneanet)</figcaption>
         </figure>
 
         <table class="census">
@@ -151,18 +151,18 @@
             </tr>
             <tr>
                 <td headers="date">1906</td>
-                <td headers="adresse">Rue de la Chevauchoire<br/>à Onnaing (Nord)</td>
+                <td headers="adresse">Rue de la Chevauchoire<br>à Onnaing (Nord)</td>
             </tr>
             <tr>
                 <td headers="date">30 décembre 1936</td>
-                <td headers="adresse">1 Rue Marcelin Berthelot<br/>à Onnaing (Nord)</td>
+                <td headers="adresse">1 Rue Marcelin Berthelot<br>à Onnaing (Nord)</td>
             </tr>
             <tr>
-                <td headers="date"> du 7 septembre 1914<br/>au 20 juin 1918</td>
+                <td headers="date"> du 7 septembre 1914<br>au 20 juin 1918</td>
                 <td headers="adresse">Il est prisonnier à Friedrichsfeld (Allemagne) puis à Grossen (Allemagne)</td>
             </tr>
             <tr>
-                <td headers="date">du 20 juin 1918<br/>au 3 Novembre 1918</td>
+                <td headers="date">du 20 juin 1918<br>au 3 Novembre 1918</td>
                 <td headers="adresse">Malade, il séjourne dans la région du Bern Oberland B (Suisse)</td>
             </tr>
             <tr>
@@ -179,7 +179,7 @@
         <figure>
         <a href="sources/BOURSIER-Jules-Henri-matricule-01.jpg" data-fancybox="gallery" data-caption="extrait sa fiche matricule">
         <img src="miniatures/BOURSIER-Jules-Henri-matricule-01.jpg"  alt="extrait de la fiche matricule de Jules Henri BOURSIER"/></a>
-        <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir)</figcaption>
+        <figcaption>Extrait de sa fiche matricule<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
         <h2>De Maubeuge à la Suisse</h2>
@@ -189,7 +189,7 @@
         <figure>
         <a href="images/siege-maubeuge" data-fancybox="gallery" data-caption="Bombardement de la forteresse de Maubeuge par les Allemands">
         <img src="miniatures/siege-maubeuge" alt="Des allemands pendant le siège de Maubeuge"></a>
-        <figcaption>Bombardement de la forteresse de Maubeuge par les Allemands<br/>(source: Delcampe)</figcaption>
+        <figcaption>Bombardement de la forteresse de Maubeuge par les Allemands<br>(source: Delcampe)</figcaption>
         </figure>
 
         <p>Jules est transféré à Grossen (date inconnue) où il reste jusqu’au 20 juin 1918. Victime de bronchite chronique, il fait partie du transport de rapatriement à destination du Bern Oberland B (B.O.B), en Suisse, où il séjourne jusqu’au 2 novembre de la même année. Il termine la conflit par un mois de permission à Menville (Eure), dans doute en convalescence.</p>
@@ -197,7 +197,7 @@
         <figure>
         <a href="sources/BOURSIER-Jules-Henri-CICR.jpg" data-fancybox="gallery" data-caption="Fiche numérisée du CICR">
         <img src="miniatures/BOURSIER-Jules-Henri-CICR.jpg" alt="Fiche de Jules Henri BOURSIER numérisée par le CICR"/></a>
-        <figcaption>Fiche du CICR<br/>(cliquez pour agrandir)</figcaption>
+        <figcaption>Fiche du CICR<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
         <h2>La guerre à Onnaing</h2>
@@ -207,7 +207,7 @@
         <figure>
         <a href="../releves/images/onnaing-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts d'Onnaing">
         <img src="../releves/images/mini/onnaing-monument-aux-morts.jpg" alt="le Monument aux Morts d'Onnaing sur une carte postale ancienne"/></a>
-        <figcaption>Le Monument aux Morts de la guerre 1914-1918<br/>(cliquez pour agrandir)</figcaption>
+        <figcaption>Le Monument aux Morts de la guerre 1914-1918<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
         <p>Le 5 novembre 1918, la Ville d'Onnaing est libérée. Les Canadiens sont à <a href="http://genealexis.fr/cartes-postales/quarouble.php" title="Histoire de Quarouble">Quarouble</a> et à Rombies et se dirigent vers la frontière belge. Huit soldats canadiens et un anglais sont tués. Ils ont leurs tombes au cimetière d'Onnaing. Le 11 Novembre, l'Allemagne signe l'Armistice à Rethondes avec les Alliés…</p>
@@ -217,7 +217,7 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
+        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>
         <li><a href="../pdf/Maubeuge-1914-Duvivier.pdf">Maubeuge 1914</a> (Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
         <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a> (source allemande)</li>
         <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf">Aus deutschen Kriegsgefangenenlagern</a> (Deutsches Rotes Kreuz)</li>

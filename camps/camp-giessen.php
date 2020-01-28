@@ -114,18 +114,18 @@
 
         <h1>Le camp de prisonniers de Giessen</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br/><p>Ce camp était situé à Giessen, en Hesse, dans le centre-ouest de l'Allemagne. On y dénombrait 900 hommes de troupes et 300 prisonniers civils.</p>
+        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br><p>Ce camp était situé à Giessen, en Hesse, dans le centre-ouest de l'Allemagne. On y dénombrait 900 hommes de troupes et 300 prisonniers civils.</p>
 
         <figure>
             <a href="images/Giessen/localisation-giessen.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Giessen">
             <img src="miniatures/Giessen/localisation-giessen.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Giessen"></a>
-            <figcaption>Localisation du camp de Giessen<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Giessen<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Giessen/giessen-04.jpg" data-fancybox="gallery" data-caption="Le camp de Giessen">
             <img src="miniatures/Giessen/giessen-04.jpg" alt="Vue du camp de prisonniers de Giessen pendant la Grande Guerre"></a>
-            <figcaption>Vue du camp de Giessen<br/>(Carte postale)</figcaption>
+            <figcaption>Vue du camp de Giessen<br>(source : Delcampe)</figcaption>
         </figure>
 
         <p>Jean BESCOND était sergent au 2e Régiment d'Infanterie Coloniale. Fait prisonnier dans l'Argonne le 17 novembre 1914, il est envoyé au camp de Giessen. Evacué sur la Suisse le 2 mai 1916 pour tuberculose pulmonaire, il témoigne dans un rapport: <em>"Ce camp était connu parmi les prisonniers français sous le nom de camp de la faim"</em>. Il raconte également avoir vu un camarade nommé Gaston PARIS mourir de faim, et dit avoir eu connaissance de 48 cas de morts par la faim parmi les Français. Jean précise également qu'il n'y avait pas de punitions à Giessen.</p>
@@ -133,25 +133,25 @@
         <figure>
             <a href="images/Giessen/giessen-01.jpg" data-fancybox="gallery" data-caption="Le camp de Giessen">
             <img src="miniatures/Giessen/giessen-01.jpg" alt="un groupe de sous-officiers français au camp de Giessen pendant la Grande Guerre"></a>
-            <figcaption>Groupe de sous-officiers français<br/>(source allemande)</figcaption>
+            <figcaption>Groupe de sous-officiers français<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Giessen/giessen-02.jpg" data-fancybox="gallery" data-caption="Le camp de Giessen">
             <img src="miniatures/Giessen/giessen-02.jpg" alt="Groupe de la 12e compagnie au camp de Giessen pendant la Première Guerre Mondiale"></a>
-            <figcaption>Groupe de la 12e compagnie<br/>(source allemande)</figcaption>
+            <figcaption>Groupe de la 12e compagnie<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Giessen/giessen-03.jpg" data-fancybox="gallery" data-caption="Le camp de Giessen">
             <img src="miniatures/Giessen/giessen-03.jpg" alt="Le nettoyage des tables et des chaises au camp de Giessen pendant la Première Guerre Mondiale"></a>
-            <figcaption>Nettoyage des tables et des chaises<br/>(source allemande)</figcaption>
+            <figcaption>Nettoyage des tables et des chaises<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Giessen/giessen-05.jpg" data-fancybox="gallery"  title="Le camp de Giessen">
             <img src="miniatures/Giessen/giessen-05.jpg" alt="Vue du camp de prisonniers de Giessen pendant la Première Guerre Mondiale"></a>
-            <figcaption>Vue du camp de Giessen<br/>Carte postale)</figcaption>
+            <figcaption>Vue du camp de Giessen<br>Carte postale)</figcaption>
         </figure>
 
         <p>Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php">Wetzlar</a> arrivent au camp de Giessen.</p>

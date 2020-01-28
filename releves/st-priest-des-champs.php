@@ -120,17 +120,17 @@
         <figure>
             <a href="images/saint-priest.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts d'Anzin">
             <img src="images/mini/saint-priest.jpg" alt="le Monument aux Morts dans le cimetière de Saint-Priest-des-Champs sur une carte postale ancienne"/></a>
-            <figcaption>Le Monument aux Morts de la guerre 1914-1918<br/>(Source: Delcampe)</figcaption>
+            <figcaption>Le Monument aux Morts de la guerre 1914-1918<br>(Source: Delcampe)</figcaption>
         </figure>
               
         <table class="releves">
             <thead>
             <tr>
                 <th id="nom">Nom et prénoms</th>
-                <th id="naissance">Date et lieu<br/>de naissance</th>
-                <th id="mort">Date et lieu<br/>de décès</th>
+                <th id="naissance">Date et lieu<br>de naissance</th>
+                <th id="mort">Date et lieu<br>de décès</th>
                 <th id="corps">Corps</th>
-                <th id="genre">Genre<br/>de mort</th>
+                <th id="genre">Genre<br>de mort</th>
             </tr>
             </thead>
             <tr>

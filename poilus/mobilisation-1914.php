@@ -63,8 +63,8 @@
 
         <h2>Décret de mobilisation générale</h2>
 
-        <p>Extrait du Journal Officiel de la République Française n°156 du 2 août 1914.<br/>
-        Décret prescrivant la mobilisation des Armées de terre et de mer du 1er août 1914.<br/>
+        <p>Extrait du Journal Officiel de la République Française n°156 du 2 août 1914.<br>
+        Décret prescrivant la mobilisation des Armées de terre et de mer du 1er août 1914.<br>
         (source: Gallica / Bibliothèque Nationale de France)</p>
 
         <figure>

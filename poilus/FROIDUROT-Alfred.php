@@ -91,7 +91,7 @@
         <figure>
             <a href="sources/Froidurot-Alfred-naissance-1898.jpg" data-fancybox="gallery" data-caption="Acte de naissance d'Alfred Froidurot">
             <img src="miniatures/Froidurot-Alfred-naissance-1898.jpg"  alt="Acte de naissance d'Alfred Froidurot"></a>
-            <figcaption>Acte de naissance d'Alfred FROIDUROT<br/>(source: Archives Départementales du Nord)</figcaption>
+            <figcaption>Acte de naissance d'Alfred FROIDUROT<br>(source: Archives Départementales du Nord)</figcaption>
         </figure>
 
         <p>Alfred a tout juste 17 ans quand, le 2 juillet 1915 à Dijon, il s'engage comme volontaire pour la durée de la guerre au 17e Régiment de Dragons. Comme beaucoup de poilus, Alfred passe de régiment en régiment au grès des affectations: 2e Régiment de Zouaves (février 1916), 3e Régiment Mixte de Zouaves  (juin 1916), 1er Régiment de Zouaves (octobre 1917) et 3e Régiment de Zouaves  (décembre 1917).</p>
@@ -109,7 +109,7 @@
         <figure>
             <a href="images/villa-montfleury-cannes.jpg" data-fancybox="gallery" data-caption="La Villa Montfleury à Cannes">
             <img src="miniatures/villa-montfleury-cannes.jpg" alt="La Villa Montfleury sur une carte postale ancienne de Cannes"></a>
-            <figcaption>La Villa Montfleury<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>La Villa Montfleury<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
         <p>Outre le fait qu'il ait été fait chevalier de la Légion d'Honneur à titre posthume le 14 septembre 1960, le plus émouvant à mes yeux, c'est que j'ai pu trouver une photographie présentant les corps d'Alfred et ses 7 compagnons fusillés et décédés le 15 août 1944 dans les caves de la villa cannoise et publiée dans le journal L'Ergot n°15 (21 décembre 1944). Je ne mets pas le document ici par respect pour lui et sa famille, mais il est facilement trouvable sur une encyclopédie en ligne bien connu.</p>
@@ -117,13 +117,13 @@
         <figure>
             <a href="sources/Dossier-Leonore-Alfred.jpg" data-fancybox="gallery" data-caption="Extrait du dossier de la Légion d'Honneur d'Alfred Froidurot">
             <img src="miniatures/Dossier-Leonore-Alfred.jpg" alt="Extrait du dossier de la Légion d'Honneur"></a>
-            <figcaption>Extrait du dossier de Légion d'Honneur<br/>(source: Archives Nationales)</figcaption>
+            <figcaption>Extrait du dossier de Légion d'Honneur<br>(source: Archives Nationales)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

@@ -103,19 +103,19 @@
         <figure>
             <a href="images/mort-homme.jpg" data-fancybox="gallery" data-caption="Chattancourt et vue sur le Mort-Homme">
             <img src="miniatures/mort-homme.jpg" alt="Chattancourt et vue sur le Mort-Homme"></a>
-            <figcaption>Chattancourt et vue sur le Mort-Homme<br/>(source: Delcampe)</figcaption>
+            <figcaption>Chattancourt et vue sur le Mort-Homme<br>(source: Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="images/croquis-1916-2" data-fancybox="gallery" data-caption="Attaques sur la rive gauche (Verdun, 1916)">
             <img src="miniatures/croquis-1916-2" alt="Attaques sur la rive gauche (Verdun, 1916)"></a>
-            <figcaption>Verdun: Attaques sur la rive gauche<br/>(source: Delcampe)</figcaption>
+            <figcaption>Verdun: Attaques sur la rive gauche<br>(source: Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="sources/arnould-henri-rene.jpg" data-fancybox="gallery" data-caption="Henri René ARNOULD, mort pour la France">
             <img src="miniatures/arnould-henri-rene.jpg" alt="Fiche de mort pour la France de Henri René ARNOULD"></a>
-            <figcaption>Henri, mort pour la France.<br/>(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
+            <figcaption>Henri, mort pour la France.<br>(source: Mémoire des Hommes)</figcaption>
         </figure> 
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

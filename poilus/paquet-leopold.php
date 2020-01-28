@@ -105,27 +105,27 @@
             <tbody>
             <tr>
                 <td headers="date">13 juin 1910</td>
-                <td headers="adresse">Frouard<br />(Meurthe-et-Moselle)</td>
+                <td headers="adresse">Frouard<br>(Meurthe-et-Moselle)</td>
             </tr>
             <tr>
                 <td headers="date">2 avril 1911</td>
-                <td headers="adresse">15 Grand-Rue<br />Bétheniville<br />(Marne)</td>
+                <td headers="adresse">15 Grand-Rue<br>Bétheniville<br>(Marne)</td>
             </tr>
             <tr>
                 <td headers="date">17 novembre 1912</td>
-                <td headers="adresse">2 rue de Mars<br />Mezières<br />(Ardennes)</td>
+                <td headers="adresse">2 rue de Mars<br>Mezières<br>(Ardennes)</td>
             </tr>
             <tr>
                 <td headers="date">12 février 1914</td>
-                <td headers="adresse">296 rue de Belleville<br />Paris</td>
+                <td headers="adresse">296 rue de Belleville<br>Paris</td>
             </tr>
             <tr>
                 <td headers="date">30 juin 1914</td>
-                <td headers="adresse">15 bis rue de Paris<br />Pré-Saint-Gervais<br />(Seine)</td>
+                <td headers="adresse">15 bis rue de Paris<br>Pré-Saint-Gervais<br>(Seine)</td>
             </tr>
             <tr>
                 <td headers="date">1953</td>
-                <td headers="adresse">Bétheniville<br />(Marne)</td>
+                <td headers="adresse">Bétheniville<br>(Marne)</td>
             </tr>
         </tbody>
         </table>

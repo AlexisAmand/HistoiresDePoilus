@@ -122,7 +122,7 @@
 
         <figure>
             <img src="miniatures/Darmstadt/carte-camp-darmstadt.jpg" data-fancybox="gallery" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Darmstadt">
-            <figcaption>Localisation du camp de Darmstadt<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Darmstadt<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure> 
 
         <p>Louis GUINET a 27 ans quand il est fait prisonnier à Entre-deux-Eaux, près de Saint-Dié, le 29 août 1914. Il est évacué sur le camp de Darmstadt où il séjourne jusque juin 1915, date à laquelle il est envoyé au camp de représailles de <a href="camp-meyenburg.php">Meyenburg</a>. Sur son séjour à Darmstadt, il rapporte que la <em>nourriture était insuffisante et de mauvaise qualité.</em> et que les <em>prisonniers étaient traités avec brutalité</em>.</p>
@@ -130,7 +130,7 @@
         <figure>
             <a href="images/Darmstadt/darmstadt-04.jpg" data-fancybox="gallery" data-caption="Le camp de Darmstadt">
             <img src="miniatures/Darmstadt/darmstadt-04.jpg" alt="Tableau statistique du mouvement de la correspondance au camp de Darmstadt pendant la Grande Guerre"></a>
-            <figcaption>Statistique du mouvement de la correspondance au camp de Darmstadt<br/>(source allemande)</figcaption>   
+            <figcaption>Statistique du mouvement de la correspondance au camp de Darmstadt<br>(source allemande)</figcaption>   
         </figure>
 
         <p>Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php">Wetzlar</a> arrivent au camp de Darmstadt.</p>
@@ -138,13 +138,13 @@
         <figure>
             <a href="images/Darmstadt/darmstadt-08.jpg" data-fancybox="gallery" data-caption="Le camp de Darmstadt">
             <img src="miniatures/Darmstadt/darmstadt-08.jpg" alt="Menu du camp de Darmstadt pendant la Première Guerre Mondiale"></a>
-            <figcaption>Menu du camp du 31 janvier au 6 février 1915<br/>(source allemande)</figcaption>
+            <figcaption>Menu du camp du 31 janvier au 6 février 1915<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Darmstadt/darmstadt-09.jpg" data-fancybox="gallery"  title="Le camp de Darmstadt">
             <img src="miniatures/Darmstadt/darmstadt-09.jpg" alt="Menu du camp de Darmstadt pendant la Grande Guerre"></a>
-            <figcaption>Menu du camp du 4 au 10 avril 1915<br/>(source allemande)</figcaption>
+            <figcaption>Menu du camp du 4 au 10 avril 1915<br>(source allemande)</figcaption>
         </figure>
 
         <p>Dans le livre intitulé "Le Sort des Prisonniers Français en Allemagne", paru en 1916, l'auteur nous décrit l'impuissance des prisonniers français contre les épidémies, notamment dans les camps de <a href="camp-darmstadt.php">Darmstadt</a>, <a href="camp-friedrichsfeld.php">Friedrichsfeld</a>, Koenigsbrück, Merseburg et Zoosen où la faim non apaisée, l'inanition et la misère psychologique qui en a résulté ont provoqué un développement inouï de la tuberculose et une mortalité effrayante.</p>
@@ -152,67 +152,67 @@
         <figure>
             <a href="images/Darmstadt/darmstadt-01.jpg" data-fancybox="gallery"  title="Le camp de Darmstadt">
             <img src="miniatures/Darmstadt/darmstadt-01.jpg" alt="Vue des baraques dans le camp de prisonniers de Darmstadt"></a>
-            <figcaption>Vue des Baraques (vers 1915)<br/>(source allemande)</figcaption>
+            <figcaption>Vue des Baraques (vers 1915)<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Darmstadt/darmstadt-02.jpg" data-fancybox="gallery"  title="Le camp de Darmstadt">
             <img src="miniatures/Darmstadt/darmstadt-02.jpg" alt="L'arrivée du courrier au camp de Darmstadt"></a>
-            <figcaption>L'arrivée du courrier (vers 1915)<br/>(source allemande)</figcaption>
+            <figcaption>L'arrivée du courrier (vers 1915)<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Darmstadt/darmstadt-03.jpg" data-fancybox="gallery"  title="Le camp de Darmstadt">
             <img src="miniatures/Darmstadt/darmstadt-03.jpg" alt="Le tri du courrier des prisonniers du camp de Darmstadt"></a>
-            <figcaption>Le tri du courrier (vers 1915)<br/>(source allemande)</figcaption> 
+            <figcaption>Le tri du courrier (vers 1915)<br>(source allemande)</figcaption> 
         </figure>
 
         <figure>
             <a href="images/Darmstadt/darmstadt-05.jpg" data-fancybox="gallery"  title="Le camp de Darmstadt">
             <img src="miniatures/Darmstadt/darmstadt-05.jpg" alt="distribution de la soupe aux prisonniers du camp de Darmstadt pendant la Grande Guerre"></a>
-            <figcaption>La distribution de la soupe (vers 1915)<br/>(source allemande)</figcaption>
+            <figcaption>La distribution de la soupe (vers 1915)<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Darmstadt/darmstadt-06.jpg" data-fancybox="gallery"  title="Le camp de Darmstadt">
             <img src="miniatures/Darmstadt/darmstadt-06.jpg" alt="Prisonniers épluchant des pommes de terre dans le camp de Darmstadt pendant la Première Guerre Mondiale"></a>
-            <figcaption>Prisonniers épluchant des pommes de terre (vers 1915)<br/>(source allemande)</figcaption>
+            <figcaption>Prisonniers épluchant des pommes de terre (vers 1915)<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Darmstadt/darmstadt-07.jpg" data-fancybox="gallery"  title="Le camp de Darmstadt">
             <img src="miniatures/Darmstadt/darmstadt-07.jpg" alt="Des prisonniers dans le camp de Darmstadt pendant la Grande Guerre"></a>
-            <figcaption>Heures de récréation (vers 1915)<br/>(source allemande)</figcaption>
+            <figcaption>Heures de récréation (vers 1915)<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Darmstadt/darmstadt-10.jpg" data-fancybox="gallery"  title="Le camp de Darmstadt">
             <img src="miniatures/Darmstadt/darmstadt-10.jpg" alt="Le peloton de Pompiers du camp de Darmstadt pendant la Première Guerre Mondiale"></a>
-            <figcaption>Peloton de pompiers (vers 1915)<br/>(source allemande)</figcaption> 
+            <figcaption>Peloton de pompiers (vers 1915)<br>(source allemande)</figcaption> 
         </figure>
 
         <figure>
             <a href="images/Darmstadt/darmstadt-11.jpg" data-fancybox="gallery"   title="Le camp de Darmstadt">
             <img src="miniatures/Darmstadt/darmstadt-11.jpg" alt="Exercice des pompiers du camps de prisonnier de Darmstadt"></a>
-            <figcaption>Exercice de pompiers (vers 1915)<br/>(source allemande)</figcaption>  
+            <figcaption>Exercice de pompiers (vers 1915)<br>(source allemande)</figcaption>  
         </figure>
 
         <figure>
             <a href="images/Darmstadt/darmstadt-12.jpg" data-fancybox="gallery"   title="Le camp de Darmstadt">
             <img src="miniatures/Darmstadt/darmstadt-12.jpg" alt="Prisonniers du camp de Darmstadt jouant au football pendant la guerre"></a>
-            <figcaption>Au football (vers 1915)<br/>(source allemande)</figcaption>   
+            <figcaption>Au football (vers 1915)<br>(source allemande)</figcaption>   
         </figure>
 
         <figure>
             <a href="images/Darmstadt/darmstadt-13.jpg" data-fancybox="gallery"   title="Le camp de Darmstadt">
             <img src="miniatures/Darmstadt/darmstadt-13.jpg" alt="La salle d'opération du camp de Darmstadt pendant la Première Guerre Mondiale"></a>
-            <figcaption>La salle d'opération du camp (vers 1915)<br/>(source allemande)</figcaption>
+            <figcaption>La salle d'opération du camp (vers 1915)<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Darmstadt/darmstadt-14.jpg" data-fancybox="gallery"   title="Le camp de Darmstadt">
             <img src="miniatures/Darmstadt/darmstadt-14.jpg" alt="Des prisonniers de guerre dans leur dortoir pendant la Première Guerre Mondiale"></a>
-            <figcaption>Au dortoir (vers 1915)<br/>(source allemande)</figcaption>
+            <figcaption>Au dortoir (vers 1915)<br>(source allemande)</figcaption>
         </figure>
 
         <p>Tous les prisonniers de Darmstadt étaient rapatriés au 4 janvier 1919.</p> 

@@ -122,7 +122,7 @@
         <figure>
             <a href="images/Minden/localisation-minden.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Minden">
             <img src="miniatures/Minden/localisation-minden.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Minden"></a>
-            <figcaption>Localisation du camp de Minden<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Minden<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
         <p>Selon les délégués du Gouvernement Espagnol, Les dortoirs sont convenablement installés ; les lits, disposés sur deux rangées, sont composés de châssis en bois ; les paillasses sont bourrées de copeaux, chaque homme dispose de deux couvertures. Le chauffage se fait au moyen de grands poêles à charbon, l'éclairage est électrique. Dans chaque dortoir, il y a un large espace libre pour permettre aux prisonniers de se promener quand il pleut.</p>
@@ -133,7 +133,7 @@
             <tr>
                 <th headers="nations">Nationalités</th>
                 <th headers="camp">Au camp</th>
-                <th headers="travail">Dans les détachements<br/>de travail</th>
+                <th headers="travail">Dans les détachements<br>de travail</th>
             </tr>
             </thead>
             <tr>
@@ -176,13 +176,13 @@
         <figure>
             <a href="images/minden-05.jpg" data-fancybox="gallery" data-caption="La construction des chemins à Minden">
             <img src="miniatures/minden-05.jpg" alt="La construction des chemins par les prisonniers du camp de Minden pendant la Première Guerre Mondiale"></a>
-            <figcaption>La construction des chemins<br/>(source allemande)</figcaption>
+            <figcaption>La construction des chemins<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/minden-04.jpg" data-fancybox="gallery" data-caption="Pose du chemin de fer portatif à Minden">
             <img src="miniatures/minden-04.jpg" alt="La pose d'un chemin de fer portatif par les prisonniers du camp de Minden pendant la Première Guerre Mondiale"></a>
-            <figcaption>Pose du chemin de fer portatif<br/>(source allemande)</figcaption>
+            <figcaption>Pose du chemin de fer portatif<br>(source allemande)</figcaption>
         </figure>
 
         <h2>La vie au camp n°1</h2>
@@ -190,13 +190,13 @@
         <figure>
             <a href="images/minden-02.jpg" data-fancybox="gallery" data-caption="Distribution de dons patriotiques à Minden I">
             <img src="miniatures/minden-02.jpg" alt="Distribution de dons patriotiques aux prisonniers du camps de Minden pendant la Première Guerre Mondiale"></a>
-            <figcaption>Distribution de dons patriotiques<br/>(source allemande)</figcaption>
+            <figcaption>Distribution de dons patriotiques<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/minden-01.jpg" data-fancybox="gallery" data-caption="Une salle de soldats à Minden I">
             <img src="miniatures/minden-01.jpg" alt="Une salle de soldats au camp de prisonniers de Minden I pendant la Première Guerre Mondiale"></a>
-            <figcaption>Salle de soldats au camp<br/>(source allemande)</figcaption>
+            <figcaption>Salle de soldats au camp<br>(source allemande)</figcaption>
         </figure>
 
         <h2>La vie au camp n°2</h2>
@@ -204,7 +204,7 @@
         <figure>
             <a href="images/minden-03.jpg" data-fancybox="gallery" data-caption="La cuisine et le menu à Minden II">
             <img src="miniatures/minden-03.jpg" alt="La cuisine et le menu au camp de prisonniers de Minden II"></a>
-            <figcaption>Cuisine et menu<br/>(source allemande)</figcaption>
+            <figcaption>Cuisine et menu<br>(source allemande)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

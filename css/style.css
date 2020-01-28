@@ -34,6 +34,7 @@ nav a:hover{float:right;display:block;width:100px;padding:8px;text-align:center;
 nav a.NavSelected{height:30px;background-color:#eFeFeF;color:#5b5b5b}
 
 article{background-color:#eFeFeF;padding:20px;margin-left:200px;display:table-cell;padding-top:0}
+
 article img{box-shadow:1px 1px 12px #555;margin-bottom:6px;margin-top:12px}
 
 article p {text-align:justify;margin-bottom:15px;}

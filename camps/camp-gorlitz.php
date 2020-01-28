@@ -118,7 +118,7 @@
 
         <figure>
             <img src="miniatures/Gorlitz/gorlitz-01.jpg" alt="Des prisonniers du camp de Görlitz en rang pour la photographie">
-            <figcaption>En rang pour la photographie<br/>(source allemande)</figcaption>
+            <figcaption>En rang pour la photographie<br>(source allemande)</figcaption>
         </figure>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

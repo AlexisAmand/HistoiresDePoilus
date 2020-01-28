@@ -119,25 +119,25 @@
         <figure>
             <a href="images/Hammerstein/hammerstein-01.jpg" data-fancybox="gallery" data-caption="Le camp de Hammerstein">
             <img src="miniatures/Hammerstein/hammerstein-01.jpg" alt="le camp de prisonniers d'Hammerstein dans un ouvrage allemand paru pendant la Première Guerre Mondiale"></a>
-            <figcaption>La queue pour le repas<br/>(source allemande)</figcaption>
+            <figcaption>La queue pour le repas<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Hammerstein/hammerstein-02.jpg" data-fancybox="gallery" data-caption="Le camp de Hammerstein">
             <img src="miniatures/Hammerstein/hammerstein-02.jpg" alt="le camp de prisonniers d'Hammerstein dans un ouvrage allemand paru pendant la Première Guerre Mondiale"></a>
-            <figcaption>Des russes préparant leur thé<br/>(source allemande)</figcaption>
+            <figcaption>Des russes préparant leur thé<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Hammerstein/hammerstein-03.jpg" data-fancybox="gallery" data-caption="Le camp de Hammerstein">
             <img src="miniatures/Hammerstein/hammerstein-03.jpg" alt="le camp de prisonniers d'Hammerstein dans un ouvrage allemand paru pendant la Première Guerre Mondiale"></a>
-            <figcaption>Le repas pascal des prisonniers israélites<br/>(source allemande)</figcaption>
+            <figcaption>Le repas pascal des prisonniers israélites<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Hammerstein/hammerstein-04.jpg" data-fancybox="gallery" data-caption="Le camp de Hammerstein">
             <img src="miniatures/Hammerstein/hammerstein-04.jpg" alt="le camp de prisonniers d'Hammerstein dans un ouvrage allemand paru pendant la Première Guerre Mondiale"></a>
-            <figcaption>Service divin israélite<br/>(source allemande)</figcaption>
+            <figcaption>Service divin israélite<br>(source allemande)</figcaption>
         </figure>
 
         <p>J'ai longtemps hésité avant de vous présenter la photographie ci-dessous, comme je l'ai dit plus haut, il faut bien garder en tête qu'elle est paru en 1915 dans un ouvrage allemand. C'est également pour cette raison que je n'ai pas mis en ligne les diverses photos qui représentaient les <em>"ethnies" (sic)</em> rencontrées dans les camps.</p>  
@@ -145,7 +145,7 @@
         <figure>
             <a href="images/Hammerstein/hammerstein-05.jpg" data-fancybox="gallery" data-caption="Le camp de Hammerstein">
             <img src="miniatures/Hammerstein/hammerstein-05.jpg" alt="le camp de prisonniers d'Hammerstein dans un ouvrage allemand paru pendant la Première Guerre Mondiale"></a>
-            <figcaption>Couple sibérien en soldat russe<br/>(source allemande)</figcaption>
+            <figcaption>Couple sibérien en soldat russe<br>(source allemande)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

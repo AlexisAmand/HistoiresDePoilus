@@ -123,7 +123,7 @@
         <figure>    
             <a href="images/Limburg/localisation-limburg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Limburg">
             <img src="miniatures/Limburg/localisation-limburg.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Limburg"></a>
-            <figcaption>Localisation du camp de Limburg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Limburg<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure> 
 
         <p>Le Rapport des Délégués du Gouvernement Espagnol du 27 avril 1916 indique que le camp est composé d'une série de baraques de 75 mètres de long et 12 mètres de large. Elles sont disposées sur deux rangées formées chacune de 24 baraques. Dans les intervalles qui existent entre les baraques avait été installées des cabinets d'aisances et les cantines. Les cuisines sont placées devant et derrière. Le chauffage se fait au moyen de poêles à charbon et l'éclairage est électrique.</p>
@@ -136,7 +136,7 @@
             <tr>
                 <th headers="nations">Nationalités</th>
                 <th headers="camp">Au camp</th>
-                <th headers="travail">Dans les détachements<br/>de travail</th>
+                <th headers="travail">Dans les détachements<br>de travail</th>
             </tr>
             </thead>
             <tr>
@@ -159,73 +159,73 @@
         <figure>
             <a href="images/Limburg/limburg-01.jpg" data-fancybox="gallery" data-caption="Dans le magasin de vivres de Limburg">
             <img src="miniatures/Limburg/limburg-01.jpg" alt="La magasin de vivre du camp de Limburg pendant la Grande Guerre "></a>
-            <figcaption>Dans le magasin de vivres<br/>(source allemande)</figcaption>
+            <figcaption>Dans le magasin de vivres<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Limburg/limburg-02.jpg" data-fancybox="gallery" data-caption="Une des cuisines du camp de Limburg">
             <img src="miniatures/Limburg/limburg-02.jpg" alt="Une des cuisines du camp de de Limburg pendant la Première Guerre Mondiale"></a>
-            <figcaption>Une des cuisines du camp<br/>(source allemande)</figcaption>
+            <figcaption>Une des cuisines du camp<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Limburg/limburg-03.jpg" data-fancybox="gallery" data-caption="Au guichet de la cantine de Limburg">
             <img src="miniatures/Limburg/limburg-03.jpg" alt="Le guichet de la cantine du camp de Limburg pendant la Grande Guerre"></a>
-            <figcaption>Au guichet de la cantine<br/>(source allemande)</figcaption>
+            <figcaption>Au guichet de la cantine<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Limburg/limburg-04.jpg" data-fancybox="gallery" data-caption="A la promenade de Limburg">
             <img src="miniatures/Limburg/limburg-04.jpg" alt="Promenade des prisonniers dans le camp de Limburg"></a>
-            <figcaption>A la promenade<br/>(source allemande)</figcaption>
+            <figcaption>A la promenade<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Limburg/limburg-05.jpg" data-fancybox="gallery" data-caption="La grande lessive à Limburg">
             <img src="miniatures/Limburg/limburg-05.jpg" alt="Des prisonniers faisant leur lessive dans le camp de Limburg"></a>
-            <figcaption>La grande lessive<br/>(source allemande)</figcaption>
+            <figcaption>La grande lessive<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Limburg/limburg-06.jpg" data-fancybox="gallery" data-caption="A l'atelier du camp de Limburg">
             <img src="miniatures/Limburg/limburg-06.jpg" alt="Des prisonniers dans l'atelier du camp de Limburg pendant la Première Guerre Mondiale"></a>
-            <figcaption>A l'atelier<br/>(source allemande)</figcaption>
+            <figcaption>A l'atelier<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Limburg/limburg-07.jpg" data-fancybox="gallery" data-caption="Une répétition générale à Limburg">
             <img src="miniatures/Limburg/limburg-07.jpg" alt="Une répétition générale de Théâtre dans le camp de Limburg"></a>
-            <figcaption>Une répétition générale<br/>(source allemande)</figcaption>
+            <figcaption>Une répétition générale<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Limburg/limburg-08.jpg" data-fancybox="gallery" data-caption="A l'infirmerie de Limburg">
             <img src="miniatures/Limburg/limburg-08.jpg" alt="L'infirmerie du camp de Limburg pendant la Grande Guerre"></a>
-            <figcaption>A l'infirmerie<br/>(source allemande)</figcaption>
+            <figcaption>A l'infirmerie<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Limburg/limburg-09.jpg" data-fancybox="gallery" data-caption="Une messe en pleine air à Limburg">
             <img src="miniatures/Limburg/limburg-09.jpg" alt="Une messe en pleine air au camp de prisonniers de Limburg"></a>
-            <figcaption>Une messe en pleine air<br/>(source allemande)</figcaption>
+            <figcaption>Une messe en pleine air<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Limburg/limburg-10.jpg" data-fancybox="gallery" data-caption="L'enterrement d'un prisonnier avec les honneurs militaires à Limburg">
             <img src="miniatures/Limburg/limburg-10.jpg" alt="L'enterrement d'un prisonnier avec les honneurs militaires dans le camp de Limburg"></a>
-            <figcaption>L'enterrement d'un prisonnier avec les honneurs militaires<br/>(source allemande)</figcaption>
+            <figcaption>L'enterrement d'un prisonnier avec les honneurs militaires<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Limburg/limburg-11.jpg" data-fancybox="gallery" data-caption="Tombes de soldats anglais à Limburg">
             <img src="miniatures/Limburg/limburg-11.jpg" alt="Tombe de soldats anglais au nouveau cimetière près du camp de Limburg pendant la Première Guerre Mondiale"></a>
-            <figcaption>Tombes de soldats anglais<br/>(source allemande)</figcaption>
+            <figcaption>Tombes de soldats anglais<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Limburg/limburg-12.jpg" data-fancybox="gallery" data-caption="Vue prise depuis la Tour à Limburg">
             <img src="miniatures/Limburg/limburg-12.jpg" alt="Vue du camp de Limburg prise depuis la tour pendant Première Guerre Mondiale"></a>
-            <figcaption>Vue prise depuis la tour <br/>(source allemande)</figcaption>
+            <figcaption>Vue prise depuis la tour <br>(source allemande)</figcaption>
         </figure>
 
         <p>Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php">Wetzlar</a> arrivent au camp de Limburg.</p>
@@ -237,31 +237,31 @@
         <figure>
             <a href="images/Limburg/groupe.jpg" data-fancybox="gallery" data-caption="un groupe de prisonniers dans le camp de Limburg">
             <img src="miniatures/Limburg/groupe.jpg" alt="un groupe de prisonniers dans le camp de Limburg pendant la Première Guerre Mondiale"></a>
-            <figcaption>Un groupe de prisonniers<br/>(source: Muriel Dupuis Mallinger)</figcaption>
+            <figcaption>Un groupe de prisonniers<br>(source: Muriel Dupuis Mallinger)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Limburg/groupe-neige.jpg" data-fancybox="gallery" data-caption="un groupe de prisonniers dans le camp de Limburg">
             <img src="miniatures/Limburg/groupe-neige.jpg" alt="un groupe de prisonniers dans le camp de Limburg pendant la Première Guerre Mondiale"></a>
-            <figcaption>Un groupe de prisonniers<br/>(source: Muriel Dupuis Mallinger)</figcaption>
+            <figcaption>Un groupe de prisonniers<br>(source: Muriel Dupuis Mallinger)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Limburg/ordonnaud-detmold.jpg" data-fancybox="gallery" data-caption="portrait de Emilien Ordonnaud au camp de Limburg">
             <img src="miniatures/Limburg/ordonnaud-detmold.jpg" alt="portrait de Emilien Ordonnaud, prisonnier au camp de Limburg"></a>
-            <figcaption>Portrait de Emilien Ordonnaud<br/>(source: Muriel Dupuis Mallinger)</figcaption>
+            <figcaption>Portrait de Emilien Ordonnaud<br>(source: Muriel Dupuis Mallinger)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Limburg/ordonnaud-hopital.jpg" data-fancybox="gallery" data-caption="L'hôpital du camp de Limburg">
             <img src="miniatures/Limburg/ordonnaud-hopital.jpg" alt="L'hôpital du camp de Limburg pendant la Première Guerre Mondiale"></a>
-            <figcaption>L'hôpital du camp de Limburg<br/>(source: Muriel Dupuis Mallinger)</figcaption>
+            <figcaption>L'hôpital du camp de Limburg<br>(source: Muriel Dupuis Mallinger)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Limburg/ordonnaud-limburg.jpg" data-fancybox="gallery" data-caption="portrait de Emilien Ordonnaud au camp de Limburg">
             <img src="miniatures/Limburg/ordonnaud-limburg.jpg" alt="portrait de Emilien Ordonnaud, prisonnier au camp de Limburg"></a>
-            <figcaption>Portrait de Emilien Ordonnaud<br/>(source: Muriel Dupuis Mallinger)</figcaption>
+            <figcaption>Portrait de Emilien Ordonnaud<br>(source: Muriel Dupuis Mallinger)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

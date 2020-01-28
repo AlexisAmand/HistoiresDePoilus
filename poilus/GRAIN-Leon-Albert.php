@@ -126,13 +126,13 @@
         <figure>
             <a href="images/arbre-grain.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille GRAIN">
             <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" class="ArbreGenealogique"/></a>
-            <figcaption>Arbre simplifié de la famille GRAIN<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>Arbre simplifié de la famille GRAIN<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
         <figure>
             <a href="sources/Leon-grain-matricule-02.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Léon Albert GRAIN">
             <img src="miniatures/Leon-grain-matricule-02.jpg" alt="extrait de la fiche matricule de Léon Albert GRAIN"/></a>
-            <figcaption>Extrait de sa fiche matricule.<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>Extrait de sa fiche matricule.<br>(source: Archives Départementales du Nord)</figcaption> 
         </figure>
 
         <table class="census">
@@ -170,7 +170,7 @@
         <figure>
             <a href="sources/Leon-grain-matricule-01.jpg" data-fancybox="gallery" data-caption="La fiche matricule de Léon Albert (Extrait)">
             <img src="miniatures/Leon-grain-matricule-01.jpg" alt="extrait de la fiche matricule de Léon Albert GRAIN"/></a>
-            <figcaption>Extrait de sa fiche matricule.<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>Extrait de sa fiche matricule.<br>(source: Archives Départementales du Nord)</figcaption> 
         </figure>
 
         <h2>Le siège de Maubeuge</h2>
@@ -180,7 +180,7 @@
         <figure>
             <a href="images/forts-maubeuge.jpg" data-fancybox="gallery" data-caption="L'emplacement des forts de la place forte de Maubeuge en 1914">
             <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
-            <figcaption>L'emplacement des forts de la place forte de Maubeuge<br/>et position des troupes le 3 septembre 1914<br/>(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
+            <figcaption>L'emplacement des forts de la place forte de Maubeuge<br>et position des troupes le 3 septembre 1914<br>(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
         </figure>
 
         <h2>On brûle les drapeaux...</h2>
@@ -190,7 +190,7 @@
         <figure>
             <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" data-caption="La Caserne Joyeuse (Maubeuge) avant 1914">
             <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg" alt="La caserne Joyeuse à Maubeuge avant la Première Guerre Mondiale"/></a>
-            <figcaption>La Caserne Joyeuse à Maubeuge<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>La Caserne Joyeuse à Maubeuge<br>(source: Delcampe)</figcaption>
         </figure>
 
         <h2>La chute de Maubeuge</h2>
@@ -200,7 +200,7 @@
         <figure>
             <a href="images/camp-de-chemnitz.jpg" data-fancybox="gallery" data-caption="Le camp de Chemnitz pendant la Grande Guerre">
             <img src="miniatures/camp-de-chemnitz.jpg" alt="Le camp de prisonniers de Chemnitz sur une carte postale"/></a>
-            <figcaption>Le camp de Chemnitz<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>Le camp de Chemnitz<br>(source: Delcampe)</figcaption>
         </figure>
 
         <p>Léon Albert est libéré le 10 décembre 1918.</p>
@@ -209,7 +209,7 @@
 
         <ul>   	
             <li><a href="http://archives.genealexis.fr/album/18-grain-leon" title="version numérisée du dossier d'ancien combattant de Léon Albert GRAIN">Le dossier d'ancien combattant de Léon Albert GRAIN</a></li>   
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>
             <li><a href="../pdf/Maubeuge-1914-Duvivier.pdf" title="La Bataille de Maubeuge en septembre 1914">Maubeuge 1914</a> (Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
             <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a> (source allemande)</li>
             <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf">Aus deutschen Kriegsgefangenenlagern</a> (Deutsches Rotes Kreuz)</li>

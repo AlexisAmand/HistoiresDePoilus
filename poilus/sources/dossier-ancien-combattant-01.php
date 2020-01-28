@@ -108,7 +108,7 @@
 
 <h1>Auguste Victor FIEVET</h1>
 
-<p>Extrait du dossier d'ancien combattant d'Auguste Victor FIEVET.<br/>
+<p>Extrait du dossier d'ancien combattant d'Auguste Victor FIEVET.<br>
 <a href="../FIEVET-Auguste-Victor.php">Retour à la page consacrée à Auguste Victor</a>. </p>
 
 	<figure>

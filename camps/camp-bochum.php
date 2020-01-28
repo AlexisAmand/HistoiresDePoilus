@@ -119,7 +119,7 @@
         <figure>
             <a href="images/Bochum/carte-camp-bochum.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Bochum">
             <img src="miniatures/Bochum/carte-camp-bochum.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Bochum"></a>
-            <figcaption>Localisation du camp de Bochum<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Bochum<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

@@ -126,7 +126,7 @@
         <figure>
             <a href="images/rousseau-louis-henri-matricule.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Louis Henri ROUSSEAUX">    
             <img src="miniatures/rousseau-louis-henri-matricule.jpg" alt="Extrait de la fiche matricule du soldat Louis Henri ROUSSEAUX"></a>
-            <figcaption>Extrait de sa fiche matricule</figcaption>
+            <figcaption>Extrait de sa fiche matricule<br>(source: Archives Départementales du Nord)</figcaption> 
         </figure>
 
         <p>La parenté qui me lie à Louis est un peu compliquée, je vais essayer d'être le plus clair possible. Comme <a href="FIEVET-Charles-Augustin.php" title="Biographie du soldat Charles Augustin FIEVET">Charles Augustin</a> et <a href="FIEVET-Auguste-Victor.php" title="Biographie du soldat Auguste Victor FIEVET">Auguste Victor</a>, <strong>Louis Henri</strong> est le petit-fils de Léonie FIEVEZ, mon aïeule. Charles et Charles Augustin sont issus de Charles Jules, que Léonie a eu d'un père inconnu alors qu'Achille est issu d'Achille Léopold, que Léonie a eu de son mariage avec Augustin ROUSSEAUX. Pour faire bref, Le père de Louis Henri ROUSSEAUX et le père de Charles Augustin sont des demi-frères.</p>
@@ -134,7 +134,7 @@
         <figure>
             <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
             <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX" class="ArbreGenealogique"></a>
-            <figcaption>Les descendants de Léonie Louise FIEVET<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>Les descendants de Léonie Louise FIEVET<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
         <table class="census">
@@ -172,7 +172,7 @@
         <figure>
             <a href="images/Fouquescourt-vers-1915.jpg" data-fancybox="gallery" data-caption="Fouquescourt 1915 par Henri Lucien Cheffer (1915)">
             <img src="miniatures/Fouquescourt-vers-1915.jpg" alt="Fouquescourt peint par Henri Lucien Cheffer vers 1915"></a>
-            <figcaption>Fouquescourt vers 1915, par Henri Lucien Cheffer</figcaption>
+            <figcaption>Fouquescourt vers 1915, par Henri Lucien Cheffer<br>(source: Wikipedia Commons)</figcaption>
         </figure>   
 
         <p>Le 21 août 1915, <strong>Louis Henri ROUSSEAUX</strong> passe au <strong>12e Bataillon de Chasseurs</strong>, en application du décret ministériel du 14 août 1915. De juillet à octobre 1915, Louis Henri participe, avec son bataillon, aux violents combats du Barrenkopf et Linge dans le Haut-Rhin. Le bataillon y subit tellement de pertes que certaines compagnies sont déclarées anéanties sur le JMO du bataillon. La journée du 1er août voit successivement, trois chef de corps tomber avec leurs hommes. En décembre 1915, il participe aux combats de l'Hartmannswillerkopf, un éperon rocheux dans les Vosges.</p>
@@ -182,7 +182,7 @@
         <figure>
             <a href="images/rousseau-louis-mpf.jpg" data-fancybox="gallery" data-caption="Louis ROUSSEAUX, mort pour la France">
             <img src="miniatures/rousseau-louis-mpf.jpg" alt="Fiche de mort pour la France de Louis ROUSSEAUX"></a>
-            <figcaption>Louis, mort pour la France<br/>(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
+            <figcaption>Louis, mort pour la France<br>(source: Mémoire des Hommes)</figcaption>
         </figure>    
 
         <figure>
@@ -194,7 +194,7 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>       
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>       
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

@@ -119,13 +119,13 @@
         <figure>
             <a href="images/Heuberg/localisation-heuberg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Heuberg">
             <img src="miniatures/Heuberg/localisation-heuberg.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Heuberg"></a>
-            <figcaption>Localisation du camp de Heuberg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Heuberg<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Heuberg/Heuberg-01.jpg" data-fancybox="gallery" data-caption="Heuberg: L'arrivée des prisonniers">
             <img src="miniatures/Heuberg/Heuberg-01.jpg" alt="l'arrivée des prisonniers au camp de Heuberg pendant la Première Guerre Mondiale"></a>
-            <figcaption>L'arrivée au camp<br/>(source allemande)</figcaption>
+            <figcaption>L'arrivée au camp<br>(source allemande)</figcaption>
         </figure>
 
         <p>Le 2 septembre 1916, le Bulletin de l'Office d'information des oeuvres de secours aux prisonniers de guerre indique qu'au camp de Heuberg fonctionne différentes commissions qui sont composées par un adjudant ou sous-officier par compagnie. Ces commissions ont été élues par ces adjudants et sont ignorées par le commandement allemand, sauf celle des  nécessiteux. On se réunit deux fois par mois pour discuter toutes les questions intéressant les prisonniers français. Il y a des commissions de nécessiteux, jeux, théâtre, bibliothèque, cimetière et contrôle. Le comité des nécessiteux est composé des chefs de section de chaque compagnie, et a pour président, l'adjudant GAUDINEAU. Outre les envois reçus de France, la caisse des nécessiteux est alimentée par un versement mensuel prélevé sur les recettes du théâtre.</p> 

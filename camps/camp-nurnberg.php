@@ -119,7 +119,7 @@
         <figure>    
             <a href="images/Nurnberg/localisation-nurnberg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Nüremberg">
             <img src="miniatures/Nurnberg/localisation-nurnberg.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Nüremberg"></a>
-            <figcaption>Localisation du camp de Nüremberg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Nüremberg<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure> 
 
         <p>Le premier numéro du Canard, le "<em>Journal des Prisonniers de Guerre</em>" du camp de Nürmberg (Nuremberg) paraît le 15 août 1916. Le journal est décrit comme un compagnon qui vivra avec les prisonniers les longues heures de l'exil, dans l'espoir de les faire s'envoler un peu plus rapidement. Des numéros ont été numérisés et sont <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5673638t">disponibles sur le site de la BNF</a>.</p>
@@ -127,7 +127,7 @@
         <figure>
             <a href="images/Nurnberg/le_canard_journal_des_prisonniers.jpg" data-fancybox="gallery" data-caption="Le Canard du 15 août 1916">
             <img src="miniatures/Nurnberg/le_canard_journal_des_prisonniers.jpg" alt="Le premier exemplaire du canard, journal des prisonniers du camp de Nüremberg"></a>
-            <figcaption>Le Canard<br/>(Source: Gallica/BNF)</figcaption>
+            <figcaption>Le Canard<br>(Source: Gallica/BNF)</figcaption>
         </figure>
 
         <p>En mars 1918, le seul prisonnier belge se trouvant dans le camp de Nüremberg est transféré dans le camp d'Erlangen.</p>
@@ -135,7 +135,7 @@
         <figure>
             <a href="images/Nurnberg/nurnberg-01.jpg" data-fancybox="gallery" data-caption="Prisonniers de guerre à l'appel à Nüremberg">
             <img src="miniatures/Nurnberg/nurnberg-01.jpg" alt="L'appel des prisonniers de guerre dans le camp de Nüremberg pendant la Première Guerre Mondiale"></a>
-            <figcaption>Prisonniers de guerre à l'appel<br/>(source allemande)</figcaption>
+            <figcaption>Prisonniers de guerre à l'appel<br>(source allemande)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

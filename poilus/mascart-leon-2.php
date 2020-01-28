@@ -133,7 +133,7 @@
         <figure>
             <a href="sources/leon-mascart-mpf.jpg" data-fancybox="gallery" data-caption='Fiche "Mort pour la France" de Léon MASCART'>
             <img src="miniatures/leon-mascart-mpf.jpg" alt='Fiche "Mort pour la France" de Léon MASCART'/></a>
-            <figcaption>Léon, mort pour la France (Source : Ministère des armées - Mémoire des Hommes)</figcaption>
+            <figcaption>Léon, mort pour la France (Source : Mémoire des Hommes)</figcaption>
         </figure>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

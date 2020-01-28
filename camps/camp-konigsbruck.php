@@ -119,7 +119,7 @@
         <figure>
             <a href="images/Konigsbruck/camp-konigsbruck-01.jpg" data-fancybox="gallery" data-caption="Prisonniers français à Königsbrück">
             <img src="miniatures/Konigsbruck/camp-konigsbruck-01.jpg" alt="Un groupe de prisonniers français au camp de Königsbrück"></a>
-            <figcaption>Prisonniers français à Königsbrück<br/>(source: Clio Team)</figcaption>
+            <figcaption>Prisonniers français à Königsbrück<br>(source: Clio Team)</figcaption>
         </figure>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

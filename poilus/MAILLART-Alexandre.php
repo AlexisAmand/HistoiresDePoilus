@@ -96,13 +96,13 @@
         <figure>
             <a href="images/arbre-maillart.png" data-fancybox="gallery" data-caption="Arbre simplifié de la famille MAILLART-BALTAZART">
             <img src="miniatures/arbre-maillart.png" alt="Arbre généalogique simplifié de la famille MAILLART-BALTAZART" class="ArbreGenealogique"/></a>
-            <figcaption>Arbre simplifié de la famille MAILLART-BALTAZART<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>Arbre simplifié de la famille MAILLART-BALTAZART<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
         <figure>
             <a href="images/matricule-alexandre-maillart.jpg" data-fancybox="gallery" data-caption="Extrait de sa fiche matricule">
             <img src="miniatures/matricule-alexandre-maillart.jpg" alt="Extrait de la fiche matricule d'Alexandre MAILLART"/></a>
-            <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>Extrait de sa fiche matricule<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
         <p>Le 18 septembre 1899, Alexandre épouse à Boult-sur-Suippe (Marne) Marie Berthe GAUCHET, âgée de 25 ans, fille légitime d'Hyppolyte et Marie-Zélie SOMMELIER. Lors de son mariage, Alexandre travaille pour la Compagnie des Chemins de Fer de l'Est. Leur fils Marcel naît à Bar-le-Duc (Meuse) le 9 mai 1901, rue des romains.</p>
@@ -124,12 +124,12 @@
             </tr>
             <tr>
                 <td headers="date">1876</td>
-                <td headers="adresse">Rue de Pontfaverger<br/>Chez ses parents<br/>à Bétheniville</td>
+                <td headers="adresse">Rue de Pontfaverger<br>Chez ses parents<br>à Bétheniville</td>
                 <td headers="event">Recensement de la population</td>
             </tr>
             <tr>
                 <td headers="date">1881</td>
-                <td headers="adresse">Rue du Neuf-Bourg<br/>Chez ses parents<br/>à Bétheniville</td>
+                <td headers="adresse">Rue du Neuf-Bourg<br>Chez ses parents<br>à Bétheniville</td>
                 <td headers="event">Recensement de la population</td>
             </tr>      
             <tr>
@@ -139,12 +139,12 @@
             </tr>
             <tr>
                 <td headers="date">11 janvier 1900</td>
-                <td headers="adresse">22 Rue des Romains<br/>à Bar-le-Duc (Meuse)</td>
+                <td headers="adresse">22 Rue des Romains<br>à Bar-le-Duc (Meuse)</td>
                 <td headers="event">Mise à jour de sa fiche matricule</td>
             </tr>
             <tr>
                 <td headers="date">9 mai 1901</td>
-                <td headers="adresse">22 Rue des Romains<br/>à Bar-le-Duc (Meuse)</td>
+                <td headers="adresse">22 Rue des Romains<br>à Bar-le-Duc (Meuse)</td>
                 <td headers="event">Naissance de son fils Marcel</td>
             </tr>
             <tr>
@@ -163,19 +163,19 @@
         <figure>
             <a href="images/bethenville-place-munet-02.jpg" data-fancybox="gallery" data-caption="La Place du Munet avant la Grande Guerre">
             <img src="miniatures/bethenville-place-munet-02.jpg" alt="La Place du Munet à Bétheniville où a vécu Alexandre MAILLART"/></a>
-            <figcaption>La Place du Munet avant la Grande Guerre<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>La Place du Munet avant la Grande Guerre<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
         <figure>
             <a href="images/bethenville-place-munet-01.jpg" data-fancybox="gallery" data-caption="La Place du Munet Après la Grande Guerre">
             <img src="miniatures/bethenville-place-munet-01.jpg" alt="La Place du Munet à Bétheniville où a vécu Alexandre MAILLART"/></a>
-            <figcaption>La Place du Munet Après la Grande Guerre<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>La Place du Munet Après la Grande Guerre<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

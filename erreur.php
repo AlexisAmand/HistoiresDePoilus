@@ -58,7 +58,7 @@
 
             <h1>Erreur 404</h1>
 
-            <p>Oups ! La page que vous demandez n'a pas été trouvée !<br/>Peut-être a t-elle été déplacée ou supprimée ?</p>
+            <p>Oups ! La page que vous demandez n'a pas été trouvée !<br>Peut-être a t-elle été déplacée ou supprimée ?</p>
 
             <figure>
                 <img src="/images/periscope.jpg" alt=""/>
@@ -202,23 +202,7 @@
                 </ul>
                 </li>
                 <li>Les camps d'internement suisses</li>	
-                <li>Hôpitaux français
-                <ul>
-                    <li><a href="/hopitaux/hopitaux-ara.php">Auvergne-Rhône-Alpes</a></li>
-                    <li><a href="/hopitaux/hopitaux-bfc.php">Bourgogne-Franche-Comté</a></li>
-                    <li><a href="/hopitaux/hopitaux-bre.php">Bretagne</a></li>
-                    <li><a href="/hopitaux/hopitaux-cvl.php">Centre-Val de Loire</a></li>
-                    <li><a href="/hopitaux/hopitaux-cor.php">Corse</a></li>
-                    <li><a href="/hopitaux/hopitaux-ges.php">Grand Est</a></li>
-                    <li><a href="/hopitaux/hopitaux-hdf.php">Hauts-de-France</a></li>
-                    <li><a href="/hopitaux/hopitaux-idf.php">Île-de-France</a></li>
-                    <li><a href="/hopitaux/hopitaux-nor.php">Normandie</a></li>
-                    <li><a href="/hopitaux/hopitaux-naq.php">Nouvelle-Aquitaine</a></li>
-                    <li><a href="/hopitaux/hopitaux-occ.php">Occitanie</a></li>
-                    <li><a href="/hopitaux/hopitaux-pdl.php">Pays de la Loire</a></li>
-                    <li><a href="/hopitaux/hopitaux-pac.php">Provence-Alpes-Côte d'Azur</a></li>
-                </ul>
-                </li>
+                <li><a href="/hopitaux/hopitaux.php">Hôpitaux des Hauts-de-France</a></li>
                 <li>Les soldats belges
                 <ul>
                     <li><a href="/poilus/amand-jules.php"  class="AsideSelected">AMAND Jules (+)</a></li>

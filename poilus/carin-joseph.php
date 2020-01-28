@@ -129,7 +129,7 @@
 		<figure>
 			<a href="sources/carin-joseph-matricule.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Joseph CARIN">
 			<img src="miniatures/carin-joseph-matricule.jpg" alt="Extrait de la fiche matricule de Joseph CARIN"/></a>
-			<figcaption>Extrait de sa fiche matricule<br/>(Source: Archives Départementales du Nord)</figcaption>
+			<figcaption>Extrait de sa fiche matricule<br>(Source: Archives Départementales du Nord)</figcaption>
 		</figure>
 
 		<table class="census">
@@ -143,11 +143,11 @@
 			<tbody>
 			<tr>
 				<td headers="date">1906</td>
-				<td headers="adresse">Rue Beauvois<br/>à Lourches (Nord)</td>
+				<td headers="adresse">Rue Beauvois<br>à Lourches (Nord)</td>
 			</tr>
 			<tr>
 				<td headers="date">12 décembre 1929</td>
-				<td headers="adresse">Rue de la Briquette<br/>Flers-en-Escrebieux (Nord)</td>
+				<td headers="adresse">Rue de la Briquette<br>Flers-en-Escrebieux (Nord)</td>
 			</tr>
 			</tbody>
 		</table>
@@ -165,7 +165,7 @@
 		<h2>Sources et bibliographie</h2>
 
 		<ul>
-			<li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>     
+			<li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>     
 			<li><a href="https://archivesdepartementales.lenord.fr/">Archives Départementales du Nord</a></li> 
 		</ul>
 

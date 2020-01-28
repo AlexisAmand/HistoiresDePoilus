@@ -126,36 +126,8 @@
 		<figure>
 			<a href="images/letienne-florimond-1873.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Florimond LETIENNE">
 			<img src="miniatures/letienne-florimond-1873.jpg" alt="Acte de naissance de Florimond LETIENNE"></a>
-			<figcaption>Acte de naissance de Florimond<br/> (source : Archives Départementales du Nord)</figcaption>
+			<figcaption>Acte de naissance de Florimond<br> (source : Archives Départementales du Nord)</figcaption>
 		</figure> 
-
-		<table class="census">
-			<caption>Liste des domiciles de Florimond</caption>
-			<thead>
-			<tr>
-				<th id="date">Dates</th>
-				<th id="adresse">Adresses</th>
-			</tr>
-			</thead>
-			<tbody>
-			<tr>
-				<td headers="date">1</td>
-				<td headers="adresse">2</td>
-			</tr>
-			<tr>
-				<td headers="date">1</td>
-				<td headers="adresse">2</td>
-			</tr>
-			<tr>
-				<td headers="date">1</td>
-				<td headers="adresse">2</td>
-			</tr>
-			<tr>
-				<td headers="date">1</td>
-				<td headers="adresse">2</td>
-			</tr>
-			</tbody>   
-		</table>
 
 		<table class="census">
 			<caption>Liste des domiciles de Florimond</caption>
@@ -190,7 +162,7 @@
 		<figure>
 			<a href="images/roubaix_longues_haies.jpg" data-fancybox="gallery" data-caption="La Rue des Longues Haies à Roubaix">
 			<img src="miniatures/roubaix_longues_haies.jpg" alt="La Rue des Longues Haies et le Mont de piété à Roubaix"></a>
-			<figcaption>La Rue des Longues Haies et le Mont de Piété (Roubaix)<br/> (source : Bibliothèque Numérique de Roubaix)</figcaption>
+			<figcaption>La Rue des Longues Haies et le Mont de Piété (Roubaix)<br> (source : Bibliothèque Numérique de Roubaix)</figcaption>
 		</figure>   
 
 		<h2>Florimond et la Grande Guerre</h2>
@@ -200,14 +172,14 @@
 		<figure>
 			<a href="images/carte-florimond-letienne.jpg" data-fancybox="gallery" data-caption="Carte d'ancien combattant">
 			<img src="miniatures/carte-florimond-letienne.jpg" alt="carte d'ancien combattant de Florimond LETIENNE trouvée aux Archives Départementales"></a>
-			<figcaption>Carte d'ancien combattant ayant appartenu à Florimond<br/> (source : Archives Départementales du Nord)</figcaption>
+			<figcaption>Carte d'ancien combattant ayant appartenu à Florimond<br> (source : Archives Départementales du Nord)</figcaption>
 		</figure>   
 
 		<h2>Sources et bibliographie</h2>
 
 		<ul>
 			<li><a href="http://archives.genealexis.fr/album/20-letienne-florimond" title="version numérisée du dossier d'ancien combattant de Florimond LETIENNE">Le dossier d'ancien combattant de Florimond LETIENNE</a> (Archives Départementales du Nord)</li>
-			<li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
+			<li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>
 		</ul>
 
 		<p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

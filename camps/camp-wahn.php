@@ -117,19 +117,19 @@
         <figure>
             <a href="images/Wahn/camp-wahn-01.jpg" data-fancybox="gallery" data-caption="Prisonniers alliés en Allemagne">
             <img src="miniatures/Wahn/camp-wahn-01.jpg" alt="un groupe de prisonniers alliés au camp de Wahn"></a>
-            <figcaption>Prisonniers alliés en Allemagne<br/>(source: Clio Team)</figcaption>
+            <figcaption>Prisonniers alliés en Allemagne<br>(source: Clio Team)</figcaption>
         </figure>
         
         <figure>
             <a href="images/Wahn/camp-wahn-02.jpg" data-fancybox="gallery" data-caption="Construction de tentes à Wahn">
             <img src="miniatures/Wahn/camp-wahn-02.jpg" alt="Construction de tentes au camp de prisonniers de Wahn"></a>
-            <figcaption>Construction de tentes<br/>(source: Clio Team)</figcaption>
+            <figcaption>Construction de tentes<br>(source: Clio Team)</figcaption>
         </figure>
         
         <figure>
             <a href="images/Wahn/camp-wahn-03.jpg" data-fancybox="gallery" data-caption="Le repas du midi à Wahn">
             <img src="miniatures/Wahn/camp-wahn-03.jpg" alt="Le repas du midi au camp de prisonniers de Wahn"></a>
-            <figcaption>Le repas du midi<br/>(source: Clio Team)</figcaption>
+            <figcaption>Le repas du midi<br>(source: Clio Team)</figcaption>
         </figure>
         
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

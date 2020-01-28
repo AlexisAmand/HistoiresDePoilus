@@ -135,7 +135,7 @@
 		<figure>
             <a href="images/Puchheim/camp-puchheim-01.jpg" data-fancybox="gallery" data-caption="Une partie de football au camp de Puchheim">
             <img src="miniatures/Puchheim/camp-puchheim-01.jpg" alt="Une partie de football au camp de prisonniers de Puchheim pendant la Grande Guerre"></a>
-            <figcaption>Une partie de football au camp de Puchheim<br/>(source: Clio Team)</figcaption>
+            <figcaption>Une partie de football au camp de Puchheim<br>(source: Clio Team)</figcaption>
         </figure>
 
 		<p>Entre 1915 et 1919, 585 prisonniers sont morts de la grippe espagnole, dont environ 350 seulement entre novembre 1918 et février 1919. 

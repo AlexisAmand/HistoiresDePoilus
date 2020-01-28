@@ -128,7 +128,7 @@
         <figure>
             <a href="sources/georges-lamandin-mpf.jpg" data-fancybox="gallery" data-caption='Fiche "Mort pour la France" de Georges LAMANDIN'>
             <img src="miniatures/georges-lamandin-mpf.jpg" alt='Fiche "Mort pour la France" de Georges LAMANDIN'/></a>
-            <figcaption>Georges, Mort pour la France<br/>(Source : Ministère des armées - Mémoire des Hommes)</figcaption>
+            <figcaption>Georges, Mort pour la France<br>(Source : Mémoire des Hommes)</figcaption>
         </figure>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

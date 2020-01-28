@@ -117,7 +117,7 @@
         <figure>    
             <a href="images/Mannheim/localisation-mannheim.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Mannheim">
             <img src="miniatures/Mannheim/localisation-mannheim.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Mannheim"></a>
-            <figcaption>Localisation du camp de Mannheim<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Mannheim<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure> 
 
         <p>Evacué sur le camp de Mannheim, Gaston Roussel, membre du Ier Régiment de Zouaves y a vécu au premier semestre 1916. Transféré en Suisse le 25 juillet 1916 pour tuberculose pulmonaire, il raconte que le camp manquait de bancs et de sièges, ce qui obligeait les prisonniers à rester debout, puisqu'on leur défendait de s'asseoir sur leurs sacs de couchage. Il raconte également que <em>"la nourriture à Mannheim était excessivement mauvaise, et que les prisonniers étaient brutalisés. La punition au poteau n'y était pas employée, mais les hommes étaient envoyés au cachot sous des prétextes futiles""</em>".</p>

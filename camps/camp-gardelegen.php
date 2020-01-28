@@ -118,7 +118,7 @@
 
         <figure>
             <img src="miniatures/Gardelegen/carte-camp-gardelegen.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Gardelegen">
-            <figcaption>Localisation du camp de Gardelegen<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Gardelegen<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure> 
 
         <p>Les prisonniers avaient installé à Gardelegen un petit théâtre où les Français, les Anglais et les Belges donnaient de représentations. Il était également possible d'y donner des représentations cinématographiques.</p>
@@ -126,19 +126,19 @@
         <figure>
             <a href="images/camps_prisonniers_gardelegen.jpg" data-fancybox="gallery" data-caption="La cantine du camp de prisonniers de Gardelegen">
             <img src="miniatures/camps_prisonniers_gardelegen.jpg" alt="la cantine du camp de prisonniers de Gardelegen pendant la Grande Guerre"></a>
-            <figcaption>La cantine à Gardelegen<br/>(Carte postale)</figcaption>
+            <figcaption>La cantine à Gardelegen<br>(source : Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="images/camps_prisonniers_gardelegen_01.jpg" data-fancybox="gallery" data-caption="Le Lazaret de Gardelegen">
             <img src="miniatures/camps_prisonniers_gardelegen_01.jpg" alt="le lazaret du camp de prisonniers de Gardelegen pendant la Première Guerre Mondiale"></a>
-            <figcaption>Le lazaret de Gardelegen<br/>(Carte postale)</figcaption>
+            <figcaption>Le lazaret de Gardelegen<br>(source : Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="images/monument-gardelegen.jpg" data-fancybox="gallery" data-caption="Le camp de Gardelegen">
             <img src="miniatures/monument-gardelegen.jpg" alt="le monument aux prisonniers morts en captivité dans le camp de Gardelegen pendant la Première Guerre Mondiale"></a>
-            <figcaption>Le monument à la mémoire des prisonniers morts en captivité<br/>(Carte postale)</figcaption>
+            <figcaption>Le monument à la mémoire des prisonniers morts en captivité<br>(source : Delcampe)</figcaption>
         </figure>
 
         <p>A la fin de la guerre, le camp de Gardelegen a été évacué via la Hollande.</p>

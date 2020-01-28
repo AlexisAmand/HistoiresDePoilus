@@ -127,13 +127,13 @@
         <figure>
             <a href="images/arbre-grain.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille DUBOIS-GRAIN">
             <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille DUBOIS-GRAIN" class="ArbreGenealogique"/></a>
-            <figcaption>Arbre simplifié de la famille DUBOIS-GRAIN<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>Arbre simplifié de la famille DUBOIS-GRAIN<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
         <figure>
             <a href="images/census-villers-guislain-1906.jpg" data-fancybox="gallery" data-caption="Extrait du recensement de Villers-Guislain">
             <img src="miniatures/census-villers-guislain-1906.jpg" alt="Extrait du recensement de Villers-Guislain de 1906"></a>
-            <figcaption>Extrait du recensement de Villers-Guislain (1906)<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption> 
+            <figcaption>Extrait du recensement de Villers-Guislain (1906)<br>(source: Archives Départementales du Nord)</figcaption> 
         </figure>
 
         <table class="census">
@@ -171,7 +171,7 @@
         <figure>
             <a href="sources/DUBOIS-Emile-Edmond-matricule.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Émile DUBOIS">
             <img src="miniatures/DUBOIS-Emile-Edmond-matricule.jpg" alt="Extrait de la fiche matricule d'Émile DUBOIS"/></a>
-            <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption> 
+            <figcaption>Extrait de sa fiche matricule<br>(source: Archives Départementales du Nord)</figcaption> 
         </figure>
 
         <p>La partie qui suit est directement issue de l'Historique du 294e Régiment d'Infanterie, j'ai juste apporté 2 ou 3 petites modifications pour faciliter la lecture.</p>
@@ -189,7 +189,7 @@
         <figure>
             <a href="images/Cpa_Senlis.jpg" data-fancybox="gallery" data-caption="Senlis incendiée par les Allemands en 1914">
             <img src="miniatures/Cpa_Senlis.jpg" alt="Senlis incendiée par les Allemands pendant la Grande Guerre sur une carte postale ancienne"></a>
-            <figcaption>Senlis incendiée par les Allemands le 2 septembre 1914<br/>(cliquez pour agrandir)</figcaption> 
+            <figcaption>Senlis incendiée par les Allemands le 2 septembre 1914<br>(cliquez pour agrandir)</figcaption> 
         </figure>
 
         <h2>La Bataille de la Marne</h2>
@@ -199,7 +199,7 @@
         <figure>
             <a href="images/ferme-de-champfleury.jpg" data-fancybox="gallery" data-caption="La ferme de Champfleury en 1914">
             <img src="miniatures/ferme-de-champfleury.jpg" alt="La ferme de Champfleury après les bombardements de septembre 1914"></a>
-            <figcaption>La ferme de Champfleury après le bombardement<br/>(cliquez pour agrandir)</figcaption> 
+            <figcaption>La ferme de Champfleury après le bombardement<br>(cliquez pour agrandir)</figcaption> 
         </figure>
 
         <h2>Le combat sur l'Aisne</h2>
@@ -213,7 +213,7 @@
         <figure>
             <a href="images/Beuvraignes-1914.jpg" data-fancybox="gallery" data-caption="Beuvraignes pendant la Grande Guuerre">
             <img src="miniatures/Beuvraignes-1914.jpg"  alt="Le village de Beuvraignes pendant la Première Guerre Mondiale"/></a>
-            <figcaption>Le village de Beuvraignes pendant la Grande Guerre<br/>(source: Wikipédia - cliquez pour agrandir)</figcaption>
+            <figcaption>Le village de Beuvraignes pendant la Grande Guerre<br>(source: Wikipédia - cliquez pour agrandir)</figcaption>
         </figure>        
 
         <p><em>Les 3, 4 et 5 octobre, des combats acharnés sont livrés pour la possession du village, l'ennemi nous opposant des forces bien supérieures en nombre. De part et d'autre les contres attaques se succèdent aux attaques et nos hommes se battent au corps à corps dans les rues et les maisons du village. Malgré des pertes importantes, (le Régiment ne compte plus que 400 hommes environ), l'ennemi ne parvient pas à nous chasser des lisières Sud du village et nous faisons une centaine de prisonniers dont deux officiers. Le 7, le régiment passe en seconde ligne, relevé par d'autres éléments de la 56e Division d'Infanterie gagne les villages de Bus et de Tilloloy, incorpore un renfort de 600 hommes et repasse en première ligne le 10 occupant le Bois allongé. Le 11, un coup de main tenté à Beuvraignes par deux compagnies permet de gagner quelques maisons du village. Le 14, le Régiment est relevé par le 92e Régiment d'Infanterie Du 14 au 30, la Division passe en réserve mobile d'Armée aux environs de Montdidier.</em></p>
@@ -221,7 +221,7 @@
         <figure>
             <a href="images/montdidier-1914-1918.jpg" data-fancybox="gallery" data-caption="Les ruines de Montdidier">
             <img src="miniatures/montdidier-1914-1918.jpg"  alt="Les ruines de Montdidier pendant la Première Guerre Mondiale"/></a>
-            <figcaption>Les ruines de Montdidier (date inconnue)<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>Les ruines de Montdidier (date inconnue)<br>(cliquez pour agrandir)</figcaption>
         </figure>  
 
         <h2>Émile, mort pour la France</h2>
@@ -231,7 +231,7 @@
         <figure>
             <a href="images/souain-soldats.jpg" data-fancybox="gallery" data-caption="Victimes françaises à Souain en 1915">
             <img src="miniatures/souain-soldats.jpg"  alt="Des soldats français décédés suite à l'assaut du 7 octobre à Souain dans journal Le Miroir"/></a>
-            <figcaption>Des soldats français décédés suite à l'assaut du 7 octobre<br/>(source: Gallica / Le Miroir du 24 octobre 1915)</figcaption>
+            <figcaption>Des soldats français décédés suite à l'assaut du 7 octobre<br>(source: Gallica / Le Miroir du 24 octobre 1915)</figcaption>
         </figure>
 
         <figure>
@@ -242,7 +242,7 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>      
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>      
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

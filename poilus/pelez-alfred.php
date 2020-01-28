@@ -134,23 +134,23 @@
             <tbody>
             <tr>
                 <td headers="date">10 mai 1896</td>
-                <td headers="adresse">Annezin<br/>(Pas-de-Calais)</td>
+                <td headers="adresse">Annezin<br>(Pas-de-Calais)</td>
             </tr>
             <tr>
                 <td headers="date">13 septembre 1896</td>
-                <td headers="adresse">Chez Auguste DESCAMPS<br/>à Montigny-en-Gohelle (Pas-de-Calais)</td>
+                <td headers="adresse">Chez Auguste DESCAMPS<br>à Montigny-en-Gohelle (Pas-de-Calais)</td>
             </tr>
             <tr>
                 <td headers="date">28 avril 1906</td>
-                <td headers="adresse">Chez Mr DOUTRICOURT<br/>Rue du Marais<br/>à Fouquières-lès-Lens (Pas-de-Calais)</td>
+                <td headers="adresse">Chez Mr DOUTRICOURT<br>Rue du Marais<br>à Fouquières-lès-Lens (Pas-de-Calais)</td>
             </tr>
             <tr>
                 <td headers="date">25 mars 1912</td>
-                <td headers="adresse">Corons n°25<br/>à Rouvroy (Pas-de-Calais)</td>
+                <td headers="adresse">Corons n°25<br>à Rouvroy (Pas-de-Calais)</td>
             </tr>
             <tr>
                 <td headers="date">10 janvier 1916</td>
-                <td headers="adresse">Place de la Mairie<br/>à Saint-Genest-Lerpt (Loire)</td>
+                <td headers="adresse">Place de la Mairie<br>à Saint-Genest-Lerpt (Loire)</td>
             </tr>
             </tbody>
         </table>

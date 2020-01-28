@@ -126,13 +126,13 @@
         <figure>
             <a href="images/arbre-grain.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille GRAIN">
             <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" class="ArbreGenealogique"/></a>
-            <figcaption>Arbre simplifié de la famille GRAIN<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>Arbre simplifié de la famille GRAIN<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
         <figure>
             <a href="sources/louis-grain-matricule-01.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Louis GRAIN (Extrait)">
             <img src="miniatures/louis-grain-matricule-01.jpg" alt="Extrait de la fiche matricule de Louis GRAIN"/></a>
-            <figcaption>Extrait de sa fiche matricule<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>Extrait de sa fiche matricule<br>(source: Archives Départementales du Nord)</figcaption> 
         </figure>
 
         <table class="census">
@@ -146,11 +146,11 @@
             <tbody>
             <tr>
                 <td headers="date">1906</td>
-                <td headers="adresse">Rue Neuve<br/>à Villers-Guislain (Nord)</td>
+                <td headers="adresse">Rue Neuve<br>à Villers-Guislain (Nord)</td>
             </tr>
             <tr>
                 <td headers="date">1911</td>
-                <td headers="adresse">Rue de Merlan<br/>à Bétheniville (Marne)</td>
+                <td headers="adresse">Rue de Merlan<br>à Bétheniville (Marne)</td>
             </tr>
             </tbody>
         </table>
@@ -166,7 +166,7 @@
         <figure>
             <a href="images/forts-maubeuge.jpg" data-fancybox="gallery" data-caption="L'emplacement des forts de la place forte de Maubeuge en 1914">
             <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
-            <figcaption>L'emplacement des forts de la place forte de Maubeuge<br/>et position des troupes le 3 septembre 1914<br/>(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
+            <figcaption>L'emplacement des forts de la place forte de Maubeuge<br>et position des troupes le 3 septembre 1914<br>(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
         </figure>
 
         <h2>L'attaque des allemands</h2>
@@ -180,7 +180,7 @@
         <figure>
             <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" data-caption="La Caserne Joyeuse (Maubeuge) avant 1914">
             <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg" alt="La caserne Joyeuse à Maubeuge avant la Première Guerre Mondiale"/></a>
-            <figcaption>La Caserne Joyeuse à Maubeuge<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>La Caserne Joyeuse à Maubeuge<br>(source: Delcampe)</figcaption>
         </figure>
 
         <h2>C'est fini pour Maubeuge...</h2>
@@ -190,7 +190,7 @@
         <figure>
             <a id="single_image0" href="images/camp-de-chemnitz.jpg" title="le camp de Chemnitz pendant la Première Guerre Mondiale">
             <img src="miniatures/camp-de-chemnitz.jpg" alt="le camp de Chemnitz (Allemagne)"/></a>
-            <figcaption>Le camp de Chemnitz<br/>(Cliquez pour agrandir)</figcaption>
+            <figcaption>Le camp de Chemnitz<br>(source: Delcampe)</figcaption>
         </figure>
 
         <p>Selon son dossier d'ancien combattant, <strong>Louis</strong> est libéré du <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de Chemnitz</a> le 8 janvier 1919.</p>
@@ -204,7 +204,7 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>
             <li><a href="../pdf/Maubeuge-1914-Duvivier.pdf">Maubeuge 1914</a> (Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
             <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a> (source allemande)</li>
             <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf">Aus deutschen Kriegsgefangenenlagern</a> (Deutsches Rotes Kreuz)</li>

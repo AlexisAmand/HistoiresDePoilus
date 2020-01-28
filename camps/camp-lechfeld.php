@@ -119,20 +119,20 @@
         <figure>
             <a href="images/Lechfeld/localisation-lechfeld.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Lechfeld">
             <img src="miniatures/Lechfeld/localisation-lechfeld.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Lechfeld"></a>
-            <figcaption>Localisation du camp de Lechfeld<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Lechfeld<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
 
         <figure>
             <a href="images/Lechfeld-cpa-02.jpg" data-fancybox="gallery" data-caption="Des prisonniers français à Lechfeld">
             <img src="miniatures/Lechfeld-cpa-02.jpg" alt="Des prisonniers français dans le camp de prisonniers de Lechfeld pendant la Grande Guerre"></a>
-            <figcaption>Des prisonniers français dans le camp de Lechfeld<br/>(Carte postale)</figcaption>
+            <figcaption>Des prisonniers français dans le camp de Lechfeld<br>(source : Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Lechfeld-cpa-03.jpg" data-fancybox="gallery" data-caption="Des prisonniers français à Lechfeld">
             <img src="miniatures/Lechfeld-cpa-03.jpg" alt="Des prisonniers français dans le camp de prisonniers de Lechfeld pendant la Première Guerre Mondiale"></a>
-            <figcaption>Des prisonniers français dans le camp de Lechfeld<br/>(Carte postale)</figcaption>
+            <figcaption>Des prisonniers français dans le camp de Lechfeld<br>(source : Delcampe)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

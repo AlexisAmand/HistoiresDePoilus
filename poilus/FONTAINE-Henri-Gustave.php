@@ -126,7 +126,7 @@
         <figure>
             <a href="images/anzin-rue-kleber.jpg" data-fancybox="gallery" data-caption="La rue Kléber à Anzin">
             <img src="miniatures/anzin-rue-kleber.jpg" alt="La rue Kléber à Anzin sur une carte postale"/></a>
-            <figcaption>La Rue Kléber à Anzin<br/>(Source: Bibliothèque municipale de Valenciennes)</figcaption>
+            <figcaption>La Rue Kléber à Anzin<br>(Source: Bibliothèque municipale de Valenciennes)</figcaption>
         </figure>
 
         <p>Il s'unit à Valenciennes (Nord) avec Bertha CANONNE le 3 avril 1914. Bertha est la fille légitime de Nestor CANONNE et de Marie Eugénie DUCHÊNE. Le couple aura plusieurs enfants: Henri, Madeleine (mon arrière-grand-mère, qui épousera Kleber le fils de <a href="FIEVET-Charles-Augustin.php" title="Voir la page consacrée à Charles Augustin Fievet">Charles Augustin FIEVET</a>), René, Marcel et Marie-Louise.</p>
@@ -134,7 +134,7 @@
         <figure>
             <a href="portraits/tous-les-grand-peres.jpg" data-fancybox="gallery" data-caption="La famille FONTAINE">
             <img src="miniatures/tous-les-grand-peres.jpg" alt="La famille FONTAINE"/></a>
-            <figcaption>Henri Gustave, debout avec le chapeau<br/>(Source: Archives familiales)</figcaption>
+            <figcaption>Henri Gustave, debout avec le chapeau<br>(Source: Archives familiales)</figcaption>
         </figure>
 
         <table class="census">
@@ -171,34 +171,40 @@
 
         <h2>Anzin, ville occupée</h2>
 
-        <p>Anzin, commune où est né <strong>Henri</strong>, est occupée par l'armée allemande dès le 25 août 1914, aussitôt un couvre-feu instauré.</p><p><a href="http://cartespostalesanciennes.genealexis.fr/album/36-anzin" title="cartes postales anciennes d'Anzin sur le site Genealexis">Anzin</a> avait la particularité d'être située dans la « zone d'étape », qui comprenait toutes les compagnies du Nord, la compagnie des mines d'Anzin reprit l'exploitation au bout de quelques semaines en partie avec du personnel réquisitionné et sous le contrôle étroit de la Bergverwaltung (section des mines de l'administration allemande). Sa production est toutefois  inférieure de 30 % à celle de 1913. </p><p>L'exploitation industrielle fut par contre arrêtée : les usines de la Société des Forges furent totalement démolies, les machines et ferrailles étant récupérées au profit de l'industrie allemande ; l'usine Escaut-et-Meuse fut transformée en atelier de réparation de canons. </p><p>La ville d'Anzin est libérée le 1er novembre 1918.</p>
+        <p>Anzin, commune où est né <strong>Henri</strong>, est occupée par l'armée allemande dès le 25 août 1914, aussitôt un couvre-feu instauré.</p>
 
         <figure>
             <a href="images/anzin-1914-01.jpg"  data-fancybox="gallery" data-caption="La Croix d'Anzin">
             <img src="miniatures/anzin-1914-01.jpg" alt="La Croix D'Anzin en pendant la Première Guerre Mondiale (1914-1918) sur une carte postale ancienne"/></a>
-            <figcaption>La Croix d'Anzin détruite en 1914-18</figcaption>
+            <figcaption>La Croix d'Anzin détruite en 1914-18<br>(Source: Bibliothèque Municipale de Valenciennes)</figcaption>
         </figure>
+
+        <p><a href="http://cartespostalesanciennes.genealexis.fr/album/36-anzin" title="cartes postales anciennes d'Anzin sur le site Genealexis">Anzin</a> avait la particularité d'être située dans la « zone d'étape », qui comprenait toutes les compagnies du Nord, la compagnie des mines d'Anzin reprit l'exploitation au bout de quelques semaines en partie avec du personnel réquisitionné et sous le contrôle étroit de la Bergverwaltung (section des mines de l'administration allemande). Sa production est toutefois  inférieure de 30 % à celle de 1913. </p>
+
+        <figure>
+            <a href="images/anzin-rue-lecaillez-1914-1918.jpg"  data-fancybox="gallery" data-caption="Les ruines de la rue Lecaillez à Anzin sur une carte postale ancienne">
+            <img src="miniatures/anzin-rue-lecaillez-1914-1918.jpg" alt="Les ruines de la rue Lecaillez à Anzin sur une carte postale ancienne"></a>
+            <figcaption>La rue Lecaillez<br>(Source: Bibliothèque Municipale de Valenciennes)</figcaption>
+        </figure>
+
+        <p>L'exploitation industrielle fut par contre arrêtée : les usines de la Société des Forges furent totalement démolies, les machines et ferrailles étant récupérées au profit de l'industrie allemande ; l'usine Escaut-et-Meuse fut transformée en atelier de réparation de canons. </p><p>La ville d'Anzin est libérée le 1er novembre 1918.</p>
 
         <figure>
             <a href="images/anzin-1914-02.jpg"  data-fancybox="gallery" data-caption="Le retour des évacués à Anzin en 1918">
             <img src="miniatures/anzin-1914-02.jpg" alt="Le retour des évacués à Anzin après la guerre en 1918"/></a>
-            <figcaption>Le retour des évacués en 1918</figcaption>
+            <figcaption>Le retour des évacués en 1918<br>(Source: Bibliothèque Municipale de Valenciennes)</figcaption>
         </figure>
 
         <figure>
-            <img src="miniatures/anzin-rue-lecaillez-1914-1918.jpg" alt="La rue Lecaillez à Anzin sur une carte postale ancienne">
-            <figcaption>La rue Lecaillez</figcaption>
-        </figure>
-
-        <figure>
-            <img src="miniatures/anzin-ruines-eglise-1914-1918.jpg" alt="Les ruines de l'église d'Anzin après la Grande Guerre">
-            <figcaption>Les ruines de l'église</figcaption>
+            <a href="images/anzin-ruines-eglise-1914-1918.jpg"  data-fancybox="gallery" data-caption="Les ruines de l'église d'Anzin en 1914-1918">
+            <img src="miniatures/anzin-ruines-eglise-1914-1918.jpg" alt="Les ruines de l'église d'Anzin bombardée par les allemands pendant la guerre"></a>
+            <figcaption>Les ruines de l'église,<br>bombardée par les allemands pendant la guerre<br>(Source: Bibliothèque Municipale de Valenciennes)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>      
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>      
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

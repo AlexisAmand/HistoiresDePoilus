@@ -124,7 +124,7 @@
         <figure>
             <a href="images/capelle-sur-ecaillon.jpg" data-fancybox="gallery" data-caption="Le monument de Capelle-sur-Ecaillon">
             <img src="images/mini/capelle-sur-ecaillon.jpg" alt="Le monument aux morts pour la France de Capelle-sur-Ecaillon"/></a>
-            <figcaption>Le monument de Capelle-sur-Ecaillon<br/>(Source: Photo privée)</figcaption>
+            <figcaption>Le monument de Capelle-sur-Ecaillon<br>(Source: Photo privée)</figcaption>
         </figure>
 
         <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
@@ -140,56 +140,56 @@
             </tr>
             </thead>
             <tr>
-                <td headers="nom">BASUYAU<br/>Léon Paul</td>
-                <td headers="naissance">20 avril 1889<br/>Capelle-sur-Ecaillon</td>
-                <td headers="corps">127e RI<br/>(soldat)</td>
-                <td headers="mort">19 février 1915<br/>Mesnil-les-Hurlus</td>
+                <td headers="nom">BASUYAU<br>Léon Paul</td>
+                <td headers="naissance">20 avril 1889<br>Capelle-sur-Ecaillon</td>
+                <td headers="corps">127e RI<br>(soldat)</td>
+                <td headers="mort">19 février 1915<br>Mesnil-les-Hurlus</td>
                 <td headers="remarque">Tué à l'ennemi</td>
             </tr>
             <tr>
-                <td headers="nom">CHASTIN<br/>Aimé</td>
+                <td headers="nom">CHASTIN<br>Aimé</td>
                 <td headers="naissance">&nbsp;</td>
                 <td headers="corps">&nbsp;</td>
                 <td headers="mort">&nbsp;</td>
-                <td headers="remarque">Victime<br/>civile</td>
+                <td headers="remarque">Victime<br>civile</td>
             </tr>
             <tr>
-                <td headers="nom">DECAUDIN<br/>Louis</td>
+                <td headers="nom">DECAUDIN<br>Louis</td>
                 <td headers="naissance">&nbsp;</td>
                 <td headers="corps">&nbsp;</td>
                 <td headers="mort">&nbsp;</td>
                 <td headers="remarque">&nbsp;</td>
             </tr>
             <tr>
-                <td headers="nom">DECOSTER<br/>Edouard Gaston</td>
-                <td headers="naissance">11 octobre 1882<br/>Saint-Pol-sur-Mer</td>
-                <td headers="corps">110e RI<br/>(soldat)</td>
-                <td headers="mort">12 décembre 1914<br/>Orléans (Loiret)</td>
+                <td headers="nom">DECOSTER<br>Edouard Gaston</td>
+                <td headers="naissance">11 octobre 1882<br>Saint-Pol-sur-Mer</td>
+                <td headers="corps">110e RI<br>(soldat)</td>
+                <td headers="mort">12 décembre 1914<br>Orléans (Loiret)</td>
                 <td headers="remarque">Radié</td>
             </tr>
             <tr>
-                <td headers="nom">LECAIL<br/>Adèle</td>
+                <td headers="nom">LECAIL<br>Adèle</td>
                 <td headers="naissance">&nbsp;</td>
                 <td headers="corps">&nbsp;</td>
                 <td headers="mort">&nbsp;</td>
-                <td headers="remarque">Victime<br/>civile</td>
+                <td headers="remarque">Victime<br>civile</td>
             </tr>
             <tr>
-                <td headers="nom">MALAQUIN<br/>Edmond</td>
+                <td headers="nom">MALAQUIN<br>Edmond</td>
                 <td headers="naissance">&nbsp;</td>
                 <td headers="corps">&nbsp;</td>
                 <td headers="mort">&nbsp;</td>
-                <td headers="remarque">Victime<br/>civile</td>
+                <td headers="remarque">Victime<br>civile</td>
             </tr>
             <tr>
-                <td headers="nom">NOISETTE<br/>Hubert</td>
+                <td headers="nom">NOISETTE<br>Hubert</td>
                 <td headers="naissance">&nbsp;</td>
                 <td headers="corps">&nbsp;</td>
                 <td headers="mort">&nbsp;</td>
-                <td headers="remarque">Victime<br/>civile</td>
+                <td headers="remarque">Victime<br>civile</td>
             </tr>
             <tr>
-                <td headers="nom">VANESSE<br/>Joseph</td>
+                <td headers="nom">VANESSE<br>Joseph</td>
                 <td headers="naissance">&nbsp;</td>
                 <td headers="corps">&nbsp;</td>
                 <td headers="mort">&nbsp;</td>

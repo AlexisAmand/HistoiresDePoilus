@@ -126,13 +126,13 @@
         <figure>
             <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="La famille CARIN">
             <img src="miniatures/arbre-carin.png"  alt="arbre généalogique de la Famille Carin de Lourches et Roeulx"  class="ArbreGenealogique"></a>
-            <figcaption>Arbre généalogique de la famille CARIN<br/>(cliquez pour agrandir)</figcaption>
+            <figcaption>Arbre généalogique de la famille CARIN<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Carin-Edouard-1884.jpg"  data-fancybox="gallery" data-caption="Acte de naissance d'Edouard CARIN">
             <img src="miniatures/Carin-Edouard-1884.jpg" alt="Copie de l'acte de naissance d'Edouard CARIN"/></a>
-            <figcaption>Acte de naissance d'Edouard.<br/>(cliquez pour agrandir - source: Archives Départementales du Nord)</figcaption>
+            <figcaption>Acte de naissance d'Edouard.<br>(source: Archives Départementales du Nord)</figcaption>
         </figure>
 
         <p>Je possède très peu de renseignements sur lui, car sa fiche matricule n'est pas disponible aux Archives Départementales. Ma seule piste pour l'instant ? Une fiche du site "Mémoire des Hommes" qui indique qu'il faisait partie du 162e Régiment d'Infanterie et qu'il est mort des suites de ses blessures le 19 mars 1916 à Bras dans la Meuse alors que le 162e RI est en train de défendre la rive droite, entre Bras et Louvemont, depuis le 10. La retranscription de son acte de décès nous donne toutefois un peu plus de précisions puisqu'elle nous apprend qu'il est décédé sur la côte de Froidette, commune de Bras (dans la Meuse) par suite de ses blessures de guerres et qu'il faisait partie de la 8e compagnie du 165e Régiment d'Infanterie.</p>
@@ -146,7 +146,7 @@
         <figure>
             <a href="sources/Carin-Edouard-livre-dor.jpg" data-fancybox="gallery">
             <img src="miniatures/Carin-Edouard-livre-dor.jpg" alt="Extrait du livre d'or des morts pour la France de la commune de Roeulx"/></a>
-            <figcaption>Edouard dans le livre d'or des morts pour la France<br/>(cliquez pour agrandir - source: Archives Nationales)</figcaption>
+            <figcaption>Edouard dans le livre d'or des morts pour la France<br>(cliquez pour agrandir - source: Archives Nationales)</figcaption>
         </figure>
 
         <p>Son nom figure sur le Monument aux Morts de Roeulx (Nord) où il vivait avant la Première Guerre Mondiale. Pour info, Édouard a plusieurs fréres et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="carin-joseph.php" title="Biographie du soldat Joseph CARIN">Joseph</a>, <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
@@ -154,7 +154,7 @@
         <figure>
             <a href="sources/CARIN-edouard-mpf.JPG"  data-fancybox="gallery" data-caption="Edouard CARIN, mort pour la France">
             <img src="miniatures/CARIN-edouard-mpf.JPG" alt="Fiche de mort pour la France d'Edouard CARIN"/></a>
-            <figcaption>Edouard, mort pour la France.<br/>(cliquez pour agrandir - source: Mémoire des Hommes)</figcaption>
+            <figcaption>Edouard, mort pour la France.<br>(source: Mémoire des Hommes)</figcaption>
         </figure>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
@@ -162,7 +162,7 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br/>(Archives et Cultures / Yves Buffetaut)</li>      
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>      
         </ul>
 
         </article>

@@ -71,14 +71,14 @@
             <figure>
                 <a href="poilus/images/poilus.jpg" data-fancybox="gallery" data-caption="Qu'est-ce qu'un poilu ?">
                 <img src="poilus/miniatures/poilus.jpg" alt="Qu'est-ce qu'un poilu ?"></a>
-                <figcaption>Qu'est-ce qu'un poilu ?<br/>(Source: Delcampe)</figcaption>
+                <figcaption>Qu'est-ce qu'un poilu ?<br>(Source: Delcampe)</figcaption>
             </figure>
 
             <p>Pour faire simple, et surtout pour faciliter la lecture, j'ai regroupé tous les combattants sous le terme de poilu, mais je dois avouer qu'il s'agit là d'un abus de langage, car dans l'état actuel de mes recherches, j'ai pu constater que seuls les français et parfois les belges étaient qualifiés de cette façon. En réalité, les autres belligérants de la Grande Guerre avaient eux aussi leurs petits noms en fonction de leur origine ou de leur corps d'engagement. Ainsi, on peut entendre parler dans les documents d'époque de <em>diggers</em> pour l'Australie, de <em>Mehmetçik</em> pour l'Empire Ottoman, de <em>Kiwis</em> pour la Nouvelle-Zélande ou encore de <em>Serranos</em> pour le Portugal.</p>
 
             <figure>
                 <img src="poilus/miniatures/depart-des-poilus-Albert-Herter.jpg" alt="Le départ des poilus par Albert Herbert">
-                <figcaption>Le Départ des Poilus<br/>(par Albert Herbert)</figcaption>
+                <figcaption>Le Départ des Poilus<br>(par Albert Herbert)</figcaption>
             </figure>
 
             <h2>Quelles étaient les forces en présence ?</h2>
@@ -112,7 +112,7 @@
 
             <figure>
                 <img src="poilus/miniatures/volontaires-britanniques.jpg" alt="des volontaires britanniques en 1914">
-                <figcaption>Volontaires britanniques en août 1914<br/>(source : <a href="https://www.iwm.org.uk/" title="Site de l'Imperial War Museums">Imperial War Museums</a>)</figcaption>
+                <figcaption>Volontaires britanniques en août 1914<br>(source : <a href="https://www.iwm.org.uk/" title="Site de l'Imperial War Museums">Imperial War Museums</a>)</figcaption>
             </figure>
 
             <h2>Quel est le bilan de la Grande Guerre ?</h2>
@@ -122,10 +122,10 @@
                 <li class="PuissancesCentrales">En rouge, les puissances centrales</li>
             </ul>
 
-            <br/>
+            <br>
 
             <table class="tab_camp">
-                <caption>Le bilan humain de la Grande Guerre<br/>(Source : The Great War and the British People par Jay Winter)</caption>
+                <caption>Le bilan humain de la Grande Guerre<br>(Source : The Great War and the British People par Jay Winter)</caption>
                 <thead>
                 <tr>
                     <th id="noname">&nbsp;</th>

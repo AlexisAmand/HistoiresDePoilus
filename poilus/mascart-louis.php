@@ -126,15 +126,15 @@
   		<figure>
             <a href="sources/naissance-leon-mascart.jpg" data-fancybox="gallery" data-caption='Acte de naissance de Louis Mascart'>
             <img src="miniatures/naissance-leon-mascart.jpg" alt='Acte de naissance de Louis Mascart'/></a>
-            <figcaption>Acte de naissance de Louis<br />(Source: Archives Départementales du Nord)</figcaption>
+            <figcaption>Acte de naissance de Louis<br>(Source: Archives Départementales du Nord)</figcaption>
         </figure>
               
-        <p>Il est décédé le 15 janvier 1919 à <a href="../hopitaux/hopitaux-naq.php" title="Les hôpitaux de Nouvelle-Aquitaine pendant la Grande Guerre">l'hôpital Chastaing</a> de Limoges des suites de ses blessures.</p>
+        <p>Il est décédé le 15 janvier 1919 à <a href="../hopitaux/hopitaux.php" title="Les hôpitaux de Nouvelle-Aquitaine pendant la Grande Guerre">l'hôpital Chastaing</a> de Limoges des suites de ses blessures.</p>
 
         <figure>
             <a href="sources/louis-mascart-mpf.jpg" data-fancybox="gallery" data-caption='Fiche Mort pour la France de Louis Mascart'>
             <img src="miniatures/louis-mascart-mpf.jpg" alt='Fiche Mort pour la France de Louis Mascart'/></a>
-            <figcaption>Louis, mort pour la France<br />(Source : Ministère des armées - Mémoire des Hommes)</figcaption>
+            <figcaption>Louis, mort pour la France<br>(Source : Mémoire des Hommes)</figcaption>
         </figure>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

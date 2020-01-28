@@ -121,10 +121,10 @@
             <thead>
             <tr>
                 <th id="nom">Nom et prénoms</th>
-                <th id="naissance">Date et lieu<br/>de naissance</th>
-                <th id="mort">Date et lieu<br/>de décès</th>
+                <th id="naissance">Date et lieu<br>de naissance</th>
+                <th id="mort">Date et lieu<br>de décès</th>
                 <th id="corps">Corps</th>
-                <th id="genre">Genre<br/>de mort</th>
+                <th id="genre">Genre<br>de mort</th>
             </tr>
             </thead>
             <tr>

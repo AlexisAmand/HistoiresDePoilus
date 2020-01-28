@@ -126,7 +126,7 @@
         <figure>
             <a href="sources/amand-marceau-1899.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Marceau">
             <img src="miniatures/amand-marceau-1899.jpg" alt="Acte de naissance de Marceau AMAND"/></a>
-            <figcaption>Acte de naissance de Marceau<br/>(Source: Archives Départementales de la Seine-Saint-Denis)</figcaption>
+            <figcaption>Acte de naissance de Marceau<br>(Source: Archives Départementales de la Seine-Saint-Denis)</figcaption>
         </figure>
         
         <p>Il est rattaché à la clase de mobilisation 1915 car il n'a pas pu être recensé en temps utile par suite d'un cas de force majeure (sans doute la guerre). il est finalement appelé au service armé en 1919 et affecté au 10e Régiment de Hussards où il est incorporé à compté du 12 juin. Soldat de 2e classe, il passe au 2e Régiment de Hussards le 10 novembre 1919. Il reste au sein de "l'escadron de la motte" de ce régiment jusqu'au 25 mars 1921, date à laquelle il est renvoyé dans ses foyers en attendant son passage dans la réserve de l'armée active avec le certificat de bonne conduite qui lui est accordé. Un escadron est une unité militaire qui marque l'appartenance à une unité armée dite "à cheval", c'est l'équivalent des compagnies des unités de l'armée de terre dite "à pied".</p>
@@ -136,13 +136,13 @@
        	<figure>
             <a href="images/hussards.jpg" data-fancybox="gallery" data-caption="Un hussard en uniforme vers 1914">
             <img src="miniatures/hussards.jpg" alt="Dessin d'un hussard au début de la Première Guerre Mondiale"/></a>
-            <figcaption>Un hussard en uniforme vers 1914<br/>(Source: Delcampe)</figcaption>
+            <figcaption>Un hussard en uniforme vers 1914<br>(Source: Delcampe)</figcaption>
         </figure>
         
         <figure>
             <a href="sources/matricule-marceau-amand.jpg" data-fancybox="gallery" data-caption=" ">
             <img src="miniatures/matricule-marceau-amand.jpg" alt=" "/></a>
-            <figcaption>Ses domiciles sur sa fiche matricule<br/>(Source: Archives Départementales de la Seine-Saint-Denis)</figcaption>
+            <figcaption>Ses domiciles sur sa fiche matricule<br>(Source: Archives Départementales de la Seine-Saint-Denis)</figcaption>
         </figure>
               
         <p>Selon la mention en marge de son acte de naissance, il est décédé à Beaucaire, sur la rive du Rhône, à côté de Nîmes, le 5 avril 1969. Il repose au cimetière de Neuville-sur-Escaut en compagnie de Kleber AMAND (1902-1987), Celestine OCCULISSE (1874-1957), Amélie POTIER (1907-1989) et Denis POTIER (1869-1943).</p>

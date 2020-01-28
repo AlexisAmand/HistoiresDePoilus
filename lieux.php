@@ -65,11 +65,11 @@
 
             <h1>Les batailles de la Grande Guerre</h1>
 
-            <a href="batailles/batailles-est.php">L'Europe de l'Est</a><br/>
-            <a href="batailles/batailles-ouest.php">L'Europe de l'Ouest</a><br/>
-            <a href="batailles/batailles-italie.php">Le Front Italien</a><br/>
-            <a href="batailles/batailles-afrique.php">Le Front Africain</a><br/>
-            <a href="batailles/batailles-orient.php">Le Front du Moyen-Orient</a><br/>
+            <a href="batailles/batailles-est.php">L'Europe de l'Est</a><br>
+            <a href="batailles/batailles-ouest.php">L'Europe de l'Ouest</a><br>
+            <a href="batailles/batailles-italie.php">Le Front Italien</a><br>
+            <a href="batailles/batailles-afrique.php">Le Front Africain</a><br>
+            <a href="batailles/batailles-orient.php">Le Front du Moyen-Orient</a><br>
             <a href="batailles/batailles-balkans.php">Le Front des Balkans</a>
 
             <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

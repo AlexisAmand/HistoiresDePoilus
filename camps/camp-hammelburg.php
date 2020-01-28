@@ -119,7 +119,7 @@
         <figure>    
             <a href="images/Hammelburg/localisation-hammelburg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Hammelburg">
             <img src="miniatures/Hammelburg/localisation-hammelburg.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Hammelburg"></a>
-            <figcaption>Localisation du camp de Hammelburg<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Hammelburg<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>  
 
         <p>Le camp de Hammelburg était situé en Franconie, dans le Land de Bavière. Dans son ouvrage intitulé <cite>Août 1914. La Bataille de Sarrebourg</cite>, Joseph ELMERICH précise que la Bavière, qui avait fourni sa propre armée, avait préparé trois camps destinés à recevoir les prisonniers: <a href="camp-lechfeld.php" title="lien vers la page consacrée au camp de Lechfeld">le camp de Lechfeld</a> (3600 prisonniers), le camp de Hammelburg (4470 prisonniers) et enfin celui de <a href="camp-grafenwohr.php" title="lien vers la page consacrée au camp de Grafenwohr">Grafenwöhr</a> (10500 prisonniers). </p>
@@ -134,7 +134,7 @@
             <tr>
                 <th headers="nations">Nationalités</th>
                 <th headers="camp">Au camp</th>
-                <th headers="travail">Dans les détachements<br/>de travail</th>
+                <th headers="travail">Dans les détachements<br>de travail</th>
             </tr>
             </thead>
             <tr>
@@ -160,7 +160,7 @@
             <tr>
                 <th headers="nations">Nationalités</th>
                 <th headers="camp">Au camp</th>
-                <th headers="travail">Dans les détachements<br/>de travail</th>
+                <th headers="travail">Dans les détachements<br>de travail</th>
             </tr>
             </thead>
             <tr>
@@ -184,19 +184,19 @@
         <figure>
             <a href="images/Hammelburg-01.jpg" data-fancybox="gallery" data-caption="Le repas des prisonniers au camp de Hammelburg">
             <img src="miniatures/Hammelburg-01.jpg" alt="Le repas au camp de prisonniers de Hammelburg pendant la Première Guerre Mondiale"></a>
-            <figcaption>Le repas au camp<br/>(source allemande)</figcaption>
+            <figcaption>Le repas au camp<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Hammelburg-02.jpg" data-fancybox="gallery" data-caption="La lessive au camp de Hammelburg">
             <img src="miniatures/Hammelburg-02.jpg" alt="La lessive au camp de prisonniers de Hammelburg pendant la Grande Guerre"></a>
-            <figcaption>La lessive au camp<br/>(source allemande)</figcaption>
+            <figcaption>La lessive au camp<br>(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Hammelburg/hammelburg-01.jpg" data-fancybox="gallery" data-caption="Le camp de Hammelburg">
             <img src="miniatures/Hammelburg/hammelburg-01.jpg" alt="Le camp de Hammelburg sur une carte postale ancienne"></a>
-            <figcaption>Le camp de Hammelburg<br/>(Carte postale)</figcaption>
+            <figcaption>Le camp de Hammelburg<br>(source : Delcampe)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

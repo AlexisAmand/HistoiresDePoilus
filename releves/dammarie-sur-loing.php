@@ -126,7 +126,7 @@
         <figure>
             <a href="images/dammarie-sur-loing.jpg" data-fancybox="gallery" data-caption="Liste des morts pour la France de Dammarie-sur-Loing">
             <img src="images/mini/dammarie-sur-loing.jpg" alt="Liste des morts pour la France de Dammarie-sur-Loing sur une carte postale"/></a>
-            <figcaption>Liste des morts pour la France de Dammarie-sur-Loing<br/>(Source: Delcampe)</figcaption>
+            <figcaption>Liste des morts pour la France de Dammarie-sur-Loing<br>(Source: Delcampe)</figcaption>
         </figure>
         
         <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
@@ -135,31 +135,31 @@
             <thead>
             <tr>
                 <th id="nom">Nom et prénoms</th>
-                <th id="mort">Date et lieu<br/>de décès</th>
+                <th id="mort">Date et lieu<br>de décès</th>
                 <th id="naissance">Âge</th>
                 <th id="corps">Corps</th>
             </tr>
             </thead>
             <tr>
-                <td headers="nom">SAUVAGEON<br />Albert</td>
+                <td headers="nom">SAUVAGEON<br>Albert</td>
                 <td headers="mort">Le 20 aout 1914 à Grandfontaine</td>
                 <td headers="naissance">29 ans</td>
                 <td headers="corps">60e Ch. à Pied</td>
             </tr>
             <tr>
-                <td headers="nom">VASSARD<br />Albert</td>
+                <td headers="nom">VASSARD<br>Albert</td>
                 <td headers="mort">Le 20 septembre 1914 à Verdun</td>
                 <td headers="naissance">32 ans</td>
                 <td headers="corps">82e R.I</td>
             </tr>
             <tr>
-                <td headers="nom">MITRE<br />Emile</td>
+                <td headers="nom">MITRE<br>Emile</td>
                 <td headers="mort">Le 22 septembre 1914 à Cheppy</td>
                 <td headers="naissance">33 ans</td>
                 <td headers="corps">4e R.I</td>
             </tr>
             <tr>
-                <td headers="nom">MARION<br />Georges</td>
+                <td headers="nom">MARION<br>Georges</td>
                 <td headers="mort">Le 23 septembre 1914 à Lérouville</td>
                 <td headers="naissance">26 ans</td>
                 <td headers="corps">356e R.I</td>
@@ -171,68 +171,68 @@
                 <td headers="corps">346e R.I</td>
             </tr>
             <tr>
-                <td headers="nom">CLEMENT<br />André</td>
+                <td headers="nom">CLEMENT<br>André</td>
                 <td headers="mort">Le 2 octobre 1914 à Gavrelle</td>
                 <td headers="naissance">25 ans</td>
                 <td headers="corps">23e R.D</td>
             </tr>
             <tr>
-                <td headers="nom">ROULLET<br />Charles</td>
+                <td headers="nom">ROULLET<br>Charles</td>
                 <td headers="mort">Le 4 octobre 1914 à Verdun</td>
                 <td headers="naissance">34 ans</td>
                 <td headers="corps">82e RI</td>
             </tr>
             <tr>
-                <td headers="nom">TEMPLIER<br />Justin</td>
+                <td headers="nom">TEMPLIER<br>Justin</td>
                 <td headers="mort">Le 13 décembre 1914 à Verdun</td>
                 <td headers="naissance">27 ans</td>
                 <td headers="corps">10e B.C.P</td>
             </tr>
             <tr>
-                <td headers="nom">CHAINTREAU<br />Désiré</td>
+                <td headers="nom">CHAINTREAU<br>Désiré</td>
                 <td headers="mort">Le 17 janvier 1915 à Crouy</td>
                 <td headers="naissance">32 ans</td>
                 <td headers="corps">231e R.I</td>
             </tr>
             <tr>
-                <td headers="nom">FAUVIN<br />Hippolyte</td>
+                <td headers="nom">FAUVIN<br>Hippolyte</td>
                 <td headers="mort">Le 28 février 1915 à Argonne</td>
                 <td headers="naissance">24 ans</td>
                 <td headers="corps">70e R.I</td>
             </tr>
             <tr>
-                <td headers="nom">BESLAND<br />Jules</td>
+                <td headers="nom">BESLAND<br>Jules</td>
                 <td headers="mort">Le 14 mai 1915 à Lorette</td>
                 <td headers="naissance">33 ans</td>
                 <td headers="corps"> </td>
             </tr>
             <tr>
-                <td headers="nom">GITTON<br />René</td>
+                <td headers="nom">GITTON<br>René</td>
                 <td headers="mort">Le 27 juin 1915 à B. Le Prêtre</td>
                 <td headers="naissance">21 ans</td>
                 <td headers="corps">169e R.I</td>
             </tr>
             <tr>
-                <td headers="nom">DIVINIAS<br />Armand</td>
+                <td headers="nom">DIVINIAS<br>Armand</td>
                 <td headers="mort">Le 13 juillet 1915 à Argonne</td>
                 <td headers="naissance">39 ans</td>
                 <td headers="corps">82e R.I</td>
             </tr>
             <tr>
-                <td headers="nom">BOURDOIS<br />Alexandre</td>
+                <td headers="nom">BOURDOIS<br>Alexandre</td>
                 <td headers="mort">Le 22 juillet 1915 à Les Islettes</td>
                 <td headers="naissance">32 ans</td>
                 <td headers="corps">82e R.I</td>
             </tr>
             <tr>
-                <td headers="nom">BOURDOISEAU<br />René</td>
+                <td headers="nom">BOURDOISEAU<br>René</td>
                 <td headers="mort">Le 26 juillet 1915 à Argonne</td>
                 <td headers="naissance">33 ans</td>
                 <td headers="corps">82e R.I</td>
             </tr>
             <tr>
-                <td headers="nom">BONNET<br />Adolphe</td>
-                <td headers="mort">Le 16 septembre 1915 à <a href="../hopitaux/hopitaux-cvl.php">Montargis (Hopital)</a></td>
+                <td headers="nom">BONNET<br>Adolphe</td>
+                <td headers="mort">Le 16 septembre 1915 à <a href="../hopitaux/hopitaux.php">Montargis (Hopital)</a></td>
                 <td headers="naissance">45 ans</td>
                 <td headers="corps">38e R.A.T</td>
             </tr>

@@ -129,9 +129,9 @@
         ?>  
 
                 <p>Votre message a bien été envoyé.</p>  
-                <p><strong>Courriel pour la réponse :</strong><br/><?php echo( $from ); ?></p>  
-                <p><strong>Objet :</strong><br/><?php echo( $object ); ?></p>  
-                <p><strong>Message :</strong><br/><?php echo( nl2br( htmlspecialchars( $message ) ) ); ?></p>  
+                <p><strong>Courriel pour la réponse :</strong><br><?php echo( $from ); ?></p>  
+                <p><strong>Objet :</strong><br><?php echo( $object ); ?></p>  
+                <p><strong>Message :</strong><br><?php echo( nl2br( htmlspecialchars( $message ) ) ); ?></p>  
         <?php  
             }  
             else // le formulaire est affiché pour la première fois ou le formulaire a été soumis mais contenait des erreurs  
@@ -155,14 +155,14 @@
                 
                         <?php /* TODO: mettre en page avec des CSS pour qu'il y ait de l'espace entre les labels */ ?>
                 
-                        <label for="from">Courriel pour la réponse</label><br/>
-                        <input type="text" name="from" id="from" value="<?php echo( $from ); ?>" /><br/>  
+                        <label for="from">Courriel pour la réponse</label><br>
+                        <input type="text" name="from" id="from" value="<?php echo( $from ); ?>" /><br>  
                 
-                        <label for="object">Objet</label><br/>
-                        <input type="text" name="object" id="object" value="<?php echo( $object ); ?>" /><br/>  
+                        <label for="object">Objet</label><br>
+                        <input type="text" name="object" id="object" value="<?php echo( $object ); ?>" /><br>  
                     
-                        <label for="message">Message</label><br/>  
-                        <textarea name="message" id="message" rows="20" cols="80"><?php echo( $message ); ?></textarea><br/>  
+                        <label for="message">Message</label><br>  
+                        <textarea name="message" id="message" rows="20" cols="80"><?php echo( $message ); ?></textarea><br>  
                 
                         <input type="reset" name="reset" value="Effacer" class="btn"/>  
                         <input type="submit" name="send" value="Envoyer" class="btn"/>    

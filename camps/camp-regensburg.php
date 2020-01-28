@@ -122,25 +122,25 @@
         <figure>    
             <a href="images/Regensburg/camp-regensburg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Ratisbonne (Regensburg)">
             <img src="miniatures/Regensburg/camp-regensburg.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Ratisbonne (Regensburg)"></a>
-            <figcaption>Localisation du camp de Ratisbonne (Regensburg)<br/>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Ratisbonne (Regensburg)<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>    
 
         <figure>
             <a href="images/Regensburg/regensburg-01.jpg" data-fancybox="gallery" data-caption="Dans la cours du camp à Ratisbonne (Regensburg)">
             <img src="miniatures/Regensburg/regensburg-01.jpg" alt="des prisonniers dans la cours du camp de Ratisbonne (Regensburg) pendant la Première Guerre Mondiale"></a>
-            <figcaption>Dans la cours du camp<br/>(Source allemande)</figcaption>
+            <figcaption>Dans la cours du camp<br>(Source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Regensburg/regensburg-02.jpg" data-fancybox="gallery" data-caption="Vue du camp de Ratisbonne (Regensburg)">    
             <img src="miniatures/Regensburg/regensburg-02.jpg" alt="une vue du camp de prisonniers de Ratisbonne (Regensburg) pendant la Grande Guerre"></a>
-            <figcaption>Vue du camp de Ratisbonne<br/>(Source allemande)</figcaption>
+            <figcaption>Vue du camp de Ratisbonne<br>(Source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Regensburg/regensburg-03.jpg" data-fancybox="gallery" data-caption="Exercice des pompiers à Ratisbonne (Regensburg)"> 
             <img src="miniatures/Regensburg/regensburg-03.jpg" alt="Exercice des pompiers dans le camp de prisonniers de Ratisbonne (Regensburg) pendant la Première Guerre Mondiale"></a>
-            <figcaption>Exercice des pompiers<br/>(Source allemande)</figcaption>
+            <figcaption>Exercice des pompiers<br>(Source allemande)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>
