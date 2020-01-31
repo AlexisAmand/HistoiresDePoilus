@@ -181,7 +181,7 @@
 
         <figure>
             <a href="images/mobilisation.jpg" data-fancybox="gallery" data-caption="Affiche de la mobilisation générale">
-            <img src="miniatures/mobilisation.jpg" alt="affiche de la mobilisation générale 1er août 1914"/></a>
+            <img src="miniatures/mobilisation.jpg" alt="Affiche du décret de mobilisation générale du 1er août 1914"/></a>
             <figcaption>Ordre de mobilisation</figcaption>
         </figure>
 

@@ -113,8 +113,8 @@
         <article>
 
         <h1>Le camp de prisonniers de Bochum</h1>
-
-        <p>Fuerit toto in consulatu sine provincia, cui fuerit, antequam designatus est, decreta provincia. Sortietur an non? Nam et non sortiri absurdum est, et, quod sortitus sis, non habere. Proficiscetur paludatus? Quo? Quo pervenire ante certam diem non licebit. ianuario, Februario, provinciam non habebit; Kalendis ei denique Martiis nascetur repente provincia.</p>
+        
+        <p>Bientôt...</p>
 
         <figure>
             <a href="images/Bochum/carte-camp-bochum.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Bochum">

@@ -1,4 +1,4 @@
-<li><a href="camp-giessen.php">Giessen</a></li><!doctype html>
+<!doctype html>
 <html lang="fr">
 
     <head>

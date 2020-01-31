@@ -125,38 +125,10 @@
         <p><strong>Adrien VELU</strong> est un "cousin" né à Villers-Guislain (Nord) le 1 janvier 1889, fils légitime de Marc Ferdinand VELU et Marie Joséphine Angèle VELU, deux cousins germains. Le 16 avril 1910,  Adrien épouse Apolline BRIOT.</p>
 
         <figure>
-            <a href="images/matricule-adrien-velu.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Adrien VELU">
+            <a href="sources/matricule-adrien-velu.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Adrien VELU">
             <img src="miniatures/matricule-adrien-velu.jpg" alt="Extrait de la fiche matricule d'Adrien VELU"/></a>
             <figcaption>Extrait de sa fiche matricule<br>(source: Archives Départementales du Nord)</figcaption>
         </figure>
-
-        <table class="census">
-        <caption>Liste des domiciles d'Adrien</caption>
-            <thead>
-            <tr>
-                <th id="date">Dates</th>
-                <th id="adresse">Adresses</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            </tbody>
-        </table>
 
         <p>Inscrit sous le n°1 de la liste de Marcoing, Adrien est incorporé au <strong>1er Régiment d'Infanterie</strong> qu'il rejoint le 3 octobre 1910 en tant que soldat de 2e classe. Il est envoyé en congé le 25 septembre 1912 en attendant son passage dans la réserve de l'armée active avec <em>certificat de bonne conduite accordé.</em></p>
 

@@ -132,14 +132,14 @@
 
                 
         <figure>
-            <a href="images/prise-de-tahure.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="miniatures/prise-de-tahure.jpg" alt=" "/></a>
+            <a href="images/prise-de-tahure.jpg" data-fancybox="gallery" data-caption="La prise de Tahure (Par Léon Groc)">
+            <img src="miniatures/prise-de-tahure.jpg" alt="La prise de Tahure dessinée par Léon Groc"/></a>
             <figcaption>La prise de Tahure<br>illustration par Léon Groc pour la collection Patrie<br>(Source: Wikipedia Commons)</figcaption>
         </figure>
 
 		<figure>
-            <a href="sources/matricule-gaston-amand.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="miniatures/matricule-gaston-amand.jpg" alt=" "/></a>
+            <a href="sources/matricule-gaston-amand.jpg" data-fancybox="gallery" data-caption="Liste des domiciles de Gaston sur sa fiche matricule">
+            <img src="miniatures/matricule-gaston-amand.jpg" alt="Extrait de la fiche matricule de Gaston AMAND"/></a>
             <figcaption>Ses domiciles sur sa fiche matricule<br>(Source: Archives Départementales du Nord)</figcaption>
         </figure>
         

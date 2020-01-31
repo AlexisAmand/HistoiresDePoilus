@@ -142,7 +142,7 @@
             </thead>
             <tr>
                 <td headers="nom">SAUVAGEON<br>Albert</td>
-                <td headers="mort">Le 20 aout 1914 à Grandfontaine</td>
+                <td headers="mort">Le 20 août 1914 à Grandfontaine</td>
                 <td headers="naissance">29 ans</td>
                 <td headers="corps">60e Ch. à Pied</td>
             </tr>

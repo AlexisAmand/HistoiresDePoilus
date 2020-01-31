@@ -149,15 +149,15 @@
             </tr>
             <tr>
                 <td headers="nom">CHAMBRIN<br>Henri Émile<br></td>
-                <td headers="naissance">18 aout 1895<br>Feucherolles</td>
+                <td headers="naissance">18 août 1895<br>Feucherolles</td>
                 <td headers="mort">18 avril 1917<br>Mont-Haut (Marne)</td>
                 <td headers="corps"></td>
                 <td headers="genre">&nbsp;</td>
             </tr>
             <tr>
                 <td headers="nom">CLAREC<br>Edouard Gustave</td>
-                <td headers="naissance">5 aout 1889<br>Feucherolles</td>
-                <td headers="mort">22 aout 1914<br>Neufchateau (Belgique)</td>
+                <td headers="naissance">5 août 1889<br>Feucherolles</td>
+                <td headers="mort">22 août 1914<br>Neufchateau (Belgique)</td>
                 <td headers="corps">21e R.I.C</td>
                 <td headers="genre">Blessures de guerre</td>
             </tr>

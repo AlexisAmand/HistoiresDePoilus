@@ -620,7 +620,7 @@
             </tr>
             <tr>
                 <td headers="nom">DEGAND<br>Louis</td>
-                <td headers="naissance">4 aout 1889<br>Lourches</td>
+                <td headers="naissance">4 août 1889<br>Lourches</td>
                 <td headers="mort">17 avril 1917<br>Vauclerc (Aine)</td>
                 <td headers="grade">soldat</td>
                 <td headers="corps">127e R.I</td>
@@ -629,7 +629,7 @@
             <tr>
                 <td headers="nom">DEGROISSE<br>Emile</td>
                 <td headers="naissance">14 avril 1887<br>à Wasnes-au-Bac (Nord)</td>
-                <td headers="mort">19 aout 1918<br>Rastani (Albanie)</td>
+                <td headers="mort">19 août 1918<br>Rastani (Albanie)</td>
                 <td headers="grade">sergent</td>
                 <td headers="corps">58e B.C.P</td>
                 <td headers="genre"> </td>
@@ -644,7 +644,7 @@
             </tr>
             <tr>
                 <td headers="nom">DELFOLIE<br>Célestin Alexandre</td>
-                <td headers="naissance">24 aout 1882<br>Lourches</td>
+                <td headers="naissance">24 août 1882<br>Lourches</td>
                 <td headers="mort">10 novembre 1914<br>Yser (Belgique)</td>
                 <td headers="grade">soldat</td>
                 <td headers="corps">162e R.I</td>
@@ -660,7 +660,7 @@
             </tr>
             <tr>
                 <td headers="nom">DELIMAL<br>Charles</td>
-                <td headers="naissance">16 aout 1879<br>Wasnes-au-Bac</td>
+                <td headers="naissance">16 août 1879<br>Wasnes-au-Bac</td>
                 <td headers="mort">30 mai 1915<br>Ecurie (Pas-de-Calais)</td>
                 <td headers="grade">soldat</td>
                 <td headers="corps">205e R.I</td>
@@ -669,7 +669,7 @@
             <tr>
                 <td headers="nom">DEPRES<br>Lucien</td>
                 <td headers="naissance">23 décembre 1885<br>Denain (Nord)</td>
-                <td headers="mort">30 aout 1914<br>Chesnois Auboncourt (Ardennes)</td>
+                <td headers="mort">30 août 1914<br>Chesnois Auboncourt (Ardennes)</td>
                 <td headers="grade">caporal</td>
                 <td headers="corps">18e B.C.P</td>
                 <td headers="genre"> </td>
@@ -764,7 +764,7 @@
             </tr>
             <tr>
                 <td headers="nom">DULIEUX<br>Angèle</td>
-                <td headers="naissance">21 aout 1880<br>Bauvin (Nord)</td>
+                <td headers="naissance">21 août 1880<br>Bauvin (Nord)</td>
                 <td headers="mort">31 janvier 1915<br><a href="../camps/camp-giessen.php" title="Le camp de prisonniers de Giessen">Giessen (Allemagne)</a></td>
                 <td headers="grade">soldat</td>
                 <td headers="corps">9e B.C.P</td>

@@ -108,7 +108,7 @@
 
         <figure>
             <a href="images/croquis-1916-2" data-fancybox="gallery" data-caption="Attaques sur la rive gauche (Verdun, 1916)">
-            <img src="miniatures/croquis-1916-2" alt="Attaques sur la rive gauche (Verdun, 1916)"></a>
+            <img src="miniatures/croquis-1916-2" alt=" plan des attaques sur la rive gauche de Verdun en 1916)"></a>
             <figcaption>Verdun: Attaques sur la rive gauche<br>(source: Delcampe)</figcaption>
         </figure>
 

@@ -75,6 +75,8 @@
             Le dossier d'ancien combattant de Noël JOLY</a> (Archives Départementales du Nord)</li>
             <li><a href="http://archives.genealexis.fr/album/20-letienne-florimond" title="version numérisée du dossier d'ancien combattant de Florimond LETIENNE">
             Le dossier d'ancien combattant de Florimond LETIENNE</a> (Archives Départementales du Nord)</li>
+            <li><a href="http://archives.genealexis.fr/album/24-tiburce-louis" title="version numérisée du dossier d'ancien combattant de Louis TIBURCE">>
+            Le dossier d'ancien combattant de Louis TIBURCE</a> (Archives Départementales du Nord)</li>
         </ul>
 
         <br><br>
@@ -83,6 +85,7 @@
 
         <ul>
             <li><a href="pdf/Historique-12-BC.pdf" title="Historique du 12e bataillon de chasseurs">Historique du 12e bataillon de chasseurs</a><br>(Gallica / Service historique de la Défense)</li>
+            <li><a href="pdf/Historique-19eBCP.pdf" title="Historique du 19e bataillon de chasseurs à Pied">Historique du 19e Bataillon de Chasseurs à Pied</a><br>(Gallica / Service historique de la Défense)</li>
         </ul>
 
         <br><br>    
@@ -181,7 +184,7 @@
 
         <ul>
             <li><a href="http://histoire-de-la-douane.org" title="Site de l'Association pour l’Histoire de l’Administration des Douanes">Histoire de la douane</a><br>(Association pour l’Histoire de l’Administration des Douanes)</li>
-            <li><a href="http://books.openedition.org/igpde/4474?lang=fr" title=" ">L'Administration des douanes en France de 1914 à 1940</a><br>(Par Jean Clinquart)</li>
+            <li><a href="http://books.openedition.org/igpde/4474?lang=fr" title="Administration des douanes par Jean Clinquart">L'Administration des douanes en France de 1914 à 1940</a><br>(Par Jean Clinquart)</li>
         </ul>
 
         <br><br>
@@ -285,19 +288,19 @@
 
         <ul>
             <li>Les livres d'or des soldats morts pour la France (Archives Nationales)</li>
-            <li><a href="http://archives.cg08.fr/" title="Archives départementales des Ardennes">Archives Départementales des Ardennes</a></li>
+            <li><a href="http://archives.cg08.fr" title="Archives départementales des Ardennes">Archives Départementales des Ardennes</a></li>
             <li><a href="https://archives.cotedor.fr" title="Archives départemental de la Côte-d'Or">Archives Départementales de la Côte-d'Or</a></li>
-            <li><a href="http://archives.marne.fr/" title="Archives départementales de la Marne">Archives Départementales de la Marne</a></li>
-            <li><a href="https://www.reims.fr/culture-patrimoine/archives-municipales-et-communautaires-7534.html?L=172%27A.html">Archives Municipales de Reims<a></li>
+            <li><a href="http://archives.marne.fr" title="Archives départementales de la Marne">Archives Départementales de la Marne</a></li>
+            <li><a href="https://www.reims.fr/culture-patrimoine/archives-municipales-et-communautaires-7534.html?L=172%27A.html">Archives Municipales de Reims</a></li>
             <li><a href="http://archivesdepartementales.lenord.fr" title="Archives départementales du Nord">Archives Départementales du Nord</a></li>
-            <li><a href="http://www.archives.nantes.fr/">Archives Municipales de Nantes</a></li>
-            <li><a href="patrimoine-numerique.ville-valenciennes.fr/">Archives Municipales de Valenciennes<a></li>
-            <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="Mémoire des hommes">Mémoire des Hommes</a> (Ministère de la Défense)</li>
+            <li><a href="http://www.archives.nantes.fr">Archives Municipales de Nantes</a></li>
+            <li><a href="http://patrimoine-numerique.ville-valenciennes.fr">Archives Municipales de Valenciennes</a></li>
+            <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr" title="Mémoire des hommes">Mémoire des Hommes</a> (Ministère de la Défense)</li>
             <li><a href="http://www.memorial-genweb.org/~memorial2/" title="Portail MémorialGenweb">Mémorial-GenWeb</a></li>
             <li><a href="http://grandeguerre.icrc.org/fr" title="Comité international de la Croix-Rouge">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
             <li><a href="http://prisonniers-de-guerre-1914-1918.chez-alice.fr/lestroupes.htm" title="Les prisonniers de la Grande Guerre">Prisonniers de guerre 14-18</a></li>
             <li><a href="http://www.association14-18.org/index.htm" title="Association Nationale 1914-1918, A la découverte des sites de la Grande Guerre">Association 14-18</a></li>
-            <li><a href="http://monumentsmorts.univ-lille3.fr/" title="Les monuments aux morts de France et Belgique">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
+            <li><a href="http://monumentsmorts.univ-lille3.fr" title="Les monuments aux morts de France et Belgique">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

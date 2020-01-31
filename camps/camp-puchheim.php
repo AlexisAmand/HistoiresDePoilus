@@ -116,7 +116,7 @@
 
         <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
-		<p>Les premiers prisonniers de guerre sont internés sur le site de l'ancien aérodrome dés octobre 1914, entre 700 et 850 Français sont alors cantonnés dans les hangars. 
+		<p>Les premiers prisonniers de guerre sont internés sur le site de l'ancien aérodrome dès octobre 1914, entre 700 et 850 Français sont alors cantonnés dans les hangars. 
 		
 		L'expansion dans un camp de prisonniers de guerre régulier s'est faite très rapidement. 
 		

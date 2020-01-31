@@ -118,7 +118,7 @@
        
         <p></p>
 
-        <p>Ce camp était situé dans un vaste champ de manœuvres à quelques kilomètres de la ville de Darmstadt, en Hesse, dans le centre-ouest de l'Allemagne.. Il était constitué de grandes baraques en bois réunies en groupe de dix pouvant contenir un bataillon. Le camp était entouré d'un réseau de fils de fer et chaque bataillon (ensemble de 10 baraques) était à son tour entouré par un fils de fer.</p>
+        <p>Ce camp était situé dans un vaste champ de manœuvres à quelques kilomètres de la ville de Darmstadt, en Hesse, dans le centre-ouest de l'Allemagne. Il était constitué de grandes baraques en bois réunies en groupe de dix pouvant contenir un bataillon. Le camp était entouré d'un réseau de fils de fer et chaque bataillon (ensemble de 10 baraques) était à son tour entouré par un fil de fer.</p>
 
         <figure>
             <img src="miniatures/Darmstadt/carte-camp-darmstadt.jpg" data-fancybox="gallery" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Darmstadt">

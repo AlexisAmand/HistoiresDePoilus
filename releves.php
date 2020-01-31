@@ -133,7 +133,7 @@
             <p>C.O.A - Section de Commis et Ouvriers militaires d'Administration</p>
             <p>C.P - Cuirassier à Pied</p>
             <p>E.T.E - Escadron de Train d'Equipage</p>
-            <p>G.A - Groupe d'aviation</p>
+            <p>G.A - Groupe d'Aviation</p>
             <p>R.A - Régiment d'Artillerie</p>
 			<p>R.A.C - Régiment d'Artillerie de Campagne</p>            
             <p>R.A.L - Régiment d'Artillerie Lourde</p>
@@ -141,7 +141,7 @@
             <p>R.C - Régiment de Cuirassiers</p>
             <p>R.C.C - Régiment de Chasseurs à Cheval</p>
             <p>R.D - Régiment de Dragons</p>
-            <p>R.E - Régiment étranger</p>
+            <p>R.E - Régiment Etranger</p>
             <p>R.G - Régiment du Génie</p>
             <p>R.I - Régiment d'Infanterie</p>
             <p>R.I.C - Régiment d'Infanterie Coloniale</p>
@@ -152,7 +152,7 @@
             <p>R.T - Régiment de Tirailleurs</p>
             <p>R.Z - Régiment de Zouaves</p>
             <p>S.C.F.C - Section de Chemin de Fer de Campagne</p>
-            <p>S.I.M - Section d'infirmiers militaires</p>
+            <p>S.I.M - Section d'Infirmiers Militaires</p>
             <p>&nbsp;</p>
             <p>&nbsp;</p>
 

@@ -129,7 +129,13 @@
             </tr>
         </tbody>
         </table>
-
+        
+        <figure>
+            <a href="images/pre-saint-gervais.jpg" data-fancybox="gallery" data-caption="Vue générale de Pré-Saint-Gervais">
+            <img src="miniatures/pre-saint-gervais.jpg" alt="Vue générale de Pré-Saint-Gervais sur une carte postale ancienne"/></a>
+            <figcaption>Vue générale de Pré-Saint-Gervais<br>(Source: Delcampe)</figcaption>
+        </figure>
+        
         <p>Un coup d’oeil sur la fiche matricule de Léopold, qui porte le n°1864 du bureau de Reims pour la classe 1906, nous permet d’en apprendre un peu plus sur lui, outre les informations un peu plus intimes comme sa taille (1m56), la couleur de ses yeux (noirs) ou encore la forme de son visage, on lui découvre par exemple un niveau d’instruction de 3, ce qui signifie qu’il possède une instruction primaire. Globalement, les degrés d’instructions étaient répartis en 6 catégories qui permettaient d’évaluer le degré d’instruction du jeune qui se présentait devant le conseil de révision.</p>
 
         <table class="census">

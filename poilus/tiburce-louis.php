@@ -6,7 +6,7 @@
         <meta charset="utf-8">
 
         <title>Biographie et parcours du soldat Louis TIBURCE - Histoires de Poilus</title>
-        <meta content="Parcours et biographie du poilu Louis TIBURCE, soldat pendant la Première Guerre Mondiale" name="description"/>
+        <meta content="Parcours et biographie du poilu Louis TIBURCE, douanier et soldat pendant la Première Guerre Mondiale" name="description"/>
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -121,7 +121,7 @@
 
         <h1>Louis TIBURCE</h1>
 
-        <p>L'acte de naissance de Louis Henri François TIBURCE nous apprend qu'il voit le jour le 25 aout 1889 à Marly, au domicile de ses parents situé sur du Quesnoy. Déclaré dès le lendemain, il est le fils légitime de Louis Victoir et Marie Augustine DUSIN. Le 23 octobre 1920, il devient le 2e époux de Berthe DUSART, la cousine d'Henri Gustave FONTAINE (mon arrière-grand-père) et la veuve d'Augustin HANZE. Il suit la même carrière que son père en devenant commis puis préposé des Douanes.</p>
+        <p>L'acte de naissance de Louis Henri François TIBURCE nous apprend qu'il voit le jour le 25 août 1889 à Marly, au domicile de ses parents situé sur du Quesnoy. Déclaré dès le lendemain, il est le fils légitime de Louis Victor TIBµURCE et Marie Augustine DUSIN. Le 23 octobre 1920, il devient le 2e époux de Berthe DUSART, la cousine d'Henri Gustave FONTAINE (mon arrière-grand-père) et la veuve d'Augustin HANZE. Il suit la même carrière que son père en devenant commis puis préposé des Douanes.</p>
 
 		<figure>
             <a href="images/marly01.jpg" data-fancybox="gallery" data-caption="La rue du Quesnoy à Marly">
@@ -137,7 +137,7 @@
             <figcaption>La gare de Blanc-Misseron<br>(Source: Archives Municipales de Valenciennes)</figcaption>
         </figure>
 
-        <p>Louis est mobilisé le 23 aout 1914 au 2e Bataillon de Douaniers. C'est un bataillon qui était composé de 700 hommes et qui avait été formé à partir des brigades de la partie nord de Valenciennes. Il était composée de 3 compagnies. Surpris par l'arrivé de l'avant garde allemande à Blanc-Misseron, il livre toute une journée de combat durant laquelle une partie des effectifs est faite prisonnière et l'autre parvient à battre en retraite. Ce Bataillon fut donc dissout de facto à la fin du mois d'aout 1914.</p>
+        <p>Louis est mobilisé le 23 août 1914 au 2e Bataillon de Douaniers. C'est un bataillon qui était composé de 700 hommes et qui avait été formé à partir des brigades de la partie nord de Valenciennes. Il était composée de 3 compagnies. Surpris par l'arrivée de l'avant garde allemande à Blanc-Misseron, il livre toute une journée de combat durant laquelle une partie des effectifs est faite prisonnière et l'autre parvient à battre en retraite. Ce Bataillon fut donc dissout de facto à la fin du mois d'août 1914.</p>
         
         <figure>
             <a href="images/douanier-1916.jpg" data-fancybox="gallery" data-caption="Un douanier mobilisé en 1916">
@@ -145,7 +145,14 @@
             <figcaption>Un douanier mobilisé en 1916<br>(Source: histoire-de-la-douane.org)</figcaption>
         </figure>
 
-        <p>Louis et une partie de son bataillon parviennent ainsi à rejoindre Dunkerque et passent alors à la 4e Compagnie du Bataillon de Forteresse de Dunkerque à compter du 5 septembre 1914.</p>
+        <p>Louis et une partie de son bataillon parviennent ainsi à rejoindre Dunkerque et passent alors à la 4e Compagnie du Bataillon de Forteresse de Dunkerque à compter du 5 septembre 1914. Il passe à la 3e Compagnie du 1er Bataillon actif le 21 octobre 1914, compagnie qui fut ancien rattachée au 81e Régiment d'Infanterie au sein duquel Louis est affecté et arrive le 16 janvier 1916. Il est cité deux fois à l'ordre du régiment, le 31 mars 1917 (n°197) et le 19 septembre 1917 (n°280). Le 14 novembre 1917, il est nommé sergent fourrier, il s'agit du sous-officier chargé de l'intendance.</p><p>Quelques mois plus tard, le 9 juin 1918, il est évacué, blessé, et entre à l'hôpital auxiliaire n°119 à Pantin.</p>
+        
+        <figure>
+            <a href="images/pantin-119.jpg" data-fancybox="gallery" data-caption="L'hôpital auxiliaire n°119 à Pantin">
+            <img src="miniatures/pantin-119.jpg" alt="L'hôpital auxiliaire n°119 situé rue de Paris à Pantin"/></a>
+            <figcaption>L'hôpital auxiliaire n°119 à Pantin<br>(Source: Delcampe)</figcaption>
+        </figure>
+        
 
         <h2>Les domiciles de Louis</h2>
 
@@ -180,9 +187,28 @@
             </tr>
             <tr>
                 <td headers="date">fin des années 20</td>
-                <td headers="adresse">Il habite 71 Grand'Rue à Maulde</td>
+                <td headers="adresse">Il habite 71 Grande Rue à Maulde</td>
                 <td headers="source">Dossier d'ancien combattant</td>
             </tr>
+            </tbody>
+        </table>
+        
+        <figure>
+            <a href="images/maulde.jpg" data-fancybox="gallery" data-caption="la Grande Rue, à Maulde">
+            <img src="miniatures/maulde.jpg" alt="La GrandeRue à Maulde sur une carte postale ancienne"/></a>
+            <figcaption>la Grande Rue, à Maulde<br>(Source: Archives Municipales de Valenciennes)</figcaption>
+        </figure>
+      
+             
+        <table class="census">
+            <thead>
+            <tr>
+                <th id="date">Dates</th>
+                <th id="adresse">Adresses</th>
+                <th id="source">Sources</th>
+            </tr>
+            </thead>
+            <tbody>
             <tr>
                 <td headers="date">10 octobre 1930</td>
                 <td headers="adresse">Il quitte Maulde pour aller vivre à Blanc-Misseron</td>

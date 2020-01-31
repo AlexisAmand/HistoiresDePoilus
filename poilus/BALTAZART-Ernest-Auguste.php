@@ -182,7 +182,7 @@
 
         <figure>
             <a href="images/mobilisation.jpg" data-fancybox="gallery" data-caption="Le décret de mobilisation générale">
-            <img src="miniatures/mobilisation.jpg" alt="Le décret de mobilisation générale publié en Août 1914"/></a>
+            <img src="miniatures/mobilisation.jpg" alt="Affiche du décret de mobilisation générale publié en Août 1914"/></a>
             <figcaption>Le décret de mobilisation générale<br>(Gallica / Bibliothèque Nationale de France)</figcaption>
         </figure>
 

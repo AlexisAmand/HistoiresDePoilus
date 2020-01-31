@@ -132,38 +132,10 @@
         <p>Il s'unit à Valenciennes (Nord) avec Bertha CANONNE le 3 avril 1914. Bertha est la fille légitime de Nestor CANONNE et de Marie Eugénie DUCHÊNE. Le couple aura plusieurs enfants: Henri, Madeleine (mon arrière-grand-mère, qui épousera Kleber le fils de <a href="FIEVET-Charles-Augustin.php" title="Voir la page consacrée à Charles Augustin Fievet">Charles Augustin FIEVET</a>), René, Marcel et Marie-Louise.</p>
 
         <figure>
-            <a href="portraits/tous-les-grand-peres.jpg" data-fancybox="gallery" data-caption="La famille FONTAINE">
-            <img src="miniatures/tous-les-grand-peres.jpg" alt="La famille FONTAINE"/></a>
+            <a href="portraits/tous-les-grand-peres.jpg" data-fancybox="gallery" data-caption="Photo de groupe de la famille FONTAINE">
+            <img src="miniatures/tous-les-grand-peres.jpg" alt="Photo de groupe de la famille FONTAINE dans les années 30"/></a>
             <figcaption>Henri Gustave, debout avec le chapeau<br>(Source: Archives familiales)</figcaption>
         </figure>
-
-        <table class="census">
-        <caption>Liste des domiciles de Henri</caption>
-            <thead>
-            <tr>
-                <th id="date">Dates</th>
-                <th id="adresse">Adresses</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="headers">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="headers">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="headers">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="headers">2</td>
-            </tr>
-            </tbody>   
-        </table>
 
         <h2>La mobilisation d'août 1914</h2>
 

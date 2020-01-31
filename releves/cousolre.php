@@ -428,7 +428,7 @@
             </tr>
             <tr>
                 <td headers="nom">HAZARD<br>Fernand</td>
-                <td headers="naissance">9 aout 1890<br>à Cousolre</td>
+                <td headers="naissance">9 août 1890<br>à Cousolre</td>
                 <td headers="mort">6 juin 1918<br>à Saint-Euphraise (Marne)</td>
                 <td headers="classe">sergent</td>
                 <td headers="corps">22e R.I</td>
