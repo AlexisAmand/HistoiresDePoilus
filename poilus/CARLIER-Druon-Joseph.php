@@ -200,7 +200,7 @@
         <figure>
             <a href="images/Ferrière-la-Petite-01.jpg" data-fancybox="gallery" data-caption="L'ouvrage de Ferrière-la-Petite">
             <img src="miniatures/Ferrière-la-Petite-01.jpg" alt="Les ruines de l'ouvrage de Ferrière-la-Petite"/></a>
-            <figcaption>Les ruines de l'ouvrage de Ferrière-la-Petite<br>(cliquez pour agrandir - source: http://www.mapio.cz/ )</figcaption>
+            <figcaption>Les ruines de l'ouvrage de Ferrière-la-Petite<br>(source: http://www.mapio.cz/)</figcaption>
         </figure>
 
         <h2>La chute de la place forte de Maubeuge</h2>

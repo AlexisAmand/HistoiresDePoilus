@@ -140,8 +140,8 @@
         </figure>
         
         <figure>
-            <a href="sources/matricule-marceau-amand.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="miniatures/matricule-marceau-amand.jpg" alt=" "/></a>
+            <a href="sources/matricule-marceau-amand.jpg" data-fancybox="gallery" data-caption="Les domiciles de Marceau AMAND">
+            <img src="miniatures/matricule-marceau-amand.jpg" alt="Extrait de la fiche matricule de Marceau AMAND contenant la liste de ses domiciles"/></a>
             <figcaption>Ses domiciles sur sa fiche matricule<br>(Source: Archives Départementales de la Seine-Saint-Denis)</figcaption>
         </figure>
               

@@ -160,7 +160,7 @@
 			<li>Rapatrié le 13 janvier 1919</li>
 		</ul>
 		
-		<p>Pour info, Joseph a plusieurs fréres et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
+		<p>Pour info, Joseph a plusieurs frères et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
 
 		<h2>Sources et bibliographie</h2>
 

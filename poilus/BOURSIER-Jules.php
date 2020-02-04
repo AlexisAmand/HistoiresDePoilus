@@ -179,7 +179,7 @@
         <figure>
         <a href="sources/BOURSIER-Jules-Henri-matricule-01.jpg" data-fancybox="gallery" data-caption="extrait sa fiche matricule">
         <img src="miniatures/BOURSIER-Jules-Henri-matricule-01.jpg"  alt="extrait de la fiche matricule de Jules Henri BOURSIER"/></a>
-        <figcaption>Extrait de sa fiche matricule<br>(cliquez pour agrandir)</figcaption>
+        <figcaption>Extrait de sa fiche matricule<br>(Source: Archives départementales du Nord)</figcaption>
         </figure>
 
         <h2>De Maubeuge à la Suisse</h2>
@@ -197,7 +197,7 @@
         <figure>
         <a href="sources/BOURSIER-Jules-Henri-CICR.jpg" data-fancybox="gallery" data-caption="Fiche numérisée du CICR">
         <img src="miniatures/BOURSIER-Jules-Henri-CICR.jpg" alt="Fiche de Jules Henri BOURSIER numérisée par le CICR"/></a>
-        <figcaption>Fiche du CICR<br>(cliquez pour agrandir)</figcaption>
+        <figcaption>Fiche du CICR<br>(Source: Croix Rouge)</figcaption>
         </figure>
 
         <h2>La guerre à Onnaing</h2>

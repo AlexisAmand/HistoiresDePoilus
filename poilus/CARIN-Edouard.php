@@ -146,10 +146,10 @@
         <figure>
             <a href="sources/Carin-Edouard-livre-dor.jpg" data-fancybox="gallery">
             <img src="miniatures/Carin-Edouard-livre-dor.jpg" alt="Extrait du livre d'or des morts pour la France de la commune de Roeulx"/></a>
-            <figcaption>Edouard dans le livre d'or des morts pour la France<br>(cliquez pour agrandir - source: Archives Nationales)</figcaption>
+            <figcaption>Edouard dans le livre d'or des morts pour la France<br>(source: Archives Nationales)</figcaption>
         </figure>
 
-        <p>Son nom figure sur le Monument aux Morts de Roeulx (Nord) où il vivait avant la Première Guerre Mondiale. Pour info, Édouard a plusieurs fréres et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="carin-joseph.php" title="Biographie du soldat Joseph CARIN">Joseph</a>, <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
+        <p>Son nom figure sur le Monument aux Morts de Roeulx (Nord) où il vivait avant la Première Guerre Mondiale. Pour info, Édouard a plusieurs frères et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="carin-joseph.php" title="Biographie du soldat Joseph CARIN">Joseph</a>, <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
 
         <figure>
             <a href="sources/CARIN-edouard-mpf.JPG"  data-fancybox="gallery" data-caption="Edouard CARIN, mort pour la France">

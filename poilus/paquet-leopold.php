@@ -91,8 +91,7 @@
 
         <h1>Léopold PAQUET</h1>
 
-        <p>Léopold paquet est né le 5 décembre 1886 à Reims, au domicile de ses parents situé Boulevard Saint-Marceaux, Fils légitime de Joseph PAQUET et Marie Julia LEFEVRE, Léopold est l’aîné de 4 enfants : Edmond, né à Reims en 1888, Charles, né à Reims en 1895 et Camille, né à Reims en 1898. Il épouse Marie-Hélène ARNOULD le 20 juin 1914, quelques mois avant la Mobilisation Générale et son départ pour la Grande Guerre, Pour la petite histoire, j’ai très bien connu André, le fils de 
-        Léopold et Marie-Hélène qui était le cousin germain de mon arrière-grand-père.</p>
+        <p>Léopold PAQUET est né le 5 décembre 1886 à Reims, au domicile de ses parents situé Boulevard Saint-Marceaux, fils légitime de Joseph PAQUET et Marie Julia LEFEVRE, Léopold est l’aîné de 4 enfants : Edmond, né à Reims en 1888, Charles, né à Reims en 1895 et Camille, né à Reims en 1898. Il épouse Marie-Hélène ARNOULD le 20 juin 1914, quelques mois avant la Mobilisation Générale et son départ pour la Grande Guerre, Pour la petite histoire, j’ai très bien connu André, le fils de Léopold et Marie-Hélène qui était le cousin germain de mon arrière-grand-père.</p>
 
         <table class="census">
         <caption>Liste des domiciles de Léoplod PAQUET</caption>
@@ -172,15 +171,9 @@
         </tbody>
         </table>
 
-        <p>Léopold fait parti des millions d’hommes mobilisés par le décret du 1er août 1914. Soldat de 2 classe, il rejoint le 106e R.I où il arrive dès le lendemain.</p>
-        
-        <h3>20 mars 1916</h3>
-            
-        <p>Il passe au 19e Bataillon de Chasseurs à Pied, quelques jours après que celui ci soit arrivé à Suippes (Marne), par une froide journée de neige, dans l’attente de renforts.</p>
+        <p>Léopold fait parti des millions d’hommes mobilisés par le décret du 1er août 1914. Soldat de 2 classe, il rejoint le 106e R.I où il arrive dès le lendemain. Il passe au 19e Bataillon de Chasseurs à Pied le 20 mars 1916, quelques jours après que celui ci soit arrivé à Suippes (Marne), par une froide journée de neige, dans l’attente de renforts.</p>
 
-        <h3>7 octobre 1916</h3>
-
-        <p>Il est blessé à Bouchavesnes (Somme) lors de l’attaque en direction de la « Tranchée de Fulda – Tête de Malassise ». Sa fiche matricule précise qu’il a des plaies au bras gauche et à la cuisse gauche dues à un éclats d’obus. Quelques jours plus tôt le bataillon avait été passé en revue par le président Poincaré, accompagné des généraux Joffre et Rocques.</p>
+        <p>Il est blessé à Bouchavesnes (Somme) le 7 octobre 1916, lors de l’attaque en direction de la « Tranchée de Fulda – Tête de Malassise ». Sa fiche matricule précise qu’il a des plaies au bras gauche et à la cuisse gauche dues à un éclats d’obus. Quelques jours plus tôt le bataillon avait été passé en revue par le président Poincaré, accompagné des généraux Joffre et Rocques.</p>
 
         <figure>
             <a href="images/cartes-bouchavenes.jpg" data-fancybox="gallery" data-caption="Les tranchées à Bouchavesnes">

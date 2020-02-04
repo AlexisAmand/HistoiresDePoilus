@@ -121,28 +121,40 @@
 
         <h1>Hoche Gaston AMAND</h1>
 
-        <p>Hoche Gaston BLOMY est nà à bord du bateau de ses parents un couple de bateliers, le 10 février 1895, alors qu'il est à quai sur les rives de l'Escaut à Lourches. Comme Marceau, dont il est l'ainé, il est le fils légitime de Blomy Abélard et Adeline DELPLANQUE.</p>
+        <p>Hoche Gaston Blomy AMAND est né  le 10 février 1895 à bord du bateau de ses parents, un couple de bateliers, alors qu'il est à quai sur les rives de l'Escaut à Lourches. Comme Marceau, dont il est l'ainé, il est le fils légitime de Blomy Abélard et Adeline DELPLANQUE.</p>
 
         <figure>
             <a href="images/lourches-escaut-2.jpg" data-fancybox="gallery" data-caption="Vue des entrepôts et canal de l'Escaut à Lourches">
             <img src="miniatures/lourches-escaut-2.jpg" alt="Vue des entrepôts et canal de l'Escaut à Lourches"/></a>
             <figcaption>Vue des entrepôts et canal de l'Escaut à Lourches<br>(Source: Archives Municipales de Valenciennes)</figcaption>
         </figure>
+        
+        <p>Si vous êtes un jour amené à chercher des informations et à enquêter dans le milieu des bateliers, vous allez vitre découvrir que un véritable parcours du combattant car leur vie s'est faite au grés des fleuves. On nait dans un département, on se marie dans un second et on décéde dans un 3e. Est-ce pour cette raison que la famille AMAND est à Gueret en ce mois de mars 1915 ? Je ne sais pas trop car il se peut aussi que la famille ait fuit le Nord de la France devant l'avancé des troupes allemandes. Quoi qu'il en soit c'est à la marie de Gueret que nous faisons la connaissance de Hoche Gaston Blomy AMAND. Nous sommes le 3 mars 1915 et il est venu s'engager pour la durée de la guerre.</p>
 
+        <figure>
+            <a href="#" data-fancybox="gallery" data-caption=" ">
+            <img src="#" alt=" "/></a>
+            <figcaption>Fiche matricule</figcaption>
+        </figure>
 
-                
+        <p>Hoche devient alors soldat de 2e classe au sein du 54e Régiment d'Infanterie jusqu'au 20 juillet 1915, date à laquelle il passe au 87e Régiment d'Infanterie. En octobre 1915, Hoche et son régiment participe à la prise de Tahure, assaut au cours duquel il est blessé à la jambe droite et au côté droit par un éclat d'obus. Il est évacué et de retour au 87e le 28 novembre 1915.</p>
+
         <figure>
             <a href="images/prise-de-tahure.jpg" data-fancybox="gallery" data-caption="La prise de Tahure (Par Léon Groc)">
             <img src="miniatures/prise-de-tahure.jpg" alt="La prise de Tahure dessinée par Léon Groc"/></a>
             <figcaption>La prise de Tahure<br>illustration par Léon Groc pour la collection Patrie<br>(Source: Wikipedia Commons)</figcaption>
         </figure>
 
-		<figure>
+        <p>Le mois de juillet 1917 est chargé pour Hoche. Le 6 il est cité à l'ordre du régiment n°181 du 87e Régiment d'Infanterie : "Etant en pays envahi, a franchi les lignes allemandes pour venir se présenter au bureau de recrutement". Trois semaines plus tard, le 27, il est blessé par un éclat d'obus à la main gauche pendant les combat de la côte 304, une colline au nord-est de Verdun (Meuse).</p>
+
+        <figure>
             <a href="sources/matricule-gaston-amand.jpg" data-fancybox="gallery" data-caption="Liste des domiciles de Gaston sur sa fiche matricule">
             <img src="miniatures/matricule-gaston-amand.jpg" alt="Extrait de la fiche matricule de Gaston AMAND"/></a>
             <figcaption>Ses domiciles sur sa fiche matricule<br>(Source: Archives Départementales du Nord)</figcaption>
         </figure>
-        
+
+        <p>Le 25 août 1919, il est envoyé en congés illimités et se retire à Neuville-sur-Escaut (Nord), au 23 rue de Bouchain. Selon le journal officiel du 27 octobre 1934 (p 317), il obtient la médaille millitaire.</p>
+
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 
         </article>

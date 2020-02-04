@@ -61,7 +61,7 @@
             <p>Oups ! La page que vous demandez n'a pas été trouvée !<br>Peut-être a t-elle été déplacée ou supprimée ?</p>
 
             <figure>
-                <img src="/images/periscope.jpg" alt=""/>
+                <img src="/images/periscope.jpg" alt="periscope utilisé par les soldats pendant la Première Guerre Mondiale"/>
             </figure>
 
         </article>

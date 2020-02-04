@@ -103,7 +103,7 @@
         <figure>
             <a href="images/usine-oudin.jpg" data-fancybox="gallery" data-caption="L'usine Oudin à Bétheniville">
             <img src="miniatures/usine-oudin.jpg" alt="L'usine Oudin de Bétheniville sur une carte postale ancienne"/></a>
-            <figcaption>L'entrée de l'Usine Oudin<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>L'entrée de l'Usine Oudin<br>(Source: Delcampe)</figcaption>
         </figure>
 
         <table class="census">
@@ -177,19 +177,19 @@
         <figure>
             <a href="images/usine-marais.jpg" data-fancybox="gallery" data-caption="Les Aciéries du MArais à Saint-Etienne">
             <img src="miniatures/usine-marais.jpg" alt="Les aciéries de Saint-Etienne au Marais"/></a>
-            <figcaption>Les aciéries du "Marais" de Saint-Etienne<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Les aciéries du "Marais" de Saint-Etienne<br>(Source: Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="images/mobilisation.jpg" data-fancybox="gallery" data-caption="Le décret de mobilisation générale">
             <img src="miniatures/mobilisation.jpg" alt="Affiche du décret de mobilisation générale publié en Août 1914"/></a>
-            <figcaption>Le décret de mobilisation générale<br>(Gallica / Bibliothèque Nationale de France)</figcaption>
+            <figcaption>Le décret de mobilisation générale<br>(Source: Gallica / BNF)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li>"Le Monde Illustré" du 15 juillet 1922 (Gallica / Bibliothèque Nationale de France)</li>
+            <li>"Le Monde Illustré" du 15 juillet 1922 (Gallica / BNF)</li>
             <li><a href="../pdf/matricule-baltazart-ernest.pdf" title="Fiche matricule d'Ernest Auguste BALTAZART">Fiche matricule d'Ernest Auguste BALTAZART</a></li>
             <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>
         </ul>

@@ -195,9 +195,9 @@
         <p>Selon les docs de la Croix Rouge, il est fait prisonnier à Bikschote (Belgique) avant le 23 janvier 1915, selon moi durant la Première Bataille d'Ypres entre la fin du mois d'octobre et le début du mois de novembre 1914. </p>
 
         <figure>
-            <a href="sources/cicr-fievet-01.JPG" data-fancybox="gallery" data-caption="Extrait d'une liste de prisonniers (source: CICR)">
+            <a href="sources/cicr-fievet-01.JPG" data-fancybox="gallery" data-caption="Extrait d'une liste de prisonniers (Source: Croix Rouge)">
             <img src="miniatures/cicr-fievet-01.JPG" alt="Extrait d'une liste de prisonniers de la Croix Rouge"/></a>
-            <figcaption>Extrait d'une liste de prisonniers<br>(Source: CICR)</figcaption>
+            <figcaption>Extrait d'une liste de prisonniers<br>(Source: Croix Rouge)</figcaption>
         </figure>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

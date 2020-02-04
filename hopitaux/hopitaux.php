@@ -96,12 +96,6 @@
 	
 		<h2>Les hôpitaux d'Amiens</h2>
 		
-			<p>HB n° 4 bis ?</p>
-		
-			<p>Grand Séminaire, 61 rue Saint-Fuscien - 246 lits - Fonctionne du 23 septembre 1914 au 8 décembre 1915 - A cette date devient HC n° 105</p>
-		
-			<p>Hôpital mixte ?</p>
-		
 		<figure>
 			<a href="images/hopital-mixte-amiens.jpeg" data-fancybox="gallery" data-caption="L'hôpital mixte d'Amiens (Somme)">
 			<img src="miniatures/hopital-mixte-amiens.jpeg" alt="L'hôpital mixte installé à l'Hôtel Dieu d'Amiens"></a>
@@ -111,11 +105,7 @@
 			(source: Archives d'électricité médicale n°422, novembre 1917)
 			</figcaption>
 		</figure>
-		
-		<h2>Les hôpitaux de Beauvais</h2>
-		
-			<p>hôpital temporaire n°11 du lycée Jeanne Hachette de Beauvais (Somme) ?</p>
-		
+				
 		<h2>Les hôpitaux de Breuil-le-Sec</h2>
 		
 		<figure>
@@ -127,22 +117,6 @@
 		<h2>Les hôpitaux de Calais</h2>
 		
 			<p>L'hôpital militaire temporaire n°51 de Calais était géré par le Service de Santé des Armées. Il était situé à la maison de commerce Leweng et Weinberg, 92 rue Gambetta. Il comportait 110 lits et a fonctionné dès le 26 décembre 1914.</p>
-
-		<h2>Les hôpitaux de Catenoy</h2>
-								
-			<p>L'hopital d'évacuation n°36 de Catenoy</p>
-		
-		<h2>Les hôpitaux de Courlandon</h2>
-		
-			<p>L'hôpital n°13 ?</p>
-		
-		<h2>Les hôpitaux de Doullens</h2>
-		
-			<p>L'hôpital militaire ?</p>
-		
-		<h2>Les hôpitaux de Dunkerque</h2>
-		
-			<p>L'hôpital Lamartine ?</p>
 		
 		<h2>Les hôpitaux de Valenciennes</h2>
 		

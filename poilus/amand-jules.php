@@ -99,7 +99,7 @@
         <figure>
             <a href="sources/amand-jules-01.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
             <img src="miniatures/amand-jules-01.jpg" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
-            <figcaption>Fiche Sépultures et cimetières militaires<br>(Source: War Heritage Institute)</figcaption>
+            <figcaption>Fiche Sépultures et cimetières militaires<br>(Source: <a href="https://www.warheritage.be/fr">War Heritage Institute</a>)</figcaption>
         </figure>
 
         <p>Son nom figure sur le monument aux morts d'Ougrée dédié au 9e Régiment d'Infanterie de Ligne.</p>

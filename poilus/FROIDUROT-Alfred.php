@@ -86,12 +86,12 @@
 
         <h1>Alfred FROIDUROT</h1>
 
-        <p>Alfred FROIDUROT est né le 29 janvier 1898 à Semur-en-Auxois (Côte-d'Or), une ville qui selon la légende aurait été bâtie par Hercule à son retour d'Espagne, et est le fils d'Alphonse FROIDUROT (plâtrier) et Marie Blanche GIRARDOT.</p>
+        <p>Alfred FROIDUROT est né le 29 janvier 1898 à Semur-en-Auxois (Côte-d'Or), une ville qui selon la légende aurait été bâtie par Hercule à son retour d'Espagne, et est le fils d'<a href="froidurot-alphonse.php" title="Biographie du poilu Alphonse FROIDUROT">Alphonse FROIDUROT</a> (plâtrier) et Marie Blanche GIRARDOT.</p>
 
         <figure>
             <a href="sources/Froidurot-Alfred-naissance-1898.jpg" data-fancybox="gallery" data-caption="Acte de naissance d'Alfred Froidurot">
             <img src="miniatures/Froidurot-Alfred-naissance-1898.jpg"  alt="Acte de naissance d'Alfred Froidurot"></a>
-            <figcaption>Acte de naissance d'Alfred FROIDUROT<br>(source: Archives Départementales du Nord)</figcaption>
+            <figcaption>Acte de naissance d'Alfred FROIDUROT<br>(Source: Archives Départementales de la Côte-d'Or)</figcaption>
         </figure>
 
         <p>Alfred a tout juste 17 ans quand, le 2 juillet 1915 à Dijon, il s'engage comme volontaire pour la durée de la guerre au 17e Régiment de Dragons. Comme beaucoup de poilus, Alfred passe de régiment en régiment au grès des affectations: 2e Régiment de Zouaves (février 1916), 3e Régiment Mixte de Zouaves  (juin 1916), 1er Régiment de Zouaves (octobre 1917) et 3e Régiment de Zouaves  (décembre 1917).</p>
@@ -104,13 +104,15 @@
 
         <? /* TODO : un petit arbre généalogique */ ?>
 
-        <p>Quand la Seconde Guerre Mondiale éclate, Alfred est un commerçant domicilié à la cité ouvrière d'Antibes (Alpes-Maritimes). Était-il allé à Antibes suite à l'évacuation ? Je ne sais pas encore, quoi qu'il soit, il rejoint les Forces françaises de l'intérieur (FFI) et est arrêté le 9 août 1944 par la Gestapo cannoise à la suite de l'arrestation de Marcel Neydorff. Il est emprisonné dans les cellules de la villa Montfleury, siège de la Gestapo cannoise et est torturé. Il est assassiné avec 7 autres résistants au sous-sol de la villa Montfleury le 15 août 1944. Son nom est inscrit sur la stèle commémorative de la villa Montfleury à Cannes (Alpes-Maritimes). Il est reconnu Mort pour la France et est inhumé au cimetière communal de Rabiac à Antibes.</p>
+        <p>Quand la Seconde Guerre Mondiale éclate, Alfred est un commerçant domicilié à la cité ouvrière d'Antibes (Alpes-Maritimes). Était-il allé à Antibes suite à l'évacuation ? Je ne sais pas encore, quoi qu'il soit, il rejoint les Forces françaises de l'intérieur (FFI) et est arrêté le 9 août 1944 par la Gestapo cannoise à la suite de l'arrestation de Marcel Neydorff. Il est emprisonné dans les cellules de la villa Montfleury, siège de la Gestapo cannoise et est torturé. Il est assassiné avec 7 autres résistants au sous-sol de la villa Montfleury le 15 août 1944 vers 20H.</p>
 
         <figure>
             <a href="images/villa-montfleury-cannes.jpg" data-fancybox="gallery" data-caption="La Villa Montfleury à Cannes">
             <img src="miniatures/villa-montfleury-cannes.jpg" alt="La Villa Montfleury sur une carte postale ancienne de Cannes"></a>
-            <figcaption>La Villa Montfleury<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>La Villa Montfleury dans les années 1910<br>(source: Archives Municipales de Cannes)</figcaption>
         </figure>
+
+        <p>Son nom est inscrit sur la stèle commémorative de la villa Montfleury à Cannes (Alpes-Maritimes). Il est reconnu Mort pour la France et est inhumé au cimetière communal de Rabiac à Antibes.</p>
 
         <p>Outre le fait qu'il ait été fait chevalier de la Légion d'Honneur à titre posthume le 14 septembre 1960, le plus émouvant à mes yeux, c'est que j'ai pu trouver une photographie présentant les corps d'Alfred et ses 7 compagnons fusillés et décédés le 15 août 1944 dans les caves de la villa cannoise et publiée dans le journal L'Ergot n°15 (21 décembre 1944). Je ne mets pas le document ici par respect pour lui et sa famille, mais il est facilement trouvable sur une encyclopédie en ligne bien connu.</p>
 

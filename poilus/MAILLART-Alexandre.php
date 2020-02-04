@@ -102,7 +102,7 @@
         <figure>
             <a href="images/matricule-alexandre-maillart.jpg" data-fancybox="gallery" data-caption="Extrait de sa fiche matricule">
             <img src="miniatures/matricule-alexandre-maillart.jpg" alt="Extrait de la fiche matricule d'Alexandre MAILLART"/></a>
-            <figcaption>Extrait de sa fiche matricule<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Extrait de sa fiche matricule<br>(Source: Archives départementales de la Marne)</figcaption>
         </figure>
 
         <p>Le 18 septembre 1899, Alexandre épouse à Boult-sur-Suippe (Marne) Marie Berthe GAUCHET, âgée de 25 ans, fille légitime d'Hyppolyte et Marie-Zélie SOMMELIER. Lors de son mariage, Alexandre travaille pour la Compagnie des Chemins de Fer de l'Est. Leur fils Marcel naît à Bar-le-Duc (Meuse) le 9 mai 1901, rue des romains.</p>

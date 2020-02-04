@@ -174,7 +174,7 @@
             <figcaption>Léon, mort pour la France.</figcaption>
         </figure>
         
-        <p>Pour info, Léon a plusieurs fréres et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="carin-joseph.php" title="Biographie du soldat Joseph CARIN">Joseph</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
+        <p>Pour info, Léon a plusieurs frères et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="carin-joseph.php" title="Biographie du soldat Joseph CARIN">Joseph</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
 
         <h2>Sources et bibliographie</h2>
 

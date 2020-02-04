@@ -100,7 +100,7 @@
 
         <h2>La mobilisation d'août 1914</h2>
 
-        <p><strong>Firmin</strong> est âgé de 20 ans lors de <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a> du 1 août 1914. Selon la fiche consultée sur le site "Mémoire de Hommes", il devient membre du <strong>164e Régiment d'Infanterie</strong>. Le site "<a href="http://www.memoiresdesmontsdechampagne.fr" title="Lien vers le site Mémoires des Monts de Champagne">Mémoires des Monts de Champagne</a>" estime à 300 le nombre de mobilisés à <a href="http://cartespostalesanciennes.genealexis.fr/album/63-betheniville" title="cartes postales anciennes de Bétheniville sur le site Genealexis">Bétheniville</a>. Parmi eux, 51 ne reviendront pas. </p>
+        <p>Firmin a tout juste 20 ans lors de <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a> du 1er août 1914. Sa fiche matricule et le recensement de 1911 disponibles aux Archives Départementales de la Marne nous appennent qu'il habite au n°20 de la Grande Rue de Béthenville où il excerce la profession de cultivateur. Selon la fiche consultée sur le site "Mémoire de Hommes", il devient membre du <strong>164e Régiment d'Infanterie</strong>. Le site "<a href="http://www.memoiresdesmontsdechampagne.fr" title="Lien vers le site Mémoires des Monts de Champagne">Mémoires des Monts de Champagne</a>" estime à 300 le nombre de mobilisés à <a href="http://cartespostalesanciennes.genealexis.fr/album/63-betheniville" title="cartes postales anciennes de Bétheniville sur le site Genealexis">Bétheniville</a>. Parmi eux, 51 ne reviendront pas.</p>
 
         <h2>De l'été 14 à Verdun</h2>
 
@@ -113,7 +113,7 @@
         <figure>
             <a href="portraits/Max_von_Hausen.jpg" data-fancybox="gallery" data-caption="portrait du Baron Max Von Hausen">
             <img src="miniatures/Max_von_Hausen.jpg" alt="portrait du Baron Max Von Hausen"/></a>
-            <figcaption>Max Von Hausen<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Max Von Hausen<br>(Source: Wikipedia Commons)</figcaption>
         </figure>
 
         <h2>Firmin, mort pour la France</h2>
@@ -123,7 +123,7 @@
         <figure>
             <a href="sources/MICHEL-Firmin-mpf.jpg" data-fancybox="gallery" data-caption="Firmin MICHEL, mort pour la France">
             <img src="miniatures/MICHEL-Firmin-mpf.jpg" alt="Fiche de mort pour la France de Firmin MICHEL"/></a>
-            <figcaption>Firmin, mort pour la France<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Firmin, mort pour la France<br>(Source: Mémoire des Hommes)</figcaption>
         </figure>
 
        <p>Sa fiche, retrouvée sur le site "Mémoire des Hommes", nous apprend qu'il dépendait du bureau de Reims (Marne) pour son recrutement et que son acte de décès a été retranscrit sur l'état civil de Betheniville (Marne), où son nom figure sur le <a href="../releves/betheniville.php" title="liste des morts pour la France de Bétheniville">Monument aux Morts</a>. <strong>Firmin</strong> repose aujourd'hui à la Nécropole Nationale de Bras-sur-Meuse (Tombe 50) </p>
@@ -131,7 +131,7 @@
         <figure>
             <a href="../releves/images/betheniville-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Bétheniville - Le Monument aux Morts">
             <img src="../releves/images/mini/betheniville-monument-aux-morts.jpg" alt="le Monument aux Morts de Bétheniville sur une carte postale ancienne"/></a>
-            <figcaption>Le Monument du Souvenir (guerre 1914-1918)<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Le Monument du Souvenir (guerre 1914-1918)<br>(Source: Delcampe)</figcaption>
         </figure>
 
         <p>Son fils <strong>Firmin</strong>, né le 7 janvier 1914 à Bétheniville, sera mobilisé en 1939 et rejoindra le <strong>8e Régiment de Zouaves</strong>. Capturé le 4 juin 1940 à Malo-les-Bains, il est emmené en captivité au Stalag VI A (a compté du 3 juillet 1940 à Hener Iserlhom) puis au Stalag VI H (Arnoldsweiler–duren, matricule 20495, liste du 11 juillet 1940). Il est décédé de maladie le 5 janvier 1941 à Aix-la-Chapelle (Allemagne)  à l'hôpital de réserve à Aachen.</p>
@@ -144,19 +144,19 @@
         <figure>
             <a href="images/Saint-Hilaire-ww1-01.jpg" data-fancybox="gallery" data-caption="Un canon anti-poux à Saint-Hilaire">
             <img src="miniatures/Saint-Hilaire-ww1-01.jpg" alt="Un canon anti-poux à Saint-Hilaire-le-Petit pendant la Première Guerre Mondiale"/></a>
-            <figcaption>Un canon anti-poux à Saint-Hilaire-le-Petit<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Un canon anti-poux à Saint-Hilaire-le-Petit<br>(Source: Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Saint-Hilaire-ww1-02.jpg" data-fancybox="gallery" data-caption="Les allemands à Saint-Hilaire-le-Petit">
             <img src="miniatures/Saint-Hilaire-ww1-02.jpg" alt="Les allemands dans une rue de Saint-Hilaire-le-Petit"/></a>
-            <figcaption>Les allemands à Saint-Hilaire-le-Petit<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Les allemands à Saint-Hilaire-le-Petit<br>(Source: Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Saint-Hilaire-ww1-03.jpg" data-fancybox="gallery" data-caption="Les allemands préparent le pain pour le déjeuner">
             <img src="miniatures/Saint-Hilaire-ww1-03.jpg" alt="Les allemands préparant le pain pour le déjeuner à Saint-Hilaire-le-Petit"/></a>
-            <figcaption>Préparations du pain pour le déjeuner<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Préparations du pain pour le déjeuner<br>(Source: Delcampe)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

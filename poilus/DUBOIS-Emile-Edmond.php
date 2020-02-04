@@ -213,8 +213,8 @@
         <figure>
             <a href="images/Beuvraignes-1914.jpg" data-fancybox="gallery" data-caption="Beuvraignes pendant la Grande Guuerre">
             <img src="miniatures/Beuvraignes-1914.jpg"  alt="Le village de Beuvraignes pendant la Première Guerre Mondiale"/></a>
-            <figcaption>Le village de Beuvraignes pendant la Grande Guerre<br>(source: Wikipédia - cliquez pour agrandir)</figcaption>
-        </figure>        
+            <figcaption>Le village de Beuvraignes pendant la Grande Guerre<br>(Wikipedia commons)</figcaption>
+        </figure>
 
         <p><em>Les 3, 4 et 5 octobre, des combats acharnés sont livrés pour la possession du village, l'ennemi nous opposant des forces bien supérieures en nombre. De part et d'autre les contres attaques se succèdent aux attaques et nos hommes se battent au corps à corps dans les rues et les maisons du village. Malgré des pertes importantes, (le Régiment ne compte plus que 400 hommes environ), l'ennemi ne parvient pas à nous chasser des lisières Sud du village et nous faisons une centaine de prisonniers dont deux officiers. Le 7, le régiment passe en seconde ligne, relevé par d'autres éléments de la 56e Division d'Infanterie gagne les villages de Bus et de Tilloloy, incorpore un renfort de 600 hommes et repasse en première ligne le 10 occupant le Bois allongé. Le 11, un coup de main tenté à Beuvraignes par deux compagnies permet de gagner quelques maisons du village. Le 14, le Régiment est relevé par le 92e Régiment d'Infanterie Du 14 au 30, la Division passe en réserve mobile d'Armée aux environs de Montdidier.</em></p>
 

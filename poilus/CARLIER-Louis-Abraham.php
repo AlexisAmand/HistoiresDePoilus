@@ -166,7 +166,7 @@
         <figure>
             <a href="portraits/Louis Abraham CARLIER (frère de sosa 22).jpg" data-fancybox="gallery" data-caption="Portrait de Louis Abraham CARLIER">
             <img src="miniatures/Louis Abraham CARLIER (frère de sosa 22).jpg" alt="portrait de Louis Abraham CARLIER"/></a>
-            <figcaption>Louis Abraham CARLIER<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Louis Abraham CARLIER<br>(source: Archives départementales du Nord)</figcaption>
         </figure>
 
         <h2>La bataille de Maubeuge</h2>
@@ -196,7 +196,7 @@
         <figure>
             <a href="sources/Louis-Carlier-dossier-01.jpg" data-fancybox="gallery" data-caption="Carte d'ancien de Louis Abraham CARLIER">
             <img src="miniatures/Louis-Carlier-dossier-01.jpg" alt="Extrait du dossier d'ancien combattant de Louis Abraham CARLIER"/></a>
-            <figcaption>Extrait de son dossier d'ancien combattant<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Extrait de son dossier d'ancien combattant<br>(source: Archives départemenales du Nord)</figcaption>
         </figure>
 
         <h2>Louis, prisonnier au camp de Münster</h2>
@@ -242,7 +242,7 @@
         <figure>
             <a href="sources/louis-carlier-ancien-combattant.jpg" data-fancybox="gallery">
             <img src="miniatures/louis-carlier-ancien-combattant.jpg" alt="Carte d'ancien combattant de Louis Abraham CARLIER"/></a>
-            <figcaption>Carte d'ancien combattant ayant appartenu à Louis<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Carte d'ancien combattant ayant appartenu à Louis<br>(source: Archives départementales du Nord)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>
