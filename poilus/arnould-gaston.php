@@ -63,8 +63,8 @@
 
     <ul>
         <li class="asideheader">Marne</li>
-        <li><a href="arnould-gaston.php">ARNOULD Gaston</a></li>
-        <li><a href="arnould-henri-rene.php" class="AsideSelected">ARNOULD Henri René (+)</a></li>
+        <li><a href="arnould-gaston.php" class="AsideSelected">ARNOULD Gaston</a></li>
+        <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
         <li><a href="astiers-jules-alphonse.php">ASTIER(S) Jules Alphonse</a></li>       
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
         <li><a href="caron-eugene-alexandre.php">CARON Eugène Alexandre</a></li>
@@ -89,35 +89,11 @@
 
         <article>
 
-        <h1>Henri René ARNOULD</h1>
+        <h1>Gaston ARNOULD</h1>
 
-        <p>Henri René ARNOULD est né à Bétheniville le 4 avril 1884, fils légitime de Louis Albert et Amélia Julia STÖSSEL. Pour faire simple, il est le cousin germain de Robert ARNOULD, mon arrière-grand-père.</p>
+        <p>Bientôt...</p>
 
-        <figure>
-            <a href="images/arbre-arnould-rene.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille ARNOULD">
-            <img src="miniatures/arbre-arnould-rene.png" class="ArbreGenealogique" alt="Arbre généalogique simplifié de la famille ARNOULD"></a>
-            <figcaption>Arbre généalogique partiel de René ARNOULD</figcaption>
-        </figure> 
-
-        <p>Lors de <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation générale</a>, Henri abandonne son métier de garçon coiffeur et rejoint le 106e Régiment d'Infanterie. Il est déclaré "tué à l'ennemi" par des éclats multiples à la tête le 22 mai 1916 au Mort-Homme, dans la Meuse.</p>
-
-        <figure>
-            <a href="images/mort-homme.jpg" data-fancybox="gallery" data-caption="Chattancourt et vue sur le Mort-Homme">
-            <img src="miniatures/mort-homme.jpg" alt="Chattancourt et vue sur le Mort-Homme"></a>
-            <figcaption>Chattancourt et vue sur le Mort-Homme<br>(source: Delcampe)</figcaption>
-        </figure>
-
-        <figure>
-            <a href="images/croquis-1916-2" data-fancybox="gallery" data-caption="Attaques sur la rive gauche (Verdun, 1916)">
-            <img src="miniatures/croquis-1916-2" alt=" plan des attaques sur la rive gauche de Verdun en 1916)"></a>
-            <figcaption>Verdun: Attaques sur la rive gauche<br>(source: Delcampe)</figcaption>
-        </figure>
-
-        <figure>
-            <a href="sources/arnould-henri-rene.jpg" data-fancybox="gallery" data-caption="Henri René ARNOULD, mort pour la France">
-            <img src="miniatures/arnould-henri-rene.jpg" alt="Fiche de mort pour la France de Henri René ARNOULD"></a>
-            <figcaption>Henri, mort pour la France.<br>(source: Mémoire des Hommes)</figcaption>
-        </figure> 
+        <p>ARNOULD Gaston Alexandre : matricule n°38, bureau de Reims, vol 1, classe 1913.</p>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 

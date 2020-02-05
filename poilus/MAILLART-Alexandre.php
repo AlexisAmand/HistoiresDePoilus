@@ -64,6 +64,7 @@
 
     <ul>
         <li class="asideheader">Marne</li>
+        <li><a href="arnould-gaston.php">ARNOULD Gaston</a></li>
         <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
         <li><a href="astiers-jules-alphonse.php">ASTIER(S) Jules Alphonse</a></li>       
         <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
