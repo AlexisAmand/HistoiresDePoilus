@@ -44,7 +44,7 @@
         <a href="../webographie.php">Webographie</a>
         <a href="../lieux.php">Les Batailles</a>
         <a href="../camps.php">Les Camps</a>
-        <a href="../releves.php">Les Relevés</a>
+        <a href="../tombes.php">Les Tombes</a>
         <a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
         <a href="../poilus.php" class="NavSelected">Les Poilus</a>
     </nav>
@@ -175,7 +175,7 @@
 
         <h2> La mobilisation d'août 1914</h2>
 
-        <p><strong>Jules</strong> est âgé de 35 ans lors de mobilisation. Il est rappelé à l'activité et arrive au <strong>1er Régiment d'Artillerie à Pied</strong> le 2 août 1914. La portion centrale de ce régiment était à Dunkerque avec les 4e, 6e et 7e batteries, la 3e était à Boulogne, la 5e à Calais et enfin les 1re et 2e étaient à Maubeuge. </p><p>Pas moins de 3 780 000 hommes sont mobilisés en août 1914. Au total, durant toute la guerre, environ 8 410 000 soldats et marins français seront mobilisés, dont 7 % de soldats indigènes venant des colonies de l'Empire. Parmi tous ces soldats, 1 397 800 sont <a href="../releves.php">morts pour la France</a> et 4 266 000 ont été blessés au combat.</p>
+        <p><strong>Jules</strong> est âgé de 35 ans lors de mobilisation. Il est rappelé à l'activité et arrive au <strong>1er Régiment d'Artillerie à Pied</strong> le 2 août 1914. La portion centrale de ce régiment était à Dunkerque avec les 4e, 6e et 7e batteries, la 3e était à Boulogne, la 5e à Calais et enfin les 1re et 2e étaient à Maubeuge. </p><p>Pas moins de 3 780 000 hommes sont mobilisés en août 1914. Au total, durant toute la guerre, environ 8 410 000 soldats et marins français seront mobilisés, dont 7 % de soldats indigènes venant des colonies de l'Empire. Parmi tous ces soldats, 1 397 800 sont <a href="../tombes.php">morts pour la France</a> et 4 266 000 ont été blessés au combat.</p>
 
         <figure>
         <a href="sources/BOURSIER-Jules-Henri-matricule-01.jpg" data-fancybox="gallery" data-caption="extrait sa fiche matricule">
@@ -203,11 +203,11 @@
 
         <h2>La guerre à Onnaing</h2>
 
-        <p>Pendant ce temps, à Onnaing, où est né Jules Henri BOURSIER, les Allemands enlèvent les cloches de l'église (1915). Elles sont conduites à Saint-Saulve pour y être fondues et faire des canons. Trois ans plus tard, en 1918, les Allemands se retirent et font sauter la Route Nationale pour couper la route aux troupes de l'armée canadienne. Le monuments aux morts de la Première Guerre Mondiale est érigé en 1922, en hommage aux <a href="../releves/onnaing.php">150 victimes militaires de la commune.</a></p>
+        <p>Pendant ce temps, à Onnaing, où est né Jules Henri BOURSIER, les Allemands enlèvent les cloches de l'église (1915). Elles sont conduites à Saint-Saulve pour y être fondues et faire des canons. Trois ans plus tard, en 1918, les Allemands se retirent et font sauter la Route Nationale pour couper la route aux troupes de l'armée canadienne. Le monuments aux morts de la Première Guerre Mondiale est érigé en 1922, en hommage aux 150 victimes militaires de la commune.</p>
 
         <figure>
-        <a href="../releves/images/onnaing-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts d'Onnaing">
-        <img src="../releves/images/mini/onnaing-monument-aux-morts.jpg" alt="le Monument aux Morts d'Onnaing sur une carte postale ancienne"/></a>
+        <a href="../tombes/images/onnaing-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts d'Onnaing">
+        <img src="../tombes/images/mini/onnaing-monument-aux-morts.jpg" alt="le Monument aux Morts d'Onnaing sur une carte postale ancienne"/></a>
         <figcaption>Le Monument aux Morts de la guerre 1914-1918<br>(cliquez pour agrandir)</figcaption>
         </figure>
 

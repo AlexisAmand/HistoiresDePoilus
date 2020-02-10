@@ -45,7 +45,7 @@
         <a href="../webographie.php">Webographie</a>
         <a href="../lieux.php">Les Batailles</a>
         <a href="../camps.php">Les Camps</a>
-        <a href="../releves.php">Les Relevés</a>
+        <a href="../tombes.php">Les Tombes</a>
         <a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
         <a href="../poilus.php" class="NavSelected">Les Poilus</a>
     </nav>
@@ -158,7 +158,7 @@
             </tbody>
         </table>
 
-        <p>Rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de Mobilisation Générale</a> du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le <a href="../releves/cousolre.php">Monument aux Morts de Cousolre</a> (où il était né) et sur les plaques commémoratives du square de l'Armistice à Carcassonne (où il était serrurier).</p>
+        <p>Rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de Mobilisation Générale</a> du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le Monument aux Morts de Cousolre (où il était né) et sur les plaques commémoratives du square de l'Armistice à Carcassonne (où il était serrurier).</p>
 
         <figure>
             <a href="sources/hanze-augustin.jpg" data-fancybox="gallery" data-caption="Augustin HANZE, mort pour la France">

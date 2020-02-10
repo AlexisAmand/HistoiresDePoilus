@@ -46,7 +46,7 @@
     <a href="../webographie.php">Webographie</a>
     <a href="../lieux.php">Les Batailles</a>
     <a href="../camps.php">Les Camps</a>
-    <a href="../releves.php" class="NavSelected">Les Relevés</a>
+    <a href="../tombes.php" class="NavSelected">Les Tombes</a>
     <a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
     <a href="../poilus.php">Les Poilus</a> 
 
@@ -59,8 +59,8 @@
     <ul>   
         <li class="asideheader">Nord</li>
           <li><a href="awoingt.php">Awoingt</a></li>
-	        <li><a href="capelle.php" class="AsideSelected">Capelle-sur-Ecaillon</a></li>
-	        <li><a href="grand-fayt">Grand-Fayt</a></li>
+	      <li><a href="capelle.php" class="AsideSelected">Capelle-sur-Ecaillon</a></li>
+	      <li><a href="grand-fayt">Grand-Fayt</a></li>
           <li><a href="valenciennes.php">Valenciennes</a></li>  
     </ul>
 
@@ -92,7 +92,7 @@
             <figcaption>Le monument de Capelle-sur-Ecaillon<br>(Source: Photo privée)</figcaption>
         </figure>
 
-        <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../releves.php" title="Liste des abréviations utilisées">cette page</a>.</p>
+        <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../tombes.php" title="Liste des abréviations utilisées">cette page</a>.</p>
 
         <table class="releves">
             <thead>

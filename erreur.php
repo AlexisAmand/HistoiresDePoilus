@@ -47,7 +47,7 @@
         <a href="webographie.php">Webographie</a>
         <a href="lieux.php">Les Batailles</a>
         <a href="camps.php">Les Camps</a>
-        <a href="releves.php">Les Relevés</a>
+        <a href="tombes.php">Les Tombes</a>
         <a href="hopitaux/hopitaux.php">Les Hôpitaux</a>
         <a href="poilus.php">Les Poilus</a>
     </nav>
@@ -85,58 +85,58 @@
                 </ul>
                 </li>
                 <li>Les Hôpitaux</li>
-                <li><a href="/releves.php">Les Relevés</a>
+                <li><a href="/tombes.php">Les Tombes</a>
                 <ul>			
                     <li>Nord		  
                         <ul>				
-                            <li><a href="/releves/anzin.php">Anzin</a></li>
-                            <li><a href="/releves/bry.php">Bry</a></li>
-                            <li><a href="/releves/capelle.php">Capelle-sur-Ecaillon</a></li>
-                            <li><a href="/releves/cousolre.php">Cousolre</a></li> 
-                            <li><a href="/releves/eth.php">Eth</a></li>
-                            <li><a href="/releves/gussignies.php">Gussignies</a></li>
-                            <li><a href="/releves/lourches.php">Lourches</a></li>
-                            <li><a href="/releves/onnaing.php">Onnaing</a></li>    
-                            <li><a href="/releves/quarouble.php">Quarouble</a></li>
-                            <li><a href="/releves/roeulx.php">Roeulx</a></li>
-                            <li><a href="/releves/santes.php">Santes</a></li>
-                            <li><a href="/releves/saultain.php">Saultain</a></li>
-                            <li><a href="/releves/sebourg.php">Sebourg</a></li>
-                            <li><a href="/releves/vicq.php">Vicq</a></li>
-                            <li><a href="/releves/villers-guislain.php">Villers-Guislain</a></li>
-                            <li><a href="/releves/wargnies.php">Wargnies-le-Grand</a></li>    
+                            <li><a href="/tombes/anzin.php">Anzin</a></li>
+                            <li><a href="/tombes/bry.php">Bry</a></li>
+                            <li><a href="/tombes/capelle.php">Capelle-sur-Ecaillon</a></li>
+                            <li><a href="/tombes/cousolre.php">Cousolre</a></li> 
+                            <li><a href="/tombes/eth.php">Eth</a></li>
+                            <li><a href="/tombes/gussignies.php">Gussignies</a></li>
+                            <li><a href="/tombes/lourches.php">Lourches</a></li>
+                            <li><a href="/tombes/onnaing.php">Onnaing</a></li>    
+                            <li><a href="/tombes/quarouble.php">Quarouble</a></li>
+                            <li><a href="/tombes/roeulx.php">Roeulx</a></li>
+                            <li><a href="/tombes/santes.php">Santes</a></li>
+                            <li><a href="/tombes/saultain.php">Saultain</a></li>
+                            <li><a href="/tombes/sebourg.php">Sebourg</a></li>
+                            <li><a href="/tombes/vicq.php">Vicq</a></li>
+                            <li><a href="/tombes/villers-guislain.php">Villers-Guislain</a></li>
+                            <li><a href="/tombes/wargnies.php">Wargnies-le-Grand</a></li>    
                         </ul> 
                     </li>		  
                     <li>Marne
                     <ul>	
-                        <li><a href="/releves/betheniville.php">Bétheniville</a></li>
-                        <li><a href="/releves/isles-sur-suippes.php">Isles-sur-Suippes</a></li>
-                        <li><a href="/releves/saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit</a></li>
+                        <li><a href="/tombes/betheniville.php">Bétheniville</a></li>
+                        <li><a href="/tombes/isles-sur-suippes.php">Isles-sur-Suippes</a></li>
+                        <li><a href="/tombes/saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit</a></li>
                     </ul>
                     </li>
                     <li>Côte-d'Or
                     <ul>	
-                        <li><a href="/releves/daix.php">Daix</a></li>
+                        <li><a href="/tombes/daix.php">Daix</a></li>
                     </ul>
                     </li>
                     <li>Yvelines
                     <ul>
-                        <li><a href="/releves/feucherolles.php">Feucherolles</a></li>
+                        <li><a href="/tombes/feucherolles.php">Feucherolles</a></li>
                     </ul>
                     </li>		
                     <li>Pas-de-Calais
                     <ul>
-                        <li><a href="/releves/frencq.php">Frencq</a></li>
+                        <li><a href="/tombes/frencq.php">Frencq</a></li>
                     </ul>
                     </li>
                     <li>Aube
                     <ul>  	
-                        <li><a href="/releves/gelannes.php">Gélannes</a></li>
+                        <li><a href="/tombes/gelannes.php">Gélannes</a></li>
                     </ul>	
                     </li>	
                     <li>Ardennes
                     <ul> 
-                        <li><a href="/releves/verpel.php">Verpel</a></li>
+                        <li><a href="/tombes/verpel.php">Verpel</a></li>
                     </ul>	
                     </li>
                     </ul>		

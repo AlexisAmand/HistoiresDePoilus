@@ -5,9 +5,9 @@
 
         <meta charset="utf-8">
 
-        <title>Relevé des morts pour la France - Histoires de Poilus</title>
+        <title>Photos de tombes de soldats pour la France - Histoires de Poilus</title>
 
-        <meta content="Relevés des morts pour la France pendant la Première Guerre Mondiale" name="description">
+        <meta content="Photos de tombes de soldat morts pour la France pendant la Première Guerre Mondiale" name="description">
 
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/resp.css">
@@ -46,7 +46,7 @@
         <a href="webographie.php">Webographie</a>
         <a href="lieux.php">Les Batailles</a>
         <a href="camps.php">Les Camps</a>
-        <a href="releves.php" class="NavSelected">Les Relevés</a>
+        <a href="tombes.php" class="NavSelected">Les Tombes</a>
         <a href="hopitaux/hopitaux.php">Les Hôpitaux</a>
         <a href="poilus.php">Les Poilus</a>
     </nav>
@@ -56,44 +56,11 @@
     <aside>
 
     <ul>   
-    	<li class="asideheader">Ardennes</li>
-        	<li><a href="releves/verpel.php">Verpel</a></li>
-        <li class="asideheader">Aube</li>
-       		<li><a href="releves/gelannes.php">Gélannes</a></li>     		
-       	<li class="asideheader">Côte-d'Or</li>
-        	<li><a href="releves/daix.php">Daix</a></li>     
-    	<li class="asideheader">Marne</li>
-	        <li><a href="releves/betheniville.php">Bétheniville</a></li>
-	        <li><a href="releves/isles-sur-suippes.php">Isles-sur-Suippes</a></li>
-	        <li><a href="releves/saint-hilaire-le-petit.php">Saint-Hilaire-le-Petit</a></li>
         <li class="asideheader">Nord</li>
-	        <li><a href="releves/anzin.php">Anzin</a></li>
-            <li><a href="releves/awoingt.php">Awoingt</a></li>
-	        <li><a href="releves/bry.php">Bry</a></li>
-	        <li><a href="releves/capelle.php">Capelle-sur-Ecaillon</a></li>
-	        <li><a href="releves/cousolre.php">Cousolre</a></li> 
-	        <li><a href="releves/eth.php">Eth</a></li>
-	        <li><a href="releves/grand-fayt">Grand-Fayt</a></li>
-	        <li><a href="releves/gussignies.php">Gussignies</a></li>
-	        <li><a href="releves/lourches.php">Lourches</a></li>
-	        <li><a href="releves/onnaing.php">Onnaing</a></li>    
-	        <li><a href="releves/quarouble.php">Quarouble</a></li>
-	        <li><a href="releves/roeulx.php">Roeulx</a></li>
-	        <li><a href="releves/santes.php">Santes</a></li>
-	        <li><a href="releves/saultain.php">Saultain</a></li>
-	        <li><a href="releves/sebourg.php">Sebourg</a></li>
-            <li><a href="releves/valenciennes.php">Valenciennes</a></li>
-	        <li><a href="releves/vicq.php">Vicq</a></li>
-	        <li><a href="releves/villers-guislain.php">Villers-Guislain</a></li>
-	        <li><a href="releves/wargnies.php">Wargnies-le-Grand</a></li>      
-        <li class="asideheader">Pas-de-Calais</li>
-        	<li><a href="releves/frencq.php">Frencq</a></li>      	       
-        <li class="asideheader">Puy-de-Dôme</li>
-        	<li><a href="releves/st-priest-des-champs.php">Saint-Priest-des-Champs</a></li>       
-        <li class="asideheader">Yonne</li>
-        	<li><a href="releves/isle-serein.php">L'Isle-sur-Serein</a></li>       	
-       	<li class="asideheader">Yvelines</li>
-   	    	<li><a href="releves/feucherolles.php">Feucherolles</a></li>
+          <li><a href="tombes/awoingt.php">Awoingt</a></li>
+	      <li><a href="tombes/capelle.php">Capelle-sur-Ecaillon</a></li>
+	      <li><a href="tombes/grand-fayt">Grand-Fayt</a></li>
+          <li><a href="tombes/valenciennes.php" class="AsideSelected">Valenciennes</a></li>  
     </ul>
 
     <div id="pubaside">
@@ -112,11 +79,10 @@
 
         <article>
 
-            <h1>Relevés</h1>
+            <h1>Les photos de tombes</h1>
 
-            <p>Dans cette partie du site, vous trouverez quelques relevés de <strong>morts pour la France</strong> réalisés en associant les données des monuments aux morts avec celles du site "Mémoire des Hommes" et d'autres sites d'archives. J'ai réalisé ce travail de mémoire pour les communes où j'ai pu trouver des hommes de ma famille qui ont été mobilisés pendant la Grande Guerre.</p>
+            <p>A l'origine, cette partie du site était un ensemble de relevés des morts pour la France dans les communes où on vécu mes ancêtres. Seulement voilà, il se trouve que ça faut un peu doublon avec ce que certains sites proposent (comme Geneanet ou Lille1). J'ai donc restructuré la rubrique pour y présenter des photos de tombes et de monuments croisés au hazard de mes découvertes et mes promenades.</p>
 
-            <p>&nbsp;</p>
             <p>&nbsp;</p>
 
             <h2>Liste des abréviations utilisées</h2>

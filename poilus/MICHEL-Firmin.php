@@ -45,7 +45,7 @@
         <a href="../webographie.php">Webographie</a>
         <a href="../lieux.php">Les Batailles</a>
         <a href="../camps.php">Les Camps</a>
-        <a href="../releves.php">Les Relevés</a>
+        <a href="../tombes.php">Les Tombes</a>
         <a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
         <a href="../poilus.php" class="NavSelected">Les Poilus</a>
     </nav>
@@ -127,11 +127,11 @@
             <figcaption>Firmin, mort pour la France<br>(Source: Mémoire des Hommes)</figcaption>
         </figure>
 
-       <p>Sa fiche, retrouvée sur le site "Mémoire des Hommes", nous apprend qu'il dépendait du bureau de Reims (Marne) pour son recrutement et que son acte de décès a été retranscrit sur l'état civil de Betheniville (Marne), où son nom figure sur le <a href="../releves/betheniville.php" title="liste des morts pour la France de Bétheniville">Monument aux Morts</a>. <strong>Firmin</strong> repose aujourd'hui à la Nécropole Nationale de Bras-sur-Meuse (Tombe 50) </p>
+       <p>Sa fiche, retrouvée sur le site "Mémoire des Hommes", nous apprend qu'il dépendait du bureau de Reims (Marne) pour son recrutement et que son acte de décès a été retranscrit sur l'état civil de Betheniville (Marne), où son nom figure sur le Monument aux Morts. <strong>Firmin</strong> repose aujourd'hui à la Nécropole Nationale de Bras-sur-Meuse (Tombe 50) </p>
 
         <figure>
-            <a href="../releves/images/betheniville-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Bétheniville - Le Monument aux Morts">
-            <img src="../releves/images/mini/betheniville-monument-aux-morts.jpg" alt="le Monument aux Morts de Bétheniville sur une carte postale ancienne"/></a>
+            <a href="../tombes/images/betheniville-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Bétheniville - Le Monument aux Morts">
+            <img src="../tombes/images/mini/betheniville-monument-aux-morts.jpg" alt="le Monument aux Morts de Bétheniville sur une carte postale ancienne"/></a>
             <figcaption>Le Monument du Souvenir (guerre 1914-1918)<br>(Source: Delcampe)</figcaption>
         </figure>
 

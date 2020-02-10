@@ -46,7 +46,7 @@
         <a href="../webographie.php">Webographie</a>
         <a href="../lieux.php">Les Batailles</a>
         <a href="../camps.php">Les Camps</a>
-        <a href="../releves.php">Les Relevés</a>
+        <a href="../tombes.php">Les Tombes</a>
         <a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
         <a href="../poilus.php" class="NavSelected">Les Poilus</a>
     </nav>
@@ -227,7 +227,7 @@
 
         <h2>Émile, mort pour la France</h2>
 
-        <p><strong>Émile Edmond DUBOIS </strong> est porté disparu au nord de <a href="http://cartespostalesanciennes.genealexis.fr/album/87-souain" title="cartes postales ancienne de Souain sur le site Genealexis">Souain</a> (Marne, Souain-Perthes-lès-Hurlus depuis le 16 juin 1950) le 8 octobre 1915 à l'âge de 35 ans. Son décès a été fixé à cette date par jugement du tribunal de Dijon le 18 mai 1920. Son nom figure sur le <a href="../releves/villers-guislain.php">Monument aux Morts du village de Villers-Guislain</a> (à côté de Cambrai).</p><p>&nbsp;</p>
+        <p><strong>Émile Edmond DUBOIS </strong> est porté disparu au nord de <a href="http://cartespostalesanciennes.genealexis.fr/album/87-souain" title="cartes postales ancienne de Souain sur le site Genealexis">Souain</a> (Marne, Souain-Perthes-lès-Hurlus depuis le 16 juin 1950) le 8 octobre 1915 à l'âge de 35 ans. Son décès a été fixé à cette date par jugement du tribunal de Dijon le 18 mai 1920. Son nom figure sur le Monument aux Morts du village de Villers-Guislain (à côté de Cambrai).</p><p>&nbsp;</p>
 
         <figure>
             <a href="images/souain-soldats.jpg" data-fancybox="gallery" data-caption="Victimes françaises à Souain en 1915">

@@ -46,7 +46,7 @@
         <a href="webographie.php">Webographie</a>
         <a href="lieux.php">Les Batailles</a>
         <a href="camps.php">Les Camps</a>
-        <a href="releves.php">Les Relevés</a>
+        <a href="tombes.php">Les Tombes</a>
         <a href="hopitaux/hopitaux.php">Les Hôpitaux</a>
         <a href="poilus.php">Les Poilus</a>
     </nav>
@@ -77,7 +77,7 @@
                 <img src="images/image-diapo-3.jpg" alt="Carte postale représentant le départ des soldats pour le Front" />
             </figure>
 
-            <p>Je vous propose donc, à travers ce site, un résumé des découvertes que j'ai eu la chance de réaliser à propos des membres de ma famille qui ont participé à la Première Guerre Mondiale. Vous allez ainsi découvrir que <a href="camps.php" title="Les camps de prisonniers pendant la Grande Guerre">certains prisonniers</a> et emmenés en Allemagne, que certains ont été blessés en défendant leur patrie et enfin que <a href="releves.php">d'autres sont morts pour leur patrie</a>. Ce site est avant toute chose là pour rendre hommage à tous les soldats de la Der des Der, qu'ils soient <em>Poilus</em> en France, <em>Landsers</em> en Allemagne, <em>Tommies</em> en Angleterre, <em>Diggers</em> en Australie, <a href="poilus/amand-jules.php" title="biographies de soldats belges de la Première Guerre Mondiale">Jass en Belgique</a>, <em>Sammies</em> aux États-Unis ou encore <em>Mehmetçik</em> en Turquie (Empire Ottoman).</p>
+            <p>Je vous propose donc, à travers ce site, un résumé des découvertes que j'ai eu la chance de réaliser à propos des membres de ma famille qui ont participé à la Première Guerre Mondiale. Vous allez ainsi découvrir que <a href="camps.php" title="Les camps de prisonniers pendant la Grande Guerre">certains prisonniers</a> et emmenés en Allemagne, que certains ont été blessés en défendant leur patrie et enfin que <a href="tombes.php">d'autres sont morts pour leur patrie</a>. Ce site est avant toute chose là pour rendre hommage à tous les soldats de la Der des Der, qu'ils soient <em>Poilus</em> en France, <em>Landsers</em> en Allemagne, <em>Tommies</em> en Angleterre, <em>Diggers</em> en Australie, <a href="poilus/amand-jules.php" title="biographies de soldats belges de la Première Guerre Mondiale">Jass en Belgique</a>, <em>Sammies</em> aux États-Unis ou encore <em>Mehmetçik</em> en Turquie (Empire Ottoman).</p>
 
             <p class="right">Bonne lecture,<br>Alexis, webmaster.</p>
 

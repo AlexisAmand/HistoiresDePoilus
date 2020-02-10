@@ -45,7 +45,7 @@
         <a href="../webographie.php">Webographie</a>
         <a href="../lieux.php">Les Batailles</a>
         <a href="../camps.php">Les Camps</a>
-        <a href="../releves.php" class="NavSelected">Les Relevés</a>
+        <a href="../tombes.php" class="NavSelected">Les Tombes</a>
         <a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
         <a href="../poilus.php">Les Poilus</a> 
     </nav>
@@ -57,8 +57,8 @@
     <ul>   
         <li class="asideheader">Nord</li>
           <li><a href="awoingt.php">Awoingt</a></li>
-	        <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
-	        <li><a href="grand-fayt">Grand-Fayt</a></li>
+	      <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
+	      <li><a href="grand-fayt">Grand-Fayt</a></li>
           <li><a href="valenciennes.php" class="AsideSelected">Valenciennes</a></li>  
     </ul>
 
@@ -81,6 +81,8 @@
     <h1>Tombes de poilus à Valenciennes</h1>
 
     <h2>André BERNARD</h2>
+
+    <p>Sous-Lieutenant au 91e Régiment d'Infanterie, André Georges Louis BERNARD est né à Valenciennes le 27 aout 1895. Il est décédé des suites de ses blessures à Moncetz (Marne) le 29 novembre 1915.</p>
 
     <figure>
         <a href="images/andre-bernard-01.jpg" data-fancybox="gallery" data-caption="Tombe d'André BERNARD, mort pour la France le 29 novembre 1916">
@@ -110,6 +112,8 @@
 
     <h2>René et Maurice GOUVION</h2>
 
+    <p>2e Classe au 3e Régiment de Zouaves, René Jean Désiré GOUVION est né à Saint-Saulve le 16 avril 1894. Il est décédé à la Côte du Poivre (à côté de Verdun de la Meuse) le 25 février 1916. Maurice Alfred, son frére ainé, est soldat au sein du 127e Régiment d'Infanterie. Il est né à Saint-Saulve le 4 avril 1892 et disparu au combat à Menil-les-Hurlus (Marne) le 19 février 1915. René et Maurice figurent sur le monument aux morts de la ville de Saint-Saulve.</p>
+
     <figure>
         <a href="images/gouvion-02.jpg" data-fancybox="gallery" data-caption="Tombe de René et Maurice GOUVION, morts pour la France pendant la Grande Guerre">
         <img src="images/mini/gouvion-02.jpg" alt="Tombe de René et Maurice GOUVION, deux poilus morts pour la France pendant la Grande Guerre"/></a>
@@ -136,6 +140,8 @@
 
     <h2>Lucien MASCLET</h2>
 
+    <p>Lucien Léopold Fénélon MASCLET est né à Valenciennes e 12 mars 1893. A la mobilisation, il est caporal au sein du 127e Régiment d'Infanterie. Il est tué à l'ennemi le 12 novemvre 1914 à Soupir (Aisne).</p>
+
     <figure>
         <a href="images/lucien-masclet-02.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien MASCLET, mort pour la France pendant la Grande Guerre">
         <img src="images/mini/lucien-masclet-02.jpg" alt="Tombe de Lucien MASCLET, poilu mort pour la France pendant la Grande Guerre"/></a>
@@ -149,6 +155,8 @@
     </figure>
     
     <h2>René MIRLAND</h2>
+
+    <p>Sous-lieutenant au 151 Régiment d'Infanterie, René Felix Henri MIRLAND est né à Bailleul (Nord) le 30 mai 1884. Il est décédé de ses blessures au lazaret de Grandpré (Ardennes) le 6 juillet 1915. Sa fiche de "Mort pour la France" indique qu'il y est inhumé.</p>
 
     <figure>
         <a href="images/rene-mirland-01.jpg" data-fancybox="gallery" data-caption="Tombe de René MIRLAND, mort pour la France en 1915">
@@ -164,6 +172,8 @@
     
 	<h2>Georges NOLLIN</h2>
 
+    <p>Caporal au sein du 9e Bataillon de Chasseurs à Pied, Georges Henri NOLLIN est né à Valenciennes le 29 octobre 1884. Il est tué à l'ennemi le 9 septembre 1916 à Berny-en-Santerre (Somme).</p>
+
     <figure>
         <a href="images/georges-nollin-01.jpg" data-fancybox="gallery" data-caption="Tombe de Georges NOLLIN, mort pour la France pendant la Grande Guerre">
         <img src="images/mini/georges-nollin-01.jpg" alt="Tombe de Georges NOLLIN, poilu mort pour la France pendant la Grande Guerre"/></a>
@@ -171,6 +181,8 @@
     </figure>
 
     <h2>Etienne POSTILLE</h2>
+
+    <p>Né le 6 décembre 1888 à Valenciennes, Etienne POSTILLE rejoint, à la mobilisation, le 127e R.I en tant que soldat de 2e classe. Il est tué à l'ennemi à Le Port Fontenoy (Aisne) le 31 mai 1918.</p>
 
     <figure>
         <a href="images/etienne-postille.jpg" data-fancybox="gallery" data-caption="Tombe d'Etienne POSTILLE, mort pour la France le 31 mai 1918">
