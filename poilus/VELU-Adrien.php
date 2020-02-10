@@ -5,7 +5,7 @@
 
         <meta charset="utf-8">
 
-        <title>Biographie et parcours du soldat VELU Adrien - Histoires de Poilus</title>
+        <title>Biographie et parcours du soldat Adrien VELU - Histoires de Poilus</title>
         <meta content="Parcours de Adrien VELU, soldat guislanais pendant la Première Guerre Mondiale. Il était membre du 1er Régiment d'Infanterie et est mort de la typhoïde en 1915" name="description">
 
         <link rel="stylesheet" href="../css/style.css">
@@ -51,8 +51,8 @@
     </nav>
 
     <div id="navbis">
-        <a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="amand-hoche.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="arnould-gaston.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="amand-jules.php">Les jasses de Belgique</a>
     </div>
@@ -123,7 +123,7 @@
 
         <h1>Adrien VELU</h1>
 
-        <p><strong>Adrien VELU</strong> est un "cousin" né à Villers-Guislain (Nord) le 1 janvier 1889, fils légitime de Marc Ferdinand VELU et Marie Joséphine Angèle VELU, deux cousins germains. Le 16 avril 1910,  Adrien épouse Apolline BRIOT.</p>
+        <p><strong>Adrien VELU</strong> est un "cousin" né à Villers-Guislain (Nord) le 1 janvier 1889, fils légitime de Marc Ferdinand VELU et Marie Joséphine Angèle VELU. Le 16 avril 1910,  Adrien épouse Apolline BRIOT.</p>
 
         <figure>
             <a href="sources/matricule-adrien-velu.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Adrien VELU">

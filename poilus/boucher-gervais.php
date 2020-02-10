@@ -6,7 +6,7 @@
         <meta charset="utf-8">
 
         <title>Biographie et parcours du soldat Gervais BOUCHER - Histoires de Poilus</title>
-        <meta content="Parcours et biographie du poilu Gervais BOUCHER, soldat pendant la Première Guerre Mondiale. Originaire d'Onnaing, il est fait prisonnier à Maubeuge en septembre 1914" name="description"/>
+        <meta content="Parcours et biographie du poilu Gervais BOUCHER, soldat français pendant la Première Guerre Mondiale. Originaire d'Onnaing, il est fait prisonnier à Maubeuge en septembre 1914" name="description"/>
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -51,8 +51,8 @@
     </nav>
 
     <div id="navbis">
-        <a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="amand-hoche.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="arnould-gaston.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="amand-jules.php">Les jasses de Belgique</a>
     </div>
@@ -140,7 +140,7 @@
             <figcaption>La Place d'Armes de Valenciennes,<br>avec vue sur l'Hôtel de Ville<br>(Source: Archives Municipales de Valenciennes)</figcaption>
         </figure>
 
-        <p>Il rejoint alors la 1ère compagnie d'ouvrier d'artillerie où il arrive le lendemain et est immatriculé sous le n°677. Durant son engagement, il suit une formation et devient ouvrier en bois. Son engagement terminé, il part vivre à Calais (Pas-de-Calais) avec le certificat de bonne conduite accordé. Le 5 Juin 1905, Gervais épouse à Onnaing Marie Céline MASCART, une descendante d'Antoine MASCART (1721-1797) et Michelle BRACONNIER (1684-1727), mes sosas n°644 et 645.</p>
+        <p>Il rejoint alors la 1re compagnie d'ouvrier d'artillerie où il arrive le lendemain et est immatriculé sous le n°677. Durant son engagement, il suit une formation et devient ouvrier en bois. Son engagement terminé, il part vivre à Calais (Pas-de-Calais) avec le certificat de bonne conduite accordé. Le 5 Juin 1905, Gervais épouse à Onnaing Marie Céline MASCART, une descendante d'Antoine MASCART (1721-1797) et Michelle BRACONNIER (1684-1727), mes sosas n°644 et 645.</p>
 
         <table class="census">
         <caption>Liste des domiciles de Gervais</caption>

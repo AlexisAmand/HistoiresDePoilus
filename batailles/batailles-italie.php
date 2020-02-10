@@ -84,7 +84,7 @@
             </thead>
             <tr>
                 <td headers="lieu">Vallée de l'Isonzo<br>(Italie)</td>
-                <td headers="bataille">La 1ère Bataille de l'Isonzo</td>
+                <td headers="bataille">La 1re Bataille de l'Isonzo</td>
                 <td headers="date">Du 23 juin 1915<br>au 7 juillet 1915</td>
                 <td headers="issue">Victoire tactique austro-hongroise</td>
             </tr>

@@ -6,7 +6,7 @@
         <meta charset="utf-8">
 
         <title>Biographie et parcours du soldat Marceau AMAND - Histoires de Poilus</title>
-        <meta content=" " name="description"/>
+        <meta content="Parcours et biographie du Marcea AMAND, soldat français pendant la Première Guerre Mondiale" name="description"/>
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -51,8 +51,8 @@
     </nav>
 
     <div id="navbis">
-        <a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="amand-hoche.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="arnould-gaston.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="amand-jules.php">Les jasses de Belgique</a>
     </div>

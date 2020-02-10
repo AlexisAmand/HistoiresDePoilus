@@ -123,7 +123,7 @@
           <li>Le lieutenant W.G.G. LEVESON-GOWER, des Coldstream Guards</li>
           <li>Le sous-lieutenant H.A GREEN, du Royal West Kent Regiment</li>
           <li>Le sergent E.S. HODGE, du Royal West Kent Regiment</li>
-          <li>Le soldat de 1ère classe C.H. GRIX, du Royal West Kent Regiment</li>
+          <li>Le soldat de 1re classe C.H. GRIX, du Royal West Kent Regiment</li>
           <li>Le soldat de 2e classe I. MARSHALL, du Royal West Kent Regiment</li>
           <li>Le soldat de 2e classe G.H. CAIN, du Royal West Kent Regiment</li>
           <li>Le soldat de 2e classe T.S. AMIS, du Royal West Kent Regiment</li>

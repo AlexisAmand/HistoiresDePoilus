@@ -6,7 +6,7 @@
         <meta charset="utf-8">
 
         <title>Biographie et parcours du soldat Jules Alphonse ASTIER(S) - Histoires de Poilus</title>
-        <meta content="Parcours et biographie du poilu Jules Alphonse ASTIER(S), soldat pendant la Première Guerre Mondiale" name="description"/>
+        <meta content="Parcours et biographie du poilu Jules Alphonse ASTIER(S), soldat français pendant la Première Guerre Mondiale" name="description"/>
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -51,8 +51,8 @@
     </nav>
 
     <div id="navbis">
-    <a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="amand-hoche.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="arnould-gaston.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="amand-jules.php">Les jasses de Belgique</a>
     </div>
@@ -101,7 +101,7 @@
             <figcaption>Arbre généalogique partiel de Jules ASTIER(S)<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
-        <p>Il part pour le service militaire le 16 novembre 1893 Après avoir été déclaré "bon" lors de son conseil de révision. Il rejoint le 91e Régiment d'Infanterie, et arrive au corps en tant que soldat de 2e classe. Il devient soldat de 1ère classe le 8 octobre 1894 et est envoyé en congés un mois plus tard avec le certificat de bonne conduite.</p>
+        <p>Il part pour le service militaire le 16 novembre 1893 Après avoir été déclaré "bon" lors de son conseil de révision. Il rejoint le 91e Régiment d'Infanterie, et arrive au corps en tant que soldat de 2e classe. Il devient soldat de 1re classe le 8 octobre 1894 et est envoyé en congés un mois plus tard avec le certificat de bonne conduite.</p>
 
         <figure>
             <a href="images/bethenville-place-munet.jpg" data-fancybox="gallery" data-caption="La Place du Munet à Bétheniville">

@@ -51,8 +51,8 @@
     </nav>
 
     <div id="navbis">
-        <a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="amand-hoche.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="arnould-gaston.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="amand-jules.php">Les jasses de Belgique</a>
     </div>
@@ -122,7 +122,7 @@
 
         <h1>Oscar Julien DELAUX</h1>
 
-        <p><strong>Oscar Julien DELAUX</strong> est né à Roubaix le 13 novembre 1894, fils légitime d'Adolphe DELAUX et Joséphine RICHOMME (mes aïeux). Incorporé le 28 août 1914. Il passe successivement par le 165e Régiment d'Infanterie (le 29 août 1914) puis par le 33e Bataillon de Marche (le 2 février 1915).</p>
+        <p><strong>Oscar Julien DELAUX</strong> est né à Roubaix le 13 novembre 1894 au domicile de ses parents situé Rue de Maubeuge. Il est le fils légitime d'Adolphe DELAUX et Joséphine RICHOMME (mes aïeux). Incorporé le 28 août 1914, il passe successivement par le 165e Régiment d'Infanterie (le 29 août 1914) puis par le 33e Bataillon de Marche (le 2 février 1915).</p>
 
         <p>le 21 mars 1915, Oscar rejoint le 53e Régiment d'Infanterie.</p> 
 

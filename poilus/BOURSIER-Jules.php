@@ -50,8 +50,8 @@
     </nav>
 
     <div id="navbis">
-        <a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="amand-hoche.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="arnould-gaston.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="amand-jules.php">Les jasses de Belgique</a>
     </div>
@@ -175,7 +175,7 @@
 
         <h2> La mobilisation d'août 1914</h2>
 
-        <p><strong>Jules</strong> est âgé de 35 ans lors de mobilisation. Il est rappelé à l'activité et arrive au <strong>1er Régiment d'Artillerie à Pied</strong> le 2 août 1914. La portion centrale de ce régiment était à Dunkerque avec les 4e, 6e et 7e batteries, la 3e était à Boulogne, la 5e à Calais et enfin les 1ère et 2e étaient à Maubeuge. </p><p>Pas moins de 3 780 000 hommes sont mobilisés en août 1914. Au total, durant toute la guerre, environ 8 410 000 soldats et marins français seront mobilisés, dont 7 % de soldats indigènes venant des colonies de l'Empire. Parmi tous ces soldats, 1 397 800 sont <a href="../releves.php">morts pour la France</a> et 4 266 000 ont été blessés au combat.</p>
+        <p><strong>Jules</strong> est âgé de 35 ans lors de mobilisation. Il est rappelé à l'activité et arrive au <strong>1er Régiment d'Artillerie à Pied</strong> le 2 août 1914. La portion centrale de ce régiment était à Dunkerque avec les 4e, 6e et 7e batteries, la 3e était à Boulogne, la 5e à Calais et enfin les 1re et 2e étaient à Maubeuge. </p><p>Pas moins de 3 780 000 hommes sont mobilisés en août 1914. Au total, durant toute la guerre, environ 8 410 000 soldats et marins français seront mobilisés, dont 7 % de soldats indigènes venant des colonies de l'Empire. Parmi tous ces soldats, 1 397 800 sont <a href="../releves.php">morts pour la France</a> et 4 266 000 ont été blessés au combat.</p>
 
         <figure>
         <a href="sources/BOURSIER-Jules-Henri-matricule-01.jpg" data-fancybox="gallery" data-caption="extrait sa fiche matricule">

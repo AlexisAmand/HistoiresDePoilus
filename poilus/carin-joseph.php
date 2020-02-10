@@ -5,8 +5,8 @@
 
 		<meta charset="utf-8">
 
-		<title>Biographie et parcours du soldat CARIN Édouard - Histoires de Poilus</title>
-		<meta content="Parcours de Édouard CARIN, soldat pendant la Première Guerre Mondiale et membre du 162e Régiment d'Infanterie" name="description">
+		<title>Biographie et parcours du soldat Joseph CARIN - Histoires de Poilus</title>
+		<meta content="Parcours de Joseph CARIN, soldat pendant la Première Guerre Mondiale, membre du 94ee Régiment d'Infanterie et fait prisonnier" name="description">
 
 		<link rel="stylesheet" href="../css/style.css">
 		<link rel="stylesheet" href="../css/resp.css">
@@ -51,8 +51,8 @@
 	</nav>
 
 	<div id="navbis">
-		<a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-		<a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="amand-hoche.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="arnould-gaston.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 		<a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 		<a href="amand-jules.php">Les jasses de Belgique</a>
 	</div>
@@ -123,7 +123,7 @@
 		<h1>Joseph CARIN</h1>
 
 		<ul>	
-			<li>Joseph CARIN est né à Lourches (Nord) le 11 juillet 1894 à Lourches. Il est le fils de François CARIN et Pauline DUSSART. Selon le recensement de 1906, il vit Rue Beauvois à Lourches en compagnie de sa mère et 8 de ses frères et sœurs : <a href="CARIN-Edouard.php" title="biographie d'Edouard CARIN">Edouard</a>, Alfred, Polonie, Clara, Joseph, Léon, Céleste et François.</li> 
+			<li>Joseph CARIN est né à Lourches (Nord) le 14 juillet 1894 à Lourches. Il est le fils de François CARIN et Pauline DUSSART. Selon le recensement de 1906, il vit Rue Beauvois à Lourches en compagnie de sa mère et 8 de ses frères et sœurs : <a href="CARIN-Edouard.php" title="biographie d'Edouard CARIN">Edouard</a>, Alfred, Polonie, Clara, Joseph, Léon, Céleste et François.</li> 
 			<li>Classe 1914, matricule 1202, vol 5, bureau de Valenciennes</li>
 		</ul>
 
@@ -155,10 +155,12 @@
 
 		<ul>
 			<li>Il est ajourné pour faiblesse par le conseil de révision de Guéret (Creuse) en date du 18 novembre 1914. Décision annulée par celle du Conseil de révision de Saint-Omer (Pas-de-Calais) en date du 28 octobre 1914 qui le déclare bon au service. (Les dates sont celles de la fiche matricule… il semble y avoir un problème d'ordre chronologique)</li>
-			<li>Il rejoint le 94e RI en décembre 1914, soldat de 2e classe</li>
+			<li>Il rejoint le 94e RI en décembre 1914, soldat de 2e classe (selon sa FM)</li>
 			<li>Disparu le 30 juin 1915 en Argonne</li>
-			<li>Prisonnier interné à Rastadt</li>
-			<li>Rapatrié le 13 janvier 1919</li>
+			<li>Prisonnier interné à Rastadt (selon sa FM)</li>
+			<li>Il est évacué de Darmstardt vers Schneidemühl le 4 aout 1915 (selon le CIRC)</li>
+			<li>Le 18 octobre 1918 - Prisonnier à Schneidemühl (selon le CIRC) pris "enfant perdu" ??</li>
+			<li>Rapatrié le 13 janvier 1919 (selon sa FM)</li>
 		</ul>
 		
 		<p>Pour info, Joseph a plusieurs frères et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>

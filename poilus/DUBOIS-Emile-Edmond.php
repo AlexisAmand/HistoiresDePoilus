@@ -52,8 +52,8 @@
     </nav>
 
     <div id="navbis">
-        <a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="amand-hoche.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="arnould-gaston.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="amand-jules.php">Les jasses de Belgique</a>
     </div>
@@ -195,7 +195,7 @@
 
         <h2>La Bataille de la Marne</h2>
 
-        <p><em>"L'Armée Française prend l'offensive, le 294e Régiment d'Infanterie prend par en 1ère ligne au combat d'Etrépilly et attaque la ferme de Champfleury, dont il s'empare le 5 septembre. Le 6 et le 7, les combats se succèdent très violents et le Régiment poursuivant l'ennemi continue sa progression vers l'Aisne."</em></p>
+        <p><em>"L'Armée Française prend l'offensive, le 294e Régiment d'Infanterie prend par en 1re ligne au combat d'Etrépilly et attaque la ferme de Champfleury, dont il s'empare le 5 septembre. Le 6 et le 7, les combats se succèdent très violents et le Régiment poursuivant l'ennemi continue sa progression vers l'Aisne."</em></p>
 
         <figure>
             <a href="images/ferme-de-champfleury.jpg" data-fancybox="gallery" data-caption="La ferme de Champfleury en 1914">

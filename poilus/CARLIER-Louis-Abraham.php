@@ -51,8 +51,8 @@
     </nav>
 
     <div id="navbis">
-        <a href="BOURSIER-Jules.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="BALTAZART-Ernest-Auguste.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="amand-hoche.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="arnould-gaston.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="amand-jules.php">Les jasses de Belgique</a>
     </div>
@@ -162,7 +162,7 @@
 
         <h2>La mobilisation d'août 1914</h2>
 
-        <p>Âgé de 43 ans en 1914, <strong>Louis Abraham</strong> est mobilisé comme la plupart des hommes de sa génération et devient auxiliaire de place forte au sein de la 1ère batterie (3e selon certaines sources) du <strong>1er Régiment d'Artillerie à Pied</strong>. En 1914, l'artillerie à pied est réservée à la défense d'une zone que l'on appelle groupe  et a en charge outre la défense de ce groupe, celle des forts et ouvrages. Il est cantonné au groupe de Grévaux, sous les ordres  Capitaine BOCQUET.</p>
+        <p>Âgé de 43 ans en 1914, <strong>Louis Abraham</strong> est mobilisé comme la plupart des hommes de sa génération et devient auxiliaire de place forte au sein de la 1re batterie (3e selon certaines sources) du <strong>1er Régiment d'Artillerie à Pied</strong>. En 1914, l'artillerie à pied est réservée à la défense d'une zone que l'on appelle groupe  et a en charge outre la défense de ce groupe, celle des forts et ouvrages. Il est cantonné au groupe de Grévaux, sous les ordres  Capitaine BOCQUET.</p>
 
         <figure>
             <a href="portraits/Louis Abraham CARLIER (frère de sosa 22).jpg" data-fancybox="gallery" data-caption="Portrait de Louis Abraham CARLIER">

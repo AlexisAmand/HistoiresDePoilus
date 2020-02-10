@@ -1,12 +1,6 @@
 A ajouter
 ---------
 
-- Nouveaux poilus
-		- voir si les ARNOULD de Moiry qu'on trouve avec la recherche par nom sur des AD du 08 sont parents
-
-- A quelle ville correspond Zutenlick en Grèce ?  
-		- Mettre une note pour indiquer qu'il se pourrait que ça corresponde à Zeitenlik -> voir wikipedia
-
 - Auguste : 
 		- Photo de l'hopital 31 de nantes en dessous du tableau des hopitaux de nantes
 		- La ferme du Rond Chêne sur une carte de Dinant -> source ou autre carte
@@ -15,7 +9,6 @@ A ajouter
 		- Toutes mes photos de tombes sont telles sur le site ?
 
 - Camps de prisonniers :
-		- TODO : voir le camp de Gründerg (Allemagne)
 		- TODO : voir le camp de Heilsberg (Allemagne)
 		- TODO : voir le camp de Minderheide (Allemagne)
 		- TODO : voir le camp de Sudelkopff (Allemagne)
