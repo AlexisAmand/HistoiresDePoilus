@@ -117,7 +117,29 @@
 		<h2>Les hôpitaux de Calais</h2>
 		
 			<p>L'hôpital militaire temporaire n°51 de Calais était géré par le Service de Santé des Armées. Il était situé à la maison de commerce Leweng et Weinberg, 92 rue Gambetta. Il comportait 110 lits et a fonctionné dès le 26 décembre 1914.</p>
-		
+
+		<h2>Les hôpitaux de Denain</h2>
+
+		<figure>
+			<a href="images/hopital-denain.jpg" data-fancybox="gallery" data-caption="Hôpital de Denain pendant la Grande Guerre">
+			<img src="miniatures/hopital-denain.jpg" alt="L'Hôpital de Denain pendant la Premiére Guerre Mondiale"></a>
+			<figcaption>L'Hôpital de Denain<br>(Source: Archives Municipales de Valenciennes)</figcaption>
+		</figure>
+
+		<h2>Les hôpitaux de Roubaix</h2>
+
+		<figure>
+			<a href="images/Hôpital_de_la_Fraternité.jpeg" data-fancybox="gallery" data-caption="Hôpital de la Fraternité à Roubaix">
+			<img src="miniatures/Hôpital_de_la_Fraternité.jpeg" alt="L'Hôpital de Roubaix pendant la Premiére Guerre Mondiale"></a>
+			<figcaption>Hôpital de la Fraternité<br>(Source: Médiathèque de Roubaix)</figcaption>
+		</figure>
+
+		<figure>
+			<a href="images/Hôpital_de_la_Fraternité-02.jpeg" data-fancybox="gallery" data-caption="Hôpital de la Fraternité à Roubaix">
+			<img src="miniatures/Hôpital_de_la_Fraternité-02.jpeg" alt="L'Hôpital de Roubaix pendant la Premiére Guerre Mondiale"></a>
+			<figcaption>Hôpital de la Fraternité vers 1914<br>(Source: Médiathèque de Roubaix)</figcaption>
+		</figure>
+
 		<h2>Les hôpitaux de Valenciennes</h2>
 		
 			<p>L'hôpital mixte de Valenciennes était situé dans l'une des l'ailes de l'hôpital Général (aujourd'hui connu sous le nom d'Hôpital du Hainaut).</p>

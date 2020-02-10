@@ -61,42 +61,6 @@
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/batailles/batailles-est.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/batailles/batailles-ouest.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/batailles/batailles-italie.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/batailles/batailles-afrique.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/batailles/batailles-orient.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/batailles/batailles-balkans.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
 		<loc>http://127.0.0.1/HistoiresDePoilus/pdf/Historique-12-BC.pdf</loc>
 		<lastmod>2015-09-29</lastmod>
 		<changefreq>monthly</changefreq>
@@ -249,6 +213,114 @@
 	<url>
 		<loc>http://127.0.0.1/HistoiresDePoilus/pdf/convention-1907.pdf</loc>
 		<lastmod>2016-06-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/batailles/batailles-est.php</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/batailles/batailles-ouest.php</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/batailles/batailles-italie.php</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/batailles/batailles-afrique.php</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/batailles/batailles-orient.php</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/batailles/batailles-balkans.php</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/amand-hoche.php</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/arnould-gaston.php</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/FROIDUROT-Alfred.php</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/JOLY-Noel-Jules.php</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/MAILLART-Alexandre.php</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/amand-octave.php</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/quintin-raoul.php</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/hopitaux/docs/evacuation.pdf</loc>
+		<lastmod>2019-05-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/tombes/awoingt.php</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/tombes/capelle.php</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/tombes/grand-fayt</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/tombes/valenciennes.php</loc>
+		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -511,145 +583,55 @@
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/hopitaux/docs/evacuation.pdf</loc>
-		<lastmod>2019-05-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/amand-hoche.php</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/froidurot-alphonse.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/arnould-gaston.php</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/froidurot-marcel.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/FROIDUROT-Alfred.php</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/arnould-henri-rene.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/JOLY-Noel-Jules.php</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/astiers-jules-alphonse.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/MAILLART-Alexandre.php</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/BALTAZART-Ernest-Auguste.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/tombes/awoingt.php</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/caron-eugene-alexandre.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/tombes/capelle.php</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/MICHEL-Firmin.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/tombes/grand-fayt</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/paquet-leopold.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/tombes/valenciennes.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/amand-octave.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/quintin-raoul.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/pdf/book02.pdf</loc>
-		<lastmod>2016-06-17</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-amersfoort.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-assen.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-bodegraven.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-harderwijk.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-kampen.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-leeuwarden.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-loosduinen.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-zeist.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-zwolle.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/GRAIN-Louis.php</loc>
-		<lastmod>2020-02-10</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/CARLIER-Druon-Joseph.php</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/mobilisation-1914.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
@@ -721,6 +703,12 @@
 		<priority>0.8</priority>
 	</url>
 	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/CARLIER-Druon-Joseph.php</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
 		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/CARLIER-Louis-Abraham.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
@@ -764,6 +752,12 @@
 	</url>
 	<url>
 		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/GRAIN-Leon-Albert.php</loc>
+		<lastmod>2020-02-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/GRAIN-Louis.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
@@ -871,62 +865,68 @@
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/arnould-henri-rene.php</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/pdf/book02.pdf</loc>
+		<lastmod>2016-06-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-amersfoort.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/astiers-jules-alphonse.php</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-assen.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/BALTAZART-Ernest-Auguste.php</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-bodegraven.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/caron-eugene-alexandre.php</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-harderwijk.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/MICHEL-Firmin.php</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-kampen.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/paquet-leopold.php</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-leeuwarden.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/mobilisation-1914.php</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-loosduinen.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/froidurot-alphonse.php</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-zeist.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/froidurot-marcel.php</loc>
+		<loc>http://127.0.0.1/HistoiresDePoilus/camps-nl/camp-zwolle.php</loc>
 		<lastmod>2020-02-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/sources/agfh_notice_carlier_louis.pdf</loc>
-		<lastmod>2019-04-09</lastmod>
+		<loc>http://127.0.0.1/HistoiresDePoilus/pdf/matricule-baltazart-ernest.pdf</loc>
+		<lastmod>2017-02-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
@@ -937,8 +937,8 @@
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://127.0.0.1/HistoiresDePoilus/pdf/matricule-baltazart-ernest.pdf</loc>
-		<lastmod>2017-02-01</lastmod>
+		<loc>http://127.0.0.1/HistoiresDePoilus/poilus/sources/agfh_notice_carlier_louis.pdf</loc>
+		<lastmod>2019-04-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>

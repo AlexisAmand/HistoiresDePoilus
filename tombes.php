@@ -83,7 +83,9 @@
 
             <p>A l'origine, cette partie du site était un ensemble de relevés des morts pour la France dans les communes où on vécu mes ancêtres. Seulement voilà, il se trouve que ça faut un peu doublon avec ce que certains sites proposent (comme Geneanet ou Lille1). J'ai donc restructuré la rubrique pour y présenter des photos de tombes et de monuments croisés au hazard de mes découvertes et mes promenades.</p>
 
-            <p>&nbsp;</p>
+            <div style="background-image:url('tombes/images/bandeau.jpg');width:100%;height:50px;margin-bottom:15px;">
+
+            </div>
 
             <h2>Liste des abréviations utilisées</h2>
 
