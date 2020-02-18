@@ -75,7 +75,7 @@
             Le dossier d'ancien combattant de Noël JOLY</a> (Archives Départementales du Nord)</li>
             <li><a href="http://archives.genealexis.fr/album/20-letienne-florimond" title="version numérisée du dossier d'ancien combattant de Florimond LETIENNE">
             Le dossier d'ancien combattant de Florimond LETIENNE</a> (Archives Départementales du Nord)</li>
-            <li><a href="http://archives.genealexis.fr/album/24-tiburce-louis" title="version numérisée du dossier d'ancien combattant de Louis TIBURCE">>
+            <li><a href="http://archives.genealexis.fr/album/24-tiburce-louis" title="version numérisée du dossier d'ancien combattant de Louis TIBURCE">
             Le dossier d'ancien combattant de Louis TIBURCE</a> (Archives Départementales du Nord)</li>
         </ul>
 
@@ -287,15 +287,17 @@
         <h2>Recherches en France</h2>
 
         <ul>
-            <li>Les livres d'or des soldats morts pour la France (Archives Nationales)</li>
             <li><a href="http://archives.cg08.fr" title="Archives départementales des Ardennes">Archives Départementales des Ardennes</a></li>
             <li><a href="https://archives.cotedor.fr" title="Archives départemental de la Côte-d'Or">Archives Départementales de la Côte-d'Or</a></li>
             <li><a href="http://archives.marne.fr" title="Archives départementales de la Marne">Archives Départementales de la Marne</a></li>
-            <li><a href="https://www.reims.fr/culture-patrimoine/archives-municipales-et-communautaires-7534.html?L=172%27A.html">Archives Municipales de Reims</a></li>
             <li><a href="http://archivesdepartementales.lenord.fr" title="Archives départementales du Nord">Archives Départementales du Nord</a></li>
+            <br />
+            <li><a href="https://www.reims.fr/culture-patrimoine/archives-municipales-et-communautaires-7534.html?L=172%27A.html">Archives Municipales de Reims</a></li>
             <li><a href="http://www.archives.nantes.fr">Archives Municipales de Nantes</a></li>
-            <li><a href="http://patrimoine-numerique.ville-valenciennes.fr">Archives Municipales de Valenciennes</a></li>
+            <li><a href="http://patrimoine-numerique.ville-valenciennes.fr">Archives Municipales de Valenciennes</a></li>          
             <li><a href="http://www.bn-r.fr">Médiathèque de Roubaix</a></li>
+            <br />
+            <li>Les livres d'or des soldats morts pour la France (Archives Nationales)</li>
             <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr" title="Mémoire des hommes">Mémoire des Hommes</a> (Ministère de la Défense)</li>
             <li><a href="http://www.memorial-genweb.org/~memorial2/" title="Portail MémorialGenweb">Mémorial-GenWeb</a></li>
             <li><a href="http://grandeguerre.icrc.org/fr" title="Comité international de la Croix-Rouge">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
@@ -303,6 +305,23 @@
             <li><a href="http://www.association14-18.org/index.htm" title="Association Nationale 1914-1918, A la découverte des sites de la Grande Guerre">Association 14-18</a></li>
             <li><a href="http://monumentsmorts.univ-lille3.fr" title="Les monuments aux morts de France et Belgique">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
         </ul>
+
+        <br /><br />
+
+        <h2>Les villes pendant la Grande Guerre</h2>
+    
+        <ul>
+            <li><a href="pdf/vdh_orleans-grande-guerre.pdf">Orléans pendant la Grande Guerre (Ville d'Orléans)</a></li>
+        </ul>    
+
+        <br /><br />
+
+        <h2>Musées</h2>
+               
+        <ul>
+            <li><a href="https://museedelacartepostale.fr">Musée de la Carte Postale d'Antibes</a></li>
+            <li><a href="https://www.iwm.org.uk/">Imperial War Museum</a></li>
+        </ul>  
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 

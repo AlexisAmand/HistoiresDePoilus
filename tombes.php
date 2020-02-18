@@ -60,7 +60,8 @@
           <li><a href="tombes/awoingt.php">Awoingt</a></li>
 	      <li><a href="tombes/capelle.php">Capelle-sur-Ecaillon</a></li>
 	      <li><a href="tombes/grand-fayt">Grand-Fayt</a></li>
-          <li><a href="tombes/valenciennes.php" class="AsideSelected">Valenciennes</a></li>  
+	      <li><a href="tombes/maroilles.php">Maroilles</a></li>
+          <li><a href="tombes/valenciennes.php">Valenciennes</a></li>  
     </ul>
 
     <div id="pubaside">
@@ -81,7 +82,7 @@
 
             <h1>Les photos de tombes</h1>
 
-            <p>A l'origine, cette partie du site était un ensemble de relevés des morts pour la France dans les communes où on vécu mes ancêtres. Seulement voilà, il se trouve que ça faut un peu doublon avec ce que certains sites proposent (comme Geneanet ou Lille1). J'ai donc restructuré la rubrique pour y présenter des photos de tombes et de monuments croisés au hazard de mes découvertes et mes promenades.</p>
+            <p>A l'origine, cette partie du site était un ensemble de relevés des morts pour la France dans les communes où on vécu mes ancêtres. Seulement voilà, il se trouve que ça faut un peu doublon avec ce que certains sites proposent (comme <a href="https://www.geneanet.org/">Geneanet</a> ou <a href="https://monumentsmorts.univ-lille.fr/">Les monuments aux morts</a> sur le site de Lille 1). J'ai donc restructuré la rubrique pour y présenter des photos de tombes et de monuments croisés au hazard de mes découvertes et mes promenades.</p>
 
             <div style="background-image:url('tombes/images/bandeau.jpg');width:100%;height:50px;margin-bottom:15px;">
 
@@ -89,7 +90,7 @@
 
             <h2>Liste des abréviations utilisées</h2>
 
-            <p>Pour plus de lisibilité, j'ai dû utiliser quelques abréviations dont voici la signification.</p>
+            <p>Pour plus de lisibilité, j'ai parfois dû utiliser quelques abréviations dont voici la signification.</p>
             <p>&nbsp;</p>
             <p>B.C - Bataillon de Chasseurs</p>
             <p>B.C.A - Bataillon de Chasseurs Alpin</p>

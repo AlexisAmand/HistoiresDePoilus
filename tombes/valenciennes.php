@@ -58,7 +58,8 @@
         <li class="asideheader">Nord</li>
           <li><a href="awoingt.php">Awoingt</a></li>
 	      <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
-	      <li><a href="grand-fayt">Grand-Fayt</a></li>
+	      <li><a href="grand-fayt.php">Grand-Fayt</a></li>
+	      <li><a href="maroilles.php">Maroilles</a></li>
           <li><a href="valenciennes.php" class="AsideSelected">Valenciennes</a></li>  
     </ul>
 
@@ -97,6 +98,8 @@
     </figure>
 
     <h2>Lucien BODDAERT</h2>
+
+    <p>Mini-bio à venir.</p>
 
     <figure>
         <a href="images/lucien-boddaert-01.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien BODDAERT, mort pour la France en 1917">
@@ -145,13 +148,13 @@
     <figure>
         <a href="images/lucien-masclet-02.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien MASCLET, mort pour la France pendant la Grande Guerre">
         <img src="images/mini/lucien-masclet-02.jpg" alt="Tombe de Lucien MASCLET, poilu mort pour la France pendant la Grande Guerre"/></a>
-        <figcaption>Tombe de Georges NOLLIN<br>cimetière Saint-Roch (Valenciennes)</figcaption>
+        <figcaption>Tombe de Lucien MASCLET<br>cimetière Saint-Roch (Valenciennes)</figcaption>
     </figure>
 
     <figure>
         <a href="images/lucien-masclet-01.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien MASCLET, mort pour la France pendant la Grande Guerre">
         <img src="images/mini/lucien-masclet-01.jpg" alt="Tombe de Lucien MASCLET, poilu mort pour la France pendant la Grande Guerre"/></a>
-        <figcaption>Tombe de Georges NOLLIN<br>cimetière Saint-Roch (Valenciennes)</figcaption>
+        <figcaption>Tombe de Lucien MASCLET<br>cimetière Saint-Roch (Valenciennes)</figcaption>
     </figure>
     
     <h2>René MIRLAND</h2>

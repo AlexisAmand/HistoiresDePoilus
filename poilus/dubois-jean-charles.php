@@ -161,7 +161,7 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
             <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense">Mémoire des Hommes</a> (Ministère de la Défense)</li>
             <li><a href="https://archivesdepartementales.lenord.fr/">Archives Départementales du Nord</a></li>
         </ul> 

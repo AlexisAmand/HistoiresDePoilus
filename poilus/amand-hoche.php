@@ -133,9 +133,9 @@
         <p>Si vous êtes un jour amené à chercher des informations et à enquêter dans le milieu des bateliers, vous allez vitre découvrir que un véritable parcours du combattant car leur vie s'est faite au grés des fleuves. On nait dans un département, on se marie dans un second et on décéde dans un 3e. Est-ce pour cette raison que la famille AMAND est à Gueret en ce mois de mars 1915 ? Je ne sais pas trop car il se peut aussi que la famille ait fuit le Nord de la France devant l'avancé des troupes allemandes. Quoi qu'il en soit c'est à la marie de Gueret que nous faisons la connaissance de Hoche Gaston Blomy AMAND. Nous sommes le 3 mars 1915 et il est venu s'engager pour la durée de la guerre.</p>
 
         <figure>
-            <a href="#" data-fancybox="gallery" data-caption=" ">
-            <img src="#" alt=" "/></a>
-            <figcaption>Fiche matricule</figcaption>
+            <a href="sources/hoche-amand.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Hoche Amand">
+            <img src="miniatures/hoche-amand.jpg" alt="Extrait de la fiche matricule de Hoche Amand disponible aux archives départementales"/></a>
+            <figcaption>Extrait de la fiche matricule de Hoche AMAND<br>(Source: Archives Départementales du Nord)</figcaption>
         </figure>
 
         <p>Hoche devient alors soldat de 2e classe au sein du 54e Régiment d'Infanterie jusqu'au 20 juillet 1915, date à laquelle il passe au 87e Régiment d'Infanterie. En octobre 1915, Hoche et son régiment participe à la prise de Tahure, assaut au cours duquel il est blessé à la jambe droite et au côté droit par un éclat d'obus. Il est évacué et de retour au 87e le 28 novembre 1915.</p>

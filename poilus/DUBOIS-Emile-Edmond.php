@@ -137,34 +137,6 @@
             <figcaption>Extrait du recensement de Villers-Guislain (1906)<br>(source: Archives Départementales du Nord)</figcaption> 
         </figure>
 
-        <table class="census">
-        <caption>Liste des domiciles d'Emile</caption>
-            <thead>
-            <tr>
-                <th id="date">Date</th>
-                <th id="adresse">Adresse</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-                <td headers="date"></td>
-                <td headers="adresse"></td>
-            </tr>
-            <tr>
-                <td headers="date"></td>
-                <td headers="adresse"></td>
-            </tr>
-            <tr>
-                <td headers="date"></td>
-                <td headers="adresse"></td>
-            </tr>
-            <tr>
-                <td headers="date"></td>
-                <td headers="adresse"></td>
-            </tr>
-            </tbody>   
-        </table>
-
         <h2>La mobilisation d'août 1914</h2>
 
         <p>Âgé de 34 ans au moment de <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, il intègre le <strong>94e Régiment d'Infanterie</strong> qui donnera naissance au <strong>294e Régiment d'Infanterie</strong>. En effet, à la mobilisation, chaque régiment d'active crée un régiment de réserve dont le numéro est le sien plus 200.  Je pense que c'est ce qui explique que sa fiche matricule indique qu'il fait parti du 94e alors que sa fiche de mort pour la France indique le 294e.</p>
@@ -243,7 +215,7 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>      
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>      
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

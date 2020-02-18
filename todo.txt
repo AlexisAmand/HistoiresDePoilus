@@ -1,12 +1,14 @@
 A ajouter
 ---------
 
-- Auguste : 
-		- Photo de l'hopital 31 de nantes en dessous du tableau des hopitaux de nantes
-		- La ferme du Rond Chêne sur une carte de Dinant -> source ou autre carte
+- Source
+		- vérifier que toutes les sources sont bien sans la webo
 
-- Relevés :
-		- Toutes mes photos de tombes sont telles sur le site ?
+- Poilus 
+		- ARNOULD Gaston Alexandre : matricule n°38, bureau de Reims, vol 1, classe 1913.
+
+- Auguste :
+		- La ferme du Rond Chêne sur une carte de Dinant -> source ou autre carte
 
 - Camps de prisonniers :
 		- TODO : voir le camp de Heilsberg (Allemagne)
@@ -14,8 +16,6 @@ A ajouter
 		- TODO : voir le camp de Sudelkopff (Allemagne)
 		- TODO : voir le camp de Trèves (Allemagne)
 		- TODO : Voir le camp de Eutin (Allemagne)
-
-- Voir ménage dans dossier "Histoires de Poilus"
 
 Après la mise en ligne
 ----------------------

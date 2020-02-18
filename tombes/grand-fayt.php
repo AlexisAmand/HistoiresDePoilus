@@ -62,7 +62,8 @@
         <li class="asideheader">Nord</li>
           <li><a href="awoingt.php">Awoingt</a></li>
 	      <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
-	      <li><a href="grand-fayt" class="AsideSelected">Grand-Fayt</a></li>
+	      <li><a href="grand-fayt.php" class="AsideSelected">Grand-Fayt</a></li>
+	      <li><a href="maroilles.php">Maroilles</a></li>
           <li><a href="valenciennes.php">Valenciennes</a></li>  
     </ul>
 

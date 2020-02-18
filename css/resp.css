@@ -60,6 +60,9 @@ aside
 	top: 118px;
 	height: 34px;
 	overflow: hidden;
+
+	/* pour l'instant le aside est toujours masqué car le site n'est pas tout à fait responsive */
+	display: none;
 	}
 
 .asideheader 
@@ -78,6 +81,9 @@ aside
 	left:15px;
 	display: inline;
 	visibility: visible;
+
+	/* pour l'instant le btnresp est toujours masqué car le site n'est pas tout à fait responsive */
+	display: none;
 	}
 
 #rezo
@@ -85,7 +91,7 @@ aside
 	float:right;
 	padding-right:15px;
 	font-size:2.3em;	
-	}	
+	}
 		
 table caption
 	{

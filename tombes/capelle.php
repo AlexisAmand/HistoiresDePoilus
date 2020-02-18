@@ -57,12 +57,13 @@
     <aside>
 
     <ul>   
-        <li class="asideheader">Nord</li>
-          <li><a href="awoingt.php">Awoingt</a></li>
-	      <li><a href="capelle.php" class="AsideSelected">Capelle-sur-Ecaillon</a></li>
-	      <li><a href="grand-fayt">Grand-Fayt</a></li>
-          <li><a href="valenciennes.php">Valenciennes</a></li>  
-    </ul>
+    <li class="asideheader">Nord</li>
+      <li><a href="awoingt.php" class="AsideSelected">Awoingt</a></li>
+      <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
+      <li><a href="grand-fayt.php">Grand-Fayt</a></li>
+      <li><a href="maroilles.php">Maroilles</a></li>
+      <li><a href="valenciennes.php">Valenciennes</a></li>  
+ 	</ul>
 
     <div id="pubaside">
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -80,7 +81,7 @@
 
         <article>
 
-        <h1>Relevé des morts pour la France à Capelle-sur-Ecaillon</h1>
+        <h1>Les morts pour la France à Capelle-sur-Ecaillon</h1>
 
         <p></p>
 
@@ -92,79 +93,40 @@
             <figcaption>Le monument de Capelle-sur-Ecaillon<br>(Source: Photo privée)</figcaption>
         </figure>
 
-        <p>Pour plus de visibilité, j'ai utilisé des abréviations dont je vous donne la signification sur <a href="../tombes.php" title="Liste des abréviations utilisées">cette page</a>.</p>
+        <h2>Léon Paul BASUYAU</h2>
 
-        <table class="releves">
-            <thead>
-            <tr>
-                <th id="nom">Nom</th>
-                <th id="naissance">Naissance</th>
-                <th id="corps">Corps</th>
-                <th id="mort">Décès</th>
-                <th id="remarque">Remarque</th>
-            </tr>
-            </thead>
-            <tr>
-                <td headers="nom">BASUYAU<br>Léon Paul</td>
-                <td headers="naissance">20 avril 1889<br>Capelle-sur-Ecaillon</td>
-                <td headers="corps">127e RI<br>(soldat)</td>
-                <td headers="mort">19 février 1915<br>Mesnil-les-Hurlus</td>
-                <td headers="remarque">Tué à l'ennemi</td>
-            </tr>
-            <tr>
-                <td headers="nom">CHASTIN<br>Aimé</td>
-                <td headers="naissance">&nbsp;</td>
-                <td headers="corps">&nbsp;</td>
-                <td headers="mort">&nbsp;</td>
-                <td headers="remarque">Victime<br>civile</td>
-            </tr>
-            <tr>
-                <td headers="nom">DECAUDIN<br>Louis</td>
-                <td headers="naissance">&nbsp;</td>
-                <td headers="corps">&nbsp;</td>
-                <td headers="mort">&nbsp;</td>
-                <td headers="remarque">&nbsp;</td>
-            </tr>
-            <tr>
-                <td headers="nom">DECOSTER<br>Edouard Gaston</td>
-                <td headers="naissance">11 octobre 1882<br>Saint-Pol-sur-Mer</td>
-                <td headers="corps">110e RI<br>(soldat)</td>
-                <td headers="mort">12 décembre 1914<br>Orléans (Loiret)</td>
-                <td headers="remarque">Radié</td>
-            </tr>
-            <tr>
-                <td headers="nom">LECAIL<br>Adèle</td>
-                <td headers="naissance">&nbsp;</td>
-                <td headers="corps">&nbsp;</td>
-                <td headers="mort">&nbsp;</td>
-                <td headers="remarque">Victime<br>civile</td>
-            </tr>
-            <tr>
-                <td headers="nom">MALAQUIN<br>Edmond</td>
-                <td headers="naissance">&nbsp;</td>
-                <td headers="corps">&nbsp;</td>
-                <td headers="mort">&nbsp;</td>
-                <td headers="remarque">Victime<br>civile</td>
-            </tr>
-            <tr>
-                <td headers="nom">NOISETTE<br>Hubert</td>
-                <td headers="naissance">&nbsp;</td>
-                <td headers="corps">&nbsp;</td>
-                <td headers="mort">&nbsp;</td>
-                <td headers="remarque">Victime<br>civile</td>
-            </tr>
-            <tr>
-                <td headers="nom">VANESSE<br>Joseph</td>
-                <td headers="naissance">&nbsp;</td>
-                <td headers="corps">&nbsp;</td>
-                <td headers="mort">&nbsp;</td>
-                <td headers="remarque">&nbsp;</td>
-            </tr> 
-        </table>
+        <p>Soldat au 127e Régiment d'Infanterie, Léon Paul BASUYAU est né à Capelle-sur-Ecaillon (Nord) le 20 avril 1889. Il est tué à l'ennemi à Menil-les-Hurlus (Marne) le 19 février 1915. Son nom figure sur le monument aux morts et dans le livre d'or de la commune.</p>
+
+        <h2>Edouard Gaston DECOSTER</h2>
+
+        <p>Edouard est né à Saint-Pol-sur-Mer (Nord) le 11 octobre 1889. Soldat au 110e d'Infanterie, il est décédé des suites de ses blessures de guerre à l'hôpital complémentaire n°42 d'Orléans (Loiret) le 21 décembre 1914. Son nom figure sur le monument aux morts de la commune mais il est indiqué comme radié du livre d'or. L'hôpital complémentaire n°42 était situé au lycée de garçons. Il a fonctionné d'aout 1914 à juillet 1917 et comportait 160 lits.</p>
+
+        <figure>
+            <a href="../hopitaux/images/lycee-orleans.jpg" data-fancybox="gallery" data-caption="Le Lycée de garçons d'Orléans où s'installe l'Hôpital Complémentaire n°42">
+            <img src="../hopitaux/miniatures/lycee-orleans.jpg" alt="L'Hôpital Complémentaire n°42 au Lycée de garçons d'Orléans pendant la Grande Guerre"/></a>
+            <figcaption>Le Lycée de garçons<br />où s'installe l'Hôpital Complémentaire n°42<br />(Source: Archives Municipales d'Orléans)</figcaption>
+        </figure>
+
+        <h2>Joseph VANESSE</h2>
+
+        <p>Mini-bio à venir.</p>
+
+        <h2>Victimes civiles</h2>
+
+        <ul>
+            <li>Aimé CHASTIN</li>
+            <li>Louis DECAUDIN</li>
+            <li>Adèle LECAIL</li>
+            <li>Edmond MALAQUIN</li>
+            <li>Hubert NOISETTE</li>
+        </ul>
+
+        <br />
 
         <h2>Sources et bibliographie</h2>
 
         <ul>
+            <li><a href="../pdf/vdh_orleans-grande-guerre.pdf">Orléans pendant la Grande Guerre (Ville d'Orléans)</a></li>
             <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
             <li>Mémoire des Hommes (Ministère de la Défense)</li>
             <li>Photo du monument (Collection privée)</li>

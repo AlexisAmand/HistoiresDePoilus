@@ -91,9 +91,7 @@
 
         <h1>Gaston ARNOULD</h1>
 
-        <p>Bientôt...</p>
-
-        <p>ARNOULD Gaston Alexandre : matricule n°38, bureau de Reims, vol 1, classe 1913.</p>
+        <p>Retrouvez bientôt sur cette page une biographie de Gaston ARNOULD, incorporé au 40e Régiment d'Artillerie de Campagne en tant que canonnier de 2e classe à compté du 26 novembre 1913.</p>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 

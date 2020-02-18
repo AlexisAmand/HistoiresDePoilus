@@ -180,7 +180,7 @@
 
 		<ul>
 			<li><a href="http://archives.genealexis.fr/album/20-letienne-florimond" title="version numérisée du dossier d'ancien combattant de Florimond LETIENNE">Le dossier d'ancien combattant de Florimond LETIENNE</a> (Archives Départementales du Nord)</li>
-			<li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>
+			<li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
 		</ul>
 
 		<p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

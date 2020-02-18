@@ -231,7 +231,7 @@
         <ul>
         <li><a href="http://archives.genealexis.fr/album/13-carlier-druon-joseph" title="version numérisée du dossier d'ancien combattant de Druon Joseph CARLIER">Le dossier d'ancien combattant de Druon Joseph CARLIER</a></li>
         <li><a href="https://archive.org/details/19141918iedixneu01chriuoft">La Grande Guerre, vécue - racontée - illustrée par les combattants (tome 1)</a><br>(Publiée sous la Direction de Christian-Frogé, 1922)</li> 
-        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>
+        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
         <li><a href="../pdf/Maubeuge-1914-Duvivier.pdf" title="La Bataille de Maubeuge en septembre 1914">Maubeuge 1914</a> (Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
         <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a> (source allemande)</li>
         <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf">Aus deutschen Kriegsgefangenenlagern</a> (Deutsches Rotes Kreuz)</li>

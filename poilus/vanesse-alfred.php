@@ -123,6 +123,26 @@
 
         <h1>Alfred VANESSE</h1>
 
+        <p>Retrouvez bientôt sur cette page une biographie du soldat de 2e classe Alfred VANESSE, né à Denain le 19 janvier 1880.</p>
+
+        <figure>
+            <a href="sources/alfred-vanesse-01.jpg" data-fancybox="gallery" data-caption="fiche matricule de Alfred VANESSE">
+            <img src="miniatures/alfred-vanesse-01.jpg" alt="fiche matricule de Alfred VANESSE disponible aux AD du Nord"/></a>
+            <figcaption>Extrait de la fiche matricule de Alfred VANESSE<br>(Source: Archives Départementales du Nord)</figcaption>
+        </figure>
+
+        <figure>
+            <a href="sources/alfred-vanesse-02.jpg" data-fancybox="gallery" data-caption="fiche matricule de Alfred VANESSE">
+            <img src="miniatures/alfred-vanesse-02.jpg" alt="fiche matricule de Alfred VANESSE disponible aux AD du Nord"/></a>
+            <figcaption>Extrait de la fiche matricule de Alfred VANESSE<br>(Source: Archives Départementales du Nord)</figcaption>
+        </figure>
+
+        <figure>
+            <a href="sources/alfred-vanesse-03.jpg" data-fancybox="gallery" data-caption="fiche matricule de Alfred VANESSE">
+            <img src="miniatures/alfred-vanesse-03.jpg" alt="fiche matricule de Alfred VANESSE disponible aux AD du Nord"/></a>
+            <figcaption>Extrait de la fiche matricule de Alfred VANESSE<br>(Source: Archives Départementales du Nord)</figcaption>
+        </figure>
+
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 
         </article>

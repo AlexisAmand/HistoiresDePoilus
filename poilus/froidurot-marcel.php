@@ -108,7 +108,7 @@
             <figcaption>La caserne brun (La Butte) à Besançon<br />(source: Delcampe)</figcaption>
         </figure>
 
-        <p>Au niveau de sa vie privée, je n'ai pas grand chose à vous raconter, mais aprés son retour à la vie civile, il vit quelques années rue du Prévost à Beauvais (Oise). Le 21 octobre 1915, il avait épousé, à la mairie de Besançon, Adélaïde DUPAS.ArbreGenealogique. Il esy décédé à Semur le 4 décembre 1965.</p>
+        <p>Au niveau de sa vie privée, je n'ai pas grand chose à vous raconter, mais aprés son retour à la vie civile, il vit quelques années rue du Prévost à Beauvais (Oise). Le 21 octobre 1915, il avait épousé, à la mairie de Besançon, Adélaïde DUPAS.ArbreGenealogique. Il est décédé à Semur le 4 décembre 1965.</p>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 

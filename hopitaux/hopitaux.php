@@ -53,9 +53,9 @@
 		
 	<article style="margin-left:0px;">
 		
-		<h1>Les hôpitaux des Hauts-de-France pendant la Grande Guerre</h1>
+		<h2>Le système de santé pendant la Grande Guerre</h2>
 		
-		<p>Pour que la compréhension du système de santé pendant la Grande Guerre soit plus simple à comprendre, je vous ai préparé un petit schéma explicatif. Bien sûr, je ne suis qu'un simple amateur qui n'est pas à l'abris d'une erreur. aussi, n'hésitez pas à me contacter si vous avez une remarque ou une correction à apporter.</p>
+		<p>Pour que la compréhension du système de santé pendant la Première Guerre Mondiale soit plus simple à comprendre, je vous ai préparé un petit schéma explicatif. Bien sûr, je ne suis qu'un simple amateur qui n'est pas à l'abris d'une erreur. aussi, n'hésitez pas à me contacter si vous avez une remarque ou une correction à apporter.</p>
 		
 		<p  style="text-align:center;"><a href="docs/evacuation.pdf" title="Organisation du système de santé pendant la Première Guerre Mondiale">
 		Organisation du système de santé pendant la Première Guerre Mondiale (pdf)</a></p>
@@ -93,8 +93,10 @@
 			</tr>	
 			</tbody>
 		</table>
+
+		<h2>Les hôpitaux des Hauts-de-France pendant la Grande Guerre</h2>
 	
-		<h2>Les hôpitaux d'Amiens</h2>
+		<h3>Les hôpitaux d'Amiens</h3>
 		
 		<figure>
 			<a href="images/hopital-mixte-amiens.jpeg" data-fancybox="gallery" data-caption="L'hôpital mixte d'Amiens (Somme)">
@@ -106,7 +108,7 @@
 			</figcaption>
 		</figure>
 				
-		<h2>Les hôpitaux de Breuil-le-Sec</h2>
+		<h3>Les hôpitaux de Breuil-le-Sec</h3>
 		
 		<figure>
 			<a href="images/breuil-ht-36.jpg" data-fancybox="gallery" data-caption="Hôpital temporaire n°36 (Breuil-le-Sec)">
@@ -114,11 +116,11 @@
 			<figcaption>Hôpital temporaire n°36</figcaption>
 		</figure>
 		
-		<h2>Les hôpitaux de Calais</h2>
+		<h3>Les hôpitaux de Calais</h3>
 		
 			<p>L'hôpital militaire temporaire n°51 de Calais était géré par le Service de Santé des Armées. Il était situé à la maison de commerce Leweng et Weinberg, 92 rue Gambetta. Il comportait 110 lits et a fonctionné dès le 26 décembre 1914.</p>
 
-		<h2>Les hôpitaux de Denain</h2>
+		<h3>Les hôpitaux de Denain</h3>
 
 		<figure>
 			<a href="images/hopital-denain.jpg" data-fancybox="gallery" data-caption="Hôpital de Denain pendant la Grande Guerre">
@@ -126,7 +128,7 @@
 			<figcaption>L'Hôpital de Denain<br>(Source: Archives Municipales de Valenciennes)</figcaption>
 		</figure>
 
-		<h2>Les hôpitaux de Roubaix</h2>
+		<h3>Les hôpitaux de Roubaix</h3>
 
 		<figure>
 			<a href="images/Hôpital_de_la_Fraternité.jpeg" data-fancybox="gallery" data-caption="Hôpital de la Fraternité à Roubaix">
@@ -140,7 +142,7 @@
 			<figcaption>Hôpital de la Fraternité vers 1914<br>(Source: Médiathèque de Roubaix)</figcaption>
 		</figure>
 
-		<h2>Les hôpitaux de Valenciennes</h2>
+		<h3>Les hôpitaux de Valenciennes</h3>
 		
 			<p>L'hôpital mixte de Valenciennes était situé dans l'une des l'ailes de l'hôpital Général (aujourd'hui connu sous le nom d'Hôpital du Hainaut).</p>
 		

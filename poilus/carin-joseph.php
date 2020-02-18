@@ -122,10 +122,17 @@
 
 		<h1>Joseph CARIN</h1>
 
-		<ul>	
-			<li>Joseph CARIN est né à Lourches (Nord) le 14 juillet 1894 à Lourches. Il est le fils de François CARIN et Pauline DUSSART. Selon le recensement de 1906, il vit Rue Beauvois à Lourches en compagnie de sa mère et 8 de ses frères et sœurs : <a href="CARIN-Edouard.php" title="biographie d'Edouard CARIN">Edouard</a>, Alfred, Polonie, Clara, Joseph, Léon, Céleste et François.</li> 
-			<li>Classe 1914, matricule 1202, vol 5, bureau de Valenciennes</li>
-		</ul>
+		<p>Joseph CARIN est né à Lourches, près de Valenciennes, le 11 juillet 1894, fils légitime de François Louis et Pauline DUSSART. Joseph est issu d’une famille nombreuse (11 enfants, l’aîné et le cadet ayant 23 ans de différence) mais en 1906, seuls 8 vivent encore avec leurs mère à Lourches (rue de Beauvois), leur père étant décédé en 1899.</p> 
+
+		<p>Pour faire simple, Joseph est le beau-frère de mon arrière-arrière-grand-mère.</p>
+
+		<figure>
+			<a href="images/beauvois-lourches.jpg" data-fancybox="gallery" data-caption="La rue de Beauvois à Lourches">
+			<img src="miniatures/beauvois-lourches.jpg" alt="La rue de Beauvois à Lourches, où vit Joseph CARIN en 1906"/></a>
+			<figcaption>La rue de Beauvois à Lourches<br>(Source: Archives Municipales de Valenciennes)</figcaption>
+		</figure>
+
+		<p>Au début de la Grande Guerre, il semble que Joseph ait d’abord été ajourné pour faiblesse par le conseil de révision de Guéret puis, cette décision aurait été annulée par celui de Saint-Omer. Je vous laisse constater par vous même la petite incohérence rencontrée au niveau des dates sur la fiche matricule.</p>
 
 		<figure>
 			<a href="sources/carin-joseph-matricule.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Joseph CARIN">
@@ -133,43 +140,43 @@
 			<figcaption>Extrait de sa fiche matricule<br>(Source: Archives Départementales du Nord)</figcaption>
 		</figure>
 
-		<table class="census">
-		<caption>Liste des domiciles de Joseph</caption>
-			<thead>
-			<tr>
-				<th id="date">Dates</th>
-				<th id="adresse">Adresses</th>
-			</tr>
-			</thead>
-			<tbody>
-			<tr>
-				<td headers="date">1906</td>
-				<td headers="adresse">Rue Beauvois<br>à Lourches (Nord)</td>
-			</tr>
-			<tr>
-				<td headers="date">12 décembre 1929</td>
-				<td headers="adresse">Rue de la Briquette<br>Flers-en-Escrebieux (Nord)</td>
-			</tr>
-			</tbody>
-		</table>
+		<p>Joseph CARIN est finalement incorporé au sein du 94e Régiment d’Infanterie le 2 décembre 1914 en tant que soldat de 2e classe. A l’époque, le 94e et sa division sont devant DIXMUDE, où ils relévent les fusilliers marins. C’est une zone que l’historique du 94e décrit comme <em>« humide et boueuse où l'eau est à fleur de terre, eu chacun des nombreux troux d'obus est rempli d'eau. »</em> Les pertes durant cette période sont surtout dues à des bombardements.</p>
 
 		<ul>
 			<li>Il est ajourné pour faiblesse par le conseil de révision de Guéret (Creuse) en date du 18 novembre 1914. Décision annulée par celle du Conseil de révision de Saint-Omer (Pas-de-Calais) en date du 28 octobre 1914 qui le déclare bon au service. (Les dates sont celles de la fiche matricule… il semble y avoir un problème d'ordre chronologique)</li>
 			<li>Il rejoint le 94e RI en décembre 1914, soldat de 2e classe (selon sa FM)</li>
 			<li>Disparu le 30 juin 1915 en Argonne</li>
 			<li>Prisonnier interné à Rastadt (selon sa FM)</li>
-			<li>Il est évacué de Darmstardt vers Schneidemühl le 4 aout 1915 (selon le CIRC)</li>
-			<li>Le 18 octobre 1918 - Prisonnier à Schneidemühl (selon le CIRC) pris "enfant perdu" ??</li>
-			<li>Rapatrié le 13 janvier 1919 (selon sa FM)</li>
+			<li>Il est évacué de Darmstardt vers Schneidemühl le 4 aout 1915 (selon le CIRC)
+			
+			<figure>
+				<a href="sources/carin-joseph-cicr-01" data-fancybox="gallery" data-caption=" ">
+				<img src="miniatures/carin-joseph-cicr-01" alt=" "/></a>
+				<figcaption>Fiche CICR<br>(Source: Croix Rouge)</figcaption>
+			</figure>
+
+			</li>
+			<li>Le 16 octobre 1918 - Prisonnier à Schneidemühl (selon le CIRC) pris "enfant perdu" ??
+
+			<figure>
+				<a href="sources/carin-joseph-cicr-03" data-fancybox="gallery" data-caption=" ">
+				<img src="miniatures/carin-joseph-cicr-03" alt=" "/></a>
+				<figcaption>Fiche CICR<br>(Source: Croix Rouge)</figcaption>
+			</figure>
+
+			</li>
+			<li>Rapatrié le 13 janvier 1919 (selon sa FM) il devient ouvrier mineur à Roeulx et part s’installer rue de la Gare, où il épouse Félicile MIROUX, la fille légitime de Louis et Félicie NAUTET, le 17 juillet 1920.</li>
+			<li>Journal Officiel n°209 page 9184 et page 9205. Médaille de bronze de la famille. Ils habitent alors à Flers-en-Escrebieux.</li>
 		</ul>
-		
+
 		<p>Pour info, Joseph a plusieurs frères et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
 
 		<h2>Sources et bibliographie</h2>
 
 		<ul>
-			<li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>     
-			<li><a href="https://archivesdepartementales.lenord.fr/">Archives Départementales du Nord</a></li> 
+			<li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>     
+			<li><a href="https://archivesdepartementales.lenord.fr/">Archives Départementales du Nord</a></li>
+			<li><a href="http://grandeguerre.icrc.org/fr" title="Comité international de la Croix-Rouge">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
 		</ul>
 
 		<p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
