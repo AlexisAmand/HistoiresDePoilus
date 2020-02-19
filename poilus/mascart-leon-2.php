@@ -137,6 +137,8 @@
             <figcaption>Léon, mort pour la France (Source : Mémoire des Hommes)</figcaption>
         </figure>
 
+        <p style="text-align:right">A suivre...</p>
+
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         
         </article>

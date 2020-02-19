@@ -130,34 +130,6 @@
 			<figcaption>Acte de naissance de Florimond<br> (source : Archives Départementales du Nord)</figcaption>
 		</figure> 
 
-		<table class="census">
-			<caption>Liste des domiciles de Florimond</caption>
-			<thead>
-				<tr>
-					<th id="date">Dates</th>
-					<th id="adresse">Adresses</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td headers="date">1</td>
-					<td headers="adresse">2</td>
-				</tr>
-				<tr>
-					<td headers="date">1</td>
-					<td headers="adresse">2</td>
-				</tr>
-				<tr>
-					<td headers="date">1</td>
-					<td headers="adresse">2</td>
-				</tr>
-				<tr>
-					<td headers="date">1</td>
-					<td headers="adresse">2</td>
-				</tr>
-			</tbody>   
-		</table>
-
 		<p>Selon le recensement de 1906, Florimond est rattacheur et vit Rue des Longues à Haies à Roubaix, en compagnie de Marie Lucie et de ses enfants : Léonie, Georges et Charles. La Rue des Longues Haies était situé dans un quartier populaire de Roubaix. Longue de près 1 km, on y trouvait des usines, des estaminets, des commerces, le Mont de Piété ou encore les Bains Municipaux. La rue était aussi un labyrinthe de courées parmi lesquelles la Cour Mulliez, où vivait la famille LETIENNE. On rencontrait cette rue en remontant la Rue de Lannoy vers l'église Sainte Elisabeth, elle s'étendait parallèlement au Boulevard Gambetta, en une longue ligne droite.</p> 
 
 		<figure>

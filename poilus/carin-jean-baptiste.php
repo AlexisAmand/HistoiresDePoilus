@@ -129,6 +129,8 @@
             <img src="miniatures/jb-carin-circ.jpg" alt=" "/></a>
             <figcaption>Fiche CICR<br>(Source: Croix Rouge)</figcaption>
         </figure>
+
+        <p style="text-align:right">A suivre...</p>
 		
 		<h2>Sources et bibliographie</h2>
 

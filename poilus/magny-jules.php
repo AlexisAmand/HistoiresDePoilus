@@ -130,7 +130,11 @@
             <li>la médaille interalliée.</li>
         </ul>
 
+        <br />
+
         <p>Abel, le frère de Jules MAGNY, épouse la fille de <a href="JOLY-Noel-Jules.php" title="biographie de Noël Jules JOLY">Noël Jules JOLY</a>.</p>
+
+        <p style="text-align:right">A suivre...</p>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         

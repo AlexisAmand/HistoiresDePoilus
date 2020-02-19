@@ -124,38 +124,11 @@
 
         <p><strong>Druon Adrien PATOU</strong> est né le 31 mars 1885 à Sebourg (Nord), et est le cousin germain de <a href="CARLIER-Druon-Joseph.php" title="Biographie du poilu Druon Joseph CARLIER">Druon Joseph CARLIER</a> et <a href="CARLIER-Louis-Abraham.php" title="Biographie du poilu Louis Abraham CARLIER">Louis Abraham CARLIER</a>. Je n'ai pas encore pu trouver sa fiche matricule car beaucoup de fiches sont manquantes pour l'année 1905 au bureau de Valenciennes.</p>
 
-        <p>Fiche matricule n°1046, Bureau de Valenciennes, Volume 3, classe 1905<br>
-        ex-soldat du 251e régiment d'infanterie (251e RI)<br>
-        Mort pour la France le 15-05-1924 (Sebourg, 59 - Nord, France)<br>
-        Né(e) le/en 31-03-1885 à Sebourg (59 - Nord, France)</p>
+        <p>- Fiche matricule n°1046, Bureau de Valenciennes, Volume 3, classe 1905<br>
+        - ex-soldat du 251e régiment d'infanterie (251e RI)<br>
+        - Mort pour la France le 15-05-1924 (Sebourg, 59 - Nord, France)<br></p>
 
-        <table class="census">
-        <caption>Liste des domiciles de Druon</caption>
-            <thead>
-            <tr>
-                <th id="date">Dates</th>
-                <th id="adresse">Adresses</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            </tbody>
-        </table>
+        <p style="text-align:right">A suivre...</p>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         

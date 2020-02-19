@@ -102,6 +102,8 @@
             <figcaption>Extrait de sa fiche matricule<br>(Source: Archives Départementales de la Côte-d'Or)</figcaption>
         </figure>
 
+        <p style="text-align:right">A suivre...</p>
+
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 
         </article>

@@ -93,6 +93,8 @@
 
         <p>Retrouvez bientôt sur cette page une biographie de Gaston ARNOULD, incorporé au 40e Régiment d'Artillerie de Campagne en tant que canonnier de 2e classe à compté du 26 novembre 1913.</p>
 
+        <p style="text-align:right">A suivre...</p>
+
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 
         </article>
