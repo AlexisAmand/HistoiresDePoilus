@@ -58,6 +58,7 @@
     <ul>   
         <li class="asideheader">Nord</li>
           <li><a href="tombes/awoingt.php">Awoingt</a></li>
+          <li><a href="tombes/beaufort.php">Beaufort</a></li>
 	      <li><a href="tombes/capelle.php">Capelle-sur-Ecaillon</a></li>
 	      <li><a href="tombes/grand-fayt">Grand-Fayt</a></li>
 	      <li><a href="tombes/maroilles.php">Maroilles</a></li>

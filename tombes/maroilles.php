@@ -57,6 +57,7 @@
     <ul>   
         <li class="asideheader">Nord</li>
           <li><a href="awoingt.php">Awoingt</a></li>
+          <li><a href="beaufort.php">Beaufort</a></li>
 	      <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
 	      <li><a href="grand-fayt.php">Grand-Fayt</a></li>
 	      <li><a href="maroilles.php" class="AsideSelected">Maroilles</a></li>
@@ -83,7 +84,7 @@
     
     <figure>
         <a href="images/monument-maroilles.jpg" data-fancybox="gallery" data-caption="Le monument aux morts de Maroilles">
-        <img src="images/mini/monument-maroilles.jpg" alt=" "/></a>
+        <img src="images/mini/monument-maroilles.jpg" alt="Le monument aux morts pour la France à Maroilles"/></a>
         <figcaption>Le monument aux morts de Maroilles<br />(Source: Photo privée)</figcaption>
     </figure>
 

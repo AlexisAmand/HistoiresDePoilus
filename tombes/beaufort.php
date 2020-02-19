@@ -5,8 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>Le monument aux morts de Grand-Fayt - Histoires de Poilus</title>
-        <meta content="Le monument aux morts pour la France pendant la Première Guerre Mondiale (1914-1918) à Grand-Fayt">
+        <title>Le monument aux morts de Beaufort - Histoires de Poilus</title>
+        <meta content="Le monument aux morts pour la France pendant les deux guerres mondiales à Beaufort">
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -57,9 +57,9 @@
     <ul>   
         <li class="asideheader">Nord</li>
           <li><a href="awoingt.php">Awoingt</a></li>
-          <li><a href="beaufort.php">Beaufort</a></li>
+          <li><a href="beaufort.php" class="AsideSelected">Beaufort</a></li>
 	      <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
-	      <li><a href="grand-fayt.php" class="AsideSelected">Grand-Fayt</a></li>
+	      <li><a href="grand-fayt.php">Grand-Fayt</a></li>
 	      <li><a href="maroilles.php">Maroilles</a></li>
           <li><a href="valenciennes.php">Valenciennes</a></li>  
     </ul>
@@ -80,26 +80,20 @@
 
         <article>
 
-        <h1>Le monuments aux morts de Grand-Fayt</h1>
+        <h1>Le monuments aux morts de Beaufort</h1>
 
         <figure>
-            <a href="images/grand-fayt-02.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts de Grand-Fayt (Nord)">
-            <img src="images/mini/grand-fayt-02.jpg" alt="le Monument aux Morts de Grand-Fayt dans l'Avesnois"/></a>
-            <figcaption>Le Monument aux Morts de Grand-Fayt<br>(Source: Photo privée)</figcaption>
+            <a href="images/monument-beaufort-01.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts de Beaufort (Nord)">
+            <img src="images/mini/monument-beaufort-01.jpg" alt="le Monument aux Morts pour la France de Beaufort dans l'Avesnois"/></a>
+            <figcaption>Le Monument aux Morts de Beaufort<br>(Source: Photo privée)</figcaption>
         </figure>
 
 		<figure>
-            <a href="images/grand-fayt-01.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts de Grand-Fayt (Nord)">
-            <img src="images/mini/grand-fayt-01.jpg" alt="le Monument aux Morts de Grand-Fayt dans l'Avesnois"/></a>
-            <figcaption>Le Monument aux Morts de Grand-Fayt<br>(Source: Photo privée)</figcaption>
+            <a href="images/monument-beaufort-02.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts de Beaufort (Nord)">
+            <img src="images/mini/monument-beaufort-02.jpg" alt="le Monument aux Morts pour la France de Beaufort dans l'Avesnois"/></a>
+            <figcaption>Le Monument aux Morts de Beaufort<br>(Source: Photo privée)</figcaption>
         </figure>
-        
-        <figure>
-            <a href="images/grand-fayt-03.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts de Grand-Fayt (Nord)">
-            <img src="images/mini/grand-fayt-03.jpg" alt="le Monument aux Morts de Grand-Fayt dans l'Avesnois"/></a>
-            <figcaption>Le Monument aux Morts de Grand-Fayt<br>(Source: Photo privée)</figcaption>
-        </figure>
-
+    
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         
         </article>
