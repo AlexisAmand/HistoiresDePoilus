@@ -99,7 +99,7 @@
 
     <h2>Lucien BODDAERT</h2>
 
-    <p>Mini-bio à venir.</p>
+    <p>Lucien est né à Saint-Omer (Pas-de-Calais) le 22 octobre 1890. Pendant la Grande Guerre, il rejoint le Bataillon de fusiliers Marins en tant que second maître fusiliers. Il est décédé des suites de ses blessures de guerre le 30 mars 1917 à l'ambulance "Océan", un hôpital de campagne belge installé à La Panne (Belgique). Il repose au cimetière Saint-Roch de Valenciennes.</p>
 
     <figure>
         <a href="images/lucien-boddaert-01.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien BODDAERT, mort pour la France en 1917">
