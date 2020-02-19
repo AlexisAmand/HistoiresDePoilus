@@ -79,7 +79,7 @@
 
     <article>
 
-    <h1>Le monument de Maroilles</h1>
+    <h1>Les monuments de Maroilles</h1>
     
     <figure>
         <a href="images/monument-maroilles.jpg" data-fancybox="gallery" data-caption="Le monument aux morts de Maroilles">

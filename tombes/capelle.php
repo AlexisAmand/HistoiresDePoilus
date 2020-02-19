@@ -97,6 +97,15 @@
 
         <p>Soldat au 127e Régiment d'Infanterie, Léon Paul BASUYAU est né à Capelle-sur-Ecaillon (Nord) le 20 avril 1889. Il est tué à l'ennemi à Menil-les-Hurlus (Marne) le 19 février 1915. Son nom figure sur le monument aux morts et dans le livre d'or de la commune.</p>
 
+        <figure>
+            <a href="images/Carnet_de_guerre_Albert_Labbé_plan_article.png" data-fancybox="gallery" data-caption=" ">
+            <img src="images/mini/Carnet_de_guerre_Albert_Labbé_plan_article.png" alt=" "/></a>
+            <figcaption>Plan de l'avancée de l'armée française dans la région de Perthes-les-Hurlus le 15 février 1915
+            <br>d'après le carnet de guerre d'Albert Labbé
+            <br>(Source: Wikipedia Commons)</figcaption>
+        </figure>
+
+
         <h2>Edouard Gaston DECOSTER</h2>
 
         <p>Edouard est né à Saint-Pol-sur-Mer (Nord) le 11 octobre 1889. Soldat au 110e d'Infanterie, il est décédé des suites de ses blessures de guerre à l'hôpital complémentaire n°42 d'Orléans (Loiret) le 21 décembre 1914. Son nom figure sur le monument aux morts de la commune mais il est indiqué comme radié du livre d'or. L'hôpital complémentaire n°42 était situé au lycée de garçons. Il a fonctionné d'aout 1914 à juillet 1917 et comportait 160 lits.</p>

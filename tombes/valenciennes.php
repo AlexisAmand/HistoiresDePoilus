@@ -83,7 +83,7 @@
 
     <h2>André BERNARD</h2>
 
-    <p>Sous-Lieutenant au 91e Régiment d'Infanterie, André Georges Louis BERNARD est né à Valenciennes le 27 aout 1895. Il est décédé des suites de ses blessures à Moncetz (Marne) le 29 novembre 1915.</p>
+    <p>Sous-Lieutenant au 91e Régiment d'Infanterie, André Georges Louis BERNARD est né à Valenciennes le 27 aout 1895. Il est décédé des suites de ses blessures à Moncetz (Marne) le 29 novembre 1916.</p>
 
     <figure>
         <a href="images/andre-bernard-01.jpg" data-fancybox="gallery" data-caption="Tombe d'André BERNARD, mort pour la France le 29 novembre 1916">
@@ -99,7 +99,7 @@
 
     <h2>Lucien BODDAERT</h2>
 
-    <p>Lucien est né à Saint-Omer (Pas-de-Calais) le 22 octobre 1890. Pendant la Grande Guerre, il rejoint le Bataillon de fusiliers Marins en tant que second maître fusiliers. Il est décédé des suites de ses blessures de guerre le 30 mars 1917 à l'ambulance "Océan", un hôpital de campagne belge installé à La Panne (Belgique). Il repose au cimetière Saint-Roch de Valenciennes.</p>
+    <p>Lucien René Désiré BODDAERT est né à Saint-Omer (Pas-de-Calais) le 22 octobre 1890. Pendant la Grande Guerre, il rejoint le Bataillon de fusiliers Marins en tant que second maître fusiliers. Il est décédé des suites de ses blessures de guerre le 30 mars 1917 à l'ambulance "Océan", un hôpital de campagne belge installé à La Panne (Belgique). Il repose au cimetière Saint-Roch de Valenciennes.</p>
 
     <figure>
         <a href="images/lucien-boddaert-01.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien BODDAERT, mort pour la France en 1917">
@@ -115,7 +115,7 @@
 
     <h2>René et Maurice GOUVION</h2>
 
-    <p>2e Classe au 3e Régiment de Zouaves, René Jean Désiré GOUVION est né à Saint-Saulve le 16 avril 1894. Il est décédé à la Côte du Poivre (à côté de Verdun de la Meuse) le 25 février 1916. Maurice Alfred, son frére ainé, est soldat au sein du 127e Régiment d'Infanterie. Il est né à Saint-Saulve le 4 avril 1892 et disparu au combat à Menil-les-Hurlus (Marne) le 19 février 1915. René et Maurice figurent sur le monument aux morts de la ville de Saint-Saulve.</p>
+    <p>2e Classe au 3e Régiment de Zouaves, René Jean Désiré GOUVION est né à Saint-Saulve (Nord) le 16 avril 1894. Il est décédé à la Côte du Poivre (à côté de Verdun de la Meuse) le 25 février 1916. Maurice Alfred, son frére ainé, est soldat au sein du 127e Régiment d'Infanterie. Il est né à Saint-Saulve le 4 avril 1892 et disparu au combat à Menil-les-Hurlus (Marne) le 19 février 1915. René et Maurice figurent sur le monument aux morts de la ville de Saint-Saulve.</p>
 
     <figure>
         <a href="images/gouvion-02.jpg" data-fancybox="gallery" data-caption="Tombe de René et Maurice GOUVION, morts pour la France pendant la Grande Guerre">
@@ -143,7 +143,7 @@
 
     <h2>Lucien MASCLET</h2>
 
-    <p>Lucien Léopold Fénélon MASCLET est né à Valenciennes e 12 mars 1893. A la mobilisation, il est caporal au sein du 127e Régiment d'Infanterie. Il est tué à l'ennemi le 12 novemvre 1914 à Soupir (Aisne).</p>
+    <p>Lucien Léopold Fénélon MASCLET est né à Valenciennes le 12 mars 1893. A la mobilisation, il est caporal au sein du 127e Régiment d'Infanterie. Il est tué à l'ennemi le 12 novemvre 1914 à Soupir (Aisne).</p>
 
     <figure>
         <a href="images/lucien-masclet-02.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien MASCLET, mort pour la France pendant la Grande Guerre">

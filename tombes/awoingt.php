@@ -79,9 +79,9 @@
 
       <article>
 
-      <h1>Relevé des morts pour la France à Awoingt</h1>
+      <h1>Les monuments à Awoingt</h1>
 
-      <h2>Monument anglais</h2>
+      <h2>Le monument anglais</h2>
 
       <p>Le 9 octobre 1918 à environ 3 mètres en amont de ce calvaire au point marqué par une croix. Les officiers et hommes de troupe anglais dont les noms suivent ont été instantanément tués par un projectile ennemi. Ils sont inhumés au <a href="#cma">cimetière militaire d'Awoingt</a>.</p>
 
