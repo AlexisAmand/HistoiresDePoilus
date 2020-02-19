@@ -1,0 +1,21 @@
+ErrorDocument 404 http://histoiresdepoilus.genealexis.fr/index.php
+
+# Compression pour fichiers CSS
+<IfModule mod_gzip.c>
+    mod_gzip_on       Yes
+    mod_gzip_dechunk  Yes
+    mod_gzip_minimum_file_size 1024
+    mod_gzip_maximum_file_size 100000
+    mod_gzip_item_include file \.css$
+    mod_gzip_item_include mime ^text/css$
+</IfModule>
+
+<IfModule mod_expires.c>
+    ExpiresActive on
+    ExpiresByType application/x-javascript "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+    ExpiresByType text/javascript "access plus 1 month"
+    ExpiresByType text/css "access plus 1 month"
+ 
+    ExpiresByType image/* "access plus 1 month"
+</IfModule>
