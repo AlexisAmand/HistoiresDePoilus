@@ -118,6 +118,12 @@
           <figcaption>Awoingt British Cemetery<br>(source : photo personnelle)</figcaption>
       </figure>
 
+      <figure>
+          <a href="images/indien-awoing.jpg" data-fancybox="gallery" data-caption="Un indien inhumé à Awoingt">
+          <img src="images/mini/indien-awoing.jpg" alt="Un indien ayant combattu pendant la Première Guerre Mondiale inhumé à Awoingt"/></a>
+          <figcaption>Un indien inhumé à Awoingt<br>(source : photo personnelle)</figcaption>
+      </figure>
+
       <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
       
       </article>

@@ -122,7 +122,7 @@
 
         <h1>Louis TIBURCE</h1>
 
-        <p>L'acte de naissance de Louis Henri François TIBURCE nous apprend qu'il voit le jour le 25 août 1889 à Marly, au domicile de ses parents situé sur du Quesnoy. Déclaré dès le lendemain, il est le fils légitime de Louis Victor TIBµURCE et Marie Augustine DUSIN. Le 23 octobre 1920, il devient le 2e époux de Berthe DUSART, la cousine d'Henri Gustave FONTAINE (mon arrière-grand-père) et la veuve d'Augustin HANZE. Il suit la même carrière que son père en devenant commis puis préposé des Douanes.</p>
+        <p>L'acte de naissance de Louis Henri François TIBURCE nous apprend qu'il voit le jour le 25 août 1889 à Marly, au domicile de ses parents situé sur du Quesnoy. Déclaré dès le lendemain, il est le fils légitime de Louis Victor TIBURCE et Marie Augustine DUSIN. Le 23 octobre 1920, il devient le 2e époux de Berthe DUSART, la cousine d'Henri Gustave FONTAINE (mon arrière-grand-père) et la veuve d'Augustin HANZE. Il suit la même carrière que son père en devenant commis puis préposé des Douanes.</p>
 
 		<figure>
             <a href="images/marly01.jpg" data-fancybox="gallery" data-caption="La rue du Quesnoy à Marly">

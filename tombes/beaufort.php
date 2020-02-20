@@ -80,18 +80,18 @@
 
         <article>
 
-        <h1>Le monuments aux morts de Beaufort</h1>
+        <h1>Le monument aux morts de Beaufort</h1>
 
         <figure>
             <a href="images/monument-beaufort-01.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts de Beaufort (Nord)">
             <img src="images/mini/monument-beaufort-01.jpg" alt="le Monument aux Morts pour la France de Beaufort dans l'Avesnois"/></a>
-            <figcaption>Le Monument aux Morts de Beaufort<br>(Source: Photo privée)</figcaption>
+            <figcaption>Le monument aux morts de Beaufort<br>(Source: Photo privée)</figcaption>
         </figure>
 
 		<figure>
-            <a href="images/monument-beaufort-02.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts de Beaufort (Nord)">
-            <img src="images/mini/monument-beaufort-02.jpg" alt="le Monument aux Morts pour la France de Beaufort dans l'Avesnois"/></a>
-            <figcaption>Le Monument aux Morts de Beaufort<br>(Source: Photo privée)</figcaption>
+            <a href="images/monument-beaufort-02.jpg" data-fancybox="gallery" data-caption="La plaque hommage aux victime de 39-45 à Beaufort (Nord)">
+            <img src="images/mini/monument-beaufort-02.jpg" alt="La plaque hommage aux victimes de 39-45 du monument aux Morts pour la France de Beaufort dans l'Avesnois"/></a>
+            <figcaption>La plaque hommage aux victimes de 39-45<br>(Source: Photo privée)</figcaption>
         </figure>
     
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
