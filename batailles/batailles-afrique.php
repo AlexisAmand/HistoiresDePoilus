@@ -10,9 +10,9 @@
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
-        <link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+        <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">  
                     
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
         <link rel="icon" type="image/png" href="../images/favicon.png"/>
                         
     </head>

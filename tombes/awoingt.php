@@ -6,13 +6,13 @@
     <meta charset="utf-8">
 
     <title>Le monument anglais d'Awoingt - Histoires de Poilus</title>
-    <meta content="relevés des soldats et des civils de Gélannes (Aube) morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or">
+    <meta content="relevés des soldats et des civils de Gélannes (Aube) morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or" name="description">
 
-    <link rel="stylesheet" href="../css/style.css">
-    <link rel="stylesheet" href="../css/resp.css">
-    <link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+    <link rel="stylesheet" href="../css/style.css" media="screen">
+    <link rel="stylesheet" href="../css/resp.css" media="screen">
+    <link rel="stylesheet" href="../css/fontawesome/css/all.min.css" media="screen">
 
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
     <link rel="icon" type="image/png" href="../images/favicon.png"/>
 
   </head>

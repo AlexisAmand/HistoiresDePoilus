@@ -1,4 +1,4 @@
-	<a href="/mentions.php">Mentions Légales</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="/mentions.php">Mentions Légales</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="/contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="/cookies.php">Cookies</a>

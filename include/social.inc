@@ -10,8 +10,8 @@
       <a href="https://www.instagram.com/alexisamand/" title="Voir le compte Instagram du webmaster">
         <i class="fab fa-instagram"></i></a>
       <a href="https://twitter.com/intent/tweet?url=<?php echo $url; ?>" title="Partager cette page sur Twitter">
-		<i class="fab fa-twitter-square"></i></a>
+		    <i class="fab fa-twitter-square"></i></a>
 	  <a href="https://www.linkedin.com/shareArticle?mini=true&url=<?php echo $url; ?>" title="Partager cette page sur LinkedIn"> 	
-		<i class="fab fa-linkedin"></i></a>
+		    <i class="fab fa-linkedin"></i></a>
 		
 </div>

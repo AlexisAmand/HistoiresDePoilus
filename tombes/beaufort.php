@@ -6,13 +6,13 @@
         <meta charset="utf-8">
 
         <title>Le monument aux morts de Beaufort - Histoires de Poilus</title>
-        <meta content="Le monument aux morts pour la France pendant les deux guerres mondiales à Beaufort">
+        <meta content="Le monument aux morts pour la France pendant les deux guerres mondiales à Beaufort" name="description">
 
-        <link rel="stylesheet" href="../css/style.css">
-        <link rel="stylesheet" href="../css/resp.css">
-        <link rel="stylesheet" href="../css/fontawesome/css/all.css">  
+        <link rel="stylesheet" href="../css/style.css" media="screen">
+        <link rel="stylesheet" href="../css/resp.css" media="screen">
+        <link rel="stylesheet" href="../css/fontawesome/css/all.min.css" media="screen">
 
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
         <link rel="icon" type="image/png" href="../images/favicon.png"/>
 
     </head>

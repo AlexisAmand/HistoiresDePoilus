@@ -6,14 +6,13 @@
         <meta charset="utf-8">
 
         <title>Les camps de prisonniers - Histoires de Poilus</title>
+        <meta content="Présentation des camps de prisonniers en Allemagne pendant la Première Guerre Mondiale" name="description">
 
-        <meta content="Présentation des camps de prisonniers en Allemagne pendant la Première Guerre Mondiale">
+        <link rel="stylesheet" href="css/style.css" media="screen">
+        <link rel="stylesheet" href="css/resp.css" media="screen">
+        <link rel="stylesheet" href="css/fontawesome/css/all.min.css" media="screen">
 
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/resp.css">
-        <link rel="stylesheet" href="css/fontawesome/css/all.css">  
-
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet"> 
         <link rel="icon" type="image/png" href="images/favicon.png" />
 
     </head>
@@ -147,8 +146,8 @@
         <p>Les prisonniers étaient gérés comme véritable armée: Ils étaient (la plupart du temps) logés dans des casernes, vivaient sous les ordres de leurs gardiens et étaient soumis aux mêmes règlements et à la même discipline que ceux qui étaient en vigueurs dans l'armée de leurs geôliers. Le nombre de soldats prisonniers en 1918 est estimé à 6 637 000 parmi lesquels 2 500 000 sont retenus par l'Allemagne, 2 250 000 par la Russie, 916 000 par l'Autriche, 350 000 par la France, 328 000 par le Royaume-Uni, et 43 000 par les Etats-Unis.</p>
 
         <figure>
-            <a href="camps/images/allemand.png" data-fancybox="gallery" data-caption="Des prisonniers allemands à Toulouse">
-            <img src="camps/miniatures/allemand.png" alt="Des prisonniers allemands à Toulouse pendant la Première Guerre Mondiale"/></a>
+            <a href="camps/images/allemand.jpg" data-fancybox="gallery" data-caption="Des prisonniers allemands à Toulouse">
+            <img src="camps/miniatures/allemand.jpg" alt="Des prisonniers allemands à Toulouse pendant la Première Guerre Mondiale"/></a>
             <figcaption>Des prisonniers allemands à Toulouse<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
@@ -168,7 +167,7 @@
 
     <!-- javascript -->
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+    <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/jquery.fancybox.min.js"></script>
     <script type="text/javascript" src="js/script.js"></script>
 
