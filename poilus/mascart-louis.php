@@ -126,7 +126,7 @@
         
   		<figure>
             <a href="sources/naissance-leon-mascart.jpg" data-fancybox="gallery" data-caption='Acte de naissance de Louis Mascart'>
-            <img src="miniatures/naissance-leon-mascart.jpg" alt='Acte de naissance de Louis Mascart'/></a>
+            <img src="miniatures/naissance-leon-mascart.jpg" alt="Acte de naissance de Louis Mascart issu des Archives Départementales"/></a>
             <figcaption>Acte de naissance de Louis<br>(Source: Archives Départementales du Nord)</figcaption>
         </figure>
               

@@ -5,7 +5,7 @@
 
         <meta charset="utf-8">
 
-        <title>Le camp d'internement de Loosduinen  pendant la Grande Guerre - Histoires de Poilus</title>
+        <title>Le camp d'internement de Loosduinen aux Pays-Bas pendant la Grande Guerre - Histoires de Poilus</title>
         <meta name="description"  content="Présentation du camp d'internement de Loosduinen aux Pays-Bas pendant la Première Guerre mondiale (1914-1918)">
 
         <link rel="stylesheet" href="../css/style.css">

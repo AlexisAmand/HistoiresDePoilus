@@ -172,9 +172,7 @@
             <figcaption>Inauguration du monument de Cousolre<br>(Le 29 juillet 1923)</figcaption>
         </figure>
 
-        <p>Le 23 mars 1920, Berthe se remarie avec <a href="tiburce-louis.php">Louis Henri François TIBURCE</a>, un préposé aux douanes né à Marly (Nord) le 20 août 1889.</p>    
-
-        <p>Pour la petite histoire, Louis PERGAUD (1882-1915), prix Goncourt et auteur de "La Guerre des Boutons" (publié en 1912) a disparu durant la même bataille, dans la nuit du 7 au 8 avril 1915.</p>
+        <p>Le 23 mars 1920, Berthe se remarie avec <a href="tiburce-louis.php" title="Biographie du soldat Louis Henri François TIBURCE">Louis Henri François TIBURCE</a>, un préposé aux douanes né à Marly (Nord) le 20 août 1889.</p><p>Pour la petite histoire, Louis PERGAUD (1882-1915), prix Goncourt et auteur de "La Guerre des Boutons" (publié en 1912) a disparu durant la même bataille, dans la nuit du 7 au 8 avril 1915.</p>
 
         <h2>Sources et bibliographie</h2>
 

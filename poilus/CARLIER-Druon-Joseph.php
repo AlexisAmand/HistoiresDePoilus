@@ -130,10 +130,10 @@
             <figcaption>Arbre simplifié de la famille JOLY-CARLIER<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
-        <p>Pour simplifier les choses, je n'ai pas représenté tous les membres de la famille sur l'arbre ci-dessus, mais à sa naissance, Druon a pour frères et sœurs : Gustave (né en 1864), Maria Sidonie (née en 1865), Marie Zélia (née en 1869) et <a href="CARLIER-Louis-Abraham.php">Louis Abraham</a> (né en 1871). En 1906, il vit au hameau de Sebourquiaux avec son épouse Angèle DANHIEZ et ses deux filles Lucia (mon arrière-grand-mère) et Maria.</p>
+        <p>Pour simplifier les choses, je n'ai pas représenté tous les membres de la famille sur l'arbre ci-dessus, mais à sa naissance, Druon a pour frères et sœurs : Gustave (né en 1864), Maria Sidonie (née en 1865), Marie Zélia (née en 1869) et <a href="CARLIER-Louis-Abraham.php" title="Biographie du soldat Louis Abraham">Louis Abraham</a> (né en 1871). En 1906, il vit au hameau de Sebourquiaux avec son épouse Angèle DANHIEZ et ses deux filles Lucia (mon arrière-grand-mère) et Maria.</p>
 
         <figure>
-            <a href="sources/carlier-druon-matricule-01.jpg" data-fancybox="gallery" data-caption="Druon Joseph CARLIER - Extrait de sa fiche matricule">
+            <a href="sources/carlier-druon-matricule-01.jpg" data-fancybox="gallery" data-caption="Extrait de sa fiche matricule de Druon Joseph CARLIER">
             <img src="miniatures/carlier-druon-matricule-01.jpg" alt="Extrait de la fiche matricule de Druon CARLIER"/></a>
             <figcaption>Extrait de sa fiche matricule<br>(source: Archives Départementales du Nord)</figcaption>
         </figure>

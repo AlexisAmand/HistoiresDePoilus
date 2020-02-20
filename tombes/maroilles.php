@@ -5,8 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>Tombes de poilus à Maroilles - Histoires de Poilus</title>
-        <meta content="Quelques photos de tombes de soldats valenciennois morts pour la France pendant la Première Guerre Mondiale (1914-1918)" name="description">
+        <title>Le monument aux morts de Maroilles - Histoires de Poilus</title>
+        <meta content="Les monuments aux morts pour la France pendant les Grandes Situés à Maroilles, dans le Nord" name="description">
 
         <link rel="stylesheet" href="../css/style.css" media="screen">
         <link rel="stylesheet" href="../css/resp.css" media="screen">
@@ -92,7 +92,7 @@
 
     <figure>
         <a href="images/arche-maroilles.jpg" data-fancybox="gallery" data-caption="L'Arc de Triomphe de Maroilles">
-        <img src="images/mini/arche-maroilles.jpg" alt=" "/></a>
+        <img src="images/mini/arche-maroilles.jpg" alt="L'Arc de Triomphe de Maroilles élevé par Nicolas Joseph Vendois"/></a>
         <figcaption>L'Arc de Triomphe de Maroilles<br />(Source: Photo privée)</figcaption>
     </figure>
     <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

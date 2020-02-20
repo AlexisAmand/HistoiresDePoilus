@@ -150,18 +150,18 @@
 			<li>Il est évacué de Darmstardt vers Schneidemühl le 4 aout 1915 (selon le CIRC)
 			
 			<figure>
-				<a href="sources/carin-joseph-cicr-01" data-fancybox="gallery" data-caption=" ">
-				<img src="miniatures/carin-joseph-cicr-01" alt=" "/></a>
-				<figcaption>Fiche CICR<br>(Source: Croix Rouge)</figcaption>
+				<a href="sources/carin-joseph-cicr-01" data-fancybox="gallery" data-caption="Fiche de la Croix-Rouge de Joseph CARIN">
+				<img src="miniatures/carin-joseph-cicr-01" alt="Fiche de prisonnier issue des archives de la Croix-Rouge concernant Joseph CARIN"/></a>
+				<figcaption>Fiche de la Croix-Rouge<br>(Source: Croix Rouge)</figcaption>
 			</figure>
 
 			</li>
 			<li>Le 16 octobre 1918 - Prisonnier à Schneidemühl (selon le CIRC) pris "enfant perdu" ??
 
 			<figure>
-				<a href="sources/carin-joseph-cicr-03" data-fancybox="gallery" data-caption=" ">
-				<img src="miniatures/carin-joseph-cicr-03" alt=" "/></a>
-				<figcaption>Fiche CICR<br>(Source: Croix Rouge)</figcaption>
+				<a href="sources/carin-joseph-cicr-03" data-fancybox="gallery" data-caption="Fiche de la Croix-Rouge de Joseph CARIN">
+				<img src="miniatures/carin-joseph-cicr-03" alt="Fiche de prisonnier issue des archives de la Croix-Rouge concernant Joseph CARIN"/></a>
+				<figcaption>Fiche de la Croix-Rouge<br>(Source: Croix Rouge)</figcaption>
 			</figure>
 
 			</li>

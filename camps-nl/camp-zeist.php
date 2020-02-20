@@ -84,13 +84,13 @@
 
         <figure>
             <a href="images/Zeist/zeist-02.jpg" data-fancybox="gallery"  title="Le camp de Zeist pendant la Grande Guerre">
-            <img src="miniatures/Zeist/zeist-02.jpg" alt="En route pour la corvée au camp d'internement de Ziest aux  pendant la Première Guerre Mondiale"></a>
+            <img src="miniatures/Zeist/zeist-02.jpg" alt="En route pour la corvée au camp d'internement de Ziest aux Pays-Bas pendant la Première Guerre Mondiale"></a>
             <figcaption>Fourrager la viande et en route pour la corvée<br>(source : Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Zeist/zeist-03.jpg" data-fancybox="gallery"  title="Le camp de Zeist pendant la Grande Guerre">
-            <img src="miniatures/Zeist/zeist-03.jpg" alt="Fêtes sportives à l'occasion de l'anniversaire au camp d'internement de Zeist pendant la Première Guerre Mondiale"></a>
+            <img src="miniatures/Zeist/zeist-03.jpg" alt="Fêtes sportives à l'occasion de l'anniversaire au camp d'internement de Zeist aux Pays-Bas pendant la Première Guerre Mondiale"></a>
             <figcaption>Fêtes sportives à l'occasion de l'anniversaire<br>De sa Majesté le Roi Albert I (8 avril 1916)<br>(source : Delcampe)</figcaption>
         </figure>
 

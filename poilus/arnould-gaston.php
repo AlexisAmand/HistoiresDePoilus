@@ -5,8 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>Biographie et parcours du soldat Henri René ARNOULD - Histoires de Poilus</title>
-        <meta content="Parcours et biographie du poilu Henri René ARNOULD, soldat français pendant la Première Guerre Mondiale" name="description"/>
+        <title>Biographie et parcours du soldat Gaston ARNOULD - Histoires de Poilus</title>
+        <meta content="Parcours et biographie du poilu Gaston ARNOULD, canonnier de 2e classes au 40e Régiment d'Artillerie de Campagne pendant la Première Guerre Mondiale" name="description"/>
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">

@@ -118,7 +118,7 @@
 
         <figure>
             <a href="sources/Dossier-Leonore-Alfred.jpg" data-fancybox="gallery" data-caption="Extrait du dossier de la Légion d'Honneur d'Alfred Froidurot">
-            <img src="miniatures/Dossier-Leonore-Alfred.jpg" alt="Extrait du dossier de la Légion d'Honneur"></a>
+            <img src="miniatures/Dossier-Leonore-Alfred.jpg" alt="Extrait du dossier de la Légion d'Honneur d'Alfred FROIDUROT"></a>
             <figcaption>Extrait du dossier de Légion d'Honneur<br>(source: Archives Nationales)</figcaption>
         </figure>
 

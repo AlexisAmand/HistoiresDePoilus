@@ -130,11 +130,11 @@
             <figcaption>La Rue Kléber à Anzin<br>(Source: Bibliothèque municipale de Valenciennes)</figcaption>
         </figure>
 
-        <p>Il s'unit à Valenciennes (Nord) avec Bertha CANONNE le 3 avril 1914. Bertha est la fille légitime de Nestor CANONNE et de Marie Eugénie DUCHÊNE. Le couple aura plusieurs enfants: Henri, Madeleine (mon arrière-grand-mère, qui épousera Kleber le fils de <a href="FIEVET-Charles-Augustin.php" title="Voir la page consacrée à Charles Augustin Fievet">Charles Augustin FIEVET</a>), René, Marcel et Marie-Louise.</p>
+        <p>Il s'unit à Valenciennes (Nord) avec Bertha CANONNE le 3 avril 1914. Bertha est la fille légitime de Nestor CANONNE et de Marie Eugénie DUCHÊNE. Le couple aura plusieurs enfants: Henri, Madeleine (mon arrière-grand-mère, qui épousera Kleber le fils de <a href="FIEVET-Charles-Augustin.php" title="Biographie du soldat Charles Augustin FIEVET">Charles Augustin FIEVET</a>), René, Marcel et Marie-Louise.</p>
 
         <figure>
             <a href="portraits/tous-les-grand-peres.jpg" data-fancybox="gallery" data-caption="Photo de groupe de la famille FONTAINE">
-            <img src="miniatures/tous-les-grand-peres.jpg" alt="Photo de groupe de la famille FONTAINE dans les années 30"/></a>
+            <img src="miniatures/tous-les-grand-peres.jpg" alt="La famille FONTAINE d'Anzin dans les années 30"/></a>
             <figcaption>Henri Gustave, debout avec le chapeau<br>(Source: Archives familiales)</figcaption>
         </figure>
 
@@ -147,7 +147,7 @@
         <p>Anzin, commune où est né <strong>Henri</strong>, est occupée par l'armée allemande dès le 25 août 1914, aussitôt un couvre-feu instauré.</p>
 
         <figure>
-            <a href="images/anzin-1914-01.jpg"  data-fancybox="gallery" data-caption="La Croix d'Anzin">
+            <a href="images/anzin-1914-01.jpg"  data-fancybox="gallery" data-caption="La Croix d'Anzin pendant la Grande Guerre (1914-1918)">
             <img src="miniatures/anzin-1914-01.jpg" alt="La Croix D'Anzin en pendant la Première Guerre Mondiale (1914-1918) sur une carte postale ancienne"/></a>
             <figcaption>La Croix d'Anzin détruite en 1914-18<br>(Source: Bibliothèque Municipale de Valenciennes)</figcaption>
         </figure>

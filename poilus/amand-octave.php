@@ -90,7 +90,7 @@
 
         <figure>
             <a href="sources/naissance-octave-amand.jpg" data-fancybox="gallery" data-caption="Acte de naissance d'Octave AMAND">
-            <img src="miniatures/naissance-octave-amand.jpg" alt="Acte de naissance d'Octave AMAND"></a>
+            <img src="miniatures/naissance-octave-amand.jpg" alt="Acte de naissance d'Octave AMAND daté de 1895"></a>
             <figcaption>Acte de naissance d'Octave AMAND<br>(Source: Familysearch et Archives Belges)</figcaption>
         </figure>
 

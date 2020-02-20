@@ -146,7 +146,7 @@
 			<a href="images/carte-florimond-letienne.jpg" data-fancybox="gallery" data-caption="Carte d'ancien combattant">
 			<img src="miniatures/carte-florimond-letienne.jpg" alt="carte d'ancien combattant de Florimond LETIENNE trouvée aux Archives Départementales"></a>
 			<figcaption>Carte d'ancien combattant ayant appartenu à Florimond<br> (source : Archives Départementales du Nord)</figcaption>
-		</figure>   
+		</figure>
 
 		<h2>Sources et bibliographie</h2>
 

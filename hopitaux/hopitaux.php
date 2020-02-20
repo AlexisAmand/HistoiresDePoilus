@@ -5,8 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>Les hôpitaux pendant la Grande Guerre - Histoires de Poilus</title>
-        <meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles pendant la Première Guerre Mondiale" name="description">
+        <title>Les hôpitaux des Hauts-de-France pendant la Grande Guerre - Histoires de Poilus</title>
+        <meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles des Hauts-de-France pendant la Première Guerre Mondiale" name="description">
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -124,7 +124,7 @@
 
 		<figure>
 			<a href="images/hopital-denain.jpg" data-fancybox="gallery" data-caption="Hôpital de Denain pendant la Grande Guerre">
-			<img src="miniatures/hopital-denain.jpg" alt="L'Hôpital de Denain pendant la Premiére Guerre Mondiale"></a>
+			<img src="miniatures/hopital-denain.jpg" alt="L'Hôpital de Denain pendant la Première Guerre Mondiale"></a>
 			<figcaption>L'Hôpital de Denain<br>(Source: Archives Municipales de Valenciennes)</figcaption>
 		</figure>
 
@@ -132,13 +132,13 @@
 
 		<figure>
 			<a href="images/Hôpital_de_la_Fraternité.jpeg" data-fancybox="gallery" data-caption="Hôpital de la Fraternité à Roubaix">
-			<img src="miniatures/Hôpital_de_la_Fraternité.jpeg" alt="L'Hôpital de Roubaix pendant la Premiére Guerre Mondiale"></a>
+			<img src="miniatures/Hôpital_de_la_Fraternité.jpeg" alt="L'Hôpital de Roubaix pendant la Première Guerre Mondiale"></a>
 			<figcaption>Hôpital de la Fraternité<br>(Source: Médiathèque de Roubaix)</figcaption>
 		</figure>
 
 		<figure>
 			<a href="images/Hôpital_de_la_Fraternité-02.jpeg" data-fancybox="gallery" data-caption="Hôpital de la Fraternité à Roubaix">
-			<img src="miniatures/Hôpital_de_la_Fraternité-02.jpeg" alt="L'Hôpital de Roubaix pendant la Premiére Guerre Mondiale"></a>
+			<img src="miniatures/Hôpital_de_la_Fraternité-02.jpeg" alt="L'Hôpital de Roubaix pendant la Première Guerre Mondiale"></a>
 			<figcaption>Hôpital de la Fraternité vers 1914<br>(Source: Médiathèque de Roubaix)</figcaption>
 		</figure>
 

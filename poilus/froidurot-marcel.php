@@ -103,7 +103,7 @@
         <p>Il est envoyé en congés illimités de démobilisation le 24 août 1919 et se retire à Besançon, au 4 bis de la rue Charles Mortier.</p>
 
         <figure>
-            <a href="../hopitaux/images/caserne-brun.jpg" data-fancybox="gallery" data-caption="La caserne brun (La Butte) à Besançon">
+            <a href="../hopitaux/images/caserne-brun.jpg" data-fancybox="gallery" data-caption="La caserne brun, dite La Butte, à Besançon">
             <img src="../hopitaux/miniatures/caserne-brun.jpg" alt="La caserne Brun à Besançon"/></a>
             <figcaption>La caserne brun (La Butte) à Besançon<br />(source: Delcampe)</figcaption>
         </figure>

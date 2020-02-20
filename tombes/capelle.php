@@ -5,8 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>Relevé des morts pour la France de Capelle-sur-Ecaillon - Histoires de Poilus</title>
-        <meta content="relevés des soldats et des civils de Capelle-sur-Ecaillon morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or" name="description">
+        <title>Les morts pour la France de Capelle-sur-Ecaillon - Histoires de Poilus</title>
+        <meta content="Les soldats et les civils de Capelle-sur-Ecaillon morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or" name="description">
 
         <link rel="stylesheet" href="../css/style.css" media="screen">
         <link rel="stylesheet" href="../css/resp.css" media="screen">
@@ -99,13 +99,11 @@
         <p>Soldat au 127e Régiment d'Infanterie, Léon Paul BASUYAU est né à Capelle-sur-Ecaillon (Nord) le 20 avril 1889. Il est tué à l'ennemi à Menil-les-Hurlus (Marne) le 19 février 1915. Son nom figure sur le monument aux morts et dans le livre d'or de la commune.</p>
 
         <figure>
-            <a href="images/Carnet_de_guerre_Albert_Labbé_plan_article.png" data-fancybox="gallery" data-caption=" ">
-            <img src="images/mini/Carnet_de_guerre_Albert_Labbé_plan_article.png" alt=" "/></a>
+            <a href="images/Carnet_de_guerre_Albert_Labbé_plan_article.png" data-fancybox="gallery" data-caption="Plan de l'avancée de l'armée française dans la région de Perthes-les-Hurlus (1915)">
+            <img src="images/mini/Carnet_de_guerre_Albert_Labbé_plan_article.png" alt="Plan de l'avancée de l'armée française dans la région de Perthes-les-Hurlus daté du 15 février 1915"/></a>
             <figcaption>Plan de l'avancée de l'armée française dans la région de Perthes-les-Hurlus le 15 février 1915
-            <br>d'après le carnet de guerre d'Albert Labbé
-            <br>(Source: Wikipedia Commons)</figcaption>
+            <br>d'après le carnet de guerre d'Albert Labbé<br>(Source: Wikipedia Commons)</figcaption>
         </figure>
-
 
         <h2>Edouard Gaston DECOSTER</h2>
 

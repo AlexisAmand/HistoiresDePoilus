@@ -80,7 +80,7 @@
 
         <figure>
             <a href="images/Amersfoort/amersfoort-01.jpg" data-fancybox="gallery" data-caption="Le camp de Amersfoort">
-            <img src="miniatures/Amersfoort/amersfoort-01.jpg" alt="Le camp d'internement d'Amersfoort pendant la Première Guerre Mondiale"></a>
+            <img src="miniatures/Amersfoort/amersfoort-01.jpg" alt="Le camp d'internement d'Amersfoort aux Pays-Bas pendant la Première Guerre Mondiale"></a>
             <figcaption>Le camp de Amersfoort<br>(source : Delcampe)</figcaption>
         </figure>
 

@@ -122,7 +122,7 @@
 
         <h1>Auguste Victor FIEVET</h1>
 
-        <p><strong>Auguste Victor FIEVET</strong> est né à Lille (Nord) le 8 janvier 1890. Il est le fils légitime de Charles Jules FIEVET, fileur de coton, âgé de 28 ans et de Marie Roseline LOHIEZ, âgée de 19 ans. Il a pour frère <a href="FIEVET-Charles-Augustin.php">Charles Augustin</a>.</p>
+        <p><strong>Auguste Victor FIEVET</strong> est né à Lille (Nord) le 8 janvier 1890. Il est le fils légitime de Charles Jules FIEVET, fileur de coton, âgé de 28 ans et de Marie Roseline LOHIEZ, âgée de 19 ans. Il a pour frère <a href="FIEVET-Charles-Augustin.php" title="Biographie du soldat Charles Augustin FIEVET">Charles Augustin</a>.</p>
 
         <br>
 

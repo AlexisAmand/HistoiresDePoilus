@@ -125,13 +125,13 @@
         <p><strong>Théophile  CARIN</strong> est né le 19 août 1879 à Lourches (Nord), fils légitime de  François Louis CARIN et de Pauline DUSSART. Il s'unit avec Zélia  BRASSEUR (née en 1886), mon arrière-arrière-grand-mère,  le  vendredi 14 août 1908 à Lourches. <strong>Théophile</strong> n'est pas parent avec moi. Il a juste épousé une de mes aïeules.</p>
 
         <figure>
-            <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="La famille CARIN">
+            <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="Arbre généalogique de la famille CARIN">
             <img src="miniatures/arbre-carin.png"  alt="arbre généalogique de la Famille Carin de Lourches et Roeulx"   class="ArbreGenealogique"></a>
             <figcaption>Arbre généalogique de la famille CARIN<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
         <figure>
-            <a href="sources/CARIN-matricule-03.jpg" data-fancybox="gallery" data-caption="Théophile CARIN - Extrait de sa fiche matricule">
+            <a href="sources/CARIN-matricule-03.jpg" data-fancybox="gallery" data-caption="Extrait de sa fiche matricule de Théophile CARIN">
             <img src="miniatures/CARIN-matricule-03.jpg" alt="Extrait de la fiche matricule de Théophile CARIN"/></a>
             <figcaption>Extrait de sa fiche matricule<br>(Source: Archives Départementales du Nord)</figcaption>
         </figure>
@@ -205,13 +205,13 @@
         <p>Du 29 septembre 1914 au 14 août 1916, Théophile est affecté "<strong>Aux armées d'Algérie</strong>".</p><p> A partir du 9 août 1916, <strong>Théophile CARIN</strong> passe au <strong>4e Bataillon d'Infanterie Légère d'Afrique</strong> jusqu'au 16 août 1918, date de sa fusion avec le 5e bataillon d'Afrique. Le 4e bataillon est successivement commandé par le chef de bataillon Ardit, puis par le chef de bataillon FLOUCAUT de FOURCROY.</p>
 
         <figure>
-            <a href="images/tatahouine.jpg" data-fancybox="gallery" data-caption="Tatahouine (Tunisie) - Vu d'ensemble du camp">
+            <a href="images/tatahouine.jpg" data-fancybox="gallery" data-caption="Vu d'ensemble du camp de Tatahouine (Tunisie)">
             <img src="miniatures/tatahouine.jpg" alt="Vue d'ensemble du camp de Tatahouine en Tunisie au début du XXe siècle"/></a>
             <figcaption>Vue d'ensemble du camp de Tatahouine (Tunisie)<br>(Cliquez pour agrandir)</figcaption>
         </figure>
 
         <figure>
-            <a href="images/camp-Tatahouine.jpg" data-fancybox="gallery" data-caption="Tatahouine (Tunisie) - Le camp retranché">
+            <a href="images/camp-Tatahouine.jpg" data-fancybox="gallery" data-caption="Le camp retranché de Tatahouine (Tunisie)">
             <img src="miniatures/camp-Tatahouine.jpg" alt="Le camp retranché de Tatahouine pendant la campagne de 1915-1916"/></a>
             <figcaption>Le camp retranché de Tatahouine (Tunisie)<br>(Cliquez pour agrandir)</figcaption>
         </figure>

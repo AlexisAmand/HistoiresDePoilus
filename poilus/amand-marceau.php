@@ -6,7 +6,7 @@
         <meta charset="utf-8">
 
         <title>Biographie et parcours du soldat Marceau AMAND - Histoires de Poilus</title>
-        <meta content="Parcours et biographie du Marcea AMAND, soldat français pendant la Première Guerre Mondiale" name="description"/>
+        <meta content="Parcours et biographie du Marceau AMAND, soldat français originaire du Nord, pendant la Première Guerre Mondiale" name="description"/>
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">

@@ -6,7 +6,7 @@
     <meta charset="utf-8">
 
     <title>Le monument anglais d'Awoingt - Histoires de Poilus</title>
-    <meta content="relevés des soldats et des civils de Gélannes (Aube) morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or" name="description">
+    <meta content="Les monuments britanniques de la Première Guerre Mondiale situé à Awoingt dans le Nord de La France" name="description">
 
     <link rel="stylesheet" href="../css/style.css" media="screen">
     <link rel="stylesheet" href="../css/resp.css" media="screen">
@@ -108,7 +108,7 @@
           <figcaption>Aux anglais morts à Awoingt le 9 octobre 1918<br>(source : photo personnelle)</figcaption>
       </figure>
 
-      <div id="cma"></div>      
+      <div id="cma"></div>
 
       <h2>Awoingt British Cemetery</h2>
 

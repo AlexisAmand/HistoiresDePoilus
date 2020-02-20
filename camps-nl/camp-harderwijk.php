@@ -77,26 +77,26 @@
         <h1>Le camp d'internement de Harderwijk</h1>
 
         <figure>
-            <a href="images/Harderwijk/harderwijk-01.jpg" data-fancybox="gallery" data-caption="Le camp de Harderwijk">
-            <img src="miniatures/Harderwijk/harderwijk-01.jpg" alt="Une cantine du camp d'internement de Harderwijk pendant la Grande Guerre"></a>
+            <a href="images/Harderwijk/harderwijk-01.jpg" data-fancybox="gallery" data-caption="Le camp de Harderwijk aux Pays-Bas">
+            <img src="miniatures/Harderwijk/harderwijk-01.jpg" alt="Une cantine du camp d'internement de Harderwijk aux Pays-Bas pendant la Grande Guerre"></a>
             <figcaption>Une cantine à Harderwijk<br>(source : Delcampe)</figcaption>
         </figure>
 
         <figure>
-            <a href="images/Harderwijk/harderwijk-02.jpg" data-fancybox="gallery" data-caption="Le camp de Harderwijk">
-            <img src="miniatures/Harderwijk/harderwijk-02.jpg" alt="Le camp d'internement d'Harderwijk pendant la Première Guerre Mondiale"></a>
+            <a href="images/Harderwijk/harderwijk-02.jpg" data-fancybox="gallery" data-caption="Le camp de Harderwijk aux Pays-Bas">
+            <img src="miniatures/Harderwijk/harderwijk-02.jpg" alt="Le camp d'internement d'Harderwijk aux Pays-Bas pendant la Première Guerre Mondiale"></a>
             <figcaption>Le camp de Harderwijk<br>(source : Delcampe)</figcaption>
         </figure>
 
         <figure>
-            <a href="images/Harderwijk/harderwijk-03.jpg" data-fancybox="gallery" data-caption="Le camp de Harderwijk">
-            <img src="miniatures/Harderwijk/harderwijk-03.jpg" alt="Le camp d'internement d'Harderwijk pendant la Grande Guerre"></a>
+            <a href="images/Harderwijk/harderwijk-03.jpg" data-fancybox="gallery" data-caption="Le camp de Harderwijk aux Pays-Bas">
+            <img src="miniatures/Harderwijk/harderwijk-03.jpg" alt="Le camp d'internement d'Harderwijk aux Pays-Bas pendant la Grande Guerre"></a>
             <figcaption>Le camp de Harderwijk<br>(source : Delcampe)</figcaption>
         </figure>
 
         <figure>
-            <a href="images/Harderwijk/harderwijk-04.jpg" data-fancybox="gallery"  title="Le camp de Harderwijk">
-            <img src="miniatures/Harderwijk/harderwijk-04.jpg" alt="Salle de billards des soldats du camps d'internement d'Harderwijk pendant la Première Guerre Mondiale"></a>
+            <a href="images/Harderwijk/harderwijk-04.jpg" data-fancybox="gallery"  title="Le camp de Harderwijk aux Pays-Bas">
+            <img src="miniatures/Harderwijk/harderwijk-04.jpg" alt="Salle de billards des soldats du camps d'internement aux Pays-Bas d'Harderwijk pendant la Première Guerre Mondiale"></a>
             <figcaption>La salle de billards des soldats<br>(source : Delcampe)</figcaption>
         </figure>
 

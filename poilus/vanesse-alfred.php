@@ -6,7 +6,7 @@
         <meta charset="utf-8">
 
         <title>Biographie et parcours du soldat Alfred Vanesse - Histoires de Poilus</title>
-        <meta content="Parcours de Alfred VANESSE pendant la Première Guerre Mondiale." name="description"/>
+        <meta content="Parcours du soldat de 2e classe Alfred VANESSE, né à Denain, pendant la Première Guerre Mondiale." name="description"/>
          
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">

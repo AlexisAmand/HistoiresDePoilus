@@ -122,7 +122,7 @@
 
         <h1>Charles Augustin FIEVET</h1>
 
-        <p><strong>Charles Augustin FIEVET</strong>, le père de mon arrière-grand-père (Kleber pour ceux qui lisent régulièrement <a href="http://www.genealexis.fr">mon blog</a>), est né le dimanche 3 décembre 1882 à Lille (Nord). Il est le fils de Charles Jules Henri, fileur de Coton, âgé de 28 ans et de Marie Roseline LOHIEZ, âgée de 19 ans. Il a pour frère <a href="FIEVET-Auguste-Victor.php">Auguste Victor</a>. </p>
+        <p><strong>Charles Augustin FIEVET</strong>, le père de mon arrière-grand-père (Kleber pour ceux qui lisent régulièrement <a href="http://www.genealexis.fr" title="Site personnel de généalogie d'Alexis AMAND">mon blog</a>), est né le dimanche 3 décembre 1882 à Lille (Nord). Il est le fils de Charles Jules Henri, fileur de Coton, âgé de 28 ans et de Marie Roseline LOHIEZ, âgée de 19 ans. Il a pour frère <a href="FIEVET-Auguste-Victor.php" title="Biographie du soldat Auguste Victor FIEVET">Auguste Victor</a>. </p>
 
         <figure>
             <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
@@ -131,8 +131,8 @@
         </figure>
 
         <figure>
-            <a href="portraits/charles-augustin-FIEVET.jpg" data-fancybox="gallery" data-caption="Charles Augustin FIEVET">
-            <img src="miniatures/charles-augustin-FIEVET.jpg" height="278" alt="Portrait de Charles Augustin FIEVET"/></a>
+            <a href="portraits/charles-augustin-FIEVET.jpg" data-fancybox="gallery" data-caption="Portrait Charles Augustin FIEVET">
+            <img src="miniatures/charles-augustin-FIEVET.jpg" height="278" alt="Portrait de Charles Augustin FIEVET issu d'une photo de famille"/></a>
             <figcaption>Charles Augustin FIEVET<br>(Source: Archives familiales)</figcaption>
         </figure>
 
@@ -171,7 +171,7 @@
         <p>La photo ci-dessus date sans doute du début des années 20. Il s'agit d'un extrait d'une photo de groupe prise lors du conseil de révision de son fils Charles Jules Henri. De gauche à droite, on trouve Kleber Camille (né en 1910, fils de Charles Augustin), Charles Jules (père de Charles Augustin), Charles Jules Henri (né en 1903) et Charles Augustin... j'espère que vous avez suivi avec attention...</p>
 
         <figure>
-            <a href="portraits/Le-conseil-de-revision.jpg" data-fancybox="gallery" data-caption="Le conseil de révision">
+            <a href="portraits/Le-conseil-de-revision.jpg" data-fancybox="gallery" data-caption="Les FIEVET au conseil de révision">
             <img src="miniatures/Le-conseil-de-revision.jpg" alt="La famille FIEVET au conseil de révision"/></a>
             <figcaption>Le conseil de révision<br>(Source: Archives familiales)</figcaption>
         </figure>
@@ -180,7 +180,7 @@
 
         <h2>La mobilisation d'août 1914</h2>
 
-        <p>Soldat de 2e classe âgé de 32 ans en 1914, <strong>Charles Augustin</strong> est mobilisé et rejoint le <strong>162e Régiment d'Infanterie</strong>. Je connais peut de chose sur son destin pendant le conflit. Mon seul indice ? Il est prisonnier de guerre à <a href="../camps/camp-gardelegen.php">Gardelegen (Allemagne)</a>. </p>
+        <p>Soldat de 2e classe âgé de 32 ans en 1914, <strong>Charles Augustin</strong> est mobilisé et rejoint le <strong>162e Régiment d'Infanterie</strong>. Je connais peut de chose sur son destin pendant le conflit. Mon seul indice ? Il est prisonnier de guerre à <a href="../camps/camp-gardelegen.php" title="Le camp de prisonnier de Gardelegen">Gardelegen (Allemagne)</a>. </p>
 
         <figure>
             <a href="images/matricule-charles-fievet.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Charles Augustin (Extrait)">

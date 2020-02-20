@@ -125,7 +125,7 @@
         <p><strong>Louis Henri ROUSSEAUX</strong> est né le 8 août 1883 à Lille (Nord), rue du marché. Il est le fils légitime d'Achille Léopold ROUSSEAUX, plafonneur, âgé de 20 ans et de Clara Elisa AUGEZ, âgée de 17 ans. Il est né AUGEZ et est reconnu et légitimé par le mariage de ses parents célébré à Lille le 27 décembre 1884. Louis Henri ROUSSEAUX épouse Hélène Adeline CANONNE à Lille le 30 juillet 1907.</p>
 
         <figure>
-            <a href="images/rousseau-louis-henri-matricule.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Louis Henri ROUSSEAUX">    
+            <a href="images/rousseau-louis-henri-matricule.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Louis Henri ROUSSEAUX">
             <img src="miniatures/rousseau-louis-henri-matricule.jpg" alt="Extrait de la fiche matricule du soldat Louis Henri ROUSSEAUX"></a>
             <figcaption>Extrait de sa fiche matricule<br>(source: Archives Départementales du Nord)</figcaption> 
         </figure>
@@ -167,7 +167,7 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>       
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

@@ -125,9 +125,9 @@
 		<p>Pour info, Jean Baptiste a plusieurs frères et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-joseph.php" title="Biographie du soldat Joseph CARIN">Joseph</a>, <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
 		
 		<figure>
-            <a href="sources/jb-carin-circ.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="miniatures/jb-carin-circ.jpg" alt=" "/></a>
-            <figcaption>Fiche CICR<br>(Source: Croix Rouge)</figcaption>
+            <a href="sources/jb-carin-circ.jpg" data-fancybox="gallery" data-caption="Fiche de la Croix-Rouge de Jean-Baptiste CARIN">
+            <img src="miniatures/jb-carin-circ.jpg" alt="Fiche de prisonnier issue des archives de la Croix-Rouge concernant Jean-Baptiste CARIN"/></a>
+            <figcaption>Fiche de la Croix-Rouge<br>(Source: Croix Rouge)</figcaption>
         </figure>
 
         <p style="text-align:right">A suivre...</p>

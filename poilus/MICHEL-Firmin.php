@@ -130,13 +130,12 @@
        <p>Sa fiche, retrouvée sur le site "Mémoire des Hommes", nous apprend qu'il dépendait du bureau de Reims (Marne) pour son recrutement et que son acte de décès a été retranscrit sur l'état civil de Betheniville (Marne), où son nom figure sur le Monument aux Morts. <strong>Firmin</strong> repose aujourd'hui à la Nécropole Nationale de Bras-sur-Meuse (Tombe 50) </p>
 
         <figure>
-            <a href="../tombes/images/betheniville-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Bétheniville - Le Monument aux Morts">
+            <a href="../tombes/images/betheniville-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Bétheniville">
             <img src="../tombes/images/mini/betheniville-monument-aux-morts.jpg" alt="le Monument aux Morts de Bétheniville sur une carte postale ancienne"/></a>
             <figcaption>Le Monument du Souvenir (guerre 1914-1918)<br>(Source: Delcampe)</figcaption>
         </figure>
 
-        <p>Son fils <strong>Firmin</strong>, né le 7 janvier 1914 à Bétheniville, sera mobilisé en 1939 et rejoindra le <strong>8e Régiment de Zouaves</strong>. Capturé le 4 juin 1940 à Malo-les-Bains, il est emmené en captivité au Stalag VI A (a compté du 3 juillet 1940 à Hener Iserlhom) puis au Stalag VI H (Arnoldsweiler–duren, matricule 20495, liste du 11 juillet 1940). Il est décédé de maladie le 5 janvier 1941 à Aix-la-Chapelle (Allemagne)  à l'hôpital de réserve à Aachen.</p>
-        <p>Mais ça, c'est une autre histoire...</p>
+        <p>Son fils <strong>Firmin</strong>, né le 7 janvier 1914 à Bétheniville, sera mobilisé en 1939 et rejoindra le <strong>8e Régiment de Zouaves</strong>. Capturé le 4 juin 1940 à Malo-les-Bains, il est emmené en captivité au Stalag VI A (a compté du 3 juillet 1940 à Hener Iserlhom) puis au Stalag VI H (Arnoldsweiler–duren, matricule 20495, liste du 11 juillet 1940). Il est décédé de maladie le 5 janvier 1941 à Aix-la-Chapelle (Allemagne)  à l'hôpital de réserve à Aachen.</p><p>Mais ça, c'est une autre histoire !</p>
 
         <h2>Saint-Hilaire-le-Petit pendant la Grande Guerre</h2>
 

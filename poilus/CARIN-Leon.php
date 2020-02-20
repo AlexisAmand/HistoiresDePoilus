@@ -125,7 +125,7 @@
         <p>Léon CARIN est né à Lourches (Nord) le 28 juillet 1896, fils légitime de François Louis CARIN et de Pauline DUSSART. En 1906, Léon vit Rue de Beauvois à Lourches, avec ses parents et ses frères et sœurs.</p>
 
         <figure>
-            <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="La famille CARIN">
+            <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="Arbre généalogique de la famille CARIN">
             <img src="miniatures/arbre-carin.png" alt="arbre généalogique de la Famille Carin de Lourches et Roeulx"  class="ArbreGenealogique"></a>
             <figcaption>Arbre généalogique de la famille CARIN<br>(cliquez pour agrandir)</figcaption>
         </figure>
