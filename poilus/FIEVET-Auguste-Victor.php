@@ -251,6 +251,7 @@
         <ul>
             <li><a href="http://archives.genealexis.fr/image/115-page-01" title="version numérisée du dossier d'ancien combattant d'Auguste FIEVET">Le dossier d'ancien combattant d'Auguste FIEVET</a></li>
             <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>     
+	        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

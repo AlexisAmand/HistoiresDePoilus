@@ -184,11 +184,11 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <?php /* TODO : pour le lien... il faut mettre le titre */ ?>
             <li>http://gallicalabs.bnf.fr/ark:/12148/bpt6k65295400</li>
             <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
             <li><a href="../pdf/book02.pdf">Le traitement des prisonniers français en Allemagne</a> (J. De Christmas, 1917)</li>
             <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
+            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

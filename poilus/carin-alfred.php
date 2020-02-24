@@ -125,12 +125,12 @@
         <p>Pour info, Alfred a plusieurs frères et soeurs dont <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="carin-joseph.php" title="Biographie du soldat Joseph CARIN">Joseph</a>, <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
         
         <p style="text-align:right">A suivre...</p>
-
+        
         <h2>Sources et bibliographie</h2>
-
+        
         <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">
-            Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>       
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

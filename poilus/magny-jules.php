@@ -133,6 +133,13 @@
         <br />
 
         <p>Abel, le frère de Jules MAGNY, épouse la fille de <a href="JOLY-Noel-Jules.php" title="biographie de Noël Jules JOLY">Noël Jules JOLY</a>.</p>
+        
+        <h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
+        </ul>
 
         <p style="text-align:right">A suivre...</p>
 

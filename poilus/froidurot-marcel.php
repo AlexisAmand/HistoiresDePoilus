@@ -110,6 +110,14 @@
 
         <p>Au niveau de sa vie privée, je n'ai pas grand chose à vous raconter, mais aprés son retour à la vie civile, il vit quelques années rue du Prévost à Beauvais (Oise). Le 21 octobre 1915, il avait épousé, à la mairie de Besançon, Adélaïde DUPAS.ArbreGenealogique. Il est décédé à Semur le 4 décembre 1965.</p>
 
+	    <h2>Sources et bibliographie</h2>
+
+        <ul>
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+            <li><a href="http://archives.cotedor.fr/v2/site/ad21/">Archives départementales de Côte-d'Or</a></li>
+            <li><a href="https://aetdebesancon.home.blog/">Hier et aujourd'hui à Besançon</a><li>
+        </ul>
+
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 
         </article>

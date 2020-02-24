@@ -132,34 +132,6 @@
 
         <p>Comme lui, il est le fils de Druon Joseph CARLIER et de Sidonie Célestine PATOU. Ouvrier agricole chez LENGRAND à Sebourg, Louis s'unit avec Volaine GRAVELLE. Le couple aura 5 enfants: Valérine (née en 1869), Louis Druon (né en 1898), Yvonne (née en 1901), Louise (née en 1903) et Blondine Clémence (née en 1908). En 1906, il est ouvrier agricole chez Lengrand et vit à Sebourg (Rue de l'église) avec son épouse, Volcide GRAVELLE, et ses 4 enfants: Olia, Louis, Yvonne et Louise.</p>
 
-        <table class="census">
-        <caption>Liste des domiciles de Louis</caption>
-            <thead>
-            <tr>
-                <th id="date">Date</th>
-                <th id="adresse">Adresse</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-                <td headers="date"></td>
-                <td headers="adresse"></td>
-            </tr>
-            <tr>
-                <td headers="date"></td>
-                <td headers="adresse"></td>
-            </tr>
-            <tr>
-                <td headers="date"></td>
-                <td headers="adresse"></td>
-            </tr>
-            <tr>
-                <td headers="date"></td>
-                <td headers="adresse"></td>
-            </tr>
-            </tbody>
-        </table>
-
         <h2>La mobilisation d'août 1914</h2>
 
         <p>Âgé de 43 ans en 1914, <strong>Louis Abraham</strong> est mobilisé comme la plupart des hommes de sa génération et devient auxiliaire de place forte au sein de la 1re batterie (3e selon certaines sources) du <strong>1er Régiment d'Artillerie à Pied</strong>. En 1914, l'artillerie à pied est réservée à la défense d'une zone que l'on appelle groupe  et a en charge outre la défense de ce groupe, celle des forts et ouvrages. Il est cantonné au groupe de Grévaux, sous les ordres  Capitaine BOCQUET.</p>

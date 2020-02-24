@@ -122,6 +122,13 @@
 
         <p>Evacué sur le camp de Mannheim, Gaston Roussel, membre du Ier Régiment de Zouaves y a vécu au premier semestre 1916. Transféré en Suisse le 25 juillet 1916 pour tuberculose pulmonaire, il raconte que le camp manquait de bancs et de sièges, ce qui obligeait les prisonniers à rester debout, puisqu'on leur défendait de s'asseoir sur leurs sacs de couchage. Il raconte également que <em>"la nourriture à Mannheim était excessivement mauvaise, et que les prisonniers étaient brutalisés. La punition au poteau n'y était pas employée, mais les hommes étaient envoyés au cachot sous des prétextes futiles""</em>".</p>
 
+        <h2>Sources et bibliographie</h2>
+
+        <ul>
+            <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
+            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+        </ul>
+
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
 
         </article>

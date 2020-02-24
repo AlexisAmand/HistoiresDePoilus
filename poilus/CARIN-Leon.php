@@ -182,7 +182,7 @@
         <ul>
             <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
             <li><a href="https://archive.org/details/19141918iedixneu01chriuoft">La Grande Guerre, vécue - racontée - illustrée par les combattants (tome 1)</a><br>(Publiée sous la Direction de Christian-Frogé, 1922)</li>
-            <li><a href="http://grandeguerre.icrc.org/fr" title="Comité international de la Croix-Rouge">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
+            <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense">Mémoire des Hommes</a> (Ministère de la Défense)</li>
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

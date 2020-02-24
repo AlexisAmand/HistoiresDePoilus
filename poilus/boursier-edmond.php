@@ -125,6 +125,13 @@
         <p><strong>Edmond BOURSIER</strong>, frère de <a href="BOURSIER-Jules.php" title="Biographie du poilu Jules BOUSIER">Jules Henri</a>, né le 10 avril 1882, dont je n'ai pas encore pu trouver la fiche matricule. En 1906, il est ajusteur et vit Rue De La Chevauchoire à Onnaing, avec son frère Jules et ses parents. Etant âgé de 32 ans en 1914, je pense qu'il a du être mobilisé.</p>
 
         <p style="text-align:right">A suivre...</p>
+        
+        <h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
+        </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         

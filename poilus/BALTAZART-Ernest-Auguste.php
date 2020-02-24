@@ -190,6 +190,7 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
+	        <li><a href="https://archives.marne.fr/">Archives départementales de la Marne</a></li>
             <li>"Le Monde Illustré" du 15 juillet 1922 (Gallica / BNF)</li>
             <li><a href="../pdf/matricule-baltazart-ernest.pdf" title="Fiche matricule d'Ernest Auguste BALTAZART">Fiche matricule d'Ernest Auguste BALTAZART</a></li>
             <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>

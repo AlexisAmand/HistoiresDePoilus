@@ -231,10 +231,11 @@
         <p>Pour info, Théophile a plusieurs frères et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="carin-joseph.php" title="Biographie du soldat Joseph CARIN">Joseph</a> et <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
 
         <h2>Sources et bibliographie</h2>
-
+        
         <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">
-            Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>       
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://grandeguerre.icrc.org/">Archives de la Croix Rouge</a></li>
+	        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

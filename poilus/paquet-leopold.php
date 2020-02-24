@@ -196,6 +196,13 @@
         <h3>21 octobre 1922</h3>
 
         <p>Pension de 18000 concédée par arrêté en date du 21 octobre 1922 avec jouissance du 24 août 1921.</p>
+        
+       	<h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archives.marne.fr/">Archives départementales de la Marne</a></li>
+        </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         

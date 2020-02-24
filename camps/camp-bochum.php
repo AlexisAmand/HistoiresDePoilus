@@ -122,6 +122,14 @@
             <figcaption>Localisation du camp de Bochum<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
+        <h2>Sources et bibliographie</h2>
+
+        <ul>
+            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+            <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>
+            <li><a href="https://amzn.to/2MTTkR9" title="Les prisonniers de guerre dans l'histoire">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
+        </ul>
+
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         
         </article>

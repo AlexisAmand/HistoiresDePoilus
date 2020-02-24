@@ -93,6 +93,13 @@
 
         <p>Retrouvez bientôt sur cette page une biographie de Gaston ARNOULD, incorporé au 40e Régiment d'Artillerie de Campagne en tant que canonnier de 2e classe à compté du 26 novembre 1913.</p>
 
+		<h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archives.marne.fr/">Archives départementales de la Marne</a></li>
+        </ul>
+
         <p style="text-align:right">A suivre...</p>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

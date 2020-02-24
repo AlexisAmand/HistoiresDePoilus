@@ -142,7 +142,13 @@
 		
 		Alors que les Français décédés ont été transférés dans leur patrie après la guerre, les ossements de 321 Russes sont restés dans le cimetière dit russe de la Lagerstraße. Le 17 octobre 1917, le Nonce apostolique Eugenio Pacelli visite le camp.</p> 
 	
-		<p>sources : wikipedia</p>
+        <h2>Sources et bibliographie</h2>
+
+        <ul>
+            <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
+            <li>Wikipedia</li>
+            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+        </ul>
 	
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         

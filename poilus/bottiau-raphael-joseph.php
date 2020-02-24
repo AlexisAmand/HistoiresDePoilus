@@ -186,7 +186,14 @@
             <figcaption>Acte de décès de Raphaël BOTTIAU<br>(Source: Archives Départementales du Nord)</figcaption>
         </figure>
 
-        <p class="note"><sup>1</sup>Selon DBL, de Twitter, il s'agit de l'actuelle rue Farès El Khoumi, parallèle à l'avenue de la République, qui longe le port.</p>    
+        <p class="note"><sup>1</sup>Selon DBL, de Twitter, il s'agit de l'actuelle rue Farès El Khoumi, parallèle à l'avenue de la République, qui longe le port.</p>
+        
+        <h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
+        </ul>    
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         

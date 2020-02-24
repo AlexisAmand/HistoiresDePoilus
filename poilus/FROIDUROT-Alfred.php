@@ -126,6 +126,8 @@
 
         <ul>
             <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+            <li><a href="http://www.archives-nationales.culture.gouv.fr/web/guest/home">Archives Nationales (base Léonore)</a></li>
+            <li><a href="http://archives.cotedor.fr/v2/site/ad21/">Archives départementales de Côte-d'Or</a></li>
         </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>

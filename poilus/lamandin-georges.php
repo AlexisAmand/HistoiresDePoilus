@@ -131,6 +131,14 @@
             <img src="miniatures/georges-lamandin-mpf.jpg" alt='Fiche "Mort pour la France" de Georges LAMANDIN'/></a>
             <figcaption>Georges, Mort pour la France<br>(Source : Mémoire des Hommes)</figcaption>
         </figure>
+        
+        <h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://grandeguerre.icrc.org/">Archives de la Croix Rouge</a></li>
+	        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
+        </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         

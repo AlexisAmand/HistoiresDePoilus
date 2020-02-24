@@ -163,8 +163,9 @@
             <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>
             <li><a href="../pdf/book02.pdf">Le traitement des prisonniers français en Allemagne</a> (J. De Christmas, 1917)</li>
             <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre, 1924)</li>
-            <li>Delcampe (pour les cartes postales)</li>  
-        </ul>    
+            <li>Delcampe (pour les cartes postales)</li>
+            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+        </ul>
 
         <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
         
