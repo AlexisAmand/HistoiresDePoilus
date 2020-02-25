@@ -42,12 +42,12 @@
 
     <nav>
         <a href="contact.php">Contact</a>
-        <a href="webographie.php">Webographie</a>
+        <a href="webographie.php">Les Ressources</a>
         <a href="lieux.php">Les Batailles</a>
-        <a href="camps.php">Les Camps</a>
+        <a href="camps.php" class="NavSelected">Les Camps</a>
         <a href="tombes.php">Les Tombes</a>
         <a href="hopitaux/hopitaux.php">Les Hôpitaux</a>
-        <a href="poilus.php" class="NavSelected">Les Poilus</a>
+        <a href="poilus.php">Les Poilus</a>
     </nav>
 
     <div id="navbis">

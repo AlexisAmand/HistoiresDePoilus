@@ -8,7 +8,7 @@
 	<li><a href="../tombes.php">Les Tombes</a></li>
 	<li><a href="../camps.php">Les Camps</a></li>
 	<li><a href="../lieux.php">Les Batailles</a></li>
-	<li><a href="../webographie.php">Webographie</a></li>
+	<li><a href="../webographie.php">Les Ressources</a></li>
 	<li><a href="../contact.php">Contact</a></li>
 </ul>
 

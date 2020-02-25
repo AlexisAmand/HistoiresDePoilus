@@ -5,8 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>Ressources en ligne sur la Première Guerre Mondiale - Histoires de Poilus</title>
-        <meta name="description" content="Selection de sites web pour retracer le parcours militaire de vos ancêtres poilus pendant la Première Guerre Mondiale">
+        <title>Bibliographie et webographie sur la Première Guerre Mondiale - Histoires de Poilus</title>
+        <meta name="description" content="Selection de livres et de sites web pour retracer le parcours militaire de vos ancêtres poilus pendant la Première Guerre Mondiale">
 
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/resp.css">
@@ -51,17 +51,18 @@
     </nav>
 
     <div id="navbis">
-        <a href="bibliographie.php">Les ressources bibliographiques</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="webographie.php">Les ressources en ligne</a>
+        <a href="bibliographie.php">Ressources bibliographiques</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="webographie.php">Ressources en ligne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="webographie.php">Ancienne page</a>
     </div>
 
     <section>
 
         <article style="margin-left:0px;">
 
-        <h1>Ressources en ligne</h1>
+        <h1>Biblio-webographie</h1>
 
-        <p>Vous trouverez sur cette page la liste de toutes les ressources en ligne (sites, blogs ou forums par exemple) qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php" title="contacter le webmaster">me contacter</a> si vous avez une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p>Certains documents sont <strong>des pdf</strong>, selon la configuration de votre ordinateur, ils peuvent mettre un petit moment à s'afficher. Pour les lire, vous devez posséder un logiciel comme <em>Adobe Reader</em>, que vous pouvez <a href="https://get.adobe.com/fr/reader/" title="télécharger gratuitement Adobe Reader">télécharger gratuitement ici</a>.</p>
+        <p>Vous trouverez sur cette page la liste de toutes les ressources qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. Il peut s'agir de sites web, de livres ou même de revues. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php" title="contacter le webmaster">me contacter</a> si vous avez une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p>Certains documents sont <strong>des pdf</strong>, selon la configuration de votre ordinateur, ils peuvent mettre un petit moment à s'afficher. Pour les lire, vous devez posséder un logiciel comme <em>Adobe Reader</em>, que vous pouvez <a href="https://get.adobe.com/fr/reader/" title="télécharger gratuitement Adobe Reader">télécharger gratuitement ici</a>.</p>
 
         <h2>Dossiers d'anciens combattants</h2>
 
@@ -89,10 +90,8 @@
         <h2>Historique des bataillons de chasseurs</h2>
 
         <ul>
-            <li><a href="pdf/Historique-12-BC.pdf" title="Historique du 12e bataillon de chasseurs">
-            Historique du 12e bataillon de chasseurs</a><br>(Gallica / Service historique de la Défense)</li>
-            <li><a href="pdf/Historique-19eBCP.pdf" title="Historique du 19e bataillon de chasseurs à Pied">
-            Historique du 19e Bataillon de Chasseurs à Pied</a><br>(Gallica / Service historique de la Défense)</li>
+            <li><a href="pdf/Historique-12-BC.pdf" title="Historique du 12e bataillon de chasseurs">Historique du 12e bataillon de chasseurs</a><br>(Gallica / Service historique de la Défense)</li>
+            <li><a href="pdf/Historique-19eBCP.pdf" title="Historique du 19e bataillon de chasseurs à Pied">Historique du 19e Bataillon de Chasseurs à Pied</a><br>(Gallica / Service historique de la Défense)</li>
         </ul>
 
         <br><br>    
@@ -109,8 +108,7 @@
         <h2>Historiques des régiments d'artillerie</h2>
 
         <ul>
-            <li><a href="pdf/53eRA.pdf" title="Historique des 53e et 253e Régiments d'Artillerie">
-            Historique des 53e et 253e Régiments d'Artillerie</a><br>(Anonyme, de Bussac, 1923) numérisé par Jean-François Joly</li>
+            <li><a href="pdf/53eRA.pdf" title="Historique des 53e et 253e Régiments d'Artillerie">Historique des 53e et 253e Régiments d'Artillerie</a><br>(Anonyme, de Bussac, 1923) numérisé par Jean-François Joly</li>
         </ul>
 
         <br><br>
@@ -160,6 +158,10 @@
             Die Kriegsgefangenen in Deutschland</a><br>(Hermann Montanus, 1915)</li>
             <li><a href="pdf/aus-deutschen-kriegsgefangenenlagern.pdf" title="Aus deutschen Kriegsgefangenenlagern écrit par la Deutsches Rotes Kreuz">
             Aus deutschen Kriegsgefangenenlagern</a><br>(Deutsches Rotes Kreuz)</li>
+            <li><a href="https://amzn.to/2Jfz7DO" title="Prisonniers 1914-1918 par Jean-Paul Briaste">
+            Prisonniers 1914-1918</a><br>(Editions Sulton / Jean-Paul Briaste)</li>
+            <li><a href="https://amzn.to/2xLG65W" title="Les oubliés de Grande Guerre par Annette Becker">
+            Les oubliés de la Grande Guerre</a><br>(par Annette Becker)</li>
             <li><a href="https://catalogue.bnf.fr/ark:/12148/cb32724205h">Bulletin de la Société de secours aux blessés militaires</a></li>
         </ul>
 
@@ -173,6 +175,11 @@
             <li><a href="pdf/labatailledelamarnes-01-hanotaux.pdf" title="La Bataille de la Marne par Gabriel Hanoteaux">La Bataille de la Marne (tome 1)</a><br>(University of Toronto / Gabriel Hanotaux)</li>
             <li><a href="pdf/souvenirsdelacampagnedelamarne.pdf" title="Souvenirs de la Campagne de la Marne par le Baron Von Hausen">Souvenirs de la Campagne de la Marne</a><br>(Brigham Young University / Baron Von Hausen, 1922)</li>
             <li><a href="pdf/recquignies-1914.pdf" title="Petite histoire de Recquignies et Rocq en 1914">Petite histoire de Recquignies et Rocq en 1914</a><br>(Anonyme)</li>
+            <li><a href="https://amzn.to/2vLNtXK" title="La Grande Guerre des français aux éditions Perrin">La Grande Guerre des français, 1914-1918</a><br>(Editions Perrin / Jean-Baptiste Durosselle, 1994)</li>
+            <li>Août 1914, La Bataille de Sarrebourg<br>(Joseph Elmerich, 1993)</li>
+            <li><a href="https://amzn.to/2MvPvVA" title="Encyclopédie de la Grande Guerre aux éditions Bayard">Encyclopédie de la Grande Guerre</a><br>(Editions Bayard / sous la direction de Stéphane Audouin-Rouzeau et Jean-Jacques Becker)</li>
+            <li><a href="https://amzn.to/2ODtfGA" title="Les Grandes Guerres, par Henry Rousso">Les Grandes Guerres 1914-1945</a><br>(Editions Belins / ouvrage dirigé par Henry Rousso)</li>
+            <li>The Great War of the British People<br>(Editions MacMillan / J. Winter, 1985)</li>
             <li><a href="https://archive.org/details/19141918iedixneu01chriuoft">La Grande Guerre, vécue - racontée - illustrée par les combattants (tome 1)</a><br>(Publiée sous la Direction de Christian-Frogé, 1922)</li>
             <li><a href="https://archive.org/details/19141918iedixneu02chriuoft">La Grande Guerre, vécue - racontée - illustrée par les combattants (tome 2)</a><br>(Publiée sous la Direction de Christian-Frogé, 1922)</li>
         </ul>
@@ -184,6 +191,27 @@
         <ul>
             <li><a href="http://histoire-de-la-douane.org" title="Site de l'Association pour l’Histoire de l’Administration des Douanes">Histoire de la douane</a><br>(Association pour l’Histoire de l’Administration des Douanes)</li>
             <li><a href="http://books.openedition.org/igpde/4474?lang=fr" title="Administration des douanes par Jean Clinquart">L'Administration des douanes en France de 1914 à 1940</a><br>(Par Jean Clinquart)</li>
+        </ul>
+
+        <br><br>
+
+        <h2>Revues sur la Grande Guerre</h2>
+
+        <p>Ces revues sont protégées par le droit d'auteur, je ne peux pas vous les proposer en téléchargement.</p>
+
+        <ul>
+            <li>Hachette, Connaissances de l'histoire, Hors-Série n°1 : Avions de Première Guerre Mondiale (1979)</li>
+            <li>Enquête sur l'Histoire n°12 : 1914-1918, la Grande Guerre (Automne 1994)</li>
+            <li>Histoire de la cavalerie n°13 : La cavalerie italienne dans la Première Guerre mondiale (2007)</li>
+            <li>Histoire de la cavalerie n°16 : La cavalerie britannique dans la Première Guerre mondiale (2007)</li>
+            <li>Histoire de la cavalerie n°31 : la cavalerie arabe dans la Première Guerre mondiale (2008)</li>
+            <li>Histoire de la cavalerie n°37 : La cavalerie française dans la Première Guerre Mondiale (2008)</li>             
+            <li>Histoire de la cavalerie n°41 : la cavalerie austro-hongroise dans la Première Guerre Mondiale (2008)</li>  
+            <li>Géo Histoire n°12 : La Première Guerre Mondiale (Décembre 2013 - Janvier 2014)</li>
+            <li>Géo Histoire n°13 : La Première Guerre Mondiale (février 2014 - Mars 2014)</li>
+            <li>Géo Histoire Hors-Série n°2 : L'album référence de la Grande Guerre (Octobre 2014 - Novembre 2014)</li>
+            <li>Science et Vie Junior Hors-Série n°107 : Première Guerre Mondiale (Août 2014)</li>
+            <li>Les collections de l'histoire n°61</li>
         </ul>
 
         <br><br>
@@ -221,6 +249,22 @@
             <li><a href="pdf/guide_methodo_lasesouvient_web.pdf" title="Les combattants de la Grande Guerre">Combattants de la Grande Guerre</a><br>(Guide méthodologique de recherche aux Archives départementales)</li>
             <li><a href="pdf/rapports-gvt-espagnol.pdf" title="Rapports des délégués du gouvernement espagnol sur leurs visites dans les camps de prisonniers français en Allemagne 1914-1917">Rapports des délégués du gouvernement espagnol sur leurs visites dans les camps de prisonniers français en Allemagne 1914-1917.</a></li>
             <li><a href="pdf/convention-1907.pdf" title="texte de la Convention de la Haye de 1907">Convention de La Haye, 18 octobre 1907</a></li>
+        </ul>
+
+        <br><br>
+
+        <h2>Guides de recherche</h2>
+
+        <ul>
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouvez l'histoire de votre grand-père en 1914-1918 en livre">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>
+            <li><a href="https://amzn.to/2NuoqQb" title="Recherchez vos ancêtres soldats et leur famille (1914-1918) en livre">Recherchez vos ancêtres soldats et leur famille (1914-1918)</a><br>(Martin Média / Revue Française de Généalogie)</li>
+            <li><a href="http://www.rfgenealogie.com" title="Hors-série de la RFG sur les médailles et décorations">Les médailles et décorations</a><br>(Martin Média / Revue Française de Généalogie)</li>
+            <li><a href="https://amzn.to/2UXyxnc" title="Guide pratique des décorations françaises actuelles">Guide pratique des décorations françaises actuelles</a> par J. BATTINI et W. ZANIEWICKI (Lavauzelle)</li>
+            <li>Un ancêtre dans la Grande Guerre venant des colonies<br>(Editions Hachette / fiche "La Généalogie Facile")</li>
+            <li>Mémoire des hommes<br>(Editions Hachette / fiche "La Généalogie Facile")</li>
+            <li>La recherche d'un officier, de la Révolution à nos jours<br>(Editions Hachette / fiche "La Généalogie Facile")</li>
+            <li>La recherche d'un ancêtre aviateur<br>(Editions Hachette / fiche "La Généalogie Facile")</li>
+            <li>Un ancêtre militaire alsacien ou mosellan de 1871 à 1919<br>(Editions Hachette / fiche "La Généalogie Facile")</li>          
         </ul>
 
         <br><br>

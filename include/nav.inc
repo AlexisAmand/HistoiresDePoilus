@@ -1,6 +1,6 @@
 <nav>
 	<a href="../contact.php">Contact</a>
-    <a href="../webographie.php">Webographie</a>
+    <a href="../webographie.php">Les Ressources</a>
     <a href="../lieux.php">Les Batailles</a>
     <a href="../camps.php" class="NavSelected">Les Camps</a>
     <a href="../tombes.php">Les Tombes</a>

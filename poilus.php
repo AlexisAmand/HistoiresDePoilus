@@ -43,7 +43,7 @@
 
     <nav>
         <a href="contact.php">Contact</a>
-        <a href="webographie.php">Webographie</a>
+        <a href="webographie.php">Les Ressources</a>
         <a href="lieux.php">Les Batailles</a>
         <a href="camps.php">Les Camps</a>
         <a href="tombes.php">Les Tombes</a>
@@ -70,14 +70,14 @@
 
             <figure>
                 <a href="poilus/images/carte-postale-sonnet-humour-poilus-soldat.jpg" data-fancybox="gallery" data-caption="Qu'est-ce qu'un poilu ?">
-                <img src="poilus/miniatures/carte-postale-sonnet-humour-poilus-soldat" alt="Définition du poilu sur une carte postale humoristique"></a>
+                <img src="poilus/miniatures/carte-postale-sonnet-humour-poilus-soldat.jpg" alt="Définition du poilu sur une carte postale humoristique"></a>
                 <figcaption>Qu'est-ce qu'un poilu ?<br>(Source: Musée de la Carte Postale)</figcaption>
             </figure>
 
             <p>Pour faire simple, et surtout pour faciliter la lecture, j'ai regroupé tous les combattants sous le terme de poilu, mais je dois avouer qu'il s'agit là d'un abus de langage, car dans l'état actuel de mes recherches, j'ai pu constater que seuls les français et parfois les belges étaient qualifiés de cette façon. En réalité, les autres belligérants de la Grande Guerre avaient eux aussi leurs petits noms en fonction de leur origine ou de leur corps d'engagement. Ainsi, on peut entendre parler dans les documents d'époque de <em>diggers</em> pour l'Australie, de <em>Mehmetçik</em> pour l'Empire Ottoman, de <em>Kiwis</em> pour la Nouvelle-Zélande ou encore de <em>Serranos</em> pour le Portugal.</p>
 
             <figure>
-                <img src="poilus/miniatures/depart-des-poilus-Albert-Herter.jpg" alt="Le départ des poilus par Albert Herbert">
+                <img src="poilus/miniatures/depart-des-poilus-albert-herter.jpg" alt="Le départ des poilus par Albert Herbert">
                 <figcaption>Le Départ des Poilus<br>(par Albert Herbert)</figcaption>
             </figure>
 
