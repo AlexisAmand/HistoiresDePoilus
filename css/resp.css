@@ -58,7 +58,7 @@ header, section, footer {margin-left:0px;margin-right:0px;}
 
 /* Menu pour la version mobile */
 
-#menuresp {border:1px solid #5b5b5b;position:absolute;top:64px;background-color:#5b5b5b;visibility:hidden;width:100%;}
+#menuresp {border:1px solid #5b5b5b;position:absolute;top:64px;background-color:#5b5b5b;visibility:hidden;width:90%;}
 #menuresp ul li {border-bottom:1px solid #efefef;}
 #menuresp ul li a:link {display: block;background-color: #5b5b5b;width:100%;text-align: center;color: #efefef;text-decoration: none;padding-top:12px;padding-bottom:12px;}
 #menuresp ul li a:hover {display: block;color:#5b5b5b;background-color:#e2ede4;width:100%;text-align: center;text-decoration: none;}
