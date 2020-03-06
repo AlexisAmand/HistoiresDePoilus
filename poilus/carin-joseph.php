@@ -156,7 +156,7 @@
 			</figure>
 
 			</li>
-			<li>Le 16 octobre 1918 - Prisonnier à Schneidemühl (selon le CIRC) pris "enfant perdu" ??
+			<li>Le 16 octobre 1918, il est cité comme prisonnier à Schneidemühl (selon la Croix-Rouge), pris "enfant perdu". C'est le nom que l'on donnait à une avant garde ou aux éclaireurs dans l'armée au XIXe siècle.
 
 			<figure>
 				<a href="sources/carin-joseph-cicr-03" data-fancybox="gallery" data-caption="Fiche de la Croix-Rouge de Joseph CARIN">
@@ -180,7 +180,7 @@
 			<li><a href="http://grandeguerre.icrc.org/fr" title="Comité international de la Croix-Rouge">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
 		</ul>
 
-		<p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+		 
 
 		</article>
 

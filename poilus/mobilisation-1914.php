@@ -82,7 +82,7 @@
             <img src="miniatures/mobilisation-1914-03.jpg" alt="Texte du décret de mobilisation générale daté du 1er août 1914"></a>
         </figure>
 
-        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+         
         
         </article>
 

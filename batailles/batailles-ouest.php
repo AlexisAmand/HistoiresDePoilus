@@ -453,7 +453,7 @@
             </tr>
         </table>
 
-        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+         
         
         </article>
 

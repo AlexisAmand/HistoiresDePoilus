@@ -143,7 +143,7 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
             <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
         </ul>
 
-        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+         
 
     </article>
 

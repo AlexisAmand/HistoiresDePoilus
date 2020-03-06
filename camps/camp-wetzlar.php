@@ -170,7 +170,7 @@
                 <li>L'Echo d'Alger du 20 décembre 1915</li>
             </ul>
 
-            <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+             
 
         </article>
 

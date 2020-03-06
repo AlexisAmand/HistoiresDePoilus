@@ -133,6 +133,8 @@
 
         <p>Inscrit sous le n°1 de la liste de Marcoing, Adrien est incorporé au <strong>1er Régiment d'Infanterie</strong> qu'il rejoint le 3 octobre 1910 en tant que soldat de 2e classe. Il est envoyé en congé le 25 septembre 1912 en attendant son passage dans la réserve de l'armée active avec <em>certificat de bonne conduite accordé.</em></p>
 
+        <p>Le certificat de bonne conduite a été mis en place par le décrêt du 26 juin 1901. Il est délivré aux militaires qui ont accompli le temps de service auquel ils sont restreints par la loi sur le recrutement et qui se sont bien conduit pendant toute la durée de leur présence sous les drapeaux. Dans son ouvrage intitulé "<a href="https://amzn.to/39zdPOk">La Vie à la caserne au point de vue social</a>", le Lieutenant GUENNEBAUD décrit le certificat de bonne conduite comme la meilleur référence</p>
+
         <h2>Adrien et le Ier R.I</h2>
 
         <p>A <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, <strong>Adrien VELU</strong> rejoint le <strong>1er Régiment d'Infanterie</strong> en tant que soldat de 2e classe. Le régiment part de Cambrai par voie ferrée dès le 5 août et arrive à Rumigny le même jour. Le 1er R.I s'est illustré en Argonne, à Verdun, au Chemin des Dames, dans la Somme, dans l'Aisne et pendant la Bataille de la Marne.</p> 
@@ -166,11 +168,12 @@
 		<h2>Sources et bibliographie</h2>
         
         <ul>
+            <li><a href="https://amzn.to/39zdPOk">La Vie à la caserne au point de vue social</a> (par le Lieutenant Guennebaud)</li>
 	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
 	        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
 	        <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense">Mémoire des Hommes</a> (Ministère de la Défense)</li>
         </ul>
-        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+         
         
         </article>
 

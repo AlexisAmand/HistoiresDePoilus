@@ -88,7 +88,7 @@
 
         <p>Né le 19 octobre 1890 à Condé-sur-l'Escaut (Nord) mais déclaré à Bernissart, <strong>Raoul Charles Jules QUINTIN</strong> fait partie de l'Armée Belge. Il porte le numéro de matricule 101/57096 et est mort pour sa patrie le 26 août 1914. La parenté reste à confirmer. (source: <a href="https://www.wardeadregister.be/fr">Dead War Register</a>) 
 
-        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+         
         
         </article>
 

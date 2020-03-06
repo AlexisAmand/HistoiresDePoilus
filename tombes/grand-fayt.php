@@ -100,7 +100,7 @@
             <figcaption>Le monument aux morts de Grand-Fayt<br>(Source: Photo privée)</figcaption>
         </figure>
 
-        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+         
         
         </article>
 

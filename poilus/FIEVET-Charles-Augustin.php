@@ -201,7 +201,7 @@
             <figcaption>Extrait d'une liste de prisonniers<br>(Source: Croix Rouge)</figcaption>
         </figure>
 
-        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+         
         
         <h2>Sources et bibliographie</h2>
         

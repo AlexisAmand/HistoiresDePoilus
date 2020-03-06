@@ -40,20 +40,7 @@
 
     </header>
 
-    <nav>
-        <a href="contact.php">Contact</a>
-        <a href="webographie.php" class="NavSelected">Les Ressources</a>
-        <a href="lieux.php">Les Batailles</a>
-        <a href="camps.php">Les Camps</a>
-        <a href="tombes.php">Les Tombes</a>
-        <a href="hopitaux/hopitaux.php">Les Hôpitaux</a>
-        <a href="poilus.php">Les Poilus</a>
-    </nav>
-
-    <div id="navbis">
-        <a href="bibliographie.php">Les ressources bibliographiques</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="webographie.php">Les ressources en ligne</a>
-    </div>
+    <?php include('include/nav-ressources.inc'); ?>
 
     <section>
 
@@ -274,6 +261,7 @@
     
         <ul>
             <li><a href="pdf/vdh_orleans-grande-guerre.pdf">Orléans pendant la Grande Guerre (Ville d'Orléans)</a></li>
+            <li><a href="pdf/Maubeuge-1914-Duvivier.pdf" title="Histoire de Maubeuge en 1914 par Jules DUVUVIER">Maubeuge 1914 (Par Jules DUVUVIER)</a></li>
         </ul>    
 
         <br /><br />
@@ -285,7 +273,7 @@
             <li><a href="https://www.iwm.org.uk/">Imperial War Museum</a></li>
         </ul>  
 
-        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+         
 
         </article>
 

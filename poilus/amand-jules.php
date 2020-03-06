@@ -122,7 +122,7 @@
             <figcaption>Jules sur le monument d'Ougrée<br>(Source: <a href="http://www.bel-memorial.org">Bel-Memorial</a>)</figcaption>
         </figure>
 
-        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+         
 
         </article>
 

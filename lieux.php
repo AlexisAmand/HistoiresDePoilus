@@ -72,7 +72,7 @@
             <a href="batailles/batailles-orient.php">Le Front du Moyen-Orient</a><br>
             <a href="batailles/batailles-balkans.php">Le Front des Balkans</a>
 
-            <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+             
 
         </article>
 

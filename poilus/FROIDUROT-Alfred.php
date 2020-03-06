@@ -130,7 +130,7 @@
             <li><a href="http://archives.cotedor.fr/v2/site/ad21/">Archives départementales de Côte-d'Or</a></li>
         </ul>
 
-        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+         
 
         </article>
 

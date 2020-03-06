@@ -72,7 +72,7 @@
                 <li><a href="https://matomo.org" title="aller sur le site de Matomo">Matomo (ex Piwik)</a>, l'outil de statistiques utilisé par le site "Histoires de Poilus", génère un cookie avec un identifiant unique, dont la durée de conservation est limitée à 13 mois. Je collecte également votre adresse IP, afin de déterminer la ville depuis laquelle vous vous connectez. Celle-ci est immédiatement anonymisée après utilisation. "Histoires de Poilus" ne peut donc en aucun cas remonter par ce biais à une personne physique.</li>
             </ul>
 
-            <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+             
 
         </article>
 

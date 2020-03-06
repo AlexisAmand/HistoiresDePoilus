@@ -181,7 +181,7 @@
                 <li><a href="../pdf/FoXIIa1133_qt.pdf" title="Die Kriegsgefangenen in Deutschland écrit par Hermann Montanus en 1915">Die Kriegsgefangenen in Deutschland</a> (Hermann Montanus, 1915)</li>
             </ul>
 
-            <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+             
 
         </article>
 

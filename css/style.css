@@ -6,7 +6,11 @@ h1 {font-size:2em;margin-bottom:30px}
 h2 {font-size: 1.5em;margin-bottom:12px}
 h3 {font-size: 1.2em;margin-bottom:12px}
 *{margin:0;padding:0}
-section{width:960px;margin-left:auto;margin-right:auto;margin-top:0;display:table;background-color:#efefef;padding-top:25px}
+
+section{width:960px;margin-left:auto;margin-right:auto;margin-top:0;/*display:table;*/background-color:#efefef;padding-top:25px}
+
+section{display:flex;min-height: 61vh;}
+
 section a:link {color:#3b4247;;text-decoration:underline;}
 section a:visited {color:#3b4247;text-decoration:underline;} 
 section a:hover {color:#3b4247;text-decoration:none;} 
@@ -14,7 +18,9 @@ nav{background-color:#364046;height:41px;width:960px;margin-left:auto;margin-rig
 nav a:link,nav a:visited{float:right;display:block;background-color:#5b5b5b;width:100px;padding:8px;text-align:center;margin-left:3px;color:#e2ede4;text-decoration:none}
 nav a:hover{float:right;display:block;width:100px;padding:8px;text-align:center;margin-left:3px;color:#5b5b5b;background-color:#e2ede4;text-decoration:none}
 nav a.NavSelected{height:30px;background-color:#eFeFeF;color:#5b5b5b}
-article{background-color:#eFeFeF;padding:20px;margin-left:200px;display:table-cell;padding-top:0}
+
+article{background-color:#eFeFeF;padding:20px;/*margin-left:200px;display:table-cell;*/padding-top:0;width: 100%;}
+
 article img{box-shadow:1px 1px 12px #555;margin-bottom:6px;margin-top:12px}
 article p {text-align:justify;margin-bottom:15px;}
 article ul li {text-align:justify;margin-left:35px;}
@@ -25,9 +31,6 @@ article .right{text-align:right}
 #colindex{-moz-column-count:2;-webkit-column-count:2;-o-column-count:2;column-count:2;-moz-column-gap:40px;-webkit-column-gap:40px;-o-column-gap:40px;column-gap:40px;-webkit-column-rule-width:1px;-webkit-column-rule-color:silver;-webkit-column-rule-style:dashed;-moz-column-rule-width:1px;-moz-column-rule-color:silver;-moz-column-rule-style:dashed;-o-column-rule-width:1px;-o-column-rule-color:silver;-o-column-rule-style:dashed;column-rule-width:1px;column-rule-color:silver;column-rule-style:dashed;text-align:justify}
 #colindex img{box-shadow:1px 1px 12px #555}
 #colindex figure {text-align:center;color:#363535;margin-bottom:35px}
-/*
-.col3{-moz-column-count:3;-webkit-column-count:3;-o-column-count:3;column-count:3;-moz-column-gap:40px;-webkit-column-gap:40px;-o-column-gap:40px;column-gap:40px;-webkit-column-rule-width:1px;-webkit-column-rule-color:silver;-webkit-column-rule-style:dashed;-moz-column-rule-width:1px;-moz-column-rule-color:silver;-moz-column-rule-style:dashed;-o-column-rule-width:1px;-o-column-rule-color:silver;-o-column-rule-style:dashed;column-rule-width:1px;column-rule-color:silver;column-rule-style:dashed;text-align:justify}
-*/
 /* Notes */
 .note {font-style: italic;}
 sup {font-size: 0.6em;}
@@ -47,7 +50,7 @@ aside ul li{border-bottom:1px solid #e2ede4}
 aside ul li a:link,aside ul li a:visited {display:block;color:#e2ede4;text-decoration:none;padding:6px;padding-left:13px}
 aside ul li a:hover {display:block;color:#5b5b5b;background-color:#e2ede4;text-decoration:none;padding:6px;padding-left:13px}
 aside ul li a.AsideSelected{color:#5b5b5b;background-color:#FFF;margin-right:-15px}
-aside{width:200px;background-color:#5b5b5b;display:table-cell;}
+aside{min-width:200px;background-color:#5b5b5b;/*display:table-cell;*/}
 .asideheader {border-left: 5px solid #e1ede3;padding: 6px;padding-left: 6px;padding-left: 13px;color: #e1ede3;background-color: #364046;}
 #pubaside{text-align:center;margin-top:20px;}
 /* Tableaux */
@@ -57,15 +60,6 @@ table caption {text-align:center;color:#363535;margin-bottom:35px;margin-top:4px
 td{border-width:1px;border-style:solid;border-color:#3a4247;padding:5px}
 thead, .TitreHorizontalTab {background-color:#D3CECE}
 tr{height:47px}
-/*
-#nom {width:158px}
-#naissance {width:158px}
-#mort {width:158px}
-#corps { width:70px}
-#genre {width:90px}
-#grade {width:90px}
-#classe {width:45px}
-*/
 .census {width:450px;caption-side: bottom;}
 #date {width: 30%;}
 .PuissancesCentrales {color:darkred;}

@@ -130,7 +130,7 @@
             <figcaption>Extrait du Journal Officiel de la République Française n°156 du 3 juillet 1930.<br>(source: Gallica / Bibliothèque Nationale de France)</figcaption>
         </figure>
 
-        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+         
         
         </article>
 

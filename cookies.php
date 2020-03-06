@@ -71,7 +71,7 @@
 
             <p>Pour plus d'informations, je vous invite à vous rendre sur le site de la CNIL, <a href="http://www.cnil.fr/vos-droits/vos-traces/les-cookies/">rubrique Cookies</a>. L'organisme a également mis en ligne une petite vidéo explicative que je vous propose en cliquant <a href="https://www.dailymotion.com/video/x16lt53">sur ce lien</a>.</p>
 
-            <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+             
 
         </article>
 

@@ -95,7 +95,7 @@
         <img src="images/mini/arche-maroilles.jpg" alt="L'Arc de Triomphe de Maroilles élevé par Nicolas Joseph Vendois"/></a>
         <figcaption>L'Arc de Triomphe de Maroilles<br />(Source: Photo privée)</figcaption>
     </figure>
-    <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+     
 
     </article>
 

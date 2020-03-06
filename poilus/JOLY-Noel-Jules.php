@@ -138,34 +138,6 @@
             <figcaption>Portrait de Noël Jules<br>(source: Archives Départementales du Nord)</figcaption> 
         </figure>
 
-        <table class="census">
-            <caption>Liste des domiciles de Noël</caption>
-            <thead>
-            <tr>
-                <th id="date">Dates</th>
-                <th id="adresse">Adresses</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            </tbody>   
-        </table>
-
         <h2>La mobilisation d'août 1914</h2>
 
         <p>Selon sa fiche matricule, <strong>Noël Jules</strong> devient soldat 2e classe au sein du <strong>2e Régiment d'Infanterie Territoriale</strong>. En 1914, Les régiments d'infanterie territoriale (R.I.T), sont essentiellement constitués de citoyens anciens nés entre 1875 et 1880. Ils sont surtout assignés à des missions plus statiques, moins exposées: gares, nœuds ferroviaires, ponts, entrepôts, places fortes, etc. Noël, quant à lui, cantonne à  Ferrière.</p>
@@ -247,7 +219,7 @@
         <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
         </ul>
 
-        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+         
 
         </article>
 

@@ -158,7 +158,7 @@
             <figcaption>Edouard, mort pour la France.<br>(source: Mémoire des Hommes)</figcaption>
         </figure>
 
-        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+         
         
         <h2>Sources et bibliographie</h2>
 

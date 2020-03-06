@@ -92,7 +92,7 @@
 
         <p class="note"><sup>2</sup>La traduction de l'article du Telegraph est parue dans "Le Droit des peuples : organe d'action socialiste nationale et internationale et de défense des réfugiés alsaciens, lorrains, belges, français" du 2 août 1918.</p>
 
-        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>        </article>
+                 </article>
 
     </section>
 

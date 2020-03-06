@@ -85,7 +85,7 @@
             <figcaption>Le Fort de Bodegraven<br>(source: <a href="http://www.nieuwerbrug.net">http://www.nieuwerbrug.net</a>)</figcaption>
         </figure>
 
-        <p class="sources"><?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?></p>
+         
         
         </article>
 
