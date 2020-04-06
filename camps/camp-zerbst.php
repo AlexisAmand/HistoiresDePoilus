@@ -141,9 +141,9 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
         <p>La photo qui suit m'a été transmise en 2014 par Françoise C. Prise en juillet 1918, elle montre son grand-père, un lillois de la classe 1899, au camp de Zerbst. Les conditions de détention étaient tellement dures, qu'il eut les pieds gelés. Il ne fut définitivement libéré qu’en mars 1919, son livret militaire en atteste.</p>
 
         <figure>
-            <a href="images/Zerbst/poilus-zerbst.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="miniatures/Zerbst/poilus-zerbst.jpg" alt=" "></a>
-            <figcaption> <br>(source : Françoise C.)</figcaption>
+            <a href="images/Zerbst/poilus-zerbst.jpg" data-fancybox="gallery" data-caption="Le grand-père de Françoise C, prisonnier pendant la Première Guerre Mondiale">
+            <img src="miniatures/Zerbst/poilus-zerbst.jpg" alt="Un prisonnier de guerre au camp de Zerbst pendant la Grande Guerre"></a>
+            <figcaption>(source : Françoise C.)</figcaption>
         </figure>
 
         <p>Les 200 belges présents dans le camp de Zerbst ont été rapatriés via Enschede (Pays-Bas) le 7 janvier 1919.</p>

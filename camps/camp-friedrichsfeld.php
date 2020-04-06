@@ -181,6 +181,20 @@
             <figcaption>Diverses ethnies représentées au camp<br>(source allemande)</figcaption>
         </figure>
 
+        <p>Ci-dessous, une photo de la baraque 19B où se trouvait le sergent Henri Marlière, le grand-père d'un lecteur du site. Il portait le matricule n° 8192 et était menbre du 1er R.I.T. Il est fait prisonnier à Maubeuge en septembre 1914. Il a tenté 3 fois de s'évader et reçoit à ce titre la médaille des évadés, comme en atteste le document sous la photo.</p>
+
+        <figure>
+            <a href="images/Friedrichsfeld/baraque-19B.jpg" data-fancybox="gallery" data-caption="La baraque 19B où se trouvait le sergent Henri Marlière">
+            <img src="miniatures/Friedrichsfeld/baraque-19B.jpg" alt="La baraque 19B du camp de prisonnier de Friedrichsfeld"></a>
+            <figcaption>La baraque 19B où se trouvait le sergent Henri Marlière<br>(source: Mr D.)</figcaption>
+        </figure>
+
+        <figure>
+            <a href="images/Friedrichsfeld/Marliere-Henri.jpg" data-fancybox="gallery" data-caption="La médaille des évadés du sergent Henri Marlière">
+            <img src="miniatures/Friedrichsfeld/Marliere-Henri.jpg" alt=" "></a>
+            <figcaption>La médaille des évadés<br>(source: Mr D.)</figcaption>
+        </figure>
+
         <h2>Sources et bibliographie</h2>
 
         <ul>
