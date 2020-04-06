@@ -146,7 +146,7 @@
             <figcaption>Ses domiciles sur sa fiche matricule<br>(Source: Archives Départementales de la Seine-Saint-Denis)</figcaption>
         </figure>
               
-        <p>Selon la mention en marge de son acte de naissance, il est décédé à Beaucaire, sur la rive du Rhône, à côté de Nîmes, le 5 avril 1969. Il repose au cimetière de Neuville-sur-Escaut en compagnie de Kleber AMAND (1902-1987), Celestine OCCULISSE (1874-1957), Amélie POTIER (1907-1989) et Denis POTIER (1869-1943).</p>
+        <p>Selon la mention en marge de son acte de naissance, il est décédé à Beaucaire, sur la rive du Rhône, à côté de Nîmes, le 19 janvier 1969. Il repose au cimetière de Neuville-sur-Escaut en compagnie de Kleber AMAND (1902-1987), Celestine OCCULISSE (1874-1957), Amélie POTIER (1907-1989) et Denis POTIER (1869-1943).</p>
         
         <h2>Sources et bibliographie</h2>
         
