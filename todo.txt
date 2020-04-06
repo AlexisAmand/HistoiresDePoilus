@@ -1,0 +1,24 @@
+A ajouter
+---------
+
+- Source
+		- vérifier que toutes les sources sont bien sans la webo
+
+- Poilus 
+		- ARNOULD Gaston Alexandre : matricule n°38, bureau de Reims, vol 1, classe 1913.
+
+- Auguste :
+		- La ferme du Rond Chêne sur une carte de Dinant -> source ou autre carte
+
+- Camps de prisonniers :
+		- TODO : voir le camp de Heilsberg (Allemagne)
+		- TODO : voir le camp de Minderheide (Allemagne)
+		- TODO : voir le camp de Sudelkopff (Allemagne)
+		- TODO : voir le camp de Trèves (Allemagne)
+		- TODO : Voir le camp de Eutin (Allemagne)
+
+Après la mise en ligne
+----------------------
+
+- Xenu pour liens morts
+- vérification de la page erreur.php

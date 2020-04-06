@@ -137,7 +137,7 @@
     </figure>
 
     <figure>
-        <a href="images/gouvion-rene.jpg" data-fancybox="gallery" data-caption="René GOUVION, mort pour la France pendant la Grande Guerre">
+        <a href="images/gouvion-rene.jpg" data-fancybox="gallery" data-caption="RenéGOUVION, mort pour la France pendant la Grande Guerre">
         <img src="images/mini/gouvion-rene.jpg" alt="Tombe de René GOUVION, deux poilus mort pour la France pendant la Grande Guerre"/></a>
         <figcaption>Tombe de René GOUVION<br>cimetière Saint-Roch (Valenciennes)</figcaption>
     </figure>

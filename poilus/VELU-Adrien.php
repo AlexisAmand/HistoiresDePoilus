@@ -133,7 +133,13 @@
 
         <p>Inscrit sous le n°1 de la liste de Marcoing, Adrien est incorporé au <strong>1er Régiment d'Infanterie</strong> qu'il rejoint le 3 octobre 1910 en tant que soldat de 2e classe. Il est envoyé en congé le 25 septembre 1912 en attendant son passage dans la réserve de l'armée active avec <em>certificat de bonne conduite accordé.</em></p>
 
-        <p>Le certificat de bonne conduite a été mis en place par le décrêt du 26 juin 1901. Il est délivré aux militaires qui ont accompli le temps de service auquel ils sont restreints par la loi sur le recrutement et qui se sont bien conduit pendant toute la durée de leur présence sous les drapeaux. Dans son ouvrage intitulé "<a href="https://amzn.to/39zdPOk">La Vie à la caserne au point de vue social</a>", le Lieutenant GUENNEBAUD décrit le certificat de bonne conduite comme la meilleur référence</p>
+        <p>Le certificat de bonne conduite a été mis en place par le décrêt du 26 juin 1901. Il est délivré aux militaires qui ont accompli le temps de service auquel ils sont restreints par la loi sur le recrutement et qui se sont bien conduit pendant toute la durée de leur présence sous les drapeaux. Dans son ouvrage intitulé "<a href="https://amzn.to/39zdPOk">La Vie à la caserne au point de vue social</a>", le Lieutenant GUENNEBAUD décrit le certificat de bonne conduite comme <em>"la meilleure des références"</em> (page 46). A titre d'illustration, voici le certificat de bonne conduite de mon arrière-grand-père, Kleber FIEVET. (le fils de <a href="FIEVET-Charles-Augustin.php" title="Biographie du poilu Charles Augustin">Charles FIEVET</a>).</p>
+
+        <figure>
+            <a href="sources/bonne-conduite.jpg" data-fancybox="gallery" data-caption="certificat de bonne conduite de Kleber FIEVET">
+            <img src="miniatures/bonne-conduite.jpg" alt="certificat de bonne conduite de Kléber FIEVET, obtenu en 1932"/></a>
+            <figcaption>Certificat de bonne conduite de Kléber FIEVET, daté de 1932<br>(source: Archives privées)</figcaption>
+        </figure>
 
         <h2>Adrien et le Ier R.I</h2>
 

@@ -93,8 +93,6 @@
             <img src="images/mini/monument-beaufort-02.jpg" alt="La plaque hommage aux victimes de 39-45 du monument aux Morts pour la France de Beaufort dans l'Avesnois"/></a>
             <figcaption>La plaque hommage aux victimes de 39-45<br>(Source: Photo privée)</figcaption>
         </figure>
-    
-         
         
         </article>
 

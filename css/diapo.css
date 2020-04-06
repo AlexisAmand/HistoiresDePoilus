@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+.diaporama
+	{
+    position:relative;width:400px;height:260px;
+	}
+ 
+.diaporama li
+	{
+    list-style-type:none;overflow:hidden;position:absolute;
+	}
+ 
+.diaporama_controls
+	{
+    width:435px;margin:3px 0;padding:5px;clear:both;overflow:hidden;
+	}
+ 
+.diaporama_controls .btns
+	{
+    float:right;
+	}
+ 
+.diaporama_controls a
+	{
+    font-weight:normal;width:10px;height:13px;text-indent:-9999px;display:inline-block;margin:0 3px;
+	}
+ 
+.diaporama_controls .prev
+	{
+    background:url(images/diapo_prev.png) no-repeat top right;
+	}
+ 
+.diaporama_controls .next
+	{
+    background:url(images/diapo_next.png) no-repeat top left;
+	}
+ 
+.diaporama_controls .pause
+	{
+    background:url(images/diapo_pause.png) no-repeat bottom right;
+	}
+ 
+.diaporama_controls .play
+	{
+    background:url(images/diapo_play.png) no-repeat bottom left;
+	}

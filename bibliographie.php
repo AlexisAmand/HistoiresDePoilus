@@ -53,6 +53,7 @@
         <h2>Vie quotidienne des soldats</h2>
 
         <ul>
+            <li><a href="https://amzn.to/39zdPOk">La Vie à la caserne au point de vue social</a> (par le Lieutenant Guennebaud)</li>
             <li><a href="https://amzn.to/2vNzdh1" title="L'uniforme et les armes des soldats de la guerre de 1914-1918 écrit Liliane et Fred Funcken">
             L'uniforme et les armes des soldats de la guerre de 1914-1918</a><br>(Editions Casterman / Liliane et Fred Funcken)</li>
             <li><a href="https://amzn.to/2Jfz7DO" title="Prisonniers 1914-1918 par Jean-Paul Briaste">

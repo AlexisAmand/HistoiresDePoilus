@@ -125,8 +125,8 @@
         <p><strong>Edouard CARIN</strong> est né le 5 août 1884 à Lourches (Nord),  fils légitime de  François Louis CARIN et de Pauline DUSSART.<strong> Édouard</strong> est le frère de <a href="CARIN-Theophile.php">Théophile</a>, l'époux de mon arrière-arrière-grand-mère Zélia BRASSEUR. En 1906, il vit chez ses parents à Lourches (Rue Beauvois) en compagnie de ses parents et ses frères et sœurs: Alfred, Appoline, Clara, <a href="carin-joseph.php" title="Biographie de Joseph CARIN">Joseph</a>, <a href="CARIN-Leon.php" title="Biographie de Léon CARIN">Léon</a>, Celeste et François.</p> 
 
         <figure>
-            <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="La famille CARIN">
-            <img src="miniatures/arbre-carin.png"  alt="arbre généalogique de la Famille Carin de Lourches et Roeulx"  class="ArbreGenealogique"></a>
+            <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="Arbre généalogique de la famille CARIN">
+            <img src="miniatures/arbre-carin.png"  alt="arbre généalogique de la Famille Carin orignaire de Lourches et de Roeulx" class="ArbreGenealogique"></a>
             <figcaption>Arbre généalogique de la famille CARIN<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
@@ -157,13 +157,11 @@
             <img src="miniatures/CARIN-edouard-mpf.JPG" alt="Fiche de mort pour la France d'Edouard CARIN"/></a>
             <figcaption>Edouard, mort pour la France.<br>(source: Mémoire des Hommes)</figcaption>
         </figure>
-
-         
-        
+            
         <h2>Sources et bibliographie</h2>
 
         <ul>
-	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
 	        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
 	        <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense">Mémoire des Hommes</a> (Ministère de la Défense)</li>
         </ul>

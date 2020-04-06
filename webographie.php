@@ -148,6 +148,7 @@
             <li><a href="pdf/aus-deutschen-kriegsgefangenenlagern.pdf" title="Aus deutschen Kriegsgefangenenlagern écrit par la Deutsches Rotes Kreuz">
             Aus deutschen Kriegsgefangenenlagern</a><br>(Deutsches Rotes Kreuz)</li>
             <li><a href="https://catalogue.bnf.fr/ark:/12148/cb32724205h">Bulletin de la Société de secours aux blessés militaires</a></li>
+            <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k755527">La Vie à la caserne au point de vue social</a> (par le Lieutenant Guennebaud)</li>
         </ul>
 
         <br><br>
@@ -239,13 +240,13 @@
             <li><a href="http://archives.cg08.fr" title="Archives départementales des Ardennes">Archives Départementales des Ardennes</a></li>
             <li><a href="https://archives.cotedor.fr" title="Archives départemental de la Côte-d'Or">Archives Départementales de la Côte-d'Or</a></li>
             <li><a href="http://archives.marne.fr" title="Archives départementales de la Marne">Archives Départementales de la Marne</a></li>
-            <li><a href="http://archivesdepartementales.lenord.fr" title="Archives départementales du Nord">Archives Départementales du Nord</a></li>
-            <br />
+            <li><a href="http://archivesdepartementales.lenord.fr" title="Archives départementales du Nord">Archives Départementales du Nord</a><br /><br /></li>
+            
             <li><a href="https://www.reims.fr/culture-patrimoine/archives-municipales-et-communautaires-7534.html?L=172%27A.html">Archives Municipales de Reims</a></li>
             <li><a href="http://www.archives.nantes.fr">Archives Municipales de Nantes</a></li>
             <li><a href="http://patrimoine-numerique.ville-valenciennes.fr">Archives Municipales de Valenciennes</a></li>          
-            <li><a href="http://www.bn-r.fr">Médiathèque de Roubaix</a></li>
-            <br />
+            <li><a href="http://www.bn-r.fr">Médiathèque de Roubaix</a><br /><br /></li>
+            
             <li>Les livres d'or des soldats morts pour la France (Archives Nationales)</li>
             <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr" title="Mémoire des hommes">Mémoire des Hommes</a> (Ministère de la Défense)</li>
             <li><a href="http://www.memorial-genweb.org/~memorial2/" title="Portail MémorialGenweb">Mémorial-GenWeb</a></li>

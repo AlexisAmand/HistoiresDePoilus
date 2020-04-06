@@ -123,8 +123,6 @@
           <img src="images/mini/indien-awoing.jpg" alt="Un indien ayant combattu pendant la Première Guerre Mondiale inhumé à Awoingt"/></a>
           <figcaption>Un indien inhumé à Awoingt<br>(source : photo personnelle)</figcaption>
       </figure>
-
-       
       
       </article>
 
