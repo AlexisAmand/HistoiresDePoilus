@@ -140,7 +140,17 @@
 
 		<h2>Florimond et la Grande Guerre</h2>
 
-		<p>Suite à <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, il arrive au corps le 2 août 1914 (peut-être le <strong>27e Régiment d'Artillerie</strong>). Ensuite, il passera successivement par le <strong>6e Régiment d'Artillerie à Pied</strong> (le 21 septembre 1915), le <strong>7e Régiment d'Artillerie</strong> à Pied (le 1 mars 1916), le <strong>11e Régiment d'Artillerie à Pied</strong> (le 25 décembre 1917) et enfin le <strong>13e Régiment d'Artillerie de Campagne</strong> (le 10 mars 1918).</p>
+		<p>Le décret de <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">mobilisation</a> du 1 aout 1914 rappelle Florimond à l’activité au sein de la 11e batterie du 1er Régiment d’Artillerie qu’il rejoint le 3 aout 1914. Son “dossier d’ancien combattant”, que j’ai pu obtenir grâce à l’aide d’une bénévole du site Geneachtimi m’a permis d’en savoir un peu plus sur ses différentes affectations.</p>
+
+		<figure>
+			<a href="sources/dossier-florimond-letienne.jpg" data-fancybox="gallery" data-caption=" ">
+			<img src="miniatures/dossier-florimond-letienne.jpg" alt=" "></a>
+			<figcaption>Extrait du dossier d'ancien combattant de Florimond<br> (source : Archives Départementales du Nord)</figcaption>
+		</figure>
+
+		<p>Il passera ainsi successivement par le 6e Régiment d'Artillerie à Pied (le 21 septembre), le 7e Régiment d'Artillerie à Pied (le 1er mars 1916), le 11e Régiment d'Artillerie à Pied (le 25 décembre 1917) et enfin le 3e Régiment d'Artillerie à Pied (le 10 mars 1918). Même si ses affectations et ses lieux de cantonnement ont changés, Florimond a passé toute la durée du conflit en Lorraine, dans le secteur de Verdun. Le 7 janvier 1919, il est mis en congés illimité par le 15e RAC de Douai, son dépôt démobilisateur et se retire à Roubaix, rue de Denain (cours Flamant).</p>
+
+		<p>Le 26 juin 1928, le chef d’escadron commandant le centre de mobilisation n°10 de Dinard l’autorise provisoirement à faire valoir sa qualité de combattant pour sa participation aux opérations de guerre durant la Première Guerre Mondiale. Il est aussi précisé que celle appellation sera définitivement acquise lors de la délivrance de sa carte d’ancien combattant.</p>
 
 		<figure>
 			<a href="images/carte-florimond-letienne.jpg" data-fancybox="gallery" data-caption="Carte d'ancien combattant">
@@ -148,12 +158,17 @@
 			<figcaption>Carte d'ancien combattant ayant appartenu à Florimond<br> (source : Archives Départementales du Nord)</figcaption>
 		</figure>
 
+		<p>Une question reste toutefois en suspens pour l’instant : Pourquoi le centre de démobilisation de Dinard (Ile-et-Vilaine) alors que l’après-guerre le domicilie à Roubaix (Nord) ?</p>
+
+		<p>Florimond LETIENNE est décédé à Roubaix le 11 novembre 1962 à presque 90 ans. Peut-être que je suis un peu fleur bleue, mais je trouve incroyable pour un ancien combattant de la Grande Guerre d’être décédé un 11 novembre.</p>
+
 		<h2>Sources et bibliographie</h2>
 
 		<ul>
 			<li><a href="http://archives.genealexis.fr/album/20-letienne-florimond" title="version numérisée du dossier d'ancien combattant de Florimond LETIENNE">Le dossier d'ancien combattant de Florimond LETIENNE</a> (Archives Départementales du Nord)</li>
 			<li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
 	        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
+			<li><a href="https://www.geneachtimi.com/">Geneachtimi</a></li>
         </ul>
 
 		 

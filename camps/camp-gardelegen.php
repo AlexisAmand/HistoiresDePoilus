@@ -130,15 +130,75 @@
         </figure>
 
         <figure>
-            <a href="images/camps_prisonniers_gardelegen_01.jpg" data-fancybox="gallery" data-caption="Le Lazaret de Gardelegen">
-            <img src="miniatures/camps_prisonniers_gardelegen_01.jpg" alt="le lazaret du camp de prisonniers de Gardelegen pendant la Première Guerre Mondiale"></a>
-            <figcaption>Le lazaret de Gardelegen<br>(source : Delcampe)</figcaption>
+            <a href="images/Gardelegen/Gardelegen-1-004.jpg" data-fancybox="gallery" data-caption=" ">
+            <img src="miniatures/Gardelegen/Gardelegen-1-004.jpg" alt=" "></a>
+            <figcaption>La distribution de nourriture<br />(Source : Guy O.)</figcaption>
+        </figure>
+
+        <h2>Les monuments à la mémoire des prisonniers morts en captivité</h2>
+
+        <p>Deux monuments ont été construits au camp de prisonniers de Gardelegen. Ils sont été construite grace à des souscriptions auprés de bienfaiteurs.</p>
+
+        <p>Selon le Figaro daté du 25 octobre 1915, le premier monument est l'oeuvre du sculpteur Poirier et est destiné au cimetière du lazaret où 300 des "nôtres" reposent déjà en 1915. Il est constitué d'un simple banc de pierre en hémicycle, sur lequel est assis un prisonnier, qui regarde les tombes de ses camarades.</p>
+
+        <figure>
+            <a href="images/Gardelegen/Gardelegen-1-007.jpg" data-fancybox="galery" data-caption="#">
+            <img src="miniatures/Gardelegen/Gardelegen-1-007.jpg" alt="#"></a>
+            <figcaption>Le monument du Lazaret<br />(Source : Guy O.)</figcaption>
         </figure>
 
         <figure>
-            <a href="images/monument-gardelegen.jpg" data-fancybox="gallery" data-caption="Le camp de Gardelegen">
+            <a href="images/Gardelegen/Gardelegen-1-008.jpg" data-fancybox="galery" data-caption="#">
+            <img src="miniatures/Gardelegen/Gardelegen-1-008.jpg" alt="#"></a>
+            <figcaption>#<br />(Source : Guy O.)</figcaption>
+        </figure>
+
+        <p>Le même journal précise que le second monument est l'oeuvre du statuaire Souchez et est destiné au cimetière de la ville. Il est constitué d'un large socle où sont gravées les lignes suivantes:</p>
+
+        <p style="text-align:center"><em>
+        Ayant fait leur devoir, à leur tout ils sont morts,
+        Seuls, loin de leur douce patrie.<br />
+        Mais sous la pierre, ici, ne gisent que leurs corps.<br />
+        Leur âme, là-bas, veille et prie.</em></p>
+
+        <p>Une haute table de marbre destinée à recevoir les noms surmonte ce socle, auquel un soldat, les mains jointes, est appuyé.
+
+        <figure>
+            <a href="images/Gardelegen/Gardelegen-1-001.jpg" data-fancybox="galery" data-caption="">
+            <img src="miniatures/Gardelegen/Gardelegen-1-001.jpg" alt="#"></a>
+            <figcaption>Le monument en construction<br />(Source : Guy O.)</figcaption>
+        </figure>
+
+        <figure>
+            <a href="images/Gardelegen/Gardelegen-1-002.jpg" data-fancybox="galery" data-caption="">
+            <img src="miniatures/Gardelegen/Gardelegen-1-002.jpg" alt="#"></a>
+            <figcaption>Le monument en construction<br />avec la liste des noms<br />(Source : Guy O.)</figcaption>
+        </figure>
+
+        <figure>
+            <a href="images/monument-gardelegen.jpg" data-fancybox="gallery" data-caption=" ">
             <img src="miniatures/monument-gardelegen.jpg" alt="le monument aux prisonniers morts en captivité dans le camp de Gardelegen pendant la Première Guerre Mondiale"></a>
             <figcaption>Le monument à la mémoire des prisonniers morts en captivité<br>(source : Delcampe)</figcaption>
+        </figure>
+
+        <h2>La vie quotidienne au camp</h2>
+
+        <figure>
+            <a href="images/Gardelegen/Gardelegen-1-005.jpg" data-fancybox="gallery" data-caption=" ">
+            <img src="miniatures/Gardelegen/Gardelegen-1-005.jpg" alt=" "></a>
+            <figcaption>Une cérémonie religieuse<br />(Source : Guy O.)</figcaption>
+        </figure>
+
+        <figure>
+            <a href="images/Gardelegen/Gardelegen-1-006.jpg" data-fancybox="gallery" data-caption=" ">
+            <img src="miniatures/Gardelegen/Gardelegen-1-006.jpg" alt=" "></a>
+            <figcaption>Une cérémonie religieuse<br />(Source : Guy O.)</figcaption>
+        </figure>
+        
+        <figure>
+            <a href="images/camps_prisonniers_gardelegen_01.jpg" data-fancybox="gallery" data-caption="Le Lazaret de Gardelegen">
+            <img src="miniatures/camps_prisonniers_gardelegen_01.jpg" alt="le lazaret du camp de prisonniers de Gardelegen pendant la Première Guerre Mondiale"></a>
+            <figcaption>Le lazaret de Gardelegen<br>(source : Delcampe)</figcaption>
         </figure>
 
         <p>A la fin de la guerre, le camp de Gardelegen a été évacué via la Hollande.</p>
@@ -146,12 +206,11 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
+            <li>Le Journal "Le Figaro" du 25 octobre 1915 (Gallica / BNF)</li>
             <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
         </ul>
 
-         
-        
         </article>
 
     </section>
