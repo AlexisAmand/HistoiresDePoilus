@@ -256,6 +256,14 @@
             <li><a href="http://monumentsmorts.univ-lille3.fr" title="Les monuments aux morts de France et Belgique">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
         </ul>
 
+        <br><br>
+
+        <h2>Recherches au Portugal</h2>
+
+        <ul>
+            <li><a href="https://cep100ansapres.monsite-orange.fr/" title="Le Corps Expéditionnaire Portugais pendant la Première Guerre Mondiale">Les morts du CEP, Corps Expéditionnaire Portugais, en Europe.</li>
+        </ul>
+
         <br /><br />
 
         <h2>Les villes pendant la Grande Guerre</h2>
@@ -263,7 +271,7 @@
         <ul>
             <li><a href="pdf/vdh_orleans-grande-guerre.pdf">Orléans pendant la Grande Guerre (Ville d'Orléans)</a></li>
             <li><a href="pdf/Maubeuge-1914-Duvivier.pdf" title="Histoire de Maubeuge en 1914 par Jules DUVUVIER">Maubeuge 1914 (Par Jules DUVUVIER)</a></li>
-        </ul>    
+        </ul>
 
         <br /><br />
 

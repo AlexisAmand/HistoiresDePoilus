@@ -143,8 +143,8 @@
 		<p>Le décret de <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">mobilisation</a> du 1 aout 1914 rappelle Florimond à l’activité au sein de la 11e batterie du 1er Régiment d’Artillerie qu’il rejoint le 3 aout 1914. Son “dossier d’ancien combattant”, que j’ai pu obtenir grâce à l’aide d’une bénévole du site Geneachtimi m’a permis d’en savoir un peu plus sur ses différentes affectations.</p>
 
 		<figure>
-			<a href="sources/dossier-florimond-letienne.jpg" data-fancybox="gallery" data-caption=" ">
-			<img src="miniatures/dossier-florimond-letienne.jpg" alt=" "></a>
+			<a href="sources/dossier-florimond-letienne.jpg" data-fancybox="gallery" data-caption="Extrait du dossier d'ancien combattant de Florimond">
+			<img src="miniatures/dossier-florimond-letienne.jpg" alt="Extrait du dossier de combattant de LETIENNE Florimond"></a>
 			<figcaption>Extrait du dossier d'ancien combattant de Florimond<br> (source : Archives Départementales du Nord)</figcaption>
 		</figure>
 

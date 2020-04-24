@@ -100,10 +100,6 @@
 	        <li><a href="https://archives.marne.fr/">Archives départementales de la Marne</a></li>
         </ul>
 
-        <p style="text-align:right">A suivre...</p>
-
-         
-
         </article>
 
     </section>

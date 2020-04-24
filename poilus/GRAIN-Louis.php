@@ -189,12 +189,24 @@
         <p>Le 7 septembre, à 11 heures 30, le Drapeau blanc est aperçu sur un clocher de Maubeuge. La Place de Maubeuge a capitulé. <strong>Louis GRAIN</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> furent entièrement faits prisonniers et furent parmi les 45 000 combattants de la poche de Maubeuge à être internés dans les camps allemands dont celui de <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">Chemnitz</a>, entre Dresde et Zwickau,  où ira Louis. </p>
 
         <figure>
-            <a id="single_image0" href="images/camp-de-chemnitz.jpg" title="le camp de Chemnitz pendant la Première Guerre Mondiale">
+            <a href="images/camp-de-chemnitz.jpg" data-fancybox="gallery" data-caption="le camp de Chemnitz pendant la Première Guerre Mondiale">
             <img src="miniatures/camp-de-chemnitz.jpg" alt="le camp de Chemnitz (Allemagne)"/></a>
             <figcaption>Le camp de Chemnitz<br>(source: Delcampe)</figcaption>
         </figure>
 
+        <figure>
+            <a href="portraits/louis-grain-chemnitz.jpg"  data-fancybox="gallery" data-caption="Louis au camp de Chemnitz (Allemagne)">
+            <img src="miniatures/louis-grain-chemnitz.jpg" alt="Louis GRAIN prisonnier au camp de Chemnitz pendant la Première Guerre Mondiale"/></a>
+            <figcaption>Louis au camp de Chemnitz<br>(source: Xavier B.)</figcaption>
+        </figure>
+
         <p>Selon son dossier d'ancien combattant, <strong>Louis</strong> est libéré du <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de Chemnitz</a> le 8 janvier 1919.</p>
+
+        <figure>
+            <a href="sources/carte-louis-grain.jpg"  data-fancybox="gallery" data-caption="Carte du combattant de Louis GRAIN datée de 1935">
+            <img src="miniatures/carte-louis-grain.jpg" alt="Carte d'ancien combattant de Louis GRAIN obtenue en 1935"/></a>
+            <figcaption>Carte du combattant de Louis (1935)<br>(source: Xavier B.)</figcaption>
+        </figure>
 
         <h2>...mais à Villers-Guislain, la guerre arrive.</h2>
 

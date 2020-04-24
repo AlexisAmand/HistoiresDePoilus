@@ -143,7 +143,7 @@
 
         <h2>Adrien et le Ier R.I</h2>
 
-        <p>A <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, <strong>Adrien VELU</strong> rejoint le <strong>1er Régiment d'Infanterie</strong> en tant que soldat de 2e classe. Le régiment part de Cambrai par voie ferrée dès le 5 août et arrive à Rumigny le même jour. Le 1er R.I s'est illustré en Argonne, à Verdun, au Chemin des Dames, dans la Somme, dans l'Aisne et pendant la Bataille de la Marne.</p> 
+        <p>A <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, <strong>Adrien VELU</strong> rejoint le <strong>1er Régiment d'Infanterie</strong> en tant que soldat de 2e classe. Le régiment part de Cambrai par voie ferrée dès le 5 août et arrive à Rumigny le même jour. Le 1er Régiment d'Infanterie s'est illustré en Argonne, à Verdun, au Chemin des Dames, dans la Somme, dans l'Aisne et pendant la Bataille de la Marne.</p> 
 
         <figure>
             <a href="images/Assaut-chemin-des-dames.jpg" data-fancybox="gallery" data-caption="Soldats français sur le Chemin des Dames">

@@ -191,7 +191,7 @@
 
         <figure>
             <a href="images/Friedrichsfeld/Marliere-Henri.jpg" data-fancybox="gallery" data-caption="La médaille des évadés du sergent Henri Marlière">
-            <img src="miniatures/Friedrichsfeld/Marliere-Henri.jpg" alt=" "></a>
+            <img src="miniatures/Friedrichsfeld/Marliere-Henri.jpg" alt="Médaille des évadés ayant appartenue au prisonnier Henri Marlière"></a>
             <figcaption>La médaille des évadés<br>(source: Mr D.)</figcaption>
         </figure>
 

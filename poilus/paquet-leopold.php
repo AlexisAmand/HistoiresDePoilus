@@ -171,7 +171,7 @@
         </tbody>
         </table>
 
-        <p>Léopold fait parti des millions d’hommes mobilisés par le décret du 1er août 1914. Soldat de 2 classe, il rejoint le 106e R.I où il arrive dès le lendemain. Il passe au 19e Bataillon de Chasseurs à Pied le 20 mars 1916, quelques jours après que celui ci soit arrivé à Suippes (Marne), par une froide journée de neige, dans l’attente de renforts.</p>
+        <p>Léopold fait parti des millions d’hommes mobilisés par le décret du 1er août 1914. Soldat de 2 classe, il rejoint le 106e Régiment d'Infanterie où il arrive dès le lendemain. Il passe au 19e Bataillon de Chasseurs à Pied le 20 mars 1916, quelques jours après que celui ci soit arrivé à Suippes (Marne), par une froide journée de neige, dans l’attente de renforts.</p>
 
         <p>Il est blessé à Bouchavesnes (Somme) le 7 octobre 1916, lors de l’attaque en direction de la « Tranchée de Fulda – Tête de Malassise ». Sa fiche matricule précise qu’il a des plaies au bras gauche et à la cuisse gauche dues à un éclats d’obus. Quelques jours plus tôt le bataillon avait été passé en revue par le président Poincaré, accompagné des généraux Joffre et Rocques.</p>
 

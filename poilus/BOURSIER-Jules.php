@@ -188,12 +188,12 @@
         <p>Jules Henri BOURSIER est fait prisonnier de guerre à Maubeuge le 7 septembre 1914. Les troupes françaises de Maubeuge capturées sont d’abord rassemblées à Rousies et une partie (dont Jules) est ensuite envoyée en internement à Friedrichsfeld (Allemagne).</p>
 
         <figure>
-        <a href="images/siege-maubeuge" data-fancybox="gallery" data-caption="Bombardement de la forteresse de Maubeuge par les Allemands">
-        <img src="miniatures/siege-maubeuge" alt="Des allemands pendant le siège de Maubeuge"></a>
+        <a href="images/siege-maubeuge.jpg" data-fancybox="gallery" data-caption="Bombardement de la forteresse de Maubeuge par les Allemands">
+        <img src="miniatures/siege-maubeuge.jpg" alt="Des allemands pendant le siège de Maubeuge"></a>
         <figcaption>Bombardement de la forteresse de Maubeuge par les Allemands<br>(source: Delcampe)</figcaption>
         </figure>
 
-        <p>Jules est transféré à Grossen (date inconnue) où il reste jusqu’au 20 juin 1918. Victime de bronchite chronique, il fait partie du transport de rapatriement à destination du Bern Oberland B (B.O.B), en Suisse, où il séjourne jusqu’au 2 novembre de la même année. Il termine la conflit par un mois de permission à Menville (Eure), dans doute en convalescence.</p>
+        <p>Jules est transféré à Grossen (date inconnue) où il reste jusqu’au 20 juin 1918. Victime de bronchite chronique, il fait partie du transport de rapatriement à destination du Bern Oberland B (B.O.B), en Suisse, où il séjourne jusqu’au 2 novembre de la même année. Il termine le conflit par un mois de permission à Menville (Eure), sans doute en convalescence.</p>
 
         <figure>
         <a href="sources/BOURSIER-Jules-Henri-CICR.jpg" data-fancybox="gallery" data-caption="Fiche numérisée du CICR">

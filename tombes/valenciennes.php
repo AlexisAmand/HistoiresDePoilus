@@ -186,7 +186,7 @@
 
     <h2>Etienne POSTILLE</h2>
 
-    <p>Né le 6 décembre 1888 à Valenciennes, Etienne POSTILLE rejoint, à la mobilisation, le 127e R.I en tant que soldat de 2e classe. Il est tué à l'ennemi à Le Port Fontenoy (Aisne) le 31 mai 1918.</p>
+    <p>Né le 6 décembre 1888 à Valenciennes, Etienne POSTILLE rejoint, à la mobilisation, le 127e Régiment d'Infanterie en tant que soldat de 2e classe. Il est tué à l'ennemi à Le Port Fontenoy (Aisne) le 31 mai 1918.</p>
 
     <figure>
         <a href="images/etienne-postille.jpg" data-fancybox="gallery" data-caption="Tombe d'Etienne POSTILLE, mort pour la France le 31 mai 1918">

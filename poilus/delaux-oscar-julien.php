@@ -148,12 +148,16 @@
                 <td headers="adresse">Rue Desaix<br>à Roubaix (Nord)</td>
             </tr>
             <tr>
-                <td headers="date">1 avril 1921</td>
+                <td headers="date">1 mai 1911</td>
                 <td headers="adresse">32 rue du Halage<br>à Anzin (Nord)</td>
             </tr>
             <tr>
                 <td headers="date">23 décembre 1921</td>
                 <td headers="adresse">32 rue du Halage<br>à Anzin (Nord)</td>
+            </tr>
+            <tr>
+                <td headers="date">7 décembre 1928</td>
+                <td headers="adresse">21 rue Victor Hugo<br>à Bruay-sur-L'Escaut (Nord)</td>
             </tr>
             <tr>
                 <td headers="date">12 novembre 1929</td>
