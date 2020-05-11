@@ -281,6 +281,13 @@
             <li><a href="https://museedelacartepostale.fr">Musée de la Carte Postale d'Antibes</a></li>
             <li><a href="https://www.iwm.org.uk/">Imperial War Museum</a></li>
         </ul>  
+        
+         <h2>Livres d'or</h2>
+               
+        <ul>
+            <li><a href="https://fr.calameo.com/books/0005835971cebca939211">Institution La Malgrange : Livre d'Or de la Grande Guerre (1° partie)</a></li>
+            <li><a href="https://fr.calameo.com/books/0005835977f825889813e">Institution La Malgrange : Livre d'Or de la Grande Guerre (2° partie)</a></li>
+        </ul> 
 
          
 
