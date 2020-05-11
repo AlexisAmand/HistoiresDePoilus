@@ -153,8 +153,8 @@
         <p>Porté disparu à Curlu (Somme) le 20 juillet 1916, son décès est constaté à Hem Monacu, une commune située à quelques kilomètres au nord-ouest de Péronne, le 3 septembre 1916. <strong>Louis Henri ROUSSEAUX</strong> est inhumé au Bois de la Pépinière sous le n°11. Il reçoit la croix de guerre avec étoile d'argent à titre posthume le 15 novembre 1920 pour être « tombé glorieusement » le 20 juillet 1916 lors de l'assaut des lignes de Maurepas (Somme). La Croix de Guerre est une médaille qui a été instituée par la loi du 8 avril 1915. Elle est en bronze florentin, a quatre branches et deux épées croisées.</p>
 
         <figure>
-            <a href="images/rousseau-louis-mpf.jpg" data-fancybox="gallery" data-caption="Louis ROUSSEAUX, mort pour la France">
-            <img src="miniatures/rousseau-louis-mpf.jpg" alt="Fiche de mort pour la France de Louis ROUSSEAUX"></a>
+            <a href="images/rousseau-louis-mpf.JPG" data-fancybox="gallery" data-caption="Louis ROUSSEAUX, mort pour la France">
+            <img src="miniatures/rousseau-louis-mpf.JPG" alt="Fiche de mort pour la France de Louis ROUSSEAUX"></a>
             <figcaption>Louis, mort pour la France<br>(source: Mémoire des Hommes)</figcaption>
         </figure>    
 

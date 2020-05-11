@@ -175,8 +175,8 @@
         <p>Le 5 août 1914, vers cinq heures, le <strong>33e Régiment d'Infanterie </strong>s'embarque en gare d'Arras (Pas-de-Calais) à destination d'Hirson (Aisne). L'auteur de l'<em>Historique du 33e Régiment d'Infanterie pendant la Grande Guerre</em> raconte que <em>"Les physionomies étaient rayonnantes d'entrain et de confiance. Tous portaient au cœur l'espoir d'une rapide épopée"</em>. Il ajoute ensuite que <em>le trajet d'Arras à Hirson se fit au milieu des chants et des fleurs</em>. A Hirson, des vivres de débarquement sont distribués aux Hommes. Faute de voiture disponible pour le transport des troupes,  les hommes sont retenus aux abords de la gare pendant près de 2 heures. Puis, le régiment cantonne à Saint-Michel (Aisne). </p>
 
         <figure>
-            <a href="" data-fancybox="gallery" data-caption="L'intérieur de la gare d'Arras en 1914-1915">
-            <img src="miniatures/gare-arras-1914.jpg" alt="L'intérieur de la gare d'Arras vers 1914-1915 sur une carte postale ancienne"/></a>
+            <a href="images/gare-arras-1914.JPG" data-fancybox="gallery" data-caption="L'intérieur de la gare d'Arras en 1914-1915">
+            <img src="miniatures/gare-arras-1914.JPG" alt="L'intérieur de la gare d'Arras vers 1914-1915 sur une carte postale ancienne"/></a>
             <figcaption>L'intérieur de la gare d'Arras en 1914-1915<br>(Source: Wikipedia Commons) </figcaption>
         </figure>
 
