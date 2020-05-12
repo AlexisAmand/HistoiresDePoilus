@@ -181,6 +181,8 @@
             <figcaption>Diverses ethnies représentées au camp<br>(source allemande)</figcaption>
         </figure>
 
+        <h2>Le sergent Henri Marlière</h2>
+
         <p>Ci-dessous, une photo de la baraque 19B où se trouvait le sergent Henri Marlière, le grand-père d'un lecteur du site. Il portait le matricule n° 8192 et était membre du 1er R.I.T. Il est fait prisonnier à Maubeuge en septembre 1914. Il a tenté 3 fois de s'évader et reçoit à ce titre la médaille des évadés, comme en atteste le document sous la photo.</p>
 
         <figure>
@@ -193,6 +195,34 @@
             <a href="images/Friedrichsfeld/Marliere-Henri.jpg" data-fancybox="gallery" data-caption="La médaille des évadés du sergent Henri Marlière">
             <img src="miniatures/Friedrichsfeld/Marliere-Henri.jpg" alt="Médaille des évadés ayant appartenue au prisonnier Henri Marlière"></a>
             <figcaption>La médaille des évadés<br>(source: Mr D.)</figcaption>
+        </figure>
+
+        <h2>Le sergent Etienne DADU</h2>
+
+        <p>Les photos qui suivent m'ont été transmises par la famille DADU. Selon la personne avec laquelle j'ai pu être en contact, Etienne DADU aurait été sergent et arreté au début de la guerre. Il vivait au baraquement 24B du camp de prisonniers de Friedrichsfeld.</p>
+
+        <figure>
+            <a href="images/friedrichsfeld/friedrichsfeld-table.jpg" data-fancybox="gallery" data-caption="A table au camp de Friedrichsfeld">
+            <img src="miniatures/friedrichsfeld/friedrichsfeld-table.jpg" alt=" "></a>
+            <figcaption>Des prisonniers à table<br>(source: Famille DADU)</figcaption>
+        </figure>
+
+        <figure>
+            <a href="images/friedrichsfeld/noel-1916.jpg" data-fancybox="gallery" data-caption="Noël 1916 au camp de Friedrichsfeld">
+            <img src="miniatures/friedrichsfeld/noel-1916.jpg" alt=" "></a>
+            <figcaption>Noël 1916 au camp<br>(source: Famille DADU)</figcaption>
+        </figure>
+
+        <figure>
+            <a href="images/friedrichsfeld/dans-le-camps-16-aout-1917.jpg" data-fancybox="gallery" data-caption=" ">
+            <img src="miniatures/friedrichsfeld/dans-le-camps-16-aout-1917.jpg" alt=" "></a>
+            <figcaption>dans-le-camps-16-aout-1917<br>(source: Famille DADU)</figcaption>
+        </figure>
+
+        <figure>
+            <a href="images/friedrichsfeld/moulin-de-friedrichsfeld.jpg" data-fancybox="gallery" data-caption="MLe moulin du camp de Friedrichsfeld">
+            <img src="miniatures/friedrichsfeld/moulin-de-friedrichsfeld.jpg" alt=" "></a>
+            <figcaption>Le moulin du camp<br>(source: Famille DADU)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>
