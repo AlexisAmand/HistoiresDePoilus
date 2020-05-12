@@ -1,70 +1,105 @@
-<?php  
-    
-    /* email cible */
-    define( 'MAIL_TO', 'alexis.amand@gmail.com' );   
+<?php
+/* Si le formulaire est envoyé alors on fait les traitements */
+if (isset($_POST['envoye']))
+{
+    /* Récupération des valeurs des champs du formulaire */
+    if (get_magic_quotes_gpc())
+    {
+      $civilite		= stripslashes(trim($_POST['civilite']));
+      $nom	     	= stripslashes(trim($_POST['nom']));
+      $expediteur	= stripslashes(trim($_POST['email']));
+      $sujet		= stripslashes(trim($_POST['sujet']));
+      $message		= stripslashes(trim($_POST['message']));
+    }
+    else
+    {
+      $civilite		= trim($_POST['civilite']);
+      $nom		    = trim($_POST['nom']);
+      $expediteur	= trim($_POST['email']);
+      $sujet		= trim($_POST['sujet']);
+      $message		= trim($_POST['message']);
+    }
+ 
+    /* Expression régulière permettant de vérifier si le 
+    * format d'une adresse e-mail est correct */
+    $regex_mail = '/^[-+.\w]{1,64}@[-.\w]{1,64}\.[-.\w]{2,6}$/i';
+ 
+    /* Expression régulière permettant de vérifier qu'aucun 
+    * en-tête n'est inséré dans nos champs */
+    $regex_head = '/[\n\r]/';
+ 
+    /* Si le formulaire n'est pas posté de notre site on renvoie 
+    * vers la page d'accueil */
+    if($_SERVER['HTTP_REFERER'] != 'http://histoiresdepoilus.genealexis.fr/contact2.php')
+    {
+      header('Location: http://histoiresdepoilus.genealexis.fr');
+    }
+    /* On vérifie que tous les champs sont remplis */
+    elseif (empty($civilite) 
+           || empty($nom) 
+           || empty($expediteur) 
+           || empty($sujet) 
+           || empty($message))
+    {
+      $alert = 'Tous les champs doivent être renseignés';
+    }
+    /* On vérifie que le format de l'e-mail est correct */
+    elseif (!preg_match($regex_mail, $expediteur))
+    {
+      $alert = 'L\'adresse '.$expediteur.' n\'est pas valide';
+    }
+    /* On vérifie qu'il n'y a aucun header dans les champs */
+    elseif (preg_match($regex_head, $expediteur) 
+            || preg_match($regex_head, $nom) 
+            || preg_match($regex_head, $sujet))
+    {
+        $alert = 'En-têtes interdites dans les champs du formulaire';
+    }
+    /* Si aucun problème et aucun cookie créé, on construit le message et on envoie l'e-mail */
+    elseif (!isset($_COOKIE['sent']))
+    {
+        /* Destinataire (votre adresse e-mail) */
+        $to = 'alexis.amand@gmail.com';
+ 
+        /* Construction du message */
+        $msg  = 'Bonjour,'."\r\n\r\n";
+        $msg .= 'Ce mail a été envoyé depuis Histoires de Poilus par '.$civilite.' '.$nom."\r\n\r\n";
+        $msg .= 'Voici le message qui vous est adressé :'."\r\n";
+        $msg .= '***************************'."\r\n";
+        $msg .= $message."\r\n";
+        $msg .= '***************************'."\r\n";
+ 
+        /* En-têtes de l'e-mail */
 
-    /* email de l'expéditeur par défaut */
-    define( 'MAIL_FROM', ' ' ); 
-
-    /* objet du mail par défaut */
-    define( 'MAIL_OBJECT', ' ' ); 
-
-    /* message par défaut */
-    define( 'MAIL_MESSAGE', ' ' );
-
-    $mailSent = false; // drapeau qui aiguille l'affichage du formulaire OU du récapitulatif  
-    $errors = array(); // tableau des erreurs de saisie  
-      
-    if( filter_has_var( INPUT_POST, 'send' ) ) // le formulaire a été soumis avec le bouton [Envoyer]  
-    {  
-        $from = filter_input( INPUT_POST, 'from', FILTER_VALIDATE_EMAIL );  
-        if( $from === NULL || $from === MAIL_FROM ) // si le courriel fourni est vide OU égale à la valeur par défaut  
-        {  
-            $errors[] = 'Vous devez renseigner votre adresse de courrier électronique.';  
-        }  
-        elseif( $from === false ) // si le courriel fourni n'est pas valide  
-        {  
-            $errors[] = 'L\'adresse de courrier électronique n\'est pas valide.';  
-            $from = filter_input( INPUT_POST, 'from', FILTER_SANITIZE_EMAIL );  
-        }  
-
-        $object = filter_input( INPUT_POST, 'object', FILTER_SANITIZE_STRING, FILTER_FLAG_ENCODE_HIGH | FILTER_FLAG_ENCODE_LOW );  
-        if( $object === NULL OR $object === false OR empty( $object ) OR $object === MAIL_OBJECT ) // si l'objet fourni est vide, invalide ou égale à la valeur par défaut  
-        {  
-            $errors[] = 'Vous devez renseigner l\'objet.';  
-        }  
-
- /* pas besoin de nettoyer le message.   
- / http://www.phpsecure.info/v2/article/MailHeadersInject.php  
- / Logiquement, les parties message, To: et Subject: pourraient servir aussi à injecter quelque chose,  mais la fonction mail()  
- / filtre bien les deux dernières, et la première est le message, et à partir du moment où on a sauté une ligne dans l'envoi du mail,  
- / c'est considéré comme du texte; le message ne saurait donc rester qu'un message.*/  
-
-        $message = filter_input( INPUT_POST, 'message', FILTER_UNSAFE_RAW );  
-        if( $message === NULL OR $message === false OR empty( $message ) OR $message === MAIL_MESSAGE ) // si le message fourni est vide ou égale à la valeur par défaut  
-        {  
-            $errors[] = 'Vous devez écrire un message.';  
-        }  
-
-        if( count( $errors ) === 0 ) // si il n'y a pas d'erreurs  
-        {  
-            if( mail( MAIL_TO, $object, $message, "From: $from\nReply-to: $from\n" ) ) // tentative d'envoi du message  
-            {  
-                $mailSent = true;  
-            }  
-            else // échec de l'envoi  
-            {  
-                $errors[] = 'Votre message n\'a pas été envoyé.';  
-            }  
-        }  
-    }  
-    else // le formulaire est affiché pour la première fois, avec les valeurs par défaut  
-    {  
-        $from = MAIL_FROM;  
-        $object = MAIL_OBJECT;  
-        $message = MAIL_MESSAGE;  
-    }  
-?>  
+        $headers = 'MIME-Version: 1.0'."\n";
+		$headers .= 'Content-type: text/html; charset=utf-8'."\n";				
+		$headers .='From: '.$nom.' <'.$expediteur.'>'."\r\n\r\n";
+ 
+        /* Envoi de l'e-mail */
+        if (mail($to, $sujet, $msg, $headers))
+        {
+            $alert = 'E-mail envoyé avec succès';
+ 
+            /* On créé un cookie de courte durée (ici 120 secondes) pour éviter de 
+            * renvoyer un mail en rafraichissant la page */
+            setcookie("sent", "1", time() + 120);
+ 
+            /* On détruit la variable $_POST */
+            unset($_POST);
+        }
+        else
+        {
+            $alert = 'Erreur d\'envoi de l\'e-mail';
+        }
+ 
+    }
+    /* Cas où le cookie est créé et que la page est rafraichie, on détruit la variable $_POST */
+    else
+    {
+        unset($_POST);
+    }
+}
+?>
 
 <!doctype html>
 <html lang="fr">
@@ -83,9 +118,25 @@
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
         <link rel="icon" type="image/png" href="images/favicon.png" />
 
-    </head>
+        <style>
 
-    <body>
+        .btn
+            {
+            background-color: #5b5b5b;
+            width: 100px;
+            padding: 8px;
+            text-align: center;
+            margin-left: 3px;
+            color: #e2ede4;
+            text-decoration: none;
+            }
+
+        </style>
+
+    </head>
+<body>
+
+<body>
 
     <script src="js/cookiechoices.js"></script>
 
@@ -114,7 +165,7 @@
         <a href="camps.php">Les Camps</a>
         <a href="tombes.php">Les Tombes</a>
         <a href="hopitaux/hopitaux.php">Les Hôpitaux</a>
-        <a href="poilus.php">Les Poilus</a>     
+        <a href="poilus.php">Les Poilus</a>
     </nav>
 
     <section>
@@ -122,71 +173,90 @@
         <article style="margin-left:0px;">
 
         <h1>Pour me contacter</h1>
-                
-        <?php  
-            if( $mailSent === true ) // si le message a bien été envoyé, on affiche le récapitulatif  
-            {  
-        ?>  
-
-                <p>Votre message a bien été envoyé.</p>  
-                <p><strong>Courriel pour la réponse :</strong><br><?php echo( $from ); ?></p>  
-                <p><strong>Objet :</strong><br><?php echo( $object ); ?></p>  
-                <p><strong>Message :</strong><br><?php echo( nl2br( htmlspecialchars( $message ) ) ); ?></p>  
-        <?php  
-            }  
-            else // le formulaire est affiché pour la première fois ou le formulaire a été soumis mais contenait des erreurs  
-            {  
-                if( count( $errors ) !== 0 )  
-                {  
-                    echo( "\t\t<ul>\n" );  
-                    foreach( $errors as $error )  
-                    {  
-                        echo( "\t\t\t<li>$error</li>\n" );  
-                    }  
-                    echo( "\t\t</ul>\n" );  
-                }  
-                else  
-                {  
-                    echo( "\t\t<p><em>Tous les champs sont obligatoires</em></p>\n" );  
-                }  
-        ?>  
-
-                <form method="post" action="<?php echo( $_SERVER['REQUEST_URI'] ); ?>">  
-                
-                        <?php /* TODO: mettre en page avec des CSS pour qu'il y ait de l'espace entre les labels */ ?>
-                
-                        <label for="from">Courriel pour la réponse</label><br>
-                        <input type="text" name="from" id="from" value="<?php echo( $from ); ?>" /><br>  
-                
-                        <label for="object">Objet</label><br>
-                        <input type="text" name="object" id="object" value="<?php echo( $object ); ?>" /><br>  
-                    
-                        <label for="message">Message</label><br>  
-                        <textarea name="message" id="message" rows="20" cols="80"><?php echo( $message ); ?></textarea><br>  
-                
-                        <input type="reset" name="reset" value="Effacer" class="btn"/>  
-                        <input type="submit" name="send" value="Envoyer" class="btn"/>    
-                
-                </form>  
-        <?php  
-            }  
-        ?>  
-
-         
-
+ 
+        <?php
+        if (!empty($alert))
+        {
+            echo '<p style="color:red">'.$alert.'</p>';
+        }
+        ?>
+        
+        <form action="contact2.php" method="post">
+            <p>
+                <label for="civilite">Civilité :</label>
+                <select id="civilite" name="civilite">
+                    <option 
+                        value="mr"
+                        <?php 
+                            if (!isset($_POST['civilite']) || $_POST['civilite'] == 'mr')
+                            {
+                                echo ' selected="selected"';
+                            }
+                        ?>
+                    >
+                        Monsieur
+                    </option>
+                    <option 
+                        value="mme"
+                        <?php 
+                            if (isset($_POST['civilite']) && $_POST['civilite'] == 'mme')
+                            {
+                                echo ' selected="selected"';
+                            }
+                        ?>
+                    >
+                        Madame
+                    </option>
+                    <option 
+                        value="mlle"
+                        <?php 
+                            if (isset($_POST['civilite']) && $_POST['civilite'] == 'mlle')
+                            {
+                                echo ' selected="selected"';
+                            }
+                        ?>
+                    >
+                        Mademoiselle
+                    </option>
+                </select>
+            </p>
+            <p>
+                <label for="nom">Nom/Prénom :</label>
+                <input type="text" id="nom" name="nom" value="<?php echo (isset($_POST['nom'])) ? $nom : '' ?>" />
+            </p>
+            <p>
+                <label for="email">E-mail :</label>
+                <input type="text" id="email" name="email" value="<?php echo (isset($_POST['email'])) ? $expediteur : '' ?>" />
+            </p>
+            <p>
+                <label for="sujet">Sujet :</label>
+                <input type="text" id="sujet" name="sujet" value="<?php echo (isset($_POST['sujet'])) ? $sujet : '' ?>" />
+            </p>
+            <p>
+                <label for="message">Message :</label>
+                <textarea id="message" name="message" cols="40" rows="10">
+                    <?php echo (isset($_POST['message'])) ? $message : '' ?>
+                </textarea>
+            </p>
+            <p>
+                <input type="reset" name="reset" value="Effacer" class="btn"/>  
+                <input type="submit" name="envoye" value="Envoyer" class="btn"/>
+            </p>
+        </form>
+ 
         </article>
 
     </section>
 
-    <footer><?php include('include/footer.inc'); ?></footer>
+<footer><?php include('include/footer.inc'); ?></footer>
 
-    <?php include('include/stats.inc'); ?>
+<?php include('include/stats.inc'); ?>
 
-    <!-- javascript -->
+<!-- javascript -->
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
-    <script type="text/javascript" src="js/jquery.fancybox.min.js"></script>
-    <script type="text/javascript" src="js/script.js"></script>
-    
-    </body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+<script type="text/javascript" src="js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+
+</body>
 </html>
