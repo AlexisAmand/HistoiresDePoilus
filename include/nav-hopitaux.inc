@@ -9,7 +9,7 @@
 </nav>
 
 <div id="navbis">
-    <a href="hopitaux-59.php">Hopitaux du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="hopitaux-62.php">Hopitaux du Pas-de-Calais</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="hopitaux-80.php">Hopitaux de la Somme</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="hopitaux-59.php">hôpitaux du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="hopitaux-62.php">hôpitaux du Pas-de-Calais</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="hopitaux-80.php">hôpitaux de la Somme</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 </div>

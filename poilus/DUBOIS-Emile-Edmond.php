@@ -155,6 +155,8 @@
 
         <p><em>"Le choc a lieu le 25 août. Le Régiment est en deuxième ligne. La 56e Division d'Infanterie obtient un succès important et repousse complètement l'ennemi à Buzy le contraignant à battre en retraite et lui infligeant de grosses pertes. La situation critique de l'Aile Gauche de l'Armée Française est telle que le succès n'est pas exploité et la 56e Division d'Infanterie reçoit l'ordre de rompre le combat pour être transportée vers le Nord. Le 294e Régiment d'Infanterie embarque en chemin de fer à Dugny et à Dieue, débarque à Moyenneville et Tricot (Oise) et se dirige sur Montdidier pour prendre position en avant de Senlis."</em></p>
 
+        <div id="Duperrier_Selva"></div>
+
         <h2>Le combat de Senlis</h2>
 
         <p><em>"La 56e Division d'Infanterie a pour mission de ralentir la marche de l'ennemi dont les avant-gardes cherchent à se rapprocher de Paris. Le 2 septembre, le régiment en arrière garde de la 56e Division d'Infanterie, reçoit l'ordre de tenir les lisères de Senlis jusqu'à 13 heures. Dès l'aube, les éléments avancés de l'ennemi attaquent, mais ne parviennent pas, malgré le tir acharné de leur artillerie, à nous déloger et le Régiment résiste sur les positions qui ont été assignées jusqu'à 15 heures, se replie ensuite par les bois et par la ville de Senlis. Le 3, le Régiment se dégage et se replie sur Ory-la-Ville, le Lieutenant Colonel DUPERRIER, malade, est évacué et le Chef de Bataillon SELVA prend le commandement du régiment. Le 4, le Régiment cantonne à Dammartin-en-Goele, et prend le lendemain la direction de l'Est, se dirigeant vers Saint-Soupplet."</em></p>

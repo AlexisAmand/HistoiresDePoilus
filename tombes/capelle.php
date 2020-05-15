@@ -94,6 +94,8 @@
             <figcaption>Le monument de Capelle-sur-Ecaillon<br>(Source: Photo privée)</figcaption>
         </figure>
 
+        <div id="Leon-Basuyau"></div>
+
         <h2>Léon Paul BASUYAU</h2>
 
         <p>Soldat au 127e Régiment d'Infanterie, Léon Paul BASUYAU est né à Capelle-sur-Ecaillon (Nord) le 20 avril 1889. Il est tué à l'ennemi à Menil-les-Hurlus (Marne) le 19 février 1915. Son nom figure sur le monument aux morts et dans le livre d'or de la commune.</p>
@@ -105,6 +107,8 @@
             <br>d'après le carnet de guerre d'Albert Labbé<br>(Source: Wikipedia Commons)</figcaption>
         </figure>
 
+        <div id="Edouard-Decoster"></div>
+
         <h2>Edouard Gaston DECOSTER</h2>
 
         <p>Edouard est né à Saint-Pol-sur-Mer (Nord) le 11 octobre 1889. Soldat au 110e d'Infanterie, il est décédé des suites de ses blessures de guerre à l'hôpital complémentaire n°42 d'Orléans (Loiret) le 21 décembre 1914. Son nom figure sur le monument aux morts de la commune mais il est indiqué comme radié du livre d'or. L'hôpital complémentaire n°42 était situé au lycée de garçons. Il a fonctionné d'aout 1914 à juillet 1917 et comportait 160 lits.</p>
@@ -114,6 +118,8 @@
             <img src="../hopitaux/miniatures/lycee-orleans.jpg" alt="L'Hôpital Complémentaire n°42 au Lycée de garçons d'Orléans pendant la Grande Guerre"/></a>
             <figcaption>Le Lycée de garçons<br />où s'installe l'Hôpital Complémentaire n°42<br />(Source: Archives Municipales d'Orléans)</figcaption>
         </figure>
+
+        <div id="Joseph-Vanesse"></div>
 
         <h2>Joseph VANESSE</h2>
 

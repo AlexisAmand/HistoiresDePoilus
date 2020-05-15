@@ -48,6 +48,7 @@
 
     <ul>
         <li><a href="camp-bad-orb.php">Bad Orb</a></li>
+        <li><a href="camp-bayreuth.php">Bayreuth</a></li>
         <li><a href="camp-bochum.php">Bochum</a></li>
         <li><a href="camp-chemnitz.php">Chemnitz</a></li>
         <li><a href="camp-czersk.php">Czersk</a></li>
@@ -114,13 +115,18 @@
 
         <h1>Le camp de prisonniers de Merzdorf </h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+        <figure>
+            <a href="images/Merzdorf/plan-merzdorf.jpg" data-fancybox="gallery" data-caption="Plan du camp de Merzdorf pendant la Grande Guerre">
+            <img src="miniatures/Merzdorf/plan-merzdorf.jpg" alt="Plan du camp de prisonniers de Merzdorf pendant la Première Guerre Mondiale"></a>
+            <figcaption>Plan du camp de Merzdorf<br>(Le Globe, Revue genevoise de géographie, tome 58 (1919))</figcaption>
+        </figure>
 
         <h2>Sources et bibliographie</h2>
 
         <ul>
             <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+            <li><a href="../pdf/globe-58-1919.pdf">Le Globe, Revue genevoise de géographie, tome 58 (1919)</a></li>
         </ul>
         
          

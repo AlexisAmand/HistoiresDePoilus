@@ -148,9 +148,11 @@
             <figcaption>Extrait de sa fiche matricule<br>(source: Archives Départementales du Nord)</figcaption> 
         </figure>
 
+        <div id="Lafeuille"></div>
+
         <h2> Noël et le "Centre de résistance de Rocq"</h2>
 
-        <p>Selon son dossier d'ancien combattant, <strong>Noël Jules</strong> fait partie de la 16e batterie du 13e groupe auxiliaire du <strong>1er Régiment d'Artillerie à Pied</strong> sous les ordres du capitaine Lafeuille (voir document en bas de la page). Pourquoi une telle différence entre la fiche matricule, qui indique le 2e R.I.T, et sa carte d'ancien combattant qui indique 1er R.A.P ? Mystère...!</p><p>Les soldats du 1er Régiment d'Artillerie à Pied étaient stationnés sur l'ensemble qui prendra le nom de « Centre de résistance de Rocq ». </p><p>Le 2 septembre 1914, le bombardement reprend sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance. </p>
+        <p>Selon son dossier d'ancien combattant, <strong>Noël Jules</strong> fait partie de la 16e batterie du 13e groupe auxiliaire du <strong>1er Régiment d'Artillerie à Pied</strong> sous les ordres du capitaine LAFEUILLE (voir document en bas de la page). Pourquoi une telle différence entre la fiche matricule, qui indique le 2e R.I.T, et sa carte d'ancien combattant qui indique 1er R.A.P ? Mystère...!</p><p>Les soldats du 1er Régiment d'Artillerie à Pied étaient stationnés sur l'ensemble qui prendra le nom de « Centre de résistance de Rocq ». </p><p>Le 2 septembre 1914, le bombardement reprend sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance. </p>
 
         <figure>
             <a href="images/fort-cerfontaine.jpg" data-fancybox="gallery" data-caption="L'entrée du Fort de Cerfontaine">

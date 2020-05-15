@@ -48,6 +48,7 @@
 
     <ul>
         <li><a href="camp-bad-orb.php">Bad Orb</a></li>
+        <li><a href="camp-bayreuth.php">Bayreuth</a></li>
         <li><a href="camp-bochum.php">Bochum</a></li>
         <li><a href="camp-chemnitz.php">Chemnitz</a></li>
         <li><a href="camp-czersk.php">Czersk</a></li>
@@ -127,6 +128,8 @@
             <img src="miniatures/Giessen/giessen-04.jpg" alt="Vue du camp de prisonniers de Giessen pendant la Grande Guerre"></a>
             <figcaption>Vue du camp de Giessen<br>(source : Delcampe)</figcaption>
         </figure>
+
+        <div id="Jean_Bescond"></div>
 
         <p>Jean BESCOND était sergent au 2e Régiment d'Infanterie Coloniale. Fait prisonnier dans l'Argonne le 17 novembre 1914, il est envoyé au camp de Giessen. Evacué sur la Suisse le 2 mai 1916 pour tuberculose pulmonaire, il témoigne dans un rapport: <em>"Ce camp était connu parmi les prisonniers français sous le nom de camp de la faim"</em>. Il raconte également avoir vu un camarade nommé Gaston PARIS mourir de faim, et dit avoir eu connaissance de 48 cas de morts par la faim parmi les Français. Jean précise également qu'il n'y avait pas de punitions à Giessen.</p>
 

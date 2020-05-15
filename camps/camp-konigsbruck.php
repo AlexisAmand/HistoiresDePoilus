@@ -48,6 +48,7 @@
 
     <ul>
         <li><a href="camp-bad-orb.php">Bad Orb</a></li>
+        <li><a href="camp-bayreuth.php">Bayreuth</a></li>
         <li><a href="camp-bochum.php">Bochum</a></li>
         <li><a href="camp-chemnitz.php">Chemnitz</a></li>
         <li><a href="camp-czersk.php">Czersk</a></li>
@@ -114,8 +115,16 @@
 
         <h1>Le camp de prisonniers de Königsbrück</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+        <p>Ce camp était situé à Königsbrück, une ville de Saxe qui est elle-même située à promoximité de Dresde, dans l'est de l'Allemagne.</p>
 
+        <figure>
+            <a href="images/Konigsbruck/localisation.jpg" data-fancybox="gallery" data-caption="carte de l'Allemagne pour localiser le camp de prisonnier de Königsbrück">
+            <img src="miniatures/Konigsbruck/localisation.jpg" alt="Localisation du camp de Königsbrück"></a>
+            <figcaption>Localisation du camp de Königsbrück<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
+        </figure>
+
+        <p>Au début de l'année 1915, pendant une visite de l'Ambassade d'Espagne au camp de Königsbrüc, les médecins allemands rejettent la responsabilité du dévelloppement important de la tuberculose dans les camps de prisonniers sur le <em>"temperament de la race française, prédisposée à la tuberculose"</em> Pour ettayer leurs propos, les médecins allemands insistent sur le grand nombre de français malades en ce mois de janvier 1915.</p>
+   
         <figure>
             <a href="images/Konigsbruck/camp-konigsbruck-01.jpg" data-fancybox="gallery" data-caption="Prisonniers français à Königsbrück">
             <img src="miniatures/Konigsbruck/camp-konigsbruck-01.jpg" alt="Un groupe de prisonniers français au camp de Königsbrück"></a>
@@ -125,8 +134,12 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
-            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+            <li><a href="https://amzn.to/2MTTkR9">
+            Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
+            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">
+            Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+            <li><a href="https://amzn.to/2Anc36j" title="Le traitement des prisonniers français en Allemagne par Dr. de Christmas">
+            Le traitement des prisonniers français en Allemagne</a> (Dr. de Christmas)</li>
         </ul>
 
          

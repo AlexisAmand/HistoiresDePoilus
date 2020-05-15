@@ -48,6 +48,7 @@
 
     <ul>
         <li><a href="camp-bad-orb.php">Bad Orb</a></li>
+        <li><a href="camp-bayreuth.php">Bayreuth</a></li>
         <li><a href="camp-bochum.php">Bochum</a></li>
         <li><a href="camp-chemnitz.php">Chemnitz</a></li>
         <li><a href="camp-czersk.php">Czersk</a></li>
@@ -127,6 +128,8 @@
             <img src="miniatures/Heuberg/Heuberg-01.jpg" alt="l'arrivée des prisonniers au camp de Heuberg pendant la Première Guerre Mondiale"></a>
             <figcaption>L'arrivée au camp<br>(source allemande)</figcaption>
         </figure>
+
+        <div id="Gaudineau"></div>
 
         <p>Le 2 septembre 1916, le Bulletin de l'Office d'information des oeuvres de secours aux prisonniers de guerre indique qu'au camp de Heuberg fonctionne différentes commissions qui sont composées par un adjudant ou sous-officier par compagnie. Ces commissions ont été élues par ces adjudants et sont ignorées par le commandement allemand, sauf celle des  nécessiteux. On se réunit deux fois par mois pour discuter toutes les questions intéressant les prisonniers français. Il y a des commissions de nécessiteux, jeux, théâtre, bibliothèque, cimetière et contrôle. Le comité des nécessiteux est composé des chefs de section de chaque compagnie, et a pour président, l'adjudant GAUDINEAU. Outre les envois reçus de France, la caisse des nécessiteux est alimentée par un versement mensuel prélevé sur les recettes du théâtre.</p> 
 

@@ -48,6 +48,7 @@
 
     <ul>
         <li><a href="camp-bad-orb.php">Bad Orb</a></li>
+        <li><a href="camp-bayreuth.php">Bayreuth</a></li>
         <li><a href="camp-bochum.php">Bochum</a></li>
         <li><a href="camp-chemnitz.php">Chemnitz</a></li>
         <li><a href="camp-czersk.php">Czersk</a></li>
@@ -121,6 +122,8 @@
             <figcaption>Localisation du camp de Friedrichsfeld<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
+        <div id="Major_Bach"></div>
+
         <p>Dans un rapport adressé au Ministère de la Guerre le 20 août 1914, le médecin major de 1e classe CHON, du 14e Régiment de Hussard, fait prisonnier à Ethe (Belgique) le 22 août 1914, emprisonné aux camps de Friedrichsfeld et Senne, puis ramené en Suisse pour raison de santé, rapporte que <em>"le sous-chef du camp [de Friedrichsfeld], le Major BACH, avait donné l'ordre de fusiller les fuyard et promettait une indemnité de 70 marks à tout homme qui rapporterait le cadavre d'un français. Le fait nous a été rapporté par un ordonnance allemande qui se ventait d'avoir abattu un prisonnier français dans ces conditions".</em></p>
 
         <figure>
@@ -181,9 +184,11 @@
             <figcaption>Diverses ethnies représentées au camp<br>(source allemande)</figcaption>
         </figure>
 
-        <h2>Le sergent Henri Marlière</h2>
+        <div id="Henri-Marliere"></div>
 
-        <p>Ci-dessous, une photo de la baraque 19B où se trouvait le sergent Henri Marlière, le grand-père d'un lecteur du site. Il portait le matricule n° 8192 et était membre du 1er R.I.T. Il est fait prisonnier à Maubeuge en septembre 1914. Il a tenté 3 fois de s'évader et reçoit à ce titre la médaille des évadés, comme en atteste le document sous la photo.</p>
+        <h2>Le sergent Henri MARLIERE</h2>
+
+        <p>Ci-dessous, une photo de la baraque 19B où se trouvait le sergent Henri MARLIERE, le grand-père d'un lecteur du site. Il portait le matricule n° 8192 et était membre du 1er R.I.T. Il est fait prisonnier à Maubeuge en septembre 1914. Il a tenté 3 fois de s'évader et reçoit à ce titre la médaille des évadés, comme en atteste le document sous la photo.</p>
 
         <figure>
             <a href="images/Friedrichsfeld/baraque-19B.jpg" data-fancybox="gallery" data-caption="La baraque 19B où se trouvait le sergent Henri Marlière">
@@ -196,6 +201,8 @@
             <img src="miniatures/Friedrichsfeld/Marliere-Henri.jpg" alt="Médaille des évadés ayant appartenue au prisonnier Henri Marlière"></a>
             <figcaption>La médaille des évadés<br>(source: Mr D.)</figcaption>
         </figure>
+
+        <div id="Etienne-Dadu"></div>
 
         <h2>Le sergent Etienne DADU</h2>
 

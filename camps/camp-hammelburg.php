@@ -48,6 +48,7 @@
 
     <ul>
     <li><a href="camp-bad-orb.php">Bad Orb</a></li>
+    <li><a href="camp-bayreuth.php">Bayreuth</a></li>
     <li><a href="camp-bochum.php">Bochum</a></li>
     <li><a href="camp-chemnitz.php">Chemnitz</a></li>
     <li><a href="camp-czersk.php">Czersk</a></li>
@@ -123,6 +124,8 @@
         </figure>  
 
         <p>Le camp de Hammelburg était situé en Franconie, dans le Land de Bavière. Dans son ouvrage intitulé <cite>Août 1914. La Bataille de Sarrebourg</cite>, Joseph ELMERICH précise que la Bavière, qui avait fourni sa propre armée, avait préparé trois camps destinés à recevoir les prisonniers: <a href="camp-lechfeld.php" title="lien vers la page consacrée au camp de Lechfeld">le camp de Lechfeld</a> (3600 prisonniers), le camp de Hammelburg (4470 prisonniers) et enfin celui de <a href="camp-grafenwohr.php" title="lien vers la page consacrée au camp de Grafenwohr">Grafenwöhr</a> (10500 prisonniers). </p>
+
+        <div id="Charles_Lewine"></div>
 
         <p>Charles LEWINE, membre du 245e de ligne, a été fait prisonnier à Villerzy le 23 août 1914 et interné au camp de Hammelburg. Dans un rapport écrit suite à son évacuation en Suisse pour laryngite et tuberculose pulmonaire le 24 mai 1916, il raconte que <em>"les paillasses, dans ce camp, n'étaient changées que tous les cinq à six mois, elles grouillaient de vermine. La nourriture était bonne au début, mais devint plus tard, mauvaise et insuffisante. On trouvait dans le pain de la sciure de bois et de la paille hachée. Il y a eu dans ce camp, une petite épidémie de variole"</em>.</p>
 

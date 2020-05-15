@@ -81,6 +81,8 @@
                 <figcaption>Le Départ des Poilus<br>(par Albert Herbert)</figcaption>
             </figure>
 
+            <p>N'hésitez pas à consulter la <a href="index_noms.php">liste des soldats mentionnés</a> sur le site ou à lire <a href="poilus/amand-hoche.php">les biographies de soldats</a>.</p>
+
             <h2>Quelles étaient les forces en présence ?</h2>
 
             <p>Dès l'été 1914, la France et l'Allemagne étaient en position de force. En effet, le service militaire obligatoire leur permettait de mobiliser un nombre très important d'hommes : 3,6 millions pour la France et 4 millions pour l'Allemagne.  Ces chiffres sont toutefois à relativiser car ils prennent en compte les territoriaux qui sont chargés de faire fonctionner l'administration de guerre et de garder les voies de communication (c'est par exemple le cas de <a href="poilus/JOLY-Noel-Jules.php" title="Biographie du poilu Noël JOLY">Noël JOLY</a> ou d'<a href="poilus/MAILLART-Alexandre.php" title="Biographie du poilu Alexandre MAILLART">Alexandre MAILLART</a>). Il faut donc ramener le nombre de combattants à 1,3 millions pour la France et 1,5 millions pour l'Allemagne. De plus, en cas de guerre, la classe première à marcher pouvait être appelée par anticipation. C'est pourquoi l'armée active comprenait également en août la classe 1913 (hommes nés en 1893) qui n'aurait dû être appelée qu'à l'automne.</p>

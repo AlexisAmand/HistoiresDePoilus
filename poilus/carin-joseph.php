@@ -150,8 +150,8 @@
 			<li>Il est évacué de Darmstardt vers Schneidemühl le 4 aout 1915 (selon le CIRC)
 			
 			<figure>
-				<a href="sources/carin-joseph-cicr-01" data-fancybox="gallery" data-caption="Fiche de la Croix-Rouge de Joseph CARIN">
-				<img src="miniatures/carin-joseph-cicr-01" alt="Fiche de prisonnier issue des archives de la Croix-Rouge concernant Joseph CARIN"/></a>
+				<a href="sources/carin-joseph-cicr-01.jpg" data-fancybox="gallery" data-caption="Fiche de la Croix-Rouge de Joseph CARIN">
+				<img src="miniatures/carin-joseph-cicr-01.jpg" alt="Fiche de prisonnier issue des archives de la Croix-Rouge concernant Joseph CARIN"/></a>
 				<figcaption>Fiche de la Croix-Rouge<br>(Source: Croix Rouge)</figcaption>
 			</figure>
 
@@ -159,8 +159,8 @@
 			<li>Le 16 octobre 1918, il est cité comme prisonnier à Schneidemühl (selon la Croix-Rouge), pris "enfant perdu". C'est le nom que l'on donnait à une avant garde ou aux éclaireurs dans l'armée au XIXe siècle.
 
 			<figure>
-				<a href="sources/carin-joseph-cicr-03" data-fancybox="gallery" data-caption="Fiche de la Croix-Rouge de Joseph CARIN">
-				<img src="miniatures/carin-joseph-cicr-03" alt="Fiche de prisonnier issue des archives de la Croix-Rouge concernant Joseph CARIN"/></a>
+				<a href="sources/carin-joseph-cicr-03.jpg" data-fancybox="gallery" data-caption="Fiche de la Croix-Rouge de Joseph CARIN">
+				<img src="miniatures/carin-joseph-cicr-03.jpg" alt="Fiche de prisonnier issue des archives de la Croix-Rouge concernant Joseph CARIN"/></a>
 				<figcaption>Fiche de la Croix-Rouge<br>(Source: Croix Rouge)</figcaption>
 			</figure>
 

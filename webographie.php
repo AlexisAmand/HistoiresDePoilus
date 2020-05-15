@@ -149,6 +149,7 @@
             Aus deutschen Kriegsgefangenenlagern</a><br>(Deutsches Rotes Kreuz)</li>
             <li><a href="https://catalogue.bnf.fr/ark:/12148/cb32724205h">Bulletin de la Société de secours aux blessés militaires</a></li>
             <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k755527">La Vie à la caserne au point de vue social</a> (par le Lieutenant Guennebaud)</li>
+            <li><a href="pdf/globe-58-1919.pdf">La distribution géographique des prisonniers de guerre pendant le conflit mondial de 1914-1919</a><br />(Le Globe, Revue genevoise de géographie, tome 58 (1919))</li>
         </ul>
 
         <br><br>
@@ -234,6 +235,13 @@
 
         <br><br>
 
+        <h2>Recherches dans l'Empire Britannique</h2>
+
+        <ul>
+            <li><a href="https://astreetnearyou.org/">A Street Near You</a> (Localisation de tombes et de cimetières du commonwealth, contient de nombreuses photos de soldats)</li>
+
+        <br><br>
+
         <h2>Recherches en France</h2>
 
         <ul>
@@ -282,14 +290,14 @@
             <li><a href="https://www.iwm.org.uk/">Imperial War Museum</a></li>
         </ul>  
         
-         <h2>Livres d'or</h2>
+        <br><br>
+
+        <h2>Livres d'or</h2>
                
         <ul>
             <li><a href="https://fr.calameo.com/books/0005835971cebca939211">Institution La Malgrange : Livre d'Or de la Grande Guerre (1° partie)</a></li>
             <li><a href="https://fr.calameo.com/books/0005835977f825889813e">Institution La Malgrange : Livre d'Or de la Grande Guerre (2° partie)</a></li>
         </ul> 
-
-         
 
         </article>
 

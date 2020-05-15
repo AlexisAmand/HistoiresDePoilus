@@ -82,6 +82,8 @@
 
     <h1>Tombes de poilus à Valenciennes</h1>
 
+    <div id="Andre_Bernard"></div>
+
     <h2>André BERNARD</h2>
 
     <p>Sous-Lieutenant au 91e Régiment d'Infanterie, André Georges Louis BERNARD est né à Valenciennes le 27 aout 1895. Il est décédé des suites de ses blessures à Moncetz (Marne) le 29 novembre 1916.</p>
@@ -98,6 +100,8 @@
         <figcaption>Tombe d'André BERNARD<br>cimetière Saint-Roch (Valenciennes)</figcaption>
     </figure>
 
+    <div id="Lucien_Boddaert"></div>
+
     <h2>Lucien BODDAERT</h2>
 
     <p>Lucien René Désiré BODDAERT est né à Saint-Omer (Pas-de-Calais) le 22 octobre 1890. Pendant la Grande Guerre, il rejoint le Bataillon de fusiliers Marins en tant que second maître fusiliers. Il est décédé des suites de ses blessures de guerre le 30 mars 1917 à l'ambulance "Océan", un hôpital de campagne belge installé à La Panne (Belgique). Il repose au cimetière Saint-Roch de Valenciennes.</p>
@@ -113,6 +117,8 @@
         <img src="images/mini/lucien-boddaert-02.jpg" alt="Tombe de Lucien BODDAERT, un poilu mort pour la France en 1917"/></a>
         <figcaption>Tombe de Lucien BODDAERT<br>cimetière Saint-Roch (Valenciennes)</figcaption>
     </figure>
+
+    <div id="Gouvion"></div>
 
     <h2>René et Maurice GOUVION</h2>
 
@@ -142,6 +148,8 @@
         <figcaption>Tombe de René GOUVION<br>cimetière Saint-Roch (Valenciennes)</figcaption>
     </figure>
 
+    <div id="Lucien-Masclet"></div>
+
     <h2>Lucien MASCLET</h2>
 
     <p>Lucien Léopold Fénélon MASCLET est né à Valenciennes le 12 mars 1893. A la mobilisation, il est caporal au sein du 127e Régiment d'Infanterie. Il est tué à l'ennemi le 12 novemvre 1914 à Soupir (Aisne).</p>
@@ -158,6 +166,8 @@
         <figcaption>Tombe de Lucien MASCLET<br>cimetière Saint-Roch (Valenciennes)</figcaption>
     </figure>
     
+    <div id="Rene-Mirland"></div>
+
     <h2>René MIRLAND</h2>
 
     <p>Sous-lieutenant au 151 Régiment d'Infanterie, René Felix Henri MIRLAND est né à Bailleul (Nord) le 30 mai 1884. Il est décédé de ses blessures au lazaret de Grandpré (Ardennes) le 6 juillet 1915. Sa fiche de "Mort pour la France" indique qu'il y est inhumé.</p>
@@ -173,6 +183,8 @@
         <img src="images/mini/rene-mirland-02.jpg" alt="Tombe de René MIRLAND, un poilu mort pour la France en 1915"/></a>
         <figcaption>Tombe de René MIRLAND<br>cimetière Saint-Roch (Valenciennes)</figcaption>
     </figure>
+
+    <div id="Georges-Nollin"></div>
     
 	<h2>Georges NOLLIN</h2>
 
@@ -183,6 +195,8 @@
         <img src="images/mini/georges-nollin-01.jpg" alt="Tombe de Georges NOLLIN, poilu mort pour la France pendant la Grande Guerre"/></a>
         <figcaption>Tombe de Georges NOLLIN<br>cimetière Saint-Roch (Valenciennes)</figcaption>
     </figure>
+
+    <div id="Etienne-Postille"></div>
 
     <h2>Etienne POSTILLE</h2>
 
@@ -195,6 +209,8 @@
     </figure>
 
     <h2>Tombes non indentifiées pour le moment</h2>
+
+    <div id="inconnu-01"></div>
 
     <figure>
         <a href="images/inconnu-01.jpg" data-fancybox="gallery" data-caption="Tombe d'un soldat mort pour la France">

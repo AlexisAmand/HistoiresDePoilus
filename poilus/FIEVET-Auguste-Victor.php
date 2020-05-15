@@ -182,6 +182,8 @@
 
         <p>Le 7 août, le régiment cantonne à Saint-Michel, et le 8, il se dirige vers Maubert-Fontaine (Ardennes), puis à Bourg-Fidèle (Ardennes) à 2 kilomètres de Rocroi. Pendant les journées des 6 et 7 août, le<strong> 33e Régiment d'Infanterie </strong>avait accompli, avec des réservistes non entraînés, de 60 à 70 kilomètres en vingt-six heures, sans laisser un seul traînard.</p>
 
+        <div id="VonEmmich-Sordet"></div>
+
         <h2>L'invasion de la Belgique</h2>
 
         <p>Le 9 août, le général commandant le <strong>1er Groupe d'Armée</strong> réuni à Maubert-Fontaine les officiers et leur exposa la situation générale : Une armée allemande dite «de la Meuse», composée de quatre corps d'armée et commandée par le général VON EMMICH, a envahi la Belgique; elle a passé en partie la Meuse, au nord de Liège, et se porte à l'attaque de cette place. Les Allemands ont violé le territoire belge. Quatre de nos divisions de cavalerie, concentrées autour de Mézières (Ardennes), sous le commandement du général SORDET, ont pénétré en Belgique pour opèrer contre VON EMMICH. Ce corps de cavalerie est appuyé par une brigade d'infanterie échelonnée le long de la Meuse, couvrant la concentration du 1er corps... </p>
@@ -204,6 +206,8 @@
             <figcaption>La Citadelle de Dinant, début 1914<br>(source: Gallica/BNF)</figcaption> 
         </figure>
 
+        <div id="Carton_Bataille"></div>
+
         <p>Les Allemands, ayant Bruxelles pour objectif, s'avançaient en masses compactes. Une armée au nord, s'était heurtée aux forts de Liège (Belgique), une autre avait franchi la Meuse entre Liège et Namur. <br><br>Le même jour, les Allemands signalent leur présence par une audacieuse reconnaissance et dessine une courte attaque contre nos lignes. Des autos-mitrailleuses allemandes, débouchant de la rive droite de la Meuse par le pont d'Anseremme (Belgique), à 4 kilomètres au sud de Dinant, dispersèrent le poste français et ouvrirent le passage à un escadron de uhlans qui s'avança sur la rive gauche jusqu'à Anthée. Cet escadron fut accueilli, à dix-sept heures, par les mitrailleuses du <strong>33e Régiment d'Infanterie </strong>qui étaient en position au nord du village; arrêté net, il rebroussa chemin. </p><p>Le 15 août, les Allemands attaquent Dinant avec des forces imposantes. La ville, partagée en deux parties par le fleuve, est dominée, sur la rive droite, par la citadelle, qui surplombe le terrain d'une centaine de mètres. Au sud de celle-ci, se trouve la tour de Montfort. Ce furent les deux premiers objectifs visés par les Allemands. Malgré l'héroïque résistance du 148e R.I., ces deux points tombèrent entre les mains de l'ennemi, qui utilisa ces positions pour écraser de ses feux, toute la rive gauche du fleuve.<br><br> Le<strong> 33e Régiment d'Infanterie</strong>, accouru d'Anthée, prit position, à cinq heures, le long de la voie ferrée. Deux compagnies, 10e (capitaine CARTON), 12e (capitaine BATAILLE), reçurent l'ordre d'aller réoccuper la citadelle. Le mouvement fut conduit d'une façon si rapide, que les Allemands, surpris, s'enfuirent, abandonnant la position. Mais peu après, la citadelle fut soumise à un feu d'artillerie tellement violent que la forteresse s'effondra de toutes parts, ensevelissant une partie des occupants et un certain nombre d'habitants.</p>
 
         <figure>
@@ -224,9 +228,11 @@
 
         <figure>
             <a href="" data-fancybox="gallery"  data-fancybox="gallery" data-caption="Les hôpitaux de Nantes">
-            <img src="miniatures/hopitaux-nantes.jpg" alt="Liste des hopitaux de Nantes pendant la Première Guerre Mondiale"/></a>
+            <img src="miniatures/hopitaux-nantes.jpg" alt="Liste des hôpitaux de Nantes pendant la Première Guerre Mondiale"/></a>
             <figcaption>Les hôpitaux de Nantes<br>(source: Archives Municipales de Nantes)</figcaption>
         </figure>
+
+        <div id="De-Gaulle"></div>
 
         <p>Un lieutenant sera blessé le même jour, pendant la même bataille de Dinant : un certain <strong>Charles de GAULLE</strong>… </p>
 

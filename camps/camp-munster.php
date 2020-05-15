@@ -48,6 +48,7 @@
 
     <ul>
         <li><a href="camp-bad-orb.php">Bad Orb</a></li>
+        <li><a href="camp-bayreuth.php">Bayreuth</a></li>
         <li><a href="camp-bochum.php">Bochum</a></li>
         <li><a href="camp-chemnitz.php">Chemnitz</a></li>
         <li><a href="camp-czersk.php">Czersk</a></li>
@@ -114,13 +115,19 @@
 
         <h1>Le camp de prisonniers de Munster</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p>Le camp de Munster était situé en Allemagne, dans la province de Westphalie (aujourd'hui dans le land de Rhénanie-du-Nord-Westphalie) à quelques kilomètres de la frontière avec les Pays-Bas. En 1914, le commandant du dépôt de prisonniers de Munster est le Général en chef Freither VON BISSING, général de cavalerie.</p>
+        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+        
+        <div id="Freither_Von_Bissing"></div>
+        
+        <p>Le camp de Munster était situé en Allemagne, dans la province de Westphalie (aujourd'hui dans le land de Rhénanie-du-Nord-Westphalie) à quelques kilomètres de la frontière avec les Pays-Bas. En 1914, le commandant du dépôt de prisonniers de Munster est le Général en chef Freither VON BISSING, général de cavalerie.</p>
 
         <figure>
             <a href="images/Munster/localisation-munster.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Munster">
             <img src="miniatures/Munster/localisation-munster.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Munster"></a>
             <figcaption>Localisation du camp de Munster<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure> 
+
+        <div id="Charles_Petit"></div>
 
         <p>Charles PETIT, membre du 1er Régiment d'Artillerie, a été fait prisonnier à Maubeuge le 7 septembre 1914, et envoyé au camp de Munster. Le 25 juillet 1916, il est évacué vers la Suisse pour tuberculose pulmonaire. Dans un rapport, il raconte que <em>"pendant les premières six semaines, il n'y avait aucune installation pour loger les hommes, ni tentes, ni baraquements. Le nombre des prisonniers était de 24000; pour se mettre à l'abri, ils creusaient des trous dans la terre, en les couvrant tant bien que mal de mottes de gazon. Il n'y avait aucune installation de cuisine au début. La mortalité des prisonniers, à ce moment, était considérable. Les installations de baraquements n'ont été achevées que vers la fin de janvier 1915".</em></p>
 

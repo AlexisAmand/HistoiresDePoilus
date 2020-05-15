@@ -158,6 +158,8 @@
             <figcaption>Ordre de mobilisation</figcaption>
         </figure>
 
+        <div id="Fournier"></div>
+
         <p>Âgé de 38 ans, <strong>Druon Joseph </strong> est mobilisé et rejoint la 12e compagnie du 3e bataillon du <strong>2e Régiment d'Infanterie Territoriale</strong> en tant que soldat de 2e classe. Le 2e R.I.T a fait partie des troupes de la défense du Camp retranché de Maubeuge, sous les ordres du Général FOURNIER, Gouverneur. Mobilisé le 3 août 1914 à Valenciennes et à Condé-sur-Escaut, ses 4192 hommes ont été transportés dans la nuit du 4 au 5 à Maubeuge. Ils étaient répartis en 4 bataillons:  Le 2e Secteur de défense, commandé par le Colonel du Génie GUéRANDEL était composé des 1er et 2e bataillon à Ferrière-la-Grande et du 3e bataillon à Ferrière-la-Petite. Le 4e Secteur de défense était commandé par le Général du Génie WILLE et composé du 4e Bataillon à Pont-Allan, puis à Elesmes. (voir aussi la page consacrée à <a href="JOLY-Noel-Jules.php" title="Biographie du poilu Noël Jules JOLY">Noël Jules JOLY</a>)</p>
 
         <figure>
@@ -165,6 +167,8 @@
             <img src="miniatures/maubeuge-sept-1914.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
             <figcaption>L'emplacement des forts de la place forte de Maubeuge<br>et mouvement des troupes allemandes</figcaption>
         </figure>
+
+        <div id="Crepy"></div>
 
         <h2>La chute de l'ouvrage permanent de Ferrière-la-Petite</h2>
 
@@ -178,8 +182,7 @@
 
         <h2>La chute de la place forte de Maubeuge</h2>
 
-        <p>Le 4 septembre 1914, le Gouverneur fait rassembler les drapeaux de la garnison de Maubeuge. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e, 2e, 3e  et 4e  territoriale et enfin celui du <strong>1er Régiment d'Artillerie à Pied</strong>. Le lendemain, à 7 heures du matin, 
-        les drapeaux de la garnison sont brûlés dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
+        <p>Le 4 septembre 1914, le Gouverneur fait rassembler les drapeaux de la garnison de Maubeuge. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e, 2e, 3e  et 4e  territoriale et enfin celui du <strong>1er Régiment d'Artillerie à Pied</strong>. Le lendemain, à 7 heures du matin, les drapeaux de la garnison sont brûlés dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
 
         <h2>La capture de Druon Joseph</h2>
 

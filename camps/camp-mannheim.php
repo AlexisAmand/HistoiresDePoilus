@@ -48,6 +48,7 @@
 
     <ul>
         <li><a href="camp-bad-orb.php">Bad Orb</a></li>
+        <li><a href="camp-bayreuth.php">Bayreuth</a></li>
         <li><a href="camp-bochum.php">Bochum</a></li>
         <li><a href="camp-chemnitz.php">Chemnitz</a></li>
         <li><a href="camp-czersk.php">Czersk</a></li>
@@ -120,7 +121,11 @@
             <figcaption>Localisation du camp de Mannheim<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure> 
 
-        <p>Evacué sur le camp de Mannheim, Gaston Roussel, membre du Ier Régiment de Zouaves y a vécu au premier semestre 1916. Transféré en Suisse le 25 juillet 1916 pour tuberculose pulmonaire, il raconte que le camp manquait de bancs et de sièges, ce qui obligeait les prisonniers à rester debout, puisqu'on leur défendait de s'asseoir sur leurs sacs de couchage. Il raconte également que <em>"la nourriture à Mannheim était excessivement mauvaise, et que les prisonniers étaient brutalisés. La punition au poteau n'y était pas employée, mais les hommes étaient envoyés au cachot sous des prétextes futiles""</em>".</p>
+        <div id="Gaston_Roussel"></div>
+
+        <p>Evacué sur le camp de Mannheim, Gaston ROUSSEL, membre du Ier Régiment de Zouaves y a vécu au premier semestre 1916 aprés un séjour dans les camps de <a href="camp-wahn.php">Wahn</a> et <a href="camp-bayreuth.php">Bayreuth</a>. Transféré en Suisse le 25 juillet 1916 pour tuberculose pulmonaire, il raconte que le camp manquait de bancs et de sièges, ce qui obligeait les prisonniers à rester debout, puisqu'on leur défendait de s'asseoir sur leurs sacs de couchage. Il raconte également que <em>"la nourriture à Mannheim était excessivement mauvaise, et que les prisonniers étaient brutalisés. La punition au poteau n'y était pas employée, mais les hommes étaient envoyés au cachot sous des prétextes futiles"</em>.</p>
+
+        <p>Note : Si le parcours de Gaston ROUSSEL vous intéresse, je vous invite à lire également la page consacrée au camp de Wahn.</p>
 
         <h2>Sources et bibliographie</h2>
 

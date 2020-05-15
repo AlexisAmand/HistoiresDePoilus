@@ -17,8 +17,18 @@ A ajouter
 		- TODO : voir le camp de Trèves (Allemagne)
 		- TODO : Voir le camp de Eutin (Allemagne)
 
+- Photos :
+		- Eugène ROUSSEAUX prisonnier à Minden (Source : Michelle DUBUISSON)
+
 Après la mise en ligne
 ----------------------
 
 - Xenu pour liens morts
-- vérification de la page erreur.php
+
+- vérification de la page erreur.php : plutôt faire une rediction vers la page d'accueil ?
+
+Dans l'avenir 
+-------------
+
+- une partie communauté qui permettrait aux gens de poster des bios de poilus.
+- besoin d'un classement par Pays/Régions/Départements

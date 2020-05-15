@@ -48,6 +48,7 @@
 
     <ul>
         <li><a href="camp-bad-orb.php">Bad Orb</a></li>
+        <li><a href="camp-bayreuth.php">Bayreuth</a></li>
         <li><a href="camp-bochum.php">Bochum</a></li>
         <li><a href="camp-chemnitz.php">Chemnitz</a></li>
         <li><a href="camp-czersk.php">Czersk</a></li>
@@ -230,9 +231,11 @@
 
         <p>Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php">Wetzlar</a> arrivent au camp de Limburg.</p>
 
-        <h3>Emilien Ordonnaud</h3>
+        <div id="Emilien_Ordonnaud"></div>
 
-        <p>Le 23 mai 2017, j'ai été contacté par Muriel Dupuis Mallinger. Elle m'a raconté qu'Emilien Ordonnaud, son arrière-grand-père, a été blessé et fait prisonnier le 28 août 1914 à Moislain dans la Somme puis emprisonné au camp du Limburg. Il travaillait dans une ferme. Elle ne sait pas si c'était en même temps ou ensuite. Il est resté en Allemagne jusqu'en 1918. Elle m'a gentiment permis de partager avec vous les photos qu'elle m'a envoyé.</p>
+        <h3>Emilien ORDONNAUD</h3>
+
+        <p>Le 23 mai 2017, j'ai été contacté par Muriel Dupuis Mallinger. Elle m'a raconté qu'Emilien ORDONNAUD, son arrière-grand-père, a été blessé et fait prisonnier le 28 août 1914 à Moislain dans la Somme puis emprisonné au camp du Limburg. Il travaillait dans une ferme. Elle ne sait pas si c'était en même temps ou ensuite. Il est resté en Allemagne jusqu'en 1918. Elle m'a gentiment permis de partager avec vous les photos qu'elle m'a envoyé.</p>
 
         <figure>
             <a href="images/Limburg/groupe.jpg" data-fancybox="gallery" data-caption="un groupe de prisonniers dans le camp de Limburg">
@@ -249,7 +252,7 @@
         <figure>
             <a href="images/Limburg/ordonnaud-detmold.jpg" data-fancybox="gallery" data-caption="portrait de Emilien Ordonnaud au camp de Limburg">
             <img src="miniatures/Limburg/ordonnaud-detmold.jpg" alt="portrait de Emilien Ordonnaud, prisonnier au camp de Limburg"></a>
-            <figcaption>Portrait de Emilien Ordonnaud<br>(source: Muriel Dupuis Mallinger)</figcaption>
+            <figcaption>Portrait de Emilien ORDONNAUD<br>(source: Muriel Dupuis Mallinger)</figcaption>
         </figure>
 
         <figure>
@@ -261,7 +264,7 @@
         <figure>
             <a href="images/Limburg/ordonnaud-limburg.jpg" data-fancybox="gallery" data-caption="portrait de Emilien Ordonnaud au camp de Limburg">
             <img src="miniatures/Limburg/ordonnaud-limburg.jpg" alt="portrait de Emilien Ordonnaud, prisonnier au camp de Limburg"></a>
-            <figcaption>Portrait de Emilien Ordonnaud<br>(source: Muriel Dupuis Mallinger)</figcaption>
+            <figcaption>Portrait de Emilien ORDONNAUD<br>(source: Muriel Dupuis Mallinger)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

@@ -181,11 +181,7 @@
                 <td headers="date">mars 1915</td>
                 <td headers="adresse"><br>Chez Elise<br>Rue de Neuville</td>
             </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse">2</td>
-            </tr>
-            </tbody>   
+            </tbody>
         </table>
 
         <h2>La mobilisation d'août 1914</h2>
@@ -200,9 +196,11 @@
 
         <p>Du 6 août 1914  au 28 août 1914, <strong>Théophile CARIN</strong> est dit "à l'intérieur - Camp simple". Cela signifie que  le soldat était très en retrait des combats et peut-être au dépôt de son régiment. Je pense que <strong>Théophile</strong> était juste en attente de son transfert en Algérie.</p>
 
+        <div id="Ardit"></div>
+
         <h2>Théophile en Afrique</h2>
 
-        <p>Du 29 septembre 1914 au 14 août 1916, Théophile est affecté "<strong>Aux armées d'Algérie</strong>".</p><p> A partir du 9 août 1916, <strong>Théophile CARIN</strong> passe au <strong>4e Bataillon d'Infanterie Légère d'Afrique</strong> jusqu'au 16 août 1918, date de sa fusion avec le 5e bataillon d'Afrique. Le 4e bataillon est successivement commandé par le chef de bataillon Ardit, puis par le chef de bataillon FLOUCAUT de FOURCROY.</p>
+        <p>Du 29 septembre 1914 au 14 août 1916, Théophile est affecté "<strong>Aux armées d'Algérie</strong>".</p><p> A partir du 9 août 1916, <strong>Théophile CARIN</strong> passe au <strong>4e Bataillon d'Infanterie Légère d'Afrique</strong> jusqu'au 16 août 1918, date de sa fusion avec le 5e bataillon d'Afrique. Le 4e bataillon est successivement commandé par le chef de bataillon ARDIT, puis par le chef de bataillon FLOUCAUT de FOURCROY.</p>
 
         <figure>
             <a href="images/tatahouine.jpg" data-fancybox="gallery" data-caption="Vu d'ensemble du camp de Tatahouine (Tunisie)">
