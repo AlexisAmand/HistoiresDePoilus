@@ -121,7 +121,15 @@
         <figure>
             <img src="miniatures/Gardelegen/carte-camp-gardelegen.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Gardelegen">
             <figcaption>Localisation du camp de Gardelegen<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
-        </figure> 
+        </figure>
+
+        <p>Selon le rapport de la Croix Rouge, 6602 prisonniers d'origine française, russe, anglaise et belge et quelques civils issus des territoires occupés du nord de la France sont présents dans le camp de Gardelegen à la date 7 janvier 1915. A l'époque, le camp est dirigé par le Colonel GRÜNER, que la Croix Rouge décrit comme <em>un homme de coeur et de sentiment, qui ne considère pas le prisonnier comme un ennemi, mais un homme digne de pitié.</em></p>
+
+        <figure>
+            <a href="images/Gardelegen/menu-gardelegen.jpg" data-fancybox="gallery" data-caption="Le menu hebdomadaire à Gardelegen">
+            <img src="miniatures/Gardelegen/menu-gardelegen.jpg" alt="Le menu au camp de prisonniers de Gardelegen "></a>
+            <figcaption>Le menu hebdomadaire à Gardelegen<br>(source : Rapport de la Croix Rouge du 7 janvier 1915)</figcaption>
+        </figure>
 
         <p>Les prisonniers avaient installé à Gardelegen un petit théâtre où les Français, les Anglais et les Belges donnaient de représentations. Il était également possible d'y donner des représentations cinématographiques.</p>
 

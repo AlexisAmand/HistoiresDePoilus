@@ -1,11 +1,11 @@
 A ajouter
 ---------
 
+- Orthographe et grammaire 
+		- "Revue genevoise de géographie" vérifier les majuscules, les accents...etc.
+
 - Source
 		- vérifier que toutes les sources sont bien sans la webo
-
-- Poilus 
-		- ARNOULD Gaston Alexandre : matricule n°38, bureau de Reims, vol 1, classe 1913.
 
 - Auguste :
 		- La ferme du Rond Chêne sur une carte de Dinant -> source ou autre carte
