@@ -50,6 +50,7 @@ camp-bayreuth<!doctype html>
         <li><a href="camp-bad-orb.php">Bad Orb</a></li>
         <li><a href="camp-bayreuth.php" class="AsideSelected">Bayreuth</a></li>
         <li><a href="camp-bochum.php">Bochum</a></li>
+        <li><a href="camp-cassel.php">Cassel</a></li>
         <li><a href="camp-chemnitz.php">Chemnitz</a></li>
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>

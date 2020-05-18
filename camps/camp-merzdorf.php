@@ -128,8 +128,6 @@
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
             <li><a href="../pdf/globe-58-1919.pdf">Le Globe, Revue genevoise de géographie, tome 58 (1919)</a></li>
         </ul>
-        
-         
 
         </article>
 

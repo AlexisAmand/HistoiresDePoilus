@@ -50,6 +50,7 @@
         <li><a href="camp-bad-orb.php">Bad Orb</a></li>
         <li><a href="camp-bayreuth.php">Bayreuth</a></li>
         <li><a href="camp-bochum.php">Bochum</a></li>
+        <li><a href="camp-cassel.php">Cassel</a></li>
         <li><a href="camp-chemnitz.php">Chemnitz</a></li>
         <li><a href="camp-czersk.php">Czersk</a></li>
         <li><a href="camp-darmstadt.php">Darmstadt</a></li>
@@ -154,9 +155,8 @@
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
             <li><a href="https://amzn.to/2Anc36j" title="Le traitement des prisonniers français en Allemagne par Dr. de Christmas">
             Le traitement des prisonniers français en Allemagne</a> (Dr. de Christmas)</li>
+            <li><a href="#">Revue de l'Anjou, tome 73 (1916)</a></li>
         </ul>
-        
-         
 
         </article>
 
