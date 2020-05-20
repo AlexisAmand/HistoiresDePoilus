@@ -57,7 +57,8 @@ $(document).ready(function()
 	  <img src="../../images/googleplus.png"    alt="logo Google Plus"   /><a href="https://twitter.com/alexisamand?lang=fr" title="me suivre sur Twitter"><img src="../../images/twitter.png"    alt="logo Twitter"   /></a>
     </div>
     
-	<a href="../../index.php"><img src="../../images/logo.png" alt="" class="logo" title="retour sur la page d'accueil du site"/></a>
+    <a href="../../index.php" title="retour sur la page d'accueil du site">
+    <img src="../../images/logo.png" alt="" class="logo" alt="Histoires de Poilus"/></a>
 
 </header>
    

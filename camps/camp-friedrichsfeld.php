@@ -125,7 +125,7 @@
 
         <div id="Major_Bach"></div>
 
-        <p>Dans un rapport adressé au Ministère de la Guerre le 20 août 1914, le médecin major de 1e classe CHON, du 14e Régiment de Hussard, fait prisonnier à Ethe (Belgique) le 22 août 1914, emprisonné aux camps de Friedrichsfeld et Senne, puis ramené en Suisse pour raison de santé, rapporte que <em>"le sous-chef du camp [de Friedrichsfeld], le Major BACH, avait donné l'ordre de fusiller les fuyard et promettait une indemnité de 70 marks à tout homme qui rapporterait le cadavre d'un français. Le fait nous a été rapporté par un ordonnance allemande qui se ventait d'avoir abattu un prisonnier français dans ces conditions".</em></p>
+        <p>Dans un rapport adressé au Ministère de la Guerre, le médecin major de 1e classe CHON, du 14e Régiment de Hussard, fait prisonnier à Ethe (Belgique) le 22 août 1914, emprisonné aux camps de Friedrichsfeld et Senne, puis ramené en Suisse pour raison de santé, rapporte que <em>"le sous-chef du camp [de Friedrichsfeld], le Major BACH, avait donné l'ordre de fusiller les fuyard et promettait une indemnité de 70 marks à tout homme qui rapporterait le cadavre d'un français. Le fait nous a été rapporté par un ordonnance allemande qui se ventait d'avoir abattu un prisonnier français dans ces conditions".</em></p>
 
         <figure>
             <a href="images/friedrichsfeld-patates.jpg" data-fancybox="gallery" data-caption="Camp de Friedrichsfeld: Epluchage de pommes de terre dans la cour de l'hôpital">
@@ -207,29 +207,29 @@
 
         <h2>Le sergent Etienne DADU</h2>
 
-        <p>Les photos qui suivent m'ont été transmises par la famille DADU. Selon la personne avec laquelle j'ai pu être en contact, Etienne DADU aurait été sergent et arreté au début de la guerre. Il vivait au baraquement 24B du camp de prisonniers de Friedrichsfeld.</p>
+        <p>Les photos qui suivent m'ont été transmises par la famille DADU. Selon la personne avec laquelle j'ai pu être en contact, Etienne DADU aurait été sergent et arrêté au début de la guerre. Il vivait au baraquement 24B du camp de prisonniers de Friedrichsfeld.</p>
 
         <figure>
             <a href="images/friedrichsfeld/friedrichsfeld-table.jpg" data-fancybox="gallery" data-caption="A table au camp de Friedrichsfeld">
-            <img src="miniatures/friedrichsfeld/friedrichsfeld-table.jpg" alt=" "></a>
+            <img src="miniatures/friedrichsfeld/friedrichsfeld-table.jpg" alt="Des prisonniers à table dans le camp de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
             <figcaption>Des prisonniers à table<br>(source: Famille DADU)</figcaption>
         </figure>
 
         <figure>
             <a href="images/friedrichsfeld/noel-1916.jpg" data-fancybox="gallery" data-caption="Noël 1916 au camp de Friedrichsfeld">
-            <img src="miniatures/friedrichsfeld/noel-1916.jpg" alt=" "></a>
+            <img src="miniatures/friedrichsfeld/noel-1916.jpg" alt="Noël 1916 au camp de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
             <figcaption>Noël 1916 au camp<br>(source: Famille DADU)</figcaption>
         </figure>
 
         <figure>
-            <a href="images/friedrichsfeld/dans-le-camps-16-aout-1917.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="miniatures/friedrichsfeld/dans-le-camps-16-aout-1917.jpg" alt=" "></a>
-            <figcaption>dans-le-camps-16-aout-1917<br>(source: Famille DADU)</figcaption>
+            <a href="images/friedrichsfeld/dans-le-camps-16-aout-1917.jpg" data-fancybox="gallery" data-caption="des prisonniers à Friedrichsfeld le 16 août 1917">
+            <img src="miniatures/friedrichsfeld/dans-le-camps-16-aout-1917.jpg" alt="Des prisonniers du camps de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
+            <figcaption>Dans le camp 16 août 1917<br>(source: Famille DADU)</figcaption>
         </figure>
 
         <figure>
-            <a href="images/friedrichsfeld/moulin-de-friedrichsfeld.jpg" data-fancybox="gallery" data-caption="MLe moulin du camp de Friedrichsfeld">
-            <img src="miniatures/friedrichsfeld/moulin-de-friedrichsfeld.jpg" alt=" "></a>
+            <a href="images/friedrichsfeld/moulin-de-friedrichsfeld.jpg" data-fancybox="gallery" data-caption="Le moulin du camp de Friedrichsfeld">
+            <img src="miniatures/friedrichsfeld/moulin-de-friedrichsfeld.jpg" alt="Le moulin du camp de prisonniers de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
             <figcaption>Le moulin du camp<br>(source: Famille DADU)</figcaption>
         </figure>
 

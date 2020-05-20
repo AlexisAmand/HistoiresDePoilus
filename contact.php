@@ -173,7 +173,24 @@ if (isset($_POST['envoye']))
         <article style="margin-left:0px;">
 
         <h1>Pour me contacter</h1>
- 
+
+        <p>
+        Vous pouvez me contacter via les réseaux sociaux :
+        </p>
+
+        <p>
+        Facebook : <a href="https://www.facebook.com/genealexis.fr">https://www.facebook.com/genealexis.fr</a><br />
+        Twitter : <a href="https://twitter.com/alexisamand">https://twitter.com/alexisamand</a>
+        </p>
+
+        <p>
+        Par mail : <a href="mailto:alexis.amand@gmail.fr">alexis.amand@gmail.fr</a>
+        </p>
+
+        <p>
+        Ou encore en utilisant ce formulaire :
+        </p>
+
         <?php
         if (!empty($alert))
         {
@@ -222,19 +239,19 @@ if (isset($_POST['envoye']))
             </p>
             <p>
                 <label for="nom">Nom/Prénom :</label>
-                <input type="text" id="nom" name="nom" value="<?php echo (isset($_POST['nom'])) ? $nom : '' ?>" />
+                <input type="text" id="nom" name="nom" value="<?php echo (isset($_POST['nom'])) ? $nom : '' ?>" style="width:242px;"/>
             </p>
             <p>
                 <label for="email">E-mail :</label>
-                <input type="text" id="email" name="email" value="<?php echo (isset($_POST['email'])) ? $expediteur : '' ?>" />
+                <input type="text" id="email" name="email" value="<?php echo (isset($_POST['email'])) ? $expediteur : '' ?>"  style="width:287px;"/>
             </p>
             <p>
                 <label for="sujet">Sujet :</label>
-                <input type="text" id="sujet" name="sujet" value="<?php echo (isset($_POST['sujet'])) ? $sujet : '' ?>" />
+                <input type="text" id="sujet" name="sujet" value="<?php echo (isset($_POST['sujet'])) ? $sujet : '' ?>"  style="width:294px;"/>
             </p>
             <p>
-                <label for="message">Message :</label>
-                <textarea id="message" name="message" cols="40" rows="10">
+                <label for="message">Message :</label><br/>
+                <textarea id="message" name="message" cols="47" rows="10">
                     <?php echo (isset($_POST['message'])) ? $message : '' ?>
                 </textarea>
             </p>

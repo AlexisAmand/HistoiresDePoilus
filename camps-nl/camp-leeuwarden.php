@@ -50,6 +50,7 @@
         <li><a href="camp-amersfoort.php">Amersfoort</a></li>
         <li><a href="camp-assen.php">Assen</a></li>
         <li><a href="camp-bodegraven.php">Bodegraven</a></li>
+        <li><a href="camp-gaasterland.php">Gaasterland</a></li>
         <li><a href="camp-harderwijk.php">Harderwijk</a></li>
         <li><a href="camp-kampen.php">kampen</a></li>
         <li><a href="camp-leeuwarden.php" class="AsideSelected">Leeuwarden</a></li>
@@ -75,6 +76,12 @@
         <article>
 
         <h1>Le camp d'internement de Leeuwarden</h1>
+
+        <figure>
+            <a href="images/carte-camps-pb.png" data-fancybox="gallery" data-caption="Emplacement du camp d'internés de Leeuwarden">
+            <img src="miniatures/carte-camps-pb.png"  alt="Localisation du camp d'internés de Leeuwarden pendant la Première Guerre Mondiale"/></a>
+            <figcaption>Localisation du camp d'internés de Leeuwarden (Pays-Bas)<br>(Le Globe, Revue genevoise de géographie, tome 58 (1919))<br>(cliquez pour agrandir)</figcaption>
+        </figure>
 
         <figure>
             <a href="images/Leeuwarden/leeuwarden-01.jpg" data-fancybox="gallery" title="Un bout de toilette au camp de Leeuwarden">

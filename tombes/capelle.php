@@ -111,7 +111,7 @@
 
         <h2>Edouard Gaston DECOSTER</h2>
 
-        <p>Edouard est né à Saint-Pol-sur-Mer (Nord) le 11 octobre 1889. Soldat au 110e d'Infanterie, il est décédé des suites de ses blessures de guerre à l'hôpital complémentaire n°42 d'Orléans (Loiret) le 21 décembre 1914. Son nom figure sur le monument aux morts de la commune mais il est indiqué comme radié du livre d'or. L'hôpital complémentaire n°42 était situé au lycée de garçons. Il a fonctionné d'aout 1914 à juillet 1917 et comportait 160 lits.</p>
+        <p>Edouard est né à Saint-Pol-sur-Mer (Nord) le 11 octobre 1889. Soldat au 110e d'Infanterie, il est décédé des suites de ses blessures de guerre à l'hôpital complémentaire n°42 d'Orléans (Loiret) le 21 décembre 1914. Son nom figure sur le monument aux morts de la commune mais il est indiqué comme radié du livre d'or. L'hôpital complémentaire n°42 était situé au lycée de garçons. Il a fonctionné d'août 1914 à juillet 1917 et comportait 160 lits.</p>
 
         <figure>
             <a href="../hopitaux/images/lycee-orleans.jpg" data-fancybox="gallery" data-caption="Le Lycée de garçons d'Orléans où s'installe l'Hôpital Complémentaire n°42">

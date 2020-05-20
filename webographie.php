@@ -256,6 +256,8 @@
             <li><a href="http://www.bn-r.fr">Médiathèque de Roubaix</a><br /><br /></li>
             
             <li>Les livres d'or des soldats morts pour la France (Archives Nationales)</li>
+            <li><a href="https://argonnaute.parisnanterre.fr/">L'Argonnaute (Bibliothèque numérique sur l'histoire du XXe siècle)</a></li>
+            <li><a href="http://www.culture.fr/Genealogie/Grand-Memorial">http://www.culture.fr/Genealogie/Grand-Memorial</a></li>
             <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr" title="Mémoire des hommes">Mémoire des Hommes</a> (Ministère de la Défense)</li>
             <li><a href="http://www.memorial-genweb.org/~memorial2/" title="Portail MémorialGenweb">Mémorial-GenWeb</a></li>
             <li><a href="http://grandeguerre.icrc.org/fr" title="Comité international de la Croix-Rouge">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>

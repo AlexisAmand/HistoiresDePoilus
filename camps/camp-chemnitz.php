@@ -118,7 +118,7 @@
 
         <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
-        <p>Ce camp est situé à Chemnitz, dans le Vogtland, une région située à l'est de l'Allemagne à la limite de la Saxe et de la Bavière.</p>
+        <p>Ce camp est situé à Chemnitz, dans le Vogtland, une région située à l'est de l'Allemagne, à la limite de la Saxe et de la Bavière.</p>
 
         <figure>
             <a href="images/Chemnitz/carte-camp-chemnitz.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Chemnitz"> 
@@ -126,7 +126,7 @@
             <figcaption>Localisation du camp de Chemnitz<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
-        <p>En novembre 1915, l'Office d'information des oeuvres de secours aux prisonniers de guerre est informé que tous les prisonniers civils appartenant au camp de Chemnitz viennent d'être transférés au camp de Grofsporitscg Bei Zittau (Saxe). Lors de la visite du camp le 12, le dépôt de prisonniers est installé à la caserne Friedrich August, située dans le quartier Ebensdorf.</p>
+        <p>En novembre 1915, l'Office d'information des oeuvres de secours aux prisonniers de guerre est informé que tous les prisonniers civils appartenant au camp de Chemnitz viennent d'être transférés au camp de Grofsporitscg Bei Zittau (Saxe). Lors de la visite du camp le 12, le dépôt de prisonniers est installé à la caserne Friedrich August, elle-même située dans le quartier Ebensdorf.</p>
 
         <figure>
             <img src="miniatures/Chemnitz/caserne-friedrich-august.jpg" data-fancybox="gallery" alt="La caserne Friedrich August à Chemnitz">

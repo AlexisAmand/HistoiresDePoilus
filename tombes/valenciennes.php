@@ -86,7 +86,7 @@
 
     <h2>André BERNARD</h2>
 
-    <p>Sous-Lieutenant au 91e Régiment d'Infanterie, André Georges Louis BERNARD est né à Valenciennes le 27 aout 1895. Il est décédé des suites de ses blessures à Moncetz (Marne) le 29 novembre 1916.</p>
+    <p>Sous-Lieutenant au 91e Régiment d'Infanterie, André Georges Louis BERNARD est né à Valenciennes le 27 août 1895. Il est décédé des suites de ses blessures à Moncetz (Marne) le 29 novembre 1916.</p>
 
     <figure>
         <a href="images/andre-bernard-01.jpg" data-fancybox="gallery" data-caption="Tombe d'André BERNARD, mort pour la France le 29 novembre 1916">

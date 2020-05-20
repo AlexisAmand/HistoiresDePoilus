@@ -130,8 +130,6 @@
             <li><a href="../pdf/globe-58-1919.pdf">Le Globe, Revue genevoise de géographie, tome 58 (1919)</a></li>
         </ul>
         
-         
-
         </article>
 
     </section>

@@ -147,7 +147,7 @@
 			<li>Il rejoint le 94e RI en décembre 1914, soldat de 2e classe (selon sa FM)</li>
 			<li>Disparu le 30 juin 1915 en Argonne</li>
 			<li>Prisonnier interné à Rastadt (selon sa FM)</li>
-			<li>Il est évacué de Darmstardt vers Schneidemühl le 4 aout 1915 (selon le CIRC)
+			<li>Il est évacué de Darmstardt vers Schneidemühl le 4 août 1915 (selon le CIRC)
 			
 			<figure>
 				<a href="sources/carin-joseph-cicr-01.jpg" data-fancybox="gallery" data-caption="Fiche de la Croix-Rouge de Joseph CARIN">

@@ -50,6 +50,7 @@
         <li><a href="camp-amersfoort.php">Amersfoort</a></li>
         <li><a href="camp-assen.php">Assen</a></li>
         <li><a href="camp-bodegraven.php">Bodegraven</a></li>   
+        <li><a href="camp-gaasterland.php">Gaasterland</a></li>
         <li><a href="camp-harderwijk.php">Harderwijk</a></li> 
         <li><a href="camp-kampen.php" class="AsideSelected">kampen</a></li>   
         <li><a href="camp-leeuwarden.php">Leeuwarden</a></li>
@@ -77,7 +78,9 @@
         <h1>Le camp d'internement de Kampen</h1>
 
         <figure>
-            <img src="img/travaux.png">
+            <a href="images/carte-camps-pb.png" data-fancybox="gallery" data-caption="Emplacement du camp d'internés de Kampen">
+            <img src="miniatures/carte-camps-pb.png"  alt="Localisation du camp d'internés de Kampen pendant la Première Guerre Mondiale"/></a>
+            <figcaption>Localisation du camp d'internés de Kampen (Pays-Bas)<br>(Le Globe, Revue genevoise de géographie, tome 58 (1919))<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
          

@@ -1,6 +1,10 @@
 A ajouter
 ---------
 
+- Batailles
+		- liste des batailles du moyen orient
+		- liste des batailles des balkans
+
 - Orthographe et grammaire 
 		- "Revue genevoise de géographie" vérifier les majuscules, les accents...etc.
 
@@ -11,11 +15,7 @@ A ajouter
 		- La ferme du Rond Chêne sur une carte de Dinant -> source ou autre carte
 
 - Camps de prisonniers :
-		- TODO : voir le camp de Heilsberg (Allemagne)
-		- TODO : voir le camp de Minderheide (Allemagne)
-		- TODO : voir le camp de Sudelkopff (Allemagne)
-		- TODO : voir le camp de Trèves (Allemagne)
-		- TODO : Voir le camp de Eutin (Allemagne)
+		- TODO : Voir le camp de Cassel (Allemagne) + Localisation n°11
 
 - Photos :
 		- Eugène ROUSSEAUX prisonnier à Minden (Source : Michelle DUBUISSON)
@@ -25,10 +25,22 @@ Après la mise en ligne
 
 - Xenu pour liens morts
 
-- vérification de la page erreur.php : plutôt faire une rediction vers la page d'accueil ?
-
 Dans l'avenir 
 -------------
 
 - une partie communauté qui permettrait aux gens de poster des bios de poilus.
 - besoin d'un classement par Pays/Régions/Départements
+
+Sources pour le camp de Erfurt
+------------------------------
+
+- André G : Ma captivité en Allemagne, 1918.
+- Torn P : Huit mois avec les barbares, 1916.
+
+Sources pour le camp de Münster
+-------------------------------
+
+- Desflandres J : Rennbahn en 2 volumes, 1920.
+- Ginisty Pierre : Les belles évasions, 1919.
+- Limagne A : Un séminaire français en Belgique, 1918.
+- Van Cauteren H : La guerre et la captivité, 1919.

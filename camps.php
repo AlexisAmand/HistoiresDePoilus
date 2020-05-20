@@ -62,7 +62,9 @@
 
     <ul>
         <li><a href="camps/camp-bad-orb.php">Bad Orb</a></li>
+        <li><a href="camps/camp-bayreuth.php">Bayreuth</a></li>
         <li><a href="camps/camp-bochum.php">Bochum</a></li>
+        <li><a href="camps/camp-cassel.php">Cassel</a></li>
         <li><a href="camps/camp-chemnitz.php">Chemnitz</a></li>
         <li><a href="camps/camp-czersk.php">Czersk</a></li>
         <li><a href="camps/camp-darmstadt.php">Darmstadt</a></li>
@@ -128,7 +130,15 @@
 
         <h1>Les camps de prisonniers en Allemagne</h1>
 
-        <p>Quand la guerre éclate en août 1914, L'Empire Allemand est certain que sa victoire sera aussi rapide que celle de 1870. Seulement, très vite, il doit faire face à un afflux de prisonniers qu'il n'avait pas prévu. Cette situation l'oblige à ouvrir des camps un peu partout sur son territoire. En cette fin d'année 1914, les soldats prisonniers dorment dans la paille, dans des huttes de fortune ou dans des trous creusés à même le sol pour s'abriter du froid et de la pluie. L'hygiène est déplorable, et très vite, des <strong>épidémies de Typhus</strong> apparaissent. Faute d'être prêt à nourrir et à loger un si grand nombre de prisonniers, l'hiver 1914 sera mortel pour des centaines d'hommes. Il faudra attendre l'année 1915 pour que la situation s'améliore un peu.</p>
+        <p>Quand la guerre éclate en août 1914, L'Empire Allemand est certain que sa victoire sera aussi rapide que celle de 1870. Seulement, très vite, il doit faire face à un afflux de prisonniers qu'il n'avait pas prévu. Cette situation l'oblige à ouvrir des camps un peu partout sur son territoire.</p>
+
+        <figure>
+            <a href="camps/images/camps-prisonniers-allemagne.jpg" data-fancybox="gallery" data-caption="carte des camps de prisonniers en Allemagne ">
+            <img src="camps/miniatures/camps-prisonniers-allemagne.jpg" alt="carte des camps de prisonniers allemands pendant la Première Guerre Mondiale"></a>
+            <figcaption>Localisation des camps de prisonniers en Allemagne<br>(Cliquez pour agrandir)<br />(Le Globe, Revue genevoise de géographie, tome 58 (1919))</figcaption>
+        </figure>
+
+        <p>En cette fin d'année 1914, les soldats prisonniers dorment dans la paille, dans des huttes de fortune ou dans des trous creusés à même le sol pour s'abriter du froid et de la pluie. L'hygiène est déplorable, et très vite, des <strong>épidémies de Typhus</strong> apparaissent. Faute d'être prêt à nourrir et à loger un si grand nombre de prisonniers, l'hiver 1914 sera mortel pour des centaines d'hommes. Il faudra attendre l'année 1915 pour que la situation s'améliore un peu.</p>
 
         <figure>
             <a href="camps/images/friedrichsfeld-prisonniers-français.jpg" data-fancybox="gallery" data-caption="Des prisonniers français au camp de Friedrichsfeld">

@@ -50,6 +50,7 @@
         <li><a href="camp-amersfoort.php">Amersfoort</a></li>
         <li><a href="camp-assen.php">Assen</a></li>
         <li><a href="camp-bodegraven.php">Bodegraven</a></li>   
+        <li><a href="camp-gaasterland.php">Gaasterland</a></li>
         <li><a href="camp-harderwijk.php">Harderwijk</a></li> 
         <li><a href="camp-kampen.php">kampen</a></li>   
         <li><a href="camp-leeuwarden.php">Leeuwarden</a></li>

@@ -5,8 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>Le camp d'internement de Bodegraven aux Pays-Bas pendant la Grande Guerre - Histoires de Poilus</title>
-        <meta name="description"  content="Présentation du camp d'internement de Bodegraven aux Pays-Bas pendant la Première Guerre mondiale (1914-1918)">
+        <title>Le camp d'internement de Gaasterland pendant la Grande Guerre - Histoires de Poilus</title>
+        <meta name="description"  content="Présentation du camp d'internement de Gaasterland aux Pays-Bas pendant la Première Guerre mondiale (1914-1918)">
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -49,8 +49,8 @@
     <ul>
         <li><a href="camp-amersfoort.php">Amersfoort</a></li>
         <li><a href="camp-assen.php">Assen</a></li>
-        <li><a href="camp-bodegraven.php" class="AsideSelected">Bodegraven</a></li>
-        <li><a href="camp-gaasterland.php">Gaasterland</a></li>
+        <li><a href="camp-bodegraven.php">Bodegraven</a></li>
+        <li><a href="camp-gaasterland.php" class="AsideSelected" >Gaasterland</a></li>
         <li><a href="camp-harderwijk.php">Harderwijk</a></li>
         <li><a href="camp-kampen.php">kampen</a></li>
         <li><a href="camp-leeuwarden.php">Leeuwarden</a></li>
@@ -75,22 +75,21 @@
 
         <article>
 
-        <h1>Le camp d'internement de Bodegraven</h1>
+        <h1>Le camp d'internement de Gaasterland</h1>
 
         <figure>
-            <img src="miniatures/Bodegraven/fort-bodegraven.jpg" alt="le fort de Bodegraven aux Pays-Bas de nos jours">
-            <figcaption>Le Fort de Bodegraven<br>(source: <a href="http://www.nieuwerbrug.net">http://www.nieuwerbrug.net</a>)</figcaption>
+            <a href="images/carte-camps-pb.png" data-fancybox="gallery" data-caption="Emplacement du camp d'internés de Gaasterland">
+            <img src="miniatures/carte-camps-pb.png"  alt="Localisation du camp d'internés de Gaasterland pendant la Première Guerre Mondiale"/></a>
+            <figcaption>Localisation du camp d'internés de Gaasterland (Pays-Bas)<br>(Le Globe, Revue genevoise de géographie, tome 58 (1919))<br>(cliquez pour agrandir)</figcaption>
         </figure>
 
-         
-        
         </article>
 
     </section>
 
     <footer><?php include('../include/footer.inc'); ?></footer>
 
-    <?php include('../include/stats.inc'); ?>
+    <?php include('../include/stats.inc'); ?> 
 
     <!-- javascript -->
 
