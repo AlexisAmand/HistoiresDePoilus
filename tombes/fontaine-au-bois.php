@@ -5,8 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>Le monument aux morts de Maroilles - Histoires de Poilus</title>
-        <meta content="Les monuments aux morts pour la France pendant les Grandes Situés à Maroilles, dans le Nord" name="description">
+        <title>Les monuments aux morts de Fontaine-au-Bois - Histoires de Poilus</title>
+        <meta content="Les monuments aux morts pour la France pendant les Grandes Situés à Fontaine-au-Bois, dans le Nord" name="description">
 
         <link rel="stylesheet" href="../css/style.css" media="screen">
         <link rel="stylesheet" href="../css/resp.css" media="screen">
@@ -59,9 +59,9 @@
           <li><a href="awoingt.php">Awoingt</a></li>
           <li><a href="beaufort.php">Beaufort</a></li>
 	      <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
-          <li><a href="fontaine-au-bois.php">Fontaine-au-bois</a></li>
+          <li><a href="fontaine-au-bois.php" class="AsideSelected">Fontaine-au-bois</a></li>
 	      <li><a href="grand-fayt.php">Grand-Fayt</a></li>
-	      <li><a href="maroilles.php" class="AsideSelected">Maroilles</a></li>
+	      <li><a href="maroilles.php">Maroilles</a></li>
           <li><a href="valenciennes.php">Valenciennes</a></li>  
     </ul>
 
@@ -81,22 +81,36 @@
 
     <article>
 
-    <h1>Les monuments de Maroilles</h1>
+    <h1>Les monuments de Fontaine-au-Bois</h1>
+
+    <figure>
+        <a href="images/Fontaine-au-Bois-02.jpg" data-fancybox="gallery" data-caption="Le monument aux morts de Fontaine-au-Bois">
+        <img src="images/mini/Fontaine-au-Bois-02.jpg" alt="Le monument aux morts pour la France de la commune de Fontaine-au-Bois"/></a>
+        <figcaption>Le monument aux Morts pour la France <br />de Fontaine-au-Bois<br />(Source: Photo privée)</figcaption>
+    </figure>
+
+    <figure>
+        <a href="images/Fontaine-au-Bois-03.jpg" data-fancybox="gallery" data-caption="Le monument aux morts de Fontaine-au-Bois">
+        <img src="images/mini/Fontaine-au-Bois-03.jpg" alt="Le monument aux morts pour la France de la commune de Fontaine-au-Bois"/></a>
+        <figcaption>Le monument aux Morts pour la France <br />de Fontaine-au-Bois<br />(Source: Photo privée)</figcaption>
+    </figure>
     
-    <figure>
-        <a href="images/monument-maroilles.jpg" data-fancybox="gallery" data-caption="Le monument aux morts de Maroilles">
-        <img src="images/mini/monument-maroilles.jpg" alt="Le monument aux morts pour la France à Maroilles"/></a>
-        <figcaption>Le monument aux morts de Maroilles<br />(Source: Photo privée)</figcaption>
-    </figure>
-
-	<p>A noter qu'il existe aussi, à Maroilles, un Arc de Trionphe. Il a été élevé en 1807 à la "gloire de nos armées" par Nicolas Joseph Vendois, maire de l' an VII à 1816.</p>
+	<p>Il y a deux cimetières britanniques à Fontaine-au-Bois. Le premier est situé dans la ruelle Hainaut, à l'intérieur du cimetière communal. Il est constitué de 95 tombes.</p>
 
     <figure>
-        <a href="images/arche-maroilles.jpg" data-fancybox="gallery" data-caption="L'Arc de Triomphe de Maroilles">
-        <img src="images/mini/arche-maroilles.jpg" alt="L'Arc de Triomphe de Maroilles élevé par Nicolas Joseph Vendois"/></a>
-        <figcaption>L'Arc de Triomphe de Maroilles<br />(Source: Photo privée)</figcaption>
+        <a href="images/Fontaine-au-Bois-01.jpg" data-fancybox="gallery" data-caption="La croix de la section britannique du cimetière communal de Fontaine-au-Bois">
+        <img src="images/mini/Fontaine-au-Bois-01.jpg" alt="La croix de la section britannique du cimetière communal de Fontaine-au-Bois"/></a>
+        <figcaption>La croix de la section britannique<br />du cimetière communal <br />(Source: Photo privée)</figcaption>
     </figure>
+
+    <p>Un autre, Cross Roads Cemetery, abrite quant à lui plus de 750 corps de jeunes Britanniques tués lors des combats violents qui eurent lieu en 1918 pour la prise de contrôle de Landrecies et de la forêt de Mormal.</p>
      
+    <figure>
+        <a href="images/Cross-Roads-Cemetery.jpg" data-fancybox="gallery" data-caption="Le Cross Roads Cemetery à Fontaine-au-Bois">
+        <img src="images/mini/Cross-Roads-Cemetery.jpg" alt="Le cimetière britannique Cross Roads Cemetery à Fontaine-au-bois"/></a>
+        <figcaption>Le Cross Roads Cemetery <br />de Fontaine-au-Bois<br />(Source: Wikipedia Commons)</figcaption>
+    </figure>
+
     </article>
 
 </section>

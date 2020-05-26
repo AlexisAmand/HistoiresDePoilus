@@ -1,12 +1,26 @@
+A vérifier
+----------
+
+- corrections grammaire et orthographe.
+
+- vérifier si les fichiers des miniatures sont bien en 450px de large.
+
+- vérifier si le code matome est bien en include sur toutes les pages
+
+- vérifier si les alt et les title du logo sont bien les même sur toutes les pages
+
 A ajouter
 ---------
+
+- Monuments de Fontaine-au-bois : faire un paragraphe qui raconte un peu les combats du Cross Roads Cemetery.
+
+- liens interpages (camps de prisonniers et poilus)
+
+- README.md
 
 - Batailles
 		- liste des batailles du moyen orient
 		- liste des batailles des balkans
-
-- Orthographe et grammaire 
-		- "Revue genevoise de géographie" vérifier les majuscules, les accents...etc.
 
 - Source
 		- vérifier que toutes les sources sont bien sans la webo

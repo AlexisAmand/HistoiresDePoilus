@@ -61,6 +61,7 @@
       <li><a href="awoingt.php">Awoingt</a></li>
       <li><a href="beaufort.php">Beaufort</a></li>
       <li><a href="capelle.php" class="AsideSelected">Capelle-sur-Ecaillon</a></li>
+      <li><a href="fontaine-au-bois.php">Fontaine-au-bois</a></li>
       <li><a href="grand-fayt.php">Grand-Fayt</a></li>
       <li><a href="maroilles.php">Maroilles</a></li>
       <li><a href="valenciennes.php">Valenciennes</a></li>  
@@ -145,8 +146,6 @@
             <li>Mémoire des Hommes (Ministère de la Défense)</li>
             <li>Photo du monument (Collection privée)</li>
         </ul>
-
-         
 
         </article>
 
