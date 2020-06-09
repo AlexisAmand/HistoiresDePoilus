@@ -52,7 +52,7 @@
 
     <section>
 
-        <article style="margin-left:0px;">
+        <article>
 
             <h1>Mentions Légales</h1>
 

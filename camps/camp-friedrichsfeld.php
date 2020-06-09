@@ -210,26 +210,26 @@
         <p>Les photos qui suivent m'ont été transmises par la famille DADU. Selon la personne avec laquelle j'ai pu être en contact, Etienne DADU aurait été sergent et arrêté au début de la guerre. Il vivait au baraquement 24B du camp de prisonniers de Friedrichsfeld.</p>
 
         <figure>
-            <a href="images/friedrichsfeld/friedrichsfeld-table.jpg" data-fancybox="gallery" data-caption="A table au camp de Friedrichsfeld">
-            <img src="miniatures/friedrichsfeld/friedrichsfeld-table.jpg" alt="Des prisonniers à table dans le camp de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
+            <a href="images/Friedrichsfeld/friedrichsfeld-table.jpg" data-fancybox="gallery" data-caption="A table au camp de Friedrichsfeld">
+            <img src="miniatures/Friedrichsfeld/friedrichsfeld-table.jpg" alt="Des prisonniers à table dans le camp de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
             <figcaption>Des prisonniers à table<br>(source: Famille DADU)</figcaption>
         </figure>
 
         <figure>
-            <a href="images/friedrichsfeld/noel-1916.jpg" data-fancybox="gallery" data-caption="Noël 1916 au camp de Friedrichsfeld">
-            <img src="miniatures/friedrichsfeld/noel-1916.jpg" alt="Noël 1916 au camp de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
+            <a href="images/Friedrichsfeld/noel-1916.jpg" data-fancybox="gallery" data-caption="Noël 1916 au camp de Friedrichsfeld">
+            <img src="miniatures/Friedrichsfeld/noel-1916.jpg" alt="Noël 1916 au camp de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
             <figcaption>Noël 1916 au camp<br>(source: Famille DADU)</figcaption>
         </figure>
 
         <figure>
-            <a href="images/friedrichsfeld/dans-le-camps-16-aout-1917.jpg" data-fancybox="gallery" data-caption="des prisonniers à Friedrichsfeld le 16 août 1917">
-            <img src="miniatures/friedrichsfeld/dans-le-camps-16-aout-1917.jpg" alt="Des prisonniers du camps de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
+            <a href="images/Friedrichsfeld/dans-le-camps-16-aout-1917.jpg" data-fancybox="gallery" data-caption="des prisonniers à Friedrichsfeld le 16 août 1917">
+            <img src="miniatures/Friedrichsfeld/dans-le-camps-16-aout-1917.jpg" alt="Des prisonniers du camps de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
             <figcaption>Dans le camp 16 août 1917<br>(source: Famille DADU)</figcaption>
         </figure>
 
         <figure>
             <a href="images/friedrichsfeld/moulin-de-friedrichsfeld.jpg" data-fancybox="gallery" data-caption="Le moulin du camp de Friedrichsfeld">
-            <img src="miniatures/friedrichsfeld/moulin-de-friedrichsfeld.jpg" alt="Le moulin du camp de prisonniers de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
+            <img src="miniatures/Friedrichsfeld/moulin-de-friedrichsfeld.jpg" alt="Le moulin du camp de prisonniers de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
             <figcaption>Le moulin du camp<br>(source: Famille DADU)</figcaption>
         </figure>
 
