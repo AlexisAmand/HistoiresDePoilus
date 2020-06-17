@@ -127,8 +127,10 @@
             <li>Fils de Jules Jean Baptiste MASCART et d'Alcidie SEVREZ.</li>
             <li>Jules Jean Baptiste est le fils de Jean-Baptiste MASCART et Louise Charlotte DOCHEZ.</li>
             <li>Fiche matricule n°528, volume 2, Bureau de Valenciennes, Classe de 1909 – la fiche est impossible à trouver</li>
-            <li>Mort pour la France le 7 mars 1915 à Châlons-sur-Marne</li>
-            <li>Livre d'Or de Vicq</li>
+            <li>Caporal au 127e Régiment d'infanterie</li>
+            <li>Mort des suites de blessures le 7 mars 1915 à l'hôpital temporaire 17 de Châlons-sur-Marne</li>
+            <li>Il repose à la Nécropole Nationale de Châlons-en-Champagne, tombe n°1877</li>
+            <li>Son nom figure sur le livre d'or du ministère des pensions et sur le monument aux morts de Vicq (Nord)</li>
         </ul>
 
         <figure>
@@ -144,6 +146,7 @@
         <ul>
 	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
 	        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
+	        <li><a href="http://www.memorialgenweb.org/">Mémorial GenWeb</a></li>
 	        <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense">Mémoire des Hommes</a> (Ministère de la Défense)</li>
         </ul>
 

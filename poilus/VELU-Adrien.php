@@ -165,7 +165,7 @@
             <figcaption>Adrien VELU, mort pour la France<br>(source: Mémoire des Hommes)</figcaption>
         </figure>
 
-        <p>Apolline BRIOT, sa veuve, reçoit la somme de 150 francs. Son nom est sur le Monument aux Morts de Villers-Guislain mais son corps repose au carré militaire de l'est du cimetière communal de Châlons-en-Champagne.</p>
+        <p>Apolline BRIOT, sa veuve, reçoit la somme de 150 francs. Son nom est sur le Monument aux Morts de Villers-Guislain mais selon le site son corps repose au carré militaire de l'est du cimetière communal de Châlons-en-Champagne.</p>
 
         <figure>
             <a href="images/cimetiere-communal.jpg" data-fancybox="gallery" data-caption="Le cimetière militaire de Châlons-sur-Marne">

@@ -60,8 +60,8 @@
           <li><a href="tombes/awoingt.php">Awoingt</a></li>
           <li><a href="tombes/beaufort.php">Beaufort</a></li>
 	      <li><a href="tombes/capelle.php">Capelle-sur-Ecaillon</a></li>
-          <li><a href="fontaine-au-bois.php">Fontaine-au-bois</a></li>
-	      <li><a href="tombes/grand-fayt">Grand-Fayt</a></li>
+          <li><a href="tombes/fontaine-au-bois.php">Fontaine-au-bois</a></li>
+	      <li><a href="tombes/grand-fayt.php">Grand-Fayt</a></li>
 	      <li><a href="tombes/maroilles.php">Maroilles</a></li>
           <li><a href="tombes/valenciennes.php">Valenciennes</a></li>  
     </ul>
