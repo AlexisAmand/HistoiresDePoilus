@@ -67,7 +67,7 @@
         <li><a href="amand-marceau.php" class="AsideSelected">AMAND Marceau</a></li>
         <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
-        <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
+        <li><a href="boursier-edouard.php">BOURSIER Edouard</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="carin-alfred.php">CARIN Alfred</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
@@ -131,15 +131,15 @@
         </figure>
         
         <p>Il est rattaché à la clase de mobilisation 1915 car il n'a pas pu être recensé en temps utile par suite d'un cas de force majeure (sans doute la guerre). il est finalement appelé au service armé en 1919 et affecté au 10e Régiment de Hussards où il est incorporé à compté du 12 juin. Soldat de 2e classe, il passe au 2e Régiment de Hussards le 10 novembre 1919. Il reste au sein de "l'escadron de la motte" de ce régiment jusqu'au 25 mars 1921, date à laquelle il est renvoyé dans ses foyers en attendant son passage dans la réserve de l'armée active avec le certificat de bonne conduite qui lui est accordé. Un escadron est une unité militaire qui marque l'appartenance à une unité armée dite "à cheval", c'est l'équivalent des compagnies des unités de l'armée de terre dite "à pied".</p>
+
+        <figure>
+            <a href="images/hussards.jpg" data-fancybox="gallery" data-caption="Un hussard en uniforme vers 1914">
+            <img src="miniatures/hussards.jpg" alt="Dessin d'un hussard au début de la Première Guerre Mondiale"/></a>
+            <figcaption>Un hussard en uniforme vers 1914<br>(Dessin original de Maurice TOUSSAINT)</figcaption>
+        </figure>
         
         <p>Son service militaire inclut une période de 4 mois (du 12 juin au 23 octobre 1919) où il est considéré comme en campagne contre l'Allemagne. En effet, selon la loi publiée dans le Journal Officiel de la République Française du 24 octobre 1919, la fin de la guerre est fixée au 23 octobre de la même année et de la même façon la mobilisation générale prend fin par le décret publié dans le JO du 15 octobre 1919.</p>
        	
-       	<figure>
-            <a href="images/hussards.jpg" data-fancybox="gallery" data-caption="Un hussard en uniforme vers 1914">
-            <img src="miniatures/hussards.jpg" alt="Dessin d'un hussard au début de la Première Guerre Mondiale"/></a>
-            <figcaption>Un hussard en uniforme vers 1914<br>(Source: Delcampe)</figcaption>
-        </figure>
-        
         <figure>
             <a href="sources/matricule-marceau-amand.jpg" data-fancybox="gallery" data-caption="Les domiciles de Marceau AMAND">
             <img src="miniatures/matricule-marceau-amand.jpg" alt="Extrait de la fiche matricule de Marceau AMAND contenant la liste de ses domiciles"/></a>

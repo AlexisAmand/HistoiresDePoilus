@@ -5,8 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>Biographie et parcours du soldat Edmond BOURSIER - Histoires de Poilus</title>
-        <meta content="Parcours et biographie du poilu Edmond BOURSIER, soldat français pendant la Première Guerre Mondiale" name="description"/>
+        <title>Biographie et parcours du soldat Edouard BOURSIER - Histoires de Poilus</title>
+        <meta content="Parcours et biographie du poilu Edouard BOURSIER, soldat français pendant la Première Guerre Mondiale" name="description"/>
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
@@ -67,7 +67,7 @@
         <li><a href="amand-marceau.php">AMAND Marceau</a></li>
         <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
-        <li><a href="boursier-edmond.php" class="AsideSelected">BOURSIER Edmond</a></li>
+        <li><a href="boursier-edouard.php" class="AsideSelected">BOURSIER Edouard</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="carin-alfred.php">CARIN Alfred</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
@@ -120,9 +120,15 @@
 
         <article>
 
-        <h1>Edmond BOURSIER</h1>
+        <h1>Edouard BOURSIER</h1>
 
-        <p><strong>Edmond BOURSIER</strong>, frère de <a href="BOURSIER-Jules.php" title="Biographie du poilu Jules BOUSIER">Jules Henri</a>, né le 10 avril 1882, dont je n'ai pas encore pu trouver la fiche matricule. En 1906, il est ajusteur et vit Rue De La Chevauchoire à Onnaing, avec son frère Jules et ses parents. Etant âgé de 32 ans en 1914, je pense qu'il a du être mobilisé.</p>
+        <p><strong>Edouard BOURSIER</strong>, frère de <a href="BOURSIER-Jules.php" title="Biographie du poilu Jules BOUSIER">Jules Henri</a>, né le 10 avril 1882, dont je n'ai pas encore pu trouver la fiche matricule. En 1906, il est ajusteur et vit Rue De La Chevauchoire à Onnaing, avec son frère Jules et ses parents. Chose étrange, sur le recensement de 1906, son prénom est devenu Edmond. Etant âgé de 32 ans en 1914, je pense qu'il a du être mobilisé.</p>
+        
+        <figure>
+            <a href=" " data-fancybox="gallery" data-caption=" ">
+            <img src=" " alt=" "/></a>
+            <figcaption> <br>(source:  )</figcaption>
+        </figure>
 
         <p style="text-align:right">A suivre...</p>
         

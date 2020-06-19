@@ -57,7 +57,7 @@
 
         <li><a href="../bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
 		<li><a href="../boucher-gervais.php">BOUCHER Gervais</a></li>
-		<li><a href="../boursier-edmond.php">BOURSIER Edmond</a></li>
+		<li><a href="../boursier-edouard.php">BOURSIER Edouard</a></li>
         <li><a href="../BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="../CARIN-Edouard.php">CARIN Édouard (+)</a></li>
         <li><a href="../CARIN-Leon.php">CARIN Léon (+)</a></li>

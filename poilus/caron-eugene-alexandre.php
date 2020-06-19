@@ -91,13 +91,21 @@
 
         <h1>Eugène Alexandre CARON</h1>
 
-        <p><strong>Eugène Alexandre CARON</strong>, né le 16 avril 1869 à Montigny-sur-Vesle (Marne), fils de Pierre Alexandre et de Zélia Celestine HUILLERET. Avant la Grande Guerre, il vit à Reims, successivement 164 Rue du Barbâtre (1895) et 28 Rue de Savoie (1910), où il exerce la profession de mécanicien. A la mobilisation, il rejoint la 6e section d'infirmiers le 3 août 1914. Le 24 août 1915, il est détaché dans une usine de Clermont-Ferrant.</p>
+        <p><strong>Eugène Alexandre CARON</strong>, né le 16 avril 1869 à Montigny-sur-Vesle (Marne), fils de Pierre Alexandre et de Zélia Celestine HUILLERET. Avant la Grande Guerre, il vit à Reims, successivement 164 Rue du Barbâtre (1895) et 28 Rue de Savoie (1910), où il exerce la profession de mécanicien.</p>
 
         <figure>
             <a href="images/reims-barbatre.jpg" data-fancybox="gallery" data-caption="la Rue du Barbâtre à Reims">
             <img src="miniatures/reims-barbatre.jpg" alt="la Rue du Barbâtre à Reims sur une carte postale ancienne"/></a>
             <figcaption>la Rue du Barbâtre<br>(Source: Archives Municipales de Reims)</figcaption>
         </figure>
+
+        <figure>
+            <a href="images/reims-barbatre-02.jpg" data-fancybox="gallery" data-caption="la Rue du Barbâtre à Reims">
+            <img src="miniatures/reims-barbatre-02.jpg" alt="la Rue du Barbâtre à Reims sur une carte postale ancienne"/></a>
+            <figcaption>la Rue du Barbâtre<br>(Source: Delcampe)</figcaption>
+        </figure>
+
+        <p>A la mobilisation, il rejoint la 6e section d'infirmiers le 3 août 1914. Le 24 août 1915, il est détaché dans une usine de Clermont-Ferrant.</p>
         
         <h2>Sources et bibliographie</h2>
         

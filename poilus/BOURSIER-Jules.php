@@ -66,7 +66,7 @@
         <li><a href="amand-marceau.php">AMAND Marceau</a></li>
         <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
-        <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
+        <li><a href="boursier-edouard.php">BOURSIER Edouard</a></li>
         <li><a href="BOURSIER-Jules.php" class="AsideSelected">BOURSIER Jules Henri</a></li>
         <li><a href="carin-alfred.php">CARIN Alfred</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
@@ -121,7 +121,7 @@
 
         <h1>Jules Henri BOURSIER</h1>
 
-        <p><strong>Jules Henri BOURSIER</strong> est né à Onnaing (Nord) le 7 décembre 1879, fils légitime de Edmond François BOURSIER, cultivateur, et de Julia JUDES. En 1906, il est chaudronnier et vit chez ses parents à Onnaing (Rue De La Chevauchoire), avec son frère Édouard. Le 19 novembre de la même année, il épouse Suzanne Hyacinthe GODIN (1879-1939). </p> 
+        <p><strong>Jules Henri BOURSIER</strong> est né à Onnaing (Nord) le 7 décembre 1879, fils légitime de Edouard François BOURSIER, cultivateur, et de Julia JUDES. En 1906, il est chaudronnier et vit chez ses parents à Onnaing (Rue De La Chevauchoire), avec son frère Édouard. Le 19 novembre de la même année, il épouse Suzanne Hyacinthe GODIN (1879-1939). </p> 
 
         <figure>
             <a href="images/BOURSIER-Jules-Henri-naissance-1879.jpg" data-fancybox="gallery" data-caption="acte de naissance de Jules Henri BOURSIER">

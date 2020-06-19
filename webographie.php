@@ -82,7 +82,16 @@
             Historique du 19e Bataillon de Chasseurs à Pied</a><br>(Gallica / Service historique de la Défense)</li>
         </ul>
 
-        <br><br>    
+        <br><br>
+
+        <h2>Historique des régiments de hussards</h2>
+
+        <ul>
+            <li><a href="pdf/Historique_2_Hussards_plaquette" title="Plaquette présentant l'historique du 2e régiment de hussards">
+            Historique du 2e régiment de hussards</a><br>(source inconnue)</li>
+        </ul>
+
+        <br><br>
 
         <h2>Historique de l'Armée d'Afrique</h2>
 

@@ -68,7 +68,7 @@
         <li><a href="amand-marceau.php">AMAND Marceau</a></li>
         <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
         <li><a href="boucher-gervais.php" class="AsideSelected">BOUCHER Gervais</a></li>
-        <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
+        <li><a href="boursier-edouard.php">BOURSIER Edouard</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="carin-alfred.php">CARIN Alfred</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>

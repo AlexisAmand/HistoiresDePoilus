@@ -67,7 +67,7 @@
         <li><a href="amand-marceau.php">AMAND Marceau</a></li>
         <li><a href="bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
-        <li><a href="boursier-edmond.php">BOURSIER Edmond</a></li>
+        <li><a href="boursier-edouard.php">BOURSIER Edouard</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
         <li><a href="carin-alfred.php">CARIN Alfred</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
@@ -129,8 +129,22 @@
             <img src="miniatures/lourches-escaut-2.jpg" alt="Vue des entrepôts et canal de l'Escaut à Lourches"/></a>
             <figcaption>Vue des entrepôts et canal de l'Escaut à Lourches<br>(Source: Archives Municipales de Valenciennes)</figcaption>
         </figure>
+
+        <figure>
+            <a href="images/lourches-escaut.jpg" data-fancybox="gallery" data-caption="Les bords de l'Escaut et la Passerelle à Lourches">
+            <img src="miniatures/lourches-escaut.jpg" alt="Les bords de l'Escaut et la Passerelle à Lourches sur une carte postale ancienne"/></a>
+            <figcaption>Les bords de l'Escaut et la Passerelle à Lourches<br>(Source: Delcampe)</figcaption>
+        </figure>
         
-        <p>Si vous êtes un jour amené à chercher des informations et à enquêter dans le milieu des bateliers, vous allez vitre découvrir que un véritable parcours du combattant car leur vie s'est faite au grés des fleuves. On nait dans un département, on se marie dans un second et on décéde dans un 3e. Est-ce pour cette raison que la famille AMAND est à Gueret en ce mois de mars 1915 ? Je ne sais pas trop car il se peut aussi que la famille ait fuit le Nord de la France devant l'avancé des troupes allemandes. Quoi qu'il en soit c'est à la marie de Gueret que nous faisons la connaissance de Hoche Gaston Blomy AMAND. Nous sommes le 3 mars 1915 et il est venu s'engager pour la durée de la guerre.</p>
+        <p>Si vous êtes un jour amené à chercher des informations et à enquêter dans le milieu des bateliers, vous allez vitre découvrir que un véritable parcours du combattant car leur vie s'est faite au grés des fleuves. On nait dans un département, on se marie dans un second et on décéde dans un 3e. Est-ce pour cette raison que la famille AMAND est à Gueret en ce mois de mars 1915 ? Je ne sais pas trop car il se peut aussi que la famille ait fuit le Nord de la France devant l'avancé des troupes allemandes.</p>
+
+        <figure>
+            <a href="sources/matricule-gaston-amand.jpg" data-fancybox="gallery" data-caption="Liste des domiciles de Gaston sur sa fiche matricule">
+            <img src="miniatures/matricule-gaston-amand.jpg" alt="Extrait de la fiche matricule de Gaston AMAND"/></a>
+            <figcaption>Ses domiciles sur sa fiche matricule<br>(Source: Archives Départementales du Nord)</figcaption>
+        </figure> 
+        
+        <p>Quoi qu'il en soit c'est à la marie de Gueret que nous faisons la connaissance de Hoche Gaston Blomy AMAND. Nous sommes le 3 mars 1915 et il est venu s'engager pour la durée de la guerre.</p>
 
         <figure>
             <a href="sources/hoche-amand.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Hoche Amand">
@@ -138,7 +152,7 @@
             <figcaption>Extrait de la fiche matricule de Hoche AMAND<br>(Source: Archives Départementales du Nord)</figcaption>
         </figure>
 
-        <p>Hoche devient alors soldat de 2e classe au sein du 54e Régiment d'Infanterie jusqu'au 20 juillet 1915, date à laquelle il passe au 87e Régiment d'Infanterie. En octobre 1915, Hoche et son régiment participe à la prise de Tahure, assaut au cours duquel il est blessé à la jambe droite et au côté droit par un éclat d'obus. Il est évacué et de retour au 87e le 28 novembre 1915.</p>
+        <p>Hoche devient alors soldat de 2e classe au sein du 54e Régiment d'Infanterie jusqu'au 20 juillet 1915, date à laquelle il passe au 87e Régiment d'Infanterie. En octobre 1915, Hoche et son régiment participe à la prise de Tahure, assaut au cours duquel il est blessé à la jambe droite et au côté droit par un éclat d'obus. Il est évacué et de retour au 87e le 28 novembre 1915. Tahure est une ancienne commune française du département de la Marne qui fut détruite pendant la Première Guerre mondiale, son territoire a été rattaché à la commune de Sommepy-Tahure en 1950 lors de la création du camp militaire de Suippes.</p>
 
         <figure>
             <a href="images/prise-de-tahure.jpg" data-fancybox="gallery" data-caption="La prise de Tahure (Par Léon Groc)">
@@ -149,9 +163,9 @@
         <p>Le mois de juillet 1917 est chargé pour Hoche. Le 6 il est cité à l'ordre du régiment n°181 du 87e Régiment d'Infanterie : "Etant en pays envahi, a franchi les lignes allemandes pour venir se présenter au bureau de recrutement". Trois semaines plus tard, le 27, il est blessé par un éclat d'obus à la main gauche pendant les combat de la côte 304, une colline au nord-est de Verdun (Meuse).</p>
 
         <figure>
-            <a href="sources/matricule-gaston-amand.jpg" data-fancybox="gallery" data-caption="Liste des domiciles de Gaston sur sa fiche matricule">
-            <img src="miniatures/matricule-gaston-amand.jpg" alt="Extrait de la fiche matricule de Gaston AMAND"/></a>
-            <figcaption>Ses domiciles sur sa fiche matricule<br>(Source: Archives Départementales du Nord)</figcaption>
+            <a href="images/cote-304.jpg" data-fancybox="gallery" data-caption="Pièce allemande à longue portée dans le bois de Gercourt">
+            <img src="miniatures/cote-304.jpg" alt="Pièce allemande à longue portée dans le bois de Gercourt tirant sur le Mort-Homme et la côte 304"/></a>
+            <figcaption>Pièce allemande à longue portée dans le bois de Gercourt<br />tirant sur le Mort-Homme et la côte 304.<br />(Source: Delcampe)</figcaption>
         </figure>
 
         <p>Le 25 août 1919, il est envoyé en congés illimités et se retire à Neuville-sur-Escaut (Nord), au 23 rue de Bouchain. Selon le journal officiel du 27 octobre 1934 (p 317), il obtient la médaille millitaire.</p>

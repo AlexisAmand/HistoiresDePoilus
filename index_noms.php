@@ -122,7 +122,7 @@
                     <li><a href="tombes/valenciennes.php#Lucien_Boddaert">BODDAERT Lucien</a></li>
                     <li><a href="poilus/bottiau-raphael-joseph.php">BOTTIAU Raphaël Joseph</a></li>
                     <li><a href="poilus/boucher-gervais.php">BOUCHER Gervais</a></li>
-                    <li><a href="poilus/boursier-edmond.php">BOURSIER Edmond</a></li>
+                    <li><a href="poilus/boursier-edouard.php">BOURSIER Edouard</a></li>
                     <li><a href="poilus/BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
                     <li><a href="poilus/carin-alfred.php">CARIN Alfred</a></li>
                     <li><a href="poilus/CARIN-Edouard.php">CARIN Édouard</a></li>
