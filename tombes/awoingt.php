@@ -62,6 +62,7 @@
       <li><a href="fontaine-au-bois.php">Fontaine-au-bois</a></li>
       <li><a href="grand-fayt.php">Grand-Fayt</a></li>
       <li><a href="maroilles.php">Maroilles</a></li>
+      <li><a href="saint-saulve.php">Saint-Saulve</a></li>
       <li><a href="valenciennes.php">Valenciennes</a></li>  
   </ul>
     
@@ -120,9 +121,9 @@
       </figure>
 
       <figure>
-          <a href="images/indien-awoing.jpg" data-fancybox="gallery" data-caption="Un indien inhumé à Awoingt">
-          <img src="images/mini/indien-awoing.jpg" alt="Un indien ayant combattu pendant la Première Guerre Mondiale inhumé à Awoingt"/></a>
-          <figcaption>Un indien inhumé à Awoingt<br>(source : photo personnelle)</figcaption>
+          <a href="images/indien-awoing.jpg" data-fancybox="gallery" data-caption="Tombe de Udmi SINGH, un indien inhumé à Awoingt">
+          <img src="images/mini/indien-awoing.jpg" alt="Udmi SINGH, un indien ayant combattu pendant la Première Guerre Mondiale et inhumé à Awoingt"/></a>
+          <figcaption>Udmi SINGH, un indien inhumé à Awoingt<br>(source : photo personnelle)</figcaption>
       </figure>
       
       </article>

@@ -141,6 +141,15 @@
 
         <br><br>
 
+        <h2>Les As de la Grande Guerre (aviation)</h2>
+
+        <ul>
+            <li><a href="http://www.as14-18.net/Covin">As français de la Grande Guerre</a></li>
+            <li><a href="http://www.theaerodrome.com/aces/index.php">The Aces of World War I</a></li>
+        </ul>
+
+        <br><br>
+
         <h2>Vie quotidienne des soldats</h2>
 
         <ul>

@@ -134,6 +134,7 @@
                     <li><a href="poilus/CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
                     <li><a href="poilus/caron-eugene-alexandre.php">CARON Eugène Alexandre</a></li>
                     <li><a href="poilus/FIEVET-Auguste-Victor#Carton_Bataille">CARTON (prénom inconnu)</a></li>
+                    <li><a href="tombes/saint-saulve.php#Jules-Covin">COVIN Jules</a></li>
                     <li><a href="poilus/CARLIER-Druon-Joseph.php#Crepy">CREPY (prénom inconnu)</a></li>
                     <li><a href="camps/camp-friedrichsfeld.php#Etienne-Dadu">DADU Etienne</a></li>
                     <li><a href="tombes/capelle.php#Edouard-Decoster">DECOSTER Edouard Gaston</a></li>
@@ -162,6 +163,8 @@
                     <li><a href="poilus/JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
                     <li><a href="poilus/JOLY-Noel-Jules.php#Lafeuille">LAFEUILLE (prénom inconnu)</a></li>
                     <li><a href="poilus/lamandin-georges.php">LAMANDIN Georges</a></li>
+                    <li><a href="tombes/saint-saulve.php#Xavier-Lecerf">LECERF Xavier</a></li>
+                    <li><a href="tombes/saint-saulve.php#Alfred-Lefebvre">LEFEBVRE Alfred</a></li>
                     <li><a href="poilus/lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
                     <li><a href="poilus/LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
                     <li><a href="camps/camp-hammelburg.php#Charles_Lewine">LEWINE Charles</a></li>
@@ -203,6 +206,14 @@
 
                 <ul>
                     <li><a href="tombes/valenciennes.php#inconnu-01">Soldat inconnu n°1 (Valenciennes)</a></li>
+                </ul>
+
+                <br />
+
+                <h2>Inde</h2>
+
+                <ul>
+                    <li><a href="tombes/awoingt.php#cma">SINGH Udmi</a></li>
                 </ul>
 
             </div>
