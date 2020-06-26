@@ -91,7 +91,7 @@
         <figure>
             <a href="sources/naissance-octave-amand.jpg" data-fancybox="gallery" data-caption="Acte de naissance d'Octave AMAND">
             <img src="miniatures/naissance-octave-amand.jpg" alt="Acte de naissance d'Octave AMAND daté de 1895"></a>
-            <figcaption>Acte de naissance d'Octave AMAND<br>(Source: Familysearch et Archives Belges)</figcaption>
+            <figcaption>Acte de naissance d'Octave AMAND<br />(Source: Familysearch et Archives Belges)</figcaption>
         </figure>
 
         <p>Elève de la première candidature en sciences naturelles, il franchit la frontière, en avril 1915, conquit, à l'école de Bayeux, le diplôme de sous-lieutenant au 11e régiment de ligne.</p>
@@ -109,7 +109,7 @@
         <figure>
             <a href="images/ordre-de-la-couronne.jpg" data-fancybox="gallery" data-caption="Avers de la médaille d'officier de l'ordre de la Couronne">
             <img src="miniatures/ordre-de-la-couronne.jpg" alt="Avers de la médaille d'officier de l'ordre de la Couronne"></a>
-            <figcaption>Officier de l'Ordre de la Couronne<br>(Source: Wikipedia Commons) </figcaption>
+            <figcaption>Officier de l'Ordre de la Couronne<br />(Source: Wikipedia Commons) </figcaption>
         </figure>
         
         

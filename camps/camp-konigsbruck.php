@@ -121,7 +121,7 @@
         <figure>
             <a href="images/Konigsbruck/localisation.jpg" data-fancybox="gallery" data-caption="carte de l'Allemagne pour localiser le camp de prisonnier de Königsbrück">
             <img src="miniatures/Konigsbruck/localisation.jpg" alt="Localisation du camp de Königsbrück"></a>
-            <figcaption>Localisation du camp de Königsbrück<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Königsbrück<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
         <p>Au début de l'année 1915, pendant une visite de l'Ambassade d'Espagne au camp de Königsbrüc, les médecins allemands rejettent la responsabilité du dévelloppement important de la tuberculose dans les camps de prisonniers sur le <em>"temperament de la race française, prédisposée à la tuberculose"</em> Pour ettayer leurs propos, les médecins allemands insistent sur le grand nombre de français malades en ce mois de janvier 1915.</p>
@@ -129,7 +129,7 @@
         <figure>
             <a href="images/Konigsbruck/camp-konigsbruck-01.jpg" data-fancybox="gallery" data-caption="Prisonniers français à Königsbrück">
             <img src="miniatures/Konigsbruck/camp-konigsbruck-01.jpg" alt="Un groupe de prisonniers français au camp de Königsbrück"></a>
-            <figcaption>Prisonniers français à Königsbrück<br>(source: Clio Team)</figcaption>
+            <figcaption>Prisonniers français à Königsbrück<br />(source: Clio Team)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

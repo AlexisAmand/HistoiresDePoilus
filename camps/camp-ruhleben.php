@@ -123,7 +123,7 @@
         <figure>
             <a href="images/Ruhleben/Ruhleben-01.jpg" title="Des prisonniers anglais à Ruhleben">    
             <img src="miniatures/Ruhleben/Ruhleben-01.jpg" alt="Des prisonniers anglais dans le camp de Ruhleben pendant la Grande Guerre"></a>
-            <figcaption>Des Anglais à Ruhleben<br>(source: BNF - Gallica et La Guerre Mondiale : bulletin quotidien illustré)</figcaption>
+            <figcaption>Des Anglais à Ruhleben<br />(source: BNF - Gallica et La Guerre Mondiale : bulletin quotidien illustré)</figcaption>
         </figure>
 
         <p>Le 27 juillet 1915, le journal "La Croix" raconte que deux anglais, l'un correspondant de l'agence Reuters, l'autre du Daily Chronicle, se sont évadés du camp allemand de Ruhleben et viennent d'arriver en territoire hollandais.</p>

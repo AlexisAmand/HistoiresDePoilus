@@ -80,7 +80,7 @@
         <figure>
             <a href="images/carte-camps-pb.png" data-fancybox="gallery" data-caption="Emplacement du camp d'internés de Kampen">
             <img src="miniatures/carte-camps-pb.png"  alt="Localisation du camp d'internés de Kampen pendant la Première Guerre Mondiale"/></a>
-            <figcaption>Localisation du camp d'internés de Kampen (Pays-Bas)<br>(Le Globe, Revue genevoise de géographie, tome 58 (1919))<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Localisation du camp d'internés de Kampen (Pays-Bas)<br />(Le Globe, Revue genevoise de géographie, tome 58 (1919))<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
          

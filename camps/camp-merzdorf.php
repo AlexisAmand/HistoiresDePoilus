@@ -118,7 +118,7 @@
         <figure>
             <a href="images/Merzdorf/plan-merzdorf.jpg" data-fancybox="gallery" data-caption="Plan du camp de Merzdorf pendant la Grande Guerre">
             <img src="miniatures/Merzdorf/plan-merzdorf.jpg" alt="Plan du camp de prisonniers de Merzdorf pendant la Première Guerre Mondiale"></a>
-            <figcaption>Plan du camp de Merzdorf<br>(Le Globe, Revue genevoise de géographie, tome 58 (1919))</figcaption>
+            <figcaption>Plan du camp de Merzdorf<br />(Le Globe, Revue genevoise de géographie, tome 58 (1919))</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

@@ -91,7 +91,7 @@
         <figure>
             <a href="sources/Froidurot-Alfred-naissance-1898.jpg" data-fancybox="gallery" data-caption="Acte de naissance d'Alfred Froidurot">
             <img src="miniatures/Froidurot-Alfred-naissance-1898.jpg"  alt="Acte de naissance d'Alfred Froidurot"></a>
-            <figcaption>Acte de naissance d'Alfred FROIDUROT<br>(Source: Archives Départementales de la Côte-d'Or)</figcaption>
+            <figcaption>Acte de naissance d'Alfred FROIDUROT<br />(Source: Archives Départementales de la Côte-d'Or)</figcaption>
         </figure>
 
         <p>Alfred a tout juste 17 ans quand, le 2 juillet 1915 à Dijon, il s'engage comme volontaire pour la durée de la guerre au 17e Régiment de Dragons. Comme beaucoup de poilus, Alfred passe de régiment en régiment au grès des affectations: 2e Régiment de Zouaves (février 1916), 3e Régiment Mixte de Zouaves  (juin 1916), 1er Régiment de Zouaves (octobre 1917) et 3e Régiment de Zouaves  (décembre 1917).</p>
@@ -109,7 +109,7 @@
         <figure>
             <a href="images/villa-montfleury-cannes.jpg" data-fancybox="gallery" data-caption="La Villa Montfleury à Cannes">
             <img src="miniatures/villa-montfleury-cannes.jpg" alt="La Villa Montfleury sur une carte postale ancienne de Cannes"></a>
-            <figcaption>La Villa Montfleury dans les années 1910<br>(source: Archives Municipales de Cannes)</figcaption>
+            <figcaption>La Villa Montfleury dans les années 1910<br />(source: Archives Municipales de Cannes)</figcaption>
         </figure>
 
         <p>Son nom est inscrit sur la stèle commémorative de la villa Montfleury à Cannes (Alpes-Maritimes). Il est reconnu Mort pour la France et est inhumé au cimetière communal de Rabiac à Antibes.</p>
@@ -119,7 +119,7 @@
         <figure>
             <a href="sources/Dossier-Leonore-Alfred.jpg" data-fancybox="gallery" data-caption="Extrait du dossier de la Légion d'Honneur d'Alfred Froidurot">
             <img src="miniatures/Dossier-Leonore-Alfred.jpg" alt="Extrait du dossier de la Légion d'Honneur d'Alfred FROIDUROT"></a>
-            <figcaption>Extrait du dossier de Légion d'Honneur<br>(source: Archives Nationales)</figcaption>
+            <figcaption>Extrait du dossier de Légion d'Honneur<br />(source: Archives Nationales)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

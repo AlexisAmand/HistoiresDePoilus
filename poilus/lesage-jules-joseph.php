@@ -135,19 +135,19 @@
         <tbody>
         <tr>
             <td headers="date">13 juillet 1917</td>
-            <td headers="adresse">Chez Me Veuve ARSENE<br>Vieux Coron<br>à Barlin (Pas-de-Calais)</td>
+            <td headers="adresse">Chez Me Veuve ARSENE<br />Vieux Coron<br />à Barlin (Pas-de-Calais)</td>
         </tr>
         <tr>
             <td headers="date">26 octobre 1920</td>
-            <td headers="adresse">Coron Tout Quitte<br>à Roeulx (Nord)</td>
+            <td headers="adresse">Coron Tout Quitte<br />à Roeulx (Nord)</td>
         </tr>
         <tr>
             <td headers="date">28 juin 1922</td>
-            <td headers="adresse">45 Rue Socrate<br>à Lourches (Nord)</td>
+            <td headers="adresse">45 Rue Socrate<br />à Lourches (Nord)</td>
         </tr>
         <tr>
             <td headers="date">8 septembre 1924</td>
-            <td headers="adresse">62 Rue de la République<br>à Roeulx (Nord)</td>            
+            <td headers="adresse">62 Rue de la République<br />à Roeulx (Nord)</td>            
         </tr>
         </tbody>
     </table>

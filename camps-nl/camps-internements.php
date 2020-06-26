@@ -82,7 +82,7 @@
         <figure>
             <a href="images/carte-camps-pb.png" data-fancybox="gallery" data-caption="Emplacement des camps d'internés aux Pays-Bas">
             <img src="miniatures/carte-camps-pb.png"  alt="Localisation des camps d'internés aux Pays-Bas pendant la Première Guerre Mondiale"/></a>
-            <figcaption>Carte des camps d'internés aux Pays-Bas<br>(Le Globe, Revue genevoise de géographie, tome 58 (1919))<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Carte des camps d'internés aux Pays-Bas<br />(Le Globe, Revue genevoise de géographie, tome 58 (1919))<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <p>Les camps situés par exemple à <a href="camp-harderwijk.php" title="le camp d'internement de réfugiés de Harderwijk">Harderwijk</a>, <a href="camp-amersfoort.php" title="le camp d'internement de réfugiés de Amersfoort">Amersfoort</a>, <a href="camp-loosduinen.php" title="le camp d'internement de réfugiés de Loosduinen">Loosduinen</a>, <a href="camp-kampen.php" title="le camp d'internement de réfugiés d'Assen">Assen</a>, <a href="camp-leeuwarden.php" title="le camp d'internement de réfugiés de Leeuwarden">Leeuwarden</a>, <a href="camp-kampen.php" title="le camp d'internement de réfugiés de Kampen">Kampen</a>, <a href="camp-zwolle.php" title="le camp d'internement de réfugiés de Zwolle">Zwolle</a> ou <a href="camp-zeist.php" title="le camp d'internement de réfugiés de Zeist">Zeist</a> comptent parmi les plus importants. Il y avait aussi un camp reversé aux officiers alliés à <a href="camp-bodegraven.php" title="le camp d'internement de réfugiés de Dodegraven">Dodegraven</a>, dans un fort sur la rive du vieux Rhin.</p>

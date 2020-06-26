@@ -119,7 +119,7 @@
         <figure>
             <a href="images/Cassel/plan-cassel.jpg" data-fancybox="gallery" data-caption="Plan du camp de Cassel pendant la Grande Guerre">
             <img src="miniatures/Cassel/plan-cassel.jpg" alt="Plan du camp de prisonniers de Cassel pendant la Première Guerre Mondiale"></a>
-            <figcaption>Plan du camp de Cassel<br>(Le Globe, Revue genevoise de géographie, tome 58 (1919))</figcaption>
+            <figcaption>Plan du camp de Cassel<br />(Le Globe, Revue genevoise de géographie, tome 58 (1919))</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

@@ -68,7 +68,7 @@
         <figure>
             <a href="images/askari-1914-1918.jpg" data-fancybox="gallery" data-caption="Une troupe d'Askari pendant la Grande Guerre">
             <img src="images/miniatures/askari-1914-1918.jpg" alt="Une troupe d'Askari sur le Front Africain pendant la Première Guerre Mondiale"></a>
-            <figcaption>Une troupe d'Askari, entre 1914-1918<br>(source: Bundesarchiva)</figcaption>
+            <figcaption>Une troupe d'Askari, entre 1914-1918<br />(source: Bundesarchiva)</figcaption>
         </figure>
 
         <table>
@@ -96,7 +96,7 @@
             <tr>
                 <td headers="lieu">Tanzanie</td>
                 <td headers="bataille">La Bataille de Tanga</td>
-                <td headers="date">Du 3 novembre 1914<br>au 5 novembre 1914</td>
+                <td headers="date">Du 3 novembre 1914<br />au 5 novembre 1914</td>
                 <td headers="issue">Victoire allemande</td>
             </tr>    
             <tr>
@@ -109,35 +109,35 @@
             <tr>
                 <td headers="lieu">Tanzanie</td>
                 <td headers="bataille">Bataille de Jassin</td>
-                <td headers="date">Du 18 janvier 1915<br>au 19 janvier 1915</td>
+                <td headers="date">Du 18 janvier 1915<br />au 19 janvier 1915</td>
                 <td headers="issue">Victoire allemande</td>
             </tr>    
             <tr>
                 <td headers="lieu">Namibie</td>
                 <td headers="bataille">La Bataille de Gibeon</td>
-                <td headers="date">Du 25 avril 1915<br>au 26 avril 1916</td>
+                <td headers="date">Du 25 avril 1915<br />au 26 avril 1916</td>
                 <td headers="issue">Victoire sud-africaine</td>
             </tr>    
             <tr>
                 <td headers="lieu">Tanzanie</td>
                 <td headers="bataille">La Bataille de Bukoba</td>
-                <td headers="date">Du 21 juin 1915<br>au 23 juin 1915</td>
+                <td headers="date">Du 21 juin 1915<br />au 23 juin 1915</td>
                 <td headers="issue">Perte de Bukoba par les Allemands</td>
             </tr>    
             <tr>
                 <td headers="lieu">Sud de l'Angola</td>
-                <td headers="bataille">La Bataille de Mongua<br>(ou Bataille d'Omongwa)</td>
-                <td headers="date">Du 18 août 1915<br>au 20 août 1915</td>
+                <td headers="bataille">La Bataille de Mongua<br />(ou Bataille d'Omongwa)</td>
+                <td headers="date">Du 18 août 1915<br />au 20 août 1915</td>
                 <td headers="issue">Victoire des portugais</td>
             </tr>    
             <tr>
                 <td headers="lieu">Près du Kilimandjaro</td>
-                <td headers="bataille">La Bataille de Salaita<br>(ou Bataille de Salaita Hill)</td>
+                <td headers="bataille">La Bataille de Salaita<br />(ou Bataille de Salaita Hill)</td>
                 <td headers="date">Le 12 février 1916</td>
                 <td headers="issue">Victoire allemande</td>
             </tr>    
             <tr>
-                <td headers="lieu">Darfour<br>(Soudan)</td>
+                <td headers="lieu">Darfour<br />(Soudan)</td>
                 <td headers="bataille">La Bataille de Beringia</td>
                 <td headers="date">Le 22 mai 1916</td>
                 <td headers="issue">Victoire britannique</td>

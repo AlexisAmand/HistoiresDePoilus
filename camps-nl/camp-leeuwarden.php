@@ -80,13 +80,13 @@
         <figure>
             <a href="images/carte-camps-pb.png" data-fancybox="gallery" data-caption="Emplacement du camp d'internés de Leeuwarden">
             <img src="miniatures/carte-camps-pb.png"  alt="Localisation du camp d'internés de Leeuwarden pendant la Première Guerre Mondiale"/></a>
-            <figcaption>Localisation du camp d'internés de Leeuwarden (Pays-Bas)<br>(Le Globe, Revue genevoise de géographie, tome 58 (1919))<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Localisation du camp d'internés de Leeuwarden (Pays-Bas)<br />(Le Globe, Revue genevoise de géographie, tome 58 (1919))<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Leeuwarden/leeuwarden-01.jpg" data-fancybox="gallery" title="Un bout de toilette au camp de Leeuwarden">
             <img src="miniatures/Leeuwarden/leeuwarden-01.jpg" alt="Un bout de toilette au camp de Leeuwarden aux Pays-Bas"></a>
-            <figcaption>Un bout de toilette au camp de Leeuwarden<br>(source : Delcampe)</figcaption>
+            <figcaption>Un bout de toilette au camp de Leeuwarden<br />(source : Delcampe)</figcaption>
         </figure>
 
          

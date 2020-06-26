@@ -127,13 +127,13 @@
         <figure>
             <a href="images/arbre-grain.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille GRAIN">
             <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" class="ArbreGenealogique"/></a>
-            <figcaption>Arbre simplifié de la famille GRAIN<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Arbre simplifié de la famille GRAIN<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <figure>
             <a href="sources/louis-grain-matricule-01.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Louis GRAIN (Extrait)">
             <img src="miniatures/louis-grain-matricule-01.jpg" alt="Extrait de la fiche matricule de Louis GRAIN"/></a>
-            <figcaption>Extrait de sa fiche matricule<br>(source: Archives Départementales du Nord)</figcaption> 
+            <figcaption>Extrait de sa fiche matricule<br />(source: Archives Départementales du Nord)</figcaption> 
         </figure>
 
         <table class="census">
@@ -147,11 +147,11 @@
             <tbody>
             <tr>
                 <td headers="date">1906</td>
-                <td headers="adresse">Rue Neuve<br>à Villers-Guislain (Nord)</td>
+                <td headers="adresse">Rue Neuve<br />à Villers-Guislain (Nord)</td>
             </tr>
             <tr>
                 <td headers="date">1911</td>
-                <td headers="adresse">Rue de Merlan<br>à Bétheniville (Marne)</td>
+                <td headers="adresse">Rue de Merlan<br />à Bétheniville (Marne)</td>
             </tr>
             </tbody>
         </table>
@@ -167,7 +167,7 @@
         <figure>
             <a href="images/forts-maubeuge.jpg" data-fancybox="gallery" data-caption="L'emplacement des forts de la place forte de Maubeuge en 1914">
             <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
-            <figcaption>L'emplacement des forts de la place forte de Maubeuge<br>et position des troupes le 3 septembre 1914<br>(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
+            <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
         </figure>
 
         <h2>L'attaque des allemands</h2>
@@ -181,7 +181,7 @@
         <figure>
             <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" data-caption="La Caserne Joyeuse (Maubeuge) avant 1914">
             <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg" alt="La caserne Joyeuse à Maubeuge avant la Première Guerre Mondiale"/></a>
-            <figcaption>La Caserne Joyeuse à Maubeuge<br>(source: Delcampe)</figcaption>
+            <figcaption>La Caserne Joyeuse à Maubeuge<br />(source: Delcampe)</figcaption>
         </figure>
 
         <h2>C'est fini pour Maubeuge...</h2>
@@ -191,13 +191,13 @@
         <figure>
             <a href="images/camp-de-chemnitz.jpg" data-fancybox="gallery" data-caption="le camp de Chemnitz pendant la Première Guerre Mondiale">
             <img src="miniatures/camp-de-chemnitz.jpg" alt="le camp de Chemnitz (Allemagne)"/></a>
-            <figcaption>Le camp de Chemnitz<br>(source: Delcampe)</figcaption>
+            <figcaption>Le camp de Chemnitz<br />(source: Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="portraits/louis-grain-chemnitz.jpg"  data-fancybox="gallery" data-caption="Louis au camp de Chemnitz (Allemagne)">
             <img src="miniatures/louis-grain-chemnitz.jpg" alt="Louis GRAIN prisonnier au camp de Chemnitz pendant la Première Guerre Mondiale"/></a>
-            <figcaption>Louis au camp de Chemnitz<br>(source: Xavier B.)</figcaption>
+            <figcaption>Louis au camp de Chemnitz<br />(source: Xavier B.)</figcaption>
         </figure>
 
         <p>Selon son dossier d'ancien combattant, <strong>Louis</strong> est libéré du <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de Chemnitz</a> le 8 janvier 1919.</p>
@@ -205,7 +205,7 @@
         <figure>
             <a href="sources/carte-louis-grain.jpg"  data-fancybox="gallery" data-caption="Carte du combattant de Louis GRAIN datée de 1935">
             <img src="miniatures/carte-louis-grain.jpg" alt="Carte d'ancien combattant de Louis GRAIN obtenue en 1935"/></a>
-            <figcaption>Carte du combattant de Louis (1935)<br>(source: Xavier B.)</figcaption>
+            <figcaption>Carte du combattant de Louis (1935)<br />(source: Xavier B.)</figcaption>
         </figure>
 
         <h2>...mais à Villers-Guislain, la guerre arrive.</h2>

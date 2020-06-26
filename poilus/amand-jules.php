@@ -91,7 +91,7 @@
         <figure>
             <a href="images/arbre-amand.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de Jules AMAND">
             <img src="miniatures/arbre-amand.png" alt="Arbre généalogique simplifié de Jules AMAND" class="ArbreGenealogique" style="width:470px"></a>
-            <figcaption>Arbre généalogique simplifié de Jules AMAND<br>(Source: Recherches personnelles)</figcaption>
+            <figcaption>Arbre généalogique simplifié de Jules AMAND<br />(Source: Recherches personnelles)</figcaption>
         </figure>
 
         <p>Pendant la Grande Guerre, Antoine est soldat de 2e classe et milicien au sein du 9e Régiment de Ligne sous le matricule 109/54524. Antoinette AMAND, sa mère, est fixée sur le sort de son fils seulement 6 ans après la fin de la guerre, quand son livret de mobilisation est retrouvé sur le champ de bataille d’Ougrée, à côté de Liège. Antoine serait tombé au combat le 6 août 1914, à l’âge de 25 ans. D’après ce que j’ai pu comprendre sur les documents du site <a href="https://www.wardeadregister.be/fr" title="Belgian War Dead Register">Dead War Register</a>, son corps aurait été retrouvé dans la fosse commune du Gros Hêtre. il est probable qu'il soit tombé au combat le 6 août 1914 étant entendu que son livret de mobilisation a été retrouvé sur le champ de bataille de la commune d'Ougrée.</p>  
@@ -99,19 +99,19 @@
         <figure>
             <a href="sources/amand-jules-01.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
             <img src="miniatures/amand-jules-01.jpg" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
-            <figcaption>Fiche Sépultures et cimetières militaires<br>(Source: <a href="https://www.warheritage.be/fr">War Heritage Institute</a>)</figcaption>
+            <figcaption>Fiche Sépultures et cimetières militaires<br />(Source: <a href="https://www.warheritage.be/fr">War Heritage Institute</a>)</figcaption>
         </figure>
 
         <figure>
             <a href="sources/amand-jules-02.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
             <img src="miniatures/amand-jules-02.jpg" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
-            <figcaption>Fiche Sépultures et cimetières militaires<br>(Source: <a href="https://www.warheritage.be/fr">War Heritage Institute</a>)</figcaption>
+            <figcaption>Fiche Sépultures et cimetières militaires<br />(Source: <a href="https://www.warheritage.be/fr">War Heritage Institute</a>)</figcaption>
         </figure>
 
         <figure>
             <a href="sources/amand-jules-03.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
             <img src="miniatures/amand-jules-03.jpg" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
-            <figcaption>Fiche Sépultures et cimetières militaires<br>(Source: <a href="https://www.warheritage.be/fr">War Heritage Institute</a>)</figcaption>
+            <figcaption>Fiche Sépultures et cimetières militaires<br />(Source: <a href="https://www.warheritage.be/fr">War Heritage Institute</a>)</figcaption>
         </figure>
 
         <p>Son nom figure sur le monument aux morts d'Ougrée dédié au 9e Régiment d'Infanterie de Ligne.</p>
@@ -119,7 +119,7 @@
         <figure>
             <a href="images/ougree.jpg" data-fancybox="gallery" data-caption="Jules AMAND sur le monument d'Ougrée en Belgique">
             <img src="miniatures/ougree.jpg" alt="Jules AMAND sur le monument d'Ougrée en Belgique"/></a>
-            <figcaption>Jules sur le monument d'Ougrée<br>(Source: <a href="http://www.bel-memorial.org">Bel-Memorial</a>)</figcaption>
+            <figcaption>Jules sur le monument d'Ougrée<br />(Source: <a href="http://www.bel-memorial.org">Bel-Memorial</a>)</figcaption>
         </figure>
 
          

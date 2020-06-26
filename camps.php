@@ -135,7 +135,7 @@
         <figure>
             <a href="camps/images/camps-prisonniers-allemagne.jpg" data-fancybox="gallery" data-caption="carte des camps de prisonniers en Allemagne ">
             <img src="camps/miniatures/camps-prisonniers-allemagne.jpg" alt="carte des camps de prisonniers allemands pendant la Première Guerre Mondiale"></a>
-            <figcaption>Localisation des camps de prisonniers en Allemagne<br>(Cliquez pour agrandir)<br />(Le Globe, Revue genevoise de géographie, tome 58 (1919))</figcaption>
+            <figcaption>Localisation des camps de prisonniers en Allemagne<br />(Cliquez pour agrandir)<br />(Le Globe, Revue genevoise de géographie, tome 58 (1919))</figcaption>
         </figure>
 
         <p>En cette fin d'année 1914, les soldats prisonniers dorment dans la paille, dans des huttes de fortune ou dans des trous creusés à même le sol pour s'abriter du froid et de la pluie. L'hygiène est déplorable, et très vite, des <strong>épidémies de Typhus</strong> apparaissent. Faute d'être prêt à nourrir et à loger un si grand nombre de prisonniers, l'hiver 1914 sera mortel pour des centaines d'hommes. Il faudra attendre l'année 1915 pour que la situation s'améliore un peu.</p>
@@ -143,7 +143,7 @@
         <figure>
             <a href="camps/images/friedrichsfeld-prisonniers-français.jpg" data-fancybox="gallery" data-caption="Des prisonniers français au camp de Friedrichsfeld">
             <img src="camps/miniatures/friedrichsfeld-prisonniers-français.jpg"  alt="Des prisonniers français au camp de Friedrichsfeld"/></a>
-            <figcaption>Des prisonniers au camp de Friedrichsfeld (Allemagne)<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Des prisonniers au camp de Friedrichsfeld (Allemagne)<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <p>La <a href="pdf/convention-1907.pdf">Convention de la Haye</a> (1899 et 1907) autorisait le travail des prisonniers uniquement s'il s'agissait d'une activité "non excessive" et bien sûr sans lien direct avec le conflit pour éviter que les prisonniers soient les victimes involontaires d'un tir fratricide. Toutefois, dès 1916, cet article de la Convention est violé par la plupart des belligérants. C'est ainsi qu'en 1917, l'Allemagne met en place des dizaines de milliers de <em>"kommandos"</em> qui obligent les prisonniers à travailler à la campagne ou dans les industries allemandes. On estime alors que le nombre de prisonniers alliés qui étaient réellement détenus dans des camps à un peu moins de 15%.</p>
@@ -158,12 +158,12 @@
         <figure>
             <a href="camps/images/allemand.jpg" data-fancybox="gallery" data-caption="Des prisonniers allemands à Toulouse">
             <img src="camps/miniatures/allemand.jpg" alt="Des prisonniers allemands à Toulouse pendant la Première Guerre Mondiale"/></a>
-            <figcaption>Des prisonniers allemands à Toulouse<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Des prisonniers allemands à Toulouse<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <p><em><strong>Note:</strong> Certaines photographies sont issues d'un ouvrage allemand paru en 1916 et intitulé "<a href="pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a>". Je sais que l'on peut me reprocher d'avoir créer un site en reprenant bêtement les illustrations d'un livre paru il y a 100 ans. A ceux-là, je répondrais humblement que je me suis contenté de faire un travail de classement pour que la recherche et la consultation soit plus facile et ainsi éviter aux chercheurs de parcourir tout le livre pour trouver la photo d'un camp. J'en ai également profité pour supprimer les légendes racistes et nationalistes qui accompagnaient les photos.</em></p>
 
-        <br><br>
+        <br /><br />
 
          
 

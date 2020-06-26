@@ -122,13 +122,30 @@
 
         <h1>Jean Baptiste CARIN</h1>
 
-		<p>Pour info, Jean Baptiste a plusieurs frères et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-joseph.php" title="Biographie du soldat Joseph CARIN">Joseph</a>, <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
+		<p>Jean Baptiste CARIN est né à Lourches (Nord) le 4 octobre 1880, fils légitime de François Louis CARIN et Pauline DUSSART, tout deux domiciliés à Lourches. Il a plusieurs frères et sœurs dont <a href="carin-alfred.php" title="Biographie du poilu Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" Title="Biographie du poilu Edouard CARIN">Edouard</a>, <a href="carin-joseph.php" title="Biographie du poilu Joseph CARIN">Joseph</a>, <a href="CARIN-Leon.php" title="Biographie du poilu Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du poilu Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
+		
+		+ ma parenté avec lui -> reprendre arbre de Léon CARIN
+		
+		<figure>
+            <a href="sources/carin-jb-naissance-1880.jpg" data-fancybox="gallery" data-caption=" ">
+            <img src="miniatures/carin-jb-naissance-1880.jpg" alt=" "/></a>
+            <figcaption>Acte de naissance de Jean Baptiste<br />(Source: Croix Rouge)</figcaption>
+        </figure>
+        
+        <p>Le 5 décembre 1904 à Roeulx (Nord), il épouse Anise MAUTET.</p>
+        
+        + qq infos sur Anise : ses parents
+        + qq infos sur JB à ce moment là : profession 
+		
+		<p>Il semble y avoir un problème concernant les recherches sur le parcours de Jean Baptiste pendant la Première Guerre Mondiale. Sa fiche matricule indique qu’il est réformé pour déformation des pieds (1915) puis pour pleurite chronique (1916) et est donc mis en sursis d’appel aux mines de Vendin-les-Béthune. Pourtant, j’ai trouvé une fiche de la Croix Rouge. J’ai bien pensé à un homonyme, mais la dite fiche mentionne également ses frères Théophile, qui est présent en Afrique pendant la Grande Guerre, et Joseph, qui est prisonnier aux camps de <a href="../camps/camp-darmstadt.php" title="Le camp de prisonnier de Darmstadt">Darmstadt</a> et <a href="../camps/camp-schneidemuhl.php" title="Le camp de prisonnier de Schneidemühl">Schneidemühl.</p>
 		
 		<figure>
             <a href="sources/jb-carin-circ.jpg" data-fancybox="gallery" data-caption="Fiche de la Croix-Rouge de Jean-Baptiste CARIN">
             <img src="miniatures/jb-carin-circ.jpg" alt="Fiche de prisonnier issue des archives de la Croix-Rouge concernant Jean-Baptiste CARIN"/></a>
-            <figcaption>Fiche de la Croix-Rouge<br>(Source: Croix Rouge)</figcaption>
+            <figcaption>Fiche de la Croix-Rouge<br />(Source: Croix Rouge)</figcaption>
         </figure>
+        
+        + extrait fiche matricule avec le parcours
 
         <p style="text-align:right">A suivre...</p>
 		

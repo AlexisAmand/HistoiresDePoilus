@@ -52,7 +52,7 @@
 		<figure>
 			<a href="images/hopital-denain.jpg" data-fancybox="gallery" data-caption="Hôpital de Denain pendant la Grande Guerre">
 			<img src="miniatures/hopital-denain.jpg" alt="L'Hôpital de Denain pendant la Première Guerre Mondiale"></a>
-			<figcaption>L'Hôpital de Denain<br>(Source: Archives Municipales de Valenciennes)</figcaption>
+			<figcaption>L'Hôpital de Denain<br />(Source: Archives Municipales de Valenciennes)</figcaption>
 		</figure>
 
 		<h3>Les hôpitaux de Roubaix</h3>
@@ -60,13 +60,13 @@
 		<figure>
 			<a href="images/Hôpital_de_la_Fraternité.jpeg" data-fancybox="gallery" data-caption="Hôpital de la Fraternité à Roubaix">
 			<img src="miniatures/Hôpital_de_la_Fraternité.jpeg" alt="L'Hôpital de Roubaix pendant la Première Guerre Mondiale"></a>
-			<figcaption>Hôpital de la Fraternité<br>(Source: Médiathèque de Roubaix)</figcaption>
+			<figcaption>Hôpital de la Fraternité<br />(Source: Médiathèque de Roubaix)</figcaption>
 		</figure>
 
 		<figure>
 			<a href="images/Hôpital_de_la_Fraternité-02.jpeg" data-fancybox="gallery" data-caption="Hôpital de la Fraternité à Roubaix">
 			<img src="miniatures/Hôpital_de_la_Fraternité-02.jpeg" alt="L'Hôpital de Roubaix pendant la Première Guerre Mondiale"></a>
-			<figcaption>Hôpital de la Fraternité vers 1914<br>(Source: Médiathèque de Roubaix)</figcaption>
+			<figcaption>Hôpital de la Fraternité vers 1914<br />(Source: Médiathèque de Roubaix)</figcaption>
 		</figure>
 
 		<h3>Les hôpitaux de Valenciennes</h3>
@@ -76,7 +76,7 @@
 			<figure>
 				<a href="images/valenciennes-hmx.jpg" data-fancybox="gallery" data-caption="L'hôpital mixte de Valenciennes">
 				<img src="miniatures/valenciennes-hmx.jpg" alt="L'hôpital mixte de Valenciennes pendant la Grande Guerre"></a>
-				<figcaption>L'Hôpital Général<br>(Source: Archives Municipales de Valenciennes)</figcaption>
+				<figcaption>L'Hôpital Général<br />(Source: Archives Municipales de Valenciennes)</figcaption>
 			</figure>
 		
 			<p>Dés 1914, la Société de secours aux blessés militaires (S.S.B.M.) met en place deux hôpitaux auxiliaires situés au collège Notre-Dame (HA n°2) et au lycée de jeunes filles (HA n°2 bis). Ils fonctionnent jusque novembre 1915, date à laquelle les Allemands occupent les structures sanitaires de la Valenciennes.</p>
@@ -84,7 +84,7 @@
 			<figure>
 				<a href="images/valenciennes-ha-2.jpg" data-fancybox="gallery" data-caption="L'hôpitaux auxiliaires n°2 bis au lycée de jeunes filles (Valenciennes)">
 				<img src="miniatures/valenciennes-ha-2.jpg" alt="L'hôpitaux auxiliaires n°2 bis de Valenciennes situé au lycée de jeunes filles"></a>
-				<figcaption>Le lycée de jeunes filles où sera installé<br>l'hôpital auxiliaire n°2 bis<br>(Source: Archives Municipales de Valenciennes)</figcaption>
+				<figcaption>Le lycée de jeunes filles où sera installé<br />l'hôpital auxiliaire n°2 bis<br />(Source: Archives Municipales de Valenciennes)</figcaption>
 			</figure>
 		 
 	</article>

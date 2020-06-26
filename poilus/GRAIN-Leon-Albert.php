@@ -127,13 +127,13 @@
         <figure>
             <a href="images/arbre-grain.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille GRAIN">
             <img src="miniatures/arbre-grain.png" alt="Arbre généalogique simplifié de la famille GRAIN" class="ArbreGenealogique"/></a>
-            <figcaption>Arbre simplifié de la famille GRAIN<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Arbre simplifié de la famille GRAIN<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <figure>
             <a href="sources/Leon-grain-matricule-02.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Léon Albert GRAIN">
             <img src="miniatures/Leon-grain-matricule-02.jpg" alt="extrait de la fiche matricule de Léon Albert GRAIN"/></a>
-            <figcaption>Extrait de sa fiche matricule.<br>(source: Archives Départementales du Nord)</figcaption> 
+            <figcaption>Extrait de sa fiche matricule.<br />(source: Archives Départementales du Nord)</figcaption> 
         </figure>
 
         <div id="Littoye"></div>
@@ -145,7 +145,7 @@
         <figure>
             <a href="sources/Leon-grain-matricule-01.jpg" data-fancybox="gallery" data-caption="La fiche matricule de Léon Albert (Extrait)">
             <img src="miniatures/Leon-grain-matricule-01.jpg" alt="extrait de la fiche matricule de Léon Albert GRAIN"/></a>
-            <figcaption>Extrait de sa fiche matricule.<br>(source: Archives Départementales du Nord)</figcaption> 
+            <figcaption>Extrait de sa fiche matricule.<br />(source: Archives Départementales du Nord)</figcaption> 
         </figure>
 
         <h2>Le siège de Maubeuge</h2>
@@ -155,7 +155,7 @@
         <figure>
             <a href="images/forts-maubeuge.jpg" data-fancybox="gallery" data-caption="L'emplacement des forts de la place forte de Maubeuge en 1914">
             <img src="miniatures/forts-maubeuge.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
-            <figcaption>L'emplacement des forts de la place forte de Maubeuge<br>et position des troupes le 3 septembre 1914<br>(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
+            <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et position des troupes le 3 septembre 1914<br />(Source : Das Ehrenbuch der Deutschen Schweren Artillerie - Tome 1)</figcaption>
         </figure>
 
         <h2>On brûle les drapeaux...</h2>
@@ -165,7 +165,7 @@
         <figure>
             <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" data-caption="La Caserne Joyeuse (Maubeuge) avant 1914">
             <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg" alt="La caserne Joyeuse à Maubeuge avant la Première Guerre Mondiale"/></a>
-            <figcaption>La Caserne Joyeuse à Maubeuge<br>(source: Delcampe)</figcaption>
+            <figcaption>La Caserne Joyeuse à Maubeuge<br />(source: Delcampe)</figcaption>
         </figure>
 
         <h2>La chute de Maubeuge</h2>
@@ -175,7 +175,7 @@
         <figure>
             <a href="images/camp-de-chemnitz.jpg" data-fancybox="gallery" data-caption="Le camp de Chemnitz pendant la Grande Guerre">
             <img src="miniatures/camp-de-chemnitz.jpg" alt="Le camp de prisonniers de Chemnitz sur une carte postale"/></a>
-            <figcaption>Le camp de Chemnitz<br>(source: Delcampe)</figcaption>
+            <figcaption>Le camp de Chemnitz<br />(source: Delcampe)</figcaption>
         </figure>
 
         <p>Léon Albert est libéré le 10 décembre 1918.</p>

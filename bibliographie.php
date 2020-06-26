@@ -55,28 +55,27 @@
         <ul>
             <li><a href="https://amzn.to/39zdPOk">La Vie à la caserne au point de vue social</a> (par le Lieutenant Guennebaud)</li>
             <li><a href="https://amzn.to/2vNzdh1" title="L'uniforme et les armes des soldats de la guerre de 1914-1918 écrit Liliane et Fred Funcken">
-            L'uniforme et les armes des soldats de la guerre de 1914-1918</a><br>(Editions Casterman / Liliane et Fred Funcken)</li>
+            L'uniforme et les armes des soldats de la guerre de 1914-1918</a><br />(Editions Casterman / Liliane et Fred Funcken)</li>
             <li><a href="https://amzn.to/2Jfz7DO" title="Prisonniers 1914-1918 par Jean-Paul Briaste">
-            Prisonniers 1914-1918</a><br>(Editions Sulton / Jean-Paul Briaste)</li>
+            Prisonniers 1914-1918</a><br />(Editions Sulton / Jean-Paul Briaste)</li>
             <li><a href="https://amzn.to/2xLG65W" title="Les oubliés de Grande Guerre par Annette Becker">
-            Les oubliés de la Grande Guerre</a><br>(par Annette Becker)</li>
+            Les oubliés de la Grande Guerre</a><br />(par Annette Becker)</li>
             <li><a href="https://amzn.to/2uwxLlW">Das Ehrenbuch der Deutschen Schweren Artillerie</a></li>
-
         </ul>
 
-        <br><br>
+        <br /><br />
 
         <h2>Ouvrages sur la Grande Guerre</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2vLNtXK" title="La Grande Guerre des français aux éditions Perrin">La Grande Guerre des français, 1914-1918</a><br>(Editions Perrin / Jean-Baptiste Durosselle, 1994)</li>
-            <li>Août 1914, La Bataille de Sarrebourg<br>(Joseph Elmerich, 1993)</li>
-            <li><a href="https://amzn.to/2MvPvVA" title="Encyclopédie de la Grande Guerre aux éditions Bayard">Encyclopédie de la Grande Guerre</a><br>(Editions Bayard / sous la direction de Stéphane Audouin-Rouzeau et Jean-Jacques Becker)</li>
-            <li><a href="https://amzn.to/2ODtfGA" title="Les Grandes Guerres, par Henry Rousso">Les Grandes Guerres 1914-1945</a><br>(Editions Belins / ouvrage dirigé par Henry Rousso)</li>
-            <li><a href="https://amzn.to/2HS78L9" title="The Great War of the British People aux Editions MacMillan">The Great War of the British People</a><br>(Editions MacMillan / J. Winter, 1985)</li>
+            <li><a href="https://amzn.to/2vLNtXK" title="La Grande Guerre des français aux éditions Perrin">La Grande Guerre des français, 1914-1918</a><br />(Editions Perrin / Jean-Baptiste Durosselle, 1994)</li>
+            <li>Août 1914, La Bataille de Sarrebourg<br />(Joseph Elmerich, 1993)</li>
+            <li><a href="https://amzn.to/2MvPvVA" title="Encyclopédie de la Grande Guerre aux éditions Bayard">Encyclopédie de la Grande Guerre</a><br />(Editions Bayard / sous la direction de Stéphane Audouin-Rouzeau et Jean-Jacques Becker)</li>
+            <li><a href="https://amzn.to/2ODtfGA" title="Les Grandes Guerres, par Henry Rousso">Les Grandes Guerres 1914-1945</a><br />(Editions Belins / ouvrage dirigé par Henry Rousso)</li>
+            <li><a href="https://amzn.to/2HS78L9" title="The Great War of the British People aux Editions MacMillan">The Great War of the British People</a><br />(Editions MacMillan / J. Winter, 1985)</li>
         </ul>
 
-        <br><br>
+        <br /><br />
 
         <h2>Revues sur la Grande Guerre</h2>
 
@@ -97,33 +96,31 @@
             <li>Les collections de l'histoire n°61</li>
         </ul>
 
-        <br><br>
+        <br /><br />
 
         <h2>Doctorats et thèses</h2>
 
         <ul>
-            <li>Prisonnier pendant la Grande Guerre, la captivité de guerre en Allemagne, 1914–1921<br>(thèse rédigée par Uta Hinz sous la direction de Gerd Krumeich et soutenue par elle à l'université de Fribourg en 2000)</li>
+            <li>Prisonnier pendant la Grande Guerre, la captivité de guerre en Allemagne, 1914–1921<br />(thèse rédigée par Uta Hinz sous la direction de Gerd Krumeich et soutenue par elle à l'université de Fribourg en 2000)</li>
         </ul>
 
-        <br><br>
+        <br /><br />
 
         <h2>Guides de recherche</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouvez l'histoire de votre grand-père en 1914-1918 en livre">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>
-            <li><a href="https://amzn.to/2NuoqQb" title="Recherchez vos ancêtres soldats et leur famille (1914-1918) en livre">Recherchez vos ancêtres soldats et leur famille (1914-1918)</a><br>(Martin Média / Revue Française de Généalogie)</li>
-            <li><a href="http://www.rfgenealogie.com" title="Hors-série de la RFG sur les médailles et décorations">Les médailles et décorations</a><br>(Martin Média / Revue Française de Généalogie)</li>
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouvez l'histoire de votre grand-père en 1914-1918 en livre">Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
+            <li><a href="https://amzn.to/2NuoqQb" title="Recherchez vos ancêtres soldats et leur famille (1914-1918) en livre">Recherchez vos ancêtres soldats et leur famille (1914-1918)</a><br />(Martin Média / Revue Française de Généalogie)</li>
+            <li><a href="http://www.rfgenealogie.com" title="Hors-série de la RFG sur les médailles et décorations">Les médailles et décorations</a><br />(Martin Média / Revue Française de Généalogie)</li>
             <li><a href="https://amzn.to/2UXyxnc" title="Guide pratique des décorations françaises actuelles">Guide pratique des décorations françaises actuelles</a> par J. BATTINI et W. ZANIEWICKI (Lavauzelle)</li>
-            <li>Un ancêtre dans la Grande Guerre venant des colonies<br>(Editions Hachette / fiche "La Généalogie Facile")</li>
-            <li>Mémoire des hommes<br>(Editions Hachette / fiche "La Généalogie Facile")</li>
-            <li>La recherche d'un officier, de la Révolution à nos jours<br>(Editions Hachette / fiche "La Généalogie Facile")</li>
-            <li>La recherche d'un ancêtre aviateur<br>(Editions Hachette / fiche "La Généalogie Facile")</li>
-            <li>Un ancêtre militaire alsacien ou mosellan de 1871 à 1919<br>(Editions Hachette / fiche "La Généalogie Facile")</li>          
+            <li>Un ancêtre dans la Grande Guerre venant des colonies<br />(Editions Hachette / fiche "La Généalogie Facile")</li>
+            <li>Mémoire des hommes<br />(Editions Hachette / fiche "La Généalogie Facile")</li>
+            <li>La recherche d'un officier, de la Révolution à nos jours<br />(Editions Hachette / fiche "La Généalogie Facile")</li>
+            <li>La recherche d'un ancêtre aviateur<br />(Editions Hachette / fiche "La Généalogie Facile")</li>
+            <li>Un ancêtre militaire alsacien ou mosellan de 1871 à 1919<br />(Editions Hachette / fiche "La Généalogie Facile")</li>          
         </ul>
 
-        <br><br>
-
-         
+        <br /><br />
 
         </article>
 

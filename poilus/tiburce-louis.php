@@ -127,7 +127,7 @@
 		<figure>
             <a href="images/marly01.jpg" data-fancybox="gallery" data-caption="La rue du Quesnoy à Marly">
             <img src="miniatures/marly01.jpg" alt="La rue du Quesnoy à Marly sur une carte postale ancienne"/></a>
-            <figcaption>La Rue du Quesnoy, à Marly<br>(Source: Archives Municipales de Valenciennes)</figcaption>
+            <figcaption>La Rue du Quesnoy, à Marly<br />(Source: Archives Municipales de Valenciennes)</figcaption>
         </figure>
 
         <p>Il commence son service au sein de l'armée le 3 octobre 1910 en étant incorporé au sein du 91e Régiment d'Infanterie q'uil rejoint aussitôt en tant que soldat de 2e classe. Son service militaire se passe dans doute sans encombre car il devient soldat de 1ere classe le 6 octobre 1911 et même caporal le 13 octobre 1911. Il est mis en disponibilité le 25 septembre 1912 puis classsé afffecté spécial des douanes de Valenciennes à la gare de Blanc-Misseron à compté du 24 décembre 191 en tant que préposé des Douanes.</p>
@@ -135,7 +135,7 @@
         <figure>
             <a href="images/blancmisseron01.jpg" data-fancybox="gallery" data-caption="La gare de Blanc-Misseron" >
             <img src="miniatures/blancmisseron01.jpg" alt="La carte de Blanc-Misseron sur une carte postale ancienne"/></a>
-            <figcaption>La gare de Blanc-Misseron<br>(Source: Archives Municipales de Valenciennes)</figcaption>
+            <figcaption>La gare de Blanc-Misseron<br />(Source: Archives Municipales de Valenciennes)</figcaption>
         </figure>
 
         <p>Louis est mobilisé le 23 août 1914 au 2e Bataillon de Douaniers. C'est un bataillon qui était composé de 700 hommes et qui avait été formé à partir des brigades de la partie nord de Valenciennes. Il était composée de 3 compagnies. Surpris par l'arrivée de l'avant garde allemande à Blanc-Misseron, il livre toute une journée de combat durant laquelle une partie des effectifs est faite prisonnière et l'autre parvient à battre en retraite. Ce Bataillon fut donc dissout de facto à la fin du mois d'août 1914.</p>
@@ -143,7 +143,7 @@
         <figure>
             <a href="images/douanier-1916.jpg" data-fancybox="gallery" data-caption="Un douanier mobilisé en 1916">
             <img src="miniatures/douanier-1916.jpg" alt="dessin d'un douanier mobilisé en 1916"/></a>
-            <figcaption>Un douanier mobilisé en 1916<br>(Source: histoire-de-la-douane.org)</figcaption>
+            <figcaption>Un douanier mobilisé en 1916<br />(Source: histoire-de-la-douane.org)</figcaption>
         </figure>
 
         <p>Louis et une partie de son bataillon parviennent ainsi à rejoindre Dunkerque et passent alors à la 4e Compagnie du Bataillon de Forteresse de Dunkerque à compter du 5 septembre 1914. Il passe à la 3e Compagnie du 1er Bataillon actif le 21 octobre 1914, compagnie qui fut ancien rattachée au 81e Régiment d'Infanterie au sein duquel Louis est affecté et arrive le 16 janvier 1916. Il est cité deux fois à l'ordre du régiment, le 31 mars 1917 (n°197) et le 19 septembre 1917 (n°280). Le 14 novembre 1917, il est nommé sergent fourrier, il s'agit du sous-officier chargé de l'intendance.</p><p>Quelques mois plus tard, le 9 juin 1918, il est évacué, blessé, et entre à l'hôpital auxiliaire n°119 à Pantin.</p>
@@ -151,7 +151,7 @@
         <figure>
             <a href="images/pantin-119.jpg" data-fancybox="gallery" data-caption="L'hôpital auxiliaire n°119 à Pantin">
             <img src="miniatures/pantin-119.jpg" alt="L'hôpital auxiliaire n°119 situé rue de Paris à Pantin"/></a>
-            <figcaption>L'hôpital auxiliaire n°119 à Pantin<br>(Source: Delcampe)</figcaption>
+            <figcaption>L'hôpital auxiliaire n°119 à Pantin<br />(Source: Delcampe)</figcaption>
         </figure>
         
 
@@ -197,7 +197,7 @@
         <figure>
             <a href="images/maulde.jpg" data-fancybox="gallery" data-caption="la Grande Rue, à Maulde">
             <img src="miniatures/maulde.jpg" alt="La GrandeRue à Maulde sur une carte postale ancienne"/></a>
-            <figcaption>la Grande Rue, à Maulde<br>(Source: Archives Municipales de Valenciennes)</figcaption>
+            <figcaption>la Grande Rue, à Maulde<br />(Source: Archives Municipales de Valenciennes)</figcaption>
         </figure>
       
              
@@ -240,9 +240,9 @@
             <li><a href="https://histoire-de-la-douane.org/historique-des-bataillons-douaniers-1914-1918/" title="Historique des bataillons de douaniers en 1914 et 1918">
             Historique des bataillons douaniers 1914-1918</a></li>
             <li><a href="http://books.openedition.org/igpde/4474?lang=fr" title="L'administration des douanes en France entre 1914 et 1940">
-            L'administration des douanes en France de 1914 à 1940</a><br>(Par Jean Clinquart)</li>
+            L'administration des douanes en France de 1914 à 1940</a><br />(Par Jean Clinquart)</li>
             <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">
-            Retrouvez l'histoire de votre grand-père en 1914-1918</a><br>(Archives et Cultures / Yves Buffetaut)</li>       
+            Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>       
         </ul>
 
          

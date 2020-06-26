@@ -135,19 +135,19 @@
             <tbody>
             <tr>
                 <td headers="date">1906</td>
-                <td headers="adresse">Rue Saint Joseph<br>à Onnaing (Nord)</td>
+                <td headers="adresse">Rue Saint Joseph<br />à Onnaing (Nord)</td>
             </tr>
             <tr>
                 <td headers="date">1914-1918</td>
-                <td headers="adresse">Il est détaché<br>aux Fonderies de Firminy (Loire)</td>
+                <td headers="adresse">Il est détaché<br />aux Fonderies de Firminy (Loire)</td>
             </tr>
             <tr>
                 <td headers="date">5 janvier 1929</td>
-                <td headers="adresse">12 rue Etienne DOLET<br>à Onnaing (Nord)</td>
+                <td headers="adresse">12 rue Etienne DOLET<br />à Onnaing (Nord)</td>
             </tr>
             <tr>
                 <td headers="date">20 février 1941</td>
-                <td headers="adresse">17 rue d'Estreux<br>à Onnaing (Nord)</td>           
+                <td headers="adresse">17 rue d'Estreux<br />à Onnaing (Nord)</td>           
             </tr>
             </tbody>
         </table>

@@ -93,7 +93,7 @@
         <figure>
             <a href="images/capelle-sur-ecaillon.jpg" data-fancybox="gallery" data-caption="Le monument de Capelle-sur-Ecaillon">
             <img src="images/mini/capelle-sur-ecaillon.jpg" alt="Le monument aux morts pour la France de Capelle-sur-Ecaillon"/></a>
-            <figcaption>Le monument de Capelle-sur-Ecaillon<br>(Source: Photo privée)</figcaption>
+            <figcaption>Le monument de Capelle-sur-Ecaillon<br />(Source: Photo privée)</figcaption>
         </figure>
 
         <div id="Leon-Basuyau"></div>
@@ -106,7 +106,7 @@
             <a href="images/Carnet_de_guerre_Albert_Labbé_plan_article.png" data-fancybox="gallery" data-caption="Plan de l'avancée de l'armée française dans la région de Perthes-les-Hurlus (1915)">
             <img src="images/mini/Carnet_de_guerre_Albert_Labbé_plan_article.png" alt="Plan de l'avancée de l'armée française dans la région de Perthes-les-Hurlus daté du 15 février 1915"/></a>
             <figcaption>Plan de l'avancée de l'armée française dans la région de Perthes-les-Hurlus le 15 février 1915
-            <br>d'après le carnet de guerre d'Albert Labbé<br>(Source: Wikipedia Commons)</figcaption>
+            <br />d'après le carnet de guerre d'Albert Labbé<br />(Source: Wikipedia Commons)</figcaption>
         </figure>
 
         <div id="Edouard-Decoster"></div>

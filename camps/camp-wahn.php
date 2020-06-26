@@ -121,7 +121,7 @@
         <figure>
             <a href="images/Wahn/localisation.jpg" data-fancybox="gallery" data-caption="carte de l'Allemagne pour localiser le camp de prisonnier de Wahn">
             <img src="miniatures/Wahn/localisation.jpg" alt="Localisation du camp de Wahn"></a>
-            <figcaption>Localisation du camp de Wahn<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Wahn<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
         <p>Dans son ouvrage qu'il consacre au traitement des prisonniers français en Allemagne pendant la Première Guerre Mondiale, le Docteur de Christmas nous livre le témoignage de Gaston ROUSSEL, un soldat âgé de 30 ans, membre du 1er Régiment de Zouaves. Fait prisonnier à Charleroi (Belgique) le 22 août 1914, où il été bléssé au bras et à la jambe. Evacué sur le camp de Wahn, il décrit comment, malgré sa blessure au bras, non guérie, on a voulu le faire travailler à la cuisine, où il a été brutalisé par un feldwebel<sup>1</sup>, qui lui arraché son pansement et lui a tordu le bras blessé jusqu'à ce qu'il se soit mis à genoux. A la suite de cet acte de brutalité, Gaston ROUSSEL a dû être placé un mois à l'infirmerie du camp.</p>
@@ -129,19 +129,19 @@
         <figure>
             <a href="images/Wahn/camp-wahn-01.jpg" data-fancybox="gallery" data-caption="Prisonniers alliés en Allemagne">
             <img src="miniatures/Wahn/camp-wahn-01.jpg" alt="un groupe de prisonniers alliés au camp de Wahn"></a>
-            <figcaption>Prisonniers alliés en Allemagne<br>(source: Clio Team)</figcaption>
+            <figcaption>Prisonniers alliés en Allemagne<br />(source: Clio Team)</figcaption>
         </figure>
         
         <figure>
             <a href="images/Wahn/camp-wahn-02.jpg" data-fancybox="gallery" data-caption="Construction de tentes à Wahn">
             <img src="miniatures/Wahn/camp-wahn-02.jpg" alt="Construction de tentes au camp de prisonniers de Wahn"></a>
-            <figcaption>Construction de tentes<br>(source: Clio Team)</figcaption>
+            <figcaption>Construction de tentes<br />(source: Clio Team)</figcaption>
         </figure>
         
         <figure>
             <a href="images/Wahn/camp-wahn-03.jpg" data-fancybox="gallery" data-caption="Le repas du midi à Wahn">
             <img src="miniatures/Wahn/camp-wahn-03.jpg" alt="Le repas du midi au camp de prisonniers de Wahn"></a>
-            <figcaption>Le repas du midi<br>(source: Clio Team)</figcaption>
+            <figcaption>Le repas du midi<br />(source: Clio Team)</figcaption>
         </figure>
 
         <p></p>

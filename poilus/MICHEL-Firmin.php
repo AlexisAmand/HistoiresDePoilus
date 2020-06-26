@@ -96,7 +96,7 @@
         <figure>
             <a href="images/arbre-michel.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille MICHEL">
             <img src="miniatures/arbre-michel.png" alt="Arbre généalogique simplifié de la famille MICHEL" class="ArbreGenealogique"/></a>
-            <figcaption>Arbre simplifié de la famille MICHEL<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Arbre simplifié de la famille MICHEL<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <h2>La mobilisation d'août 1914</h2>
@@ -116,7 +116,7 @@
         <figure>
             <a href="portraits/Max_von_Hausen.jpg" data-fancybox="gallery" data-caption="portrait du Baron Max Von Hausen">
             <img src="miniatures/Max_von_Hausen.jpg" alt="portrait du Baron Max Von Hausen"/></a>
-            <figcaption>Max Von Hausen<br>(Source: Wikipedia Commons)</figcaption>
+            <figcaption>Max Von Hausen<br />(Source: Wikipedia Commons)</figcaption>
         </figure>
 
         <div id="Roussel"></div>
@@ -128,7 +128,7 @@
         <figure>
             <a href="sources/MICHEL-Firmin-mpf.jpg" data-fancybox="gallery" data-caption="Firmin MICHEL, mort pour la France">
             <img src="miniatures/MICHEL-Firmin-mpf.jpg" alt="Fiche de mort pour la France de Firmin MICHEL"/></a>
-            <figcaption>Firmin, mort pour la France<br>(Source: Mémoire des Hommes)</figcaption>
+            <figcaption>Firmin, mort pour la France<br />(Source: Mémoire des Hommes)</figcaption>
         </figure>
 
        <p>Sa fiche, retrouvée sur le site "Mémoire des Hommes", nous apprend qu'il dépendait du bureau de Reims (Marne) pour son recrutement et que son acte de décès a été retranscrit sur l'état civil de Betheniville (Marne), où son nom figure sur le Monument aux Morts. <strong>Firmin</strong> repose aujourd'hui à la Nécropole Nationale de Bras-sur-Meuse (Tombe 50) </p>
@@ -136,7 +136,7 @@
         <figure>
             <a href="../tombes/images/betheniville-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Bétheniville">
             <img src="../tombes/images/mini/betheniville-monument-aux-morts.jpg" alt="le Monument aux Morts de Bétheniville sur une carte postale ancienne"/></a>
-            <figcaption>Le Monument du Souvenir (guerre 1914-1918)<br>(Source: Delcampe)</figcaption>
+            <figcaption>Le Monument du Souvenir (guerre 1914-1918)<br />(Source: Delcampe)</figcaption>
         </figure>
 
         <p>Son fils <strong>Firmin</strong>, né le 7 janvier 1914 à Bétheniville, sera mobilisé en 1939 et rejoindra le <strong>8e Régiment de Zouaves</strong>. Capturé le 4 juin 1940 à Malo-les-Bains, il est emmené en captivité au Stalag VI A (a compté du 3 juillet 1940 à Hener Iserlhom) puis au Stalag VI H (Arnoldsweiler–duren, matricule 20495, liste du 11 juillet 1940). Il est décédé de maladie le 5 janvier 1941 à Aix-la-Chapelle (Allemagne)  à l'hôpital de réserve à Aachen.</p><p>Mais ça, c'est une autre histoire !</p>
@@ -148,19 +148,19 @@
         <figure>
             <a href="images/Saint-Hilaire-ww1-01.jpg" data-fancybox="gallery" data-caption="Un canon anti-poux à Saint-Hilaire">
             <img src="miniatures/Saint-Hilaire-ww1-01.jpg" alt="Un canon anti-poux à Saint-Hilaire-le-Petit pendant la Première Guerre Mondiale"/></a>
-            <figcaption>Un canon anti-poux à Saint-Hilaire-le-Petit<br>(Source: Delcampe)</figcaption>
+            <figcaption>Un canon anti-poux à Saint-Hilaire-le-Petit<br />(Source: Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Saint-Hilaire-ww1-02.jpg" data-fancybox="gallery" data-caption="Les allemands à Saint-Hilaire-le-Petit">
             <img src="miniatures/Saint-Hilaire-ww1-02.jpg" alt="Les allemands dans une rue de Saint-Hilaire-le-Petit"/></a>
-            <figcaption>Les allemands à Saint-Hilaire-le-Petit<br>(Source: Delcampe)</figcaption>
+            <figcaption>Les allemands à Saint-Hilaire-le-Petit<br />(Source: Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Saint-Hilaire-ww1-03.jpg" data-fancybox="gallery" data-caption="Les allemands préparent le pain pour le déjeuner">
             <img src="miniatures/Saint-Hilaire-ww1-03.jpg" alt="Les allemands préparant le pain pour le déjeuner à Saint-Hilaire-le-Petit"/></a>
-            <figcaption>Préparations du pain pour le déjeuner<br>(Source: Delcampe)</figcaption>
+            <figcaption>Préparations du pain pour le déjeuner<br />(Source: Delcampe)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

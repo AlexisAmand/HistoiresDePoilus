@@ -96,7 +96,7 @@
         <figure>
             <a href="images/arbre-baltazart-ernest.png" data-fancybox="gallery" data-caption="Les ascendants d'Ernest Auguste BALTAZART">
             <img src="miniatures/arbre-baltazart-ernest.png" alt="Arbre généalogique de la famille Baltazart" class="ArbreGenealogique"></a>
-            <figcaption>Les ascendants d'Ernest Auguste BALTAZART<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Les ascendants d'Ernest Auguste BALTAZART<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <p>Selon le recensement effectué en 1901, Ernest exerce la profession de rattacheur à l'usine Oudin et frères. Une nouvelle usine a été construite par les frères Oudin vers 1870, en plus de l'usine de filature qu'ils possédaient déjà sur la commune de Bétheniville depuis 1832. L'usine est complétement détruite pendant la Première Guerre Mondiale. L'usine de Martelet est reconstruite dans les années 20.</p>
@@ -104,7 +104,7 @@
         <figure>
             <a href="images/usine-oudin.jpg" data-fancybox="gallery" data-caption="L'usine Oudin à Bétheniville">
             <img src="miniatures/usine-oudin.jpg" alt="L'usine Oudin de Bétheniville sur une carte postale ancienne"/></a>
-            <figcaption>L'entrée de l'Usine Oudin<br>(Source: Delcampe)</figcaption>
+            <figcaption>L'entrée de l'Usine Oudin<br />(Source: Delcampe)</figcaption>
         </figure>
 
         <table class="census">
@@ -126,19 +126,19 @@
             </tr>
             <tr>
                 <td headers="date">11 janvier 1900</td>
-                <td headers="adresse">22 rue des romains<br>à Bar-le-Duc (Meuse)</td>
+                <td headers="adresse">22 rue des romains<br />à Bar-le-Duc (Meuse)</td>
             </tr>
             <tr>
                 <td headers="date">9 mai 1901</td>
-                <td headers="adresse">22 rue des romains<br>à Bar-le-Duc (Meuse)</td>
+                <td headers="adresse">22 rue des romains<br />à Bar-le-Duc (Meuse)</td>
             </tr>        
             <tr>
                 <td headers="date">1876</td>
-                <td headers="adresse">Au Munez<br>rue de Ponfaverger<br>à Béthenivile</td>
+                <td headers="adresse">Au Munez<br />rue de Ponfaverger<br />à Béthenivile</td>
             </tr>
             <tr>
                 <td headers="date">1881</td>
-                <td headers="adresse">Rue du Neuf-Bourg<br>à Bétheniville</td>
+                <td headers="adresse">Rue du Neuf-Bourg<br />à Bétheniville</td>
             </tr>
             <tr>
                 <td headers="date">1914-1918</td>
@@ -154,13 +154,13 @@
         <figure>
             <a href="images/mairie-reims.jpg" data-fancybox="gallery" data-caption="L'hôtel de ville de Reims">
             <img src="miniatures/mairie-reims.jpg" alt="La mairie de Reims sur une carte postale ancienne"/></a>
-            <figcaption>La mairie de Reims<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>La mairie de Reims<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <figure>
             <a href="sources/matricule-baltazart.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Ernest BALTAZART">
             <img src="miniatures/matricule-baltazart.jpg" alt="Extrait de la fiche matricule d'Ernest BALTAZART"/></a>
-            <figcaption>Extrait de la fiche matricule d'Ernest BALTAZART<br>(Source: Archives de la Marne)</figcaption>
+            <figcaption>Extrait de la fiche matricule d'Ernest BALTAZART<br />(Source: Archives de la Marne)</figcaption>
         </figure>
 
         <h2>Ernest et la campagne contre l'Allemagne</h2>
@@ -170,7 +170,7 @@
         <figure>
             <a href="images/saint-etienne-marais.jpg" data-fancybox="gallery" data-caption="Les Aciéries de Saint-Etienne">
             <img src="miniatures/saint-etienne-marais.jpg" alt="Les aciéries de Saint-Etienne au Marais"/></a>
-            <figcaption>Les aciéries de Saint-Etienne<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Les aciéries de Saint-Etienne<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <p>Le journal "Le Monde Illustré" du 15 juillet 1922 précise que cette société poursuit, après la Grande Guerre, sa réorganisation en vue des fabrications du temps de paix, telles que les tôles pour construction et pour chaudières, fonds emboutis et foyers ondulés, les aciers laminés divers et aciers spéciaux, les roues montées, pièces de forge, moulages d'acier. Il indique également qu'elle a toujours maintenu ces fabrications conjointement avec les fabrications de blindages, obus, éléments de canons, réservoirs d'air pour torpilles, qui constituaient dans l'avant-guerre une grande partie de son activité et qui lui ont permis, au cours des hostilités, de rendre d'immédiats et puissants services services à la Défense Nationale.</p>
@@ -178,13 +178,13 @@
         <figure>
             <a href="images/usine-marais.jpg" data-fancybox="gallery" data-caption="Les Aciéries du MArais à Saint-Etienne">
             <img src="miniatures/usine-marais.jpg" alt="Les aciéries de Saint-Etienne au Marais"/></a>
-            <figcaption>Les aciéries du "Marais" de Saint-Etienne<br>(Source: Delcampe)</figcaption>
+            <figcaption>Les aciéries du "Marais" de Saint-Etienne<br />(Source: Delcampe)</figcaption>
         </figure>
 
         <figure>
             <a href="images/mobilisation.jpg" data-fancybox="gallery" data-caption="Le décret de mobilisation générale">
             <img src="miniatures/mobilisation.jpg" alt="Affiche du décret de mobilisation générale publié en Août 1914"/></a>
-            <figcaption>Le décret de mobilisation générale<br>(Source: Gallica / BNF)</figcaption>
+            <figcaption>Le décret de mobilisation générale<br />(Source: Gallica / BNF)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

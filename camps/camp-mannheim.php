@@ -119,7 +119,7 @@
         <figure>    
             <a href="images/Mannheim/localisation-mannheim.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Mannheim">
             <img src="miniatures/Mannheim/localisation-mannheim.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Mannheim"></a>
-            <figcaption>Localisation du camp de Mannheim<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Mannheim<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure> 
 
         <div id="Gaston_Roussel"></div>

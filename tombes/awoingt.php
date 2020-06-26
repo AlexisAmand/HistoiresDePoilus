@@ -101,13 +101,13 @@
       <figure>
           <a href="images/awoingt-03.jpg" data-fancybox="gallery" data-caption="Monument hommage aux morts du 9 octobre 1918 à Awoingt">
           <img src="images/mini/awoingt-03.jpg" alt="Croix hommage à des britanniques tombés à Awoingt le 9 octobre 1918 pendant la Grande Guerre"/></a>
-          <figcaption>Aux anglais morts à Awoingt le 9 octobre 1918<br>(source : photo personnelle)</figcaption>
+          <figcaption>Aux anglais morts à Awoingt le 9 octobre 1918<br />(source : photo personnelle)</figcaption>
       </figure>
 
       <figure>
           <a href="images/awoingt-01.jpg" data-fancybox="gallery" data-caption="Monument hommage aux morts du 9 octobre 1918 à Awoingt">
           <img src="images/mini/awoingt-01.jpg" alt="Croix hommage à des britanniques tombés à Awoingt le 9 octobre 1918 pendant la Grande Guerre"/></a>
-          <figcaption>Aux anglais morts à Awoingt le 9 octobre 1918<br>(source : photo personnelle)</figcaption>
+          <figcaption>Aux anglais morts à Awoingt le 9 octobre 1918<br />(source : photo personnelle)</figcaption>
       </figure>
 
       <div id="cma"></div>
@@ -117,13 +117,13 @@
       <figure>
           <a href="images/awoingt-02.jpg" data-fancybox="gallery" data-caption="La croix du monument hommage aux britanniques morts pendant la Première Guerre Mondiale">
           <img src="images/mini/awoingt-02.jpg" alt="La croix du cimetière britannique d'Awoingt"/></a>
-          <figcaption>Awoingt British Cemetery<br>(source : photo personnelle)</figcaption>
+          <figcaption>Awoingt British Cemetery<br />(source : photo personnelle)</figcaption>
       </figure>
 
       <figure>
           <a href="images/indien-awoing.jpg" data-fancybox="gallery" data-caption="Tombe de Udmi SINGH, un indien inhumé à Awoingt">
           <img src="images/mini/indien-awoing.jpg" alt="Udmi SINGH, un indien ayant combattu pendant la Première Guerre Mondiale et inhumé à Awoingt"/></a>
-          <figcaption>Udmi SINGH, un indien inhumé à Awoingt<br>(source : photo personnelle)</figcaption>
+          <figcaption>Udmi SINGH, un indien inhumé à Awoingt<br />(source : photo personnelle)</figcaption>
       </figure>
       
       </article>

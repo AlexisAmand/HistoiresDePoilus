@@ -127,7 +127,7 @@
         <figure>
             <a href="sources/dubois-jean-charles.jpg" data-fancybox="gallery" data-caption="Jean Charles DUBOIS, mort pour la France">
             <img src="miniatures/dubois-jean-charles.jpg" alt="Fiche de mort pour la France de Jean Charles DUBOIS"/></a>
-            <figcaption>Jean Charles, mort pour la France.<br>(source: Mémoire des Hommes)</figcaption>
+            <figcaption>Jean Charles, mort pour la France.<br />(source: Mémoire des Hommes)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

@@ -98,7 +98,7 @@
         <figure>
             <a href="images/arbre-astiers-jules.png" data-fancybox="gallery" data-caption="Les ascendants de Jules ASTIER(S)">
             <img src="miniatures/arbre-astiers-jules.png" alt="Arbre généalogique partiel de Jules ASTIER(S)" class="ArbreGenealogique"></a>
-            <figcaption>Arbre généalogique partiel de Jules ASTIER(S)<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Arbre généalogique partiel de Jules ASTIER(S)<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <p>Il part pour le service militaire le 16 novembre 1893 Après avoir été déclaré "bon" lors de son conseil de révision. Il rejoint le 91e Régiment d'Infanterie, et arrive au corps en tant que soldat de 2e classe. Il devient soldat de 1re classe le 8 octobre 1894 et est envoyé en congés un mois plus tard avec le certificat de bonne conduite.</p>
@@ -106,7 +106,7 @@
         <figure>
             <a href="images/bethenville-place-munet.jpg" data-fancybox="gallery" data-caption="La Place du Munet à Bétheniville">
             <img src="miniatures/bethenville-place-munet.jpg" alt="La Place du Munet à Bétheniville sur une carte postale ancienne"/></a>
-            <figcaption>La Place du Munet à Bétheniville<br>où est né Jules, Après la guerre.</figcaption>
+            <figcaption>La Place du Munet à Bétheniville<br />où est né Jules, Après la guerre.</figcaption>
         </figure>
 
         <p>20 ans plus tard, lors de <a href="mobilisation-1914.phpdd" title="Voir le décret de mobilisation générale de 1914">la mobilisation générale</a> du 1er août 1914, il est rappelé mais est renvoyé provisoirement le 2 septembre 1914. Quelques mois plus tard, le 3 avril 1915, il est de nouveau rappelé et rejoint le 10e Escadron de Train dès le 20 où il reste 9 jours avant de rejoindre le 13e Régiment d'Artillerie. Il passe les deux dernières années de la guerre détaché dans des usines d'armement de Colombe et Mondeville (Normandie) avant d'être finalement libéré du service le 1 octobre 1919.</p>
@@ -122,11 +122,11 @@
             <tbody>
             <tr>
                 <td headers="date">1881</td>
-                <td headers="adresse">Chez ses parents<br>Place du Munet<br>à Bétheniville (Marne)</td>
+                <td headers="adresse">Chez ses parents<br />Place du Munet<br />à Bétheniville (Marne)</td>
             </tr>
             <tr>
                 <td headers="date">27 juillet 1897</td>
-                <td headers="adresse">13 rue Neufchatel<br>à Reims (Marne)</td>
+                <td headers="adresse">13 rue Neufchatel<br />à Reims (Marne)</td>
             </tr>
             <tr>
                 <td headers="date">15 mars 1898</td>
@@ -134,31 +134,31 @@
             </tr>
             <tr>
                 <td headers="date">1901</td>
-                <td headers="adresse">Grand'rue<br>à Bétheniville (Marne)</td>
+                <td headers="adresse">Grand'rue<br />à Bétheniville (Marne)</td>
             </tr>
             <tr>
                 <td headers="date">1906</td>
-                <td headers="adresse">Rue des chevaliers<br>à Bétheniville (Marne)</td>
+                <td headers="adresse">Rue des chevaliers<br />à Bétheniville (Marne)</td>
             </tr>
             <tr>
                 <td headers="date">21 octobre 1906</td>
-                <td headers="adresse">13 rue de Bétheny<br>à Reims (Marne)</td>
+                <td headers="adresse">13 rue de Bétheny<br />à Reims (Marne)</td>
             </tr>
             <tr>
                 <td headers="date">21 juillet 1907</td>
-                <td headers="adresse">10 rue Villeminot<br>à Reims (Marne)</td>
+                <td headers="adresse">10 rue Villeminot<br />à Reims (Marne)</td>
             </tr>
             <tr>
                 <td headers="date">20 octobre 1907</td>
-                <td headers="adresse"><a href="http://cartespostalesanciennes.genealexis.fr/image/517-la-route-de-reims-a-betheniville" title="La rue de Reims à Bétheniville sur une carte postale ancienne">Rue de Reims</a><br>à Bétheniville (Marne)</td>
+                <td headers="adresse"><a href="http://cartespostalesanciennes.genealexis.fr/image/517-la-route-de-reims-a-betheniville" title="La rue de Reims à Bétheniville sur une carte postale ancienne">Rue de Reims</a><br />à Bétheniville (Marne)</td>
             </tr>
             <tr>
                 <td headers="date">1911</td>
-                <td headers="adresse">Rue de Merlan<br>à Bétheniville (Marne)</td>
+                <td headers="adresse">Rue de Merlan<br />à Bétheniville (Marne)</td>
             </tr>
             <tr>
                 <td headers="date">27 octobre 1912</td>
-                <td headers="adresse">29 rue Maucroix<br>à Reims (Marne)</td>
+                <td headers="adresse">29 rue Maucroix<br />à Reims (Marne)</td>
             </tr>
             <tr>
                 <td headers="date">7 septembre 1914</td>

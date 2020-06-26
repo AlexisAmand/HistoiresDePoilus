@@ -124,12 +124,12 @@
 
         <p><strong>Auguste Victor FIEVET</strong> est né à Lille (Nord) le 8 janvier 1890. Il est le fils légitime de Charles Jules FIEVET, fileur de coton, âgé de 28 ans et de Marie Roseline LOHIEZ, âgée de 19 ans. Il a pour frère <a href="FIEVET-Charles-Augustin.php" title="Biographie du soldat Charles Augustin FIEVET">Charles Augustin</a>.</p>
 
-        <br>
+        <br />
 
         <figure>
             <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
             <img src="miniatures/arbre-Louis-rousseaux.png" alt="Arbre généalogique de Louis Henri ROUSSEAUX" class="ArbreGenealogique"></a>
-            <figcaption>Les descendants de Léonie Louise FIEVET<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <table class="census">
@@ -143,19 +143,19 @@
             <tbody>
             <tr>
                 <td headers="date">8 janvier 1890</td>
-                <td headers="adresse">rue du Grand Balcon<br>à Lille</td>
+                <td headers="adresse">rue du Grand Balcon<br />à Lille</td>
             </tr>
                 <tr>
                 <td headers="date">11 mars 1922</td>
-                <td headers="adresse">248 rue Jean Jaurès<br>à Anzin</td>
+                <td headers="adresse">248 rue Jean Jaurès<br />à Anzin</td>
             </tr>
             <tr>
                 <td headers="date">avril 1930</td>
-                <td headers="adresse">1 rue Jean Jaurès<br>à Petite-Forêt</td>
+                <td headers="adresse">1 rue Jean Jaurès<br />à Petite-Forêt</td>
             </tr>
             <tr>
                 <td headers="date">17 décembre 1960</td>
-                <td headers="adresse">803 rue Jean Jaures<br>à Bruay-sur-L'Escaut</td>
+                <td headers="adresse">803 rue Jean Jaures<br />à Bruay-sur-L'Escaut</td>
             </tr>
             </tbody>
         </table>
@@ -167,7 +167,7 @@
         <figure>
             <a href="portraits/FIEVET-Auguste-Victor.jpg" data-fancybox="gallery" data-caption="portrait d'Auguste Victor FIEVET">
             <img src="miniatures/FIEVET-Auguste-Victor.jpg" alt="portrait d'Auguste Victor FIEVET"/></a>
-            <figcaption>Portrait d'Auguste Victor FIEVET<br>(source: Archives Départementales du Nord)</figcaption>
+            <figcaption>Portrait d'Auguste Victor FIEVET<br />(source: Archives Départementales du Nord)</figcaption>
         </figure>
 
         <h2>En route vers le front</h2>
@@ -177,7 +177,7 @@
         <figure>
             <a href="images/gare-arras-1914.JPG" data-fancybox="gallery" data-caption="L'intérieur de la gare d'Arras en 1914-1915">
             <img src="miniatures/gare-arras-1914.JPG" alt="L'intérieur de la gare d'Arras vers 1914-1915 sur une carte postale ancienne"/></a>
-            <figcaption>L'intérieur de la gare d'Arras en 1914-1915<br>(Source: Wikipedia Commons) </figcaption>
+            <figcaption>L'intérieur de la gare d'Arras en 1914-1915<br />(Source: Wikipedia Commons) </figcaption>
         </figure>
 
         <p>Le 7 août, le régiment cantonne à Saint-Michel, et le 8, il se dirige vers Maubert-Fontaine (Ardennes), puis à Bourg-Fidèle (Ardennes) à 2 kilomètres de Rocroi. Pendant les journées des 6 et 7 août, le<strong> 33e Régiment d'Infanterie </strong>avait accompli, avec des réservistes non entraînés, de 60 à 70 kilomètres en vingt-six heures, sans laisser un seul traînard.</p>
@@ -191,7 +191,7 @@
         <figure> 
             <a href="portraits/Von_Emmich.jpg" data-fancybox="gallery" data-caption="Portrait de Von Emmich">
             <img src="miniatures/Von_Emmich.jpg" alt="portrait du général allemand Von Emmich"/></a>
-            <figcaption>Le Général Von Emmich<br>(Source: Wikipedia Commons) </figcaption>
+            <figcaption>Le Général Von Emmich<br />(Source: Wikipedia Commons) </figcaption>
         </figure>
 
         <p>Mais cette brigade vient de recevoir l'ordre de se porter vers l'Est. Le <strong>1er corps</strong> doit, de ce fait, assurer sa couverture par ses propres moyens. Le régiment reçoit, en conséquence, l'ordre d'aller garder les ponts de la Meuse, dans la région de Monthermé (Ardennes) ainsi que les ponts de Fumay (Ardennes). II séjourne trois jours à Fumay. Le 13 août 1914, <strong>Auguste</strong> et le <strong>33e Régiment d'Infanterie</strong> entre à Treignes, en Belgique, salué par des acclamations enthousiastes et des cris prolongés de «Vive la France !».</p>
@@ -203,12 +203,12 @@
         <figure>
             <a href="images/Dinant-1914.jpg" data-fancybox="gallery" data-caption="La Citadelle de Dinant, début 1914">
             <img src="miniatures/Dinant-1914.jpg"  alt="La citadelle de Dinant au début de 1914 sur une carte postale ancienne"/></a>
-            <figcaption>La Citadelle de Dinant, début 1914<br>(source: Gallica/BNF)</figcaption> 
+            <figcaption>La Citadelle de Dinant, début 1914<br />(source: Gallica/BNF)</figcaption> 
         </figure>
 
         <div id="Carton_Bataille"></div>
 
-        <p>Les Allemands, ayant Bruxelles pour objectif, s'avançaient en masses compactes. Une armée au nord, s'était heurtée aux forts de Liège (Belgique), une autre avait franchi la Meuse entre Liège et Namur. <br><br>Le même jour, les Allemands signalent leur présence par une audacieuse reconnaissance et dessine une courte attaque contre nos lignes. Des autos-mitrailleuses allemandes, débouchant de la rive droite de la Meuse par le pont d'Anseremme (Belgique), à 4 kilomètres au sud de Dinant, dispersèrent le poste français et ouvrirent le passage à un escadron de uhlans qui s'avança sur la rive gauche jusqu'à Anthée. Cet escadron fut accueilli, à dix-sept heures, par les mitrailleuses du <strong>33e Régiment d'Infanterie </strong>qui étaient en position au nord du village; arrêté net, il rebroussa chemin. </p><p>Le 15 août, les Allemands attaquent Dinant avec des forces imposantes. La ville, partagée en deux parties par le fleuve, est dominée, sur la rive droite, par la citadelle, qui surplombe le terrain d'une centaine de mètres. Au sud de celle-ci, se trouve la tour de Montfort. Ce furent les deux premiers objectifs visés par les Allemands. Malgré l'héroïque résistance du 148e R.I., ces deux points tombèrent entre les mains de l'ennemi, qui utilisa ces positions pour écraser de ses feux, toute la rive gauche du fleuve.<br><br> Le<strong> 33e Régiment d'Infanterie</strong>, accouru d'Anthée, prit position, à cinq heures, le long de la voie ferrée. Deux compagnies, 10e (capitaine CARTON), 12e (capitaine BATAILLE), reçurent l'ordre d'aller réoccuper la citadelle. Le mouvement fut conduit d'une façon si rapide, que les Allemands, surpris, s'enfuirent, abandonnant la position. Mais peu après, la citadelle fut soumise à un feu d'artillerie tellement violent que la forteresse s'effondra de toutes parts, ensevelissant une partie des occupants et un certain nombre d'habitants.</p>
+        <p>Les Allemands, ayant Bruxelles pour objectif, s'avançaient en masses compactes. Une armée au nord, s'était heurtée aux forts de Liège (Belgique), une autre avait franchi la Meuse entre Liège et Namur. <br /><br />Le même jour, les Allemands signalent leur présence par une audacieuse reconnaissance et dessine une courte attaque contre nos lignes. Des autos-mitrailleuses allemandes, débouchant de la rive droite de la Meuse par le pont d'Anseremme (Belgique), à 4 kilomètres au sud de Dinant, dispersèrent le poste français et ouvrirent le passage à un escadron de uhlans qui s'avança sur la rive gauche jusqu'à Anthée. Cet escadron fut accueilli, à dix-sept heures, par les mitrailleuses du <strong>33e Régiment d'Infanterie </strong>qui étaient en position au nord du village; arrêté net, il rebroussa chemin. </p><p>Le 15 août, les Allemands attaquent Dinant avec des forces imposantes. La ville, partagée en deux parties par le fleuve, est dominée, sur la rive droite, par la citadelle, qui surplombe le terrain d'une centaine de mètres. Au sud de celle-ci, se trouve la tour de Montfort. Ce furent les deux premiers objectifs visés par les Allemands. Malgré l'héroïque résistance du 148e R.I., ces deux points tombèrent entre les mains de l'ennemi, qui utilisa ces positions pour écraser de ses feux, toute la rive gauche du fleuve.<br /><br /> Le<strong> 33e Régiment d'Infanterie</strong>, accouru d'Anthée, prit position, à cinq heures, le long de la voie ferrée. Deux compagnies, 10e (capitaine CARTON), 12e (capitaine BATAILLE), reçurent l'ordre d'aller réoccuper la citadelle. Le mouvement fut conduit d'une façon si rapide, que les Allemands, surpris, s'enfuirent, abandonnant la position. Mais peu après, la citadelle fut soumise à un feu d'artillerie tellement violent que la forteresse s'effondra de toutes parts, ensevelissant une partie des occupants et un certain nombre d'habitants.</p>
 
         <figure>
             <a href="" data-fancybox="gallery" data-caption="Dinant détruite en 1914">
@@ -221,7 +221,7 @@
         <figure>
             <a href="images/carte-dinant.jpg" data-fancybox="gallery" data-caption="Emplacement de la ferme du Rond-chêne">
             <img src="miniatures/carte-dinant.jpg" alt="Localisation de la ferme du Rond Chêne sur une carte de Dinant et ses environs"/></a>
-            <figcaption>La ferme du Rond Chêne sur une carte de Dinant<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>La ferme du Rond Chêne sur une carte de Dinant<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <p>En quelques minutes, 90 hommes sont mis hors de combat dont <strong>Auguste</strong> qui est blessé par balle au pied droit, à la cheville et à la main. Il est évacué à <a href="../hopitaux/hopitaux.php" title="Les hôpitaux pendant la Grande Guerre">l'hôpital 31 de Nantes</a> et devient invalide à 40%. Selon les Archives Municipales de Nantes, l'hôpital 31 était situé dans l'ancien séminaire de philosophie, rue Saint-Clément  et avait une capacité de 300 lits. Il fonctionne du 25 août 1914 au 24 septembre 1916.</p>
@@ -229,7 +229,7 @@
         <figure>
             <a href="" data-fancybox="gallery"  data-fancybox="gallery" data-caption="Les hôpitaux de Nantes">
             <img src="miniatures/hopitaux-nantes.jpg" alt="Liste des hôpitaux de Nantes pendant la Première Guerre Mondiale"/></a>
-            <figcaption>Les hôpitaux de Nantes<br>(source: Archives Municipales de Nantes)</figcaption>
+            <figcaption>Les hôpitaux de Nantes<br />(source: Archives Municipales de Nantes)</figcaption>
         </figure>
 
         <div id="De-Gaulle"></div>
@@ -243,13 +243,13 @@
         <figure>
             <a href="sources/fav-matricule-01.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Auguste Victor FIEVET">
             <img src="miniatures/fav-matricule-01.jpg" alt="Extrait de la fiche matricule d'Auguste Victor FIEVET"/></a>
-            <figcaption>Extrait de sa fiche matricule<br>(source: Archives Départementales du Nord)</figcaption> 
+            <figcaption>Extrait de sa fiche matricule<br />(source: Archives Départementales du Nord)</figcaption> 
         </figure>
 
         <figure>
             <a href="images/carte-auguste-fievet.jpg" data-fancybox="gallery" data-caption="Carte d'ancien combattant ayant appartenu à Auguste">
             <img src="miniatures/carte-auguste-fievet.jpg" alt="Carte d'ancien combattant d'Auguste FIEVET"></a>
-            <figcaption>Carte d'ancien combattant ayant appartenu à Auguste<br>(source: Archives Départementales du Nord)</figcaption> 
+            <figcaption>Carte d'ancien combattant ayant appartenu à Auguste<br />(source: Archives Départementales du Nord)</figcaption> 
         </figure>
 
         <h2>Sources et bibliographie</h2>

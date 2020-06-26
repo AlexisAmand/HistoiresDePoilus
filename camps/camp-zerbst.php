@@ -121,7 +121,7 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
         <figure>    
             <a href="images/Zerbst/localisation-zerbst.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Zerbst">
             <img src="miniatures/Zerbst/localisation-zerbst.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Zerbst"></a>
-            <figcaption>Localisation du camp de Zerbst<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Zerbst<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>  
 
         <p>Ce camp était situé à Zerbst, une ville d'Allemagne située dans le land actuel de Saxe-Anhalt.</p>
@@ -131,13 +131,13 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
         <figure>
             <a href="images/Zerbst/zerbst-01.jpg" data-fancybox="gallery" data-caption="Vue du camp de Zerbst">
             <img src="miniatures/Zerbst/zerbst-01.jpg" alt="Vue du camp de prisonniers de Zerbst pendant la Grande Guerre"></a>
-            <figcaption>Vue du camp de Zerbst<br>(source allemande)</figcaption>
+            <figcaption>Vue du camp de Zerbst<br />(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Zerbst/zerbst-02.jpg" data-fancybox="gallery" data-caption="Une cérémonie au camp de Zerbst">
             <img src="miniatures/Zerbst/zerbst-02.jpg" alt="Une cérémonie au camp de prisonnier de Zerbst pendant la Première Guerre Mondiale"></a>
-            <figcaption>Une cérémonie au camp de Zerbst<br>(source : Delcampe)</figcaption>
+            <figcaption>Une cérémonie au camp de Zerbst<br />(source : Delcampe)</figcaption>
         </figure>
 
         <p>La photo qui suit m'a été transmise en 2014 par Françoise C. Prise en juillet 1918, elle montre son grand-père, un lillois de la classe 1899, au camp de Zerbst. Les conditions de détention étaient tellement dures, qu'il eut les pieds gelés. Il ne fut définitivement libéré qu’en mars 1919, son livret militaire en atteste.</p>

@@ -104,27 +104,27 @@
             <tbody>
             <tr>
                 <td headers="date">13 juin 1910</td>
-                <td headers="adresse">Frouard<br>(Meurthe-et-Moselle)</td>
+                <td headers="adresse">Frouard<br />(Meurthe-et-Moselle)</td>
             </tr>
             <tr>
                 <td headers="date">2 avril 1911</td>
-                <td headers="adresse">15 Grand-Rue<br>Bétheniville<br>(Marne)</td>
+                <td headers="adresse">15 Grand-Rue<br />Bétheniville<br />(Marne)</td>
             </tr>
             <tr>
                 <td headers="date">17 novembre 1912</td>
-                <td headers="adresse">2 rue de Mars<br>Mezières<br>(Ardennes)</td>
+                <td headers="adresse">2 rue de Mars<br />Mezières<br />(Ardennes)</td>
             </tr>
             <tr>
                 <td headers="date">12 février 1914</td>
-                <td headers="adresse">296 rue de Belleville<br>Paris</td>
+                <td headers="adresse">296 rue de Belleville<br />Paris</td>
             </tr>
             <tr>
                 <td headers="date">30 juin 1914</td>
-                <td headers="adresse">15 bis rue de Paris<br>Pré-Saint-Gervais<br>(Seine)</td>
+                <td headers="adresse">15 bis rue de Paris<br />Pré-Saint-Gervais<br />(Seine)</td>
             </tr>
             <tr>
                 <td headers="date">1953</td>
-                <td headers="adresse">Bétheniville<br>(Marne)</td>
+                <td headers="adresse">Bétheniville<br />(Marne)</td>
             </tr>
         </tbody>
         </table>
@@ -132,7 +132,7 @@
         <figure>
             <a href="images/pre-saint-gervais.jpg" data-fancybox="gallery" data-caption="Vue générale de Pré-Saint-Gervais">
             <img src="miniatures/pre-saint-gervais.jpg" alt="Vue générale de Pré-Saint-Gervais sur une carte postale ancienne"/></a>
-            <figcaption>Vue générale de Pré-Saint-Gervais<br>(Source: Delcampe)</figcaption>
+            <figcaption>Vue générale de Pré-Saint-Gervais<br />(Source: Delcampe)</figcaption>
         </figure>
         
         <p>Un coup d’oeil sur la fiche matricule de Léopold, qui porte le n°1864 du bureau de Reims pour la classe 1906, nous permet d’en apprendre un peu plus sur lui, outre les informations un peu plus intimes comme sa taille (1m56), la couleur de ses yeux (noirs) ou encore la forme de son visage, on lui découvre par exemple un niveau d’instruction de 3, ce qui signifie qu’il possède une instruction primaire. Globalement, les degrés d’instructions étaient répartis en 6 catégories qui permettaient d’évaluer le degré d’instruction du jeune qui se présentait devant le conseil de révision.</p>

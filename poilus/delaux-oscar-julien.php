@@ -131,7 +131,7 @@
         <figure>
             <a href="images/carte-oscar-delaux.png" data-fancybox="gallery" data-caption="Carte d'ancien combattant d'Oscar DELAUX">
             <img src="miniatures/carte-oscar-delaux.png" alt="Carte du combattant d'Oscar DELAUX"/></a>
-            <figcaption>Carte du combattant d'Oscar DELAUX<br>(Source: Archives Départementales du Nord)</figcaption>
+            <figcaption>Carte du combattant d'Oscar DELAUX<br />(Source: Archives Départementales du Nord)</figcaption>
         </figure>
 
         <table class="census">
@@ -145,27 +145,27 @@
             <tbody>
             <tr>
                 <td headers="date">1906</td>
-                <td headers="adresse">Rue Desaix<br>à Roubaix (Nord)</td>
+                <td headers="adresse">Rue Desaix<br />à Roubaix (Nord)</td>
             </tr>
             <tr>
                 <td headers="date">1 mai 1911</td>
-                <td headers="adresse">32 rue du Halage<br>à Anzin (Nord)</td>
+                <td headers="adresse">32 rue du Halage<br />à Anzin (Nord)</td>
             </tr>
             <tr>
                 <td headers="date">23 décembre 1921</td>
-                <td headers="adresse">32 rue du Halage<br>à Anzin (Nord)</td>
+                <td headers="adresse">32 rue du Halage<br />à Anzin (Nord)</td>
             </tr>
             <tr>
                 <td headers="date">7 décembre 1928</td>
-                <td headers="adresse">21 rue Victor Hugo<br>à Bruay-sur-L'Escaut (Nord)</td>
+                <td headers="adresse">21 rue Victor Hugo<br />à Bruay-sur-L'Escaut (Nord)</td>
             </tr>
             <tr>
                 <td headers="date">12 novembre 1929</td>
-                <td headers="adresse">rue du Marché<br>à Lille (Nord)</td>
+                <td headers="adresse">rue du Marché<br />à Lille (Nord)</td>
             </tr>
             <tr>
                 <td headers="date">5 avril 1935</td>
-                <td headers="adresse">34 rue Aristote<br>à Lille (Nord)</td>
+                <td headers="adresse">34 rue Aristote<br />à Lille (Nord)</td>
             </tr>
             </tbody>   
         </table>

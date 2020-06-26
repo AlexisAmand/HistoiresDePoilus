@@ -120,7 +120,7 @@
 
         <figure>
             <img src="miniatures/Gardelegen/carte-camp-gardelegen.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Gardelegen">
-            <figcaption>Localisation du camp de Gardelegen<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Gardelegen<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
         <p>Selon le rapport de la Croix Rouge, 6602 prisonniers d'origine française, russe, anglaise et belge et quelques civils issus des territoires occupés du nord de la France sont présents dans le camp de Gardelegen à la date 7 janvier 1915. A l'époque, le camp est dirigé par le Colonel GRÜNER, que la Croix Rouge décrit comme <em>un homme de coeur et de sentiment, qui ne considère pas le prisonnier comme un ennemi, mais un homme digne de pitié.</em></p>
@@ -128,7 +128,7 @@
         <figure>
             <a href="images/Gardelegen/menu-gardelegen.jpg" data-fancybox="gallery" data-caption="Le menu hebdomadaire à Gardelegen">
             <img src="miniatures/Gardelegen/menu-gardelegen.jpg" alt="Le menu au camp de prisonniers de Gardelegen "></a>
-            <figcaption>Le menu hebdomadaire à Gardelegen<br>(source : Rapport de la Croix Rouge du 7 janvier 1915)</figcaption>
+            <figcaption>Le menu hebdomadaire à Gardelegen<br />(source : Rapport de la Croix Rouge du 7 janvier 1915)</figcaption>
         </figure>
 
         <p>Les prisonniers avaient installé à Gardelegen un petit théâtre où les Français, les Anglais et les Belges donnaient de représentations. Il était également possible d'y donner des représentations cinématographiques.</p>
@@ -136,7 +136,7 @@
         <figure>
             <a href="images/camps_prisonniers_gardelegen.jpg" data-fancybox="gallery" data-caption="La cantine du camp de prisonniers de Gardelegen">
             <img src="miniatures/camps_prisonniers_gardelegen.jpg" alt="la cantine du camp de prisonniers de Gardelegen pendant la Grande Guerre"></a>
-            <figcaption>La cantine à Gardelegen<br>(source : Delcampe)</figcaption>
+            <figcaption>La cantine à Gardelegen<br />(source : Delcampe)</figcaption>
         </figure>
 
         <figure>
@@ -188,7 +188,7 @@
         <figure>
             <a href="images/monument-gardelegen.jpg" data-fancybox="gallery" data-caption="Le monument du camp de prisonniers de Gardelegen">
             <img src="miniatures/monument-gardelegen.jpg" alt="le monument aux prisonniers morts en captivité dans le camp de Gardelegen pendant la Première Guerre Mondiale"></a>
-            <figcaption>Le monument à la mémoire des prisonniers morts en captivité<br>(source : Delcampe)</figcaption>
+            <figcaption>Le monument à la mémoire des prisonniers morts en captivité<br />(source : Delcampe)</figcaption>
         </figure>
 
         <h2>La vie quotidienne au camp</h2>
@@ -208,7 +208,7 @@
         <figure>
             <a href="images/camps_prisonniers_gardelegen_01.jpg" data-fancybox="gallery" data-caption="Le Lazaret de Gardelegen">
             <img src="miniatures/camps_prisonniers_gardelegen_01.jpg" alt="le lazaret du camp de prisonniers de Gardelegen pendant la Première Guerre Mondiale"></a>
-            <figcaption>Le lazaret de Gardelegen<br>(source : Delcampe)</figcaption>
+            <figcaption>Le lazaret de Gardelegen<br />(source : Delcampe)</figcaption>
         </figure>
 
         <p>A la fin de la guerre, le camp de Gardelegen a été évacué via la Hollande.</p>

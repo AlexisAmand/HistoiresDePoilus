@@ -120,7 +120,7 @@
 
         <figure>
             <img src="miniatures/Friedrichsfeld/carte-camp-friedrichsfeld.jpg" data-fancybox="gallery" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Friedrichsfeld">
-            <figcaption>Localisation du camp de Friedrichsfeld<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Friedrichsfeld<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
         <div id="Major_Bach"></div>
@@ -130,13 +130,13 @@
         <figure>
             <a href="images/friedrichsfeld-patates.jpg" data-fancybox="gallery" data-caption="Camp de Friedrichsfeld: Epluchage de pommes de terre dans la cour de l'hôpital">
             <img src="miniatures/friedrichsfeld-patates.jpg" alt="épluchage de pommes de terre dans la cour de l'hôpital du camp de Friedrichsfeld"></a>
-            <figcaption>Epluchages de pommes de terre dans la cour de l'hôpital<br>(source allemande)</figcaption>
+            <figcaption>Epluchages de pommes de terre dans la cour de l'hôpital<br />(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/friedrichsfeld-lazaret.jpg" data-fancybox="gallery" data-caption="Camp de Friedrichsfeld: Intérieur d'une baraque servant de Lazaret">
             <img src="miniatures/friedrichsfeld-lazaret.jpg" alt="intérieur d'une baraque servant de lazaret au camp de Friedrichsfeld"></a>
-            <figcaption>Intérieur d'une grande baraque servant de lazaret<br>(source allemande)</figcaption>
+            <figcaption>Intérieur d'une grande baraque servant de lazaret<br />(source allemande)</figcaption>
         </figure>
 
         <p>L'espace occupé par les prisonniers comprend une superficie de 25 hectares entourée d'une triple rangée de fils de fer barbelés. Des baraquements en planches, construits par les prisonniers eux-mêmes, comptent en mai 1915 pas moins de 20 000 hommes dont 16000 français, 3000 russes, 500 belges, 300 anglais.</p>
@@ -144,7 +144,7 @@
         <figure>
             <a href="images/friedrichsfeld-prisonniers-français.jpg" data-fancybox="gallery" data-caption="Des prisonniers français au camp de Friedrichsfeld">
             <img src="miniatures/friedrichsfeld-prisonniers-français.jpg"  alt="Des prisonniers français au camp de Friedrichsfeld"/></a>
-            <figcaption>Des prisonniers au camp de Friedrichsfeld<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Des prisonniers au camp de Friedrichsfeld<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <p>Quand <a href="../poilus.php">Jules Henri BOURSIER</a>, <a href="../poilus/CARLIER-Druon-Joseph.php" title="biographie du soldat Druon Joseph CARLIER">Druon Joseph CARLIER</a>, <a href="../poilus/JOLY-Noel-Jules.php" title="Biographie du soldat Noël JOLY">Noël Jules JOLY</a> et leurs compagnons français arrivent dans le camp de Friedrichsfeld en cette fin d'année 1914, il est juste indiqué par une clôture de fils de fer, mais rien n'est construit; pendant de longues semaines, les hommes doivent coucher en plein air, sur la paille, avec une seule couverture. Sous la direction d'ouvriers civils, les prisonniers sont employés à la construction de baraquements qui sont habités dès le mois de décembre 1914. A cette époque, ils reçoivent une enveloppe de paillasse contenant de la fibre de bois et de la paille (qui ne sera jamais renouvelée) et une seconde couverture. Après son achèvement, le camp est une véritable petite ville, constituée par des baraques de planches, dont chacune est divisée en 2 chambrées par une cloison.</p><p>Dans l'exemplaire n°202 de l'ouvrage intitulé <cite><a href="http://gallicalabs.bnf.fr/ark:/12148/bpt6k65295400" title="Le sort des prisonniers français en allemagne pendant la Grande Guerre">Le sort des prisonniers français en Allemagne</a></cite>, l'auteur explique qu'à Friedrichsfeld, il y avait une baraque spéciale, close de treillages, où restaient enfermés nuit et jour les prisonniers qui se refusent au travail; au mois de décembre 1915, 25 réfractaires avaient été laissés toute une nuit, en tenue de travail, sur le bord du Rhin, au garde-à-vous, les pieds posés sur des cailloux. Quelques pages plus loin, l'auteur nous décrit l'impuissance des prisonniers français contre les épidémies, notamment dans les camps de <a href="camp-darmstadt.php" title="le camp de prisonniers de Darmstadt">Darmstadt</a>, <a href="camp-friedrichsfeld.php" title="le camp de prisonniers de Friedrichsfeld">Friedrichsfeld</a>, Koenigsbrück, Merseburg et Zoosen où la faim non apaisée, l'inanition et la misère psychologique qui en a résulté ont provoqué un développement inouï de la tuberculose et une mortalité effrayante.</p>
@@ -170,19 +170,19 @@
         <figure>
             <a href="images/friedrichsfeld-03.jpg" data-fancybox="gallery" data-caption="Camp de Friedrichsfeld: La poste aux colis">
             <img src="miniatures/friedrichsfeld-03.jpg" alt="la poste au colis du camp de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
-            <figcaption>La poste aux colis du camp<br> (source allemande)</figcaption>
+            <figcaption>La poste aux colis du camp<br /> (source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/friedrichsfeld-04.jpg" data-fancybox="gallery" data-caption="Camp de Friedrichsfeld: Fumure au guano">
             <img src="miniatures/friedrichsfeld-04.jpg" alt="Fumure au guano dans les environs du camp de Friedrichsfeld pendant la Grande Guerre"></a>
-            <figcaption>Fumure au guano dans les environs du camp<br>(source allemande)</figcaption>
+            <figcaption>Fumure au guano dans les environs du camp<br />(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/friedrichsfeld-05.jpg" data-fancybox="gallery" data-caption="Camp de Friedrichsfeld: Diverses ethnies">
             <img src="miniatures/friedrichsfeld-05.jpg" alt="diverses ethnies présentes au camp de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
-            <figcaption>Diverses ethnies représentées au camp<br>(source allemande)</figcaption>
+            <figcaption>Diverses ethnies représentées au camp<br />(source allemande)</figcaption>
         </figure>
 
         <div id="Henri-Marliere"></div>
@@ -194,13 +194,13 @@
         <figure>
             <a href="images/Friedrichsfeld/baraque-19B.jpg" data-fancybox="gallery" data-caption="La baraque 19B où se trouvait le sergent Henri Marlière">
             <img src="miniatures/Friedrichsfeld/baraque-19B.jpg" alt="La baraque 19B du camp de prisonnier de Friedrichsfeld"></a>
-            <figcaption>La baraque 19B où se trouvait le sergent Henri Marlière<br>(source: Mr D.)</figcaption>
+            <figcaption>La baraque 19B où se trouvait le sergent Henri Marlière<br />(source: Mr D.)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Friedrichsfeld/Marliere-Henri.jpg" data-fancybox="gallery" data-caption="La médaille des évadés du sergent Henri Marlière">
             <img src="miniatures/Friedrichsfeld/Marliere-Henri.jpg" alt="Médaille des évadés ayant appartenue au prisonnier Henri Marlière"></a>
-            <figcaption>La médaille des évadés<br>(source: Mr D.)</figcaption>
+            <figcaption>La médaille des évadés<br />(source: Mr D.)</figcaption>
         </figure>
 
         <div id="Etienne-Dadu"></div>
@@ -212,25 +212,25 @@
         <figure>
             <a href="images/Friedrichsfeld/friedrichsfeld-table.jpg" data-fancybox="gallery" data-caption="A table au camp de Friedrichsfeld">
             <img src="miniatures/Friedrichsfeld/friedrichsfeld-table.jpg" alt="Des prisonniers à table dans le camp de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
-            <figcaption>Des prisonniers à table<br>(source: Famille DADU)</figcaption>
+            <figcaption>Des prisonniers à table<br />(source: Famille DADU)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Friedrichsfeld/noel-1916.jpg" data-fancybox="gallery" data-caption="Noël 1916 au camp de Friedrichsfeld">
             <img src="miniatures/Friedrichsfeld/noel-1916.jpg" alt="Noël 1916 au camp de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
-            <figcaption>Noël 1916 au camp<br>(source: Famille DADU)</figcaption>
+            <figcaption>Noël 1916 au camp<br />(source: Famille DADU)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Friedrichsfeld/dans-le-camps-16-aout-1917.jpg" data-fancybox="gallery" data-caption="des prisonniers à Friedrichsfeld le 16 août 1917">
             <img src="miniatures/Friedrichsfeld/dans-le-camps-16-aout-1917.jpg" alt="Des prisonniers du camps de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
-            <figcaption>Dans le camp 16 août 1917<br>(source: Famille DADU)</figcaption>
+            <figcaption>Dans le camp 16 août 1917<br />(source: Famille DADU)</figcaption>
         </figure>
 
         <figure>
             <a href="images/friedrichsfeld/moulin-de-friedrichsfeld.jpg" data-fancybox="gallery" data-caption="Le moulin du camp de Friedrichsfeld">
             <img src="miniatures/Friedrichsfeld/moulin-de-friedrichsfeld.jpg" alt="Le moulin du camp de prisonniers de Friedrichsfeld pendant la Première Guerre Mondiale"></a>
-            <figcaption>Le moulin du camp<br>(source: Famille DADU)</figcaption>
+            <figcaption>Le moulin du camp<br />(source: Famille DADU)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

@@ -121,31 +121,31 @@
 		<figure>
             <a href="images/Gmund/carte-camp-gmund.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Gmünd">
             <img src="miniatures/Gmund/carte-camp-gmund.jpg" alt="Localisation du camp de prisonniers de Gmünd"></a>
-            <figcaption>Localisation du camp de Gmünd<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Gmünd<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Gmund/camp-gmund-01.jpg" data-fancybox="gallery" data-caption="Enterrement d'un prisonnier français décédé à Gmünd">
             <img src="miniatures/Gmund/camp-gmund-01.jpg" alt="Enterrement d'un prisonnier français décédé au camp de Gmünd"></a>
-            <figcaption>Enterrement d'un prisonnier français décédé à Gmünd<br>(source: Clio Team)</figcaption>
+            <figcaption>Enterrement d'un prisonnier français décédé à Gmünd<br />(source: Clio Team)</figcaption>
         </figure>
 
 		<figure>
             <a href="images/Gmund/camp-gmund-02.jpg" data-fancybox="gallery" data-caption="Prisonniers français à Gmünd">
             <img src="miniatures/Gmund/camp-gmund-02.jpg" alt="un groupe de prisonniers français au camp de Gmünd"></a>
-            <figcaption>Prisonniers français à Gmünd<br>(source: Clio Team)</figcaption>
+            <figcaption>Prisonniers français à Gmünd<br />(source: Clio Team)</figcaption>
         </figure>
         
         <figure>
             <a href="images/Gmund/camp-gmund-03.jpg" data-fancybox="gallery" data-caption="Prisonniers français à Gmünd">
             <img src="miniatures/Gmund/camp-gmund-03.jpg" alt="un groupe de prisonniers français au camp de Gmünd"></a>
-            <figcaption>Prisonniers français à Gmünd<br>(source: Clio Team)</figcaption>
+            <figcaption>Prisonniers français à Gmünd<br />(source: Clio Team)</figcaption>
         </figure>
         
         <figure>
             <a href="images/Gmund/camp-gmund-04.jpg" data-fancybox="gallery" data-caption="Prisonniers français à Gmünd">
             <img src="miniatures/Gmund/camp-gmund-04.jpg" alt="un groupe de prisonniers français au camp de Gmünd"></a>
-            <figcaption>Prisonniers français à Gmünd<br>(source: Clio Team)</figcaption>
+            <figcaption>Prisonniers français à Gmünd<br />(source: Clio Team)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

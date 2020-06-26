@@ -87,13 +87,13 @@
         <figure>
             <a href="images/monument-beaufort-01.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts de Beaufort (Nord)">
             <img src="images/mini/monument-beaufort-01.jpg" alt="le Monument aux Morts pour la France de Beaufort dans l'Avesnois"/></a>
-            <figcaption>Le monument aux morts de Beaufort<br>(Source: Photo privée)</figcaption>
+            <figcaption>Le monument aux morts de Beaufort<br />(Source: Photo privée)</figcaption>
         </figure>
 
 		<figure>
             <a href="images/monument-beaufort-02.jpg" data-fancybox="gallery" data-caption="La plaque hommage aux victime de 39-45 à Beaufort (Nord)">
             <img src="images/mini/monument-beaufort-02.jpg" alt="La plaque hommage aux victimes de 39-45 du monument aux Morts pour la France de Beaufort dans l'Avesnois"/></a>
-            <figcaption>La plaque hommage aux victimes de 39-45<br>(Source: Photo privée)</figcaption>
+            <figcaption>La plaque hommage aux victimes de 39-45<br />(Source: Photo privée)</figcaption>
         </figure>
         
         </article>

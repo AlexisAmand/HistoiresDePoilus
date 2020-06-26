@@ -116,24 +116,24 @@
 
         <h1>Le camp de prisonniers de Czersk</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br><p>Le camp de Czersk était situé en Poméranie (Prusse Orientale).</p><p>En 1918, pour les pansements comme pour la nourriture de nombreux ersatz règnent, comme en témoigne une note&nbsp; de service du lazaret du camp de Czersk datée d'août qui recommande <em>"qu'en ce qui concerne le matériel de pansement, l'économie la plus grand doit être pratiquée, comme ont doit aussi tendre à le pratiquer rigoureusement dans les hôpitaux allemands."</em></p><br>
+        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br /><p>Le camp de Czersk était situé en Poméranie (Prusse Orientale).</p><p>En 1918, pour les pansements comme pour la nourriture de nombreux ersatz règnent, comme en témoigne une note&nbsp; de service du lazaret du camp de Czersk datée d'août qui recommande <em>"qu'en ce qui concerne le matériel de pansement, l'économie la plus grand doit être pratiquée, comme ont doit aussi tendre à le pratiquer rigoureusement dans les hôpitaux allemands."</em></p><br />
 
         <figure>
             <a href="images/Czersk/Czersk-01.jpg" data-fancybox="gallery" data-caption="Le camp de Czersk">
             <img src="miniatures/Czersk/Czersk-01.jpg" alt="un groupe de prisonniers dans le camp de Czersk"></a>
-            <figcaption>Un groupe de prisonniers<br>(source allemande)</figcaption>
+            <figcaption>Un groupe de prisonniers<br />(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Czersk/Czersk-02.jpg" data-fancybox="gallery"  title="Le camp de Czersk">
             <img src="miniatures/Czersk/Czersk-02.jpg" alt="Jeux et danse dans le camp de Czersk"></a>
-            <figcaption>Jeux et danse au camp<br>(source allemande)</figcaption>
+            <figcaption>Jeux et danse au camp<br />(source allemande)</figcaption>
         </figure>
 
         <figure>
             <a href="images/Czersk/Czersk-02.jpg" data-fancybox="gallery"  title="Le camp de Czersk">
             <img src="miniatures/Czersk/Czersk-03.jpg" alt="Des prisonniers russes fabriquant des chaussures dans le camp de prisonniers de Czersk"></a>
-            <figcaption>Fabrication de chaussures par des prisonniers russes<br>(source : Delcampe)</figcaption>
+            <figcaption>Fabrication de chaussures par des prisonniers russes<br />(source : Delcampe)</figcaption>
         </figure>
 
         <p>En 1923, la "Gazette de Bayonne, de Biarritz et du Pays Basque" annonce dans un article daté du 12 août que les corps de 49 soldats français morts en captivité au camp de Czersk vont être rapatriés.</p>

@@ -127,7 +127,7 @@
 		<figure>
 			<a href="images/letienne-florimond-1873.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Florimond LETIENNE">
 			<img src="miniatures/letienne-florimond-1873.jpg" alt="Acte de naissance de Florimond LETIENNE"></a>
-			<figcaption>Acte de naissance de Florimond<br> (source : Archives Départementales du Nord)</figcaption>
+			<figcaption>Acte de naissance de Florimond<br /> (source : Archives Départementales du Nord)</figcaption>
 		</figure> 
 
 		<p>Selon le recensement de 1906, Florimond est rattacheur et vit Rue des Longues à Haies à Roubaix, en compagnie de Marie Lucie et de ses enfants : Léonie, Georges et Charles. La Rue des Longues Haies était situé dans un quartier populaire de Roubaix. Longue de près 1 km, on y trouvait des usines, des estaminets, des commerces, le Mont de Piété ou encore les Bains Municipaux. La rue était aussi un labyrinthe de courées parmi lesquelles la Cour Mulliez, où vivait la famille LETIENNE. On rencontrait cette rue en remontant la Rue de Lannoy vers l'église Sainte Elisabeth, elle s'étendait parallèlement au Boulevard Gambetta, en une longue ligne droite.</p> 
@@ -135,7 +135,7 @@
 		<figure>
 			<a href="images/roubaix_longues_haies.jpg" data-fancybox="gallery" data-caption="La Rue des Longues Haies à Roubaix">
 			<img src="miniatures/roubaix_longues_haies.jpg" alt="La Rue des Longues Haies et le Mont de piété à Roubaix"></a>
-			<figcaption>La Rue des Longues Haies et le Mont de Piété (Roubaix)<br> (source : Bibliothèque Numérique de Roubaix)</figcaption>
+			<figcaption>La Rue des Longues Haies et le Mont de Piété (Roubaix)<br /> (source : Bibliothèque Numérique de Roubaix)</figcaption>
 		</figure>   
 
 		<h2>Florimond et la Grande Guerre</h2>
@@ -145,7 +145,7 @@
 		<figure>
 			<a href="sources/dossier-florimond-letienne.jpg" data-fancybox="gallery" data-caption="Extrait du dossier d'ancien combattant de Florimond">
 			<img src="miniatures/dossier-florimond-letienne.jpg" alt="Extrait du dossier de combattant de LETIENNE Florimond"></a>
-			<figcaption>Extrait du dossier d'ancien combattant de Florimond<br> (source : Archives Départementales du Nord)</figcaption>
+			<figcaption>Extrait du dossier d'ancien combattant de Florimond<br /> (source : Archives Départementales du Nord)</figcaption>
 		</figure>
 
 		<p>Il passera ainsi successivement par le 6e Régiment d'Artillerie à Pied (le 21 septembre), le 7e Régiment d'Artillerie à Pied (le 1er mars 1916), le 11e Régiment d'Artillerie à Pied (le 25 décembre 1917) et enfin le 3e Régiment d'Artillerie à Pied (le 10 mars 1918). Même si ses affectations et ses lieux de cantonnement ont changés, Florimond a passé toute la durée du conflit en Lorraine, dans le secteur de Verdun. Le 7 janvier 1919, il est mis en congés illimité par le 15e RAC de Douai, son dépôt démobilisateur et se retire à Roubaix, rue de Denain (cours Flamant).</p>
@@ -155,7 +155,7 @@
 		<figure>
 			<a href="images/carte-florimond-letienne.jpg" data-fancybox="gallery" data-caption="Carte d'ancien combattant">
 			<img src="miniatures/carte-florimond-letienne.jpg" alt="carte d'ancien combattant de Florimond LETIENNE trouvée aux Archives Départementales"></a>
-			<figcaption>Carte d'ancien combattant ayant appartenu à Florimond<br> (source : Archives Départementales du Nord)</figcaption>
+			<figcaption>Carte d'ancien combattant ayant appartenu à Florimond<br /> (source : Archives Départementales du Nord)</figcaption>
 		</figure>
 
 		<p>Une question reste toutefois en suspens pour l’instant : Pourquoi le centre de démobilisation de Dinard (Ile-et-Vilaine) alors que l’après-guerre le domicilie à Roubaix (Nord) ?</p>

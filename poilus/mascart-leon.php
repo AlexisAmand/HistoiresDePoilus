@@ -127,7 +127,7 @@
         <figure>
             <a href="miniatures/fosse_cuvinot_onnaing.jpg" data-fancybox="gallery" data-caption="La Fosse de Cuvinot à Onnaing">
             <img src="images/fosse_cuvinot_onnaing.jpg" width="450px" alt="La Fosse de Cuvinot à Onnaing sur une carte postale ancienne"/></a>
-            <figcaption>La Fosse de Cuvinot<br>(source : Archives Municipales de Valenciennes)</figcaption>
+            <figcaption>La Fosse de Cuvinot<br />(source : Archives Municipales de Valenciennes)</figcaption>
         </figure>
         
         <h2>Sources et bibliographie</h2>

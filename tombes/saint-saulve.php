@@ -91,17 +91,19 @@
         <h2>Jules COVIN</h2>
         
         <p>Le sous-lieutenant Jules COVIN est né à Saint-Saulve le 19 octobre 1895. Sa fiche matricule le décrit comme engagé volontaire en 1915 à Lyon, au titre du 2e Groupe d'Aviation. Il est décédé le 21 mars 1918 suite à une blessure reçue pendant un combat aérien. Il repose au cimetière de Saint-Saulve. Jules fait l'objet d'une biographie sur un site consacré aux <a href="http://www.as14-18.net/Covin">As français de la Grande Guerre</a>. Petite nuance : ils indiquent le 3e Groupe d'Aviation alors que les documents que j'ai pu consulter indiquent le 2e.</p>
+        
+        <figure>
+            <a href="images/jules-covin-sda-01.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche SHD de Jules COVIN">
+            <img src="images/mini/jules-covin-sda-01.jpg" alt="Extrait de la fiche SHD de l'aviateur Jules COVIN"/></a>
+            <figcaption>Extrait de sa fiche au SHD<br />(Source: Mémoire des Hommes)</figcaption>
+        </figure>
+        
+        <p>Jules est titulaire de la Croix de Guerre, de la Médaille Militaire et de la Légion d'Honneur. Son nom figure sur le monument aux morts de la ville de Saint-Saulve, sur la plaque commémorative de l'église de Saint-Saulve,  sur le Livre d'Or du ministère des pensions de la ville de Saint-saulve, sur le monument aux morts de la ville de Lyon et enfin sur la Plaque commémorative des As de Guerre située au Bourget.</p>
 
         <figure>
             <a href="images/Jules-Covin.jpg" data-fancybox="gallery" data-caption="Tombe du soldat Jules COVIN, mort pour la France en 1918">
             <img src="images/mini/Jules-Covin.jpg" alt="Tombe de Jules COVIN au cimetière de Saint-Saulve"/></a>
-            <figcaption>Tombe de Jules COVIN<br>(Source: Photo privée)</figcaption>
-        </figure>
-
-        <figure>
-            <a href="images/jules-covin-sda-01.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche SHD de Jules COVIN">
-            <img src="images/mini/jules-covin-sda-01.jpg" alt="Extrait de la fiche SHD de l'aviateur Jules COVIN"/></a>
-            <figcaption>Extrait de sa fiche au SHD<br>(Source: Mémoire des Hommes)</figcaption>
+            <figcaption>Tombe de Jules COVIN<br />(Source: Photo privée)</figcaption>
         </figure>
 
         <div id="Xavier-Lecerf"></div>
@@ -113,8 +115,10 @@
         <figure>
             <a href="images/xavier-lecerf.jpg" data-fancybox="gallery" data-caption="Tombe du soldat Xavier LECERF, mort pour la France en 1914">
             <img src="images/mini/xavier-lecerf.jpg" alt="Tombe de Xavier LECERF au cimetière de Saint-Saulve"/></a>
-            <figcaption>Tombe de Xavier LECERF<br>(Source: Photo privée)</figcaption>
+            <figcaption>Tombe de Xavier LECERF<br />(Source: Photo privée)</figcaption>
         </figure>
+        
+        <p>Son nom figure sur le monument aux morts de la ville de Saint-Saulve, sur la plaque commémorative de l'église de Saint-Saulve et  sur le Livre d'Or du ministère des pensions de la ville de Saint-saulve.</p>
 
         <div id="Alfred-Lefebvre"></div>
 
@@ -125,16 +129,19 @@
         <figure>
             <a href="images/alfred-lefebvre.jpg" data-fancybox="gallery" data-caption="Tombe du soldat Alfred LEFEBVRE, mort pour la France en 1915">
             <img src="images/mini/alfred-lefebvre.jpg" alt="Tombe de Alfred LEFEBVRE au cimetière de Saint-Saulve"/></a>
-            <figcaption>Tombe d'Alfred Lefebvre<br>(Source: Photo privée)</figcaption>
+            <figcaption>Tombe d'Alfred Lefebvre<br />(Source: Photo privée)</figcaption>
         </figure>
+        
+        <p>Son nom figure sur le monument aux morts de la ville de Saint-Saulve.</p>
 
         <br />
 
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li>Mémorial GenWeb</li>
-            <li>Mémoire des Hommes (Ministère de la Défense)</li>
+            <li><a href="http://www.memorialgenweb.org/">Mémorial GenWeb</a></li>
+            <li><a href="http://archivesdepartementales.lenord.fr" title="Archives départementales du Nord">Archives Départementales du Nord</a><br /><br /></li>
+            <li><a href="https://www.memoiredeshommes.sga.defense.gouv.fr/">Mémoire des Hommes (Ministère de la Défense)</a></li>
             <li>Photo des tombes (Collection privée)</li>
         </ul>
 

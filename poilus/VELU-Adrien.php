@@ -128,7 +128,7 @@
         <figure>
             <a href="sources/matricule-adrien-velu.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule d'Adrien VELU">
             <img src="miniatures/matricule-adrien-velu.jpg" alt="Extrait de la fiche matricule d'Adrien VELU"/></a>
-            <figcaption>Extrait de sa fiche matricule<br>(source: Archives Départementales du Nord)</figcaption>
+            <figcaption>Extrait de sa fiche matricule<br />(source: Archives Départementales du Nord)</figcaption>
         </figure>
 
         <p>Inscrit sous le n°1 de la liste de Marcoing, Adrien est incorporé au <strong>1er Régiment d'Infanterie</strong> qu'il rejoint le 3 octobre 1910 en tant que soldat de 2e classe. Il est envoyé en congé le 25 septembre 1912 en attendant son passage dans la réserve de l'armée active avec <em>certificat de bonne conduite accordé.</em></p>
@@ -140,7 +140,7 @@
         <figure>
             <a href="sources/bonne-conduite.jpg" data-fancybox="gallery" data-caption="certificat de bonne conduite de Kleber FIEVET">
             <img src="miniatures/bonne-conduite.jpg" alt="certificat de bonne conduite de Kléber FIEVET, obtenu en 1932"/></a>
-            <figcaption>Certificat de bonne conduite de Kléber FIEVET, daté de 1932<br>(source: Archives privées)</figcaption>
+            <figcaption>Certificat de bonne conduite de Kléber FIEVET, daté de 1932<br />(source: Archives privées)</figcaption>
         </figure>
 
         <h2>Adrien et le Ier R.I</h2>
@@ -150,7 +150,7 @@
         <figure>
             <a href="images/Assaut-chemin-des-dames.jpg" data-fancybox="gallery" data-caption="Soldats français sur le Chemin des Dames">
             <img src="miniatures/Assaut-chemin-des-dames.jpg" alt="Des soldats français à l'assaut au Chemin de Dames"/></a>
-            <figcaption>Assaut français sur le Chemin des Dames<br>(source: Archives du Queensland, Australie)</figcaption>
+            <figcaption>Assaut français sur le Chemin des Dames<br />(source: Archives du Queensland, Australie)</figcaption>
         </figure>
 
         <p>3300 de ses hommes, dont <strong>Adrien</strong>, donneront leurs vies et lui vaudront quatre citations à l'ordre de l'armée. Le 19 octobre 1918, le Général de CASTELNAU le décore de la fourragère au couleur de la médaille militaire.</p>
@@ -162,7 +162,7 @@
         <figure>
             <a href="sources/VELU-Adrien-mpf.jpg" data-fancybox="gallery" data-caption="Adrien VELU, mort pour la France">
             <img src="miniatures/VELU-Adrien-mpf.jpg" alt="Fiche de mort pour la France d'Adrien VELU"/></a>
-            <figcaption>Adrien VELU, mort pour la France<br>(source: Mémoire des Hommes)</figcaption>
+            <figcaption>Adrien VELU, mort pour la France<br />(source: Mémoire des Hommes)</figcaption>
         </figure>
 
         <p>Apolline BRIOT, sa veuve, reçoit la somme de 150 francs. Son nom est sur le Monument aux Morts de Villers-Guislain mais selon le site son corps repose au carré militaire de l'est du cimetière communal de Châlons-en-Champagne.</p>
@@ -170,7 +170,7 @@
         <figure>
             <a href="images/cimetiere-communal.jpg" data-fancybox="gallery" data-caption="Le cimetière militaire de Châlons-sur-Marne">
             <img src="miniatures/cimetiere-communal.jpg" alt="Le cimetière militaire de Châlons-sur-Marne sur une carte postale ancienne"/></a>
-            <figcaption>Le cimetière militaire de Châlons-sur-Marne<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Le cimetière militaire de Châlons-sur-Marne<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
 		<h2>Sources et bibliographie</h2>

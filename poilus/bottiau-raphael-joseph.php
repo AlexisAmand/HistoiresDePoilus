@@ -139,15 +139,15 @@
             </tr>
             <tr>
                 <td headers="dates">1906</td>
-                <td headers="adresses"><a href="http://cartespostalesanciennes.genealexis.fr/image/436-valenciennes-rue-de-lille" title="L'entrée de la rue de Lille à Valenciennes">Rue de Lille</a><br>à Valenciennes (Nord)</td>
+                <td headers="adresses"><a href="http://cartespostalesanciennes.genealexis.fr/image/436-valenciennes-rue-de-lille" title="L'entrée de la rue de Lille à Valenciennes">Rue de Lille</a><br />à Valenciennes (Nord)</td>
             </tr>
             <tr>
                 <td headers="dates">18 septembre 1907</td>
-                <td headers="adresses">"Pelissier chez Rivière"<br>à Albi (Tarn)</td>
+                <td headers="adresses">"Pelissier chez Rivière"<br />à Albi (Tarn)</td>
             </tr>
             <tr>
                 <td headers="dates">26 janvier 1908</td>
-                <td headers="adresses">Rue du Marais<br>à Férin (Nord)</td>
+                <td headers="adresses">Rue du Marais<br />à Férin (Nord)</td>
             </tr>
             <tr>
                 <td headers="dates">10 février 1908</td>
@@ -159,7 +159,7 @@
             </tr>
             <tr>
                 <td headers="dates">29 décembre 1909</td>
-                <td headers="adresses">9 rue de Flandre<br>à Tunis (Tunisie)<sup>1</sup></td>
+                <td headers="adresses">9 rue de Flandre<br />à Tunis (Tunisie)<sup>1</sup></td>
             </tr>
             <tr>
                 <td headers="dates">13 février 1910</td>
@@ -171,7 +171,7 @@
             </tr>
             <tr>
                 <td headers="dates">19 mars 1926</td>
-                <td headers="adresses">Rue du moulin<br>à Quarouble (Nord)</td>
+                <td headers="adresses">Rue du moulin<br />à Quarouble (Nord)</td>
             </tr>
             </tbody>
         </table>
@@ -183,7 +183,7 @@
         <figure>
             <a href="sources/Bottiau-Raphael-1926.jpg" data-fancybox="gallery" data-caption="Acte de décès de Raphaël BOTTIAU">
             <img src="miniatures/Bottiau-Raphael-1926.jpg" alt="Acte de décès de Raphaël BOTTIAU issu des AD du Nord"/></a>
-            <figcaption>Acte de décès de Raphaël BOTTIAU<br>(Source: Archives Départementales du Nord)</figcaption>
+            <figcaption>Acte de décès de Raphaël BOTTIAU<br />(Source: Archives Départementales du Nord)</figcaption>
         </figure>
 
         <p class="note"><sup>1</sup>Selon DBL, de Twitter, il s'agit de l'actuelle rue Farès El Khoumi, parallèle à l'avenue de la République, qui longe le port.</p>

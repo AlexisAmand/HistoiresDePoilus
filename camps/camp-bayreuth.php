@@ -119,7 +119,7 @@ camp-bayreuth<!doctype html>
         <figure>
             <a href="images/Bayreuth/localisation.jpg" data-fancybox="gallery" data-caption="carte de l'Allemagne pour localiser le camp de prisonnier de Bayreuth">
             <img src="miniatures/Bayreuth/localisation.jpg" alt="Localisation du camp de Bayreuth"></a>
-            <figcaption>Localisation du camp de Bayreuth<br>(source pour le fond de carte: BNF - Gallica)</figcaption>
+            <figcaption>Localisation du camp de Bayreuth<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

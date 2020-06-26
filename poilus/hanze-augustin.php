@@ -127,7 +127,7 @@
         <figure>
             <a href="images/arbre-hanze.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille HANZE">
             <img src="miniatures/arbre-hanze.png" alt="Arbre généalogique simplifié de la famille HANZE" class="ArbreGenealogique"/></a>
-            <figcaption>Arbre simplifié de la famille HANZE<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Arbre simplifié de la famille HANZE<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <table class="census">
@@ -141,19 +141,19 @@
             <tbody>
             <tr>
                 <td headers="date">11 avril 1906</td>
-                <td headers="adresse">Route Nationale<br> à Cousolre (Nord)</td>
+                <td headers="adresse">Route Nationale<br /> à Cousolre (Nord)</td>
             </tr>
             <tr>
                 <td headers="date">20 janvier 1910</td>
-                <td headers="adresse">10 rue du Pont-Neuf<br>à Valenciennes (Nord)</td>
+                <td headers="adresse">10 rue du Pont-Neuf<br />à Valenciennes (Nord)</td>
             </tr>
             <tr>
                 <td headers="date">2 octobre 1910</td>
-                <td headers="adresse">119 rue de Lille<br>à Valenciennes (Nord)</td>
+                <td headers="adresse">119 rue de Lille<br />à Valenciennes (Nord)</td>
             </tr>
             <tr>
                 <td headers="date">15 novembre 1912</td>
-                <td headers="adresse">rue de Maubeuge<br> à Cousolre (Nord)</td>
+                <td headers="adresse">rue de Maubeuge<br /> à Cousolre (Nord)</td>
             </tr>
             </tbody>
         </table>
@@ -163,13 +163,13 @@
         <figure>
             <a href="sources/hanze-augustin.jpg" data-fancybox="gallery" data-caption="Augustin HANZE, mort pour la France">
             <img src="miniatures/hanze-augustin.jpg" alt="Fiche de mort pour la France d'Augustin HANZE"/></a>
-            <figcaption>Augustin, mort pour la France.<br>(source: Mémoire des Hommes)</figcaption>
+            <figcaption>Augustin, mort pour la France.<br />(source: Mémoire des Hommes)</figcaption>
         </figure>
 
         <figure>
             <a href="images/momument-cousolre.jpg" data-fancybox="gallery" data-caption="Inauguration du monument de Cousolre">
             <img src="miniatures/momument-cousolre.jpg" alt="Inauguration du monument de Cousolre le 29 juillet 1923"/></a>
-            <figcaption>Inauguration du monument de Cousolre<br>(Le 29 juillet 1923)</figcaption>
+            <figcaption>Inauguration du monument de Cousolre<br />(Le 29 juillet 1923)</figcaption>
         </figure>
 
         <div id="Louis-Pergaud"></div>

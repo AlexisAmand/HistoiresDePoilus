@@ -127,7 +127,7 @@
         <figure>
             <a href="images/arbre-carlier.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille JOLY-CARLIER">
             <img src="miniatures/arbre-carlier.png" alt="Arbre généalogique simplifié de la famille JOLY-CARLIER" class="ArbreGenealogique"/></a>
-            <figcaption>Arbre simplifié de la famille JOLY-CARLIER<br>(cliquez pour agrandir)</figcaption>
+            <figcaption>Arbre simplifié de la famille JOLY-CARLIER<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <p>Pour simplifier les choses, je n'ai pas représenté tous les membres de la famille sur l'arbre ci-dessus, mais à sa naissance, Druon a pour frères et sœurs : Gustave (né en 1864), Maria Sidonie (née en 1865), Marie Zélia (née en 1869) et <a href="CARLIER-Louis-Abraham.php" title="Biographie du soldat Louis Abraham">Louis Abraham</a> (né en 1871). En 1906, il vit au hameau de Sebourquiaux avec son épouse Angèle DANHIEZ et ses deux filles Lucia (mon arrière-grand-mère) et Maria.</p>
@@ -135,7 +135,7 @@
         <figure>
             <a href="sources/carlier-druon-matricule-01.jpg" data-fancybox="gallery" data-caption="Extrait de sa fiche matricule de Druon Joseph CARLIER">
             <img src="miniatures/carlier-druon-matricule-01.jpg" alt="Extrait de la fiche matricule de Druon CARLIER"/></a>
-            <figcaption>Extrait de sa fiche matricule<br>(source: Archives Départementales du Nord)</figcaption>
+            <figcaption>Extrait de sa fiche matricule<br />(source: Archives Départementales du Nord)</figcaption>
         </figure>
 
         <p>Durant son service militaire, <strong>Druon Joseph CARLIER</strong> est incorporé comme soldat de 2e classe au <strong>1er Régiment d'Infanterie</strong> sous le matricule n°8102 le 15 novembre 1897. C'est un régiment qui est né en 1479 et est issu des "bandes de Picardie". Il a traversé toutes les époques en participant à toutes les campagnes qui ont fait la France.</p><p>En application de la décision ministérielle du 21 septembre 1898, il passe au <strong>1er Régiment d'Infanterie de Marine</strong> le 1er décembre 1898 et est immatriculé sous le n° A 7225. Le 16 septembre 1899, il devient soldat de 1e classe. Il ne s'agit pas d'un grade mais plutôt d'une distinction qui permettrait d'accéder ensuite au grade de caporal. Il est envoyé en congé en attendant son passage dans la réserve avec un certificat de bonne conduite accordé le 28 septembre 1900.</p>
@@ -165,7 +165,7 @@
         <figure>
             <a href="images/maubeuge-sept-1914.jpg" data-fancybox="gallery" data-caption="L'emplacement des forts de la place forte de Maubeuge en 1914">
             <img src="miniatures/maubeuge-sept-1914.jpg" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
-            <figcaption>L'emplacement des forts de la place forte de Maubeuge<br>et mouvement des troupes allemandes</figcaption>
+            <figcaption>L'emplacement des forts de la place forte de Maubeuge<br />et mouvement des troupes allemandes</figcaption>
         </figure>
 
         <div id="Crepy"></div>
@@ -177,7 +177,7 @@
         <figure>
             <a href="images/Ferrière-la-Petite-01.jpg" data-fancybox="gallery" data-caption="L'ouvrage de Ferrière-la-Petite">
             <img src="miniatures/Ferrière-la-Petite-01.jpg" alt="Les ruines de l'ouvrage de Ferrière-la-Petite"/></a>
-            <figcaption>Les ruines de l'ouvrage de Ferrière-la-Petite<br>(source: http://www.mapio.cz/)</figcaption>
+            <figcaption>Les ruines de l'ouvrage de Ferrière-la-Petite<br />(source: http://www.mapio.cz/)</figcaption>
         </figure>
 
         <h2>La chute de la place forte de Maubeuge</h2>
@@ -205,7 +205,7 @@
 
         <ul>
         <li><a href="http://archives.genealexis.fr/album/13-carlier-druon-joseph" title="version numérisée du dossier d'ancien combattant de Druon Joseph CARLIER">Le dossier d'ancien combattant de Druon Joseph CARLIER</a></li>
-        <li><a href="https://archive.org/details/19141918iedixneu01chriuoft">La Grande Guerre, vécue - racontée - illustrée par les combattants (tome 1)</a><br>(Publiée sous la Direction de Christian-Frogé, 1922)</li> 
+        <li><a href="https://archive.org/details/19141918iedixneu01chriuoft">La Grande Guerre, vécue - racontée - illustrée par les combattants (tome 1)</a><br />(Publiée sous la Direction de Christian-Frogé, 1922)</li> 
         <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
         <li><a href="../pdf/Maubeuge-1914-Duvivier.pdf" title="La Bataille de Maubeuge en septembre 1914">Maubeuge 1914</a> (Musée de l'Infanterie / Transcription intégrale par Martine Lecomte, 2014)</li>
         <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland</a> (source allemande)</li>

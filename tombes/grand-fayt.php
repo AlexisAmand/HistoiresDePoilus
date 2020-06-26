@@ -87,19 +87,19 @@
         <figure>
             <a href="images/grand-fayt-02.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts de Grand-Fayt (Nord)">
             <img src="images/mini/grand-fayt-02.jpg" alt="le Monument aux Morts de Grand-Fayt dans l'Avesnois"/></a>
-            <figcaption>Le monument aux morts de Grand-Fayt<br>(Source: Photo privée)</figcaption>
+            <figcaption>Le monument aux morts de Grand-Fayt<br />(Source: Photo privée)</figcaption>
         </figure>
 
 		<figure>
             <a href="images/grand-fayt-01.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts de Grand-Fayt (Nord)">
             <img src="images/mini/grand-fayt-01.jpg" alt="le Monument aux Morts de Grand-Fayt dans l'Avesnois"/></a>
-            <figcaption>Le monument aux morts de Grand-Fayt<br>(Source: Photo privée)</figcaption>
+            <figcaption>Le monument aux morts de Grand-Fayt<br />(Source: Photo privée)</figcaption>
         </figure>
         
         <figure>
             <a href="images/grand-fayt-03.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts de Grand-Fayt (Nord)">
             <img src="images/mini/grand-fayt-03.jpg" alt="le Monument aux Morts de Grand-Fayt dans l'Avesnois"/></a>
-            <figcaption>Le monument aux morts de Grand-Fayt<br>(Source: Photo privée)</figcaption>
+            <figcaption>Le monument aux morts de Grand-Fayt<br />(Source: Photo privée)</figcaption>
         </figure>
 
         </article>
