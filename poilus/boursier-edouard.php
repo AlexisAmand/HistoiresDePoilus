@@ -123,13 +123,7 @@
         <h1>Edouard BOURSIER</h1>
 
         <p><strong>Edouard BOURSIER</strong>, frère de <a href="BOURSIER-Jules.php" title="Biographie du poilu Jules BOUSIER">Jules Henri</a>, né le 10 avril 1882, dont je n'ai pas encore pu trouver la fiche matricule. En 1906, il est ajusteur et vit Rue De La Chevauchoire à Onnaing, avec son frère Jules et ses parents. Chose étrange, sur le recensement de 1906, son prénom est devenu Edmond. Etant âgé de 32 ans en 1914, je pense qu'il a du être mobilisé.</p>
-        
-        <figure>
-            <a href=" " data-fancybox="gallery" data-caption=" ">
-            <img src=" " alt=" "/></a>
-            <figcaption> <br>(source:  )</figcaption>
-        </figure>
-
+    
         <p style="text-align:right">A suivre...</p>
         
         <h2>Sources et bibliographie</h2>

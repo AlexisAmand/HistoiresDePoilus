@@ -99,8 +99,8 @@
         </figure>
 
         <figure>
-            <a href="images/jules-covin-sda-01.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="images/mini/jules-covin-sda-01.jpg" alt=" "/></a>
+            <a href="images/jules-covin-sda-01.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche SHD de Jules COVIN">
+            <img src="images/mini/jules-covin-sda-01.jpg" alt="Extrait de la fiche SHD de l'aviateur Jules COVIN"/></a>
             <figcaption>Extrait de sa fiche au SHD<br>(Source: Mémoire des Hommes)</figcaption>
         </figure>
 
