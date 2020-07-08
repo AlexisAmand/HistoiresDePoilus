@@ -104,17 +104,7 @@
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
     </ul>
 
-    <div id="pubaside">
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <!-- Poilus -->
-        <ins class="adsbygoogle"
-        style="display:inline-block;width:160px;height:600px"
-        data-ad-client="ca-pub-1550427609493753"
-        data-ad-slot="8236218848"></ins>
-        <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-    </div>
+    <?php include ('../include/pub.inc'); ?>
 
     </aside>
 
@@ -122,13 +112,22 @@
 
         <h1>Léon MASCART</h1>
 
-        <p><strong>Léon MASCART</strong> est né à Onnaing le 30 janvier 1874. Avant la guerre (1906), il est mineur à la Fosse de Cuvinot et vit "au Trié" à Onnaing avec son épouse Maire FINET. Frère de <a href="mascart-louis.php">Louis</a>, il est maintenu en sursis aux Mines d'Anzin à <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a>. Le 17 décembre 1914, par le bulletin n°63, il est mis en sursis aux mines de Bruay (Pas-de-Calais) où il est entré en fonction le 28 octobre de la même année. Il est rayé de la mine le 15 janvier 1919 et est envoyé en congés illimités le 12 février 1919. Il se retire à Onnaing, Rue de l'Eglise.</p>
-
+        <p><strong>Léon MASCART</strong> est né à Onnaing le 30 janvier 1874. Avant la guerre (1906), il est mineur à la Fosse de Cuvinot et vit "au Trié" à Onnaing avec Maire FINET...
+        
+        <?php /* TODO qu'il a épousé à XX le XX. enfants ? */ ?> 
+        
         <figure>
             <a href="miniatures/fosse_cuvinot_onnaing.jpg" data-fancybox="gallery" data-caption="La Fosse de Cuvinot à Onnaing">
             <img src="images/fosse_cuvinot_onnaing.jpg" width="450px" alt="La Fosse de Cuvinot à Onnaing sur une carte postale ancienne"/></a>
             <figcaption>La Fosse de Cuvinot<br />(source : Archives Municipales de Valenciennes)</figcaption>
         </figure>
+        
+        <?php /* TODO : acte de naissance de Léon */ ?>
+        
+        <p>Frère de <a href="mascart-louis.php">Louis</a>, il est maintenu en sursis aux Mines d'Anzin à <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a>. Le 17 décembre 1914, par le bulletin n°63, il est mis en sursis aux mines de Bruay (Pas-de-Calais) où il est entré en fonction le 28 octobre de la même année. Il est rayé de la mine le 15 janvier 1919 et est envoyé en congés illimités le 12 février 1919. Il se retire à Onnaing, Rue de l'Eglise.</p>
+
+		<?php /* TODO : photo des mines de bruay ? */ ?>
+		
         
         <h2>Sources et bibliographie</h2>
         

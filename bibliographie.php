@@ -117,7 +117,8 @@
             <li>Mémoire des hommes<br />(Editions Hachette / fiche "La Généalogie Facile")</li>
             <li>La recherche d'un officier, de la Révolution à nos jours<br />(Editions Hachette / fiche "La Généalogie Facile")</li>
             <li>La recherche d'un ancêtre aviateur<br />(Editions Hachette / fiche "La Généalogie Facile")</li>
-            <li>Un ancêtre militaire alsacien ou mosellan de 1871 à 1919<br />(Editions Hachette / fiche "La Généalogie Facile")</li>          
+            <li>Un ancêtre militaire alsacien ou mosellan de 1871 à 1919<br />(Editions Hachette / fiche "La Généalogie Facile")</li>    
+            <?php /* TODO : Tuto youtube issu du SVG qui explique comme trouver des infos */ ?>      
         </ul>
 
         <br /><br />

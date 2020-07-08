@@ -104,17 +104,7 @@
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
     </ul>
 
-    <div id="pubaside">
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <!-- Poilus -->
-        <ins class="adsbygoogle"
-        style="display:inline-block;width:160px;height:600px"
-        data-ad-client="ca-pub-1550427609493753"
-        data-ad-slot="8236218848"></ins>
-        <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-    </div>
+    <?php include ('../include/pub.inc'); ?>
 
     </aside>
 
@@ -123,6 +113,12 @@
     <h1>Jules Joseph LESAGE</h1>
 
     <p><strong>Jules Joseph LESAGE</strong> est né à Roeulx le 20 août 1887, fils légitimie de Joseph et de Hubertine BOITELET. Il est le beau-frère des <a href="CARIN-Edouard.php">frères CARIN</a>, dont j'ai déjà parlé sur ce site.</p>
+
+	<?php /* TODO : acte de naissance */ ?>
+	
+	<?php /* TODO : § sur sa situation en 1906 */ ?>
+	
+	<?php /* TODO : photo de sa rue en 1906 ou extrait du census */ ?>
 
     <table class="census">
         <caption>Liste des domiciles de Jules</caption>

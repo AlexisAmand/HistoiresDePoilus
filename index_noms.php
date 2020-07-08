@@ -109,7 +109,7 @@
                 <ul>
                     <li><a href="poilus/amand-hoche.php">AMAND Hoche</a></li>
                     <li><a href="poilus/amand-marceau.php">AMAND Marceau</a></li>
-                    <li><a href="poilus/CARIN-Théophile#Ardit">ARDIT (prénom inconnu)</li>
+                    <li><a href="poilus/CARIN-Théophile#Ardit">ARDIT (prénom inconnu)</a></li>
                     <li><a href="poilus/arnould-gaston.php">ARNOULD Gaston</a></li>
                     <li><a href="poilus/arnould-henri-rene.php">ARNOULD Henri René</a></li>
                     <li><a href="poilus/astiers-jules-alphonse.php">ASTIER(S) Jules Alphonse</a></li>
@@ -168,7 +168,7 @@
                     <li><a href="poilus/lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
                     <li><a href="poilus/LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
                     <li><a href="camps/camp-hammelburg.php#Charles_Lewine">LEWINE Charles</a></li>
-                    <li><a href="poilus/GRAIN-Leon-Albert#Littoye">LITTOYE (prénom inconnu)</li>
+                    <li><a href="poilus/GRAIN-Leon-Albert#Littoye">LITTOYE (prénom inconnu)</a></li>
                     <li><a href="poilus/magny-jules.php">MAGNY Jules</a></li>
                     <li><a href="poilus/MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
                     <li><a href="camps/camp-friedrichsfeld.php#Henri-Marliere">MARLIERE Henri</a></li>

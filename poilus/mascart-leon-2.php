@@ -69,7 +69,7 @@
         <li><a href="boucher-gervais.php">BOUCHER Gervais</a></li>
         <li><a href="boursier-edouard.php">BOURSIER Edouard</a></li>
         <li><a href="BOURSIER-Jules.php">BOURSIER Jules Henri</a></li>
-       <li><a href="carin-alfred.php">CARIN Alfred</a></li>
+        <li><a href="carin-alfred.php">CARIN Alfred</a></li>
         <li><a href="CARIN-Edouard.php">CARIN Édouard (+)</a></li>
         <li><a href="carin-jean-baptiste.php">CARIN Jean Baptiste</a></li>
         <li><a href="carin-joseph.php">CARIN Joseph</a></li>
@@ -104,24 +104,14 @@
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
     </ul>
 
-    <div id="pubaside">
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <!-- Poilus -->
-        <ins class="adsbygoogle"
-        style="display:inline-block;width:160px;height:600px"
-        data-ad-client="ca-pub-1550427609493753"
-        data-ad-slot="8236218848"></ins>
-        <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-    </div>
+    <?php include ('../include/pub.inc'); ?>
 
     </aside>
 
         <article>
 
         <h1>Léon MASCART</h1>
-
+        
         <ul>        
             <li>Né le 22 avril 1889 à Onnaing.</li>
             <li>Fils de Jules Jean Baptiste MASCART et d'Alcidie SEVREZ.</li>

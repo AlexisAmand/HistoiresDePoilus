@@ -59,17 +59,17 @@
 
     <figure>
       <img src="decret-1-juillet-1930-article-2-03.jpg" width="550px" alt="Article n°2 du décret concerant les conditions d'attribution de la carte d'ancien combattant."/>
-      <figcaption>(source: Gallica / Bibliothèque nationale de France)</figcatpion>
+      <figcaption>(source: Gallica / Bibliothèque nationale de France)</figcaption>
     </figure>
 
     <figure>
       <img src="decret-1-juillet-1930-article-2-01.jpg" width="550px" alt="Article n°2 du décret concerant les conditions d'attribution de la carte d'ancien combattant."/>
-      <figcaption>(source: Gallica / Bibliothèque nationale de France)</figcatpion>
+      <figcaption>(source: Gallica / Bibliothèque nationale de France)</figcaption>
     </figure>
 
     <figure>
       <img src="decret-1-juillet-1930-article-2-02.jpg" width="550px" alt="Article n°2 du décret concerant les conditions d'attribution de la carte d'ancien combattant."/>
-      <figcaption>(source: Gallica / Bibliothèque nationale de France)</figcatpion>
+      <figcaption>(source: Gallica / Bibliothèque nationale de France)</figcaption>
     </figure>
 
   </article>

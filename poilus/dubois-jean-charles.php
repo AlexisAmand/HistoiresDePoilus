@@ -104,17 +104,7 @@
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
     </ul>
 
-    <div id="pubaside">
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <!-- Poilus -->
-        <ins class="adsbygoogle"
-        style="display:inline-block;width:160px;height:600px"
-        data-ad-client="ca-pub-1550427609493753"
-        data-ad-slot="8236218848"></ins>
-        <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-    </div>
+    <?php include ('../include/pub.inc'); ?>
 
     </aside>
 
@@ -123,6 +113,10 @@
         <h1>Jean Charles DUBOIS</h1>
 
         <p><strong>Jean Charles DUBOIS</strong> est né le 8 février 1893 à Villers-Guislain (Nord), il est le frère d'<a href="DUBOIS-Emile-Edmond.php" title="Biographie d'Emile Edmond DUBOIS">Emile Edmond</a>. Inscrit sous le n°99 de la liste du canton de Marcoing, il est incorporé au 164e Régiment d'Infanterie le 27 novembre 1913 où il arrive le dit jour. Il est décédé d'une maladie contractée en service le 18 octobre 1914 à l'hôpital temporaire n°8 de Verdun (dans la Meuse). Son nom figure sur le Monument aux morts et dans le livre d'or de Villers-Guislain.</p>
+
+		<?php /* TODO : Extrait du livre d'or des mpf de Villers-Guislain */ ?>  
+
+		<?php /* TODO : Voir pour fiche mdh de meilleure qualité */ ?>  
 
         <figure>
             <a href="sources/dubois-jean-charles.jpg" data-fancybox="gallery" data-caption="Jean Charles DUBOIS, mort pour la France">

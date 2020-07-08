@@ -104,17 +104,7 @@
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
     </ul>
 
-    <div id="pubaside">
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <!-- Poilus -->
-        <ins class="adsbygoogle"
-        style="display:inline-block;width:160px;height:600px"
-        data-ad-client="ca-pub-1550427609493753"
-        data-ad-slot="8236218848"></ins>
-        <script>
-        adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-    </div>
+    <?php include ('../include/pub.inc'); ?>
 
     </aside>
 
@@ -124,20 +114,20 @@
 
 		<p>Jean Baptiste CARIN est né à Lourches (Nord) le 4 octobre 1880, fils légitime de François Louis CARIN et Pauline DUSSART, tout deux domiciliés à Lourches. Il a plusieurs frères et sœurs dont <a href="carin-alfred.php" title="Biographie du poilu Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" Title="Biographie du poilu Edouard CARIN">Edouard</a>, <a href="carin-joseph.php" title="Biographie du poilu Joseph CARIN">Joseph</a>, <a href="CARIN-Leon.php" title="Biographie du poilu Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du poilu Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
 		
-		+ ma parenté avec lui -> reprendre arbre de Léon CARIN
-		
 		<figure>
-            <a href="sources/carin-jb-naissance-1880.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="miniatures/carin-jb-naissance-1880.jpg" alt=" "/></a>
-            <figcaption>Acte de naissance de Jean Baptiste<br />(Source: Croix Rouge)</figcaption>
+            <a href="sources/carin-jb-naissance-1880.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Jean Baptiste CARIN">
+            <img src="miniatures/carin-jb-naissance-1880.jpg" alt="Acte de naissance de Jean Baptiste CARIN daté du 4 octobre 1880"/></a>
+            <figcaption>Acte de naissance de Jean Baptiste<br />(source: Archives Départementales du Nord)</figcaption>
         </figure>
         
         <p>Le 5 décembre 1904 à Roeulx (Nord), il épouse Anise MAUTET.</p>
         
-        + qq infos sur Anise : ses parents
-        + qq infos sur JB à ce moment là : profession 
+        <?php // TODO: Quelques précisions sur son mariage comme où il habite ou le nom de ses beaux parents ?>
+        <?php // TODO: Dans le même § quelques lignes sur sa situation pendant le census de 1906 ?>
 		
-		<p>Il semble y avoir un problème concernant les recherches sur le parcours de Jean Baptiste pendant la Première Guerre Mondiale. Sa fiche matricule indique qu’il est réformé pour déformation des pieds (1915) puis pour pleurite chronique (1916) et est donc mis en sursis d’appel aux mines de Vendin-les-Béthune. Pourtant, j’ai trouvé une fiche de la Croix Rouge. J’ai bien pensé à un homonyme, mais la dite fiche mentionne également ses frères Théophile, qui est présent en Afrique pendant la Grande Guerre, et Joseph, qui est prisonnier aux camps de <a href="../camps/camp-darmstadt.php" title="Le camp de prisonnier de Darmstadt">Darmstadt</a> et <a href="../camps/camp-schneidemuhl.php" title="Le camp de prisonnier de Schneidemühl">Schneidemühl.</p>
+		<?php // TODO: Pour illustrer, un extrait du rencement d'aprés les AD 59 ?>
+        		
+		<p>Il semble y avoir un problème concernant les recherches sur le parcours de Jean Baptiste CARIN pendant la Première Guerre Mondiale. Sa fiche matricule indique qu’il est réformé pour déformation des pieds (1915) puis pour pleurite chronique (1916) et est donc mis en sursis d’appel aux mines de Vendin-les-Béthune. Pourtant, j’ai trouvé une fiche de la Croix Rouge. J’ai bien pensé à un homonyme, mais la dite fiche mentionne également ses frères Théophile, qui est présent en Afrique pendant la Grande Guerre, et Joseph, qui est prisonnier aux camps de <a href="../camps/camp-darmstadt.php" title="Le camp de prisonnier de Darmstadt">Darmstadt</a> et <a href="../camps/camp-schneidemuhl.php" title="Le camp de prisonnier de Schneidemühl">Schneidemühl</a>.</p>
 		
 		<figure>
             <a href="sources/jb-carin-circ.jpg" data-fancybox="gallery" data-caption="Fiche de la Croix-Rouge de Jean-Baptiste CARIN">
@@ -145,7 +135,7 @@
             <figcaption>Fiche de la Croix-Rouge<br />(Source: Croix Rouge)</figcaption>
         </figure>
         
-        + extrait fiche matricule avec le parcours
+        <?php // TODO: extrait fiche matricule avec le parcours ?>
 
         <p style="text-align:right">A suivre...</p>
 		

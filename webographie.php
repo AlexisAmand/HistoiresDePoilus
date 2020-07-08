@@ -71,9 +71,7 @@
             Le dossier d'ancien combattant de Louis TIBURCE</a> (Archives Départementales du Nord)</li>
         </ul>
 
-        <br /><br />
-
-        <h2>Historique des bataillons de chasseurs</h2>
+        <h2 style="margin-top:30px">Historique des bataillons de chasseurs</h2>
 
         <ul>
             <li><a href="pdf/Historique-12-BC.pdf" title="Historique du 12e bataillon de chasseurs">
@@ -82,36 +80,28 @@
             Historique du 19e Bataillon de Chasseurs à Pied</a><br />(Gallica / Service historique de la Défense)</li>
         </ul>
 
-        <br /><br />
-
-        <h2>Historique des régiments de hussards</h2>
+        <h2 style="margin-top:30px">Historique des régiments de hussards</h2>
 
         <ul>
             <li><a href="pdf/Historique_2_Hussards_plaquette" title="Plaquette présentant l'historique du 2e régiment de hussards">
             Historique du 2e régiment de hussards</a><br />(source inconnue)</li>
         </ul>
 
-        <br /><br />
-
-        <h2>Historique de l'Armée d'Afrique</h2>
+        <h2 style="margin-top:30px">Historique de l'Armée d'Afrique</h2>
 
         <ul>
             <li><a href="http://gallica.bnf.fr/ark:/12148/bpt6k6342646q" title="Historique du 4e bataillon d'infanterie légère d'Afrique">
             Historique du 3e bataillon de marche et du 4e bataillon d'infanterie légère d'Afrique</a><br />(Gallica / Service historique de la Défense)</li>
         </ul>
 
-        <br /><br />
-
-        <h2>Historiques des régiments d'artillerie</h2>
+        <h2 style="margin-top:30px">Historiques des régiments d'artillerie</h2>
 
         <ul>
             <li><a href="pdf/53eRA.pdf" title="Historique des 53e et 253e Régiments d'Artillerie">
             Historique des 53e et 253e Régiments d'Artillerie</a><br />(Anonyme, de Bussac, 1923) numérisé par Jean-François Joly</li>
         </ul>
 
-        <br /><br />
-
-        <h2>Historiques des régiments d'infanterie</h2>
+        <h2 style="margin-top:30px">Historiques des régiments d'infanterie</h2>
 
         <ul>
             <li>Historique du 33e Régiment d'Infanterie<br />(anonyme, Imprimerie J. Dumoulin, Paris, 1920 / Numérisé par Daniel Crozat)</li>
@@ -121,9 +111,7 @@
             <li><a href="pdf/Historique-164-RI.pdf" title="Historique du 164e Régiment d'Infanterie">Historique du 164e Régiment d'Infanterie</a><br />(BDIC / Numérisé par Ancestramil)</li>
         </ul>
 
-        <br /><br />
-
-        <h2>Historiques des régiments d'infanterie territoriale</h2>
+        <h2 style="margin-top:30px">Historiques des régiments d'infanterie territoriale</h2>
 
         <ul>
             <li><a href="pdf/historique_du_2e_RIT.pdf" title="Historique du 2e Régiment d'Infanterie Territoriale">Historique du 2e Régiment d'Infanterie Territoriale</a><br />(Historique numérisé par Paul Chagnoux en 2006)</li>
@@ -131,26 +119,20 @@
             <li><a href="pdf/3eRIT.pdf" title="Historique du 3e Régiment d'Infanterie Territoriale">Historique du 3e Régiment d'Infanterie Territoriale</a><br />(Version retranscrite)</li>
         </ul>
 
-        <br /><br />
-
-        <h2>Historiques des régiments d'artillerie de campagne</h2>
+        <h2 style="margin-top:30px">Historiques des régiments d'artillerie de campagne</h2>
 
         <ul>
             <li><a href="pdf/Historique-15-RAC.pdf" title="Historique du 15e Régiment d'Artillerie de Campagne">Historique du 15e Régiment d'Artillerie de Campagne</a><br />(Gallica / Service historique de la Défense)</li>
         </ul>
 
-        <br /><br />
-
-        <h2>Les As de la Grande Guerre (aviation)</h2>
+        <h2 style="margin-top:30px">Les As de la Grande Guerre (aviation)</h2>
 
         <ul>
             <li><a href="http://www.as14-18.net/Covin">As français de la Grande Guerre</a></li>
             <li><a href="http://www.theaerodrome.com/aces/index.php">The Aces of World War I</a></li>
         </ul>
 
-        <br /><br />
-
-        <h2>Vie quotidienne des soldats</h2>
+        <h2 style="margin-top:30px">Vie quotidienne des soldats</h2>
 
         <ul>
             <li><a href="pdf/souffrances_prisonniers_guerre_1914_1918.pdf" title="Les souffrances des prisonniers de guerre en 1914-1918 par Jean-Jules Dufour">
@@ -170,9 +152,7 @@
             <li><a href="pdf/globe-58-1919.pdf">La distribution géographique des prisonniers de guerre pendant le conflit mondial de 1914-1919</a><br />(Le Globe, Revue genevoise de géographie, tome 58 (1919))</li>
         </ul>
 
-        <br /><br />
-
-        <h2>Ouvrages sur la Grande Guerre</h2>
+        <h2 style="margin-top:30px">Ouvrages sur la Grande Guerre</h2>
 
         <ul>
             <li><a href="pdf/hanotaux-tome 03.pdf" title="Histoire illustrée de la guerre de 1914 par Gabriel Hanoteaux">Histoire illustrée de la guerre de 1914 (tome 3)</a><br />(Gabriel Hanotaux de l'Académie Française, 1916)</li>
@@ -184,43 +164,33 @@
             <li><a href="https://archive.org/details/19141918iedixneu02chriuoft">La Grande Guerre, vécue - racontée - illustrée par les combattants (tome 2)</a><br />(Publiée sous la Direction de Christian-Frogé, 1922)</li>
         </ul>
 
-        <br /><br />
-        
-        <h2>Les douanes et les douaniers</h2>
+        <h2 style="margin-top:30px">Les douanes et les douaniers</h2>
 
         <ul>
             <li><a href="http://histoire-de-la-douane.org" title="Site de l'Association pour l’Histoire de l’Administration des Douanes">Histoire de la douane</a><br />(Association pour l’Histoire de l’Administration des Douanes)</li>
             <li><a href="http://books.openedition.org/igpde/4474?lang=fr" title="Administration des douanes par Jean Clinquart">L'Administration des douanes en France de 1914 à 1940</a><br />(Par Jean Clinquart)</li>
         </ul>
 
-        <br /><br />
-
-        <h2>Presse&nbsp; ancienne</h2>
+        <h2 style="margin-top:30px">Presse&nbsp; ancienne</h2>
 
         <ul>
             <li><a href="http://gallica.bnf.fr/ark:/12148/cb32732967q/date" title="Bulletin Religieux de l'Archidiocèse de Rouen">Bulletin Religieux de l'Archidiocèse de Rouen</a><br />(Gallica / Bibliothèque nationale de France)</li>
             <li><a href="http://gallica.bnf.fr/ark:/12148/cb32826480g/date" title="Nouvelles de France : chronique hebdomadaire de la presse française">Nouvelles de France : chronique hebdomadaire de la presse française </a> <br />(Gallica / Bibliothèque nationale de France)</li>
         </ul>
 
-        <br /><br />
-
-        <h2>Doctorats et thèses</h2>
+        <h2 style="margin-top:30px">Doctorats et thèses</h2>
 
         <ul>
             <li>Prisonnier pendant la Grande Guerre, la captivité de guerre en Allemagne, 1914–1921<br />(thèse rédigée par Uta Hinz sous la direction de Gerd Krumeich et soutenue par elle à l'université de Fribourg en 2000)</li>
         </ul>
 
-        <br /><br />
-
-        <h2>Notices Biographiques</h2>
+        <h2 style="margin-top:30px">Notices Biographiques</h2>
 
         <ul>
             <li><a href="http://agfh59.free.fr/memorial_14_18/agfh_1418_hommes.htm" title="Notices généalogiques de l'AGFH">Notices biographiques réalisées par l'AGFH</a></li>
         </ul>
 
-        <br /><br />
-
-        <h2>Documents officiels</h2>
+        <h2 style="margin-top:30px">Documents officiels</h2>
 
         <ul>
             <li><a href="pdf/jorf-03-07-1930.pdf" title="JO n°156 du 3 juillet 1930">Journal Officiel de la République française n°156 du 3 juillet 1930</a><br />(Gallica / Bibliothèque nationale de France)<br />Attention, le document fait presque 78 Mo, il peut mettre du temps à se télécharger...</li>
@@ -230,17 +200,13 @@
             <li><a href="pdf/convention-1907.pdf" title="texte de la Convention de la Haye de 1907">Convention de La Haye, 18 octobre 1907</a></li>
         </ul>
 
-        <br /><br />
-
-        <h2>Recherches en Australie</h2>
+        <h2 style="margin-top:30px">Recherches en Australie</h2>
 
         <ul>
             <li><a href="https://www.qld.gov.au/recreation/arts/heritage/archives">Archives du Queensland, Australie</a></li>
         </ul>
 
-        <br /><br />
-
-        <h2>Recherches en Belgique</h2>
+        <h2 style="margin-top:30px">Recherches en Belgique</h2>
 
         <ul>
             <li>Livre d'Or des universitaires liégeois (Imprimerie H. Vaillant-Carmanne, Liège, 1923)</li>
@@ -251,18 +217,17 @@
             <li><a href="http://monumentsmorts.univ-lille3.fr/" title="Les monuments aux morts de France et Belgique">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
         </ul>
 
-        <br /><br />
-
-        <h2>Recherches dans l'Empire Britannique</h2>
+        <h2 style="margin-top:30px">Recherches dans l'Empire Britannique</h2>
 
         <ul>
             <li><a href="https://astreetnearyou.org/">A Street Near You</a> (Localisation de tombes et de cimetières du commonwealth, contient de nombreuses photos de soldats)</li>
+        </ul>
 
-        <br /><br />
-
-        <h2>Recherches en France</h2>
+        <h2 style="margin-top:30px">Recherches en France</h2>
 
         <ul>
+        	<li><a href="https://arbre.app/insee/">Fichier des décès de l'INSEE</a><br /><br /></li>
+        
             <li><a href="http://archives.cg08.fr" title="Archives départementales des Ardennes">Archives Départementales des Ardennes</a></li>
             <li><a href="https://archives.cotedor.fr" title="Archives départemental de la Côte-d'Or">Archives Départementales de la Côte-d'Or</a></li>
             <li><a href="http://archives.marne.fr" title="Archives départementales de la Marne">Archives Départementales de la Marne</a></li>
@@ -284,35 +249,27 @@
             <li><a href="http://monumentsmorts.univ-lille3.fr" title="Les monuments aux morts de France et Belgique">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
         </ul>
 
-        <br /><br />
-
-        <h2>Recherches au Portugal</h2>
+        <h2 style="margin-top:30px">Recherches au Portugal</h2>
 
         <ul>
-            <li><a href="https://cep100ansapres.monsite-orange.fr/" title="Le Corps Expéditionnaire Portugais pendant la Première Guerre Mondiale">Les morts du CEP, Corps Expéditionnaire Portugais, en Europe.</li>
+            <li><a href="https://cep100ansapres.monsite-orange.fr/" title="Le Corps Expéditionnaire Portugais pendant la Première Guerre Mondiale">Les morts du CEP, Corps Expéditionnaire Portugais, en Europe.</a></li>
         </ul>
 
-        <br /><br />
-
-        <h2>Les villes pendant la Grande Guerre</h2>
+        <h2 style="margin-top:30px">Les villes pendant la Grande Guerre</h2>
     
         <ul>
             <li><a href="pdf/vdh_orleans-grande-guerre.pdf">Orléans pendant la Grande Guerre (Ville d'Orléans)</a></li>
             <li><a href="pdf/Maubeuge-1914-Duvivier.pdf" title="Histoire de Maubeuge en 1914 par Jules DUVUVIER">Maubeuge 1914 (Par Jules DUVUVIER)</a></li>
         </ul>
 
-        <br /><br />
-
-        <h2>Musées</h2>
+        <h2 style="margin-top:30px">Musées</h2>
                
         <ul>
             <li><a href="https://museedelacartepostale.fr">Musée de la Carte Postale d'Antibes</a></li>
             <li><a href="https://www.iwm.org.uk/">Imperial War Museum</a></li>
         </ul>  
         
-        <br /><br />
-
-        <h2>Livres d'or</h2>
+        <h2 style="margin-top:30px">Livres d'or</h2>
                
         <ul>
             <li><a href="https://fr.calameo.com/books/0005835971cebca939211">Institution La Malgrange : Livre d'Or de la Grande Guerre (1° partie)</a></li>

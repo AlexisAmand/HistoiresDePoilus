@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="fr">
 
-    <head>
+	<head>
 
         <meta charset="utf-8">
 
         <title>Le monument aux morts de Maroilles - Histoires de Poilus</title>
-        <meta content="Les monuments aux morts pour la France pendant les Grandes Situés à Maroilles, dans le Nord" name="description">
+        <meta content="Les monuments aux morts pour la France pendant les guerres mondiales situés à Maroilles, dans le Nord" name="description">
 
         <link rel="stylesheet" href="../css/style.css" media="screen">
         <link rel="stylesheet" href="../css/resp.css" media="screen">
@@ -66,17 +66,7 @@
           <li><a href="valenciennes.php">Valenciennes</a></li>  
     </ul>
 
-    <div id="pubaside">
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <!-- Poilus -->
-        <ins class="adsbygoogle"
-        style="display:inline-block;width:160px;height:600px"
-        data-ad-client="ca-pub-1550427609493753"
-        data-ad-slot="8236218848"></ins>
-        <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-    </div>
+    <?php include ('../include/pub.inc'); ?>
 
     </aside>
 

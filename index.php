@@ -4,9 +4,10 @@
     <head>
 
         <meta charset="utf-8">
+        
         <title>Histoires de Poilus</title>
-
         <meta content="Biographies de poilus qui ont participé à la Première Guerre Mondiale de 1914 à 1918. Divers relevés de morts pour la France. Présentation de divers camps de prisonniers allemands." name="description">
+
         <meta name="google-site-verification" content="NrJvg2SL3r8GToGISpF-SJatGnKIvS5mekxb-2uTef4" />
 
         <link rel="stylesheet" href="css/style.css">

@@ -104,17 +104,7 @@
         <li><a href="VELU-Adrien.php">VELU Adrien (+)</a></li>
     </ul>
 
-    <div id="pubaside">
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <!-- Poilus -->
-        <ins class="adsbygoogle"
-        style="display:inline-block;width:160px;height:600px"
-        data-ad-client="ca-pub-1550427609493753"
-        data-ad-slot="8236218848"></ins>
-        <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-    </div>
+   <?php include ('../include/pub.inc'); ?>
 
     </aside>
 
@@ -122,23 +112,42 @@
 
         <h1>Jules MAGNY</h1>
 
-        <p><strong>Jules MAGNY</strong>, né le 18 août 1892 à Onnaing (Nord). Le 6 septembre 1916, soldat mitrailleur, il a,  par son calme et la précision de son tir, entravé une tentative de contre attaque allemande. Nommé caporal le 5 décembre 1917, il est ensuite prisonnier de guerre du 31 mai au 14 décembre 1918. Il était titulaire plusieurs médailles:</p>
-
-        <ul>
-            <li>La croix de guerre avec étoile de bronze qui indique une ciation à l'ordre de l'armée.</li>
-            <li>la médaille commémorative de la Grande Guerre est une médaille qui a été créée par la loi du 23 juin 1920 et dont les catégories possibles de postulants sont reprises par une instruction du 20 janvier 21. Elle était, par exemple, attribuée aux militaires présents sous les drapeaux entre le 2 août 1914 et le 11 novembre 1918. Elle est parfois appelée "la médaille des poilus" en allusion au surnom donné aux soldats de la Première Guerre Mondiale.</li>
-            <li>la médaille interalliée.</li>
-        </ul>
-
+        <p><strong>Jules MAGNY</strong>, né le 18 août 1892 à Onnaing (Nord), il est le fils légitime de Jules MAGNY et Adna Marie HERAT.</p>
+        
+        <figure>
+            <a href="sources/magny-jules-1892.jpg" data-fancybox="gallery" data-caption=" ">
+            <img src="miniatures/magny-jules-1892.jpg" alt=" "/></a>
+            <figcaption>Acte de naissance de Jules MAGNY<br />(source: Archives Départementales du Nord)</figcaption>
+        </figure>
+        
+        <?php // TODO : un texte extrait du recensement de 1906 avec son adresse et les gens avec lesquels il vit ?>
+        
+		<?php // TODO : une cpa de son lieu de naissance ?>
+		
+		<?php // TODO : refaire le § sur les médailles ?>
+        
+        <p>Le 6 septembre 1916, soldat mitrailleur, il a,  par son calme et la précision de son tir, entravé une tentative de contre attaque allemande. Nommé caporal le 5 décembre 1917, il est ensuite prisonnier de guerre du 31 mai au 14 décembre 1918. Il était titulaire plusieurs médailles: <br />
+        - La croix de guerre avec étoile de bronze qui indique une citation à l'ordre de l'armée<br />
+        - La médaille commémorative de la Grande Guerre, qui est une médaille qui a été créée par la loi du 23 juin 1920 et dont les catégories possibles de postulants sont reprises par une instruction du 20 janvier 21. Elle était, par exemple, attribuée aux militaires présents sous les drapeaux entre le 2 août 1914 et le 11 novembre 1918. Elle est parfois appelée "la médaille des poilus" en allusion au surnom donné aux soldats de la Première Guerre Mondiale.<br />
+        - La médaille interalliée.</p>
+                       
+        <?php // TODO: Extrait de sa fiche matricle ?>
+        
+        <?php //  TODO : quelques lignes sur son mariage avec la date et le lieu ?>
+        
+        <?php //  TODO : une CPA de la mairie d'Onnaing : voir date... la mairie a peut-être changé ?>
+        
         <br />
 
-        <p>Abel, le frère de Jules MAGNY, épouse la fille de <a href="JOLY-Noel-Jules.php" title="biographie de Noël Jules JOLY">Noël Jules JOLY</a>.</p>
+        <p>Abel, le frère de Jules MAGNY, épouse la fille de <a href="JOLY-Noel-Jules.php" title="biographie de Noël Jules JOLY">Noël Jules JOLY</a>.<br />
+		Il est décédé à Le Quesnoy le 12 février 1984.</p>
         
         <h2>Sources et bibliographie</h2>
         
         <ul>
 	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
 	        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
+	        <li><a href="https://arbre.app/insee/">Fichier des décès de l'INSEE</a></li>
         </ul>
 
         <p style="text-align:right">A suivre...</p>
