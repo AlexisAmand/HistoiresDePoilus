@@ -112,7 +112,7 @@
 
 		<h1>Joseph CARIN</h1>
 
-		<p>Joseph CARIN est né à Lourches, près de Valenciennes, le 11 juillet 1894, fils légitime de François Louis et Pauline DUSSART. Joseph est issu d’une famille nombreuse (11 enfants, l’aîné et le cadet ayant 23 ans de différence) mais en 1906, seuls 8 vivent encore avec leurs mère à Lourches (rue de Beauvois), leur père étant décédé en 1899.</p> 
+		<p>Joseph CARIN est né à Lourches, près de Valenciennes, le 14 juillet 1894, fils légitime de François Louis et Pauline DUSSART. Joseph est issu d’une famille nombreuse (11 enfants, l’aîné et le cadet ayant 23 ans de différence) mais en 1906, seuls 8 vivent encore avec leurs mère à Lourches (rue de Beauvois), leur père étant décédé en 1899.</p> 
 
 		<p>Pour faire simple, Joseph est le beau-frère de mon arrière-arrière-grand-mère.</p>
 

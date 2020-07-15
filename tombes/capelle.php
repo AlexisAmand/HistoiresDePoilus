@@ -64,6 +64,7 @@
       <li><a href="fontaine-au-bois.php">Fontaine-au-bois</a></li>
       <li><a href="grand-fayt.php">Grand-Fayt</a></li>
       <li><a href="maroilles.php">Maroilles</a></li>
+      <li><a href="rieulay.php">Rieulay</a></li>
       <li><a href="saint-saulve.php">Saint-Saulve</a></li>
       <li><a href="valenciennes.php">Valenciennes</a></li>  
  	</ul>

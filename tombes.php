@@ -62,7 +62,8 @@
 	      <li><a href="tombes/capelle.php">Capelle-sur-Ecaillon</a></li>
           <li><a href="tombes/fontaine-au-bois.php">Fontaine-au-bois</a></li>
 	      <li><a href="tombes/grand-fayt.php">Grand-Fayt</a></li>
-	      <li><a href="tombes/maroilles.php">Maroilles</a></li>
+          <li><a href="tombes/maroilles.php">Maroilles</a></li>
+          <li><a href="tombes/rieulay.php">Rieulay</a></li>
           <li><a href="tombes/saint-saulve.php">Saint-Saulve</a></li>
           <li><a href="tombes/valenciennes.php">Valenciennes</a></li>  
     </ul>
