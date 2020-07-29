@@ -5,12 +5,12 @@
 
         <meta charset="utf-8">
 
-        <title>Biographie et parcours du soldat Raoul QUINTIN - Histoires de Poilus</title>
-        <meta content="Parcours et biographie du Jass Raoul QUINTIN, soldat belge pendant la Première Guerre Mondiale" name="description"/>
+        <title>Biographie et parcours du soldat Onésime LACOURT  - Histoires de Poilus</title>
+        <meta content="Parcours et biographie du poilu Onésime LACOURT , soldat français pendant la Première Guerre Mondiale" name="description"/>
 
         <link rel="stylesheet" href="../css/style.css">
         <link rel="stylesheet" href="../css/resp.css">
-        <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
+        <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">  
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
         <link rel="icon" type="image/png" href="../images/favicon.png"/>
@@ -57,10 +57,8 @@
     <aside>
 
     <ul>
-        <li class="asideheader">Belgique</li>
-        <li><a href="amand-jules.php">AMAND Jules (+)</a></li>
-        <li><a href="amand-octave.php">AMAND Octave (+)</a></li>
-        <li><a href="quintin-raoul.php"  class="AsideSelected">QUINTIN Raoul (+)</a></li>
+        <li class="asideheader">Ardennes</li>
+        <li><a href="lacourt-onesime.php" class="NavSelected">LACOURT Onésime</a></li>
     </ul>
 
     <?php include ('../include/pub.inc'); ?>
@@ -69,11 +67,18 @@
 
         <article>
 
-        <h1>Raoul QUINTIN</h1>
+        <h1>Onésime LACOURT</h1>
 
-        <p>Né le 19 octobre 1890 à Condé-sur-l'Escaut (Nord) mais déclaré à Bernissart, <strong>Raoul Charles Jules QUINTIN</strong> fait partie de l'Armée Belge. Il porte le numéro de matricule 101/57096 et est mort pour sa patrie le 26 août 1914. La parenté reste à confirmer. (source: <a href="https://www.wardeadregister.be/fr">Dead War Register</a>) 
-
-        <?php /* TODO : trouver un truc pour illustrer */ ?>
+        <p>Onésime Marcel LACOURT a le matricule n°1544 du bureau de mézière pour la classe 1909.</p>
+        
+        <p>A la mobilisation, il rejoint le 30e Régiment de Dragons avant de rejoindre le 5e Régiment de Cuirassiers en 1917. Plusieurs fois blessé, il est cité à l'ordre du régiment en 1919.</p>
+        
+       	<h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="http://archives.cg08.fr" title="Site officiel des Archives départementales des Ardennes">Archives Départementales des Ardennes</a></li>
+        </ul>
         
         </article>
 

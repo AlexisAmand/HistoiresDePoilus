@@ -84,8 +84,6 @@
 
             </div> 
 
-             
-
         </article>
 
     </section>

@@ -7,7 +7,7 @@
 
         <title>Les soldats de la Grande Guerre - Histoires de Poilus</title>
 
-        <meta content=" " name="description">
+        <meta content="Liste alphabétique soldats des mentionnés sur le site Histoire de Poilus" name="description">
 
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/resp.css">
@@ -52,6 +52,7 @@
     </nav>
 
     <div id="navbis">
+    	<a href="poilus/lacourt-onemise.php">Les poilus des Ardennes</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="poilus/amand-hoche.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="poilus/arnould-gaston.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="poilus/FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -161,6 +162,7 @@
                     <li><a href="camps/camp-darmstadt.php#Louis_Guinet">GUINET Louis</a></li> 
                     <li><a href="poilus/hanze-augustin.php">HANZE Augustin</a></li>
                     <li><a href="poilus/JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
+                    <li><a href="poilus/lacourt-onesime.php">LACOURT Onésime Marcel</a></li>
                     <li><a href="poilus/JOLY-Noel-Jules.php#Lafeuille">LAFEUILLE (prénom inconnu)</a></li>
                     <li><a href="poilus/lamandin-georges.php">LAMANDIN Georges</a></li>
                     <li><a href="tombes/saint-saulve.php#Xavier-Lecerf">LECERF Xavier</a></li>
