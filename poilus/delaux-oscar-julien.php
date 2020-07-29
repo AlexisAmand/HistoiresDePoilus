@@ -115,8 +115,8 @@
         <p><strong>Oscar Julien DELAUX</strong> est né à Roubaix le 13 novembre 1894 au domicile de ses parents situé Rue de Maubeuge. Il est le fils légitime d'Adolphe DELAUX et Joséphine RICHOMME (mes aïeux), le frére de mon arrière-arrière-grand-mère Nathalie DELAUX, et le beau frère de <a href="FIEVET-Charles-Augustin.php" title="Biographie du soldat Charles Augustin FIEVET">Charles Augustin FIEVET</a> et <a href="FIEVET-Auguste-Victor.php" title="Biographie du soldat Auguste Victor FIEVET">Auguste Victor FIEVET</a>.</p>
         
         <figure>
-            <a href="sources/delaux-oscar-1894.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="miniatures/delaux-oscar-1894.jpg" alt=" "/></a>
+            <a href="sources/delaux-oscar-1894.jpg" data-fancybox="gallery" data-caption="Acte de naissance d'Oscar DELAUX (1894)">
+            <img src="miniatures/delaux-oscar-1894.jpg" alt="Acte de naissance d'Oscar DELAUX, né à Roubaix en 1894"/></a>
             <figcaption>Acte de naissance d'Oscar DELAUX<br />(Source: Archives Départementales du Nord)</figcaption>
         </figure>
         

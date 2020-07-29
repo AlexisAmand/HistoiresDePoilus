@@ -188,7 +188,7 @@
         </figure>
 
         <figure>
-            <a href="images/Friedrichsfeld/Marliere-Henri.jpg" data-fancybox="gallery" data-caption="La médaille des évadés du sergent Henri Marlière">
+)            <a href="images/Friedrichsfeld/Marliere-Henri.jpg" data-fancybox="gallery" data-caption="La médaille des évadés du sergent Henri Marlière">
             <img src="miniatures/Friedrichsfeld/Marliere-Henri.jpg" alt="Médaille des évadés ayant appartenue au prisonnier Henri Marlière"></a>
             <figcaption>La médaille des évadés<br />(source: Mr D.)</figcaption>
         </figure>
@@ -226,7 +226,7 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li>http://gallicalabs.bnf.fr/ark:/12148/bpt6k65295400</li>
+            <li><a href="http://gallicalabs.bnf.fr/ark:/12148/bpt6k65295400">Le Sort des prisonniers français en Allemagne (1916)</a></li>
             <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
             <li><a href="../pdf/book02.pdf">Le traitement des prisonniers français en Allemagne</a> (J. De Christmas, 1917)</li>
             <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>

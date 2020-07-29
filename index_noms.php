@@ -64,7 +64,7 @@
 
             <h1>Index des noms de soldats cités</h1>
 
-            <p>Vous trouverez sur cette page la liste de tous les soldats mentionnés sur le site. Il peut s'agir d'une biographie détaillée, sur un document ou même d'une mention sur une tombe. Les individus sont classés par pays, puis par ordre alphabétique sur le nom de famille. Je vous souhaite de bonnes recherches !</p>
+            <p>Vous trouverez sur cette page la liste de tous les soldats mentionnés sur le site. Il peut s'agir d'une biographie détaillée, d'un document ou même d'une mention sur une tombe. Les individus sont classés par pays, puis par ordre alphabétique sur le nom de famille. Je vous souhaite de bonnes recherches !</p>
 
             <div id="colindex">
 

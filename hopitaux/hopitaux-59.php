@@ -55,6 +55,10 @@
 			<figcaption>L'Hôpital de Denain<br />(Source: Archives Municipales de Valenciennes)</figcaption>
 		</figure>
 
+		<h3>Les hôpitaux de Lourches</h3>
+
+		<p>L'école voltaire de Lourches fut transformée en hôpital militaire, équipé de trois blocs opératoires. Les blessés et malades transportables étaient évacués vers Valenciennes par le tramway, à l'époque à vapeur, transformé en train sanitaire.</p>
+
 		<h3>Les hôpitaux de Roubaix</h3>
 
 		<figure>
@@ -86,6 +90,15 @@
 				<img src="miniatures/valenciennes-ha-2.jpg" alt="L'hôpitaux auxiliaires n°2 bis de Valenciennes situé au lycée de jeunes filles"></a>
 				<figcaption>Le lycée de jeunes filles où sera installé<br />l'hôpital auxiliaire n°2 bis<br />(Source: Archives Municipales de Valenciennes)</figcaption>
 			</figure>
+
+		<h3>Sources et bibliographie</h3>
+
+		<ul>
+			<li><a href="http://patrimoine-numerique.ville-valenciennes.fr" title="Site officiel des Archives Municipales de Valenciennes">
+            Archives Municipales de Valenciennes</a></li>
+			<li><a href="http://www.bn-r.fr">Médiathèque de Roubaix</a>
+			<li>Quelques mots sur l'histoire de la ville de Lourches (R. LESAFFRE, 1964)</li>
+		</ul>
 		 
 	</article>
 	

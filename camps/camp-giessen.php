@@ -145,7 +145,7 @@
         <figure>
             <a href="images/Giessen/giessen-05.jpg" data-fancybox="gallery"  title="Le camp de Giessen">
             <img src="miniatures/Giessen/giessen-05.jpg" alt="Vue du camp de prisonniers de Giessen pendant la Première Guerre Mondiale"></a>
-            <figcaption>Vue du camp de Giessen<br />Carte postale)</figcaption>
+            <figcaption>Vue du camp de Giessen<br />(Source : Delcampe)</figcaption>
         </figure>
 
         <p>Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php">Wetzlar</a> arrivent au camp de Giessen.</p>

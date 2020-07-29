@@ -128,8 +128,8 @@
         <h2 style="margin-top:30px">Les As de la Grande Guerre (aviation)</h2>
 
         <ul>
-            <li><a href="http://www.as14-18.net/Covin">As français de la Grande Guerre</a></li>
-            <li><a href="http://www.theaerodrome.com/aces/index.php">The Aces of World War I</a></li>
+            <li><a href="http://www.as14-18.net" title="Site sur les As français de la Première Guerre Mondiale">As français de la Grande Guerre</a></li>
+            <li><a href="http://www.theaerodrome.com/aces/index.php" title="Site canadien sur les as de la Première Guerre Mondiale">The Aces of World War I</a></li>
         </ul>
 
         <h2 style="margin-top:30px">Vie quotidienne des soldats</h2>
@@ -137,10 +137,12 @@
         <ul>
             <li><a href="pdf/souffrances_prisonniers_guerre_1914_1918.pdf" title="Les souffrances des prisonniers de guerre en 1914-1918 par Jean-Jules Dufour">
             Les souffrances des prisonniers de guerre en 1914-1918</a><br />(Par Jean-Jules Dufour)</li>
+            <a href="http://gallicalabs.bnf.fr/ark:/12148/bpt6k65295400" title="Monographie sur le sort des prisonniers de guerre écrite en 1916">
+            Le Sort des prisonniers français en Allemagne (1916)</a>
             <li><a href="pdf/fiche-objet-uniformes-14-18.pdf" title="L'uniforme française au début de la Première Guerre Mondiale">
             L'uniforme du fantassin français en 1914 et 1915</a><br />(Musée de l'Armée - Hôtel des Invalides)</li>
             <li><a href="https://amzn.to/2vNzdh1" title="L'uniforme et les armes des soldats de la guerre de 1914-1918 écrit Liliane et Fred Funcken">
-            L'uniforme et les armes des soldats de la guerre de 1914-1918</a><br />(Editions Casterman / Liliane et Fred Funcken)</li>
+            L'uniforme et les armes des soldats de la guerre de 1914-1918</a><br />(Editions Casterman / Liliane et Fred Funcken)</li>
             <li><a href="pdf/letraitementdesp00chriuoft.pdf" title="Le traitement des prisonniers français en Allemagne par Dr. de Christmas">
             Le traitement des prisonniers français en Allemagne</a><br />(Librairie Chapelot / Dr. de Christmas)</li>
             <li><a href="pdf/FoXIIa1133_qt.pdf" title="Die Kriegsgefangenen in Deutschland écrit par Hermann Montanus en 1915">
@@ -148,7 +150,8 @@
             <li><a href="pdf/aus-deutschen-kriegsgefangenenlagern.pdf" title="Aus deutschen Kriegsgefangenenlagern écrit par la Deutsches Rotes Kreuz">
             Aus deutschen Kriegsgefangenenlagern</a><br />(Deutsches Rotes Kreuz)</li>
             <li><a href="https://catalogue.bnf.fr/ark:/12148/cb32724205h">Bulletin de la Société de secours aux blessés militaires</a></li>
-            <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k755527">La Vie à la caserne au point de vue social</a> (par le Lieutenant Guennebaud)</li>
+            <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k755527" title="La vie à la caserne décrite par le Lieutenant Guennebaud">
+            La Vie à la caserne au point de vue social</a> (par le Lieutenant Guennebaud)</li>
             <li><a href="pdf/globe-58-1919.pdf">La distribution géographique des prisonniers de guerre pendant le conflit mondial de 1914-1919</a><br />(Le Globe, Revue genevoise de géographie, tome 58 (1919))</li>
         </ul>
 
@@ -228,14 +231,19 @@
         <ul>
         	<li><a href="https://arbre.app/insee/">Fichier des décès de l'INSEE</a><br /><br /></li>
         
-            <li><a href="http://archives.cg08.fr" title="Archives départementales des Ardennes">Archives Départementales des Ardennes</a></li>
-            <li><a href="https://archives.cotedor.fr" title="Archives départemental de la Côte-d'Or">Archives Départementales de la Côte-d'Or</a></li>
-            <li><a href="http://archives.marne.fr" title="Archives départementales de la Marne">Archives Départementales de la Marne</a></li>
-            <li><a href="http://archivesdepartementales.lenord.fr" title="Archives départementales du Nord">Archives Départementales du Nord</a><br /><br /></li>
+            <li><a href="http://archives.cg08.fr" title="Site officiel des Archives départementales des Ardennes">Archives Départementales des Ardennes</a></li>
+            <li><a href="https://archives.cotedor.fr" title="Site officiel des Archives départemental de la Côte-d'Or">Archives Départementales de la Côte-d'Or</a></li>
+            <li><a href="http://archives.marne.fr" title="Site officiel des Archives départementales de la Marne">Archives Départementales de la Marne</a></li>
+            <li><a href="http://archivesdepartementales.lenord.fr" title="Site officiel des Archives départementales du Nord">Archives Départementales du Nord</a><br /><br /></li>
             
-            <li><a href="https://www.reims.fr/culture-patrimoine/archives-municipales-et-communautaires-7534.html?L=172%27A.html">Archives Municipales de Reims</a></li>
-            <li><a href="http://www.archives.nantes.fr">Archives Municipales de Nantes</a></li>
-            <li><a href="http://patrimoine-numerique.ville-valenciennes.fr">Archives Municipales de Valenciennes</a></li>          
+            <?php /* TODO : ajouter le site genealo */ ?>            
+            
+            <li><a href="https://www.reims.fr/culture-patrimoine/archives-municipales-et-communautaires-7534.html?L=172%27A.html" title="Site officiel des Archives Municipales de Reims">
+            Archives Municipales de Reims</a></li>
+            <li><a href="http://www.archives.nantes.fr" title="Site officiel des Archives Municipales de Nantes">
+            Archives Municipales de Nantes</a></li>
+            <li><a href="http://patrimoine-numerique.ville-valenciennes.fr" title="Site officiel des Archives Municipales de Valenciennes">
+            Archives Municipales de Valenciennes</a></li>          
             <li><a href="http://www.bn-r.fr">Médiathèque de Roubaix</a><br /><br /></li>
             
             <li>Les livres d'or des soldats morts pour la France (Archives Nationales)</li>
@@ -243,7 +251,7 @@
             <li><a href="http://www.culture.fr/Genealogie/Grand-Memorial">http://www.culture.fr/Genealogie/Grand-Memorial</a></li>
             <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr" title="Mémoire des hommes">Mémoire des Hommes</a> (Ministère de la Défense)</li>
             <li><a href="http://www.memorial-genweb.org/~memorial2/" title="Portail MémorialGenweb">Mémorial-GenWeb</a></li>
-            <li><a href="http://grandeguerre.icrc.org/fr" title="Comité international de la Croix-Rouge">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
+            <li><a href="http://grandeguerre.icrc.org/fr" title="Site officiel du Comité International de la Croix-Rouge">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
             <li><a href="http://prisonniers-de-guerre-1914-1918.chez-alice.fr/lestroupes.htm" title="Les prisonniers de la Grande Guerre">Prisonniers de guerre 14-18</a></li>
             <li><a href="http://www.association14-18.org/index.htm" title="Association Nationale 1914-1918, A la découverte des sites de la Grande Guerre">Association 14-18</a></li>
             <li><a href="http://monumentsmorts.univ-lille3.fr" title="Les monuments aux morts de France et Belgique">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
@@ -258,8 +266,8 @@
         <h2 style="margin-top:30px">Les villes pendant la Grande Guerre</h2>
     
         <ul>
-            <li><a href="pdf/vdh_orleans-grande-guerre.pdf">Orléans pendant la Grande Guerre (Ville d'Orléans)</a></li>
-            <li><a href="pdf/Maubeuge-1914-Duvivier.pdf" title="Histoire de Maubeuge en 1914 par Jules DUVUVIER">Maubeuge 1914 (Par Jules DUVUVIER)</a></li>
+            <li><a href="pdf/vdh_orleans-grande-guerre.pdf" title="Brochure sur l'histoire d'Orléans pendant la Grande Guerre">Orléans pendant la Grande Guerre (Ville d'Orléans)</a></li>
+            <li><a href="pdf/Maubeuge-1914-Duvivier.pdf" title="Histoire du siège de Maubeuge de 1914 par Jules DUVUVIER">Maubeuge 1914 (Par Jules DUVUVIER)</a></li>
         </ul>
 
         <h2 style="margin-top:30px">Musées</h2>

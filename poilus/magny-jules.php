@@ -115,9 +115,9 @@
         <p><strong>Jules MAGNY</strong>, né le 18 août 1892 à Onnaing (Nord), il est le fils légitime de Jules MAGNY et Adna Marie HERAT.</p>
         
         <figure>
-            <a href="sources/magny-jules-1892.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="miniatures/magny-jules-1892.jpg" alt=" "/></a>
-            <figcaption>Acte de naissance de Jules MAGNY<br />(source: Archives Départementales du Nord)</figcaption>
+            <a href="sources/magny-jules-1892.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Jules MAGNY (1892)">
+            <img src="miniatures/magny-jules-1892.jpg" alt="Acte de naissance de Jules MAGNY, né à Onnaing en 1892"/></a>
+            <figcaption>Acte de naissance de Jules MAGNY (1892)<br />(source: Archives Départementales du Nord)</figcaption>
         </figure>
         
         <?php // TODO : un texte extrait du recensement de 1906 avec son adresse et les gens avec lesquels il vit ?>

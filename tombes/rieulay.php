@@ -78,15 +78,15 @@
         <h1>Les morts pour la France à Rieulay</h1>
 
         <figure>
-          <a href="images/monument-rieulay-01.jpg" data-fancybox="gallery" data-caption=" ">
-          <img src="images/mini/monument-rieulay-01.jpg" alt=" "/></a>
-          <figcaption>Le monument aux morts de Beaufort,<br/>situé à l'intérieur de l'église<br />(source : photo personnelle)</figcaption>
+          <a href="images/monument-rieulay-01.jpg" data-fancybox="gallery" data-caption="Le monument aux morts de Rieulay à l'intérieur de l'église">
+          <img src="images/mini/monument-rieulay-01.jpg" alt="Le monument aux morts dans l'église de Rieulay"/></a>
+          <figcaption>Le monument aux morts de Rieulay,<br/>situé à l'intérieur de l'église<br />(source : photo personnelle)</figcaption>
         </figure>
 
         <figure>
-          <a href="images/monument-rieulay-02.jpg" data-fancybox="gallery" data-caption=" ">
-          <img src="images/mini/monument-rieulay-02.jpg" alt=" "/></a>
-          <figcaption>Le monument aux morts de Beaufort<br />(source : photo personnelle)</figcaption>
+          <a href="images/monument-rieulay-02.jpg" data-fancybox="gallery" data-caption="Le monument aux morts de Rieulay">
+          <img src="images/mini/monument-rieulay-02.jpg" alt="Le monument aux morts de Rieulay"/></a>
+          <figcaption>Le monument aux morts de Rieulay<br />(source : photo personnelle)</figcaption>
         </figure>
         
         </article>

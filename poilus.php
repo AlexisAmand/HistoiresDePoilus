@@ -81,7 +81,7 @@
                 <figcaption>Le Départ des Poilus<br />(par Albert Herbert)</figcaption>
             </figure>
 
-            <p>N'hésitez pas à consulter la <a href="index_noms.php">liste des soldats mentionnés</a> sur le site ou à lire <a href="poilus/amand-hoche.php">les biographies de soldats</a>.</p>
+            <p>N'hésitez pas à consulter la <a href="index_noms.php" title="liste des soldats mentionnés sur le site Histoires de Poilus">liste des soldats mentionnés</a> sur le site ou à lire <a href="poilus/amand-hoche.php" title="biographies de soldats de la Première Guerre Mondiale">les biographies de soldats</a>.</p>
 
             <h2>Quelles étaient les forces en présence ?</h2>
 

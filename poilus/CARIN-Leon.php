@@ -112,7 +112,7 @@
 
         <h1>Léon CARIN</h1>
 
-        <p>Léon CARIN est né à Lourches (Nord) le 28 juillet 1896, fils légitime de François Louis CARIN et de Pauline DUSSART. En 1906, Léon vit Rue de Beauvois à Lourches, avec ses parents et ses frères et sœurs.</p>
+        <p>Léon CARIN est né à Lourches (Nord) le 27 juillet 1896, fils légitime de François Louis CARIN et de Pauline DUSSART. En 1906, Léon vit Rue de Beauvois à Lourches, avec ses parents et ses frères et sœurs.</p>
 
         <figure>
             <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="Arbre généalogique de la famille CARIN">
@@ -174,8 +174,6 @@
             <li><a href="https://archive.org/details/19141918iedixneu01chriuoft">La Grande Guerre, vécue - racontée - illustrée par les combattants (tome 1)</a><br />(Publiée sous la Direction de Christian-Frogé, 1922)</li>
             <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense">Mémoire des Hommes</a> (Ministère de la Défense)</li>
         </ul>
-
-         
 
         </article>
 

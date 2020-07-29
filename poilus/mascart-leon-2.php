@@ -124,8 +124,8 @@
         </ul>
 
         <figure>
-            <a href="sources/leon-mascart-mpf.jpg" data-fancybox="gallery" data-caption='Fiche "Mort pour la France" de Léon MASCART'>
-            <img src="miniatures/leon-mascart-mpf.jpg" alt='Fiche "Mort pour la France" de Léon MASCART'/></a>
+            <a href="sources/leon-mascart-mpf.jpg" data-fancybox="gallery" data-caption='Fiche de Mort pour la France de Léon MASCART'>
+            <img src="miniatures/leon-mascart-mpf.jpg" alt='Fiche de Mort pour la France de Léon MASCART'/></a>
             <figcaption>Léon, mort pour la France (Source : Mémoire des Hommes)</figcaption>
         </figure>
 

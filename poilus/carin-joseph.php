@@ -112,9 +112,13 @@
 
 		<h1>Joseph CARIN</h1>
 
-		<p>Joseph CARIN est né à Lourches, près de Valenciennes, le 14 juillet 1894, fils légitime de François Louis et Pauline DUSSART. Joseph est issu d’une famille nombreuse (11 enfants, l’aîné et le cadet ayant 23 ans de différence) mais en 1906, seuls 8 vivent encore avec leurs mère à Lourches (rue de Beauvois), leur père étant décédé en 1899.</p> 
+		<p>Joseph CARIN est né à Lourches, près de Valenciennes, le 14 juillet 1894, fils légitime de François Louis et Pauline DUSSART. Joseph est issu d’une famille nombreuse (11 enfants, l’aîné et le cadet ayant 23 ans de différence) mais en 1906, seuls 8 vivent encore avec leurs mère à Lourches (rue de Beauvois), leur père étant décédé en 1899. Pour faire simple, Joseph est le beau-frère de mon arrière-arrière-grand-mère.</p>
 
-		<p>Pour faire simple, Joseph est le beau-frère de mon arrière-arrière-grand-mère.</p>
+		<figure>
+			<a href="images/carin-joseph-1894.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Joseph CARIN">
+			<img src="miniatures/carin-joseph-1894.jpg" alt="Acte de naissance de Joseph CARIN daté du 15 juillet 1894"/></a>
+			<figcaption>Acte de naissance de Joseph CARIN<br />(Source: Archives Départementales du Nord)</figcaption>
+		</figure>
 
 		<figure>
 			<a href="images/beauvois-lourches.jpg" data-fancybox="gallery" data-caption="La rue de Beauvois à Lourches">
@@ -130,12 +134,12 @@
 			<figcaption>Extrait de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
 		</figure>
 
-		<p>Joseph CARIN est finalement incorporé au sein du 94e Régiment d’Infanterie le 2 décembre 1914 en tant que soldat de 2e classe. A l’époque, le 94e et sa division sont devant DIXMUDE, où ils relévent les fusilliers marins. C’est une zone que l’historique du 94e décrit comme <em>« humide et boueuse où l'eau est à fleur de terre, eu chacun des nombreux troux d'obus est rempli d'eau. »</em> Les pertes durant cette période sont surtout dues à des bombardements.</p>
+		<p>Joseph CARIN est incorporé au sein du 94e Régiment d’Infanterie le 2 décembre 1914 en tant que soldat de 2e classe. A l’époque, le 94e et sa division sont devant DIXMUDE, où ils relévent les fusilliers marins. C’est une zone que l’historique du 94e décrit comme <em>« humide et boueuse où l'eau est à fleur de terre, eu chacun des nombreux troux d'obus est rempli d'eau. »</em> Les pertes durant cette période sont surtout dues à des bombardements. Il est finalement ajourné pour faiblesse par le conseil de révision de Guéret (Creuse) en date du 18 novembre 1914. Décision annulée par celle du Conseil de révision de Saint-Omer (Pas-de-Calais) en date du 28 octobre 1914 qui le déclare bon au service. (Les dates sont celles de la fiche matricule… il semble y avoir un problème d'ordre chronologique). Il rejoint le 94e RI en décembre 1914, soldat de 2e classe.</p>
+		
+		<?php /* TODO : Dixmude fin 1914 pour illustrer */ ?>
 
 		<ul>
-			<li>Il est ajourné pour faiblesse par le conseil de révision de Guéret (Creuse) en date du 18 novembre 1914. Décision annulée par celle du Conseil de révision de Saint-Omer (Pas-de-Calais) en date du 28 octobre 1914 qui le déclare bon au service. (Les dates sont celles de la fiche matricule… il semble y avoir un problème d'ordre chronologique)</li>
-			<li>Il rejoint le 94e RI en décembre 1914, soldat de 2e classe (selon sa FM)</li>
-			<li>Disparu le 30 juin 1915 en Argonne</li>
+			<li>Disparu le 30 juin 1915 en Argonne</li> <?php /* TODO : Comment je sais ça ? -> indiquer la source via un petit texte */ ?>
 			<li>Prisonnier interné à Rastadt (selon sa FM)</li>
 			<li>Il est évacué de Darmstardt vers Schneidemühl le 4 août 1915 (selon le CIRC)
 			
@@ -156,6 +160,13 @@
 
 			</li>
 			<li>Rapatrié le 13 janvier 1919 (selon sa FM) il devient ouvrier mineur à Roeulx et part s’installer rue de la Gare, où il épouse Félicile MIROUX, la fille légitime de Louis et Félicie NAUTET, le 17 juillet 1920.</li>
+			
+			<?php /* TODO : C'est quoi la médaille de bronze de la famille ? 
+							Date pour le JO n°209 
+							-> si la médaille est liée à un nombre d'enfants, peut-être les trouver via le census. Pour certaines villes, il semble y avoir un census de 1921 sur genealo	
+			*
+			*/ ?>
+			
 			<li>Journal Officiel n°209 page 9184 et page 9205. Médaille de bronze de la famille. Ils habitent alors à Flers-en-Escrebieux.</li>
 		</ul>
 

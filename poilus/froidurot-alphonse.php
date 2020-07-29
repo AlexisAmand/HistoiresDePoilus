@@ -76,7 +76,7 @@
 
         <h1>Alphonse FROIDUROT</h1>
         
-        <p>Alphonse FROIDUROT voit le jour le 20 juillet 1869 dans la maison de ses parents située Rue de Montmuzard à Dijon (Côte-d'Or), fils légitime de Claude FROIDUROT et Alix MAURICE. Le 6 décmebre 1888, il épouse Marie Barbe GIRARDOT à Semur-en-Auxois (Côte-d'Or) où le couple par s'installer et où naît le petit <a href="FROIDUROT-Alfred.php" title="biographie du resistant Alfred Froidurot">Alfred</a>, qui sera un des nombreux héros anonymes de la Seconde Guerre Mondiale, le 29 janvier 1898.</p>
+        <p>Alphonse FROIDUROT voit le jour le 19 juillet 1869 dans la maison de ses parents située Rue de Montmuzard à Dijon (Côte-d'Or), fils légitime de Claude FROIDUROT et Alix MAURICE. Le 6 décmebre 1888, il épouse Marie Barbe GIRARDOT à Semur-en-Auxois (Côte-d'Or) où le couple par s'installer et où naît le petit <a href="FROIDUROT-Alfred.php" title="biographie du resistant Alfred Froidurot">Alfred</a>, qui sera un des nombreux héros anonymes de la Seconde Guerre Mondiale, le 29 janvier 1898.</p>
         
         <figure>
             <a href="sources/froidurot-alphonse.jpg" data-fancybox="gallery" data-caption="Acte de naissance d'Alphonse FROIDUROT">

@@ -77,7 +77,9 @@
 
     </section>
 
-    <footer><?php include('include/footer.inc'); ?></footer>
+    <footer><?php // TODO: dddddddddddd 
+    
+    include('include/footer.inc'); ?></footer>
 
     <?php include('include/stats.inc'); ?>
 
