@@ -55,7 +55,7 @@
         <ul>
             <li><a href="archives/dossier-druon-carlier.php" title="version numérisée du dossier d'ancien combattant de Druon Joseph CARLIER">
             Le dossier d'ancien combattant de Druon Joseph CARLIER</a> (Archives Départementales du Nord)</li>
-            <li><a href="http://archives.genealexis.fr/album/15-carlier-louis-abraham" title="version numérisée du dossier d'ancien combattant de Louis Abraham CARLIER">
+            <li><a href="archives/dossier-louis-carlier.php" title="version numérisée du dossier d'ancien combattant de Louis Abraham CARLIER">
             Le dossier d'ancien combattant de Louis Abraham CARLIER</a> (Archives Départementales du Nord)</li>
             <li><a href="http://archives.genealexis.fr/album/16-delaux-oscar" title="version numérisée du dossier d'ancien combattant d'Oscar DELAUX">
             Le dossier d'ancien combattant d'Oscar DELAUX</a> (Archives Départementales du Nord)</li>
