@@ -5,10 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>test de galerie - Histoires de Poilus</title>
-        <meta content=" " name="description">
-
-        <?php /* TODO : SEO */ ?>
+        <title>Dossier d'ancien combattant d'Oscar DELAUX - Histoires de Poilus</title>
+        <meta content="Version numérisée du dossier d'ancien combattant du soldat Oscar DELAUX" name="description">
 
         <link rel="stylesheet" href="../css/style.css" media="screen">
         <link rel="stylesheet" href="../css/resp.css" media="screen">
@@ -108,7 +106,7 @@
     <figure>
         <a href="images/DELAUX_Oscar/page_1.jpg" id="testgal2" data-fancybox="gallery" data-caption=" ">
         <img src="images/DELAUX_Oscar/page_1.jpg" id="testgal" alt=" " style="width:80%"/></a>
-        <figcaption>Dossier d'ancien combattant de Druon CARLIER<br />(Source: Généachtimi et AD 59)</figcaption>
+        <figcaption>Dossier d'ancien combattant d'Oscar DELAUX<br />(Source: <a href="https://www.geneachtimi.com/">Généachtimi</a> et <a href="https://archivesdepartementales.lenord.fr/">Archives du Nord</a>)</figcaption>
     </figure>
 
     </article>

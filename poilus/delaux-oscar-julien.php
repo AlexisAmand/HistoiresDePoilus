@@ -167,7 +167,8 @@
         
         <ul>
 	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
-	        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
+	        <li><a href="https://archivesdepartementales.lenord.fr/">Archives Départementales du Nord</a></li>
+            <li><a href="archives/dossier-oscar-delaux.php" title="version numérisée du dossier d'ancien combattant d'Oscar DELAUX">Le dossier d'ancien combattant d'Oscar DELAUX</a> (Archives Départementales du Nord)</li>
         </ul>
 
          

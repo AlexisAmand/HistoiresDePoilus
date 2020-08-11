@@ -5,10 +5,8 @@
 
         <meta charset="utf-8">
 
-        <title>test de galerie - Histoires de Poilus</title>
-        <meta content=" " name="description">
-
-        <?php /* TODO : SEO */ ?>
+        <title>Dossier d'ancien combattant de Louis Abraham CARLIER - Histoires de Poilus</title>
+        <meta content="Version numérisée du dossier d'ancien combattant du soldat Louis Abraham CARLIER" name="description">
 
         <link rel="stylesheet" href="../css/style.css" media="screen">
         <link rel="stylesheet" href="../css/resp.css" media="screen">
@@ -110,7 +108,7 @@
     <figure>
         <a href="images/CARLIER_Druon_Joseph/page_1.jpg" id="testgal2" data-fancybox="gallery" data-caption=" ">
         <img src="images/CARLIER_Druon_Joseph/page_1.jpg" id="testgal" alt=" " style="width:80%"/></a>
-        <figcaption>Dossier d'ancien combattant de Louis Abraham CARLIER<br />(Source: Généachtimi et AD 59)</figcaption>
+        <figcaption>Dossier d'ancien combattant de Louis Abraham CARLIER<br />(Source: <a href="https://www.geneachtimi.com/">Généachtimi</a> et <a href="https://archivesdepartementales.lenord.fr/">Archives du Nord</a>)</figcaption>
     </figure>
 
     </article>
