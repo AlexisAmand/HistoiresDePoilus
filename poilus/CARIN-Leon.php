@@ -131,6 +131,8 @@
 
         <p>Il arrive au corps en tant que soldat de 2e classe le 18 février 1915, sous le matricule 8611.  Le 4 octobre 1915, il passe au <strong>153e Régiment d'Infanterie</strong> (6e compagnie selon le JMO) avec lequel il participe à l'attaque française déclenchée sur l'ouvrage de la défaite (Près de Ripont, en Champagne). A cette occasion, lui et son régiment seront soumis pour la première fois à un bombardement d'obus toxiques. Les 153e e 146e Régiments d'Infanterie tiendront le secteur jusqu'au 22 décembre 1915, date à laquelle le 153e sera transféré en Lorraine, en voiture, sur un lieu qui sera le témoin muet de la Bataille de Verdun.</p>
 
+        <?php // TODO : image de l'ouvrage de la défaite prés de Ripont en champagne ?>
+
         <p>En réserve de Division d'Infanterie, le 153e se porte successivement au sud du fort de Froideterre (le 26 février 1916) et en première ligne devant le Bois Albin, à côté de Douaumont&nbsp; (le 29 février). Quand il est relevé le 11 mars de la même année, le 153e dénombre 1200 morts et disparus mais est toutefois récompensé par une citation à l'ordre de l'armée accordée le 4 avril à la 39e division.</p>
 
         <figure>

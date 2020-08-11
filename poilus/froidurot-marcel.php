@@ -83,7 +83,7 @@
 
         <p>Une décision, prise à Besançon le 10 février 1914, le classe dans le service auxiliaire pour des raisons de santé, il est atteint d'hydrarthrose chronique du genoux droit. Le service auxilaire était destiné aux hommes qui étaient en moins bonne santé et ne pouvaient pas faire un réel service actif dans l'armée. Ils étaient alors cantonnés à des rôles "un peu plus legers" comme l'entretien des voies ferrées, les télégraphes ou encore les hopitaux. Ce diagnostic est confirmé par la commission médicale de Besançon le 7 décembre 1914, qui finira par le déclarer inapte à faire campagne le 24 août 1918 pour dyspepsie chronique.</p>
 
-        <p>Durant la Grande Guerre, il fait deux séjours dans des hôpitaux pour cause de maladie. D'abord à Charmont du 4 au 6 mai 1914 puis à l'hôpitax de la Butte de Besançon du 9 juin 1918 au 20 juillet 1918. Selon le site <a href="https://aetdebesancon.home.blog/" title="Histoire et historiettes à partir de la presse de Besançon">Aetdebesancon</a>, il s'agit d'un <a href="../hopitaux/hopitaux.php" title="Les hôpitaux et le service de santé pendant la Première Guerre Mondiale">hopital temporaire</a> installé dans la caserne Brun. Trés actif dès le début de la guerre, il est rattaché à l'Hôpital Saint Jacques, située dans le centre ville. Il rejoint le dépot le 11 octobre 1918 aprés une convalescence.</p>
+        <p>Durant la Grande Guerre, il fait deux séjours dans des hôpitaux pour cause de maladie. D'abord à Charmont du 4 au 6 mai 1914 puis à l'hôpitax de la Butte de Besançon du 9 juin 1918 au 20 juillet 1918. Selon le site <a href="https://aetdebesancon.home.blog/" title="Histoire et historiettes à partir de la presse de Besançon">Aetdebesancon</a>, il s'agit d'un <a href="../hopitaux/hopitaux.php" title="Les hôpitaux et le service de santé pendant la Première Guerre Mondiale">hopital temporaire</a> installé dans la caserne Brun. Trés actif dès le début de la guerre, il est rattaché à l'Hôpital Saint Jacques, située dans le centre ville. Il rejoint le dépot le 11 octobre 1918 après une convalescence.</p>
 
         <p>Il est envoyé en congés illimités de démobilisation le 24 août 1919 et se retire à Besançon, au 4 bis de la rue Charles Mortier.</p>
 
@@ -93,7 +93,7 @@
             <figcaption>La caserne brun (La Butte) à Besançon<br />(source: Delcampe)</figcaption>
         </figure>
 
-        <p>Au niveau de sa vie privée, je n'ai pas grand chose à vous raconter, mais aprés son retour à la vie civile, il vit quelques années rue du Prévost à Beauvais (Oise). Le 21 octobre 1915, il avait épousé, à la mairie de Besançon, Adélaïde DUPAS.ArbreGenealogique. Il est décédé à Semur le 4 décembre 1965.</p>
+        <p>Au niveau de sa vie privée, je n'ai pas grand chose à vous raconter, mais après son retour à la vie civile, il vit quelques années rue du Prévost à Beauvais (Oise). Le 21 octobre 1915, il avait épousé, à la mairie de Besançon, Adélaïde DUPAS. Il est décédé à Semur le 4 décembre 1965.</p>
 
 	    <h2>Sources et bibliographie</h2>
 

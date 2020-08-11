@@ -259,6 +259,26 @@
                 </tr>
             </table>
 
+            <h2>Les dossiers d'anciens combattants</h2>
+
+            <?php /* TODO : Mettre un petit texte qui introduit les dossiers + merci aux bénévoles */ ?>
+
+            <div id="colindex">
+
+            <ul>
+                <li><a href="archives/dossier-druon-carlier.php">CARLIER Druon Joseph</a></li>
+                <li>essai 1</li>
+                <li>essai 1</li>
+                <li>essai 1</li>
+                <li>essai 1</li>
+                <li>essai 1</li>
+                <li>essai 1</li>
+                <li>essai 1</li>
+            </ul>
+
+
+            </div>
+
             <p class="sources"><?php setlocale(LC_ALL,'french'); echo "Dernière modification effectuée le ".date("j F Y", getlastmod()); ?></p>
 
         </article>

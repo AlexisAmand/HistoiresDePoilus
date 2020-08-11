@@ -118,6 +118,8 @@
 
        <p>Sa fiche, retrouvée sur le site "Mémoire des Hommes", nous apprend qu'il dépendait du bureau de Reims (Marne) pour son recrutement et que son acte de décès a été retranscrit sur l'état civil de Betheniville (Marne), où son nom figure sur le Monument aux Morts. <strong>Firmin</strong> repose aujourd'hui à la Nécropole Nationale de Bras-sur-Meuse (Tombe 50) </p>
 
+        <?php /* TODO : Précisez si il est sur le livre d'or. Si oui, mettre une copie et ajouter les archives nationales dans la liste des sources */ ?>
+
         <figure>
             <a href="../tombes/images/betheniville-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Bétheniville">
             <img src="../tombes/images/mini/betheniville-monument-aux-morts.jpg" alt="le Monument aux Morts de Bétheniville sur une carte postale ancienne"/></a>

@@ -53,7 +53,7 @@
         <h2>Dossiers d'anciens combattants</h2>
 
         <ul>
-            <li><a href="http://archives.genealexis.fr/album/13-carlier-druon-joseph" title="version numérisée du dossier d'ancien combattant de Druon Joseph CARLIER">
+            <li><a href="archives/dossier-druon-carlier.php" title="version numérisée du dossier d'ancien combattant de Druon Joseph CARLIER">
             Le dossier d'ancien combattant de Druon Joseph CARLIER</a> (Archives Départementales du Nord)</li>
             <li><a href="http://archives.genealexis.fr/album/15-carlier-louis-abraham" title="version numérisée du dossier d'ancien combattant de Louis Abraham CARLIER">
             Le dossier d'ancien combattant de Louis Abraham CARLIER</a> (Archives Départementales du Nord)</li>
@@ -235,6 +235,7 @@
             <li><a href="https://archives.cotedor.fr" title="Site officiel des Archives départemental de la Côte-d'Or">Archives Départementales de la Côte-d'Or</a></li>
             <li><a href="http://archives.marne.fr" title="Site officiel des Archives départementales de la Marne">Archives Départementales de la Marne</a></li>
             <li><a href="http://archivesdepartementales.lenord.fr" title="Site officiel des Archives départementales du Nord">Archives Départementales du Nord</a><br /><br /></li>
+            <li><a href="https://chercher-archives.lamayenne.fr/" title="Site officiel des Archives départementales de la Mayenne">Archives départementales de la Mayenne</a></li>
             
             <?php /* TODO : ajouter le site genealo */ ?>            
             

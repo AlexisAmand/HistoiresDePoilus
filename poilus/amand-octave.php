@@ -92,8 +92,8 @@
         <p>Il est titulaire de l'Ordre de la Couronne et de la Croix de Guerre.</p>
         
         <figure>
-            <a href="images/ordre-de-la-couronne.jpg" data-fancybox="gallery" data-caption="Avers de la médaille d'officier de l'ordre de la Couronne">
-            <img src="miniatures/ordre-de-la-couronne.jpg" alt="Avers de la médaille d'officier de l'ordre de la Couronne"></a>
+            <a href="images/ordre-de-la-couronne.jpg" data-fancybox="gallery" data-caption="Anvers de la médaille d'officier de l'ordre de la Couronne">
+            <img src="miniatures/ordre-de-la-couronne.jpg" alt="Anvers de la médaille d'officier de l'ordre de la Couronne"></a>
             <figcaption>Officier de l'Ordre de la Couronne<br />(Source: Wikipedia Commons) </figcaption>
         </figure>
         

@@ -52,7 +52,7 @@
     </nav>
 
     <div id="navbis">
-    	<a href="poilus/lacourt-onemise.php">Les poilus des Ardennes</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    	<a href="poilus/lacourt-onesime.php">Les poilus des Ardennes</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="poilus/amand-hoche.php">Les poilus du Nord</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="poilus/arnould-gaston.php">Les poilus de la Marne</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="poilus/FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -65,7 +65,7 @@
 
             <h1>Index des noms de soldats cités</h1>
 
-            <p>Vous trouverez sur cette page la liste de tous les soldats mentionnés sur le site. Il peut s'agir d'une biographie détaillée, d'un document ou même d'une mention sur une tombe. Les individus sont classés par pays, puis par ordre alphabétique sur le nom de famille. Je vous souhaite de bonnes recherches !</p>
+            <p>Vous trouverez sur cette page la liste de tous les soldats mentionnés sur le site. Il peut s'agir d'une biographie détaillée, d'un document ou même d'une mention sur une tombe. Les individus sont classés par pays, puis par ordre alphabétique sur le nom de famille. Pour faciliter la recherche, cette liste contient aussi des civils ayant le status de morts pour la France. Je vous souhaite de bonnes recherches !</p>
 
             <div id="colindex">
 
@@ -114,6 +114,7 @@
                     <li><a href="poilus/arnould-gaston.php">ARNOULD Gaston</a></li>
                     <li><a href="poilus/arnould-henri-rene.php">ARNOULD Henri René</a></li>
                     <li><a href="poilus/astiers-jules-alphonse.php">ASTIER(S) Jules Alphonse</a></li>
+                    <li><a href="poilus/baltazart-auguste-maurice.php">BALTAZART Auguste Maurice</a></li>
                     <li><a href="poilus/BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
                     <li><a href="tombes/capelle.php#Leon-Basuyau">BASUYAU Léon Paul</a></li>
                     <li><a href="poilus/FIEVET-Auguste-Victor#Carton_Bataille">BATAILLE (prénom inconnu)</a></li>

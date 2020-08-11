@@ -5,7 +5,7 @@
 
         <meta charset="utf-8">
 
-        <title>Biographie et parcours du soldat Raoul QUINTIN - Histoires de Poilus</title>
+        <title>Biographie et parcours du soldat belge Raoul QUINTIN - Histoires de Poilus</title>
         <meta content="Parcours et biographie du Jass Raoul QUINTIN, soldat belge pendant la Première Guerre Mondiale" name="description"/>
 
         <link rel="stylesheet" href="../css/style.css">
@@ -71,10 +71,23 @@
 
         <h1>Raoul QUINTIN</h1>
 
-        <p>Né le 19 octobre 1890 à Condé-sur-l'Escaut (Nord) mais déclaré à Bernissart, <strong>Raoul Charles Jules QUINTIN</strong> fait partie de l'Armée Belge. Il porte le numéro de matricule 101/57096 et est mort pour sa patrie le 26 août 1914. La parenté reste à confirmer. (source: <a href="https://www.wardeadregister.be/fr">Dead War Register</a>) 
+        <p>Né le 19 octobre 1890 rue de Mons à Condé-sur-l'Escaut (Nord) mais déclaré à Bernissart, Raoul QUINTIN est le fils légitime de Raoul Jules QUINTIN et de Marie Augustine PASTEZ, un couple domicilié à Bernissart.</p>
 
-        <?php /* TODO : trouver un truc pour illustrer */ ?>
+        <figure>
+            <a href="sources/Raoul-Quintin-1890.jpg" data-fancybox="gallery" data-caption="acte de naissance de Raoul QUINTIN">
+            <img src="miniatures/Raoul-Quintin-1890.jpg" alt="copie de l'acte de naissance de Raoul QUINTIN daté de 1890"></a>
+            <figcaption>Acte de naissance de Raoul QUINTIN<br />(Source : Familysearch)</figcaption>
+        </figure>
+
+        <p>Raoul Charles Jules QUINTIN fait partie de l'Armée Belge. Il porte le numéro de matricule 101/57096 et est mort pour sa patrie le 26 août 1914. La parenté avec moi reste pour l’instant à confirmer.</p>
         
+        <h2>Sources et bibliographie</h2>
+
+        <ul>
+            <li>Familysearch pour l'état-civil de Belgique</li>
+            <li>Dead War Register</li>
+        </ul>
+
         </article>
 
     </section>

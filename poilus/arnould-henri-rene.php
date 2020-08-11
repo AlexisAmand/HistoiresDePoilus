@@ -76,7 +76,7 @@
 
         <h1>Henri René ARNOULD</h1>
 
-        <p>Henri René ARNOULD est né à Bétheniville le 4 avril 1884, fils légitime de Louis Albert et Amélia Julia STÖSSEL. Pour faire simple, il est le cousin germain de Robert ARNOULD, mon arrière-grand-père.</p>
+        <p>Henri René ARNOULD,  dont le nom est un ancien nom de baptême d’origine germanique formé des deux mots signifiant aigle et loup ; est né à Bétheniville le 4 août 1884, fils légitime de Louis Albert et Amélia Julia STÖSSEL. Pour faire simple, il est le cousin germain de Robert ARNOULD, mon arrière-grand-père. Selon le site Mémorial GenWeb, il est marié avec Louise Juliette Emilienne CHARBAUT.</p>
 
         <figure>
             <a href="images/arbre-arnould-rene.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille ARNOULD">
@@ -98,6 +98,8 @@
             <figcaption>Verdun: Attaques sur la rive gauche<br />(source: Delcampe)</figcaption>
         </figure>
 
+        <p>Son nom figure sur le monument aux morts de Vertus, sur le livre d’or du ministère des pensions de Vertus, sur la plaque commémorative de l’église de Vertus et sur le tableau commémoratif dans le hall d'entrée de la mairie  intitulé "La ville de Vertus à ses Enfants Morts pour la Patrie" (oeuvre de Fr Sauvignier - 1921).</p>
+
         <figure>
             <a href="sources/arnould-henri-rene.jpg" data-fancybox="gallery" data-caption="Henri René ARNOULD, mort pour la France">
             <img src="miniatures/arnould-henri-rene.jpg" alt="Fiche de mort pour la France de Henri René ARNOULD"></a>
@@ -110,6 +112,11 @@
 	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
 	        <li><a href="https://archives.marne.fr/">Archives départementales de la Marne</a></li>
 	        <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense">Mémoire des Hommes</a> (Ministère de la Défense)</li>
+            <li>Mon dico des patro</li>
+            <li>Mémorial GenWeb</li>
+            <li>Delcampe</li>
+       
+
         </ul>
 
          

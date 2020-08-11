@@ -58,6 +58,7 @@
 
     <ul>
         <li class="asideheader">Ardennes</li>
+        <li><a href="baltazart-auguste-maurice.php">BALTAZART Auguste Maurice</a></li>
         <li><a href="lacourt-onesime.php" class="NavSelected">LACOURT Onésime</a></li>
     </ul>
 
@@ -69,7 +70,7 @@
 
         <h1>Onésime LACOURT</h1>
 
-        <p>Onésime Marcel LACOURT a le matricule n°1544 du bureau de mézière pour la classe 1909.</p>
+        <p>Onésime Marcel LACOURT a le matricule n°1544 du bureau de Mézière pour la classe 1909.</p>
         
         <p>A la mobilisation, il rejoint le 30e Régiment de Dragons avant de rejoindre le 5e Régiment de Cuirassiers en 1917. Plusieurs fois blessé, il est cité à l'ordre du régiment en 1919.</p>
         

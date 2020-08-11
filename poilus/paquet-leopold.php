@@ -122,41 +122,13 @@
         
         <p>Un coup d’oeil sur la fiche matricule de Léopold, qui porte le n°1864 du bureau de Reims pour la classe 1906, nous permet d’en apprendre un peu plus sur lui, outre les informations un peu plus intimes comme sa taille (1m56), la couleur de ses yeux (noirs) ou encore la forme de son visage, on lui découvre par exemple un niveau d’instruction de 3, ce qui signifie qu’il possède une instruction primaire. Globalement, les degrés d’instructions étaient répartis en 6 catégories qui permettaient d’évaluer le degré d’instruction du jeune qui se présentait devant le conseil de révision.</p>
 
-        <table class="census">
-        <caption>Les degrés d'instruction</caption>
-            <tbody>
-            <tr>
-                <td headers="date">0</td>
-                <td headers="adresse">ne sait ni lire, ni écrire, ni compter</td>
-            </tr>
-            <tr>
-                <td headers="date">1</td>
-                <td headers="adresse"> sait lire</td>
-            </tr>
-            <tr>
-                <td headers="date">2</td>
-                <td headers="adresse">sait lire et écrire</td>
-            </tr>
-            <tr>
-                <td headers="date">3</td>
-                <td headers="adresse">sait lire, écrire et compte.</td>
-            </tr>
-            <tr>
-                <td headers="date">4</td>
-                <td headers="adresse">brevet de l'enseignement primaire</td>
-            </tr>
-            <tr>
-                <td headers="date">5</td>
-                <td headers="adresse">bachelier, licencié.</td>
-            </tr>
-            <tr>
-                <td headers="date">X</td>
-                <td headers="adresse">inconnu</td>
-            </tr>
-        </tbody>
-        </table>
+        <figure>    
+            <a href="sources/degres-instruction.jpg" data-fancybox="gallery" data-caption="Les degrés d'instruction sur les fiches matricules">
+            <img src="miniatures/degres-instruction.jpg" alt="Les degrés d'instruction pour le recrutement des soldats"></a>
+            <figcaption>Les degrés d'instruction<br />(d'après Recrutement de l'Armée, BNF/Gallica)</figcaption>
+        </figure> 
 
-        <p>Léopold fait parti des millions d’hommes mobilisés par le décret du 1er août 1914. Soldat de 2 classe, il rejoint le 106e Régiment d'Infanterie où il arrive dès le lendemain. Il passe au 19e Bataillon de Chasseurs à Pied le 20 mars 1916, quelques jours après que celui ci soit arrivé à Suippes (Marne), par une froide journée de neige, dans l’attente de renforts.</p>
+        <p>Léopold fait parti des millions d’hommes mobilisés par le <a href="mobilisation-1914.php" title="Texte du décret de mobilisation générale d'Août 1914">décret du 1er août 1914</a>. Soldat de 2 classe, il rejoint le 106e Régiment d'Infanterie où il arrive dès le lendemain. Il passe au 19e Bataillon de Chasseurs à Pied le 20 mars 1916, quelques jours après que celui ci soit arrivé à Suippes (Marne), par une froide journée de neige, dans l’attente de renforts.</p>
 
         <p>Il est blessé à Bouchavesnes (Somme) le 7 octobre 1916, lors de l’attaque en direction de la « Tranchée de Fulda – Tête de Malassise ». Sa fiche matricule précise qu’il a des plaies au bras gauche et à la cuisse gauche dues à un éclats d’obus. Quelques jours plus tôt le bataillon avait été passé en revue par le président Poincaré, accompagné des généraux Joffre et Rocques.</p>
 
@@ -187,10 +159,9 @@
         <ul>
 	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
 	        <li><a href="https://archives.marne.fr/">Archives départementales de la Marne</a></li>
+	        <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k6282969m">Recrutement de l'armée. Dispositions générales (1916)</a></li>
         </ul>
-
-         
-        
+   
         </article>
 
     </section>

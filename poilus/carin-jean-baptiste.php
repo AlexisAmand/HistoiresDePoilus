@@ -120,7 +120,7 @@
         <?php // TODO: Quelques précisions sur son mariage comme où il habite ou le nom de ses beaux parents ?>
         <?php // TODO: Dans le même § quelques lignes sur sa situation pendant le census de 1906 ?>
 		
-		<?php // TODO: Pour illustrer, un extrait du rencement d'aprés les AD 59 ?>
+		<?php // TODO: Pour illustrer, un extrait du rencement d'après les AD 59 ?>
         		
 		<p>Il semble y avoir un problème concernant les recherches sur le parcours de Jean Baptiste CARIN pendant la Première Guerre Mondiale. Sa fiche matricule indique qu’il est réformé pour déformation des pieds (1915) puis pour pleurite chronique (1916) et est donc mis en sursis d’appel aux mines de Vendin-les-Béthune. Pourtant, j’ai trouvé une fiche de la Croix Rouge. J’ai bien pensé à un homonyme, mais la dite fiche mentionne également ses frères Théophile, qui est présent en Afrique pendant la Grande Guerre, et Joseph, qui est prisonnier aux camps de <a href="../camps/camp-darmstadt.php" title="Le camp de prisonnier de Darmstadt">Darmstadt</a> et <a href="../camps/camp-schneidemuhl.php" title="Le camp de prisonnier de Schneidemühl">Schneidemühl</a>.</p>
 		
