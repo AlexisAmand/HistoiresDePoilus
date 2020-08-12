@@ -59,7 +59,7 @@
             Le dossier d'ancien combattant de Louis Abraham CARLIER</a> (Archives Départementales du Nord)</li>
             <li><a href="archives/dossier-oscar-delaux.php" title="version numérisée du dossier d'ancien combattant d'Oscar DELAUX">
             Le dossier d'ancien combattant d'Oscar DELAUX</a> (Archives Départementales du Nord)</li>
-            <li><a href="http://archives.genealexis.fr/image/115-page-01" title="version numérisée du dossier d'ancien combattant d'Auguste FIEVET">
+            <li><a href="archives/dossier-auguste-fievet.php" title="version numérisée du dossier d'ancien combattant d'Auguste FIEVET">
             Le dossier d'ancien combattant d'Auguste FIEVET</a> (Archives Départementales du Nord)</li>
             <li><a href="http://archives.genealexis.fr/album/18-grain-leon" title="version numérisée du dossier d'ancien combattant de Léon Albert GRAIN">
             Le dossier d'ancien combattant de Léon Albert GRAIN</a> (Archives Départementales du Nord)</li>   
