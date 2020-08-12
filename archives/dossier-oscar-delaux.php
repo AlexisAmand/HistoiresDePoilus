@@ -1,3 +1,5 @@
+<?php include('../include/fonctions.inc'); ?>
+
 <!doctype html>
 <html lang="fr">
 
@@ -82,26 +84,21 @@
 
     <aside>
 
-        <?php
+    <?php
 
-        $max = 12;
+    /* TODO : Optimise des vignettes. La taille semble être 60*80 */
 
-        for ($i = 1;$i<= $max;$i++)
-            {
-            echo '<figure class="vignette">';
-            echo '<img src="images/DELAUX_Oscar/thumbs/page_'.$i.'.png"';
-            echo 'onclick="document.getElementById(\'testgal\').src=\'images/DELAUX_Oscar/page_'.$i.'.jpg\';
-            document.getElementById(\'testgal2\').href=\'images/DELAUX_Oscar/page_'.$i.'.jpg\';"/>';
-            echo '<figcaption>vue '.$i.' / '.$max.'</figcaption>';
-            echo '</figure>';
-            }
-        ?>
+    AncienCombattant("DELAUX_Oscar",12);
+
+    ?>
 
     </aside>
 
     <article>
 
     <h1>Dossier d'ancien combattant d'Oscar DELAUX</h1>
+
+    <?php /* TODO : SEO */ ?>
 
     <figure>
         <a href="images/DELAUX_Oscar/page_1.jpg" id="testgal2" data-fancybox="gallery" data-caption=" ">

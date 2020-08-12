@@ -265,6 +265,8 @@
 
             <div id="colindex">
 
+            <?php /* TODO : Mettre les titles sur les liens */ ?>
+
             <ul>
                 <li><a href="archives/dossier-druon-carlier.php">CARLIER Druon Joseph</a></li>
                 <li><a href="archives/dossier-louis-carlier.php">CARLIER Louis Abraham</a></li>
