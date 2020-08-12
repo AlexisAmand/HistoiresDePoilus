@@ -61,7 +61,7 @@
             Le dossier d'ancien combattant d'Oscar DELAUX</a> (Archives Départementales du Nord)</li>
             <li><a href="archives/dossier-auguste-fievet.php" title="version numérisée du dossier d'ancien combattant d'Auguste FIEVET">
             Le dossier d'ancien combattant d'Auguste FIEVET</a> (Archives Départementales du Nord)</li>
-            <li><a href="http://archives.genealexis.fr/album/18-grain-leon" title="version numérisée du dossier d'ancien combattant de Léon Albert GRAIN">
+            <li><a href="archives/dossier-leon-grain.php" title="version numérisée du dossier d'ancien combattant de Léon Albert GRAIN">
             Le dossier d'ancien combattant de Léon Albert GRAIN</a> (Archives Départementales du Nord)</li>   
             <li><a href="http://archives.genealexis.fr/album/22-joly-noel" title="version numérisée du dossier d'ancien combattant de Noël JOLY">
             Le dossier d'ancien combattant de Noël JOLY</a> (Archives Départementales du Nord)</li>

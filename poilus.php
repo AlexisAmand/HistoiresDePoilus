@@ -272,7 +272,7 @@
                 <li><a href="archives/dossier-louis-carlier.php">CARLIER Louis Abraham</a></li>
                 <li><a href="archives/dossier-oscar-delaux.php">DELAUX Oscar</a></li>
                 <li><a href="archives/dossier-auguste-fievet.php">FIEVET Auguste Victor</a></li>
-                <li>essai 1</li>
+                <li><a href="archives/dossier-leon-grain.php">GRAIN Léon Albert</a></li>
                 <li>essai 1</li>
                 <li>essai 1</li>
                 <li>essai 1</li>
