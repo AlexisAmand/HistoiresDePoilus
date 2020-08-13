@@ -222,6 +222,8 @@
         
         <ul>
 	        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
+            <li><a href="../archives/dossier-louis-tiburce.php">
+            Le dossier d'ancien combattant de Louis TIBURCE</a> (Archives Départementales du Nord)</li>
             <li><a href="https://histoire-de-la-douane.org/historique-des-bataillons-douaniers-1914-1918/" title="Historique des bataillons de douaniers en 1914 et 1918">
             Historique des bataillons douaniers 1914-1918</a></li>
             <li><a href="http://books.openedition.org/igpde/4474?lang=fr" title="L'administration des douanes en France entre 1914 et 1940">
