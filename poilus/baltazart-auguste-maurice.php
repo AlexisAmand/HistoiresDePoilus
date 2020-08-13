@@ -73,8 +73,8 @@
         <p>Auguste Maurice BALTAZART, ou Auguste Marie selon les sources, est né à Grandpré (Ardennes) le 13 février 1892. L’acte de naissance reconstitué après la Grande Guerre nous précise qu’il est le fils légitime de Eugène Edmond BALTAZART et de Caroline Elise GAYET, ainsi que le frére de Jules Bernard BALTAZART. A L’heure où j’écris ces lignes, ma parenté avec Auguste n’est pas encore prouvée par mes recherches.</p>
 
         <figure>
-            <a href="sources/naissance-auguste-baltazart-1892.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="miniatures/naissance-auguste-baltazart-1892.jpg" alt=" "/></a>
+            <a href="sources/naissance-auguste-baltazart-1892.jpg" data-fancybox="gallery" data-caption="Copie de l'acte de naissance reconstitué d'Auguste BALTAZART daté de 1892">
+            <img src="miniatures/naissance-auguste-baltazart-1892.jpg" alt="Acte de naissance d'Auguste BALTAZART daté de 1892"/></a>
             <figcaption>Acte de naissance reconstitué<br />(source : Archives Départementales des Ardennes)</figcaption>
         </figure>
 
@@ -83,14 +83,14 @@
         <p>Son nom figure sur le monument aux morts de Grandpré (08) et sur le livre d’or du ministère des pensions.</p>
 
         <figure>
-            <a href="images/monument-grandpre.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="miniatures/monument-grandpre.jpg" alt=" "/></a>
+            <a href="images/monument-grandpre.jpg" data-fancybox="gallery" data-caption="Le monument au morts de Grandpré (Ardennes)">
+            <img src="miniatures/monument-grandpre.jpg" alt="Le monument aux morts pour la France de Grandpré, dans les Ardennes"/></a>
             <figcaption>Le monument aux morts de Grandpré<br />(source: Delcampe)</figcaption>
         </figure>
 
         <figure>
-            <a href="sources/livre-dor-grandpre.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="miniatures/livre-dor-grandpre.jpg" alt=" "/></a>
+            <a href="sources/livre-dor-grandpre.jpg" data-fancybox="gallery" data-caption="Extrait du Livre d'Or de Grandpré (Ardennes)">
+            <img src="miniatures/livre-dor-grandpre.jpg" alt="Extrait du livre d'or des morts pour la France de Grandpré, dans les Ardennes"/></a>
             <figcaption>Extrait du Livre d'Or du Ministère des Pensions<br />(source : Archives Départementales des Ardennes)</figcaption>
         </figure>
 

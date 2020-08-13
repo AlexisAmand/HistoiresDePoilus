@@ -8,7 +8,7 @@
         <meta charset="utf-8">
 
         <title>Dossier d'ancien combattant d'Auguste Victor FIEVET - Histoires de Poilus</title>
-        <meta content="Version numérisée du dossier d'ancien combattant du soldat Auguste Victor FIEVET" name="description">
+        <meta content="Version numérisée du dossier d'ancien combattant du soldat Auguste Victor FIEVET obtenu aux archives départementales du Nord" name="description">
 
         <link rel="stylesheet" href="../css/style.css" media="screen">
         <link rel="stylesheet" href="../css/resp.css" media="screen">
@@ -101,8 +101,8 @@
     <?php /* TODO : SEO */ ?>
 
     <figure>
-        <a href="images/DELAUX_Oscar/page_1.jpg" id="testgal2" data-fancybox="gallery" data-caption=" ">
-        <img src="images/DELAUX_Oscar/page_1.jpg" id="testgal" alt=" " style="width:80%"/></a>
+        <a href="images/DELAUX_Oscar/page_1.jpg" id="testgal2" data-fancybox="gallery" data-caption="Dossier d'ancien combattant du soldat Auguste Victor FIEVET">
+        <img src="images/DELAUX_Oscar/page_1.jpg" id="testgal" alt="Extrait du dossier d'ancien combattant d'Oscar DELAUX" style="width:80%"/></a>
         <figcaption>Dossier d'ancien combattant d'Auguste Victor FIEVET<br />(Source: <a href="https://www.geneachtimi.com/">Généachtimi</a> et <a href="https://archivesdepartementales.lenord.fr/">Archives du Nord</a>)</figcaption>
     </figure>
 

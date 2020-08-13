@@ -7,7 +7,7 @@
 
         <title>Les soldats de la Grande Guerre - Histoires de Poilus</title>
 
-        <meta content=" " name="description">
+        <meta content="Poilus est un surmon qui était donné notamment aux soldats de la Grande Guerre. Ils sont des millions à avoir été blessés, prisonniers ou à être morts pour la France" name="description">
 
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/resp.css">
@@ -259,27 +259,47 @@
                 </tr>
             </table>
 
-            <h2>Les dossiers d'anciens combattants</h2>
+            <h2>Les anciens combattants</h2>
 
             <?php /* TODO : Peut-être revoir le texte */ ?>
 
-            <p>La Grande Guerre, c'est aussi le destin de millions d'hommes qui sont rentrés meurtris tant d'un point de vue physique que d'un point de vue psychologique. Pour certains des poilus présents sur mon site, j'ai eu la chance, grâce à l'aide de bénévoles que je tiens à nous à remercier une nouvelle fois, d'obtenir les dossiers d'anciens combattants que je partage ici avec vous.</p> 
+            <p>La Grande Guerre, c'est aussi le destin de millions d'hommes qui sont rentrés meurtris tant d'un point de vue physique que d'un point de vue psychologique. Pour certains des poilus présents sur mon site, j'ai eu la chance, grâce à l'aide de bénévoles que je tiens à nous à remercier une nouvelle fois, d'obtenir les dossiers d'anciens combattants que je partage ici avec vous.</p>
 
             <div id="colindex">
 
-            <?php /* TODO : Mettre les titles sur les liens */ ?>
-
             <ul>
-                <li><a href="archives/dossier-druon-carlier.php">CARLIER Druon Joseph</a></li>
-                <li><a href="archives/dossier-louis-carlier.php">CARLIER Louis Abraham</a></li>
-                <li><a href="archives/dossier-oscar-delaux.php">DELAUX Oscar</a></li>
-                <li><a href="archives/dossier-auguste-fievet.php">FIEVET Auguste Victor</a></li>
-                <li><a href="archives/dossier-leon-grain.php">GRAIN Léon Albert</a></li>
-                <li><a href="archives/dossier-noel-joly.php">JOLY Noël</a></li>
-                <li><a href="archives/dossier-florimond-letienne.php">LETIENNE Florimond</a></li>
-                <li><a href="archives/dossier-louis-tiburce.php">TIBURCE Louis</a></li>
-            </ul>
+                <li><a href="archives/dossier-druon-carlier.php" 
+                title="voir le dossier d'ancien combattant de Druon Joseph CARLIER">
+                CARLIER Druon Joseph</a></li>
 
+                <li><a href="archives/dossier-louis-carlier.php"
+                title="voir le dossier d'ancien combattant de Louis Abraham CARLIER">
+                CARLIER Louis Abraham</a></li>
+
+                <li><a href="archives/dossier-oscar-delaux.php"
+                title="voir le dossier d'ancien combattant de Oscar DELAUX">
+                DELAUX Oscar</a></li>
+
+                <li><a href="archives/dossier-auguste-fievet.php"
+                title="voir le dossier d'ancien combattant de Auguste Victor FIEVET">
+                FIEVET Auguste Victor</a></li>
+
+                <li><a href="archives/dossier-leon-grain.php"
+                title="voir le dossier d'ancien combattant de Léon Albert GRAIN">
+                GRAIN Léon Albert</a></li>
+
+                <li><a href="archives/dossier-noel-joly.php"
+                title="voir le dossier d'ancien combattant de Noël JULES">
+                JOLY Noël</a></li>
+
+                <li><a href="archives/dossier-florimond-letienne.php" 
+                title="voir le dossier d'ancien combattant de Florimond LETIENNE">
+                LETIENNE Florimond</a></li>
+
+                <li><a href="archives/dossier-louis-tiburce.php" 
+                title="voir le dossier d'ancien combattant de Louis TIBURCE">
+                TIBURCE Louis</a></li>
+            </ul>
 
             </div>
 
