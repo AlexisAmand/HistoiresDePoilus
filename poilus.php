@@ -261,7 +261,9 @@
 
             <h2>Les dossiers d'anciens combattants</h2>
 
-            <?php /* TODO : Mettre un petit texte qui introduit les dossiers + merci aux bénévoles */ ?>
+            <?php /* TODO : Peut-être revoir le texte */ ?>
+
+            <p>La Grande Guerre, c'est aussi le destin de millions d'hommes qui sont rentrés meurtris tant d'un point de vue physique que d'un point de vue psychologique. Pour certains des poilus présents sur mon site, j'ai eu la chance, grâce à l'aide de bénévoles que je tiens à nous à remercier une nouvelle fois, d'obtenir les dossiers d'anciens combattants que je partage ici avec vous.</p> 
 
             <div id="colindex">
 
@@ -273,6 +275,7 @@
                 <li><a href="archives/dossier-oscar-delaux.php">DELAUX Oscar</a></li>
                 <li><a href="archives/dossier-auguste-fievet.php">FIEVET Auguste Victor</a></li>
                 <li><a href="archives/dossier-leon-grain.php">GRAIN Léon Albert</a></li>
+                <li><a href="archives/dossier-noel-joly.php">JOLY Noël</a></li>
                 <li>essai 1</li>
                 <li>essai 1</li>
                 <li>essai 1</li>

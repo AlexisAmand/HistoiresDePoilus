@@ -62,8 +62,8 @@
             <li><a href="archives/dossier-auguste-fievet.php" title="version numérisée du dossier d'ancien combattant d'Auguste FIEVET">
             Le dossier d'ancien combattant d'Auguste FIEVET</a> (Archives Départementales du Nord)</li>
             <li><a href="archives/dossier-leon-grain.php" title="version numérisée du dossier d'ancien combattant de Léon Albert GRAIN">
-            Le dossier d'ancien combattant de Léon Albert GRAIN</a> (Archives Départementales du Nord)</li>   
-            <li><a href="http://archives.genealexis.fr/album/22-joly-noel" title="version numérisée du dossier d'ancien combattant de Noël JOLY">
+            Le dossier d'ancien combattant de Léon Albert GRAIN</a> (Archives Départementales du Nord)</li>
+            <li><a href="archives/dossier-noel-joly.php" title="version numérisée du dossier d'ancien combattant de Noël JOLY">
             Le dossier d'ancien combattant de Noël JOLY</a> (Archives Départementales du Nord)</li>
             <li><a href="http://archives.genealexis.fr/album/20-letienne-florimond" title="version numérisée du dossier d'ancien combattant de Florimond LETIENNE">
             Le dossier d'ancien combattant de Florimond LETIENNE</a> (Archives Départementales du Nord)</li>
