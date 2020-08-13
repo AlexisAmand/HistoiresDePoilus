@@ -65,7 +65,7 @@
             Le dossier d'ancien combattant de Léon Albert GRAIN</a> (Archives Départementales du Nord)</li>
             <li><a href="archives/dossier-noel-joly.php" title="version numérisée du dossier d'ancien combattant de Noël JOLY">
             Le dossier d'ancien combattant de Noël JOLY</a> (Archives Départementales du Nord)</li>
-            <li><a href="http://archives.genealexis.fr/album/20-letienne-florimond" title="version numérisée du dossier d'ancien combattant de Florimond LETIENNE">
+            <li><a href="archives/dossier-florimond-letienne.php" title="version numérisée du dossier d'ancien combattant de Florimond LETIENNE">
             Le dossier d'ancien combattant de Florimond LETIENNE</a> (Archives Départementales du Nord)</li>
             <li><a href="http://archives.genealexis.fr/album/24-tiburce-louis" title="version numérisée du dossier d'ancien combattant de Louis TIBURCE">
             Le dossier d'ancien combattant de Louis TIBURCE</a> (Archives Départementales du Nord)</li>

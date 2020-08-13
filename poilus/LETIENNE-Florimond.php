@@ -150,7 +150,7 @@
 		<h2>Sources et bibliographie</h2>
 
 		<ul>
-			<li><a href="http://archives.genealexis.fr/album/20-letienne-florimond" title="version numérisée du dossier d'ancien combattant de Florimond LETIENNE">Le dossier d'ancien combattant de Florimond LETIENNE</a> (Archives Départementales du Nord)</li>
+			<li><a href="archives/dossier-florimond-letienne.php" title="version numérisée du dossier d'ancien combattant de Florimond LETIENNE">Le dossier d'ancien combattant de Florimond LETIENNE</a> (Archives Départementales du Nord)</li>
 			<li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
 	        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
 			<li><a href="https://www.geneachtimi.com/">Geneachtimi</a></li>

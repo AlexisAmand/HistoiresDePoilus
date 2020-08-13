@@ -276,7 +276,7 @@
                 <li><a href="archives/dossier-auguste-fievet.php">FIEVET Auguste Victor</a></li>
                 <li><a href="archives/dossier-leon-grain.php">GRAIN Léon Albert</a></li>
                 <li><a href="archives/dossier-noel-joly.php">JOLY Noël</a></li>
-                <li>essai 1</li>
+                <li><a href="archives/dossier-florimond-letienne.php">LETIENNE Florimond</a></li>
                 <li>essai 1</li>
                 <li>essai 1</li>
             </ul>
