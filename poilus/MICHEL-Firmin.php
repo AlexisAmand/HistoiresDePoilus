@@ -86,7 +86,9 @@
 
         <h2>La mobilisation d'août 1914</h2>
 
-        <p>Firmin a tout juste 20 ans lors de <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a> du 1er août 1914. Sa fiche matricule et le recensement de 1911 disponibles aux Archives Départementales de la Marne nous apprennent qu'il habite au n°20 de la Grande Rue de Béthenville où il excerce la profession de cultivateur. Selon la fiche consultée sur le site "Mémoire de Hommes", il devient membre du <strong>164e Régiment d'Infanterie</strong>. Le site "<a href="http://www.memoiresdesmontsdechampagne.fr" title="Lien vers le site Mémoires des Monts de Champagne">Mémoires des Monts de Champagne</a>" estime à 300 le nombre de mobilisés à <a href="http://cartespostalesanciennes.genealexis.fr/album/63-betheniville" title="cartes postales anciennes de Bétheniville sur le site Genealexis">Bétheniville</a>. Parmi eux, 51 ne reviendront pas.</p>
+        <p>Firmin a tout juste 20 ans lors de <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a> du 1er août 1914. Sa fiche matricule et le recensement de 1911 disponibles aux Archives Départementales de la Marne nous apprennent qu'il habite au n°20 de la Grande Rue de Bétheniville où il excerce la profession de cultivateur. Selon la fiche consultée sur le site "Mémoire de Hommes", il devient membre du <strong>164e Régiment d'Infanterie</strong>. Le site "<a href="http://www.memoiresdesmontsdechampagne.fr" title="Lien vers le site Mémoires des Monts de Champagne">Mémoires des Monts de Champagne</a>" estime à 300 le nombre de mobilisés à <a href="http://cartespostalesanciennes.genealexis.fr/album/63-betheniville" title="cartes postales anciennes de Bétheniville sur le site Genealexis">Bétheniville</a>. Parmi eux, 51 ne reviendront pas.</p>
+
+        <?php // trouve un truc pour illustrer : la grande Rue de Bétheniville, la mobilisation dans le village ou dans la Marne ?>
 
         <h2>De l'été 14 à Verdun</h2>
 

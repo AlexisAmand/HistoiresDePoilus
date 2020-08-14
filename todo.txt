@@ -1,3 +1,8 @@
+Notes diverses
+--------------
+
+- sur les fiches matricules, % signifie la ^plupart du temps ordre
+
 Recherche BU 
 ------------
 
@@ -10,11 +15,8 @@ A vérifier
 ----------
 
 - corrections grammaire et orthographe.
-
 - vérifier si les fichiers des miniatures sont bien en 450px de large.
-
-- vérifier si le code matome est bien en include sur toutes les pages
-
+- vérifier si le code matomo est bien en include sur toutes les pages
 - vérifier si les alt et les title du logo sont bien les même sur toutes les pages
 
 A ajouter
@@ -25,8 +27,7 @@ A ajouter
     + qq infos sur Anise : ses parents
     + qq infos sur JB à ce moment là : profession 
 		
-
-- joseph CARIn
+- joseph CARIN
 	+ en bas de la page, photo de la rue de la gare
 
 - Monuments de Fontaine-au-bois : faire un paragraphe qui raconte un peu les combats du Cross Roads Cemetery.
@@ -59,11 +60,11 @@ Après la mise en ligne
 Dans l'avenir 
 -------------
 
-- une partie communauté qui permettrait aux gens de poster des bios de poilus.
-- besoin d'un classement par Pays/Régions/Départements
+- une partie communauté qui permettrait aux gens de poster des bios de poilus ?
+- besoin d'un classement par Pays/Régions/Départements ?
 
-Sources pour le camp de Erfurt
-------------------------------
+Sources à étudier pour le camp de Erfurt
+----------------------------------------
 
 - André G : Ma captivité en Allemagne, 1918.
 - Torn P : Huit mois avec les barbares, 1916.
@@ -75,3 +76,8 @@ Sources pour le camp de Münster
 - Ginisty Pierre : Les belles évasions, 1919.
 - Limagne A : Un séminaire français en Belgique, 1918.
 - Van Cauteren H : La guerre et la captivité, 1919.
+
+Sources Emile Mascart
+---------------------
+
+- lien vers AM de Saint-Etienne

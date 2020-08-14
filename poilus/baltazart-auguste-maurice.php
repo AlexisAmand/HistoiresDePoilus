@@ -78,7 +78,7 @@
             <figcaption>Acte de naissance reconstitué<br />(source : Archives Départementales des Ardennes)</figcaption>
         </figure>
 
-        <p>A la mobilisation, Auguste est membre du 25e Bataillon de Chasseurs à Pied. Il est tué à l’énnemi à l’âge de 22 ans le 24 aout 1914 à Arrancy, dans la meuse. La mention <em>mort pour la France</em> lui est attribuée via un jugement à Vouziers (Ardennes) en date du 29 juin 1920 et son décès est transcrit à Grandpré quelques jours plus tard, le 5 juillet.</p>
+        <p>A la mobilisation, Auguste est membre du 25e Bataillon de Chasseurs à Pied. Il est tué à l’ennemi à l’âge de 22 ans le 24 aout 1914 à Arrancy, dans la meuse. La mention <em>mort pour la France</em> lui est attribuée via un jugement à Vouziers (Ardennes) en date du 29 juin 1920 et son décès est transcrit à Grandpré quelques jours plus tard, le 5 juillet.</p>
 
         <p>Son nom figure sur le monument aux morts de Grandpré (08) et sur le livre d’or du ministère des pensions.</p>
 
@@ -97,11 +97,11 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li>Mémorial Genweb</li>
-            <li>AD du 08</li>
-            <li>Livre « comment retrouver un poilu »</li>
-            <li>Site des AN pour le livre d’Or</li>
-            <li>Delcampe</li>
+            <li><a href="http://memorialgenweb.org/">Mémorial Genweb</a></li>
+            <li><a href="https://archives.cd08.fr/" title="Site officiel des Archives départementales des Ardennes">Archives Départementales des Ardennes</a></li>
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+            <li><a href="http://www.archives-nationales.culture.gouv.fr/" title="Site officiel des Archives Nationales de France">Archives Nationales de France</a></li>
+            <li><a href="https://www.delcampe.net/fr/collections/">Delcampe</a> (pour certaines illustration)</li>
         </ul>
 
         </article>

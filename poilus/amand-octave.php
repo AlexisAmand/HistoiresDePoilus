@@ -97,7 +97,15 @@
             <figcaption>Officier de l'Ordre de la Couronne<br />(Source: Wikipedia Commons) </figcaption>
         </figure>
         
+        <?php /*
+
+        Quelques lignes qui indiquent les monuments où son nom figure
         
+        https://bel-memorial.org/cities/liege/ferrieres/ferrieres_plaques_institut_saint_roch.htm
+        https://bel-memorial.org/cities_liege_2/liege/liege_memorial_univ.htm
+        https://bel-memorial.org/cities/liege/harze/harze_mom_14-18.htm
+
+        */ ?>
 
          
         

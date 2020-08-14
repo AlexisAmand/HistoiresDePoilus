@@ -55,11 +55,11 @@
 		<table style="width:70%">
 			<thead>
 			<tr>
-				<th colspan="2">Zone de l'intérieur</th>
+				<th colspan="2" style="font-size: 18px;">Zone de l'intérieur</th>
 			</tr>
 			<tr>
-				<th style="width:50%">Les hôpitaux permanents</th>
-				<th style="width:50%">Les hôpitaux temporaires</th>
+				<th style="width:50%;font-size: 15px;">Les hôpitaux permanents</th>
+				<th style="width:50%;font-size: 15px;">Les hôpitaux temporaires</th>
 			</tr>
 			</thead>
 			<tbody>

@@ -76,7 +76,11 @@
 
         <h1>Léopold PAQUET</h1>
 
-        <p>Léopold PAQUET est né le 5 décembre 1886 à Reims, au domicile de ses parents situé Boulevard Saint-Marceaux, fils légitime de Joseph PAQUET et Marie Julia LEFEVRE, Léopold est l’aîné de 4 enfants : Edmond, né à Reims en 1888, Charles, né à Reims en 1895 et Camille, né à Reims en 1898. Il épouse Marie-Hélène ARNOULD le 20 juin 1914, quelques mois avant la Mobilisation Générale et son départ pour la Grande Guerre, Pour la petite histoire, j’ai très bien connu André, le fils de Léopold et Marie-Hélène qui était le cousin germain de mon arrière-grand-père.</p>
+        <p>Léopold PAQUET est né le 5 décembre 1886 à Reims, au domicile de ses parents situé Boulevard Saint-Marceaux, fils légitime de Joseph PAQUET et Marie Julia LEFEVRE, Léopold est l’aîné de 4 enfants : Edmond, né à Reims en 1888, Charles, né à Reims en 1895 et Camille, né à Reims en 1898.</p>
+        
+        <?php /* TODO : mettre son acte de naissance */ ?>
+        
+        <p>Il épouse Marie-Hélène ARNOULD le 20 juin 1914, quelques mois avant la Mobilisation Générale et son départ pour la Grande Guerre, Pour la petite histoire, j’ai très bien connu André, le fils de Léopold et Marie-Hélène qui était le cousin germain de mon arrière-grand-père.</p>
 
         <table class="census">
         <caption>Liste des domiciles de Léoplod PAQUET</caption>
@@ -153,6 +157,8 @@
         <h3>21 octobre 1922</h3>
 
         <p>Pension de 18000 concédée par arrêté en date du 21 octobre 1922 avec jouissance du 24 août 1921.</p>
+
+        <?php /* TODO : un p'ti paragraphe avec son décès */ ?>
         
        	<h2>Sources et bibliographie</h2>
         
