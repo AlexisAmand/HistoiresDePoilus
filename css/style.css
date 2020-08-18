@@ -1,7 +1,5 @@
-﻿@charset "utf-8";
-	
-body {color:#3b4247;font-family:'Open Sans',sans-serif;background-attachment:fixed;background-repeat:repeat;background-position:center top;background-image:url(../images/fond.jpg);margin:0;font-size: 0.8em;}
-/*.sources {text-align:center;margin-top:130px;}*/
+﻿body {color:#3b4247;font-family:'Open Sans',sans-serif;background-attachment:fixed;background-repeat:repeat;background-position:center top;background-image:url(../images/fond.jpg);margin:0;font-size: 0.8em;}
+.sources {text-align:center;margin-top:130px;}
 h1 {font-size:2em;margin-bottom:30px}
 h2 {font-size: 1.5em;margin-bottom:12px}
 h3 {font-size: 1.2em;margin-bottom:12px}
@@ -14,7 +12,6 @@ section{display:flex;min-height: 61vh;}
 section a:link {color:#3b4247;;text-decoration:underline;}
 section a:visited {color:#3b4247;text-decoration:underline;} 
 section a:hover {color:#3b4247;text-decoration:none;} 
-
 nav{background-color:#364046;height:41px;width:960px;margin-left:auto;margin-right:auto;text-align:center;padding-bottom:5px}
 nav a:link,nav a:visited{float:right;display:block;background-color:#5b5b5b;width:100px;padding:8px;text-align:center;margin-left:3px;color:#e2ede4;text-decoration:none}
 nav a:hover{float:right;display:block;width:100px;padding:8px;text-align:center;margin-left:3px;color:#5b5b5b;background-color:#e2ede4;text-decoration:none}
@@ -36,7 +33,7 @@ article .right{text-align:right}
 .note {font-style: italic;}
 sup {font-size: 0.6em;}
 /* Header */
-header{background-color:#364046;width:960px;margin-left:auto;margin-right:auto;margin-top:0}
+header{background-color:#364046;width:960px;margin-left:auto;margin-right:auto;margin-top:0;height:175px;}
 header a:link{color:#e2ede4;text-decoration:none}
 header a:hover{color:#e2ede4;text-decoration:underline} 
 #rezo {float:right;padding-right:15px;font-size:2.6em;}
@@ -54,36 +51,34 @@ aside ul li a.AsideSelected{color:#5b5b5b;background-color:#FFF;margin-right:-15
 aside{min-width:200px;background-color:#5b5b5b;/*display:table-cell;*/}
 .asideheader {border-left: 5px solid #e1ede3;padding: 6px;padding-left: 6px;padding-left: 13px;color: #e1ede3;background-color: #364046;}
 #pubaside{text-align:center;margin-top:20px;}
+
 /* Tableaux */
 .l25 {width:25%;} /* largeur des tableaux pour les batailles */
 table {border-collapse:collapse;width:100%;margin-left:auto;margin-right:auto;text-align:left;margin-bottom: 27px;}
 table caption {text-align:center;color:#363535;margin-bottom:35px;margin-top:4px;font-size:0.9em;caption-side: bottom;}
-td{border-width:1px;border-style:solid;border-color:#3a4247;padding:5px}
 thead, .TitreHorizontalTab {background-color:#D3CECE}
+th {border: 1px solid black;font-weight: unset;}
+tr:nth-child(even){background-color: #eee;}
 tr{height:47px}
+td{border-width:1px;border-style:solid;border-color:#3a4247;padding:5px}
+.tab_camp {width:650px;}
 .census {width:450px;caption-side: bottom;}
 #date {width: 30%;}
 .PuissancesCentrales {color:darkred;}
 .PuissancesAlliees {color:darkgreen;}
+
 /* Videos et images */ 
-
-/*.legende{text-align:center;color:#363535;margin-bottom:35px;margin-top:4px}*/	
-
+.legende{text-align:center;color:#363535;margin-bottom:35px;margin-top:4px}	
 figure {text-align:center;color:#363535;margin-bottom:35px;}
 figcaption {text-align:center;color:#363535;margin-bottom:35px;margin-top:4px;font-size:0.9em;}
 .video{text-align:center;margin-bottom:45px}	
 /* Footer */ 
 footer {background-color:#3b4247;text-align:center;padding-top:15px;padding-bottom:15px;color:#e2ede4;font-size:0.9em;width:960px;margin-left:auto;margin-right:auto}
 footer a:link, footer a:visited,footer a:hover {color:#e2ede4;text-decoration:none}
-/* Uniquement sur la version desktop */
-@media (min-width: 960px) 
-	{
-	header {height:175px;}
-	.tab_camp {width:650px;}
-	/* Arbre généalogique */ 
-	.ArbreGenealogique {box-shadow:none;width:650px;}	
-	}
-#btnresp {display: none;}
+
+/* Arbre généalogique */ 
+.ArbreGenealogique {box-shadow:none;width:650px;}	
+
 /* Formulaire de contact */
 label {margin-top:15px;display:inline-block;}
 .btn {float:left;display: block;background-color: #5b5b5b;width: 100px;padding: 8px;text-align: center;margin-left: 3px;color: #e2ede4;text-decoration: none;}

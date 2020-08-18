@@ -10,7 +10,7 @@
         <meta content="Poilus est un surmon qui était donné notamment aux soldats de la Grande Guerre. Ils sont des millions à avoir été blessés, prisonniers ou à être morts pour la France" name="description">
 
         <link rel="stylesheet" href="css/style.css" media="all">
-         
+        
         <link rel="stylesheet" href="css/fontawesome/css/all.min.css">  
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
