@@ -10,9 +10,9 @@
 
         <meta name="google-site-verification" content="NrJvg2SL3r8GToGISpF-SJatGnKIvS5mekxb-2uTef4" />
 
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/resp.css">
-        <link rel="stylesheet" href="css/fontawesome/css/all.min.css">  
+        <link rel="stylesheet" href="css/style.css" media="all">
+         
+        <link rel="stylesheet" href="css/fontawesome/css/all.min.css" media="all">  
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
         <link rel="icon" type="image/png" href="images/favicon.png" />
@@ -31,7 +31,7 @@
     });
     </script>
 
-    <?php include('include/resp.inc'); ?>
+     
 
     <header>
 

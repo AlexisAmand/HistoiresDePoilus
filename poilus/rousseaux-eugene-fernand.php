@@ -8,8 +8,8 @@
         <title>Histoires de Poilus - Liste de quelques poilus du Nord</title>
         <meta content="Petites biographies de soldats de ma famille ayant participé à la Première Guerre Mondiale et ayant vécu dans le Nord" name="description">
 
-        <link rel="stylesheet" href="../css/style.css">
-        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/style.css" media="all">
+         
         <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
@@ -29,7 +29,7 @@
     });
     </script>
 
-    <?php include('../include/resp.inc'); ?>
+     
 
     <header>
 

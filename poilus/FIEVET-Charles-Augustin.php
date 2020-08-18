@@ -8,8 +8,8 @@
         <title>Biographie et parcours du soldat FIEVET Charles Augustin - Histoires de Poilus</title>
         <meta content="Parcours de Charles Augustin FIEVET, soldat lillois pendant la Première Guerre Mondiale. Il était membre du 162e Régiment d'Infanterie puis prisonnier de guerre à Gardelegen" name="description">
 
-        <link rel="stylesheet" href="../css/style.css">
-        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/style.css" media="all">
+         
         <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">  
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
@@ -29,7 +29,7 @@
     });
     </script>
 
-    <?php include('../include/resp.inc'); ?>
+     
 
     <header>
 

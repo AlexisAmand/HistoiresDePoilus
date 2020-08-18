@@ -29,7 +29,7 @@
     });
     </script>
 
-    <?php include('../include/resp.inc'); ?>
+     
 
     <header>
 

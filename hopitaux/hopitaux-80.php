@@ -8,8 +8,8 @@
         <title>Les hôpitaux de la Somme pendant la Grande Guerre - Histoires de Poilus</title>
         <meta content="Liste des hôpitaux militaires, complémentaires, auxiliaires et bénévoles de la Somme pendant la Première Guerre Mondiale" name="description">
 
-        <link rel="stylesheet" href="../css/style.css">
-        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/style.css" media="all">
+         
         <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">  
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
@@ -28,7 +28,7 @@
 	});
 	</script>
 	
-	<?php include('../include/resp.inc'); ?>
+	 
 	
 	<header>
 	

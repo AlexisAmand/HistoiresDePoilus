@@ -8,8 +8,8 @@
         <title>Le camp d'internement de Zeist pendant la Grande Guerre - Histoires de Poilus</title>
         <meta name="description"  content="Présentation du camp d'internement de Zeist aux Pays-Bas pendant la Première Guerre mondiale (1914-1918)">
 
-        <link rel="stylesheet" href="../css/style.css">
-        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/style.css" media="all">
+         
         <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">  
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
@@ -29,7 +29,7 @@
     });
     </script>
 
-    <?php include('../include/resp.inc'); ?>
+     
 
     <header>
 

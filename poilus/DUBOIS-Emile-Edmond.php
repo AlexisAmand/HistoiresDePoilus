@@ -9,8 +9,8 @@
 
         <meta content="parcours de Émile Edmond DUBOIS, soldat guislanais pendant la Première Guerre Mondiale. Il était membre du 294e Régiment d'Infanterie et mort pour la France à Souain en 1915" name="description">
 
-        <link rel="stylesheet" href="../css/style.css">
-        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/style.css" media="all">
+         
         <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">  
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
@@ -30,7 +30,7 @@
     });
     </script>
 
-    <?php include('../include/resp.inc'); ?>
+     
 
     <header>
 

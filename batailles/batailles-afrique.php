@@ -8,9 +8,8 @@
         <title>Les batailles du front africain pendant la Grande Guerre (1914-1918) - Histoires de Poilus</title>
         <meta content="Liste des batailles qui se sont déroulées sur le front de l'Afrique pendant la Première Guerre Mondiale (1914 à 1918)." name="description">
 
-        <link rel="stylesheet" href="../css/style.css">
-        <link rel="stylesheet" href="../css/resp.css">
-        <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">  
+        <link rel="stylesheet" href="../css/style.css" media="all">
+        <link rel="stylesheet" href="../css/fontawesome/css/all.min.css" media="all">  
                     
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
         <link rel="icon" type="image/png" href="../images/favicon.png"/>
@@ -29,7 +28,7 @@
     });
     </script>
 
-    <?php include('../include/resp.inc'); ?>
+     
 
     <header>
 

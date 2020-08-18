@@ -9,8 +9,8 @@
 
         <meta content="Parcours de Firmin MICHEL, soldat pendant la Première Guerre Mondiale. Il était membre du 164e Régiment d'Infanterie et mort pour la France aux Jumelles d'Ornes en 1914" name="description">
 
-        <link rel="stylesheet" href="../css/style.css">
-        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/style.css" media="all">
+         
         <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">  
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
@@ -29,7 +29,7 @@
     });
     </script>
 
-    <?php include('../include/resp.inc'); ?>
+     
 
     <header>
 

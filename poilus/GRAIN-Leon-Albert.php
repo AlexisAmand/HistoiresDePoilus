@@ -8,8 +8,8 @@
         <title>Biographie et parcours du soldat GRAIN Léon Albert - Histoires de Poilus</title>
         <meta content="Parcours de Léon Albert GRAIN, soldat guislanais pendant la Première Guerre Mondiale. Il était membre du 3e Régiment d'Infanterie Territoriale puis prisonnier de guerre à Chemnitz" name="description">
 
-        <link rel="stylesheet" href="../css/style.css">
-        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/style.css" media="all">
+         
         <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">  
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
@@ -29,7 +29,7 @@
     });
     </script>
 
-    <?php include('../include/resp.inc'); ?>
+     
 
     <header>
 

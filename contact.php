@@ -111,8 +111,8 @@ if (isset($_POST['envoye']))
         <title>Contacter le webmaster - Histoires de Poilus</title>
         <meta content="formulaire pour envoyer un message au webmaster du site" name="description">
 
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/resp.css">
+        <link rel="stylesheet" href="css/style.css" media="all">
+         
         <link rel="stylesheet" href="css/fontawesome/css/all.min.css">  
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
@@ -147,7 +147,7 @@ if (isset($_POST['envoye']))
     });
     </script>
 
-    <?php include('include/resp.inc'); ?>
+     
 
     <header>
         

@@ -8,8 +8,8 @@
         <title>Mentions légales - Histoires de Poilus</title>
         <meta content="mentions légales du site 'Histoires de poilus'. Coordonnées de l'éditeur et de hébergeur du site." name="description">
 
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/resp.css">
+        <link rel="stylesheet" href="css/style.css" media="all">
+         
         <link rel="stylesheet" href="css/fontawesome/css/all.min.css">  
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
@@ -29,7 +29,7 @@
     });
     </script>
 
-    <?php include('include/resp.inc'); ?>
+     
 
     <header>
 

@@ -9,8 +9,7 @@
 
         <meta content="Présentation du camp de prisonniers de Minden en Allemagne pendant la Première Guerre mondiale (1914-1918)" name="description">
 
-        <link rel="stylesheet" href="../css/style.css">
-        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/style.css" media="all">
         <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
@@ -30,7 +29,7 @@
     });
     </script>
 
-    <?php include('../include/resp.inc'); ?>
+     
 
     <header>
 

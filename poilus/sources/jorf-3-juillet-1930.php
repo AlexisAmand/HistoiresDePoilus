@@ -7,8 +7,8 @@
   <title>Le décret d'attribution des cartes d'ancien combattant</title>
   <meta content="extrait du journal officiel de la République Française indiquant les conditions d'attribution des cartes d'ancien combattant suite à la Première Guerre Mondiale (1914-1918)" name="description">
 
-  <link rel="stylesheet" href="../../css/style.css">
-  <link rel="stylesheet" href="../../css/resp.css">
+  <link rel="stylesheet" href="../../css/style.css" media="all">
+  <link rel="stylesheet" href="../../css/resp.css" media="all">
   <link rel="stylesheet" href="../../css/fontawesome/css/all.min.css">
 
   <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>

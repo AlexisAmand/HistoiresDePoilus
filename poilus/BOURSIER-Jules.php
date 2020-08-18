@@ -8,8 +8,8 @@
         <title>Biographie du soldat BOURSIER Jules Henri - Histoires de Poilus</title>
         <meta content="parcours de Jules Henri BOURSIER, soldat onnaingeois pendant la Première Guerre Mondiale. Il était membre du 1er Régiment d'Artillerie à Pied et prisonnier de guerre à Friedrichsfeld" name="description">
 
-        <link rel="stylesheet" href="../css/style.css">
-        <link rel="stylesheet" href="../css/resp.css">
+        <link rel="stylesheet" href="../css/style.css" media="all">
+         
         <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">  
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
@@ -28,7 +28,7 @@
     });
     </script>
 
-    <?php include('../include/resp.inc'); ?>
+     
 
     <header>
 
@@ -212,10 +212,6 @@
 	        <li><a href="https://archivesdepartementales.lenord.fr/">Archives départementales du Nord</a></li>
 	        <li><a href="https://amzn.to/2BcCaOd">Origine des noms de famille (Par Emmanuelle HUBERT)</a></li>
         </ul>
-
-        <p class="sources">
-        <?php setlocale(LC_ALL,'french');echo "Dernière modification effectuée le ".date("j/m/Y", getlastmod()); ?> 
-        </p>
 
         </article>
 
