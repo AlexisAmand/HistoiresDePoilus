@@ -162,10 +162,11 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>      
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">
+            Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+            <li><a href="http://patrimoine-numerique.ville-valenciennes.fr" title="Site officiel des Archives Municipales de Valenciennes">
+            Archives Municipales de Valenciennes</a></li>  
         </ul>
-
-         
 
         </article>
 

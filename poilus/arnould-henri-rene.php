@@ -98,7 +98,7 @@
             <figcaption>Verdun: Attaques sur la rive gauche<br />(source: Delcampe)</figcaption>
         </figure>
 
-        <p>Son nom figure sur le monument aux morts de Vertus, sur le livre d’or du ministère des pensions de Vertus, sur la plaque commémorative de l’église de Vertus et sur le tableau commémoratif dans le hall d'entrée de la mairie  intitulé "La ville de Vertus à ses Enfants Morts pour la Patrie" (oeuvre de Fr Sauvignier - 1921).</p>
+        <p>Son nom figure sur le monument aux morts de Vertus, sur le livre d’or du Ministère des Pensions de Vertus, sur la plaque commémorative de l’église de Vertus et sur le tableau commémoratif dans le hall d'entrée de la mairie  intitulé "La ville de Vertus à ses Enfants Morts pour la Patrie" (oeuvre de Fr Sauvignier - 1921).</p>
 
         <figure>
             <a href="sources/arnould-henri-rene.jpg" data-fancybox="gallery" data-caption="Henri René ARNOULD, mort pour la France">
@@ -112,9 +112,9 @@
 	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
 	        <li><a href="https://archives.marne.fr/">Archives départementales de la Marne</a></li>
 	        <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense">Mémoire des Hommes</a> (Ministère de la Défense)</li>
-            <li>Mon dico des patro</li>
+            <li><a href="https://amzn.to/2BcCaOd">Origine des noms de famille (Par Emmanuelle HUBERT)</a></li>
             <li>Mémorial GenWeb</li>
-            <li>Delcampe</li>
+            <li><a href="https://www.delcampe.net/">Delcampe : Acheter et vendre ses objets de collection</a></li>
        
 
         </ul>

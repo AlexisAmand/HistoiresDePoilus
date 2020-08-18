@@ -22,6 +22,8 @@ A vérifier
 A ajouter
 ---------
 
+- Erreur 404 comme sur Delcampe : https://www.delcampe.net/sitemap
+
 - jean baptiste CARIN
 	+ ma parenté avec lui -> reprendre arbre de Léon CARIN
     + qq infos sur Anise : ses parents

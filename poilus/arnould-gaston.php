@@ -136,8 +136,8 @@
 	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
 	        <li><a href="https://archives.marne.fr/" title="Site officiel des Archives départementales de la Marne">Archives départementales de la Marne</a></li>
             <li><a href="https://chercher-archives.lamayenne.fr/" title="Site officiel des Archives départementales de la Mayenne">Archives départementales de la Mayenne</a></li>
-            Mon dico des patro
-            wikipedia Commons
+            <li><a href="https://amzn.to/2BcCaOd">Origine des noms de famille (Par Emmanuelle HUBERT)</a></li>
+            <li><a href="https://commons.wikimedia.org/wiki/Accueil">Wikipedia Commons</a></li>
         </ul>
 
         </article>

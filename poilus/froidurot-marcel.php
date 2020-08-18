@@ -100,10 +100,9 @@
         <ul>
             <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
             <li><a href="http://archives.cotedor.fr/v2/site/ad21/">Archives départementales de Côte-d'Or</a></li>
-            <li><a href="https://aetdebesancon.home.blog/">Hier et aujourd'hui à Besançon</a><li>
+            <li><a href="https://aetdebesancon.home.blog/">Hier et aujourd'hui à Besançon</a></li>
+            <li><a href="https://www.delcampe.net/">Delcampe : Acheter et vendre ses objets de collection</a></li>
         </ul>
-
-         
 
         </article>
 

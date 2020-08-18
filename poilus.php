@@ -263,7 +263,7 @@
 
             <?php /* TODO : Peut-être revoir le texte */ ?>
 
-            <p>La Grande Guerre, c'est aussi le destin de millions d'hommes qui sont rentrés meurtris tant d'un point de vue physique que d'un point de vue psychologique. Pour certains des poilus présents sur mon site, j'ai eu la chance, grâce à l'aide de bénévoles que je tiens à nous à remercier une nouvelle fois, d'obtenir les dossiers d'anciens combattants que je partage ici avec vous.</p>
+            <p>La Grande Guerre, c'est aussi le destin de millions d'hommes qui sont rentrés meurtris tant d'un point de vue physique que d'un point de vue psychologique. Pour certains des poilus présents sur mon site, j'ai eu la chance, grâce à l'aide de bénévoles que je tiens à remercier une nouvelle fois, d'obtenir les dossiers d'anciens combattants que je partage ici avec vous.</p>
 
             <div id="colindex">
 

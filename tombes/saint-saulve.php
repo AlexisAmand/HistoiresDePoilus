@@ -109,7 +109,7 @@
             <figcaption>Tombe de Xavier LECERF<br />(Source: Photo privée)</figcaption>
         </figure>
         
-        <p>Son nom figure sur le monument aux morts de la ville de Saint-Saulve, sur la plaque commémorative de l'église de Saint-Saulve et  sur le Livre d'Or du ministère des pensions de la ville de Saint-saulve.</p>
+        <p>Son nom figure sur le monument aux morts de la ville de Saint-Saulve, sur la plaque commémorative de l'église de Saint-Saulve et  sur le Livre d'Or du Ministère des Pensions de la ville de Saint-saulve.</p>
 
         <div id="Alfred-Lefebvre"></div>
 

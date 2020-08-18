@@ -115,7 +115,7 @@
             <li>Caporal au 127e Régiment d'infanterie</li>
             <li>Mort des suites de blessures le 7 mars 1915 à l'hôpital temporaire 17 de Châlons-sur-Marne</li>
             <li>Il repose à la Nécropole Nationale de Châlons-en-Champagne, tombe n°1877</li>
-            <li>Son nom figure sur le livre d'or du ministère des pensions et sur le monument aux morts de Vicq (Nord)</li>
+            <li>Son nom figure sur le livre d'or du Ministère des Pensions et sur le monument aux morts de Vicq (Nord)</li>
         </ul>
 
         <figure>
