@@ -90,6 +90,7 @@
         <li><a href="mascart-leon.php" class="AsideSelected">MASCART Léon</a></li>
         <li><a href="mascart-leon-2.php">MASCART Léon (+)</a></li>
         <li><a href="mascart-louis.php">MASCART Louis (+)</a></li>
+        <li><a href="masquellier-jean-baptiste.php">MASQUELLIER Jean-Baptiste</a></li>
         <li><a href="patou-druon-adrien.php">PATOU Druon Adrien (+)</a></li>
         <li><a href="pelez-alfred.php">PELEZ Alfred</a></li>
         <li><a href="rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>

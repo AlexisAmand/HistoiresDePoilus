@@ -28,8 +28,6 @@
     });
     </script>
 
-     
-
     <header>
 
         <?php include('../include/social.inc'); ?>
@@ -149,8 +147,6 @@
             </tr> 
             </tbody>
         </table>
-
-         
 
         </article>
 

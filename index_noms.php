@@ -180,6 +180,7 @@
                     <li><a href="poilus/mascart-leon-2.php">MASCART Léon</a></li>
                     <li><a href="poilus/mascart-louis.php">MASCART Louis</a></li>
                     <li><a href="tombes/valenciennes.php#Lucien-Masclet">MASCLET Lucien</a></li>
+                    <li><a href="poilus/masquellier-jean-baptiste.php">MASQUELLIER Jean-Baptiste</a></li>
                     <li><a href="poilus/MICHEL-Firmin.php">MICHEL Firmin</a></li>
                     <li><a href="tombes/valenciennes.php#Rene-Mirland">MIRLAND René</a></li>
                     <li><a href="tombes/valenciennes.php#Georges-Nollin">NOLLIN Georges</a></li>
