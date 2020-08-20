@@ -187,11 +187,29 @@
         </figure>
 
         <figure>
-)            <a href="images/Friedrichsfeld/Marliere-Henri.jpg" data-fancybox="gallery" data-caption="La médaille des évadés du sergent Henri Marlière">
+            <a href="images/Friedrichsfeld/Marliere-Henri.jpg" data-fancybox="gallery" data-caption="La médaille des évadés du sergent Henri Marlière">
             <img src="miniatures/Friedrichsfeld/Marliere-Henri.jpg" alt="Médaille des évadés ayant appartenue au prisonnier Henri Marlière"></a>
             <figcaption>La médaille des évadés<br />(source: Mr D.)</figcaption>
         </figure>
 
+		<a id="Charles_Mangin"></a>
+
+		<p>La médaille des évadés a été créée par le vote de la loi du 20 aout 1926, faisant suite à une proposition du député Marcel PLAISANT et à une déclaration du Général Charles MANGIN précisant que les évadés "<em>ont fait plus que leur devoir en s'évadant des géôles ennemies pour retourner à la bataille</em>".</p> 
+		
+		<figure>
+            <a href="images/Friedrichsfeld/General_Charles_Mangin.jpg" data-fancybox="gallery" data-caption="portrait du général Charles MANGIN">
+            <img src="miniatures/Friedrichsfeld/General_Charles_Mangin.jpg" alt="portrait du général Charles MANGIN en uniforme"></a>
+            <figcaption>Le général Charles MANGIN<br />(source: Agence de presse Meurisse — BNF)</figcaption>
+        </figure>
+		
+		<p>Elle était remise aux militaires prisonniers de guerre s'étant évadés, aux Alsaciens et au Lorrains ayant fuit les rangs allemands et aux civils ayant fuit la zone occupée pour se mettre à la disposition de l'autorité militaire française. Elle est consistuée d'un ruban vert, d'une largeur de 36 mm, coupé dans le sens de la longeur de trois raies orange, celle du milieu ayant une largeur de 7mm et celles des bords de 2 mm. La médaille elle-même est due au graveur A. DUBOIS, elle est en bronze et porte à l'avers l'effigie de la République Française et au revers, une couronne de feuilles de chênes avec au centre la mention "<em>médaille des évadés</em>".</p>
+		
+		<figure>
+            <a href="images/Friedrichsfeld/medaille-des-evades.jpg" data-fancybox="gallery" data-caption="La médaille des évadés">
+            <img src="miniatures/Friedrichsfeld/medaille-des-evades.jpg" alt="l'avers et le revers de la médaille des évadés créée en 1925" style="width:250px;"></a>
+            <figcaption>La médaille des évadés<br />(source: Wikipedia Commons)</figcaption>
+        </figure>
+		
         <div id="Etienne-Dadu"></div>
 
         <h2>Le sergent Etienne DADU</h2>
@@ -226,14 +244,14 @@
 
         <ul>
             <li><a href="http://gallicalabs.bnf.fr/ark:/12148/bpt6k65295400">Le Sort des prisonniers français en Allemagne (1916)</a></li>
+            <li><a href="https://amzn.to/2UXyxnc" title="Guide pratique des décorations françaises actuelles">Guide pratique des décorations françaises actuelles</a> par J. BATTINI et W. ZANIEWICKI (Lavauzelle)</li>
             <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
             <li><a href="../pdf/book02.pdf">Le traitement des prisonniers français en Allemagne</a> (J. De Christmas, 1917)</li>
             <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+            <li><a href="https://commons.wikimedia.org/wiki/Accueil">Wikipedia Commons</a></li>
         </ul>
-
-         
-        
+  
         </article>
 
     </section>

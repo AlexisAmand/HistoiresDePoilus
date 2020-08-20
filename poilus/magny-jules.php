@@ -121,6 +121,7 @@
 		<?php // TODO : une cpa de son lieu de naissance ?>
 		
 		<?php // TODO : refaire le § sur les médailles ?>
+		
         
         <p>Le 6 septembre 1916, soldat mitrailleur, il a,  par son calme et la précision de son tir, entravé une tentative de contre attaque allemande. Nommé caporal le 5 décembre 1917, il est ensuite prisonnier de guerre du 31 mai au 14 décembre 1918. Il était titulaire plusieurs médailles: <br />
         - La croix de guerre avec étoile de bronze qui indique une citation à l'ordre de l'armée<br />

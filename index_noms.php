@@ -174,6 +174,7 @@
                     <li><a href="poilus/GRAIN-Leon-Albert#Littoye">LITTOYE (prénom inconnu)</a></li>
                     <li><a href="poilus/magny-jules.php">MAGNY Jules</a></li>
                     <li><a href="poilus/MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
+                    <li><a href="camps/camp-friedrichsfeld.php#Charles_Mangin">Charles MANGIN (Général)</a></li>
                     <li><a href="camps/camp-friedrichsfeld.php#Henri-Marliere">MARLIERE Henri</a></li>
                     <li><a href="poilus/mascart-emile.php">MASCART Émile</a></li>
                     <li><a href="poilus/mascart-leon.php">MASCART Léon</a></li>
