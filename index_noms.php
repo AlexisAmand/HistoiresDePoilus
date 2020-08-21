@@ -70,11 +70,13 @@
             <div id="colindex">
 
                 <h2>Allemagne</h2>
+                
+                <?php /* TODO : liens pas bons */ ?>
 
                 <ul>
-                    <li><a href="camps/camps-friedrichsfeld#Major_Bach">BACH (Major au camp de Friedrichsfeld)</a></li>
-                    <li><a href="camps/camps-munster#Freither_Von_Bissing">VON BISSING Freither</a></li>
-                    <li><a href="poilus/FIEVET-Auguste-Victor#VonEmmich-Sordet">VON EMMICH Otto</a></li>
+                    <li><a href="camps/camps-friedrichsfeld.php#Major_Bach">BACH (Major au camp de Friedrichsfeld)</a></li>
+                    <li><a href="camps/camps-munster.php#Freither_Von_Bissing">VON BISSING Freither</a></li>
+                    <li><a href="poilus/FIEVET-Auguste-Victor.php#VonEmmich-Sordet">VON EMMICH Otto</a></li>
                     <li><a href="poilus/MICHEL-Firmin.php#Max-Von-Hausen">VON HAUSEN Max</a></li>
                 </ul>
 
@@ -88,7 +90,7 @@
                     <li><a href="tombes/awoingt.php">GREEN H.A</a></li>
                     <li><a href="tombes/awoingt.php">GRIX C.H.</a></li>
                     <li><a href="tombes/awoingt.php">HODGE E.S.</a></li>
-                    <li><a href="camps/camps-ruhleben#Kamps">KAMPS (prénom inconnu)</a></li>
+                    <li><a href="camps/camps-ruhleben.php#Kamps">KAMPS (prénom inconnu)</a></li>
                     <li><a href="tombes/awoingt.php">LEVESON-GOWER W.G.G.</a></li>
                     <li><a href="tombes/awoingt.php">MARSHALL I.</a></li>
                 </ul>
@@ -110,14 +112,14 @@
                 <ul>
                     <li><a href="poilus/amand-hoche.php">AMAND Hoche</a></li>
                     <li><a href="poilus/amand-marceau.php">AMAND Marceau</a></li>
-                    <li><a href="poilus/CARIN-Théophile#Ardit">ARDIT (prénom inconnu)</a></li>
+                    <li><a href="poilus/CARIN-Théophile.php#Ardit">ARDIT (prénom inconnu)</a></li>
                     <li><a href="poilus/arnould-gaston.php">ARNOULD Gaston</a></li>
                     <li><a href="poilus/arnould-henri-rene.php">ARNOULD Henri René</a></li>
                     <li><a href="poilus/astiers-jules-alphonse.php">ASTIER(S) Jules Alphonse</a></li>
                     <li><a href="poilus/baltazart-auguste-maurice.php">BALTAZART Auguste Maurice</a></li>
                     <li><a href="poilus/BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
                     <li><a href="tombes/capelle.php#Leon-Basuyau">BASUYAU Léon Paul</a></li>
-                    <li><a href="poilus/FIEVET-Auguste-Victor#Carton_Bataille">BATAILLE (prénom inconnu)</a></li>
+                    <li><a href="poilus/FIEVET-Auguste-Victor.php#Carton_Bataille">BATAILLE (prénom inconnu)</a></li>
                     <li><a href="tombes/valenciennes.php#Andre_Bernard">BERNARD André</a></li>
                     <li><a href="camps/camp-giessen.php#Jean_Bescond">BESCOND Jean</a></li>
                     <li><a href="poilus/CARLIER-Louis-Abraham.php#Bocquet">BOCQUET (prénom inconnu)</a></li> 
@@ -135,19 +137,19 @@
                     <li><a href="poilus/CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
                     <li><a href="poilus/CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
                     <li><a href="poilus/caron-eugene-alexandre.php">CARON Eugène Alexandre</a></li>
-                    <li><a href="poilus/FIEVET-Auguste-Victor#Carton_Bataille">CARTON (prénom inconnu)</a></li>
+                    <li><a href="poilus/FIEVET-Auguste-Victor.php#Carton_Bataille">CARTON (prénom inconnu)</a></li>
                     <li><a href="tombes/saint-saulve.php#Jules-Covin">COVIN Jules</a></li>
                     <li><a href="poilus/CARLIER-Druon-Joseph.php#Crepy">CREPY (prénom inconnu)</a></li>
                     <li><a href="camps/camp-friedrichsfeld.php#Etienne-Dadu">DADU Etienne</a></li>
                     <li><a href="tombes/capelle.php#Edouard-Decoster">DECOSTER Edouard Gaston</a></li>
-                    <li><a href="poilus/FIEVET-Auguste-Victor#De-Gaulle">DE GAULLE Charles</a></li>
+                    <li><a href="poilus/FIEVET-Auguste-Victor.php#De-Gaulle">DE GAULLE Charles</a></li>
                     <li><a href="poilus/delaux-oscar-julien.php">DELAUX Oscar Julien</a></li>
                     <li><a href="poilus/DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond</a></li>
                     <li><a href="poilus/dubois-jean-charles.php">DUBOIS Jean Charles</a></li>
                     <li><a href="poilus/DUBOIS-Emile-Edmond.php#Duperrier_Selva">DUPERRIER (prénom inconnu)</a></li>
                     <li><a href="poilus/FIEVET-Auguste-Victor.php">FIEVET Auguste Victor</a></li>
                     <li><a href="poilus/FIEVET-Charles-Augustin.php">FIEVET Charles Augustin</a></li>
-                    <li><a href="poilus/CARIN-Théophile#Ardit">FLOUCAUT de FOURCROY (prénom inconnu)</a></li>                   
+                    <li><a href="poilus/CARIN-Théophile.php#Ardit">FLOUCAUT de FOURCROY (prénom inconnu)</a></li>                   
                     <li><a href="poilus/FONTAINE-Henri-Gustave.php">FONTAINE Henri Gustave</a></li>
                     <li><a href="poilus/CARLIER-Druon-Joseph.php#Fournier">FOURNIER Joseph Anthelme</a></li>
                     <li><a href="poilus/FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
@@ -171,7 +173,7 @@
                     <li><a href="poilus/lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
                     <li><a href="poilus/LETIENNE-Florimond.php">LETIENNE Florimond</a></li>
                     <li><a href="camps/camp-hammelburg.php#Charles_Lewine">LEWINE Charles</a></li>
-                    <li><a href="poilus/GRAIN-Leon-Albert#Littoye">LITTOYE (prénom inconnu)</a></li>
+                    <li><a href="poilus/GRAIN-Leon-Albert.php#Littoye">LITTOYE (prénom inconnu)</a></li>
                     <li><a href="poilus/magny-jules.php">MAGNY Jules</a></li>
                     <li><a href="poilus/MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
                     <li><a href="camps/camp-friedrichsfeld.php#Charles_Mangin">Charles MANGIN (Général)</a></li>
@@ -189,8 +191,8 @@
                     <li><a href="poilus/paquet-leopold.php">PAQUET Léopold</a></li>
                     <li><a href="poilus/patou-druon-adrien.php">PATOU Druon Adrien</a></li>
                     <li><a href="poilus/pelez-alfred.php">PELEZ Alfred</a></li>
-                    <li><a href="poilus/hanze-augustin#Louis-pergaud">PERGAUD Louis</a></li>
-                    <li><a href="camps/camps-munster#Charles_Petit">PETIT Charles</a></li>
+                    <li><a href="poilus/hanze-augustin.php#Louis-pergaud">PERGAUD Louis</a></li>
+                    <li><a href="camps/camps-munster.php#Charles_Petit">PETIT Charles</a></li>
                     <li><a href="tombes/valenciennes.php#Etienne-Postille">POSTILLE Etienne</a></li>
                     <li><a href="poilus/CARLIER-Louis-Abraham.php#Prevost">PREVOST (prénom inconnu)</a></li> 
                     <li><a href="poilus/rousseaux-eugene-fernand.php">ROUSSEAUX Eugène Fernand</a></li>
@@ -198,7 +200,7 @@
                     <li><a href="poilus/MICHEL-Firmin.php#Roussel">ROUSSEL (prénom inconnu)</a></li>
                     <li><a href="camps/camp-mannheim.php#Gaston_Roussel">ROUSSEL Gaston</a></li>
                     <li><a href="poilus/DUBOIS-Emile-Edmond.php#Duperrier_Selva">SELVA (prénom inconnu)</a></li>
-                    <li><a href="poilus/FIEVET-Auguste-Victor#VonEmmich-Sordet">SORDET André</a></li>
+                    <li><a href="poilus/FIEVET-Auguste-Victor.php#VonEmmich-Sordet">SORDET André</a></li>
                     <li><a href="camps/camp-meyenburg.php#Lucien_Theaud">THEAUD Lucien</a></li>
                     <li><a href="poilus/tiburce-louis.php">TIBURCE Louis</a></li>
                     <li><a href="poilus/vanesse-alfred.php">VANESSE Alfred</a></li>
