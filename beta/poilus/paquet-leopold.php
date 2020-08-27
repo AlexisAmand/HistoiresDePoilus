@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -74,15 +74,15 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Léopold PAQUET</h1>
+        <h1 class="my-4">Léopold PAQUET</h1>
 
-        <p>Léopold PAQUET est né le 5 décembre 1886 à Reims, au domicile de ses parents situé Boulevard Saint-Marceaux, fils légitime de Joseph PAQUET et Marie Julia LEFEVRE, Léopold est l’aîné de 4 enfants : Edmond, né à Reims en 1888, Charles, né à Reims en 1895 et Camille, né à Reims en 1898.</p>
+        <p class="text-justify">Léopold PAQUET est né le 5 décembre 1886 à Reims, au domicile de ses parents situé Boulevard Saint-Marceaux, fils légitime de Joseph PAQUET et Marie Julia LEFEVRE, Léopold est l’aîné de 4 enfants : Edmond, né à Reims en 1888, Charles, né à Reims en 1895 et Camille, né à Reims en 1898.</p>
         
         <?php /* TODO : mettre son acte de naissance */ ?>
         
-        <p>Il épouse Marie-Hélène ARNOULD le 20 juin 1914, quelques mois avant la Mobilisation Générale et son départ pour la Grande Guerre, Pour la petite histoire, j’ai très bien connu André, le fils de Léopold et Marie-Hélène qui était le cousin germain de mon arrière-grand-père.</p>
+        <p class="text-justify">Il épouse Marie-Hélène ARNOULD le 20 juin 1914, quelques mois avant la Mobilisation Générale et son départ pour la Grande Guerre, Pour la petite histoire, j’ai très bien connu André, le fils de Léopold et Marie-Hélène qui était le cousin germain de mon arrière-grand-père.</p>
 
         <table class="census">
         <caption>Liste des domiciles de Léoplod PAQUET</caption>
@@ -126,7 +126,7 @@
             <figcaption>Vue générale de Pré-Saint-Gervais<br />(Source: Delcampe)</figcaption>
         </figure>
         
-        <p>Un coup d’oeil sur la fiche matricule de Léopold, qui porte le n°1864 du bureau de Reims pour la classe 1906, nous permet d’en apprendre un peu plus sur lui, outre les informations un peu plus intimes comme sa taille (1m56), la couleur de ses yeux (noirs) ou encore la forme de son visage, on lui découvre par exemple un niveau d’instruction de 3, ce qui signifie qu’il possède une instruction primaire. Globalement, les degrés d’instructions étaient répartis en 6 catégories qui permettaient d’évaluer le degré d’instruction du jeune qui se présentait devant le conseil de révision.</p>
+        <p class="text-justify">Un coup d’oeil sur la fiche matricule de Léopold, qui porte le n°1864 du bureau de Reims pour la classe 1906, nous permet d’en apprendre un peu plus sur lui, outre les informations un peu plus intimes comme sa taille (1m56), la couleur de ses yeux (noirs) ou encore la forme de son visage, on lui découvre par exemple un niveau d’instruction de 3, ce qui signifie qu’il possède une instruction primaire. Globalement, les degrés d’instructions étaient répartis en 6 catégories qui permettaient d’évaluer le degré d’instruction du jeune qui se présentait devant le conseil de révision.</p>
 
         <figure>    
             <a href="sources/degres-instruction.jpg" data-fancybox="gallery" data-caption="Les degrés d'instruction sur les fiches matricules">
@@ -134,9 +134,9 @@
             <figcaption>Les degrés d'instruction<br />(d'après Recrutement de l'Armée, BNF/Gallica)</figcaption>
         </figure> 
 
-        <p>Léopold fait parti des millions d’hommes mobilisés par le <a href="mobilisation-1914.php" title="Texte du décret de mobilisation générale d'Août 1914">décret du 1er août 1914</a>. Soldat de 2 classe, il rejoint le 106e Régiment d'Infanterie où il arrive dès le lendemain. Il passe au 19e Bataillon de Chasseurs à Pied le 20 mars 1916, quelques jours après que celui ci soit arrivé à Suippes (Marne), par une froide journée de neige, dans l’attente de renforts.</p>
+        <p class="text-justify">Léopold fait parti des millions d’hommes mobilisés par le <a href="mobilisation-1914.php" title="Texte du décret de mobilisation générale d'Août 1914">décret du 1er août 1914</a>. Soldat de 2 classe, il rejoint le 106e Régiment d'Infanterie où il arrive dès le lendemain. Il passe au 19e Bataillon de Chasseurs à Pied le 20 mars 1916, quelques jours après que celui ci soit arrivé à Suippes (Marne), par une froide journée de neige, dans l’attente de renforts.</p>
 
-        <p>Il est blessé à Bouchavesnes (Somme) le 7 octobre 1916, lors de l’attaque en direction de la « Tranchée de Fulda – Tête de Malassise ». Sa fiche matricule précise qu’il a des plaies au bras gauche et à la cuisse gauche dues à un éclats d’obus. Quelques jours plus tôt le bataillon avait été passé en revue par le président Poincaré, accompagné des généraux Joffre et Rocques.</p>
+        <p class="text-justify">Il est blessé à Bouchavesnes (Somme) le 7 octobre 1916, lors de l’attaque en direction de la « Tranchée de Fulda – Tête de Malassise ». Sa fiche matricule précise qu’il a des plaies au bras gauche et à la cuisse gauche dues à un éclats d’obus. Quelques jours plus tôt le bataillon avait été passé en revue par le président Poincaré, accompagné des généraux Joffre et Rocques.</p>
 
         <figure>
             <a href="images/cartes-bouchavenes.jpg" data-fancybox="gallery" data-caption="Les tranchées à Bouchavesnes">
@@ -146,19 +146,19 @@
         
         <h3>24 août 1917</h3>
 
-        <p>Il est proposé pour la réforme n°1 avec gratification renouvelable de 2e catégorie par la commission de Troyes du 24 août 1917 pour paralysie radiale du bras gauche.</p>
+        <p class="text-justify">Il est proposé pour la réforme n°1 avec gratification renouvelable de 2e catégorie par la commission de Troyes du 24 août 1917 pour paralysie radiale du bras gauche.</p>
 
         <h3>18 juin 1920</h3>
 
-        <p>Il est proposé pour pension temporaire de 80 % sur décision de la commission de réforme de chalon du 18 juin 120 : « infirmités multiples, paralysie radiale droite, limitation des mouvements de l’épaule gauche. »</p>
+        <p class="text-justify">Il est proposé pour pension temporaire de 80 % sur décision de la commission de réforme de chalon du 18 juin 120 : « infirmités multiples, paralysie radiale droite, limitation des mouvements de l’épaule gauche. »</p>
 
         <h3>29 juillet 1921</h3>
 
-        <p>Réformé proposé pour pension permanente de 75 %: « infirmités multiples, paralysie radiale droite, vaste cicatrice de la paroi antérieure de l’aisselle »</p>
+        <p class="text-justify">Réformé proposé pour pension permanente de 75 %: « infirmités multiples, paralysie radiale droite, vaste cicatrice de la paroi antérieure de l’aisselle »</p>
 
         <h3>21 octobre 1922</h3>
 
-        <p>Pension de 18000 concédée par arrêté en date du 21 octobre 1922 avec jouissance du 24 août 1921.</p>
+        <p class="text-justify">Pension de 18000 concédée par arrêté en date du 21 octobre 1922 avec jouissance du 24 août 1921.</p>
 
         <?php /* TODO : un p'ti paragraphe avec son décès */ ?>
         

@@ -58,13 +58,21 @@
 
 /* --------------------------------- */
 
+section {
+    background-color: #efefef;
+    }
+
 .h1, h1 {
     font-size: 1.8rem;
-}
+    }
+
+.h2, h2 {
+    font-size: 1.3rem;
+    }
 
 /* --------------------------------- */
 
 footer {
     background-color: #364046;
     color:white;
-}
+    }

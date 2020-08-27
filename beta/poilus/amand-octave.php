@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -69,11 +69,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Octave AMAND</h1>
+        <h1 class="my-4">Octave AMAND</h1>
 
-        <p>Octave AMAND est né à Harzé (Belgique), le 1er juin 1895, fils de Léopold AMAND, âgé de 57 ans, négociant et de Hortense RINCHON, son épouse, ménagère de 38 ans, tous deux domiciliés à Harzé. A l'heure où j'écris ces ligne, je n'ai pas - encore - trouvé de parenté avec lui.</p>
+        <p class="text-justify">Octave AMAND est né à Harzé (Belgique), le 1er juin 1895, fils de Léopold AMAND, âgé de 57 ans, négociant et de Hortense RINCHON, son épouse, ménagère de 38 ans, tous deux domiciliés à Harzé. A l'heure où j'écris ces ligne, je n'ai pas - encore - trouvé de parenté avec lui.</p>
 
         <figure>
             <a href="sources/naissance-octave-amand.jpg" data-fancybox="gallery" data-caption="Acte de naissance d'Octave AMAND">
@@ -81,9 +81,9 @@
             <figcaption>Acte de naissance d'Octave AMAND<br />(Source: Familysearch et Archives Belges)</figcaption>
         </figure>
 
-        <p>Elève de la première candidature en sciences naturelles, il franchit la frontière, en avril 1915, conquit, à l'école de Bayeux, le diplôme de sous-lieutenant au 11e régiment de ligne.</p>
+        <p class="text-justify">Elève de la première candidature en sciences naturelles, il franchit la frontière, en avril 1915, conquit, à l'école de Bayeux, le diplôme de sous-lieutenant au 11e régiment de ligne.</p>
 
-        <p>Il fut un officier d'un entrain et d'une intrépidité remarquables. Il s'est spécialement distingué, du 14 au 18 octobre 1918, à l'attaque de la Flandernstellung et de Lendelede, en réduisant plusieurs nids de mitrailleuses, en capturant un officier, 22 soldats et deux  mitrailleuses ennemies. Il mourut, le 6 décembre 1918, à Harzé, emporté par une grippe infectieuse.</p>
+        <p class="text-justify">Il fut un officier d'un entrain et d'une intrépidité remarquables. Il s'est spécialement distingué, du 14 au 18 octobre 1918, à l'attaque de la Flandernstellung et de Lendelede, en réduisant plusieurs nids de mitrailleuses, en capturant un officier, 22 soldats et deux  mitrailleuses ennemies. Il mourut, le 6 décembre 1918, à Harzé, emporté par une grippe infectieuse.</p>
 
         <figure>
             <a href="images/amand-octave.jpg" data-fancybox="gallery" data-caption="Portrait d'Octave AMAND">
@@ -91,7 +91,7 @@
             <figcaption>Octave AMAND</figcaption>
         </figure>
 
-        <p>Il est titulaire de l'Ordre de la Couronne et de la Croix de Guerre.</p>
+        <p class="text-justify">Il est titulaire de l'Ordre de la Couronne et de la Croix de Guerre.</p>
         
         <figure>
             <a href="images/ordre-de-la-couronne.jpg" data-fancybox="gallery" data-caption="Anvers de la médaille d'officier de l'ordre de la Couronne">

@@ -53,7 +53,7 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 
 </header>
 
-<section>
+<section class="row">
 
 <aside>
 
@@ -113,15 +113,15 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 
 </aside>
 
-    <article>
+    <article class="col-12">
 
-        <h1>Le camp de prisonniers de Würzburg</h1>
+        <h1 class="my-4">Le camp de prisonniers de Würzburg</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
-        <p></p>
+        <p class="text-justify"></p>
 
-        <p>Le camp de prisonniers de Würzburg était situé en Bavière (Allemagne). Les prisonniers du camp ont décrit avec beaucoup d'humour les profils de leurs gardiens (appelés <em>post</em> ou <em>posten</em>), qui vont du brave père de famille, le "<em>post doux [...] qui cause avec les prisonniers</em>", au stéréotype prussien, "<em>le post terrible [...] qui ne dit mot, tortille ses moustaches et qu'il ne ferait pas bon de contrarier</em>", en passant par le gardien austère, "<em>le post sérieux [...] qui voit en ville son groupe de prisonniers reluquer avec insistance vers les trottoirs, et qui est choqué, absolument choqué</em>".</p>
+        <p class="text-justify">Le camp de prisonniers de Würzburg était situé en Bavière (Allemagne). Les prisonniers du camp ont décrit avec beaucoup d'humour les profils de leurs gardiens (appelés <em>post</em> ou <em>posten</em>), qui vont du brave père de famille, le "<em>post doux [...] qui cause avec les prisonniers</em>", au stéréotype prussien, "<em>le post terrible [...] qui ne dit mot, tortille ses moustaches et qu'il ne ferait pas bon de contrarier</em>", en passant par le gardien austère, "<em>le post sérieux [...] qui voit en ville son groupe de prisonniers reluquer avec insistance vers les trottoirs, et qui est choqué, absolument choqué</em>".</p>
 
         <figure>
             <a href="images/Wurzburg/localisation-wurzburg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Würzburg">
@@ -129,7 +129,7 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
             <figcaption>Localisation du camp de Würzburg<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
-        <p>Le « Rapports des délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne » indique qu'au 19 août 1916, il y a environ 1500 prisonniers dans le camp de Würzburg.</p>
+        <p class="text-justify">Le « Rapports des délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne » indique qu'au 19 août 1916, il y a environ 1500 prisonniers dans le camp de Würzburg.</p>
 
         <figure>
             <a href="images/wurzburg-01.png" data-fancybox="gallery" data-caption="La salle des lavabos dans le camp de Würzburg">

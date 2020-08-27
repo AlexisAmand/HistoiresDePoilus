@@ -52,7 +52,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -73,13 +73,13 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Les morts pour la France à Capelle-sur-Ecaillon</h1>
+        <h1 class="my-4">Les morts pour la France à Capelle-sur-Ecaillon</h1>
 
-        <p></p>
+        <p class="text-justify"></p>
 
-        <p>Voici la liste des morts pour la France et des victimes civiles de Capelle-sur-Ecaillon (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php">laissant un petit message.</a></p>
+        <p class="text-justify">Voici la liste des morts pour la France et des victimes civiles de Capelle-sur-Ecaillon (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php">laissant un petit message.</a></p>
 
         <figure>
             <a href="images/capelle-sur-ecaillon.jpg" data-fancybox="gallery" data-caption="Le monument de Capelle-sur-Ecaillon">
@@ -91,7 +91,7 @@
 
         <h2>Léon Paul BASUYAU</h2>
 
-        <p>Soldat au 127e Régiment d'Infanterie, Léon Paul BASUYAU est né à Capelle-sur-Ecaillon (Nord) le 20 avril 1889. Il est tué à l'ennemi à Menil-les-Hurlus (Marne) le 19 février 1915. Son nom figure sur le monument aux morts et dans le livre d'or de la commune.</p>
+        <p class="text-justify">Soldat au 127e Régiment d'Infanterie, Léon Paul BASUYAU est né à Capelle-sur-Ecaillon (Nord) le 20 avril 1889. Il est tué à l'ennemi à Menil-les-Hurlus (Marne) le 19 février 1915. Son nom figure sur le monument aux morts et dans le livre d'or de la commune.</p>
 
         <figure>
             <a href="images/Carnet_de_guerre_Albert_Labbé_plan_article.png" data-fancybox="gallery" data-caption="Plan de l'avancée de l'armée française dans la région de Perthes-les-Hurlus (1915)">
@@ -104,7 +104,7 @@
 
         <h2>Edouard Gaston DECOSTER</h2>
 
-        <p>Edouard est né à Saint-Pol-sur-Mer (Nord) le 11 octobre 1889. Soldat au 110e d'Infanterie, il est décédé des suites de ses blessures de guerre à l'hôpital complémentaire n°42 d'Orléans (Loiret) le 21 décembre 1914. Son nom figure sur le monument aux morts de la commune mais il est indiqué comme radié du livre d'or. L'hôpital complémentaire n°42 était situé au lycée de garçons. Il a fonctionné d'août 1914 à juillet 1917 et comportait 160 lits.</p>
+        <p class="text-justify">Edouard est né à Saint-Pol-sur-Mer (Nord) le 11 octobre 1889. Soldat au 110e d'Infanterie, il est décédé des suites de ses blessures de guerre à l'hôpital complémentaire n°42 d'Orléans (Loiret) le 21 décembre 1914. Son nom figure sur le monument aux morts de la commune mais il est indiqué comme radié du livre d'or. L'hôpital complémentaire n°42 était situé au lycée de garçons. Il a fonctionné d'août 1914 à juillet 1917 et comportait 160 lits.</p>
 
         <figure>
             <a href="../hopitaux/images/lycee-orleans.jpg" data-fancybox="gallery" data-caption="Le Lycée de garçons d'Orléans où s'installe l'Hôpital Complémentaire n°42">
@@ -116,7 +116,7 @@
 
         <h2>Joseph VANESSE</h2>
 
-        <p>Mini-bio à venir.</p>
+        <p class="text-justify">Mini-bio à venir.</p>
 
         <h2>Victimes civiles</h2>
 

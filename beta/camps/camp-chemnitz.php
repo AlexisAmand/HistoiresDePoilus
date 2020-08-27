@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -113,13 +113,13 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Chemnitz</h1>
+        <h1 class="my-4">Le camp de prisonniers de Chemnitz</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
-        <p>Ce camp est situé à Chemnitz, dans le Vogtland, une région située à l'est de l'Allemagne, à la limite de la Saxe et de la Bavière.</p>
+        <p class="text-justify">Ce camp est situé à Chemnitz, dans le Vogtland, une région située à l'est de l'Allemagne, à la limite de la Saxe et de la Bavière.</p>
 
         <figure>
             <a href="images/Chemnitz/carte-camp-chemnitz.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Chemnitz"> 
@@ -127,7 +127,7 @@
             <figcaption>Localisation du camp de Chemnitz<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
-        <p>En novembre 1915, l'Office d'information des oeuvres de secours aux prisonniers de guerre est informé que tous les prisonniers civils appartenant au camp de Chemnitz viennent d'être transférés au camp de Grofsporitscg Bei Zittau (Saxe). Lors de la visite du camp le 12, le dépôt de prisonniers est installé à la caserne Friedrich August, elle-même située dans le quartier Ebensdorf.</p>
+        <p class="text-justify">En novembre 1915, l'Office d'information des oeuvres de secours aux prisonniers de guerre est informé que tous les prisonniers civils appartenant au camp de Chemnitz viennent d'être transférés au camp de Grofsporitscg Bei Zittau (Saxe). Lors de la visite du camp le 12, le dépôt de prisonniers est installé à la caserne Friedrich August, elle-même située dans le quartier Ebensdorf.</p>
 
         <figure>
             <img src="miniatures/Chemnitz/caserne-friedrich-august.jpg" data-fancybox="gallery" alt="La caserne Friedrich August à Chemnitz">
@@ -140,7 +140,7 @@
             <figcaption>Répartition des prisonniers en 1915<br />(Cliquez pour agrandir)</figcaption>
         </figure>
 
-        <p>Des maladies comme le typhus ou le choléra font très vite leur apparition dans les camps de prisonniers comme celui de Chemnitz où survit désormais <a href="../poilus/GRAIN-Louis.php">Louis GRAIN</a>. Le confinement des logements, le nombre de prisonniers par baraque qui est en moyenne de 250, expliquent en partie le phénomène car l'atmosphère viciée se renouvelle très peu. Dans sa thèse "Gefangen im Großen Krieg", Uta Hinz explique qu'en février 1915, le camp de Chemnitz a été mis sous quarantaine. Un des prisonniers avait alors écrit que les seules voitures qui s'approchent du camp étaient celles qui transportaient les cercueils. Au total, on estime à 44732 le nombre de prisonniers de guerre ayant été victimes du typhus.</p>
+        <p class="text-justify">Des maladies comme le typhus ou le choléra font très vite leur apparition dans les camps de prisonniers comme celui de Chemnitz où survit désormais <a href="../poilus/GRAIN-Louis.php">Louis GRAIN</a>. Le confinement des logements, le nombre de prisonniers par baraque qui est en moyenne de 250, expliquent en partie le phénomène car l'atmosphère viciée se renouvelle très peu. Dans sa thèse "Gefangen im Großen Krieg", Uta Hinz explique qu'en février 1915, le camp de Chemnitz a été mis sous quarantaine. Un des prisonniers avait alors écrit que les seules voitures qui s'approchent du camp étaient celles qui transportaient les cercueils. Au total, on estime à 44732 le nombre de prisonniers de guerre ayant été victimes du typhus.</p>
 
         <figure>
             <a href="images/chemnitz-cholera.jpg" data-fancybox="gallery" data-caption="La vaccination contre le choléra">
@@ -148,7 +148,7 @@
             <figcaption>La vaccination contre le choléra<br />(source allemande)</figcaption>
         </figure>
 
-        <p>La même année, suite à une visite dans les camps de prisonniers français en Allemagne, les délégués du gouvernement espagnol décrivent les baraques du camp de Chemnitz comme <em>"de grandes salles ayant 15m de large sur 120m de long. Les lits (matelas de fibres de bois et 2 couvertures) sont placés perpendiculairement au sens de la longueur; au centre et sur toute la longueur du local sont installés des tables et des bancs. Il reste néanmoins un espace suffisant pour le passage".</em></p> 
+        <p class="text-justify">La même année, suite à une visite dans les camps de prisonniers français en Allemagne, les délégués du gouvernement espagnol décrivent les baraques du camp de Chemnitz comme <em>"de grandes salles ayant 15m de large sur 120m de long. Les lits (matelas de fibres de bois et 2 couvertures) sont placés perpendiculairement au sens de la longueur; au centre et sur toute la longueur du local sont installés des tables et des bancs. Il reste néanmoins un espace suffisant pour le passage".</em></p> 
 
         <figure>
             <a href="images/Chemnitz/chemnitz-01.jpg" data-fancybox="gallery" data-caption="L'intérieur d'une baraque de Chemnitz">
@@ -156,7 +156,7 @@
             <figcaption>L'intérieur d'une baraque<br />(source : Delcampe)</figcaption>
         </figure>
 
-        <p>Ils précisent aussi que les prisonniers sont <em>"affectés à différents métiers comme dans les autres dépôts ; le salaire des ouvriers travaillant dans  les fabriques est de 1 mark par jour en dehors des frais de leur entretien"</em>.</p>
+        <p class="text-justify">Ils précisent aussi que les prisonniers sont <em>"affectés à différents métiers comme dans les autres dépôts ; le salaire des ouvriers travaillant dans  les fabriques est de 1 mark par jour en dehors des frais de leur entretien"</em>.</p>
 
         <figure>
             <a href="images/chemnitz-01.jpg" data-fancybox="gallery" data-caption="L'atelier de charronnerie">
@@ -170,11 +170,11 @@
             <figcaption>Concert de dimanche des prisonniers<br />(source allemande)</figcaption>
         </figure>
 
-        <p>En avril 1916, les délégués du Comité International de la Croix-Rouge, dans leur rapport sur leurs visites dans les camps allemands, décrivent dans les termes suivants la peine du peloton avec fardeau, qui, à Chemnitz, a remplacé le poteau: Le prisonnier est emmené sur le terrain d'exécution chargé d'un sac de 15 kilogrammes. Un feldwebel<sup>1</sup> allemand commande un quart d'heure de pas accéléré; un quart d'heure de pas de gymnastique et accéléré; un quart d'heure de pas de gymnastique et de mouvements à genou et couché; un quart d'heure de gymnastique. Entre chaque quart d'heure, le prisonnier à 2 ou 3 minutes de repos. Dans certaines compagnies, un adjudant sous-officier français assiste à l'exécution de la peine.</p><p>Le camp de Chemnitz est évacué le 4 janvier 1919.</p>
+        <p class="text-justify">En avril 1916, les délégués du Comité International de la Croix-Rouge, dans leur rapport sur leurs visites dans les camps allemands, décrivent dans les termes suivants la peine du peloton avec fardeau, qui, à Chemnitz, a remplacé le poteau: Le prisonnier est emmené sur le terrain d'exécution chargé d'un sac de 15 kilogrammes. Un feldwebel<sup>1</sup> allemand commande un quart d'heure de pas accéléré; un quart d'heure de pas de gymnastique et accéléré; un quart d'heure de pas de gymnastique et de mouvements à genou et couché; un quart d'heure de gymnastique. Entre chaque quart d'heure, le prisonnier à 2 ou 3 minutes de repos. Dans certaines compagnies, un adjudant sous-officier français assiste à l'exécution de la peine.</p><p class="text-justify">Le camp de Chemnitz est évacué le 4 janvier 1919.</p>
 
-        <p></p>
+        <p class="text-justify"></p>
 
-        <p class="note"><sup>1</sup> Le grade de feldwebel se popularise dans l'armée allemande au début du XIXe siècle. Plus haut grade de sous-officier jusqu'en 1918, au sein de la Deutsches Heer (nom de l'armée de terre allemande de 1871 à 1919). Le Feldwebel est alors en charge d'une compagnie. Selon le Larousse, il correspond au grade d'adjudant.</p><p></p>
+        <p class="note"><sup>1</sup> Le grade de feldwebel se popularise dans l'armée allemande au début du XIXe siècle. Plus haut grade de sous-officier jusqu'en 1918, au sein de la Deutsches Heer (nom de l'armée de terre allemande de 1871 à 1919). Le Feldwebel est alors en charge d'une compagnie. Selon le Larousse, il correspond au grade d'adjudant.</p><p class="text-justify"></p>
 
         <h2>Sources et bibliographie</h2>
 

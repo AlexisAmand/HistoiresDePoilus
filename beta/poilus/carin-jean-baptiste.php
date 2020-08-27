@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -106,11 +106,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Jean Baptiste CARIN</h1>
+        <h1 class="my-4">Jean Baptiste CARIN</h1>
 
-		<p>Jean Baptiste CARIN est né à Lourches (Nord) le 4 octobre 1880, fils légitime de François Louis CARIN et Pauline DUSSART, tout deux domiciliés à Lourches. Il a plusieurs frères et sœurs dont <a href="carin-alfred.php" title="Biographie du poilu Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" Title="Biographie du poilu Edouard CARIN">Edouard</a>, <a href="carin-joseph.php" title="Biographie du poilu Joseph CARIN">Joseph</a>, <a href="CARIN-Leon.php" title="Biographie du poilu Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du poilu Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
+		<p class="text-justify">Jean Baptiste CARIN est né à Lourches (Nord) le 4 octobre 1880, fils légitime de François Louis CARIN et Pauline DUSSART, tout deux domiciliés à Lourches. Il a plusieurs frères et sœurs dont <a href="carin-alfred.php" title="Biographie du poilu Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" Title="Biographie du poilu Edouard CARIN">Edouard</a>, <a href="carin-joseph.php" title="Biographie du poilu Joseph CARIN">Joseph</a>, <a href="CARIN-Leon.php" title="Biographie du poilu Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du poilu Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
 		
 		<figure>
             <a href="sources/carin-jb-naissance-1880.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Jean Baptiste CARIN">
@@ -118,14 +118,14 @@
             <figcaption>Acte de naissance de Jean Baptiste<br />(source: Archives Départementales du Nord)</figcaption>
         </figure>
         
-        <p>Le 5 décembre 1904 à Roeulx (Nord), il épouse Anise MAUTET.</p>
+        <p class="text-justify">Le 5 décembre 1904 à Roeulx (Nord), il épouse Anise MAUTET.</p>
         
         <?php // TODO: Quelques précisions sur son mariage comme où il habite ou le nom de ses beaux parents ?>
         <?php // TODO: Dans le même § quelques lignes sur sa situation pendant le census de 1906 ?>
 		
 		<?php // TODO: Pour illustrer, un extrait du rencement d'après les AD 59 ?>
         		
-		<p>Il semble y avoir un problème concernant les recherches sur le parcours de Jean Baptiste CARIN pendant la Première Guerre Mondiale. Sa fiche matricule indique qu’il est réformé pour déformation des pieds (1915) puis pour pleurite chronique (1916) et est donc mis en sursis d’appel aux mines de Vendin-les-Béthune. Pourtant, j’ai trouvé une fiche de la Croix Rouge. J’ai bien pensé à un homonyme, mais la dite fiche mentionne également ses frères Théophile, qui est présent en Afrique pendant la Grande Guerre, et Joseph, qui est prisonnier aux camps de <a href="../camps/camp-darmstadt.php" title="Le camp de prisonnier de Darmstadt">Darmstadt</a> et <a href="../camps/camp-schneidemuhl.php" title="Le camp de prisonnier de Schneidemühl">Schneidemühl</a>.</p>
+		<p class="text-justify">Il semble y avoir un problème concernant les recherches sur le parcours de Jean Baptiste CARIN pendant la Première Guerre Mondiale. Sa fiche matricule indique qu’il est réformé pour déformation des pieds (1915) puis pour pleurite chronique (1916) et est donc mis en sursis d’appel aux mines de Vendin-les-Béthune. Pourtant, j’ai trouvé une fiche de la Croix Rouge. J’ai bien pensé à un homonyme, mais la dite fiche mentionne également ses frères Théophile, qui est présent en Afrique pendant la Grande Guerre, et Joseph, qui est prisonnier aux camps de <a href="../camps/camp-darmstadt.php" title="Le camp de prisonnier de Darmstadt">Darmstadt</a> et <a href="../camps/camp-schneidemuhl.php" title="Le camp de prisonnier de Schneidemühl">Schneidemühl</a>.</p>
 		
 		<figure>
             <a href="sources/jb-carin-circ.jpg" data-fancybox="gallery" data-caption="Fiche de la Croix-Rouge de Jean-Baptiste CARIN">

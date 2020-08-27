@@ -56,15 +56,15 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
-        <article style="margin-left:0px;">
+        <article class="col-12">
 
-            <h1>Les poilus</h1>
+            <h1 class="my-4">Les poilus</h1>
 
             <h2>Qu'est-ce que c'est un poilu ?</h2>
 
-            <p>Avant de vous donner quelques chiffres, je vous propose de revenir avec vous sur le sens du mot « poilu », utilisé pour désigner les combattants français de la Grande Guerre. Contrairement aux idées reçues, le « poilu » ne doit pas son nom aux  mauvaises conditions d'hygiènes qui régnaient sur le front et qui auraient poussé les hommes à se laisser pousser la barbe et la moustache. Le terme "poilu" est en réalité apparu un siècle avant la Première Guerre Mondiale, sous le Premier Empire. Le linguiste français Albert DAUZAT (1877-1955) indique qu' "<em>Avant d'être le soldat de la Marne, le "poilu" est le grognard d'Austerlitz, ce n'est pas l'homme à la barbe inculte, qui n'a pas le temps de se raser, ce serait trop pittoresque, c'est beaucoup mieux : c'est l'homme qui a du poil au bon endroit, pas dans la main !</em>". Il précise également que c'est les civils de 1914 qui ont fait du poilu le soldat combattant. Je ne sais pas ce qu'elle vaut d'un point de vue historique, mais je pense que la carte postale qui suit résume très bien la chose.</p>
+            <p class="text-justify">Avant de vous donner quelques chiffres, je vous propose de revenir avec vous sur le sens du mot « poilu », utilisé pour désigner les combattants français de la Grande Guerre. Contrairement aux idées reçues, le « poilu » ne doit pas son nom aux  mauvaises conditions d'hygiènes qui régnaient sur le front et qui auraient poussé les hommes à se laisser pousser la barbe et la moustache. Le terme "poilu" est en réalité apparu un siècle avant la Première Guerre Mondiale, sous le Premier Empire. Le linguiste français Albert DAUZAT (1877-1955) indique qu' "<em>Avant d'être le soldat de la Marne, le "poilu" est le grognard d'Austerlitz, ce n'est pas l'homme à la barbe inculte, qui n'a pas le temps de se raser, ce serait trop pittoresque, c'est beaucoup mieux : c'est l'homme qui a du poil au bon endroit, pas dans la main !</em>". Il précise également que c'est les civils de 1914 qui ont fait du poilu le soldat combattant. Je ne sais pas ce qu'elle vaut d'un point de vue historique, mais je pense que la carte postale qui suit résume très bien la chose.</p>
 
             <figure>
                 <a href="poilus/images/carte-postale-sonnet-humour-poilus-soldat.jpg" data-fancybox="gallery" data-caption="Qu'est-ce qu'un poilu ?">
@@ -72,18 +72,18 @@
                 <figcaption>Qu'est-ce qu'un poilu ?<br />(Source: Musée de la Carte Postale)</figcaption>
             </figure>
 
-            <p>Pour faire simple, et surtout pour faciliter la lecture, j'ai regroupé tous les combattants sous le terme de poilu, mais je dois avouer qu'il s'agit là d'un abus de langage, car dans l'état actuel de mes recherches, j'ai pu constater que seuls les français et parfois les belges étaient qualifiés de cette façon. En réalité, les autres belligérants de la Grande Guerre avaient eux aussi leurs petits noms en fonction de leur origine ou de leur corps d'engagement. Ainsi, on peut entendre parler dans les documents d'époque de <em>diggers</em> pour l'Australie, de <em>Mehmetçik</em> pour l'Empire Ottoman, de <em>Kiwis</em> pour la Nouvelle-Zélande ou encore de <em>Serranos</em> pour le Portugal.</p>
+            <p class="text-justify">Pour faire simple, et surtout pour faciliter la lecture, j'ai regroupé tous les combattants sous le terme de poilu, mais je dois avouer qu'il s'agit là d'un abus de langage, car dans l'état actuel de mes recherches, j'ai pu constater que seuls les français et parfois les belges étaient qualifiés de cette façon. En réalité, les autres belligérants de la Grande Guerre avaient eux aussi leurs petits noms en fonction de leur origine ou de leur corps d'engagement. Ainsi, on peut entendre parler dans les documents d'époque de <em>diggers</em> pour l'Australie, de <em>Mehmetçik</em> pour l'Empire Ottoman, de <em>Kiwis</em> pour la Nouvelle-Zélande ou encore de <em>Serranos</em> pour le Portugal.</p>
 
             <figure>
                 <img src="poilus/miniatures/depart-des-poilus-albert-herter.jpg" alt="Le départ des poilus par Albert Herbert">
                 <figcaption>Le Départ des Poilus<br />(par Albert Herbert)</figcaption>
             </figure>
 
-            <p>N'hésitez pas à consulter la <a href="index_noms.php" title="liste des soldats mentionnés sur le site Histoires de Poilus">liste des soldats mentionnés</a> sur le site ou à lire <a href="poilus/amand-hoche.php" title="biographies de soldats de la Première Guerre Mondiale">les biographies de soldats</a>.</p>
+            <p class="text-justify">N'hésitez pas à consulter la <a href="index_noms.php" title="liste des soldats mentionnés sur le site Histoires de Poilus">liste des soldats mentionnés</a> sur le site ou à lire <a href="poilus/amand-hoche.php" title="biographies de soldats de la Première Guerre Mondiale">les biographies de soldats</a>.</p>
 
             <h2>Quelles étaient les forces en présence ?</h2>
 
-            <p>Dès l'été 1914, la France et l'Allemagne étaient en position de force. En effet, le service militaire obligatoire leur permettait de mobiliser un nombre très important d'hommes : 3,6 millions pour la France et 4 millions pour l'Allemagne.  Ces chiffres sont toutefois à relativiser car ils prennent en compte les territoriaux qui sont chargés de faire fonctionner l'administration de guerre et de garder les voies de communication (c'est par exemple le cas de <a href="poilus/JOLY-Noel-Jules.php" title="Biographie du poilu Noël JOLY">Noël JOLY</a> ou d'<a href="poilus/MAILLART-Alexandre.php" title="Biographie du poilu Alexandre MAILLART">Alexandre MAILLART</a>). Il faut donc ramener le nombre de combattants à 1,3 millions pour la France et 1,5 millions pour l'Allemagne. De plus, en cas de guerre, la classe première à marcher pouvait être appelée par anticipation. C'est pourquoi l'armée active comprenait également en août la classe 1913 (hommes nés en 1893) qui n'aurait dû être appelée qu'à l'automne.</p>
+            <p class="text-justify">Dès l'été 1914, la France et l'Allemagne étaient en position de force. En effet, le service militaire obligatoire leur permettait de mobiliser un nombre très important d'hommes : 3,6 millions pour la France et 4 millions pour l'Allemagne.  Ces chiffres sont toutefois à relativiser car ils prennent en compte les territoriaux qui sont chargés de faire fonctionner l'administration de guerre et de garder les voies de communication (c'est par exemple le cas de <a href="poilus/JOLY-Noel-Jules.php" title="Biographie du poilu Noël JOLY">Noël JOLY</a> ou d'<a href="poilus/MAILLART-Alexandre.php" title="Biographie du poilu Alexandre MAILLART">Alexandre MAILLART</a>). Il faut donc ramener le nombre de combattants à 1,3 millions pour la France et 1,5 millions pour l'Allemagne. De plus, en cas de guerre, la classe première à marcher pouvait être appelée par anticipation. C'est pourquoi l'armée active comprenait également en août la classe 1913 (hommes nés en 1893) qui n'aurait dû être appelée qu'à l'automne.</p>
 
             <table class="tab_camp">
                 <tr>
@@ -108,7 +108,7 @@
                 </tr>
             </table>
 
-            <p>Les Britanniques, de leur côté, ne peuvent aligner qu'une armée professionnelle d'environ 100 000 hommes car la conscription n'existe pas au début de la guerre (elle sera mise en place en 1916). En attendant, ils peuvent uniquement compter sur le volontariat. La Russie et l'Autriche-Hongrie disposent quant à elles respectivement de 1,3 et 1,1 millions d'hommes.</p>
+            <p class="text-justify">Les Britanniques, de leur côté, ne peuvent aligner qu'une armée professionnelle d'environ 100 000 hommes car la conscription n'existe pas au début de la guerre (elle sera mise en place en 1916). En attendant, ils peuvent uniquement compter sur le volontariat. La Russie et l'Autriche-Hongrie disposent quant à elles respectivement de 1,3 et 1,1 millions d'hommes.</p>
 
             <figure>
                 <img src="poilus/miniatures/volontaires-britanniques.jpg" alt="des volontaires britanniques en 1914">
@@ -260,7 +260,7 @@
 
             <?php /* TODO : Peut-être revoir le texte */ ?>
 
-            <p>La Grande Guerre, c'est aussi le destin de millions d'hommes qui sont rentrés meurtris tant d'un point de vue physique que d'un point de vue psychologique. Pour certains des poilus présents sur mon site, j'ai eu la chance, grâce à l'aide de bénévoles que je tiens à remercier une nouvelle fois, d'obtenir les dossiers d'anciens combattants que je partage ici avec vous.</p>
+            <p class="text-justify">La Grande Guerre, c'est aussi le destin de millions d'hommes qui sont rentrés meurtris tant d'un point de vue physique que d'un point de vue psychologique. Pour certains des poilus présents sur mon site, j'ai eu la chance, grâce à l'aide de bénévoles que je tiens à remercier une nouvelle fois, d'obtenir les dossiers d'anciens combattants que je partage ici avec vous.</p>
 
             <div id="colindex">
 

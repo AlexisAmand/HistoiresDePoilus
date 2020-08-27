@@ -52,7 +52,7 @@
 
 </header>
 
-  <section>
+  <section class="row">
 
   <aside>
 
@@ -73,13 +73,13 @@
     
     </aside>
 
-      <article>
+      <article class="col-12">
 
-      <h1>Les monuments à Awoingt</h1>
+      <h1 class="my-4">Les monuments à Awoingt</h1>
 
       <h2>Le monument anglais</h2>
 
-      <p>Le 9 octobre 1918 à environ 3 mètres en amont de ce calvaire au point marqué par une croix. Les officiers et hommes de troupe anglais dont les noms suivent ont été instantanément tués par un projectile ennemi. Ils sont inhumés au <a href="#cma">cimetière militaire d'Awoingt</a>.</p>
+      <p class="text-justify">Le 9 octobre 1918 à environ 3 mètres en amont de ce calvaire au point marqué par une croix. Les officiers et hommes de troupe anglais dont les noms suivent ont été instantanément tués par un projectile ennemi. Ils sont inhumés au <a href="#cma">cimetière militaire d'Awoingt</a>.</p>
 
       <ul>
           <li>Le lieutenant W.G.G. LEVESON-GOWER, des Coldstream Guards</li>

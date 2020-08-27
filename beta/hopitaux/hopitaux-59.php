@@ -53,9 +53,9 @@
 
 </header>
 	
-	<section>
+	<section class="row">
 		
-	<article>
+	<article class="col-12">
 		
 		<h2>Les hôpitaux du Nord pendant la Grande Guerre</h2>
 			
@@ -69,7 +69,7 @@
 
 		<h3>Les hôpitaux de Lourches</h3>
 
-		<p>L'école voltaire de Lourches fut transformée en hôpital militaire, équipé de trois blocs opératoires. Les blessés et malades transportables étaient évacués vers Valenciennes par le tramway, à l'époque à vapeur, transformé en train sanitaire.</p>
+		<p class="text-justify">L'école voltaire de Lourches fut transformée en hôpital militaire, équipé de trois blocs opératoires. Les blessés et malades transportables étaient évacués vers Valenciennes par le tramway, à l'époque à vapeur, transformé en train sanitaire.</p>
 
 		<h3>Les hôpitaux de Roubaix</h3>
 
@@ -87,7 +87,7 @@
 
 		<h3>Les hôpitaux de Valenciennes</h3>
 		
-			<p>L'hôpital mixte de Valenciennes était situé dans l'une des l'ailes de l'hôpital Général (aujourd'hui connu sous le nom d'Hôpital du Hainaut).</p>
+			<p class="text-justify">L'hôpital mixte de Valenciennes était situé dans l'une des l'ailes de l'hôpital Général (aujourd'hui connu sous le nom d'Hôpital du Hainaut).</p>
 		
 			<figure>
 				<a href="images/valenciennes-hmx.jpg" data-fancybox="gallery" data-caption="L'hôpital mixte de Valenciennes">
@@ -95,7 +95,7 @@
 				<figcaption>L'Hôpital Général<br />(Source: Archives Municipales de Valenciennes)</figcaption>
 			</figure>
 		
-			<p>Dés 1914, la Société de secours aux blessés militaires (S.S.B.M.) met en place deux hôpitaux auxiliaires situés au collège Notre-Dame (HA n°2) et au lycée de jeunes filles (HA n°2 bis). Ils fonctionnent jusque novembre 1915, date à laquelle les Allemands occupent les structures sanitaires de la Valenciennes.</p>
+			<p class="text-justify">Dés 1914, la Société de secours aux blessés militaires (S.S.B.M.) met en place deux hôpitaux auxiliaires situés au collège Notre-Dame (HA n°2) et au lycée de jeunes filles (HA n°2 bis). Ils fonctionnent jusque novembre 1915, date à laquelle les Allemands occupent les structures sanitaires de la Valenciennes.</p>
 		
 			<figure>
 				<a href="images/valenciennes-ha-2.jpg" data-fancybox="gallery" data-caption="L'hôpitaux auxiliaires n°2 bis au lycée de jeunes filles (Valenciennes)">

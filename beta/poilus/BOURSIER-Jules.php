@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -107,9 +107,9 @@
 
         <article id="articlemenu">
 
-        <h1>Jules Henri BOURSIER</h1>
+        <h1 class="my-4">Jules Henri BOURSIER</h1>
 
-        <p><strong>Jules Henri BOURSIER</strong> est né à Onnaing (Nord) le 7 décembre 1879, fils légitime de Edouard François BOURSIER, cultivateur, et de Julia JUDES. En 1906, il est chaudronnier et vit chez ses parents à Onnaing (Rue De La Chevauchoire), avec son frère Édouard. Le 19 novembre de la même année, il épouse Suzanne Hyacinthe GODIN (1879-1939). </p> 
+        <p class="text-justify"><strong>Jules Henri BOURSIER</strong> est né à Onnaing (Nord) le 7 décembre 1879, fils légitime de Edouard François BOURSIER, cultivateur, et de Julia JUDES. En 1906, il est chaudronnier et vit chez ses parents à Onnaing (Rue De La Chevauchoire), avec son frère Édouard. Le 19 novembre de la même année, il épouse Suzanne Hyacinthe GODIN (1879-1939). </p> 
 
         <figure>
             <a href="images/BOURSIER-Jules-Henri-naissance-1879.jpg" data-fancybox="gallery" data-caption="acte de naissance de Jules Henri BOURSIER">
@@ -117,7 +117,7 @@
             <figcaption>Acte de naissance de Jules Henri BOURSIER<br />(source: Archives Départementales du Nord)</figcaption>
         </figure>
 
-        <p><strong>Jules Henri BOURSIER</strong> est le poilu avec lequel ma parenté est la plus éloignée car il était marié avec Suzanne GODIN, descendante de quatre de mes ancêtres ayant vécu à la fin du XVIIe et au début du XVIIIe siècle. J'ai trouvé la photo ci-dessous grâce à un membre de Geneanet. Il me reste à comprendre pourquoi il y a 16 sur son col, alors qu'il faisait parti du <strong>1er Régiment d'Artillerie à Pied</strong> pendant la Première Guerre Mondiale. Peut-être que la photo n'est pas contemporaine au conflit ?</p>
+        <p class="text-justify"><strong>Jules Henri BOURSIER</strong> est le poilu avec lequel ma parenté est la plus éloignée car il était marié avec Suzanne GODIN, descendante de quatre de mes ancêtres ayant vécu à la fin du XVIIe et au début du XVIIIe siècle. J'ai trouvé la photo ci-dessous grâce à un membre de Geneanet. Il me reste à comprendre pourquoi il y a 16 sur son col, alors qu'il faisait parti du <strong>1er Régiment d'Artillerie à Pied</strong> pendant la Première Guerre Mondiale. Peut-être que la photo n'est pas contemporaine au conflit ?</p>
 
         <figure>
             <a href="portraits/BOURSIER-Jules-Henri.jpg" data-fancybox="gallery" data-caption="portrait de Jules Henri BOURSIER">
@@ -163,7 +163,7 @@
 
         <h2> La mobilisation d'août 1914</h2>
 
-        <p><strong>Jules</strong> est âgé de 35 ans lors de mobilisation. Il est rappelé à l'activité et arrive au <strong>1er Régiment d'Artillerie à Pied</strong> le 2 août 1914. La portion centrale de ce régiment était à Dunkerque avec les 4e, 6e et 7e batteries, la 3e était à Boulogne, la 5e à Calais et enfin les 1re et 2e étaient à Maubeuge. </p><p>Pas moins de 3 780 000 hommes sont mobilisés en août 1914. Au total, durant toute la guerre, environ 8 410 000 soldats et marins français seront mobilisés, dont 7 % de soldats indigènes venant des colonies de l'Empire. Parmi tous ces soldats, 1 397 800 sont <a href="../tombes.php">morts pour la France</a> et 4 266 000 ont été blessés au combat.</p>
+        <p class="text-justify"><strong>Jules</strong> est âgé de 35 ans lors de mobilisation. Il est rappelé à l'activité et arrive au <strong>1er Régiment d'Artillerie à Pied</strong> le 2 août 1914. La portion centrale de ce régiment était à Dunkerque avec les 4e, 6e et 7e batteries, la 3e était à Boulogne, la 5e à Calais et enfin les 1re et 2e étaient à Maubeuge. </p><p class="text-justify">Pas moins de 3 780 000 hommes sont mobilisés en août 1914. Au total, durant toute la guerre, environ 8 410 000 soldats et marins français seront mobilisés, dont 7 % de soldats indigènes venant des colonies de l'Empire. Parmi tous ces soldats, 1 397 800 sont <a href="../tombes.php">morts pour la France</a> et 4 266 000 ont été blessés au combat.</p>
 
         <figure>
         <a href="sources/BOURSIER-Jules-Henri-matricule-01.jpg" data-fancybox="gallery" data-caption="extrait sa fiche matricule">
@@ -173,7 +173,7 @@
 
         <h2>De Maubeuge à la Suisse</h2>
 
-        <p>Jules Henri BOURSIER est fait prisonnier de guerre à Maubeuge le 7 septembre 1914. Les troupes françaises de Maubeuge capturées sont d’abord rassemblées à Rousies et une partie (dont Jules) est ensuite envoyée en internement à Friedrichsfeld (Allemagne).</p>
+        <p class="text-justify">Jules Henri BOURSIER est fait prisonnier de guerre à Maubeuge le 7 septembre 1914. Les troupes françaises de Maubeuge capturées sont d’abord rassemblées à Rousies et une partie (dont Jules) est ensuite envoyée en internement à Friedrichsfeld (Allemagne).</p>
 
         <figure>
         <a href="images/siege-maubeuge.jpg" data-fancybox="gallery" data-caption="Bombardement de la forteresse de Maubeuge par les Allemands">
@@ -181,7 +181,7 @@
         <figcaption>Bombardement de la forteresse de Maubeuge par les Allemands<br />(source: Delcampe)</figcaption>
         </figure>
 
-        <p>Jules est transféré à Grossen (date inconnue) où il reste jusqu’au 20 juin 1918. Victime de bronchite chronique, il fait partie du transport de rapatriement à destination du Bern Oberland B (B.O.B), en Suisse, où il séjourne jusqu’au 2 novembre de la même année. Il termine le conflit par un mois de permission à Menville (Eure), sans doute en convalescence.</p>
+        <p class="text-justify">Jules est transféré à Grossen (date inconnue) où il reste jusqu’au 20 juin 1918. Victime de bronchite chronique, il fait partie du transport de rapatriement à destination du Bern Oberland B (B.O.B), en Suisse, où il séjourne jusqu’au 2 novembre de la même année. Il termine le conflit par un mois de permission à Menville (Eure), sans doute en convalescence.</p>
 
         <figure>
         <a href="sources/BOURSIER-Jules-Henri-CICR.jpg" data-fancybox="gallery" data-caption="Fiche numérisée du CICR">
@@ -191,7 +191,7 @@
 
         <h2>La guerre à Onnaing</h2>
 
-        <p>Pendant ce temps, à Onnaing, où est né Jules Henri BOURSIER, les Allemands enlèvent les cloches de l'église (1915). Elles sont conduites à Saint-Saulve pour y être fondues et faire des canons. Trois ans plus tard, en 1918, les Allemands se retirent et font sauter la Route Nationale pour couper la route aux troupes de l'armée canadienne. Le monuments aux morts de la Première Guerre Mondiale est érigé en 1922, en hommage aux 150 victimes militaires de la commune.</p>
+        <p class="text-justify">Pendant ce temps, à Onnaing, où est né Jules Henri BOURSIER, les Allemands enlèvent les cloches de l'église (1915). Elles sont conduites à Saint-Saulve pour y être fondues et faire des canons. Trois ans plus tard, en 1918, les Allemands se retirent et font sauter la Route Nationale pour couper la route aux troupes de l'armée canadienne. Le monuments aux morts de la Première Guerre Mondiale est érigé en 1922, en hommage aux 150 victimes militaires de la commune.</p>
 
         <figure>
         <a href="../tombes/images/onnaing-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts d'Onnaing">
@@ -199,9 +199,9 @@
         <figcaption>Le Monument aux Morts de la guerre 1914-1918<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
-        <p>Le 5 novembre 1918, la Ville d'Onnaing est libérée. Les Canadiens sont à <a href="http://genealexis.fr/cartes-postales/quarouble.php" title="Histoire de Quarouble">Quarouble</a> et à Rombies et se dirigent vers la frontière belge. Huit soldats canadiens et un anglais sont tués. Ils ont leurs tombes au cimetière d'Onnaing. Le 11 Novembre, l'Allemagne signe l'Armistice à Rethondes avec les Alliés…</p>
+        <p class="text-justify">Le 5 novembre 1918, la Ville d'Onnaing est libérée. Les Canadiens sont à <a href="http://genealexis.fr/cartes-postales/quarouble.php" title="Histoire de Quarouble">Quarouble</a> et à Rombies et se dirigent vers la frontière belge. Huit soldats canadiens et un anglais sont tués. Ils ont leurs tombes au cimetière d'Onnaing. Le 11 Novembre, l'Allemagne signe l'Armistice à Rethondes avec les Alliés…</p>
 
-        <p>Jules est décédé le 30 décembre 1936 à Onnaing, Rue Marcelin Berthelot.</p>
+        <p class="text-justify">Jules est décédé le 30 décembre 1936 à Onnaing, Rue Marcelin Berthelot.</p>
 
         <h2>Sources et bibliographie</h2>
 

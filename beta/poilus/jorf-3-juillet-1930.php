@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -101,9 +101,9 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Noël Jules JOLY</h1>
+        <h1 class="my-4">Noël Jules JOLY</h1>
 
         <h2>Attribution des cartes d'ancien combattant</h2>
 

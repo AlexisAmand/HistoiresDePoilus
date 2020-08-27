@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -113,13 +113,13 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Puchheim</h1>
+        <h1 class="my-4">Le camp de prisonniers de Puchheim</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
-		<p>Les premiers prisonniers de guerre sont internés sur le site de l'ancien aérodrome dès octobre 1914, entre 700 et 850 Français sont alors cantonnés dans les hangars. 
+		<p class="text-justify">Les premiers prisonniers de guerre sont internés sur le site de l'ancien aérodrome dès octobre 1914, entre 700 et 850 Français sont alors cantonnés dans les hangars. 
 		
 		L'expansion dans un camp de prisonniers de guerre régulier s'est faite très rapidement. 
 		
@@ -141,7 +141,7 @@
             <figcaption>Une partie de football au camp de Puchheim<br />(source: Clio Team)</figcaption>
         </figure>
 
-		<p>Entre 1915 et 1919, 585 prisonniers sont morts de la grippe espagnole, dont environ 350 seulement entre novembre 1918 et février 1919. 
+		<p class="text-justify">Entre 1915 et 1919, 585 prisonniers sont morts de la grippe espagnole, dont environ 350 seulement entre novembre 1918 et février 1919. 
 		
 		Alors que les Français décédés ont été transférés dans leur patrie après la guerre, les ossements de 321 Russes sont restés dans le cimetière dit russe de la Lagerstraße. Le 17 octobre 1917, le Nonce apostolique Eugenio Pacelli visite le camp.</p> 
 	

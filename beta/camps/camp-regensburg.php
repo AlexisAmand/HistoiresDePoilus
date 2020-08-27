@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -113,13 +113,13 @@
 
     </aside>
 
-    <article>
+    <article class="col-12">
 
-        <h1>Le camp de prisonniers de Ratisbonne</h1>
+        <h1 class="my-4">Le camp de prisonniers de Ratisbonne</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
-        <p>Ce camp était situé à Ratisbonne (Regensburg) dans le Haut-Palatinat, en Bavière.</p>
+        <p class="text-justify">Ce camp était situé à Ratisbonne (Regensburg) dans le Haut-Palatinat, en Bavière.</p>
 
         <figure>    
             <a href="images/Regensburg/camp-regensburg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Ratisbonne (Regensburg)">

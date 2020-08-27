@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -106,11 +106,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Augustin HANZE</h1>
+        <h1 class="my-4">Augustin HANZE</h1>
 
-        <p>Augustin HANZE est né Cousolre (Nord) le 6 février 1886, fils légitime de Désiré HANZE et Laure DELENS. Selon le recensement de 1906, il est serrurier et vit Route Nationale à Cousolre en compagnie de ses parents et de sa sœur Germaine (née en 1891). Le 5 mars 1910, il épouse à Valenciennes Berthe DUSART, la cousine germaine d'<a href="FONTAINE-Henri-Gustave.php" title="Biographie de Henri Gustave FONTAINE">Henri Gustave FONTAINE</a> (mon arrière-arrière-grand-père).</p> 
+        <p class="text-justify">Augustin HANZE est né Cousolre (Nord) le 6 février 1886, fils légitime de Désiré HANZE et Laure DELENS. Selon le recensement de 1906, il est serrurier et vit Route Nationale à Cousolre en compagnie de ses parents et de sa sœur Germaine (née en 1891). Le 5 mars 1910, il épouse à Valenciennes Berthe DUSART, la cousine germaine d'<a href="FONTAINE-Henri-Gustave.php" title="Biographie de Henri Gustave FONTAINE">Henri Gustave FONTAINE</a> (mon arrière-arrière-grand-père).</p> 
 
         <figure>
             <a href="images/arbre-hanze.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille HANZE">
@@ -146,7 +146,7 @@
             </tbody>
         </table>
 
-        <p>Rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de Mobilisation Générale</a> du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le Monument aux Morts de Cousolre (où il était né) et sur les plaques commémoratives du square de l'Armistice à Carcassonne (où il était serrurier).</p>
+        <p class="text-justify">Rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de Mobilisation Générale</a> du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le Monument aux Morts de Cousolre (où il était né) et sur les plaques commémoratives du square de l'Armistice à Carcassonne (où il était serrurier).</p>
 
         <figure>
             <a href="sources/hanze-augustin.jpg" data-fancybox="gallery" data-caption="Augustin HANZE, mort pour la France">
@@ -162,7 +162,7 @@
 
         <div id="Louis-Pergaud"></div>
 
-        <p>Le 23 mars 1920, Berthe se remarie avec <a href="tiburce-louis.php" title="Biographie du soldat Louis Henri François TIBURCE">Louis Henri François TIBURCE</a>, un préposé aux douanes né à Marly (Nord) le 20 août 1889.</p><p>Pour la petite histoire, Louis PERGAUD (1882-1915), prix Goncourt et auteur de "La Guerre des Boutons" (publié en 1912) a disparu durant la même bataille, dans la nuit du 7 au 8 avril 1915.</p>
+        <p class="text-justify">Le 23 mars 1920, Berthe se remarie avec <a href="tiburce-louis.php" title="Biographie du soldat Louis Henri François TIBURCE">Louis Henri François TIBURCE</a>, un préposé aux douanes né à Marly (Nord) le 20 août 1889.</p><p class="text-justify">Pour la petite histoire, Louis PERGAUD (1882-1915), prix Goncourt et auteur de "La Guerre des Boutons" (publié en 1912) a disparu durant la même bataille, dans la nuit du 7 au 8 avril 1915.</p>
 
         <h2>Sources et bibliographie</h2>
 

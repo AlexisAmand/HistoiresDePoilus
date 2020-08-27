@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -105,11 +105,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Jules MAGNY</h1>
+        <h1 class="my-4">Jules MAGNY</h1>
 
-        <p><strong>Jules MAGNY</strong>, né le 18 août 1892 à Onnaing (Nord), il est le fils légitime de Jules MAGNY et Adna Marie HERAT.</p>
+        <p class="text-justify"><strong>Jules MAGNY</strong>, né le 18 août 1892 à Onnaing (Nord), il est le fils légitime de Jules MAGNY et Adna Marie HERAT.</p>
         
         <figure>
             <a href="sources/magny-jules-1892.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Jules MAGNY (1892)">
@@ -124,7 +124,7 @@
 		<?php // TODO : refaire le § sur les médailles ?>
 		
         
-        <p>Le 6 septembre 1916, soldat mitrailleur, il a,  par son calme et la précision de son tir, entravé une tentative de contre attaque allemande. Nommé caporal le 5 décembre 1917, il est ensuite prisonnier de guerre du 31 mai au 14 décembre 1918. Il était titulaire plusieurs médailles: <br />
+        <p class="text-justify">Le 6 septembre 1916, soldat mitrailleur, il a,  par son calme et la précision de son tir, entravé une tentative de contre attaque allemande. Nommé caporal le 5 décembre 1917, il est ensuite prisonnier de guerre du 31 mai au 14 décembre 1918. Il était titulaire plusieurs médailles: <br />
         - La croix de guerre avec étoile de bronze qui indique une citation à l'ordre de l'armée<br />
         - La médaille commémorative de la Grande Guerre, qui est une médaille qui a été créée par la loi du 23 juin 1920 et dont les catégories possibles de postulants sont reprises par une instruction du 20 janvier 21. Elle était, par exemple, attribuée aux militaires présents sous les drapeaux entre le 2 août 1914 et le 11 novembre 1918. Elle est parfois appelée "la médaille des poilus" en allusion au surnom donné aux soldats de la Première Guerre Mondiale.<br />
         - La médaille interalliée.</p>
@@ -137,7 +137,7 @@
         
         <br />
 
-        <p>Abel, le frère de Jules MAGNY, épouse la fille de <a href="JOLY-Noel-Jules.php" title="biographie de Noël Jules JOLY">Noël Jules JOLY</a>.<br />
+        <p class="text-justify">Abel, le frère de Jules MAGNY, épouse la fille de <a href="JOLY-Noel-Jules.php" title="biographie de Noël Jules JOLY">Noël Jules JOLY</a>.<br />
 		Il est décédé à Le Quesnoy le 12 février 1984.</p>
         
         <h2>Sources et bibliographie</h2>

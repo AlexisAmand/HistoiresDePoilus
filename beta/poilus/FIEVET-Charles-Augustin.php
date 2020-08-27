@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -105,11 +105,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Charles Augustin FIEVET</h1>
+        <h1 class="my-4">Charles Augustin FIEVET</h1>
 
-        <p><strong>Charles Augustin FIEVET</strong>, le père de mon arrière-grand-père (Kleber pour ceux qui lisent régulièrement <a href="http://www.genealexis.fr" title="Site personnel de généalogie d'Alexis AMAND">mon blog</a>), est né le dimanche 3 décembre 1882 à Lille (Nord). Il est le fils de Charles Jules Henri, fileur de Coton, âgé de 28 ans et de Marie Roseline LOHIEZ, âgée de 19 ans. Il a pour frère <a href="FIEVET-Auguste-Victor.php" title="Biographie du soldat Auguste Victor FIEVET">Auguste Victor</a>. </p>
+        <p class="text-justify"><strong>Charles Augustin FIEVET</strong>, le père de mon arrière-grand-père (Kleber pour ceux qui lisent régulièrement <a href="http://www.genealexis.fr" title="Site personnel de généalogie d'Alexis AMAND">mon blog</a>), est né le dimanche 3 décembre 1882 à Lille (Nord). Il est le fils de Charles Jules Henri, fileur de Coton, âgé de 28 ans et de Marie Roseline LOHIEZ, âgée de 19 ans. Il a pour frère <a href="FIEVET-Auguste-Victor.php" title="Biographie du soldat Auguste Victor FIEVET">Auguste Victor</a>. </p>
 
         <figure>
             <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
@@ -155,7 +155,7 @@
             </tbody>   
         </table>
 
-        <p>La photo ci-dessus date sans doute du début des années 20. Il s'agit d'un extrait d'une photo de groupe prise lors du conseil de révision de son fils Charles Jules Henri. De gauche à droite, on trouve Kleber Camille (né en 1910, fils de Charles Augustin), Charles Jules (père de Charles Augustin), Charles Jules Henri (né en 1903) et Charles Augustin... j'espère que vous avez suivi avec attention...</p>
+        <p class="text-justify">La photo ci-dessus date sans doute du début des années 20. Il s'agit d'un extrait d'une photo de groupe prise lors du conseil de révision de son fils Charles Jules Henri. De gauche à droite, on trouve Kleber Camille (né en 1910, fils de Charles Augustin), Charles Jules (père de Charles Augustin), Charles Jules Henri (né en 1903) et Charles Augustin... j'espère que vous avez suivi avec attention...</p>
 
         <figure>
             <a href="portraits/Le-conseil-de-revision.jpg" data-fancybox="gallery" data-caption="Les FIEVET au conseil de révision">
@@ -163,11 +163,11 @@
             <figcaption>Le conseil de révision<br />(Source: Archives familiales)</figcaption>
         </figure>
 
-        <p>Le 2 décembre 1907, <strong>Charles Augustin</strong> épouse à Roubaix (Nord) Nathalie Émilie DELAUX, mécanicienne, la fille légitime d'Adolphe Auguste DELAUX et de Joséphine RICHOMME. Le couple aura deux enfants: Charles Jules Henri (né en 1903) et Kléber Camille (né en 1910).</p>
+        <p class="text-justify">Le 2 décembre 1907, <strong>Charles Augustin</strong> épouse à Roubaix (Nord) Nathalie Émilie DELAUX, mécanicienne, la fille légitime d'Adolphe Auguste DELAUX et de Joséphine RICHOMME. Le couple aura deux enfants: Charles Jules Henri (né en 1903) et Kléber Camille (né en 1910).</p>
 
         <h2>La mobilisation d'août 1914</h2>
 
-        <p>Soldat de 2e classe âgé de 32 ans en 1914, <strong>Charles Augustin</strong> est mobilisé et rejoint le <strong>162e Régiment d'Infanterie</strong>. Je connais peut de chose sur son destin pendant le conflit. Mon seul indice ? Il est prisonnier de guerre à <a href="../camps/camp-gardelegen.php" title="Le camp de prisonnier de Gardelegen">Gardelegen (Allemagne)</a>. </p>
+        <p class="text-justify">Soldat de 2e classe âgé de 32 ans en 1914, <strong>Charles Augustin</strong> est mobilisé et rejoint le <strong>162e Régiment d'Infanterie</strong>. Je connais peut de chose sur son destin pendant le conflit. Mon seul indice ? Il est prisonnier de guerre à <a href="../camps/camp-gardelegen.php" title="Le camp de prisonnier de Gardelegen">Gardelegen (Allemagne)</a>. </p>
 
         <figure>
             <a href="images/matricule-charles-fievet.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Charles Augustin (Extrait)">
@@ -180,7 +180,7 @@
             <figcaption>Extraits de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
         </figure>
 
-        <p>Selon les docs de la Croix Rouge, il est fait prisonnier à Bikschote (Belgique) avant le 23 janvier 1915, selon moi durant la Première Bataille d'Ypres entre la fin du mois d'octobre et le début du mois de novembre 1914. </p>
+        <p class="text-justify">Selon les docs de la Croix Rouge, il est fait prisonnier à Bikschote (Belgique) avant le 23 janvier 1915, selon moi durant la Première Bataille d'Ypres entre la fin du mois d'octobre et le début du mois de novembre 1914. </p>
 
         <figure>
             <a href="sources/cicr-fievet-01.JPG" data-fancybox="gallery" data-caption="Extrait d'une liste de prisonniers (Source: Croix Rouge)">

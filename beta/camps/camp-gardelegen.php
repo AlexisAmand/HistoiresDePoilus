@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -113,18 +113,18 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Gardelegen</h1>
+        <h1 class="my-4">Le camp de prisonniers de Gardelegen</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p class="text-justify"></p>
 
         <figure>
             <img src="miniatures/Gardelegen/carte-camp-gardelegen.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Gardelegen">
             <figcaption>Localisation du camp de Gardelegen<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
-        <p>Selon le rapport de la Croix Rouge, 6602 prisonniers d'origine française, russe, anglaise et belge et quelques civils issus des territoires occupés du nord de la France sont présents dans le camp de Gardelegen à la date 7 janvier 1915. A l'époque, le camp est dirigé par le Colonel GRÜNER, que la Croix Rouge décrit comme <em>un homme de coeur et de sentiment, qui ne considère pas le prisonnier comme un ennemi, mais un homme digne de pitié.</em></p>
+        <p class="text-justify">Selon le rapport de la Croix Rouge, 6602 prisonniers d'origine française, russe, anglaise et belge et quelques civils issus des territoires occupés du nord de la France sont présents dans le camp de Gardelegen à la date 7 janvier 1915. A l'époque, le camp est dirigé par le Colonel GRÜNER, que la Croix Rouge décrit comme <em>un homme de coeur et de sentiment, qui ne considère pas le prisonnier comme un ennemi, mais un homme digne de pitié.</em></p>
 
         <figure>
             <a href="images/Gardelegen/menu-gardelegen.jpg" data-fancybox="gallery" data-caption="Le menu hebdomadaire à Gardelegen">
@@ -132,7 +132,7 @@
             <figcaption>Le menu hebdomadaire à Gardelegen<br />(source : Rapport de la Croix Rouge du 7 janvier 1915)</figcaption>
         </figure>
 
-        <p>Les prisonniers avaient installé à Gardelegen un petit théâtre où les Français, les Anglais et les Belges donnaient de représentations. Il était également possible d'y donner des représentations cinématographiques.</p>
+        <p class="text-justify">Les prisonniers avaient installé à Gardelegen un petit théâtre où les Français, les Anglais et les Belges donnaient de représentations. Il était également possible d'y donner des représentations cinématographiques.</p>
 
         <figure>
             <a href="images/camps_prisonniers_gardelegen.jpg" data-fancybox="gallery" data-caption="La cantine du camp de prisonniers de Gardelegen">
@@ -148,9 +148,9 @@
 
         <h2>Les monuments à la mémoire des prisonniers morts en captivité</h2>
 
-        <p>Deux monuments ont été construits au camp de prisonniers de Gardelegen. Ils sont été construite grace à des souscriptions auprés de bienfaiteurs.</p>
+        <p class="text-justify">Deux monuments ont été construits au camp de prisonniers de Gardelegen. Ils sont été construite grace à des souscriptions auprés de bienfaiteurs.</p>
 
-        <p>Selon le Figaro daté du 25 octobre 1915, le premier monument est l'oeuvre du sculpteur Poirier et est destiné au cimetière du lazaret où 300 des "nôtres" reposent déjà en 1915. Il est constitué d'un simple banc de pierre en hémicycle, sur lequel est assis un prisonnier, qui regarde les tombes de ses camarades.</p>
+        <p class="text-justify">Selon le Figaro daté du 25 octobre 1915, le premier monument est l'oeuvre du sculpteur Poirier et est destiné au cimetière du lazaret où 300 des "nôtres" reposent déjà en 1915. Il est constitué d'un simple banc de pierre en hémicycle, sur lequel est assis un prisonnier, qui regarde les tombes de ses camarades.</p>
 
         <figure>
             <a href="images/Gardelegen/Gardelegen-1-007.jpg" data-fancybox="galery" data-caption="Le monument du Lazaret du camp de Gardelegen">
@@ -164,7 +164,7 @@
             <figcaption>Le monument du Lazaret<br />(Source : Guy O.)</figcaption>
         </figure>
 
-        <p>Le même journal précise que le second monument est l'oeuvre du statuaire Souchez et est destiné au cimetière de la ville. Il est constitué d'un large socle où sont gravées les lignes suivantes:</p>
+        <p class="text-justify">Le même journal précise que le second monument est l'oeuvre du statuaire Souchez et est destiné au cimetière de la ville. Il est constitué d'un large socle où sont gravées les lignes suivantes:</p>
 
         <p style="text-align:center"><em>
         Ayant fait leur devoir, à leur tout ils sont morts,
@@ -172,7 +172,7 @@
         Mais sous la pierre, ici, ne gisent que leurs corps.<br />
         Leur âme, là-bas, veille et prie.</em></p>
 
-        <p>Une haute table de marbre destinée à recevoir les noms surmonte ce socle, auquel un soldat, les mains jointes, est appuyé.
+        <p class="text-justify">Une haute table de marbre destinée à recevoir les noms surmonte ce socle, auquel un soldat, les mains jointes, est appuyé.
 
         <figure>
             <a href="images/Gardelegen/Gardelegen-1-001.jpg" data-fancybox="galery" data-caption="Le monument de Gardelegen en construction">
@@ -212,7 +212,7 @@
             <figcaption>Le lazaret de Gardelegen<br />(source : Delcampe)</figcaption>
         </figure>
 
-        <p>A la fin de la guerre, le camp de Gardelegen a été évacué via la Hollande.</p>
+        <p class="text-justify">A la fin de la guerre, le camp de Gardelegen a été évacué via la Hollande.</p>
 
         <h2>Sources et bibliographie</h2>
 

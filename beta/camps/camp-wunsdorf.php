@@ -52,7 +52,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -113,20 +113,20 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-            <h1>Le camp de prisonniers de Zossen-Wünsdorf</h1>
+            <h1 class="my-4">Le camp de prisonniers de Zossen-Wünsdorf</h1>
 
-            <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p>
+            <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p class="text-justify"></p>
 
-            <p>Le camp de Zossen-Wünsdorf était situé dans le Brandenburg (à 30 km au sud de Berlin). Il était également connu sous le nom de « Camp du Croissant » ou « Wuensdorf-Zossen ».</p>
+            <p class="text-justify">Le camp de Zossen-Wünsdorf était situé dans le Brandenburg (à 30 km au sud de Berlin). Il était également connu sous le nom de « Camp du Croissant » ou « Wuensdorf-Zossen ».</p>
 
             <figure>
                 <img src="miniatures/Wunsdorf/carte-camp-zossen.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Zossen-Wünsdorf">
                 <figcaption>Localisation du camp de Zossen<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
             </figure>  
 
-            <p>En octobre 1914, il y a 15000 français, quelques russes et un petit nombre d'anglais. Les prisonniers sont alors logés dans des baraques en bois ou dans des  tentes, en attendant que la construction des baraques soit terminée. Ces baraques peuvent loger une compagnie et disposent d'une chambre à part pour les officiers. A l'automne 1914, la condition de vie des soldats est désastreuse : Outre la température très basse à l'intérieur des tentes, les hommes couchent sur de la paille étendue sur de la terre, avec une seule couverture pour se protéger du froid. En ce qui concerne la nourriture, les délégués du Gouvernement Espagnol précisent que les prisonniers ont une ration de pain de 500 grammes (la même que les soldats allemands), ou 750 grammes pour les soldats qui travaillent. Ils indiquent aussi que l'ordinaire d'un prisonnier se compose de café (matin), le légume et de viande (le midi) et d'un potage (le soir).</p>
+            <p class="text-justify">En octobre 1914, il y a 15000 français, quelques russes et un petit nombre d'anglais. Les prisonniers sont alors logés dans des baraques en bois ou dans des  tentes, en attendant que la construction des baraques soit terminée. Ces baraques peuvent loger une compagnie et disposent d'une chambre à part pour les officiers. A l'automne 1914, la condition de vie des soldats est désastreuse : Outre la température très basse à l'intérieur des tentes, les hommes couchent sur de la paille étendue sur de la terre, avec une seule couverture pour se protéger du froid. En ce qui concerne la nourriture, les délégués du Gouvernement Espagnol précisent que les prisonniers ont une ration de pain de 500 grammes (la même que les soldats allemands), ou 750 grammes pour les soldats qui travaillent. Ils indiquent aussi que l'ordinaire d'un prisonnier se compose de café (matin), le légume et de viande (le midi) et d'un potage (le soir).</p>
 
             <figure>
                 <a href="images/Wunsdorf/wunsdorf-03.jpg" data-fancybox="gallery" data-caption="Le camp de Wunsdorf pendant la Grande Guerre">
@@ -140,7 +140,7 @@
                 <figcaption>Des prisonniers français en route pour le camp<br />(carte postale ancienne)</figcaption>
             </figure>
 
-            <p>Le 25 septembre 1916, le camp renferme 3050 prisonniers arabes et 643 indiens.</p>
+            <p class="text-justify">Le 25 septembre 1916, le camp renferme 3050 prisonniers arabes et 643 indiens.</p>
 
             <figure>
                 <a href="images/Wunsdorf/wunsdorf-01.jpg" data-fancybox="gallery" data-caption="Harangue dans le camp du croissant à Zossen-Wünsdorf">
@@ -154,7 +154,7 @@
                 <figcaption>Un groupe de prisonniers<br />(source allemande)</figcaption>
             </figure>
 
-            <p>1084 prisonniers arabes et 49 prisonniers indiens du camp sont envoyés rejoindre l'armée ottomane entre 1916 et 1917: certains volontairement, d'autres de force. Les prisonniers restant dans le camp en 1917 sont transférés dans des camps en Roumanie occupée.</p>
+            <p class="text-justify">1084 prisonniers arabes et 49 prisonniers indiens du camp sont envoyés rejoindre l'armée ottomane entre 1916 et 1917: certains volontairement, d'autres de force. Les prisonniers restant dans le camp en 1917 sont transférés dans des camps en Roumanie occupée.</p>
 
             <h2>Sources et bibliographie</h2>
 

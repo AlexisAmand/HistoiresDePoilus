@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -75,9 +75,9 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Les morts pour la France à Rieulay</h1>
+        <h1 class="my-4">Les morts pour la France à Rieulay</h1>
 
         <figure>
           <a href="images/monument-rieulay-01.jpg" data-fancybox="gallery" data-caption="Le monument aux morts de Rieulay à l'intérieur de l'église">

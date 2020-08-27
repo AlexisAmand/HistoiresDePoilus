@@ -54,7 +54,7 @@
 
     <?php include('../include/nav-poilus.inc'); ?>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -68,13 +68,13 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Onésime LACOURT</h1>
+        <h1 class="my-4">Onésime LACOURT</h1>
 
-        <p>Onésime Marcel LACOURT a le matricule n°1544 du bureau de Mézière pour la classe 1909.</p>
+        <p class="text-justify">Onésime Marcel LACOURT a le matricule n°1544 du bureau de Mézière pour la classe 1909.</p>
         
-        <p>A la mobilisation, il rejoint le 30e Régiment de Dragons avant de rejoindre le 5e Régiment de Cuirassiers en 1917. Plusieurs fois blessé, il est cité à l'ordre du régiment en 1919.</p>
+        <p class="text-justify">A la mobilisation, il rejoint le 30e Régiment de Dragons avant de rejoindre le 5e Régiment de Cuirassiers en 1917. Plusieurs fois blessé, il est cité à l'ordre du régiment en 1919.</p>
         
        	<h2>Sources et bibliographie</h2>
         

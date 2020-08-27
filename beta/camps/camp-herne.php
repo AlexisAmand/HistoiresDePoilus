@@ -51,7 +51,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -111,11 +111,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Herne</h1>
+        <h1 class="my-4">Le camp de prisonniers de Herne</h1>
 
-        <p>Certains documents ou relevés mentionnent un camp de prisonniers situé à Börnig. Après quelques petites recherches, j'ai pu déterminer que Börnig est un quartier situé dans l'arrondissement Sodingen de la ville de Herne en  Rhénanie-du-Nord-Westphalie. Peut-être existait-il un autre Börnig ?</p>
+        <p class="text-justify">Certains documents ou relevés mentionnent un camp de prisonniers situé à Börnig. Après quelques petites recherches, j'ai pu déterminer que Börnig est un quartier situé dans l'arrondissement Sodingen de la ville de Herne en  Rhénanie-du-Nord-Westphalie. Peut-être existait-il un autre Börnig ?</p>
 
         <h2>Sources et bibliographie</h2>
 

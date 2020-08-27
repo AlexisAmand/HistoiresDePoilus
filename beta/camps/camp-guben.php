@@ -52,7 +52,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -112,13 +112,13 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Guben</h1>
+        <h1 class="my-4">Le camp de prisonniers de Guben</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
-        <p>Le nombre de prisonniers belge dans ce camp est passé de 12 à la fin de l'année 1917 à 1 au mois de juin 1918.</p>
+        <p class="text-justify">Le nombre de prisonniers belge dans ce camp est passé de 12 à la fin de l'année 1917 à 1 au mois de juin 1918.</p>
 
         <figure>
             <a href="images/Guben/guben-01.jpg" data-fancybox="gallery" data-caption="Le camp de prisonniers de Guben">

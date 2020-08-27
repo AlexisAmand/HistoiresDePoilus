@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -68,11 +68,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Jules AMAND</h1>
+        <h1 class="my-4">Jules AMAND</h1>
 
-        <p>Antoine AMAND est né le 24 novembre 1888 à Boussu (Belgique), fils légitime de Jules AMAND et Antoinette AMAND. Les liens qui m’unissent aux parents d’Antoine sont assez compliqués car je suis parent à la fois avec sa mère et son père qui sont eux-mêmes cousins.</p> 
+        <p class="text-justify">Antoine AMAND est né le 24 novembre 1888 à Boussu (Belgique), fils légitime de Jules AMAND et Antoinette AMAND. Les liens qui m’unissent aux parents d’Antoine sont assez compliqués car je suis parent à la fois avec sa mère et son père qui sont eux-mêmes cousins.</p> 
 
         <figure>
             <a href="images/arbre-amand.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de Jules AMAND">
@@ -80,7 +80,7 @@
             <figcaption>Arbre généalogique simplifié de Jules AMAND<br />(Source: Recherches personnelles)</figcaption>
         </figure>
 
-        <p>Pendant la Grande Guerre, Antoine est soldat de 2e classe et milicien au sein du 9e Régiment de Ligne sous le matricule 109/54524. Antoinette AMAND, sa mère, est fixée sur le sort de son fils seulement 6 ans après la fin de la guerre, quand son livret de mobilisation est retrouvé sur le champ de bataille d’Ougrée, à côté de Liège. Antoine serait tombé au combat le 6 août 1914, à l’âge de 25 ans. D’après ce que j’ai pu comprendre sur les documents du site <a href="https://www.wardeadregister.be/fr" title="Belgian War Dead Register">Dead War Register</a>, son corps aurait été retrouvé dans la fosse commune du Gros Hêtre. il est probable qu'il soit tombé au combat le 6 août 1914 étant entendu que son livret de mobilisation a été retrouvé sur le champ de bataille de la commune d'Ougrée.</p>  
+        <p class="text-justify">Pendant la Grande Guerre, Antoine est soldat de 2e classe et milicien au sein du 9e Régiment de Ligne sous le matricule 109/54524. Antoinette AMAND, sa mère, est fixée sur le sort de son fils seulement 6 ans après la fin de la guerre, quand son livret de mobilisation est retrouvé sur le champ de bataille d’Ougrée, à côté de Liège. Antoine serait tombé au combat le 6 août 1914, à l’âge de 25 ans. D’après ce que j’ai pu comprendre sur les documents du site <a href="https://www.wardeadregister.be/fr" title="Belgian War Dead Register">Dead War Register</a>, son corps aurait été retrouvé dans la fosse commune du Gros Hêtre. il est probable qu'il soit tombé au combat le 6 août 1914 étant entendu que son livret de mobilisation a été retrouvé sur le champ de bataille de la commune d'Ougrée.</p>  
 
         <figure>
             <a href="sources/amand-jules-01.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
@@ -100,7 +100,7 @@
             <figcaption>Fiche Sépultures et cimetières militaires<br />(Source: <a href="https://www.warheritage.be/fr">War Heritage Institute</a>)</figcaption>
         </figure>
 
-        <p>Son nom figure sur le monument aux morts d'Ougrée dédié au 9e Régiment d'Infanterie de Ligne.</p>
+        <p class="text-justify">Son nom figure sur le monument aux morts d'Ougrée dédié au 9e Régiment d'Infanterie de Ligne.</p>
 
         <figure>
             <a href="images/ougree.jpg" data-fancybox="gallery" data-caption="Jules AMAND sur le monument d'Ougrée en Belgique">

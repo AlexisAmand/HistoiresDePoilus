@@ -52,7 +52,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -112,9 +112,9 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Mannheim</h1>
+        <h1 class="my-4">Le camp de prisonniers de Mannheim</h1>
 
         <figure>    
             <a href="images/Mannheim/localisation-mannheim.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Mannheim">
@@ -124,9 +124,9 @@
 
         <div id="Gaston_Roussel"></div>
 
-        <p>Evacué sur le camp de Mannheim, Gaston ROUSSEL, membre du Ier Régiment de Zouaves y a vécu au premier semestre 1916 après un séjour dans les camps de <a href="camp-wahn.php">Wahn</a> et <a href="camp-bayreuth.php">Bayreuth</a>. Transféré en Suisse le 25 juillet 1916 pour tuberculose pulmonaire, il raconte que le camp manquait de bancs et de sièges, ce qui obligeait les prisonniers à rester debout, puisqu'on leur défendait de s'asseoir sur leurs sacs de couchage. Il raconte également que <em>"la nourriture à Mannheim était excessivement mauvaise, et que les prisonniers étaient brutalisés. La punition au poteau n'y était pas employée, mais les hommes étaient envoyés au cachot sous des prétextes futiles"</em>.</p>
+        <p class="text-justify">Evacué sur le camp de Mannheim, Gaston ROUSSEL, membre du Ier Régiment de Zouaves y a vécu au premier semestre 1916 après un séjour dans les camps de <a href="camp-wahn.php">Wahn</a> et <a href="camp-bayreuth.php">Bayreuth</a>. Transféré en Suisse le 25 juillet 1916 pour tuberculose pulmonaire, il raconte que le camp manquait de bancs et de sièges, ce qui obligeait les prisonniers à rester debout, puisqu'on leur défendait de s'asseoir sur leurs sacs de couchage. Il raconte également que <em>"la nourriture à Mannheim était excessivement mauvaise, et que les prisonniers étaient brutalisés. La punition au poteau n'y était pas employée, mais les hommes étaient envoyés au cachot sous des prétextes futiles"</em>.</p>
 
-        <p>Note : Si le parcours de Gaston ROUSSEL vous intéresse, je vous invite à lire également la page consacrée au camp de Wahn.</p>
+        <p class="text-justify">Note : Si le parcours de Gaston ROUSSEL vous intéresse, je vous invite à lire également la page consacrée au camp de Wahn.</p>
 
         <h2>Sources et bibliographie</h2>
 

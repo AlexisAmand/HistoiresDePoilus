@@ -52,7 +52,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -73,9 +73,9 @@
 
     </aside>
 
-    <article>
+    <article class="col-12">
 
-    <h1>Les monuments de Fontaine-au-Bois</h1>
+    <h1 class="my-4">Les monuments de Fontaine-au-Bois</h1>
 
     <figure>
         <a href="images/Fontaine-au-Bois-02.jpg" data-fancybox="gallery" data-caption="Le monument aux morts de Fontaine-au-Bois">
@@ -89,7 +89,7 @@
         <figcaption>Le monument aux Morts pour la France <br />de Fontaine-au-Bois<br />(Source: Photo privée)</figcaption>
     </figure>
     
-	<p>Il y a deux cimetières britanniques à Fontaine-au-Bois. Le premier est situé dans la ruelle Hainaut, à l'intérieur du cimetière communal. Il est constitué de 95 tombes.</p>
+	<p class="text-justify">Il y a deux cimetières britanniques à Fontaine-au-Bois. Le premier est situé dans la ruelle Hainaut, à l'intérieur du cimetière communal. Il est constitué de 95 tombes.</p>
 
     <figure>
         <a href="images/Fontaine-au-Bois-01.jpg" data-fancybox="gallery" data-caption="La croix de la section britannique du cimetière communal de Fontaine-au-Bois">
@@ -97,7 +97,7 @@
         <figcaption>La croix de la section britannique<br />du cimetière communal <br />(Source: Photo privée)</figcaption>
     </figure>
 
-    <p>Un autre, Cross Roads Cemetery, abrite quant à lui plus de 750 corps de jeunes Britanniques tués lors des combats violents qui eurent lieu en 1918 pour la prise de contrôle de Landrecies et de la forêt de Mormal.</p>
+    <p class="text-justify">Un autre, Cross Roads Cemetery, abrite quant à lui plus de 750 corps de jeunes Britanniques tués lors des combats violents qui eurent lieu en 1918 pour la prise de contrôle de Landrecies et de la forêt de Mormal.</p>
      
     <figure>
         <a href="images/Cross-Roads-Cemetery.jpg" data-fancybox="gallery" data-caption="Le Cross Roads Cemetery à Fontaine-au-Bois">

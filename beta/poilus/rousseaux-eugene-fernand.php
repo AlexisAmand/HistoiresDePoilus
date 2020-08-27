@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -107,11 +107,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Eugène Fernand ROUSSEAUX</h1>
+        <h1 class="my-4">Eugène Fernand ROUSSEAUX</h1>
 
-        <p><strong>Eugène Fernand ROUSSEAUX</strong>, né en 1891 à Roubaix (Nord) et prisonnier de guerre au camp de <a href="../camps/camp-hammerstein.php" title="Le camp de prisonniers de Hammerstein">Hammerstein</a> puis à celui de <a href="../camps/camp-minden.php" title="Le camp de prisonniers de Minden">Minden</a>. Eugène est le petit-fils de Léonie FIEVET (ma sosa n°97), et le cousin de <a href="FIEVET-Charles-Augustin.php">Charles</a> et <a href="FIEVET-Auguste-Victor.php" title="Biographie du poilu Auguste FIEVET">Auguste FIEVET</a> (par contre, ils n'ont que 3 de leurs 4 grand-parents en commun car Léonie a eu des enfants avec 2 hommes différents)</p>
+        <p class="text-justify"><strong>Eugène Fernand ROUSSEAUX</strong>, né en 1891 à Roubaix (Nord) et prisonnier de guerre au camp de <a href="../camps/camp-hammerstein.php" title="Le camp de prisonniers de Hammerstein">Hammerstein</a> puis à celui de <a href="../camps/camp-minden.php" title="Le camp de prisonniers de Minden">Minden</a>. Eugène est le petit-fils de Léonie FIEVET (ma sosa n°97), et le cousin de <a href="FIEVET-Charles-Augustin.php">Charles</a> et <a href="FIEVET-Auguste-Victor.php" title="Biographie du poilu Auguste FIEVET">Auguste FIEVET</a> (par contre, ils n'ont que 3 de leurs 4 grand-parents en commun car Léonie a eu des enfants avec 2 hommes différents)</p>
 
         <table class="census">
         <caption>Liste des domiciles d'Eugène</caption>

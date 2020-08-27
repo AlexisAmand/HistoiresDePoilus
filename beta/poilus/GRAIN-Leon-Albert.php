@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -106,11 +106,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Léon Albert GRAIN</h1>
+        <h1 class="my-4">Léon Albert GRAIN</h1>
 
-        <p>Frère de <a href="GRAIN-Louis.php" title="voir la page consacrée à Louis Grain">Louis</a>, <strong>Léon Albert GRAIN</strong> est né le vendredi 26 décembre 1879 à Villers-Guislain (Nord). Il est le fils légitime de Louis GRAIN, domestique âgé de 19 ans et Joséphine VELU, âgé de 17 ans. En 1906, Léon est tisseur et vit Rue du Catelet à Villers-Guislain en compagnie de son épouse Angèle BERCHON et de leur fille Lucie.</p>
+        <p class="text-justify">Frère de <a href="GRAIN-Louis.php" title="voir la page consacrée à Louis Grain">Louis</a>, <strong>Léon Albert GRAIN</strong> est né le vendredi 26 décembre 1879 à Villers-Guislain (Nord). Il est le fils légitime de Louis GRAIN, domestique âgé de 19 ans et Joséphine VELU, âgé de 17 ans. En 1906, Léon est tisseur et vit Rue du Catelet à Villers-Guislain en compagnie de son épouse Angèle BERCHON et de leur fille Lucie.</p>
 
         <figure>
             <a href="images/arbre-grain.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille GRAIN">
@@ -128,7 +128,7 @@
 
         <h2>La mobilisation d'août 1914</h2>
 
-        <p><strong>Léon</strong> est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1er août 1914">décret de Mobilisation Générale</a> du 1er août 1914. Il est intégré à la 7e compagnie du <strong>3e Régiment d'Infanterie Territoriale</strong>.  En 1914, Les régiments d'infanterie territoriale (R.I.T), sont essentiellement constitués de citoyens anciens nés entre 1875 et 1880. Ils sont surtout assignés à des missions plus statiques, moins exposées: gares, nœuds ferroviaires, ponts, entrepôts, places fortes, etc. Léon cantonne à Hautmont avec les hommes de sa compagnie sous les ordres du Capitaine LITTOYE. </p>
+        <p class="text-justify"><strong>Léon</strong> est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1er août 1914">décret de Mobilisation Générale</a> du 1er août 1914. Il est intégré à la 7e compagnie du <strong>3e Régiment d'Infanterie Territoriale</strong>.  En 1914, Les régiments d'infanterie territoriale (R.I.T), sont essentiellement constitués de citoyens anciens nés entre 1875 et 1880. Ils sont surtout assignés à des missions plus statiques, moins exposées: gares, nœuds ferroviaires, ponts, entrepôts, places fortes, etc. Léon cantonne à Hautmont avec les hommes de sa compagnie sous les ordres du Capitaine LITTOYE. </p>
 
         <figure>
             <a href="sources/Leon-grain-matricule-01.jpg" data-fancybox="gallery" data-caption="La fiche matricule de Léon Albert (Extrait)">
@@ -138,7 +138,7 @@
 
         <h2>Le siège de Maubeuge</h2>
 
-        <p>Le 2 septembre 1914, le bombardement continu  sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance.</p>
+        <p class="text-justify">Le 2 septembre 1914, le bombardement continu  sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance.</p>
 
         <figure>
             <a href="images/forts-maubeuge.jpg" data-fancybox="gallery" data-caption="L'emplacement des forts de la place forte de Maubeuge en 1914">
@@ -148,7 +148,7 @@
 
         <h2>On brûle les drapeaux...</h2>
 
-        <p>Le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e d'infanterie, des 31e  et 32e  colonial, des 1er, 2e, 3e (celui de <strong>Léon Albert GRAIN</strong>) et 4e territorial et enfin celui du 1er régiment d'artillerie à pied. Les drapeaux de la garnison sont brûlés le lendemain dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
+        <p class="text-justify">Le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e d'infanterie, des 31e  et 32e  colonial, des 1er, 2e, 3e (celui de <strong>Léon Albert GRAIN</strong>) et 4e territorial et enfin celui du 1er régiment d'artillerie à pied. Les drapeaux de la garnison sont brûlés le lendemain dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
 
         <figure>
             <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" data-caption="La Caserne Joyeuse (Maubeuge) avant 1914">
@@ -158,7 +158,7 @@
 
         <h2>La chute de Maubeuge</h2>
 
-        <p><strong>Léon Albert</strong> est fait prisonnier le 8 septembre à 1914 à Maubeuge et envoyé à Chemnitz, un <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de prisonniers de Chemnitz</a>  situé en Saxe, entre Dresde et Zwickau, au Sud-est de Leipzig. Pour rappel, 46000 soldats français prisonniers à la suite de la chute de la ville Maubeuge.</p>
+        <p class="text-justify"><strong>Léon Albert</strong> est fait prisonnier le 8 septembre à 1914 à Maubeuge et envoyé à Chemnitz, un <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de prisonniers de Chemnitz</a>  situé en Saxe, entre Dresde et Zwickau, au Sud-est de Leipzig. Pour rappel, 46000 soldats français prisonniers à la suite de la chute de la ville Maubeuge.</p>
 
         <figure>
             <a href="images/camp-de-chemnitz.jpg" data-fancybox="gallery" data-caption="Le camp de Chemnitz pendant la Grande Guerre">
@@ -166,7 +166,7 @@
             <figcaption>Le camp de Chemnitz<br />(source: Delcampe)</figcaption>
         </figure>
 
-        <p>Léon Albert est libéré le 10 décembre 1918.</p>
+        <p class="text-justify">Léon Albert est libéré le 10 décembre 1918.</p>
 
         <h2>Sources et bibliographie</h2>
 

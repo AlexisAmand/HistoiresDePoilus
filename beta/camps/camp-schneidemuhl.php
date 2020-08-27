@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -113,13 +113,13 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-            <h1>Le camp de prisonniers de Schneidemühl</h1>
+            <h1 class="my-4">Le camp de prisonniers de Schneidemühl</h1>
 
-            <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+            <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
             
-            <p>Le camp principal de prisonniers de Schneidemühl était situé en Posnanie, une ancienne province du Royaume de Prusse, à environ 90 kilomètres au nord de Posen (de nos jours Poznań en Pologne). La ville de Schneidemühl est aujourd'hui située en Pologne et porte le nom de Piła.</p>
+            <p class="text-justify">Le camp principal de prisonniers de Schneidemühl était situé en Posnanie, une ancienne province du Royaume de Prusse, à environ 90 kilomètres au nord de Posen (de nos jours Poznań en Pologne). La ville de Schneidemühl est aujourd'hui située en Pologne et porte le nom de Piła.</p>
 
             <figure>
                 <a href="images/schneidemuhl-01.jpg" data-fancybox="gallery" data-caption="La lessive à Schneidemühl">

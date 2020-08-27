@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -74,9 +74,9 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp d'internement de Harderwijk</h1>
+        <h1 class="my-4">Le camp d'internement de Harderwijk</h1>
 
         <figure>
             <a href="images/carte-camps-pb.png" data-fancybox="gallery" data-caption="Emplacement du camp d'internés de Harderwijk">

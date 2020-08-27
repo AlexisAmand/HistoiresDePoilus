@@ -54,13 +54,13 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
-        <article style="margin-left:0px;">
+        <article class="col-12">
 
-        <h1>Ressources bibliographiques</h1>
+        <h1 class="my-4">Ressources bibliographiques</h1>
 
-        <p>Vous trouverez sur cette page la liste de toutes les ressources bibliographiques (livres et revues par exemple) qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php" title="contacter le webmaster">me contacter</a> si vous avez une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p>
+        <p class="text-justify">Vous trouverez sur cette page la liste de toutes les ressources bibliographiques (livres et revues par exemple) qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php" title="contacter le webmaster">me contacter</a> si vous avez une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p>
 
         <h2>Vie quotidienne des soldats</h2>
 
@@ -91,7 +91,7 @@
 
         <h2>Revues sur la Grande Guerre</h2>
 
-        <p>Ces revues sont protégées par le droit d'auteur, je ne peux pas vous les proposer en téléchargement.</p>
+        <p class="text-justify">Ces revues sont protégées par le droit d'auteur, je ne peux pas vous les proposer en téléchargement.</p>
 
         <ul>
             <li>Hachette, Connaissances de l'histoire, Hors-Série n°1 : Avions de Première Guerre Mondiale (1979)</li>

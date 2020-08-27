@@ -52,7 +52,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -112,15 +112,15 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Munster</h1>
+        <h1 class="my-4">Le camp de prisonniers de Munster</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
         
         <div id="Freither_Von_Bissing"></div>
  
-        <p>Le camp de Munster était situé en Allemagne, dans la province de Westphalie (aujourd'hui dans le land de Rhénanie-du-Nord-Westphalie) à quelques kilomètres de la frontière avec les Pays-Bas.</p>
+        <p class="text-justify">Le camp de Munster était situé en Allemagne, dans la province de Westphalie (aujourd'hui dans le land de Rhénanie-du-Nord-Westphalie) à quelques kilomètres de la frontière avec les Pays-Bas.</p>
 
         <figure>
             <a href="images/Munster/localisation-munster.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Munster">
@@ -128,7 +128,7 @@
             <figcaption>Localisation du camp de Munster<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure> 
 
-        <p>Jusque novembre 1914, le commandant du dépôt de prisonniers de Munster est le Général en chef Moritz VON BISSING, général de cavalerie. Il est ensuite gouverneur militaire de la Belgique du 24 novembre 1914 jusqu'à sa mort, le 18 avril 1917. Il est enterré au cimetière des Invalides de Berlin.</p>
+        <p class="text-justify">Jusque novembre 1914, le commandant du dépôt de prisonniers de Munster est le Général en chef Moritz VON BISSING, général de cavalerie. Il est ensuite gouverneur militaire de la Belgique du 24 novembre 1914 jusqu'à sa mort, le 18 avril 1917. Il est enterré au cimetière des Invalides de Berlin.</p>
 
         <figure>
             <a href="images/Munster/Moritz_von_Bissing.jpg" data-fancybox="gallery" data-caption=" ">
@@ -138,7 +138,7 @@
 
         <div id="Charles_Petit"></div>
 
-        <p>Charles PETIT, membre du 1er Régiment d'Artillerie, a été fait prisonnier à Maubeuge le 7 septembre 1914, et envoyé au camp de Munster. Le 25 juillet 1916, il est évacué vers la Suisse pour tuberculose pulmonaire. Dans un rapport, il raconte que <em>"pendant les premières six semaines, il n'y avait aucune installation pour loger les hommes, ni tentes, ni baraquements. Le nombre des prisonniers était de 24000; pour se mettre à l'abri, ils creusaient des trous dans la terre, en les couvrant tant bien que mal de mottes de gazon. Il n'y avait aucune installation de cuisine au début. La mortalité des prisonniers, à ce moment, était considérable. Les installations de baraquements n'ont été achevées que vers la fin de janvier 1915".</em></p>
+        <p class="text-justify">Charles PETIT, membre du 1er Régiment d'Artillerie, a été fait prisonnier à Maubeuge le 7 septembre 1914, et envoyé au camp de Munster. Le 25 juillet 1916, il est évacué vers la Suisse pour tuberculose pulmonaire. Dans un rapport, il raconte que <em>"pendant les premières six semaines, il n'y avait aucune installation pour loger les hommes, ni tentes, ni baraquements. Le nombre des prisonniers était de 24000; pour se mettre à l'abri, ils creusaient des trous dans la terre, en les couvrant tant bien que mal de mottes de gazon. Il n'y avait aucune installation de cuisine au début. La mortalité des prisonniers, à ce moment, était considérable. Les installations de baraquements n'ont été achevées que vers la fin de janvier 1915".</em></p>
 
         <figure>
             <a href="images/friedrichsfeld-chapelle.jpg" data-fancybox="gallery" data-caption="Camp de Friedrichsfeld: La chapelle">
@@ -160,7 +160,7 @@
 
         <h2>Le camp de Munster I (dit camp de l'Haus-Spital)</h2>
 
-        <p>Dans <cite>Westfalen in Ersten Weltkrieg</cite>, l'historien allemand Rainer PÖPPINGHEGE évalue à 20947 le nombre de soldats prisonniers dans le camp de Münster I à la fin de la Première Guerre Mondiale. Les délégués du Gouvernement Espagnol précisent que l'effectif est de 1894 prisonniers pour le camp même et 18052 répartis dans les hôpitaux et les différents détachements de travail (le 11 juin 1918). Le camp de Münster I était situé à 5 km à l'ouest de la ville.</p>
+        <p class="text-justify">Dans <cite>Westfalen in Ersten Weltkrieg</cite>, l'historien allemand Rainer PÖPPINGHEGE évalue à 20947 le nombre de soldats prisonniers dans le camp de Münster I à la fin de la Première Guerre Mondiale. Les délégués du Gouvernement Espagnol précisent que l'effectif est de 1894 prisonniers pour le camp même et 18052 répartis dans les hôpitaux et les différents détachements de travail (le 11 juin 1918). Le camp de Münster I était situé à 5 km à l'ouest de la ville.</p>
 
         <table class="tab_camp">
             <caption>Effectif du camp au 11 juin 1918</caption>
@@ -204,7 +204,7 @@
             </tr>
         </table>
 
-        <p>Dans la nuit du 8 au 9 octobre 1917, le Block II du camp I de Munster  est incendié. Les prisonniers qui y avaient été relégués sont alors envoyés soit au camp de Senne, soit au camp II de Münster où le block III leur est attribué.</p>
+        <p class="text-justify">Dans la nuit du 8 au 9 octobre 1917, le Block II du camp I de Munster  est incendié. Les prisonniers qui y avaient été relégués sont alors envoyés soit au camp de Senne, soit au camp II de Münster où le block III leur est attribué.</p>
 
         <figure>
             <a href="images/Munster/munster_01.jpg" data-fancybox="gallery" data-caption="Le cimetière des prisonniers à Münster">
@@ -250,14 +250,14 @@
 
         <h2>Le camp de Münster II (dit camp de Rennbahn)</h2>
 
-        <p>Ce camp était situé à l'est de Münster, à l'emplacement d'un champ de course.</p>
+        <p class="text-justify">Ce camp était situé à l'est de Münster, à l'emplacement d'un champ de course.</p>
 
-        <p>En octobre 1915, les prisonniers sont répartis dans 4 baraquements (appelés blocks). Ils forment chacun un rectangle en pleine campagne. Les dits baraquements sont décrits comme étant en planches à double cloison et éclairés à l'électricité. Les hommes disposent d'une paillasse et de deux couvertures, de lavabos ainsi que de bains-douches. Les chambres sont chauffées par des poêles. Chaque block dispose également d'une infirmerie dont le service est assuré par un infirmier français. Si un malade est gravement atteint, il est transporté dans un lazaret qui se trouve à l'extérieur du camp. Plusieurs aumôniers se trouvent à Munster II. Il y avait également un séminaire où des prêtes allemands et français des cours pour permettre à des séminaristes prisonniers, sous certaines conditions,&nbsp; de continuer leurs études. </p>
+        <p class="text-justify">En octobre 1915, les prisonniers sont répartis dans 4 baraquements (appelés blocks). Ils forment chacun un rectangle en pleine campagne. Les dits baraquements sont décrits comme étant en planches à double cloison et éclairés à l'électricité. Les hommes disposent d'une paillasse et de deux couvertures, de lavabos ainsi que de bains-douches. Les chambres sont chauffées par des poêles. Chaque block dispose également d'une infirmerie dont le service est assuré par un infirmier français. Si un malade est gravement atteint, il est transporté dans un lazaret qui se trouve à l'extérieur du camp. Plusieurs aumôniers se trouvent à Munster II. Il y avait également un séminaire où des prêtes allemands et français des cours pour permettre à des séminaristes prisonniers, sous certaines conditions,&nbsp; de continuer leurs études. </p>
 
-        <p>A partir du mois de mars 1917, les représentations théâtrales au camp de Münster II sont suspendues. <cite>L'Exilé</cite> (Organe des Prisonniers du <a href="camp-hammelburg.php" title="le camp de prisonnier de Hammelburg">camp d'Hammelburg</a>) précise qu'elles sont remplacées par des conférences payantes (5 à 10 pfenning, pour les nécessiteux, l'entrée est gratuite). La recette est versée au fond de secours du camp. </p>
+        <p class="text-justify">A partir du mois de mars 1917, les représentations théâtrales au camp de Münster II sont suspendues. <cite>L'Exilé</cite> (Organe des Prisonniers du <a href="camp-hammelburg.php" title="le camp de prisonnier de Hammelburg">camp d'Hammelburg</a>) précise qu'elles sont remplacées par des conférences payantes (5 à 10 pfenning, pour les nécessiteux, l'entrée est gratuite). La recette est versée au fond de secours du camp. </p>
 
-        <p>Dans <em>Westfalen in Ersten Weltkrieg</em>, l'historien allemand Rainer PÖPPINGHEGE évalue à 47911 le nombre de soldats prisonniers dans le camp de Münster II à la fin de la Première Guerre Mondiale.</p>
-        <p>&nbsp;</p>
+        <p class="text-justify">Dans <em>Westfalen in Ersten Weltkrieg</em>, l'historien allemand Rainer PÖPPINGHEGE évalue à 47911 le nombre de soldats prisonniers dans le camp de Münster II à la fin de la Première Guerre Mondiale.</p>
+        <p class="text-justify">&nbsp;</p>
 
         <table class="tab_camp">
             <caption>Effectif du camp au 26 juillet 1918</caption>
@@ -309,7 +309,7 @@
 
         <h2>Le camp de Münster III (dit camp des Neue-Kasernen)</h2>
 
-        <p>En février 1918, sur 17800 prisonniers qui dépendaient du camp III de Munster, seulement 1578 se trouvaient effectivement dans le camp. Le camp n°3 était installé dans des casernes d'infanterie non terminées et situées dans les faubourgs exterieurs de la vilel de Munster.</p>
+        <p class="text-justify">En février 1918, sur 17800 prisonniers qui dépendaient du camp III de Munster, seulement 1578 se trouvaient effectivement dans le camp. Le camp n°3 était installé dans des casernes d'infanterie non terminées et situées dans les faubourgs exterieurs de la vilel de Munster.</p>
 
         <figure>
             <a href="images/camps_prisonniers_munster_01.jpg" data-fancybox="gallery" data-caption="Le retour des corvées à Münster III">

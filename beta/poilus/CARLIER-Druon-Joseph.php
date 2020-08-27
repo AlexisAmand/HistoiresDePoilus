@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -105,11 +105,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Druon Joseph CARLIER</h1>
+        <h1 class="my-4">Druon Joseph CARLIER</h1>
 
-        <p><strong>Druon Joseph CARLIER</strong>, père de mon arrière-grand-mère, est né le samedi 15 avril 1876 à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> (Nord). Il est le fils de Druon Joseph CARLIER, ouvrier, âgé de 49 ans et de Sidonie Célestine PATOU, ouvrière, âgée de 42 ans.</p>
+        <p class="text-justify"><strong>Druon Joseph CARLIER</strong>, père de mon arrière-grand-mère, est né le samedi 15 avril 1876 à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> (Nord). Il est le fils de Druon Joseph CARLIER, ouvrier, âgé de 49 ans et de Sidonie Célestine PATOU, ouvrière, âgée de 42 ans.</p>
 
         <figure>
             <a href="images/arbre-carlier.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille JOLY-CARLIER">
@@ -117,7 +117,7 @@
             <figcaption>Arbre simplifié de la famille JOLY-CARLIER<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
-        <p>Pour simplifier les choses, je n'ai pas représenté tous les membres de la famille sur l'arbre ci-dessus, mais à sa naissance, Druon a pour frères et sœurs : Gustave (né en 1864), Maria Sidonie (née en 1865), Marie Zélia (née en 1869) et <a href="CARLIER-Louis-Abraham.php" title="Biographie du soldat Louis Abraham">Louis Abraham</a> (né en 1871). En 1906, il vit au hameau de Sebourquiaux avec son épouse Angèle DANHIEZ et ses deux filles Lucia (mon arrière-grand-mère) et Maria.</p>
+        <p class="text-justify">Pour simplifier les choses, je n'ai pas représenté tous les membres de la famille sur l'arbre ci-dessus, mais à sa naissance, Druon a pour frères et sœurs : Gustave (né en 1864), Maria Sidonie (née en 1865), Marie Zélia (née en 1869) et <a href="CARLIER-Louis-Abraham.php" title="Biographie du soldat Louis Abraham">Louis Abraham</a> (né en 1871). En 1906, il vit au hameau de Sebourquiaux avec son épouse Angèle DANHIEZ et ses deux filles Lucia (mon arrière-grand-mère) et Maria.</p>
 
         <figure>
             <a href="sources/carlier-druon-matricule-01.jpg" data-fancybox="gallery" data-caption="Extrait de sa fiche matricule de Druon Joseph CARLIER">
@@ -125,7 +125,7 @@
             <figcaption>Extrait de sa fiche matricule<br />(source: Archives Départementales du Nord)</figcaption>
         </figure>
 
-        <p>Durant son service militaire, <strong>Druon Joseph CARLIER</strong> est incorporé comme soldat de 2e classe au <strong>1er Régiment d'Infanterie</strong> sous le matricule n°8102 le 15 novembre 1897. C'est un régiment qui est né en 1479 et est issu des "bandes de Picardie". Il a traversé toutes les époques en participant à toutes les campagnes qui ont fait la France.</p><p>En application de la décision ministérielle du 21 septembre 1898, il passe au <strong>1er Régiment d'Infanterie de Marine</strong> le 1er décembre 1898 et est immatriculé sous le n° A 7225. Le 16 septembre 1899, il devient soldat de 1e classe. Il ne s'agit pas d'un grade mais plutôt d'une distinction qui permettrait d'accéder ensuite au grade de caporal. Il est envoyé en congé en attendant son passage dans la réserve avec un certificat de bonne conduite accordé le 28 septembre 1900.</p>
+        <p class="text-justify">Durant son service militaire, <strong>Druon Joseph CARLIER</strong> est incorporé comme soldat de 2e classe au <strong>1er Régiment d'Infanterie</strong> sous le matricule n°8102 le 15 novembre 1897. C'est un régiment qui est né en 1479 et est issu des "bandes de Picardie". Il a traversé toutes les époques en participant à toutes les campagnes qui ont fait la France.</p><p class="text-justify">En application de la décision ministérielle du 21 septembre 1898, il passe au <strong>1er Régiment d'Infanterie de Marine</strong> le 1er décembre 1898 et est immatriculé sous le n° A 7225. Le 16 septembre 1899, il devient soldat de 1e classe. Il ne s'agit pas d'un grade mais plutôt d'une distinction qui permettrait d'accéder ensuite au grade de caporal. Il est envoyé en congé en attendant son passage dans la réserve avec un certificat de bonne conduite accordé le 28 septembre 1900.</p>
 
         <figure>
             <a href="portraits/Druon Joseph CARLIER (sosa 22).jpg" data-fancybox="gallery" data-caption="agrandir le portrait de Druon Joseph CARLIER">
@@ -133,11 +133,11 @@
             <figcaption>Druon Joseph CARLIER</figcaption>
         </figure>
 
-        <p>Le 13 avril 1903, <strong>Druon</strong> épouse à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> Angèle DANHIEZ (1880-1969). Le couple aura 3 enfants: Maria Antoinette (née en 1904), mon arrière-grand-mère Lucia (née en 1905), et Lucien dont j'ignore la date de naissance. Lucia épouse Noël JOLY, le fils de <a href="JOLY-Noel-Jules.php">Noel Jules JOLY</a>,  le 24 septembre 1927 à Onnaing.</p>
+        <p class="text-justify">Le 13 avril 1903, <strong>Druon</strong> épouse à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> Angèle DANHIEZ (1880-1969). Le couple aura 3 enfants: Maria Antoinette (née en 1904), mon arrière-grand-mère Lucia (née en 1905), et Lucien dont j'ignore la date de naissance. Lucia épouse Noël JOLY, le fils de <a href="JOLY-Noel-Jules.php">Noel Jules JOLY</a>,  le 24 septembre 1927 à Onnaing.</p>
 
         <h2>La mobilisation d'août 1914</h2>
 
-        <p>Mobilisation générale !</p>
+        <p class="text-justify">Mobilisation générale !</p>
 
         <figure>
             <a href="images/mobilisation.jpg" data-fancybox="gallery" data-caption="Affiche de la mobilisation générale">
@@ -147,7 +147,7 @@
 
         <div id="Fournier"></div>
 
-        <p>Âgé de 38 ans, <strong>Druon Joseph </strong> est mobilisé et rejoint la 12e compagnie du 3e bataillon du <strong>2e Régiment d'Infanterie Territoriale</strong> en tant que soldat de 2e classe. Le 2e R.I.T a fait partie des troupes de la défense du Camp retranché de Maubeuge, sous les ordres du Général FOURNIER, Gouverneur. Mobilisé le 3 août 1914 à Valenciennes et à Condé-sur-Escaut, ses 4192 hommes ont été transportés dans la nuit du 4 au 5 à Maubeuge. Ils étaient répartis en 4 bataillons:  Le 2e Secteur de défense, commandé par le Colonel du Génie GUéRANDEL était composé des 1er et 2e bataillon à Ferrière-la-Grande et du 3e bataillon à Ferrière-la-Petite. Le 4e Secteur de défense était commandé par le Général du Génie WILLE et composé du 4e Bataillon à Pont-Allan, puis à Elesmes. (voir aussi la page consacrée à <a href="JOLY-Noel-Jules.php" title="Biographie du poilu Noël Jules JOLY">Noël Jules JOLY</a>)</p>
+        <p class="text-justify">Âgé de 38 ans, <strong>Druon Joseph </strong> est mobilisé et rejoint la 12e compagnie du 3e bataillon du <strong>2e Régiment d'Infanterie Territoriale</strong> en tant que soldat de 2e classe. Le 2e R.I.T a fait partie des troupes de la défense du Camp retranché de Maubeuge, sous les ordres du Général FOURNIER, Gouverneur. Mobilisé le 3 août 1914 à Valenciennes et à Condé-sur-Escaut, ses 4192 hommes ont été transportés dans la nuit du 4 au 5 à Maubeuge. Ils étaient répartis en 4 bataillons:  Le 2e Secteur de défense, commandé par le Colonel du Génie GUéRANDEL était composé des 1er et 2e bataillon à Ferrière-la-Grande et du 3e bataillon à Ferrière-la-Petite. Le 4e Secteur de défense était commandé par le Général du Génie WILLE et composé du 4e Bataillon à Pont-Allan, puis à Elesmes. (voir aussi la page consacrée à <a href="JOLY-Noel-Jules.php" title="Biographie du poilu Noël Jules JOLY">Noël Jules JOLY</a>)</p>
 
         <figure>
             <a href="images/maubeuge-sept-1914.jpg" data-fancybox="gallery" data-caption="L'emplacement des forts de la place forte de Maubeuge en 1914">
@@ -159,7 +159,7 @@
 
         <h2>La chute de l'ouvrage permanent de Ferrière-la-Petite</h2>
 
-        <p>La 12e compagnie, dont fait partie <strong>Druon</strong>, est la garnison d'infanterie de l'ouvrage permanent de Ferrière-la-Petite sous les ordres du chef de Bataillon du génie CRÉPY. Pendant la nuit du 31 août 1914, Les avant-postes du centre de Ferrière-la-Petite sont fortement inquiétés, alerte générale, le bombardement continu, l'artillerie du Bourdiau riposte. Prévu pour une seule compagnie, l'ouvrage de Ferrière-la-petite était composé d'abris bétonnés que les Allemands ont détruit à la fin du mois de septembre 1914.</p>
+        <p class="text-justify">La 12e compagnie, dont fait partie <strong>Druon</strong>, est la garnison d'infanterie de l'ouvrage permanent de Ferrière-la-Petite sous les ordres du chef de Bataillon du génie CRÉPY. Pendant la nuit du 31 août 1914, Les avant-postes du centre de Ferrière-la-Petite sont fortement inquiétés, alerte générale, le bombardement continu, l'artillerie du Bourdiau riposte. Prévu pour une seule compagnie, l'ouvrage de Ferrière-la-petite était composé d'abris bétonnés que les Allemands ont détruit à la fin du mois de septembre 1914.</p>
 
         <figure>
             <a href="images/Ferrière-la-Petite-01.jpg" data-fancybox="gallery" data-caption="L'ouvrage de Ferrière-la-Petite">
@@ -169,18 +169,18 @@
 
         <h2>La chute de la place forte de Maubeuge</h2>
 
-        <p>Le 4 septembre 1914, le Gouverneur fait rassembler les drapeaux de la garnison de Maubeuge. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e, 2e, 3e  et 4e  territoriale et enfin celui du <strong>1er Régiment d'Artillerie à Pied</strong>. Le lendemain, à 7 heures du matin, les drapeaux de la garnison sont brûlés dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
+        <p class="text-justify">Le 4 septembre 1914, le Gouverneur fait rassembler les drapeaux de la garnison de Maubeuge. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e, 2e, 3e  et 4e  territoriale et enfin celui du <strong>1er Régiment d'Artillerie à Pied</strong>. Le lendemain, à 7 heures du matin, les drapeaux de la garnison sont brûlés dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
 
         <h2>La capture de Druon Joseph</h2>
 
-        <p><strong>Druon Joseph CARLIER</strong> est capturé à Ferrière-la-Petite, à quelques kilomètres de Maubeuge et envoyé comme prisonnier à <a href="../camps/camp-friedrichsfeld.php" title="le camp de prisonniers de Friedrichsfeld">Friedrichsfeld (Allemagne)</a> après que les troupes françaises capturées suite à la Bataille de Maubeuge aient été regroupées à Rousies.</p>
+        <p class="text-justify"><strong>Druon Joseph CARLIER</strong> est capturé à Ferrière-la-Petite, à quelques kilomètres de Maubeuge et envoyé comme prisonnier à <a href="../camps/camp-friedrichsfeld.php" title="le camp de prisonniers de Friedrichsfeld">Friedrichsfeld (Allemagne)</a> après que les troupes françaises capturées suite à la Bataille de Maubeuge aient été regroupées à Rousies.</p>
         <h2>Enfin libre !</h2>
 
-        <p>Druon Joseph est libéré le 13 décembre 1918 et retourne vivre Rue Giraud à Onnaing, ville où en avril 1917, l'explosion d'un obus prussien abandonné dans un champ de tir propose la mort tragique d'enfants, et où les jeunes femmes étaient obligées de récolter le chou pour l'occupant qui en était friand. La Fosse Cuvinot a quant à elle été complètement détruite par les Allemands lors de leur retraite de 1918.</p>
+        <p class="text-justify">Druon Joseph est libéré le 13 décembre 1918 et retourne vivre Rue Giraud à Onnaing, ville où en avril 1917, l'explosion d'un obus prussien abandonné dans un champ de tir propose la mort tragique d'enfants, et où les jeunes femmes étaient obligées de récolter le chou pour l'occupant qui en était friand. La Fosse Cuvinot a quant à elle été complètement détruite par les Allemands lors de leur retraite de 1918.</p>
 
         <h2>L'après guerre de Druon</h2>
 
-        <p>Le 18 juin 1930, <strong>Druon Joseph CARLIER</strong> habite rue Giraud à Onnaing (Nord). Il y reçoit une carte d'ancien combattant délivrée par le Comité Départemental du Nord de l'Office Nationale du Combattant.</p>
+        <p class="text-justify">Le 18 juin 1930, <strong>Druon Joseph CARLIER</strong> habite rue Giraud à Onnaing (Nord). Il y reçoit une carte d'ancien combattant délivrée par le Comité Départemental du Nord de l'Office Nationale du Combattant.</p>
 
         <figure>
             <a href="sources/druon-carlier-ancien-combattant.jpg" data-fancybox="gallery" data-caption="La carte d'ancien combattant de Druon Joseph CARLIER">

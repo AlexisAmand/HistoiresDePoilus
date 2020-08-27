@@ -172,26 +172,26 @@ if (isset($_POST['envoye']))
 
 </header>
 
-    <section>
+    <section class="row">
 
-        <article style="margin-left:0px;">
+        <article class="col-12">
 
-        <h1>Pour me contacter</h1>
+        <h1 class="my-4">Pour me contacter</h1>
 
-        <p>
+        <p class="text-justify">
         Vous pouvez me contacter via les réseaux sociaux :
         </p>
 
-        <p>
+        <p class="text-justify">
         Facebook : <a href="https://www.facebook.com/genealexis.fr">https://www.facebook.com/genealexis.fr</a><br />
         Twitter : <a href="https://twitter.com/alexisamand">https://twitter.com/alexisamand</a>
         </p>
 
-        <p>
+        <p class="text-justify">
         Par mail : <a href="mailto:alexis.amand@gmail.fr">alexis.amand@gmail.fr</a>
         </p>
 
-        <p>
+        <p class="text-justify">
         Ou encore en utilisant ce formulaire :
         </p>
 
@@ -203,7 +203,7 @@ if (isset($_POST['envoye']))
         ?>
         
         <form action="contact2.php" method="post">
-            <p>
+            <p class="text-justify">
                 <label for="civilite">Civilité :</label>
                 <select id="civilite" name="civilite">
                     <option 
@@ -241,25 +241,25 @@ if (isset($_POST['envoye']))
                     </option>
                 </select>
             </p>
-            <p>
+            <p class="text-justify">
                 <label for="nom">Nom/Prénom :</label>
                 <input type="text" id="nom" name="nom" value="<?php echo (isset($_POST['nom'])) ? $nom : '' ?>" style="width:242px;"/>
             </p>
-            <p>
+            <p class="text-justify">
                 <label for="email">E-mail :</label>
                 <input type="text" id="email" name="email" value="<?php echo (isset($_POST['email'])) ? $expediteur : '' ?>"  style="width:287px;"/>
             </p>
-            <p>
+            <p class="text-justify">
                 <label for="sujet">Sujet :</label>
                 <input type="text" id="sujet" name="sujet" value="<?php echo (isset($_POST['sujet'])) ? $sujet : '' ?>"  style="width:294px;"/>
             </p>
-            <p>
+            <p class="text-justify">
                 <label for="message">Message :</label><br/>
                 <textarea id="message" name="message" cols="47" rows="10">
                     <?php echo (isset($_POST['message'])) ? $message : '' ?>
                 </textarea>
             </p>
-            <p>
+            <p class="text-justify">
                 <input type="reset" name="reset" value="Effacer" class="btn"/>  
                 <input type="submit" name="envoye" value="Envoyer" class="btn"/>
             </p>

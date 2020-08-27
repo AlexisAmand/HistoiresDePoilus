@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -113,15 +113,15 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Darmstadt</h1>
+        <h1 class="my-4">Le camp de prisonniers de Darmstadt</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
        
-        <p></p>
+        <p class="text-justify"></p>
 
-        <p>Ce camp était situé dans un vaste champ de manœuvres à quelques kilomètres de la ville de Darmstadt, en Hesse, dans le centre-ouest de l'Allemagne. Il était constitué de grandes baraques en bois réunies en groupe de dix pouvant contenir un bataillon. Le camp était entouré d'un réseau de fils de fer et chaque bataillon (ensemble de 10 baraques) était à son tour entouré par un fil de fer.</p>
+        <p class="text-justify">Ce camp était situé dans un vaste champ de manœuvres à quelques kilomètres de la ville de Darmstadt, en Hesse, dans le centre-ouest de l'Allemagne. Il était constitué de grandes baraques en bois réunies en groupe de dix pouvant contenir un bataillon. Le camp était entouré d'un réseau de fils de fer et chaque bataillon (ensemble de 10 baraques) était à son tour entouré par un fil de fer.</p>
 
         <figure>
             <img src="miniatures/Darmstadt/carte-camp-darmstadt.jpg" data-fancybox="gallery" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Darmstadt">
@@ -130,7 +130,7 @@
 
         <div id="Louis_Guinet"></div>
 
-        <p>Louis GUINET a 27 ans quand il est fait prisonnier à Entre-deux-Eaux, près de Saint-Dié, le 29 août 1914. Il est évacué sur le camp de Darmstadt où il séjourne jusque juin 1915, date à laquelle il est envoyé au camp de représailles de <a href="camp-meyenburg.php">Meyenburg</a>. Sur son séjour à Darmstadt, il rapporte que la <em>nourriture était insuffisante et de mauvaise qualité.</em> et que les <em>prisonniers étaient traités avec brutalité</em>.</p>
+        <p class="text-justify">Louis GUINET a 27 ans quand il est fait prisonnier à Entre-deux-Eaux, près de Saint-Dié, le 29 août 1914. Il est évacué sur le camp de Darmstadt où il séjourne jusque juin 1915, date à laquelle il est envoyé au camp de représailles de <a href="camp-meyenburg.php">Meyenburg</a>. Sur son séjour à Darmstadt, il rapporte que la <em>nourriture était insuffisante et de mauvaise qualité.</em> et que les <em>prisonniers étaient traités avec brutalité</em>.</p>
 
         <figure>
             <a href="images/Darmstadt/darmstadt-04.jpg" data-fancybox="gallery" data-caption="Le camp de Darmstadt">
@@ -138,7 +138,7 @@
             <figcaption>Statistique du mouvement de la correspondance au camp de Darmstadt<br />(source allemande)</figcaption>   
         </figure>
 
-        <p>Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php">Wetzlar</a> arrivent au camp de Darmstadt.</p>
+        <p class="text-justify">Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php">Wetzlar</a> arrivent au camp de Darmstadt.</p>
 
         <figure>
             <a href="images/Darmstadt/darmstadt-08.jpg" data-fancybox="gallery" data-caption="Le camp de Darmstadt">
@@ -152,7 +152,7 @@
             <figcaption>Menu du camp du 4 au 10 avril 1915<br />(source allemande)</figcaption>
         </figure>
 
-        <p>Dans le livre intitulé "Le Sort des Prisonniers Français en Allemagne", paru en 1916, l'auteur nous décrit l'impuissance des prisonniers français contre les épidémies, notamment dans les camps de <a href="camp-darmstadt.php">Darmstadt</a>, <a href="camp-friedrichsfeld.php">Friedrichsfeld</a>, Koenigsbrück, Merseburg et Zoosen où la faim non apaisée, l'inanition et la misère psychologique qui en a résulté ont provoqué un développement inouï de la tuberculose et une mortalité effrayante.</p>
+        <p class="text-justify">Dans le livre intitulé "Le Sort des Prisonniers Français en Allemagne", paru en 1916, l'auteur nous décrit l'impuissance des prisonniers français contre les épidémies, notamment dans les camps de <a href="camp-darmstadt.php">Darmstadt</a>, <a href="camp-friedrichsfeld.php">Friedrichsfeld</a>, Koenigsbrück, Merseburg et Zoosen où la faim non apaisée, l'inanition et la misère psychologique qui en a résulté ont provoqué un développement inouï de la tuberculose et une mortalité effrayante.</p>
 
         <figure>
             <a href="images/Darmstadt/darmstadt-01.jpg" data-fancybox="gallery"  title="Le camp de Darmstadt">
@@ -220,7 +220,7 @@
             <figcaption>Au dortoir (vers 1915)<br />(source allemande)</figcaption>
         </figure>
 
-        <p>Tous les prisonniers de Darmstadt étaient rapatriés au 4 janvier 1919.</p> 
+        <p class="text-justify">Tous les prisonniers de Darmstadt étaient rapatriés au 4 janvier 1919.</p> 
 
         <h2>Sources et bibliographie</h2>
 

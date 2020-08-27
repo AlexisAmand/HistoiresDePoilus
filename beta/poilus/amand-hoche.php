@@ -52,7 +52,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -104,11 +104,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Hoche Gaston AMAND</h1>
+        <h1 class="my-4">Hoche Gaston AMAND</h1>
 
-        <p>Hoche Gaston Blomy AMAND est né  le 10 février 1895 à bord du bateau de ses parents, un couple de bateliers, alors qu'il est à quai sur les rives de l'Escaut à Lourches. Comme Marceau, dont il est l'ainé, il est le fils légitime de Blomy Abélard et Adeline DELPLANQUE.</p>
+        <p class="text-justify">Hoche Gaston Blomy AMAND est né  le 10 février 1895 à bord du bateau de ses parents, un couple de bateliers, alors qu'il est à quai sur les rives de l'Escaut à Lourches. Comme Marceau, dont il est l'ainé, il est le fils légitime de Blomy Abélard et Adeline DELPLANQUE.</p>
 
         <figure>
             <a href="images/lourches-escaut-2.jpg" data-fancybox="gallery" data-caption="Vue des entrepôts et canal de l'Escaut à Lourches">
@@ -122,7 +122,7 @@
             <figcaption>Les bords de l'Escaut et la Passerelle à Lourches<br />(Source: Delcampe)</figcaption>
         </figure>
         
-        <p>Si vous êtes un jour amené à chercher des informations et à enquêter dans le milieu des bateliers, vous allez vitre découvrir que un véritable parcours du combattant car leur vie s'est faite au grés des fleuves. On nait dans un département, on se marie dans un second et on décéde dans un 3e. Est-ce pour cette raison que la famille AMAND est à Gueret en ce mois de mars 1915 ? Je ne sais pas trop car il se peut aussi que la famille ait fuit le Nord de la France devant l'avancé des troupes allemandes.</p>
+        <p class="text-justify">Si vous êtes un jour amené à chercher des informations et à enquêter dans le milieu des bateliers, vous allez vitre découvrir que un véritable parcours du combattant car leur vie s'est faite au grés des fleuves. On nait dans un département, on se marie dans un second et on décéde dans un 3e. Est-ce pour cette raison que la famille AMAND est à Gueret en ce mois de mars 1915 ? Je ne sais pas trop car il se peut aussi que la famille ait fuit le Nord de la France devant l'avancé des troupes allemandes.</p>
 
         <figure>
             <a href="sources/matricule-gaston-amand.jpg" data-fancybox="gallery" data-caption="Liste des domiciles de Gaston sur sa fiche matricule">
@@ -130,7 +130,7 @@
             <figcaption>Ses domiciles sur sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
         </figure> 
         
-        <p>Quoi qu'il en soit c'est à la marie de Gueret que nous faisons la connaissance de Hoche Gaston Blomy AMAND. Nous sommes le 3 mars 1915 et il est venu s'engager pour la durée de la guerre.</p>
+        <p class="text-justify">Quoi qu'il en soit c'est à la marie de Gueret que nous faisons la connaissance de Hoche Gaston Blomy AMAND. Nous sommes le 3 mars 1915 et il est venu s'engager pour la durée de la guerre.</p>
 
         <figure>
             <a href="sources/hoche-amand.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Hoche Amand">
@@ -138,7 +138,7 @@
             <figcaption>Extrait de la fiche matricule de Hoche AMAND<br />(Source: Archives Départementales du Nord)</figcaption>
         </figure>
 
-        <p>Hoche devient alors soldat de 2e classe au sein du 54e Régiment d'Infanterie jusqu'au 20 juillet 1915, date à laquelle il passe au 87e Régiment d'Infanterie. En octobre 1915, Hoche et son régiment participe à la prise de Tahure, assaut au cours duquel il est blessé à la jambe droite et au côté droit par un éclat d'obus. Il est évacué et de retour au 87e le 28 novembre 1915. Tahure est une ancienne commune française du département de la Marne qui fut détruite pendant la Première Guerre mondiale, son territoire a été rattaché à la commune de Sommepy-Tahure en 1950 lors de la création du camp militaire de Suippes.</p>
+        <p class="text-justify">Hoche devient alors soldat de 2e classe au sein du 54e Régiment d'Infanterie jusqu'au 20 juillet 1915, date à laquelle il passe au 87e Régiment d'Infanterie. En octobre 1915, Hoche et son régiment participe à la prise de Tahure, assaut au cours duquel il est blessé à la jambe droite et au côté droit par un éclat d'obus. Il est évacué et de retour au 87e le 28 novembre 1915. Tahure est une ancienne commune française du département de la Marne qui fut détruite pendant la Première Guerre mondiale, son territoire a été rattaché à la commune de Sommepy-Tahure en 1950 lors de la création du camp militaire de Suippes.</p>
 
         <figure>
             <a href="images/prise-de-tahure.jpg" data-fancybox="gallery" data-caption="La prise de Tahure (Par Léon Groc)">
@@ -146,7 +146,7 @@
             <figcaption>La prise de Tahure<br />illustration par Léon Groc pour la collection Patrie<br />(Source: Wikipedia Commons)</figcaption>
         </figure>
 
-        <p>Le mois de juillet 1917 est chargé pour Hoche. Le 6 il est cité à l'ordre du régiment n°181 du 87e Régiment d'Infanterie : "Etant en pays envahi, a franchi les lignes allemandes pour venir se présenter au bureau de recrutement". Trois semaines plus tard, le 27, il est blessé par un éclat d'obus à la main gauche pendant les combat de la côte 304, une colline au nord-est de Verdun (Meuse).</p>
+        <p class="text-justify">Le mois de juillet 1917 est chargé pour Hoche. Le 6 il est cité à l'ordre du régiment n°181 du 87e Régiment d'Infanterie : "Etant en pays envahi, a franchi les lignes allemandes pour venir se présenter au bureau de recrutement". Trois semaines plus tard, le 27, il est blessé par un éclat d'obus à la main gauche pendant les combat de la côte 304, une colline au nord-est de Verdun (Meuse).</p>
 
         <figure>
             <a href="images/cote-304.jpg" data-fancybox="gallery" data-caption="Pièce allemande à longue portée dans le bois de Gercourt">
@@ -154,7 +154,7 @@
             <figcaption>Pièce allemande à longue portée dans le bois de Gercourt<br />tirant sur le Mort-Homme et la côte 304.<br />(Source: Delcampe)</figcaption>
         </figure>
 
-        <p>Le 25 août 1919, il est envoyé en congés illimités et se retire à Neuville-sur-Escaut (Nord), au 23 rue de Bouchain. Selon le journal officiel du 27 octobre 1934 (p 317), il obtient la médaille millitaire.</p>
+        <p class="text-justify">Le 25 août 1919, il est envoyé en congés illimités et se retire à Neuville-sur-Escaut (Nord), au 23 rue de Bouchain. Selon le journal officiel du 27 octobre 1934 (p 317), il obtient la médaille millitaire.</p>
         
         <h2>Sources et bibliographie</h2>
 

@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -108,11 +108,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Gervais BOUCHER</h1>
+        <h1 class="my-4">Gervais BOUCHER</h1>
 
-        <p><strong>Gervais BOUCHER</strong> est né le 31 mai 1880 à Onnaing (Nord) à quelques kilomètres de Valenciennes.</p>
+        <p class="text-justify"><strong>Gervais BOUCHER</strong> est né le 31 mai 1880 à Onnaing (Nord) à quelques kilomètres de Valenciennes.</p>
 
         <figure>
             <a href="sources/boucher-naissance-1880.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Gervais BOUCHER">
@@ -120,7 +120,7 @@
             <figcaption>Acte de décès de Gervais BOUCHER<br />(Source: Archives Départementales du Nord)</figcaption>
         </figure>
 
-        <p>Fils légitime de Pierre Joseph et Anne Marie Lucette DELHAYE, il commence sa carrière militaire à l'âge de 20 ans quand il s'engage en tant que volontaire pour 3 ans le 17 octobre 1900 à la Mairie de Valenciennes. Au passage, je voudrais vous rappeler qu'il existait 3 sortes d'engagés volontaires: les engagés volontaires pour une durée de 3 à 5 ans, ceux engagés pour la durée de la guerre et qui étaient reçus à partir du 20e jour de la mobilisation, et enfin les engagements spéciaux des exemptés, réformés et des hommes âgés.</p>
+        <p class="text-justify">Fils légitime de Pierre Joseph et Anne Marie Lucette DELHAYE, il commence sa carrière militaire à l'âge de 20 ans quand il s'engage en tant que volontaire pour 3 ans le 17 octobre 1900 à la Mairie de Valenciennes. Au passage, je voudrais vous rappeler qu'il existait 3 sortes d'engagés volontaires: les engagés volontaires pour une durée de 3 à 5 ans, ceux engagés pour la durée de la guerre et qui étaient reçus à partir du 20e jour de la mobilisation, et enfin les engagements spéciaux des exemptés, réformés et des hommes âgés.</p>
 
         <figure>
             <a href="images/mairie-valenciennes.jpg" data-fancybox="gallery" data-caption="La Place d'Armes de Valenciennes">
@@ -128,7 +128,7 @@
             <figcaption>La Place d'Armes de Valenciennes,<br />avec vue sur l'Hôtel de Ville<br />(Source: Archives Municipales de Valenciennes)</figcaption>
         </figure>
 
-        <p>Il rejoint alors la 1re compagnie d'ouvrier d'artillerie où il arrive le lendemain et est immatriculé sous le n°677. Durant son engagement, il suit une formation et devient ouvrier en bois. Son engagement terminé, il part vivre à Calais (Pas-de-Calais) avec le certificat de bonne conduite accordé. Le 5 Juin 1905, Gervais épouse à Onnaing Marie Céline MASCART, une descendante d'Antoine MASCART (1721-1797) et Michelle BRACONNIER (1684-1727), mes sosas n°644 et 645.</p>
+        <p class="text-justify">Il rejoint alors la 1re compagnie d'ouvrier d'artillerie où il arrive le lendemain et est immatriculé sous le n°677. Durant son engagement, il suit une formation et devient ouvrier en bois. Son engagement terminé, il part vivre à Calais (Pas-de-Calais) avec le certificat de bonne conduite accordé. Le 5 Juin 1905, Gervais épouse à Onnaing Marie Céline MASCART, une descendante d'Antoine MASCART (1721-1797) et Michelle BRACONNIER (1684-1727), mes sosas n°644 et 645.</p>
 
         <table class="census">
         <caption>Liste des domiciles de Gervais</caption>
@@ -171,9 +171,9 @@
             <figcaption>Entrée de la fabrique de pipes d'Onnaing, rue Saint-Roch<br />(Source: Bibliothèque Municipale de Valenciennes)</figcaption>
         </figure>
 
-        <p>Pour l'instant, j'ai trouvé pour le couple formé par céline et Gervais un seul enfant, Marie Louise Célina, née le lundi 16 août 1909 à Calais (Rue Liévin DELHAYE) où Gervais est menuisier pour un certain Recq, qui est peut-être à rapprocher de la famille qui s'occupaient de pompes funèbres .</p>
+        <p class="text-justify">Pour l'instant, j'ai trouvé pour le couple formé par céline et Gervais un seul enfant, Marie Louise Célina, née le lundi 16 août 1909 à Calais (Rue Liévin DELHAYE) où Gervais est menuisier pour un certain Recq, qui est peut-être à rapprocher de la famille qui s'occupaient de pompes funèbres .</p>
 
-        <p>Quelques années plus tard, quand la guerre éclate, Gervais est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de mobilisation générale</a> du 1er août 1914 et rejoint le 1er R.A.P. Il est fait prisonnier à Maubeuge le 7 septembre 1914 et est envoyé en internement à <a href="../camps/camp-munster.php" title="Le camp de prisonniers de Munster">Munster III</a> d'où il sera rapatrié le 8 décembre 1918. Il est envoyé en congés illimités le 17 février 1919 Après une permission de 60 jours. Gervais est décédé à son domicile situé <a href="http://cartespostalesanciennes.genealexis.fr/image/421-valenciennes-le-depart-du-tramway-rue-de-mons" title="Le départ du Tramway, rue de Mons, à Valenciennes">Rue de Mons à Valenciennes</a>, le 27 décembre 1964.</p>
+        <p class="text-justify">Quelques années plus tard, quand la guerre éclate, Gervais est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de mobilisation générale</a> du 1er août 1914 et rejoint le 1er R.A.P. Il est fait prisonnier à Maubeuge le 7 septembre 1914 et est envoyé en internement à <a href="../camps/camp-munster.php" title="Le camp de prisonniers de Munster">Munster III</a> d'où il sera rapatrié le 8 décembre 1918. Il est envoyé en congés illimités le 17 février 1919 Après une permission de 60 jours. Gervais est décédé à son domicile situé <a href="http://cartespostalesanciennes.genealexis.fr/image/421-valenciennes-le-depart-du-tramway-rue-de-mons" title="Le départ du Tramway, rue de Mons, à Valenciennes">Rue de Mons à Valenciennes</a>, le 27 décembre 1964.</p>
 
         <figure>
             <a href="../camps/images/camps_prisonniers_munster_01.jpg" data-fancybox="gallery" data-caption="Le retour des corvées à Münster III">

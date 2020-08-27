@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -68,11 +68,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Auguste Maurice BALTAZART</h1>
+        <h1 class="my-4">Auguste Maurice BALTAZART</h1>
 
-        <p>Auguste Maurice BALTAZART, ou Auguste Marie selon les sources, est né à Grandpré (Ardennes) le 13 février 1892. L’acte de naissance reconstitué après la Grande Guerre nous précise qu’il est le fils légitime de Eugène Edmond BALTAZART et de Caroline Elise GAYET, ainsi que le frére de Jules Bernard BALTAZART. A L’heure où j’écris ces lignes, ma parenté avec Auguste n’est pas encore prouvée par mes recherches.</p>
+        <p class="text-justify">Auguste Maurice BALTAZART, ou Auguste Marie selon les sources, est né à Grandpré (Ardennes) le 13 février 1892. L’acte de naissance reconstitué après la Grande Guerre nous précise qu’il est le fils légitime de Eugène Edmond BALTAZART et de Caroline Elise GAYET, ainsi que le frére de Jules Bernard BALTAZART. A L’heure où j’écris ces lignes, ma parenté avec Auguste n’est pas encore prouvée par mes recherches.</p>
 
         <figure>
             <a href="sources/naissance-auguste-baltazart-1892.jpg" data-fancybox="gallery" data-caption="Copie de l'acte de naissance reconstitué d'Auguste BALTAZART daté de 1892">
@@ -80,9 +80,9 @@
             <figcaption>Acte de naissance reconstitué<br />(source : Archives Départementales des Ardennes)</figcaption>
         </figure>
 
-        <p>A la mobilisation, Auguste est membre du 25e Bataillon de Chasseurs à Pied. Il est tué à l’ennemi à l’âge de 22 ans le 24 aout 1914 à Arrancy, dans la meuse. La mention <em>mort pour la France</em> lui est attribuée via un jugement à Vouziers (Ardennes) en date du 29 juin 1920 et son décès est transcrit à Grandpré quelques jours plus tard, le 5 juillet.</p>
+        <p class="text-justify">A la mobilisation, Auguste est membre du 25e Bataillon de Chasseurs à Pied. Il est tué à l’ennemi à l’âge de 22 ans le 24 aout 1914 à Arrancy, dans la meuse. La mention <em>mort pour la France</em> lui est attribuée via un jugement à Vouziers (Ardennes) en date du 29 juin 1920 et son décès est transcrit à Grandpré quelques jours plus tard, le 5 juillet.</p>
 
-        <p>Son nom figure sur le monument aux morts de Grandpré (08) et sur le livre d’or du ministère des pensions.</p>
+        <p class="text-justify">Son nom figure sur le monument aux morts de Grandpré (08) et sur le livre d’or du ministère des pensions.</p>
 
         <figure>
             <a href="images/monument-grandpre.jpg" data-fancybox="gallery" data-caption="Le monument au morts de Grandpré (Ardennes)">

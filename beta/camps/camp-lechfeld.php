@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -113,11 +113,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Lechfeld</h1>
+        <h1 class="my-4">Le camp de prisonniers de Lechfeld</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p>Dans son ouvrage intitulé <cite>Août 1914. La Bataille de Sarrebourg</cite>, Joseph ELMERICH précise que la Bavière, qui avait fourni sa propre armée, avait préparé trois camps destinés à recevoir les prisonniers: le camp de Lechfeld (3600 prisonniers), <a href="camp-hammelburg.php" title="lien vers la page consacrée au camp de Hammelburg">le camp de Hammelburg</a> (4470 prisonniers) et enfin celui de <a href="camp-grafenwohr.php" title="lien vers la page consacrée au camp de Grafenwohr">Grafenwöhr </a>(10500 prisonniers).</p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p class="text-justify">Dans son ouvrage intitulé <cite>Août 1914. La Bataille de Sarrebourg</cite>, Joseph ELMERICH précise que la Bavière, qui avait fourni sa propre armée, avait préparé trois camps destinés à recevoir les prisonniers: le camp de Lechfeld (3600 prisonniers), <a href="camp-hammelburg.php" title="lien vers la page consacrée au camp de Hammelburg">le camp de Hammelburg</a> (4470 prisonniers) et enfin celui de <a href="camp-grafenwohr.php" title="lien vers la page consacrée au camp de Grafenwohr">Grafenwöhr </a>(10500 prisonniers).</p>
 
         <figure>
             <a href="images/Lechfeld/localisation-lechfeld.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Lechfeld">

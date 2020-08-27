@@ -51,11 +51,11 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
-        <article>
+        <article class="col-12">
 
-        <h1>Les Batailles du Front Africain</h1>
+        <h1 class="my-4">Les Batailles du Front Africain</h1>
 
         <figure>
             <a href="images/askari-1914-1918.jpg" data-fancybox="gallery" data-caption="Une troupe d'Askari pendant la Grande Guerre">

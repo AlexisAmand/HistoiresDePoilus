@@ -53,13 +53,13 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
-        <article>
+        <article class="col-12">
 
-        <h1>Les Batailles du Front de l'Europe de l'Est</h1>
+        <h1 class="my-4">Les Batailles du Front de l'Europe de l'Est</h1>
 
-        <p>Cette page sera mise à jour au fur et à mesure des découvertes.</p>
+        <p class="text-justify">Cette page sera mise à jour au fur et à mesure des découvertes.</p>
 
         <table>
             <thead>

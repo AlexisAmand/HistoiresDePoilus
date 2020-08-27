@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -106,11 +106,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Jean-Baptiste MASQUELLIER</h1>
+        <h1 class="my-4">Jean-Baptiste MASQUELLIER</h1>
         
-        <p>Jean Baptiste MASQUELLIER est né à Denain (Nord), le 16 mars 1883. Il est le fils légitime de Pierre François et de Palmyre Eugénie FONTAINE. Jean-Baptiste n’est pas directement parent avec moi, il a épousé mon arrière-arrière-grand-mère Zélia BRASSEUR à Quiévrechain (Nord) le 22 septembre 1924. Il est veuf de Coralie Augustine COUPE, qu'il avait épousé à Thiant (Nord) le 12 avril 1909 mais qui est malheureusement décédée dans la commune où elle s'est mariée, rue de la Bretagne (aujourd’hui rue Henri Durre), le 28 avril 1910.</p>
+        <p class="text-justify">Jean Baptiste MASQUELLIER est né à Denain (Nord), le 16 mars 1883. Il est le fils légitime de Pierre François et de Palmyre Eugénie FONTAINE. Jean-Baptiste n’est pas directement parent avec moi, il a épousé mon arrière-arrière-grand-mère Zélia BRASSEUR à Quiévrechain (Nord) le 22 septembre 1924. Il est veuf de Coralie Augustine COUPE, qu'il avait épousé à Thiant (Nord) le 12 avril 1909 mais qui est malheureusement décédée dans la commune où elle s'est mariée, rue de la Bretagne (aujourd’hui rue Henri Durre), le 28 avril 1910.</p>
         
         <figure>
             <a href="sources/masquellier-naissance-1883.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Jean-Baptiste MASQUELLIER">
@@ -118,7 +118,7 @@
             <figcaption>Acte de naissance de Jean-Baptiste MASQUELLIER<br />(Source: Archives Départementales du Nord)</figcaption>
         </figure>
         
-        <p>Jean-Baptiste porte le numéro de matricule 1441 du bureau de Valenciennes pour la classe 1903, mais dans l’état actuel de mes recherches, je n’ai pas encore pu trouver sa fiche matricule à causes des trous dans les registres de Valenciennes pour cette période.</p> 
+        <p class="text-justify">Jean-Baptiste porte le numéro de matricule 1441 du bureau de Valenciennes pour la classe 1903, mais dans l’état actuel de mes recherches, je n’ai pas encore pu trouver sa fiche matricule à causes des trous dans les registres de Valenciennes pour cette période.</p> 
 
         <h2>Sources et bibliographie</h2>
         

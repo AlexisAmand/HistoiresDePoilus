@@ -52,7 +52,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -112,11 +112,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Hagen</h1>
+        <h1 class="my-4">Le camp de prisonniers de Hagen</h1>
 
-        <p>Bientôt...</p>
+        <p class="text-justify">Bientôt...</p>
 
         <h2>Sources et bibliographie</h2>
 

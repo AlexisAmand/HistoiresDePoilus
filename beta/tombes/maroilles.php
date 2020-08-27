@@ -52,7 +52,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -73,9 +73,9 @@
 
     </aside>
 
-    <article>
+    <article class="col-12">
 
-    <h1>Les monuments de Maroilles</h1>
+    <h1 class="my-4">Les monuments de Maroilles</h1>
     
     <figure>
         <a href="images/monument-maroilles.jpg" data-fancybox="gallery" data-caption="Le monument aux morts de Maroilles">
@@ -83,7 +83,7 @@
         <figcaption>Le monument aux morts de Maroilles<br />(Source: Photo privée)</figcaption>
     </figure>
 
-	<p>A noter qu'il existe aussi, à Maroilles, un Arc de Trionphe. Il a été élevé en 1807 à la "gloire de nos armées" par Nicolas Joseph Vendois, maire de l' an VII à 1816.</p>
+	<p class="text-justify">A noter qu'il existe aussi, à Maroilles, un Arc de Trionphe. Il a été élevé en 1807 à la "gloire de nos armées" par Nicolas Joseph Vendois, maire de l' an VII à 1816.</p>
 
     <figure>
         <a href="images/arche-maroilles.jpg" data-fancybox="gallery" data-caption="L'Arc de Triomphe de Maroilles">

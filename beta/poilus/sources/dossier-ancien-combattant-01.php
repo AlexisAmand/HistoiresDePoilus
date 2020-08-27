@@ -48,7 +48,7 @@
     <a href="../../poilus.php" class="NavSelected">Les Poilus</a>
 </nav>
 
-<section>
+<section class="row">
 
 <aside style="border-top:10px solid #FFFFFF;">
 	<ul>
@@ -93,11 +93,11 @@
    <?php include ('../../include/pub.inc'); ?>
 </aside>
 
-<article>
+<article class="col-12">
 
-<h1>Auguste Victor FIEVET</h1>
+<h1 class="my-4">Auguste Victor FIEVET</h1>
 
-<p>Extrait du dossier d'ancien combattant d'Auguste Victor FIEVET.<br />
+<p class="text-justify">Extrait du dossier d'ancien combattant d'Auguste Victor FIEVET.<br />
 <a href="../FIEVET-Auguste-Victor.php">Retour à la page consacrée à Auguste Victor</a>. </p>
 
 	<figure>

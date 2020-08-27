@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -113,11 +113,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de Görlitz</h1>
+        <h1 class="my-4">Le camp de Görlitz</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
         <figure>
             <img src="miniatures/Gorlitz/gorlitz-01.jpg" alt="Des prisonniers du camp de Görlitz en rang pour la photographie">

@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -113,13 +113,13 @@
 
     </aside>
 
-    <article>
+    <article class="col-12">
 
-        <h1>Le camp de prisonniers de Ruhleben</h1>
+        <h1 class="my-4">Le camp de prisonniers de Ruhleben</h1>
 
-        <p>Ce camp était situé à Ruhleben, prés de Spandau, à 10km à l'ouest de Berlin. Il ne s'agissait pas d'un camp de prisonniers militaires mais de civils, pour la plupart des alliés, qui travaillaient, étudiaient ou étaient en vacances en Allemagne au moment du déclenchement du conflit.</p>
+        <p class="text-justify">Ce camp était situé à Ruhleben, prés de Spandau, à 10km à l'ouest de Berlin. Il ne s'agissait pas d'un camp de prisonniers militaires mais de civils, pour la plupart des alliés, qui travaillaient, étudiaient ou étaient en vacances en Allemagne au moment du déclenchement du conflit.</p>
 
-        <p>Le "Journal du Collectionneur de Timbres" n°4330 daté du 1 août 1916 estime à 4000 ou 5000 le nombre de prisonniers anglais présents dans le camp de Ruhleben. Il précise également qu'ils sont internés dans 8 grandes baraques. Toujours selon la même source, les Anglais auraient même réussi à supporter l'épreuve en se donnant l'illusion d'être en villégiature dans un coin perdu de la Grande-Bretagne. A la même époque, un rapport de l'Ambassadeur des Etats-Unis à Berlin est quant à lui alarmant. Il dépeint en effet la situation comme intolérable en décrivant des civils entassés à 64 dans des écuries de 10 m sur 13, dans une obscurité ne permettant même pas de lire. Il décrit également un système de chauffage inadapté et des prisonniers ne pouvant même pas sécher leurs vêtements entre deux appels sous la pluie.<p>
+        <p class="text-justify">Le "Journal du Collectionneur de Timbres" n°4330 daté du 1 août 1916 estime à 4000 ou 5000 le nombre de prisonniers anglais présents dans le camp de Ruhleben. Il précise également qu'ils sont internés dans 8 grandes baraques. Toujours selon la même source, les Anglais auraient même réussi à supporter l'épreuve en se donnant l'illusion d'être en villégiature dans un coin perdu de la Grande-Bretagne. A la même époque, un rapport de l'Ambassadeur des Etats-Unis à Berlin est quant à lui alarmant. Il dépeint en effet la situation comme intolérable en décrivant des civils entassés à 64 dans des écuries de 10 m sur 13, dans une obscurité ne permettant même pas de lire. Il décrit également un système de chauffage inadapté et des prisonniers ne pouvant même pas sécher leurs vêtements entre deux appels sous la pluie.<p class="text-justify">
 
         <figure>
             <a href="images/Ruhleben/Ruhleben-01.jpg" title="Des prisonniers anglais à Ruhleben">    
@@ -127,11 +127,11 @@
             <figcaption>Des Anglais à Ruhleben<br />(source: BNF - Gallica et La Guerre Mondiale : bulletin quotidien illustré)</figcaption>
         </figure>
 
-        <p>Le 27 juillet 1915, le journal "La Croix" raconte que deux anglais, l'un correspondant de l'agence Reuters, l'autre du Daily Chronicle, se sont évadés du camp allemand de Ruhleben et viennent d'arriver en territoire hollandais.</p>
+        <p class="text-justify">Le 27 juillet 1915, le journal "La Croix" raconte que deux anglais, l'un correspondant de l'agence Reuters, l'autre du Daily Chronicle, se sont évadés du camp allemand de Ruhleben et viennent d'arriver en territoire hollandais.</p>
 
         <div id="Kamps"></div>
 
-        <p>Dès le 15 août 1915, et à l'initiative d'un prisonnier anglais nommé KAMPS, les autorités allemandes mettent en place 24 boîtes aux lettres réparties à travers le camp, ainsi qu'un bureau de poste (le Post Office R. X. D.) situé à côté du corps de garde. Cette poste privée, exclusivement réservée à un usage à l'intérieur du camp, a pour but la simplification de la distribution du courrier aux prisonniers qui n'ont plus besoin d'aller le chercher eux mêmes.</p>
+        <p class="text-justify">Dès le 15 août 1915, et à l'initiative d'un prisonnier anglais nommé KAMPS, les autorités allemandes mettent en place 24 boîtes aux lettres réparties à travers le camp, ainsi qu'un bureau de poste (le Post Office R. X. D.) situé à côté du corps de garde. Cette poste privée, exclusivement réservée à un usage à l'intérieur du camp, a pour but la simplification de la distribution du courrier aux prisonniers qui n'ont plus besoin d'aller le chercher eux mêmes.</p>
 
         <h2>Sources et bibliographie</h2>
 

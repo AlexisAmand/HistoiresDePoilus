@@ -51,7 +51,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -111,11 +111,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Hammerstein</h1>
+        <h1 class="my-4">Le camp de prisonniers de Hammerstein</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p>Le camp principal de prisonniers de Hammerstein était situé en Prusse occidentale sur les rives de la Küdow, entre la mer Baltique et Posen.</p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p class="text-justify">Le camp principal de prisonniers de Hammerstein était situé en Prusse occidentale sur les rives de la Küdow, entre la mer Baltique et Posen.</p>
 
         <figure>
             <a href="images/Hammerstein/hammerstein-01.jpg" data-fancybox="gallery" data-caption="Le camp de Hammerstein">
@@ -141,7 +141,7 @@
             <figcaption>Service divin israélite<br />(source allemande)</figcaption>
         </figure>
 
-        <p>J'ai longtemps hésité avant de vous présenter la photographie ci-dessous, comme je l'ai dit plus haut, il faut bien garder en tête qu'elle est paru en 1915 dans un ouvrage allemand. C'est également pour cette raison que je n'ai pas mis en ligne les diverses photos qui représentaient les <em>"ethnies" (sic)</em> rencontrées dans les camps.</p>  
+        <p class="text-justify">J'ai longtemps hésité avant de vous présenter la photographie ci-dessous, comme je l'ai dit plus haut, il faut bien garder en tête qu'elle est paru en 1915 dans un ouvrage allemand. C'est également pour cette raison que je n'ai pas mis en ligne les diverses photos qui représentaient les <em>"ethnies" (sic)</em> rencontrées dans les camps.</p>  
 
         <figure>
             <a href="images/Hammerstein/hammerstein-05.jpg" data-fancybox="gallery" data-caption="Le camp de Hammerstein">

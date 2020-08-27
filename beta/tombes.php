@@ -55,7 +55,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -76,11 +76,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-            <h1>Les photos de tombes</h1>
+            <h1 class="my-4">Les photos de tombes</h1>
 
-            <p>A l'origine, cette partie du site était un ensemble de relevés des morts pour la France dans les communes où on vécu mes ancêtres. Seulement voilà, il se trouve que ça faut un peu doublon avec ce que certains sites proposent (comme <a href="https://www.geneanet.org/">Geneanet</a> ou <a href="https://monumentsmorts.univ-lille.fr/">Les monuments aux morts</a> sur le site de Lille 1). J'ai donc restructuré la rubrique pour y présenter des photos de tombes et de monuments croisés au hazard de mes découvertes et mes promenades.</p>
+            <p class="text-justify">A l'origine, cette partie du site était un ensemble de relevés des morts pour la France dans les communes où on vécu mes ancêtres. Seulement voilà, il se trouve que ça faut un peu doublon avec ce que certains sites proposent (comme <a href="https://www.geneanet.org/">Geneanet</a> ou <a href="https://monumentsmorts.univ-lille.fr/">Les monuments aux morts</a> sur le site de Lille 1). J'ai donc restructuré la rubrique pour y présenter des photos de tombes et de monuments croisés au hazard de mes découvertes et mes promenades.</p>
 
             <div style="background-image:url('tombes/images/bandeau.jpg');width:100%;height:50px;margin-bottom:15px;">
 
@@ -88,40 +88,40 @@
 
             <h2>Liste des abréviations utilisées</h2>
 
-            <p>Pour plus de lisibilité, j'ai parfois dû utiliser quelques abréviations dont voici la signification.</p>
-            <p>&nbsp;</p>
-            <p>B.C - Bataillon de Chasseurs</p>
-            <p>B.C.A - Bataillon de Chasseurs Alpin</p>
-            <p>B.C.P - Bataillon de Chasseurs à Pied</p>
-            <p>B.D - Bataillon de Douaniers</p>
-            <p>B.I.C.M - Bataillon d'Infanterie Coloniale du Maroc</p>
-            <p>B.M.A - Bataillon de Marche d'Afrique</p>
-            <p>C.M.D - Corps Militaire des Douanes</p>
-            <p>C.O.A - Section de Commis et Ouvriers militaires d'Administration</p>
-            <p>C.P - Cuirassier à Pied</p>
-            <p>E.T.E - Escadron de Train d'Equipage</p>
-            <p>G.A - Groupe d'Aviation</p>
-            <p>R.A - Régiment d'Artillerie</p>
-			<p>R.A.C - Régiment d'Artillerie de Campagne</p>            
-            <p>R.A.L - Régiment d'Artillerie Lourde</p>
-            <p>R.A.P - Régiment d'Artillerie à Pied</p>
-            <p>R.C - Régiment de Cuirassiers</p>
-            <p>R.C.C - Régiment de Chasseurs à Cheval</p>
-            <p>R.D - Régiment de Dragons</p>
-            <p>R.E - Régiment Etranger</p>
-            <p>R.G - Régiment du Génie</p>
-            <p>R.I - Régiment d'Infanterie</p>
-            <p>R.I.C - Régiment d'Infanterie Coloniale</p>
-            <p>R.I.T - Régiment d'Infanterie Territoriale</p>
-            <p>R.M - Régiment de Marche</p>
-            <p>R.M.A - Régiment de Marche d'Afrique</p>
-            <p>R.M.Z - Régiment de Marche des Zouaves</p>
-            <p>R.T - Régiment de Tirailleurs</p>
-            <p>R.Z - Régiment de Zouaves</p>
-            <p>S.C.F.C - Section de Chemin de Fer de Campagne</p>
-            <p>S.I.M - Section d'Infirmiers Militaires</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
+            <p class="text-justify">Pour plus de lisibilité, j'ai parfois dû utiliser quelques abréviations dont voici la signification.</p>
+            <p class="text-justify">&nbsp;</p>
+            <p class="text-justify">B.C - Bataillon de Chasseurs</p>
+            <p class="text-justify">B.C.A - Bataillon de Chasseurs Alpin</p>
+            <p class="text-justify">B.C.P - Bataillon de Chasseurs à Pied</p>
+            <p class="text-justify">B.D - Bataillon de Douaniers</p>
+            <p class="text-justify">B.I.C.M - Bataillon d'Infanterie Coloniale du Maroc</p>
+            <p class="text-justify">B.M.A - Bataillon de Marche d'Afrique</p>
+            <p class="text-justify">C.M.D - Corps Militaire des Douanes</p>
+            <p class="text-justify">C.O.A - Section de Commis et Ouvriers militaires d'Administration</p>
+            <p class="text-justify">C.P - Cuirassier à Pied</p>
+            <p class="text-justify">E.T.E - Escadron de Train d'Equipage</p>
+            <p class="text-justify">G.A - Groupe d'Aviation</p>
+            <p class="text-justify">R.A - Régiment d'Artillerie</p>
+			<p class="text-justify">R.A.C - Régiment d'Artillerie de Campagne</p>            
+            <p class="text-justify">R.A.L - Régiment d'Artillerie Lourde</p>
+            <p class="text-justify">R.A.P - Régiment d'Artillerie à Pied</p>
+            <p class="text-justify">R.C - Régiment de Cuirassiers</p>
+            <p class="text-justify">R.C.C - Régiment de Chasseurs à Cheval</p>
+            <p class="text-justify">R.D - Régiment de Dragons</p>
+            <p class="text-justify">R.E - Régiment Etranger</p>
+            <p class="text-justify">R.G - Régiment du Génie</p>
+            <p class="text-justify">R.I - Régiment d'Infanterie</p>
+            <p class="text-justify">R.I.C - Régiment d'Infanterie Coloniale</p>
+            <p class="text-justify">R.I.T - Régiment d'Infanterie Territoriale</p>
+            <p class="text-justify">R.M - Régiment de Marche</p>
+            <p class="text-justify">R.M.A - Régiment de Marche d'Afrique</p>
+            <p class="text-justify">R.M.Z - Régiment de Marche des Zouaves</p>
+            <p class="text-justify">R.T - Régiment de Tirailleurs</p>
+            <p class="text-justify">R.Z - Régiment de Zouaves</p>
+            <p class="text-justify">S.C.F.C - Section de Chemin de Fer de Campagne</p>
+            <p class="text-justify">S.I.M - Section d'Infirmiers Militaires</p>
+            <p class="text-justify">&nbsp;</p>
+            <p class="text-justify">&nbsp;</p>
 
         </article>
 

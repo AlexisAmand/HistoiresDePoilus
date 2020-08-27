@@ -54,11 +54,11 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
-        <article>
+        <article class="col-12">
 
-            <h1>Les batailles de la Grande Guerre</h1>
+            <h1 class="my-4">Les batailles de la Grande Guerre</h1>
 
             <a href="batailles/batailles-est.php">L'Europe de l'Est</a><br />
             <a href="batailles/batailles-ouest.php">L'Europe de l'Ouest</a><br />

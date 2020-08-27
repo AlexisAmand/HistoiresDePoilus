@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -106,13 +106,13 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Georges LAMANDIN</h1>
+        <h1 class="my-4">Georges LAMANDIN</h1>
 
-        <p>Note: Les données concernant <strong>Georges LAMANDIN</strong> m'ont été communiquées par son arrière-petite-fille.</p>
+        <p class="text-justify">Note: Les données concernant <strong>Georges LAMANDIN</strong> m'ont été communiquées par son arrière-petite-fille.</p>
 
-        <p>Georges Jean Baptiste LAMANDIN  est né le 24 juin 1885 à Villers Guislain (Nord). Soldat de 2e classe 19e régiment d'infanterie, Georges est mort pour la France le 7 septembre 1914 à Champfleury (Seine et Marne). Champfleury est un hameau qui dépend de Montceaux-lès-Provins où il y a eu une terrible bataille le 6 septembre 1914. 300 000 obus sont tombés et 155 Soldats reposent dans 2 ossuaires auxquels il faut rajouter les tombes individuelles.</p>
+        <p class="text-justify">Georges Jean Baptiste LAMANDIN  est né le 24 juin 1885 à Villers Guislain (Nord). Soldat de 2e classe 19e régiment d'infanterie, Georges est mort pour la France le 7 septembre 1914 à Champfleury (Seine et Marne). Champfleury est un hameau qui dépend de Montceaux-lès-Provins où il y a eu une terrible bataille le 6 septembre 1914. 300 000 obus sont tombés et 155 Soldats reposent dans 2 ossuaires auxquels il faut rajouter les tombes individuelles.</p>
 
         <figure>
             <a href="sources/georges-lamandin-mpf.jpg" data-fancybox="gallery" data-caption='Fiche "Mort pour la France" de Georges LAMANDIN'>

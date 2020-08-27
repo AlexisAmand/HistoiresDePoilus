@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -106,11 +106,11 @@
     
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Louis Abraham CARLIER</h1>
+        <h1 class="my-4">Louis Abraham CARLIER</h1>
 
-        <p><strong>Louis Abraham CARLIER</strong>, frère de <a href="CARLIER-Druon-Joseph.php" title="Voir la biographie du poilu Druon Joseph CARLIER">Druon Joseph</a>, est né 17 décembre 1871 à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> (Nord).</p> 
+        <p class="text-justify"><strong>Louis Abraham CARLIER</strong>, frère de <a href="CARLIER-Druon-Joseph.php" title="Voir la biographie du poilu Druon Joseph CARLIER">Druon Joseph</a>, est né 17 décembre 1871 à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> (Nord).</p> 
 
         <figure>
             <a href="sources/carlier-louis-abraham-1871.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Louis Abraham CARLIER">
@@ -118,7 +118,7 @@
             <figcaption>Acte de naissance de Louis Abraham CARLIER<br />(source: Archives départementales du Nord)</figcaption>
         </figure>
 
-        <p>Comme lui, il est le fils de Druon Joseph CARLIER et de Sidonie Célestine PATOU. Ouvrier agricole chez LENGRAND à Sebourg, Louis s'unit avec Volaine GRAVELLE. Le couple aura 5 enfants: Valérine (née en 1869), Louis Druon (né en 1898), Yvonne (née en 1901), Louise (née en 1903) et Blondine Clémence (née en 1908). En 1906, il est ouvrier agricole chez Lengrand et vit à Sebourg (Rue de l'église) avec son épouse, Volcide GRAVELLE, et ses 4 enfants: Olia, Louis, Yvonne et Louise.</p>
+        <p class="text-justify">Comme lui, il est le fils de Druon Joseph CARLIER et de Sidonie Célestine PATOU. Ouvrier agricole chez LENGRAND à Sebourg, Louis s'unit avec Volaine GRAVELLE. Le couple aura 5 enfants: Valérine (née en 1869), Louis Druon (né en 1898), Yvonne (née en 1901), Louise (née en 1903) et Blondine Clémence (née en 1908). En 1906, il est ouvrier agricole chez Lengrand et vit à Sebourg (Rue de l'église) avec son épouse, Volcide GRAVELLE, et ses 4 enfants: Olia, Louis, Yvonne et Louise.</p>
 
         <figure>
             <a href="images/arbre-carlier-2.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille CARLIER">
@@ -130,7 +130,7 @@
 
         <h2>La mobilisation d'août 1914</h2>
 
-        <p>Âgé de 43 ans en 1914, <strong>Louis Abraham</strong> est mobilisé comme la plupart des hommes de sa génération et devient auxiliaire de place forte au sein de la 1re batterie (3e selon certaines sources) du <strong>1er Régiment d'Artillerie à Pied</strong>. En 1914, l'artillerie à pied est réservée à la défense d'une zone que l'on appelle groupe  et a en charge outre la défense de ce groupe, celle des forts et ouvrages. Il est cantonné au groupe de Grévaux, sous les ordres  Capitaine BOCQUET.</p>
+        <p class="text-justify">Âgé de 43 ans en 1914, <strong>Louis Abraham</strong> est mobilisé comme la plupart des hommes de sa génération et devient auxiliaire de place forte au sein de la 1re batterie (3e selon certaines sources) du <strong>1er Régiment d'Artillerie à Pied</strong>. En 1914, l'artillerie à pied est réservée à la défense d'une zone que l'on appelle groupe  et a en charge outre la défense de ce groupe, celle des forts et ouvrages. Il est cantonné au groupe de Grévaux, sous les ordres  Capitaine BOCQUET.</p>
 
         <figure>
             <a href="portraits/Louis Abraham CARLIER (frère de sosa 22).jpg" data-fancybox="gallery" data-caption="Portrait de Louis Abraham CARLIER">
@@ -140,7 +140,7 @@
 
         <h2>La bataille de Maubeuge</h2>
 
-        <p>Le bombardement reprend sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er territorial opposent une belle résistance.</p>
+        <p class="text-justify">Le bombardement reprend sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er territorial opposent une belle résistance.</p>
 
         <figure>
             <a href="images/maubeuge-sept-1914.jpg" data-fancybox="gallery" data-caption="L'emplacement des forts de la place forte de Maubeuge en 1914">
@@ -152,7 +152,7 @@
         
         <h2>On brûle les drapeaux de la garnison de Maubeuge...</h2>
 
-        <p>Le 4 septembre 1914, le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e, 2e, 3e  et 4e  territorial et enfin celui du <strong>1er Régiment d'Artillerie à Pied</strong>.</p><p>Dès le lendemain, à 7 heures, les drapeaux de la garnison sont brûlés dans le jardin du Pavillon, à proximité de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
+        <p class="text-justify">Le 4 septembre 1914, le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e, 2e, 3e  et 4e  territorial et enfin celui du <strong>1er Régiment d'Artillerie à Pied</strong>.</p><p class="text-justify">Dès le lendemain, à 7 heures, les drapeaux de la garnison sont brûlés dans le jardin du Pavillon, à proximité de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande la cérémonie qui émotionne fortement les assistants.</p>
 
         <figure>
             <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" data-caption="La Caserne Joyeuse (Maubeuge) avant 1914">
@@ -162,7 +162,7 @@
 
         <h2>La capture des soldats à Ferrière-la-Grande</h2>
 
-        <p><strong>Louis Abraham</strong> est fait prisonnier le 7 septembre 1914 à Ferrière-la-Grande (à côté de Maubeuge) et  envoyé à Munster  (Munster III selon sa fiche matricule, Munster II selon sa carte d'ancien combattant).</p>
+        <p class="text-justify"><strong>Louis Abraham</strong> est fait prisonnier le 7 septembre 1914 à Ferrière-la-Grande (à côté de Maubeuge) et  envoyé à Munster  (Munster III selon sa fiche matricule, Munster II selon sa carte d'ancien combattant).</p>
 
         <figure>
             <a href="sources/Louis-Carlier-dossier-01.jpg" data-fancybox="gallery" data-caption="Carte d'ancien de Louis Abraham CARLIER">
@@ -172,7 +172,7 @@
 
         <h2>Louis, prisonnier au camp de Münster</h2>
 
-        <p>Le <strong><a href="../camps/camp-munster.php">camp de Münster</a></strong>, où est envoyé Louis, est ouvert dès le début de la guerre, il était situé en Allemagne, dans le nord du Land de Rhénanie-du-Nord-Westphalie.</p>
+        <p class="text-justify">Le <strong><a href="../camps/camp-munster.php">camp de Münster</a></strong>, où est envoyé Louis, est ouvert dès le début de la guerre, il était situé en Allemagne, dans le nord du Land de Rhénanie-du-Nord-Westphalie.</p>
 
         <figure>
             <a href="images/camp-munster.jpg" data-fancybox="gallery" data-caption="Une vue du camp de prisonnier de Münster">
@@ -198,7 +198,7 @@
             <figcaption>La vie au camp de Münster<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
-        <p>Selon le CICR, Louis est dans le convoi de l'internement du 8 novembre 1918, en provenance de Münster III et à destination de Leysin (Suisse). Il y est mentionné en tant que soldat du 1er Régiment d'Artillerie.</p>
+        <p class="text-justify">Selon le CICR, Louis est dans le convoi de l'internement du 8 novembre 1918, en provenance de Münster III et à destination de Leysin (Suisse). Il y est mentionné en tant que soldat du 1er Régiment d'Artillerie.</p>
 
         <figure>
             <a href="images/convoi-08111918.jpg" data-fancybox="gallery" data-caption="Convoi de l'internement du 8 novembre 1918">
@@ -208,7 +208,7 @@
 
         <h2>La vie de Louis après la guerre</h2>
 
-        <p>Au début des années 30, <strong>Louis Abraham</strong> habite rue du Cordeau à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a>. Il reçoit une carte d'ancien combattant délivrée par le Comité Départemental du Nord.</p>
+        <p class="text-justify">Au début des années 30, <strong>Louis Abraham</strong> habite rue du Cordeau à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a>. Il reçoit une carte d'ancien combattant délivrée par le Comité Départemental du Nord.</p>
 
         <figure>
             <a href="sources/louis-carlier-ancien-combattant.jpg" data-fancybox="gallery">

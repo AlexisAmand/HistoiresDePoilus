@@ -54,7 +54,7 @@
 
 </header>
 
-	<section>
+	<section class="row">
 
 	<aside>
 
@@ -106,11 +106,11 @@
 
 	</aside>
 
-		<article>
+		<article class="col-12">
 
-		<h1>Florimond LETIENNE</h1>
+		<h1 class="my-4">Florimond LETIENNE</h1>
 
-		<p><strong>Florimond LETIENNE</strong>, le beau frère d'<a href="FIEVET-Auguste-Victor.php" title="lien vers la page consacrée à Auguste FIEVET">Auguste</a> et <a href="FIEVET-Charles-Augustin.php" title="lien vers la page consacrée à Charles FIEVET">Charles FIEVET</a>, est né le 19 octobre 1873 à Roubaix (Nord), fils légitime de Henri Joseph LETIENNE et de Adéle Fileline DEGOBERT. Le 12 novembre 1898 à Roubaix, Florimond épouse Marie DELAUX, fille légitime d'Adolphe (1856-1906) et Joséphine RICHOMME (1857 - ? ), et sœur de Nathalie DELAUX (1885 - 1952), mon arrière-arrière-grand-mère.</p>
+		<p class="text-justify"><strong>Florimond LETIENNE</strong>, le beau frère d'<a href="FIEVET-Auguste-Victor.php" title="lien vers la page consacrée à Auguste FIEVET">Auguste</a> et <a href="FIEVET-Charles-Augustin.php" title="lien vers la page consacrée à Charles FIEVET">Charles FIEVET</a>, est né le 19 octobre 1873 à Roubaix (Nord), fils légitime de Henri Joseph LETIENNE et de Adéle Fileline DEGOBERT. Le 12 novembre 1898 à Roubaix, Florimond épouse Marie DELAUX, fille légitime d'Adolphe (1856-1906) et Joséphine RICHOMME (1857 - ? ), et sœur de Nathalie DELAUX (1885 - 1952), mon arrière-arrière-grand-mère.</p>
 
 		<figure>
 			<a href="images/letienne-florimond-1873.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Florimond LETIENNE">
@@ -118,7 +118,7 @@
 			<figcaption>Acte de naissance de Florimond<br /> (source : Archives Départementales du Nord)</figcaption>
 		</figure> 
 
-		<p>Selon le recensement de 1906, Florimond est rattacheur et vit Rue des Longues à Haies à Roubaix, en compagnie de Marie Lucie et de ses enfants : Léonie, Georges et Charles. La Rue des Longues Haies était situé dans un quartier populaire de Roubaix. Longue de près 1 km, on y trouvait des usines, des estaminets, des commerces, le Mont de Piété ou encore les Bains Municipaux. La rue était aussi un labyrinthe de courées parmi lesquelles la Cour Mulliez, où vivait la famille LETIENNE. On rencontrait cette rue en remontant la Rue de Lannoy vers l'église Sainte Elisabeth, elle s'étendait parallèlement au Boulevard Gambetta, en une longue ligne droite.</p> 
+		<p class="text-justify">Selon le recensement de 1906, Florimond est rattacheur et vit Rue des Longues à Haies à Roubaix, en compagnie de Marie Lucie et de ses enfants : Léonie, Georges et Charles. La Rue des Longues Haies était situé dans un quartier populaire de Roubaix. Longue de près 1 km, on y trouvait des usines, des estaminets, des commerces, le Mont de Piété ou encore les Bains Municipaux. La rue était aussi un labyrinthe de courées parmi lesquelles la Cour Mulliez, où vivait la famille LETIENNE. On rencontrait cette rue en remontant la Rue de Lannoy vers l'église Sainte Elisabeth, elle s'étendait parallèlement au Boulevard Gambetta, en une longue ligne droite.</p> 
 
 		<figure>
 			<a href="images/roubaix_longues_haies.jpg" data-fancybox="gallery" data-caption="La Rue des Longues Haies à Roubaix">
@@ -128,7 +128,7 @@
 
 		<h2>Florimond et la Grande Guerre</h2>
 
-		<p>Le décret de <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">mobilisation</a> du 1 août 1914 rappelle Florimond à l’activité au sein de la 11e batterie du 1er Régiment d’Artillerie qu’il rejoint le 3 aout 1914. Son “dossier d’ancien combattant”, que j’ai pu obtenir grâce à l’aide d’une bénévole du site Geneachtimi m’a permis d’en savoir un peu plus sur ses différentes affectations.</p>
+		<p class="text-justify">Le décret de <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">mobilisation</a> du 1 août 1914 rappelle Florimond à l’activité au sein de la 11e batterie du 1er Régiment d’Artillerie qu’il rejoint le 3 aout 1914. Son “dossier d’ancien combattant”, que j’ai pu obtenir grâce à l’aide d’une bénévole du site Geneachtimi m’a permis d’en savoir un peu plus sur ses différentes affectations.</p>
 
 		<figure>
 			<a href="sources/dossier-florimond-letienne.jpg" data-fancybox="gallery" data-caption="Extrait du dossier d'ancien combattant de Florimond">
@@ -136,9 +136,9 @@
 			<figcaption>Extrait du dossier d'ancien combattant de Florimond<br /> (source : Archives Départementales du Nord)</figcaption>
 		</figure>
 
-		<p>Il passera ainsi successivement par le 6e Régiment d'Artillerie à Pied (le 21 septembre), le 7e Régiment d'Artillerie à Pied (le 1er mars 1916), le 11e Régiment d'Artillerie à Pied (le 25 décembre 1917) et enfin le 3e Régiment d'Artillerie à Pied (le 10 mars 1918). Même si ses affectations et ses lieux de cantonnement ont changés, Florimond a passé toute la durée du conflit en Lorraine, dans le secteur de Verdun. Le 7 janvier 1919, il est mis en congés illimité par le 15e RAC de Douai, son dépôt démobilisateur et se retire à Roubaix, rue de Denain (cours Flamant).</p>
+		<p class="text-justify">Il passera ainsi successivement par le 6e Régiment d'Artillerie à Pied (le 21 septembre), le 7e Régiment d'Artillerie à Pied (le 1er mars 1916), le 11e Régiment d'Artillerie à Pied (le 25 décembre 1917) et enfin le 3e Régiment d'Artillerie à Pied (le 10 mars 1918). Même si ses affectations et ses lieux de cantonnement ont changés, Florimond a passé toute la durée du conflit en Lorraine, dans le secteur de Verdun. Le 7 janvier 1919, il est mis en congés illimité par le 15e RAC de Douai, son dépôt démobilisateur et se retire à Roubaix, rue de Denain (cours Flamant).</p>
 
-		<p>Le 26 juin 1928, le chef d’escadron commandant le centre de mobilisation n°10 de Dinard l’autorise provisoirement à faire valoir sa qualité de combattant pour sa participation aux opérations de guerre durant la Première Guerre Mondiale. Il est aussi précisé que celle appellation sera définitivement acquise lors de la délivrance de sa carte d’ancien combattant.</p>
+		<p class="text-justify">Le 26 juin 1928, le chef d’escadron commandant le centre de mobilisation n°10 de Dinard l’autorise provisoirement à faire valoir sa qualité de combattant pour sa participation aux opérations de guerre durant la Première Guerre Mondiale. Il est aussi précisé que celle appellation sera définitivement acquise lors de la délivrance de sa carte d’ancien combattant.</p>
 
 		<figure>
 			<a href="images/carte-florimond-letienne.jpg" data-fancybox="gallery" data-caption="Carte d'ancien combattant">
@@ -146,9 +146,9 @@
 			<figcaption>Carte d'ancien combattant ayant appartenu à Florimond<br /> (source : Archives Départementales du Nord)</figcaption>
 		</figure>
 
-		<p>Une question reste toutefois en suspens pour l’instant : Pourquoi le centre de démobilisation de Dinard (Ile-et-Vilaine) alors que l’après-guerre le domicilie à Roubaix (Nord) ?</p>
+		<p class="text-justify">Une question reste toutefois en suspens pour l’instant : Pourquoi le centre de démobilisation de Dinard (Ile-et-Vilaine) alors que l’après-guerre le domicilie à Roubaix (Nord) ?</p>
 
-		<p>Florimond LETIENNE est décédé à Roubaix le 11 novembre 1962 à presque 90 ans. Peut-être que je suis un peu fleur bleue, mais je trouve incroyable pour un ancien combattant de la Grande Guerre d’être décédé un 11 novembre.</p>
+		<p class="text-justify">Florimond LETIENNE est décédé à Roubaix le 11 novembre 1962 à presque 90 ans. Peut-être que je suis un peu fleur bleue, mais je trouve incroyable pour un ancien combattant de la Grande Guerre d’être décédé un 11 novembre.</p>
 
 		<h2>Sources et bibliographie</h2>
 

@@ -394,7 +394,7 @@ MISE EN LIGNE
 - ajout des sources en bas de la page Darmstadt
 - création de la page pour les camps de Friedberg, Bad Orb
 - ajout d'une image sur la page du camp de Friedberg
-- modification du CSS pour éviter à l'<aside> des camps de déborder de la <section>
+- modification du CSS pour éviter à l'<aside> des camps de déborder de la <section class="row">
 - ajout d'une image sur la page du camp de Giessen
 - ajout d'une image sur la page du camp de Bad Orb
 

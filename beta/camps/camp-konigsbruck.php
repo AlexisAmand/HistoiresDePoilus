@@ -52,7 +52,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -112,11 +112,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Königsbrück</h1>
+        <h1 class="my-4">Le camp de prisonniers de Königsbrück</h1>
 
-        <p>Ce camp était situé à Königsbrück, une ville de Saxe qui est elle-même située à promoximité de Dresde, dans l'est de l'Allemagne.</p>
+        <p class="text-justify">Ce camp était situé à Königsbrück, une ville de Saxe qui est elle-même située à promoximité de Dresde, dans l'est de l'Allemagne.</p>
 
         <figure>
             <a href="images/Konigsbruck/localisation.jpg" data-fancybox="gallery" data-caption="carte de l'Allemagne pour localiser le camp de prisonnier de Königsbrück">
@@ -124,7 +124,7 @@
             <figcaption>Localisation du camp de Königsbrück<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
-        <p>Au début de l'année 1915, pendant une visite de l'Ambassade d'Espagne au camp de Königsbrüc, les médecins allemands rejettent la responsabilité du dévelloppement important de la tuberculose dans les camps de prisonniers sur le <em>"temperament de la race française, prédisposée à la tuberculose"</em> Pour ettayer leurs propos, les médecins allemands insistent sur le grand nombre de français malades en ce mois de janvier 1915.</p>
+        <p class="text-justify">Au début de l'année 1915, pendant une visite de l'Ambassade d'Espagne au camp de Königsbrüc, les médecins allemands rejettent la responsabilité du dévelloppement important de la tuberculose dans les camps de prisonniers sur le <em>"temperament de la race française, prédisposée à la tuberculose"</em> Pour ettayer leurs propos, les médecins allemands insistent sur le grand nombre de français malades en ce mois de janvier 1915.</p>
    
         <figure>
             <a href="images/Konigsbruck/camp-konigsbruck-01.jpg" data-fancybox="gallery" data-caption="Prisonniers français à Königsbrück">

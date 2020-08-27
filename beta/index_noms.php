@@ -55,13 +55,13 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
-        <article style="margin-left:0px;">
+        <article class="col-12">
 
-            <h1>Index des noms de soldats cités</h1>
+            <h1 class="my-4">Index des noms de soldats cités</h1>
 
-            <p>Vous trouverez sur cette page la liste de tous les soldats mentionnés sur le site. Il peut s'agir d'une biographie détaillée, d'un document ou même d'une mention sur une tombe. Les individus sont classés par pays, puis par ordre alphabétique sur le nom de famille. Pour faciliter la recherche, cette liste contient aussi des civils ayant le status de morts pour la France. Je vous souhaite de bonnes recherches !</p>
+            <p class="text-justify">Vous trouverez sur cette page la liste de tous les soldats mentionnés sur le site. Il peut s'agir d'une biographie détaillée, d'un document ou même d'une mention sur une tombe. Les individus sont classés par pays, puis par ordre alphabétique sur le nom de famille. Pour faciliter la recherche, cette liste contient aussi des civils ayant le status de morts pour la France. Je vous souhaite de bonnes recherches !</p>
 
             <div id="colindex">
 

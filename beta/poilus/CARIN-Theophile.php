@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -105,11 +105,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Théophile CARIN</h1>
+        <h1 class="my-4">Théophile CARIN</h1>
 
-        <p><strong>Théophile  CARIN</strong> est né le 19 août 1879 à Lourches (Nord), fils légitime de  François Louis CARIN et de Pauline DUSSART. Il s'unit avec Zélia  BRASSEUR (née en 1886), mon arrière-arrière-grand-mère,  le  vendredi 14 août 1908 à Lourches. <strong>Théophile</strong> n'est pas parent avec moi. Il a juste épousé une de mes aïeules.</p>
+        <p class="text-justify"><strong>Théophile  CARIN</strong> est né le 19 août 1879 à Lourches (Nord), fils légitime de  François Louis CARIN et de Pauline DUSSART. Il s'unit avec Zélia  BRASSEUR (née en 1886), mon arrière-arrière-grand-mère,  le  vendredi 14 août 1908 à Lourches. <strong>Théophile</strong> n'est pas parent avec moi. Il a juste épousé une de mes aïeules.</p>
 
         <figure>
             <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="Arbre généalogique de la famille CARIN">
@@ -123,7 +123,7 @@
             <figcaption>Extrait de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
         </figure>
 
-        <p>Selon le recensement de 1906, Théophile a plusieurs frères et sœurs, tous nés et déclarés à Lourches: Elise (née en 1873), François Louis (né en 1875), Jean-Baptiste (né en 1880), <a href="CARIN-Edouard.php" title="Biographie d'Edouard CARIN">Edouard</a> (né le 5 août 1884), Célina (née en 1886),  Appoline (née en 1890), Clara (née en 1892), <a href="carin-joseph.php" title="Biographie de Joseph CARIN">Joseph</a> (né en 1894) et <a href="CARIN-Leon.php" title="Biographie de Léon CARIN">Léon</a> (né en 1896).</p>
+        <p class="text-justify">Selon le recensement de 1906, Théophile a plusieurs frères et sœurs, tous nés et déclarés à Lourches: Elise (née en 1873), François Louis (né en 1875), Jean-Baptiste (né en 1880), <a href="CARIN-Edouard.php" title="Biographie d'Edouard CARIN">Edouard</a> (né le 5 août 1884), Célina (née en 1886),  Appoline (née en 1890), Clara (née en 1892), <a href="carin-joseph.php" title="Biographie de Joseph CARIN">Joseph</a> (né en 1894) et <a href="CARIN-Leon.php" title="Biographie de Léon CARIN">Léon</a> (né en 1896).</p>
 
         <figure>
             <a href="images/mairie-de-lourches.jpg" data-fancybox="gallery" data-caption="La mairie de Lourches">
@@ -131,7 +131,7 @@
             <figcaption>La mairie de Lourches<br />(Source: Archives Municipales de Valenciennes)</figcaption>
         </figure>
 
-        <p>Du 20 août 1906 au 16 septembre 1906,  <strong>Théophile</strong> accomplit une première période d'exercice au sein du <strong>127e Régiment d'Infanterie</strong> qui est en garnison à Valenciennes depuis 1873. Du 1er juin 1909 au  17 juin 1909, il accomplit une 2e période d'exercice (toujours au sein du <strong>127e Régiment d'Infanterie</strong>). Les périodes d'exercice étaient organisées afin que ces réservistes restent opérationnels, même 10 ans après la fin de leur service militaire, trois périodes d'exercices sont organisées par les différentes lois de recrutement et circulaires ministérielles.</p>
+        <p class="text-justify">Du 20 août 1906 au 16 septembre 1906,  <strong>Théophile</strong> accomplit une première période d'exercice au sein du <strong>127e Régiment d'Infanterie</strong> qui est en garnison à Valenciennes depuis 1873. Du 1er juin 1909 au  17 juin 1909, il accomplit une 2e période d'exercice (toujours au sein du <strong>127e Régiment d'Infanterie</strong>). Les périodes d'exercice étaient organisées afin que ces réservistes restent opérationnels, même 10 ans après la fin de leur service militaire, trois périodes d'exercices sont organisées par les différentes lois de recrutement et circulaires ministérielles.</p>
 
         <figure>
             <a href="sources/CARIN-matricule-01.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Théophile CARIN">
@@ -139,7 +139,7 @@
             <figcaption>Extrait de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
         </figure>
 
-        <p>Le 5 mars 1908, <strong>Théophile CARIN</strong> est condamné par jugement du tribunal correctionnel de Douai à 10 jours de prison pour violence et voies de fait volontaires. Le 28 avril 1909, il est condamné une seconde fois à 8 jours de prison pour coup par le tribunal correctionnel de Valenciennes. Le 21 novembre 1911, il est condamné une troisième fois par jugement contradictoire du tribunal correctionnel d'Arras à un mois de prison pour vol. Le 15 mai 1913, Il est une nouvelle fois condamné, mais cette fois-ci c'est à 20 jours de prison pour vol par le tribunal de Bethune.</p>
+        <p class="text-justify">Le 5 mars 1908, <strong>Théophile CARIN</strong> est condamné par jugement du tribunal correctionnel de Douai à 10 jours de prison pour violence et voies de fait volontaires. Le 28 avril 1909, il est condamné une seconde fois à 8 jours de prison pour coup par le tribunal correctionnel de Valenciennes. Le 21 novembre 1911, il est condamné une troisième fois par jugement contradictoire du tribunal correctionnel d'Arras à un mois de prison pour vol. Le 15 mai 1913, Il est une nouvelle fois condamné, mais cette fois-ci c'est à 20 jours de prison pour vol par le tribunal de Bethune.</p>
 
         <figure>
             <a href="images/arras-tribunal.jpg" data-fancybox="gallery" data-caption="Le tribunal d'Arras">
@@ -173,7 +173,7 @@
 
         <h2>La mobilisation d'août 1914</h2>
 
-        <p>Mobilisation générale! Comme la plupart des hommes de sa génération, <strong>Théophile</strong> est rappelé à l'activité et  arrive au <strong>1er groupe spécial</strong> le 6 août. À la mobilisation, chaque Corps d'Armée soulevait un <strong>Groupe Spécial</strong> (le numéro est celui du Corps d'Armée). Dans ces groupes étaient reversés les condamnés réservistes.</p>
+        <p class="text-justify">Mobilisation générale! Comme la plupart des hommes de sa génération, <strong>Théophile</strong> est rappelé à l'activité et  arrive au <strong>1er groupe spécial</strong> le 6 août. À la mobilisation, chaque Corps d'Armée soulevait un <strong>Groupe Spécial</strong> (le numéro est celui du Corps d'Armée). Dans ces groupes étaient reversés les condamnés réservistes.</p>
 
         <figure>
             <a href="sources/CARIN-matricule-02.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Théophile CARIN">
@@ -181,13 +181,13 @@
             <figcaption>Extrait de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
         </figure>
 
-        <p>Du 6 août 1914  au 28 août 1914, <strong>Théophile CARIN</strong> est dit "à l'intérieur - Camp simple". Cela signifie que  le soldat était très en retrait des combats et peut-être au dépôt de son régiment. Je pense que <strong>Théophile</strong> était juste en attente de son transfert en Algérie.</p>
+        <p class="text-justify">Du 6 août 1914  au 28 août 1914, <strong>Théophile CARIN</strong> est dit "à l'intérieur - Camp simple". Cela signifie que  le soldat était très en retrait des combats et peut-être au dépôt de son régiment. Je pense que <strong>Théophile</strong> était juste en attente de son transfert en Algérie.</p>
 
         <div id="Ardit"></div>
 
         <h2>Théophile en Afrique</h2>
 
-        <p>Du 29 septembre 1914 au 14 août 1916, Théophile est affecté "<strong>Aux armées d'Algérie</strong>".</p><p> A partir du 9 août 1916, <strong>Théophile CARIN</strong> passe au <strong>4e Bataillon d'Infanterie Légère d'Afrique</strong> jusqu'au 16 août 1918, date de sa fusion avec le 5e bataillon d'Afrique. Le 4e bataillon est successivement commandé par le chef de bataillon ARDIT, puis par le chef de bataillon FLOUCAUT de FOURCROY.</p>
+        <p class="text-justify">Du 29 septembre 1914 au 14 août 1916, Théophile est affecté "<strong>Aux armées d'Algérie</strong>".</p><p class="text-justify"> A partir du 9 août 1916, <strong>Théophile CARIN</strong> passe au <strong>4e Bataillon d'Infanterie Légère d'Afrique</strong> jusqu'au 16 août 1918, date de sa fusion avec le 5e bataillon d'Afrique. Le 4e bataillon est successivement commandé par le chef de bataillon ARDIT, puis par le chef de bataillon FLOUCAUT de FOURCROY.</p>
 
         <figure>
             <a href="images/tatahouine.jpg" data-fancybox="gallery" data-caption="Vu d'ensemble du camp de Tatahouine (Tunisie)">
@@ -201,7 +201,7 @@
             <figcaption>Le camp retranché de Tatahouine (Tunisie)<br />(Cliquez pour agrandir)</figcaption>
         </figure>
 
-        <p>Le <strong>4e B.I.L.A</strong> continuera d'occuper alternativement les secteurs de Tatahouine, où <strong>Théophile</strong> est présent du 15 août 1916 au 18 octobre 1916 puis de Dehibat au sud de la Tunisie, où <strong>Théophile</strong> est présent du 19 octobre 1916 au 29 février 1919. Il prendra aussi part aux colonnes mobiles et de police dans les environs de ces postes.</p>
+        <p class="text-justify">Le <strong>4e B.I.L.A</strong> continuera d'occuper alternativement les secteurs de Tatahouine, où <strong>Théophile</strong> est présent du 15 août 1916 au 18 octobre 1916 puis de Dehibat au sud de la Tunisie, où <strong>Théophile</strong> est présent du 19 octobre 1916 au 29 février 1919. Il prendra aussi part aux colonnes mobiles et de police dans les environs de ces postes.</p>
 
         <figure>
             <a href="cartes/tunisie-1910.jpg" data-fancybox="gallery" data-caption="carte de la Tunisie vers 1910">
@@ -211,9 +211,9 @@
 
         <h2>L'après guerre de Théophile</h2>
 
-        <p>Quelques années après la guerre, le 15 mars 1923, <strong>Théophile</strong> et Zélia divorcent. Il part vivre à Roeulx, rue Arthur Lamendin, puis est libéré du service militaire le 28 novembre 1928.</p>
+        <p class="text-justify">Quelques années après la guerre, le 15 mars 1923, <strong>Théophile</strong> et Zélia divorcent. Il part vivre à Roeulx, rue Arthur Lamendin, puis est libéré du service militaire le 28 novembre 1928.</p>
         
-        <p>Pour info, Théophile a plusieurs frères et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="carin-joseph.php" title="Biographie du soldat Joseph CARIN">Joseph</a> et <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
+        <p class="text-justify">Pour info, Théophile a plusieurs frères et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="carin-joseph.php" title="Biographie du soldat Joseph CARIN">Joseph</a> et <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
 
         <h2>Sources et bibliographie</h2>
         

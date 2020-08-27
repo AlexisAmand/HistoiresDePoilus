@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -113,11 +113,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Meschede</h1>
+        <h1 class="my-4">Le camp de prisonniers de Meschede</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p class="text-justify"></p>
 
         <figure>
             <a href="images/Meschede/camp-meschede.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Meschede">
@@ -125,7 +125,7 @@
             <figcaption>Localisation du camp de Meschede<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure> 
 
-        <p>Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php">Wetzlar</a> arrivent au camp de Meschede.</p>
+        <p class="text-justify">Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php">Wetzlar</a> arrivent au camp de Meschede.</p>
 
         <figure>
             <a href="images/Meschede/meschede-01.jpg" data-fancybox="gallery" data-caption="Un groupe de prisonniers devant un baraquement à Meschede">

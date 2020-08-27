@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -113,11 +113,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Giessen</h1>
+        <h1 class="my-4">Le camp de prisonniers de Giessen</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br /><p>Ce camp était situé à Giessen, en Hesse, dans le centre-ouest de l'Allemagne. On y dénombrait 900 hommes de troupes et 300 prisonniers civils.</p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br /><p class="text-justify">Ce camp était situé à Giessen, en Hesse, dans le centre-ouest de l'Allemagne. On y dénombrait 900 hommes de troupes et 300 prisonniers civils.</p>
 
         <figure>
             <a href="images/Giessen/localisation-giessen.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Giessen">
@@ -133,7 +133,7 @@
 
         <div id="Jean_Bescond"></div>
 
-        <p>Jean BESCOND était sergent au 2e Régiment d'Infanterie Coloniale. Fait prisonnier dans l'Argonne le 17 novembre 1914, il est envoyé au camp de Giessen. Evacué sur la Suisse le 2 mai 1916 pour tuberculose pulmonaire, il témoigne dans un rapport: <em>"Ce camp était connu parmi les prisonniers français sous le nom de camp de la faim"</em>. Il raconte également avoir vu un camarade nommé Gaston PARIS mourir de faim, et dit avoir eu connaissance de 48 cas de morts par la faim parmi les Français. Jean précise également qu'il n'y avait pas de punitions à Giessen.</p>
+        <p class="text-justify">Jean BESCOND était sergent au 2e Régiment d'Infanterie Coloniale. Fait prisonnier dans l'Argonne le 17 novembre 1914, il est envoyé au camp de Giessen. Evacué sur la Suisse le 2 mai 1916 pour tuberculose pulmonaire, il témoigne dans un rapport: <em>"Ce camp était connu parmi les prisonniers français sous le nom de camp de la faim"</em>. Il raconte également avoir vu un camarade nommé Gaston PARIS mourir de faim, et dit avoir eu connaissance de 48 cas de morts par la faim parmi les Français. Jean précise également qu'il n'y avait pas de punitions à Giessen.</p>
 
         <figure>
             <a href="images/Giessen/giessen-01.jpg" data-fancybox="gallery" data-caption="Le camp de Giessen">
@@ -159,7 +159,7 @@
             <figcaption>Vue du camp de Giessen<br />(Source : Delcampe)</figcaption>
         </figure>
 
-        <p>Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php">Wetzlar</a> arrivent au camp de Giessen.</p>
+        <p class="text-justify">Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php">Wetzlar</a> arrivent au camp de Giessen.</p>
 
         <h2>Sources et bibliographie</h2>
 

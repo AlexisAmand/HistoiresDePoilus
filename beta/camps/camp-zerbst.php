@@ -53,7 +53,7 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 
 </header>
 
-<section>
+<section class="row">
 
 <aside>
 
@@ -113,11 +113,11 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
 
 </aside>
 
-    <article>
+    <article class="col-12">
 
-        <h1>Le camp de Zerbst</h1>
+        <h1 class="my-4">Le camp de Zerbst</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
         <figure>    
             <a href="images/Zerbst/localisation-zerbst.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Zerbst">
@@ -125,7 +125,7 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
             <figcaption>Localisation du camp de Zerbst<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>  
 
-        <p>Ce camp était situé à Zerbst, une ville d'Allemagne située dans le land actuel de Saxe-Anhalt.</p>
+        <p class="text-justify">Ce camp était situé à Zerbst, une ville d'Allemagne située dans le land actuel de Saxe-Anhalt.</p>
 
         <!--p>Le 28 juin 1917, les membres du comité de secours "Franco-Belge" sont incarcérés pendant 106 jours à la prison de Gommen. Ils sont accusés d'avoir transmis un document de la Kommandantur à la France. Le 11 octobre 1917, ils sont envoyés au camp de Alten-Grabow. Parmi les 106 coupables désignés par les Allemands figure deux belges: le premier maréchal des logis de gendarmerie COGNIAUX et le caporal LESQUOIS, originaire de Sommethonne-les-Virton.</p-->
 
@@ -141,7 +141,7 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
             <figcaption>Une cérémonie au camp de Zerbst<br />(source : Delcampe)</figcaption>
         </figure>
 
-        <p>La photo qui suit m'a été transmise en 2014 par Françoise C. Prise en juillet 1918, elle montre son grand-père, un lillois de la classe 1899, au camp de Zerbst. Les conditions de détention étaient tellement dures, qu'il eut les pieds gelés. Il ne fut définitivement libéré qu’en mars 1919, son livret militaire en atteste.</p>
+        <p class="text-justify">La photo qui suit m'a été transmise en 2014 par Françoise C. Prise en juillet 1918, elle montre son grand-père, un lillois de la classe 1899, au camp de Zerbst. Les conditions de détention étaient tellement dures, qu'il eut les pieds gelés. Il ne fut définitivement libéré qu’en mars 1919, son livret militaire en atteste.</p>
 
         <figure>
             <a href="images/Zerbst/poilus-zerbst.jpg" data-fancybox="gallery" data-caption="Le grand-père de Françoise C, prisonnier pendant la Première Guerre Mondiale">
@@ -149,7 +149,7 @@ cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'ut
             <figcaption>(source : Françoise C.)</figcaption>
         </figure>
 
-        <p>Les 200 belges présents dans le camp de Zerbst ont été rapatriés via Enschede (Pays-Bas) le 7 janvier 1919.</p>
+        <p class="text-justify">Les 200 belges présents dans le camp de Zerbst ont été rapatriés via Enschede (Pays-Bas) le 7 janvier 1919.</p>
 
         <h2>Sources et bibliographie</h2>
 

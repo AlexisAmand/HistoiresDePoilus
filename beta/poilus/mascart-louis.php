@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -105,11 +105,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Louis MASCART</h1>
+        <h1 class="my-4">Louis MASCART</h1>
 
-        <p>Louis MASCART est né à Onnaing, au domicile de ses parents situé Rue du Petit-Quesnoy, le 1 février 1892. Frère de <a href="mascart-leon.php" title="biographie du soldat Léon MASCART">Léon</a>, il est lui aussi le fils légitime de Léon MASCART et de Philomène DOYE. Mes ancêtres communs avec lui sont Hierosme MASCART et Marie MARTIN (mes sosas n° 1282 et 1283). En 1906, il est aide traceur chez Barbier et Cie, et vit avec sa mère Rue Fontaine, à Onnaing.</p>
+        <p class="text-justify">Louis MASCART est né à Onnaing, au domicile de ses parents situé Rue du Petit-Quesnoy, le 1 février 1892. Frère de <a href="mascart-leon.php" title="biographie du soldat Léon MASCART">Léon</a>, il est lui aussi le fils légitime de Léon MASCART et de Philomène DOYE. Mes ancêtres communs avec lui sont Hierosme MASCART et Marie MARTIN (mes sosas n° 1282 et 1283). En 1906, il est aide traceur chez Barbier et Cie, et vit avec sa mère Rue Fontaine, à Onnaing.</p>
         
   		<figure>
             <a href="sources/naissance-leon-mascart.jpg" data-fancybox="gallery" data-caption='Acte de naissance de Louis Mascart'>
@@ -117,7 +117,7 @@
             <figcaption>Acte de naissance de Louis<br />(Source: Archives Départementales du Nord)</figcaption>
         </figure>
               
-        <p>Il est décédé le 15 janvier 1919 à <a href="../hopitaux/hopitaux.php" title="Les hôpitaux de Nouvelle-Aquitaine pendant la Grande Guerre">l'hôpital Chastaing</a> de Limoges des suites de ses blessures.</p>
+        <p class="text-justify">Il est décédé le 15 janvier 1919 à <a href="../hopitaux/hopitaux.php" title="Les hôpitaux de Nouvelle-Aquitaine pendant la Grande Guerre">l'hôpital Chastaing</a> de Limoges des suites de ses blessures.</p>
 
         <figure>
             <a href="sources/louis-mascart-mpf.jpg" data-fancybox="gallery" data-caption='Fiche Mort pour la France de Louis Mascart'>

@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -105,11 +105,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Louis TIBURCE</h1>
+        <h1 class="my-4">Louis TIBURCE</h1>
 
-        <p>L'acte de naissance de Louis Henri François TIBURCE nous apprend qu'il voit le jour le 25 août 1889 à Marly, au domicile de ses parents situé sur du Quesnoy. Déclaré dès le lendemain, il est le fils légitime de Louis Victor TIBURCE et Marie Augustine DUSIN. Le 23 octobre 1920, il devient le 2e époux de Berthe DUSART, la cousine d'Henri Gustave FONTAINE (mon arrière-grand-père) et la veuve d'Augustin HANZE. Il suit la même carrière que son père en devenant commis puis préposé des Douanes.</p>
+        <p class="text-justify">L'acte de naissance de Louis Henri François TIBURCE nous apprend qu'il voit le jour le 25 août 1889 à Marly, au domicile de ses parents situé sur du Quesnoy. Déclaré dès le lendemain, il est le fils légitime de Louis Victor TIBURCE et Marie Augustine DUSIN. Le 23 octobre 1920, il devient le 2e époux de Berthe DUSART, la cousine d'Henri Gustave FONTAINE (mon arrière-grand-père) et la veuve d'Augustin HANZE. Il suit la même carrière que son père en devenant commis puis préposé des Douanes.</p>
 
 		<figure>
             <a href="images/marly01.jpg" data-fancybox="gallery" data-caption="La rue du Quesnoy à Marly">
@@ -117,7 +117,7 @@
             <figcaption>La Rue du Quesnoy, à Marly<br />(Source: Archives Municipales de Valenciennes)</figcaption>
         </figure>
 
-        <p>Il commence son service au sein de l'armée le 3 octobre 1910 en étant incorporé au sein du 91e Régiment d'Infanterie q'uil rejoint aussitôt en tant que soldat de 2e classe. Son service militaire se passe dans doute sans encombre car il devient soldat de 1ere classe le 6 octobre 1911 et même caporal le 13 octobre 1911. Il est mis en disponibilité le 25 septembre 1912 puis classsé afffecté spécial des douanes de Valenciennes à la gare de Blanc-Misseron à compté du 24 décembre 191 en tant que préposé des Douanes.</p>
+        <p class="text-justify">Il commence son service au sein de l'armée le 3 octobre 1910 en étant incorporé au sein du 91e Régiment d'Infanterie q'uil rejoint aussitôt en tant que soldat de 2e classe. Son service militaire se passe dans doute sans encombre car il devient soldat de 1ere classe le 6 octobre 1911 et même caporal le 13 octobre 1911. Il est mis en disponibilité le 25 septembre 1912 puis classsé afffecté spécial des douanes de Valenciennes à la gare de Blanc-Misseron à compté du 24 décembre 191 en tant que préposé des Douanes.</p>
 
         <figure>
             <a href="images/blancmisseron01.jpg" data-fancybox="gallery" data-caption="La gare de Blanc-Misseron" >
@@ -125,7 +125,7 @@
             <figcaption>La gare de Blanc-Misseron<br />(Source: Archives Municipales de Valenciennes)</figcaption>
         </figure>
 
-        <p>Louis est mobilisé le 23 août 1914 au 2e Bataillon de Douaniers. C'est un bataillon qui était composé de 700 hommes et qui avait été formé à partir des brigades de la partie nord de Valenciennes. Il était composée de 3 compagnies. Surpris par l'arrivée de l'avant garde allemande à Blanc-Misseron, il livre toute une journée de combat durant laquelle une partie des effectifs est faite prisonnière et l'autre parvient à battre en retraite. Ce Bataillon fut donc dissout de facto à la fin du mois d'août 1914.</p>
+        <p class="text-justify">Louis est mobilisé le 23 août 1914 au 2e Bataillon de Douaniers. C'est un bataillon qui était composé de 700 hommes et qui avait été formé à partir des brigades de la partie nord de Valenciennes. Il était composée de 3 compagnies. Surpris par l'arrivée de l'avant garde allemande à Blanc-Misseron, il livre toute une journée de combat durant laquelle une partie des effectifs est faite prisonnière et l'autre parvient à battre en retraite. Ce Bataillon fut donc dissout de facto à la fin du mois d'août 1914.</p>
         
         <figure>
             <a href="images/douanier-1916.jpg" data-fancybox="gallery" data-caption="Un douanier mobilisé en 1916">
@@ -133,7 +133,7 @@
             <figcaption>Un douanier mobilisé en 1916<br />(Source: histoire-de-la-douane.org)</figcaption>
         </figure>
 
-        <p>Louis et une partie de son bataillon parviennent ainsi à rejoindre Dunkerque et passent alors à la 4e Compagnie du Bataillon de Forteresse de Dunkerque à compter du 5 septembre 1914. Il passe à la 3e Compagnie du 1er Bataillon actif le 21 octobre 1914, compagnie qui fut ancien rattachée au 81e Régiment d'Infanterie au sein duquel Louis est affecté et arrive le 16 janvier 1916. Il est cité deux fois à l'ordre du régiment, le 31 mars 1917 (n°197) et le 19 septembre 1917 (n°280). Le 14 novembre 1917, il est nommé sergent fourrier, il s'agit du sous-officier chargé de l'intendance.</p><p>Quelques mois plus tard, le 9 juin 1918, il est évacué, blessé, et entre à l'hôpital auxiliaire n°119 à Pantin.</p>
+        <p class="text-justify">Louis et une partie de son bataillon parviennent ainsi à rejoindre Dunkerque et passent alors à la 4e Compagnie du Bataillon de Forteresse de Dunkerque à compter du 5 septembre 1914. Il passe à la 3e Compagnie du 1er Bataillon actif le 21 octobre 1914, compagnie qui fut ancien rattachée au 81e Régiment d'Infanterie au sein duquel Louis est affecté et arrive le 16 janvier 1916. Il est cité deux fois à l'ordre du régiment, le 31 mars 1917 (n°197) et le 19 septembre 1917 (n°280). Le 14 novembre 1917, il est nommé sergent fourrier, il s'agit du sous-officier chargé de l'intendance.</p><p class="text-justify">Quelques mois plus tard, le 9 juin 1918, il est évacué, blessé, et entre à l'hôpital auxiliaire n°119 à Pantin.</p>
         
         <figure>
             <a href="images/pantin-119.jpg" data-fancybox="gallery" data-caption="L'hôpital auxiliaire n°119 à Pantin">

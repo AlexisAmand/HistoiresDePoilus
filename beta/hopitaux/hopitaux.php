@@ -52,13 +52,13 @@
 
 </header>
 	
-	<section>
+	<section class="row">
 		
-	<article style="margin-left:0px;">
+	<article class="col-12">
 		
 		<h2>Le système de santé pendant la Grande Guerre</h2>
 		
-		<p>Pour que la compréhension du système de santé pendant la Première Guerre Mondiale soit plus simple à comprendre, je vous ai préparé un petit schéma explicatif. Bien sûr, je ne suis qu'un simple amateur qui n'est pas à l'abris d'une erreur. aussi, n'hésitez pas à me contacter si vous avez une remarque ou une correction à apporter.</p>
+		<p class="text-justify">Pour que la compréhension du système de santé pendant la Première Guerre Mondiale soit plus simple à comprendre, je vous ai préparé un petit schéma explicatif. Bien sûr, je ne suis qu'un simple amateur qui n'est pas à l'abris d'une erreur. aussi, n'hésitez pas à me contacter si vous avez une remarque ou une correction à apporter.</p>
 		
 		<p  style="text-align: center;margin-top: 25px;margin-bottom: 35px;"><a href="docs/evacuation.pdf" title="Organisation du système de santé pendant la Première Guerre Mondiale">
 		Organisation du système de santé pendant la Première Guerre Mondiale (pdf)</a></p>
@@ -77,18 +77,18 @@
 			<tr>
 				<td><p style="text-decoration: underline;font-weight: bold;text-align:center;">Les hôpitaux militaires et annexes</p></td>
 				<td><p style="text-decoration: underline;font-weight: bold;text-align:center;">les hôpitaux complémentaires (HC)</p>
-				<p>Ils complètent un hôpital, un hospice ou une structure déjà existante et sont gérés par le service de santé militaire.</p></td>
+				<p class="text-justify">Ils complètent un hôpital, un hospice ou une structure déjà existante et sont gérés par le service de santé militaire.</p></td>
 			</tr>
 			<tr>
 				<td><p style="text-decoration: underline;font-weight: bold;text-align:center;">Les hôpitaux mixtes</p>
-				<p>Destinés à la fois aux civils et aux militaires.</p></td>
+				<p class="text-justify">Destinés à la fois aux civils et aux militaires.</p></td>
 				<td><p style="text-decoration: underline;font-weight: bold;text-align:center;">les hôpitaux auxiliaires (HA)</p>
-				<p>Ils sont gérés par une des 3 sociétés d'assistance de la Croix Rouge.</p></td>
+				<p class="text-justify">Ils sont gérés par une des 3 sociétés d'assistance de la Croix Rouge.</p></td>
 			</tr>
 			<tr>
 				<td><p style="text-decoration: underline;font-weight: bold;text-align:center;">les hôpitaux civils</p></td>
 				<td><p style="text-decoration: underline;font-weight: bold;text-align:center;">les hôpitaux bénévoles (HB)</p>
-				<p>La gestion se fait par une association ou un groupe charitable. Il s'agit d'une initiative privée.</p></td>
+				<p class="text-justify">La gestion se fait par une association ou un groupe charitable. Il s'agit d'une initiative privée.</p></td>
 			</tr>
 			<tr>
 				<td><span style="text-decoration: underline;font-weight: bold;text-align:center;">les hôpitaux de place forte</span></td>

@@ -59,11 +59,11 @@
         <a href="internement-suisse.php">Les camps d'internement en Suisse</a>
     </div>
 
-    <section>
+    <section class="row">
 
-        <article>
+        <article class="col-12">
 
-        <h1>Les camps d'internement en Suisse</h1>
+        <h1 class="my-4">Les camps d'internement en Suisse</h1>
 
         <!--p>http://gallica.bnf.fr/ark:/12148/bpt6k373147f/f312.image.r=</p-->
 

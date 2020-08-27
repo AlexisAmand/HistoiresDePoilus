@@ -52,7 +52,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -112,11 +112,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Heuberg</h1>
+        <h1 class="my-4">Le camp de prisonniers de Heuberg</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
         <figure>
             <a href="images/Heuberg/localisation-heuberg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Heuberg">
@@ -132,7 +132,7 @@
 
         <div id="Gaudineau"></div>
 
-        <p>Le 2 septembre 1916, le Bulletin de l'Office d'information des oeuvres de secours aux prisonniers de guerre indique qu'au camp de Heuberg fonctionne différentes commissions qui sont composées par un adjudant ou sous-officier par compagnie. Ces commissions ont été élues par ces adjudants et sont ignorées par le commandement allemand, sauf celle des  nécessiteux. On se réunit deux fois par mois pour discuter toutes les questions intéressant les prisonniers français. Il y a des commissions de nécessiteux, jeux, théâtre, bibliothèque, cimetière et contrôle. Le comité des nécessiteux est composé des chefs de section de chaque compagnie, et a pour président, l'adjudant GAUDINEAU. Outre les envois reçus de France, la caisse des nécessiteux est alimentée par un versement mensuel prélevé sur les recettes du théâtre.</p> 
+        <p class="text-justify">Le 2 septembre 1916, le Bulletin de l'Office d'information des oeuvres de secours aux prisonniers de guerre indique qu'au camp de Heuberg fonctionne différentes commissions qui sont composées par un adjudant ou sous-officier par compagnie. Ces commissions ont été élues par ces adjudants et sont ignorées par le commandement allemand, sauf celle des  nécessiteux. On se réunit deux fois par mois pour discuter toutes les questions intéressant les prisonniers français. Il y a des commissions de nécessiteux, jeux, théâtre, bibliothèque, cimetière et contrôle. Le comité des nécessiteux est composé des chefs de section de chaque compagnie, et a pour président, l'adjudant GAUDINEAU. Outre les envois reçus de France, la caisse des nécessiteux est alimentée par un versement mensuel prélevé sur les recettes du théâtre.</p> 
 
         <figure>
             <a href="images/Heuberg/theatre.jpg" data-fancybox="gallery" data-caption="Théâtre improvisé par les prisonniers">

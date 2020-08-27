@@ -53,7 +53,7 @@
 
 </header>
 	
-	<section>
+	<section class="row">
 		
 	<article style="min-width:920px;">
 		

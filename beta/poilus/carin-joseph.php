@@ -53,7 +53,7 @@
 
 </header>
 
-	<section>
+	<section class="row">
 
 	<aside>
 
@@ -105,11 +105,11 @@
 
 	</aside>
 
-		<article>
+		<article class="col-12">
 
-		<h1>Joseph CARIN</h1>
+		<h1 class="my-4">Joseph CARIN</h1>
 
-		<p>Joseph CARIN est né à Lourches, près de Valenciennes, le 14 juillet 1894, fils légitime de François Louis et Pauline DUSSART. Joseph est issu d’une famille nombreuse (11 enfants, l’aîné et le cadet ayant 23 ans de différence) mais en 1906, seuls 8 vivent encore avec leurs mère à Lourches (rue de Beauvois), leur père étant décédé en 1899. Pour faire simple, Joseph est le beau-frère de mon arrière-arrière-grand-mère.</p>
+		<p class="text-justify">Joseph CARIN est né à Lourches, près de Valenciennes, le 14 juillet 1894, fils légitime de François Louis et Pauline DUSSART. Joseph est issu d’une famille nombreuse (11 enfants, l’aîné et le cadet ayant 23 ans de différence) mais en 1906, seuls 8 vivent encore avec leurs mère à Lourches (rue de Beauvois), leur père étant décédé en 1899. Pour faire simple, Joseph est le beau-frère de mon arrière-arrière-grand-mère.</p>
 
 		<figure>
 			<a href="images/carin-joseph-1894.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Joseph CARIN">
@@ -123,7 +123,7 @@
 			<figcaption>La rue de Beauvois à Lourches<br />(Source: Archives Municipales de Valenciennes)</figcaption>
 		</figure>
 
-		<p>Au début de la Grande Guerre, il semble que Joseph ait d’abord été ajourné pour faiblesse par le conseil de révision de Guéret puis, cette décision aurait été annulée par celui de Saint-Omer. Je vous laisse constater par vous même la petite incohérence rencontrée au niveau des dates sur la fiche matricule.</p>
+		<p class="text-justify">Au début de la Grande Guerre, il semble que Joseph ait d’abord été ajourné pour faiblesse par le conseil de révision de Guéret puis, cette décision aurait été annulée par celui de Saint-Omer. Je vous laisse constater par vous même la petite incohérence rencontrée au niveau des dates sur la fiche matricule.</p>
 
 		<figure>
 			<a href="sources/carin-joseph-matricule.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Joseph CARIN">
@@ -131,7 +131,7 @@
 			<figcaption>Extrait de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
 		</figure>
 
-		<p>Joseph CARIN est incorporé au sein du 94e Régiment d’Infanterie le 2 décembre 1914 en tant que soldat de 2e classe. A l’époque, le 94e et sa division sont devant DIXMUDE, où ils relévent les fusilliers marins. C’est une zone que l’historique du 94e décrit comme <em>« humide et boueuse où l'eau est à fleur de terre, eu chacun des nombreux troux d'obus est rempli d'eau. »</em> Les pertes durant cette période sont surtout dues à des bombardements. Il est finalement ajourné pour faiblesse par le conseil de révision de Guéret (Creuse) en date du 18 novembre 1914. Décision annulée par celle du Conseil de révision de Saint-Omer (Pas-de-Calais) en date du 28 octobre 1914 qui le déclare bon au service. (Les dates sont celles de la fiche matricule… il semble y avoir un problème d'ordre chronologique). Il rejoint le 94e RI en décembre 1914, soldat de 2e classe.</p>
+		<p class="text-justify">Joseph CARIN est incorporé au sein du 94e Régiment d’Infanterie le 2 décembre 1914 en tant que soldat de 2e classe. A l’époque, le 94e et sa division sont devant DIXMUDE, où ils relévent les fusilliers marins. C’est une zone que l’historique du 94e décrit comme <em>« humide et boueuse où l'eau est à fleur de terre, eu chacun des nombreux troux d'obus est rempli d'eau. »</em> Les pertes durant cette période sont surtout dues à des bombardements. Il est finalement ajourné pour faiblesse par le conseil de révision de Guéret (Creuse) en date du 18 novembre 1914. Décision annulée par celle du Conseil de révision de Saint-Omer (Pas-de-Calais) en date du 28 octobre 1914 qui le déclare bon au service. (Les dates sont celles de la fiche matricule… il semble y avoir un problème d'ordre chronologique). Il rejoint le 94e RI en décembre 1914, soldat de 2e classe.</p>
 		
 		<?php /* TODO : Dixmude fin 1914 pour illustrer */ ?>
 
@@ -167,7 +167,7 @@
 			<li>Journal Officiel n°209 page 9184 et page 9205. Médaille de bronze de la famille. Ils habitent alors à Flers-en-Escrebieux.</li>
 		</ul>
 
-		<p>Pour info, Joseph a plusieurs frères et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
+		<p class="text-justify">Pour info, Joseph a plusieurs frères et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="CARIN-Leon.php" title="Biographie du soldat Léon CARIN">Léon</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
 
 		<h2>Sources et bibliographie</h2>
 

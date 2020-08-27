@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -113,11 +113,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Nüremberg</h1>
+        <h1 class="my-4">Le camp de prisonniers de Nüremberg</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p class="text-justify"></p>
 
         <figure>    
             <a href="images/Nurnberg/localisation-nurnberg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Nüremberg">
@@ -125,7 +125,7 @@
             <figcaption>Localisation du camp de Nüremberg<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure> 
 
-        <p>Le premier numéro du Canard, le "<em>Journal des Prisonniers de Guerre</em>" du camp de Nürmberg (Nuremberg) paraît le 15 août 1916. Le journal est décrit comme un compagnon qui vivra avec les prisonniers les longues heures de l'exil, dans l'espoir de les faire s'envoler un peu plus rapidement. Des numéros ont été numérisés et sont <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5673638t">disponibles sur le site de la BNF</a>.</p>
+        <p class="text-justify">Le premier numéro du Canard, le "<em>Journal des Prisonniers de Guerre</em>" du camp de Nürmberg (Nuremberg) paraît le 15 août 1916. Le journal est décrit comme un compagnon qui vivra avec les prisonniers les longues heures de l'exil, dans l'espoir de les faire s'envoler un peu plus rapidement. Des numéros ont été numérisés et sont <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5673638t">disponibles sur le site de la BNF</a>.</p>
 
         <figure>
             <a href="images/Nurnberg/le_canard_journal_des_prisonniers.jpg" data-fancybox="gallery" data-caption="Le Canard du 15 août 1916">
@@ -133,7 +133,7 @@
             <figcaption>Le Canard<br />(Source: Gallica/BNF)</figcaption>
         </figure>
 
-        <p>En mars 1918, le seul prisonnier belge se trouvant dans le camp de Nüremberg est transféré dans le camp d'Erlangen.</p>
+        <p class="text-justify">En mars 1918, le seul prisonnier belge se trouvant dans le camp de Nüremberg est transféré dans le camp d'Erlangen.</p>
 
         <figure>
             <a href="images/Nurnberg/nurnberg-01.jpg" data-fancybox="gallery" data-caption="Prisonniers de guerre à l'appel à Nüremberg">

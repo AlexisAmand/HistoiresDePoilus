@@ -50,7 +50,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -110,11 +110,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Francfort-sur-le-Main</h1>
+        <h1 class="my-4">Le camp de prisonniers de Francfort-sur-le-Main</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br /><p>Le camp de Francfort-sur-le-Main (Frankfurt am Main en allemand) a été créé au début de l'année 1918. Un rapport de l'Office central belge pour les prisonniers de guerre indique qu'il était installé dans une école entourée d'un grillage, pour éviter tout contact avec l'extérieur. Les dortoirs contenaient chacun 6 à 8 lits garnis d'une paillasse rembourrée d'algues marines, d'un traversin et de deux couvertures. En mai 1918, le camp de Höchst-sur-le-Main (Höchst am Main en allemand) est réuni à celui de Francfort-sur-le-Main. L'évacuation de se camp s'est faite très rapidement le 18 novembre 1918, par Nancy.</p> 
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><br /><p class="text-justify">Le camp de Francfort-sur-le-Main (Frankfurt am Main en allemand) a été créé au début de l'année 1918. Un rapport de l'Office central belge pour les prisonniers de guerre indique qu'il était installé dans une école entourée d'un grillage, pour éviter tout contact avec l'extérieur. Les dortoirs contenaient chacun 6 à 8 lits garnis d'une paillasse rembourrée d'algues marines, d'un traversin et de deux couvertures. En mai 1918, le camp de Höchst-sur-le-Main (Höchst am Main en allemand) est réuni à celui de Francfort-sur-le-Main. L'évacuation de se camp s'est faite très rapidement le 18 novembre 1918, par Nancy.</p> 
 
         <figure>
             <a href="images/Frankfurt/frankfurt-01.jpg" data-fancybox="gallery" data-caption="des français dans le camp de Frankfurt">

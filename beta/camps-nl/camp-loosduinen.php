@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -75,9 +75,9 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp d'internement de Loosduinen</h1>
+        <h1 class="my-4">Le camp d'internement de Loosduinen</h1>
 
         <figure>
             <img src="img/travaux.png">

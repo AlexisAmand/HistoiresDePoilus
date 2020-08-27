@@ -52,7 +52,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -73,9 +73,9 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le monument aux morts de Grand-Fayt</h1>
+        <h1 class="my-4">Le monument aux morts de Grand-Fayt</h1>
 
         <figure>
             <a href="images/grand-fayt-02.jpg" data-fancybox="gallery" data-caption="Le monument aux Morts de Grand-Fayt (Nord)">

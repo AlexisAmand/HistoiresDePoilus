@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -113,11 +113,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-            <h1>Le camp de prisonniers de Wetzlar</h1>
+            <h1 class="my-4">Le camp de prisonniers de Wetzlar</h1>
 
-            <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p>
+            <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p class="text-justify"></p>
 
             <figure>    
                 <a href="images/Wetzlar/localisation-wetzlar.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Wetzlar">
@@ -125,7 +125,7 @@
                 <figcaption>Localisation du camp de Wetzlar<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
             </figure>  
 
-            <p>Fin 1915, des prisonniers du camp de Wetzlar sont évacués vers les camps de <a href="camp-giessen.php">Giessen</a>, <a href="camp-limburg.php">Limburg</a>, Holzminden, <a href="camp-meschede.php">Meschede</a>, Stendal et <a href="camp-darmstadt.php">Darmstadt</a>. Le commandant du camp de Wetzlar fait savoir que les colis destinés aux prisonniers évacués sur les camps ci-dessus, suivront le destinataire: Quant aux colis qui ne porteront l'adresse d'aucun bénéficiaire nommément désigné, ils seront attribués aux prisonniers français du camp de Giessen.</p>
+            <p class="text-justify">Fin 1915, des prisonniers du camp de Wetzlar sont évacués vers les camps de <a href="camp-giessen.php">Giessen</a>, <a href="camp-limburg.php">Limburg</a>, Holzminden, <a href="camp-meschede.php">Meschede</a>, Stendal et <a href="camp-darmstadt.php">Darmstadt</a>. Le commandant du camp de Wetzlar fait savoir que les colis destinés aux prisonniers évacués sur les camps ci-dessus, suivront le destinataire: Quant aux colis qui ne porteront l'adresse d'aucun bénéficiaire nommément désigné, ils seront attribués aux prisonniers français du camp de Giessen.</p>
 
             <figure>
                 <a href="images/Wetzlar/wetzlar-01.jpg" data-fancybox="gallery" data-caption="Arrivage de vivres au camp de Wetzlar">

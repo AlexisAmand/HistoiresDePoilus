@@ -52,7 +52,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -112,13 +112,13 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Meyenburg</h1>
+        <h1 class="my-4">Le camp de prisonniers de Meyenburg</h1>
 
         <div id="Lucien_Theaud"></div>
 
-        <p>Lucien THEAUD est membre du 70e R.I. Il est fait prisonnier à Lille, où il se trouve, car il est atteint de dysenterie. Après un séjour de 2 mois dans un hôpital de Lille, il est transféré au <a href="camp-limburg.php" title="le camp de prisonnier de Limburg">camp de Limburg</a>, puis au camp de représailles de Celle avant d'entre envoyé au camp de Meyenburg, dans le Brandebourg, en Allemagne où il travaille à l'asséchement des marais. Il décrit les installations de Meyenburg comme très rudimentaires: baraques trop petites, des soldats qui mangent sur leurs paillasses de la nourriture très mauvaise et des hommes qui s'évanouissent pendant la punition "au poteau".</p>
+        <p class="text-justify">Lucien THEAUD est membre du 70e R.I. Il est fait prisonnier à Lille, où il se trouve, car il est atteint de dysenterie. Après un séjour de 2 mois dans un hôpital de Lille, il est transféré au <a href="camp-limburg.php" title="le camp de prisonnier de Limburg">camp de Limburg</a>, puis au camp de représailles de Celle avant d'entre envoyé au camp de Meyenburg, dans le Brandebourg, en Allemagne où il travaille à l'asséchement des marais. Il décrit les installations de Meyenburg comme très rudimentaires: baraques trop petites, des soldats qui mangent sur leurs paillasses de la nourriture très mauvaise et des hommes qui s'évanouissent pendant la punition "au poteau".</p>
 
         <h2>Sources et bibliographie</h2>
 

@@ -84,7 +84,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -98,9 +98,9 @@
 
     </aside>
 
-    <article>
+    <article class="col-12">
 
-    <h1>Dossier d'ancien combattant d'Auguste Victor FIEVET</h1>
+    <h1 class="my-4">Dossier d'ancien combattant d'Auguste Victor FIEVET</h1>
 
     <?php /* TODO : SEO */ ?>
 

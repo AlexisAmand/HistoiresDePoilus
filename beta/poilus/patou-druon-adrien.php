@@ -53,7 +53,7 @@
 </header>
 
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -105,13 +105,13 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Druon Adrien PATOU</h1>
+        <h1 class="my-4">Druon Adrien PATOU</h1>
 
-        <p><strong>Druon Adrien PATOU</strong> est né le 31 mars 1885 à Sebourg (Nord), et est le cousin germain de <a href="CARLIER-Druon-Joseph.php" title="Biographie du poilu Druon Joseph CARLIER">Druon Joseph CARLIER</a> et <a href="CARLIER-Louis-Abraham.php" title="Biographie du poilu Louis Abraham CARLIER">Louis Abraham CARLIER</a>. Je n'ai pas encore pu trouver sa fiche matricule car beaucoup de fiches sont manquantes pour l'année 1905 au bureau de Valenciennes.</p>
+        <p class="text-justify"><strong>Druon Adrien PATOU</strong> est né le 31 mars 1885 à Sebourg (Nord), et est le cousin germain de <a href="CARLIER-Druon-Joseph.php" title="Biographie du poilu Druon Joseph CARLIER">Druon Joseph CARLIER</a> et <a href="CARLIER-Louis-Abraham.php" title="Biographie du poilu Louis Abraham CARLIER">Louis Abraham CARLIER</a>. Je n'ai pas encore pu trouver sa fiche matricule car beaucoup de fiches sont manquantes pour l'année 1905 au bureau de Valenciennes.</p>
 
-		<p>Le site Mémoire des hommes l'indique comme mort poour la France pendant la Grande Guerre.</p>
+		<p class="text-justify">Le site Mémoire des hommes l'indique comme mort poour la France pendant la Grande Guerre.</p>
 		
 		
         <p style="text-align:right">A suivre...</p>

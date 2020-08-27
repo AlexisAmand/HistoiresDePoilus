@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -106,21 +106,21 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Emile MASCART</h1>
+        <h1 class="my-4">Emile MASCART</h1>
 
-        <p><strong>Emile MASCART</strong> est né à Onnaing le 24 janvier 1887, fils légitime de Romain et Marie Thérèse LEBRUN. Mes ancêtres communs avec Émile sont Hierosme MASCART (1658-1720) et Marie MARTIN (1653-1722), un couple originaire de Quarouble.</p>
+        <p class="text-justify"><strong>Emile MASCART</strong> est né à Onnaing le 24 janvier 1887, fils légitime de Romain et Marie Thérèse LEBRUN. Mes ancêtres communs avec Émile sont Hierosme MASCART (1658-1720) et Marie MARTIN (1653-1722), un couple originaire de Quarouble.</p>
         
         <?php /* TODO : Acte de naissance d'Emile MASCART */ ?>
         
-        <p>Avant la guerre, Émile exerce la profession de traceur en constructions métalliques chez LEMAIRE et vit rue Saint Joseph à Onnaing.</p>
+        <p class="text-justify">Avant la guerre, Émile exerce la profession de traceur en constructions métalliques chez LEMAIRE et vit rue Saint Joseph à Onnaing.</p>
         
         <?php /* TODO : § avec qui vit-il ? */ ?>
         
         <?php /* TODO : doc pour illustrer : une capture du census de 1906 */ ?>
 
-        <p>Il est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de mobilisation générale du 1 août 1914</a> et arrive au 91 Régiment d'Infanterie le 3. L'année qui suit, le 14 septembre, il est détaché aux Fonderies de Firminy (Loire) où on produit les cannons de 155 mm. Il est affecté au 86e Régiment d'Infanterie par la circulaire ministérielle du 25 mai 1917 mais maintenu détaché. Il est envoyé en congé illimité le 10 avril 1919 et se retire rue d'Estreux à Onnaing où il décède le jeudi 20 février 1941.</p>
+        <p class="text-justify">Il est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de mobilisation générale du 1 août 1914</a> et arrive au 91 Régiment d'Infanterie le 3. L'année qui suit, le 14 septembre, il est détaché aux Fonderies de Firminy (Loire) où on produit les cannons de 155 mm. Il est affecté au 86e Régiment d'Infanterie par la circulaire ministérielle du 25 mai 1917 mais maintenu détaché. Il est envoyé en congé illimité le 10 avril 1919 et se retire rue d'Estreux à Onnaing où il décède le jeudi 20 février 1941.</p>
 
         <figure>
             <a href="http://cartespostalesanciennes.genealexis.fr/image/loire/930-acierie-de-firminy.jpg" data-fancybox="gallery" data-caption="Les Fonderies de Firminy (Loire)">

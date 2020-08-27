@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -113,11 +113,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Friedrichsfeld</h1>
+        <h1 class="my-4">Le camp de prisonniers de Friedrichsfeld</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p></p><p>Le <strong>camp de Friedrichsfeld</strong> était  en Rhénanie du Nord, à proximité des villes de Duisbourg et Cologne ainsi qu'à proximité de la frontière entre l'Allemagne et les Pays-Bas. Il disposait d'un Lazaret (hôpital militaire) et d'une chapelle. Dans <cite><a href="../webographie.php" title="selection de livres et de sites pour les recherches sur la Première Guerre Mondiale">Westfalen in Ersten Weltkrieg</a></cite>, l'historien allemand Rainer PÖPPINGHEGE évalue à 79161 le nombre de soldats prisonniers dans le camp de Friedrichsfeld à la fin de la Première Guerre Mondiale.</p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p class="text-justify"></p><p class="text-justify">Le <strong>camp de Friedrichsfeld</strong> était  en Rhénanie du Nord, à proximité des villes de Duisbourg et Cologne ainsi qu'à proximité de la frontière entre l'Allemagne et les Pays-Bas. Il disposait d'un Lazaret (hôpital militaire) et d'une chapelle. Dans <cite><a href="../webographie.php" title="selection de livres et de sites pour les recherches sur la Première Guerre Mondiale">Westfalen in Ersten Weltkrieg</a></cite>, l'historien allemand Rainer PÖPPINGHEGE évalue à 79161 le nombre de soldats prisonniers dans le camp de Friedrichsfeld à la fin de la Première Guerre Mondiale.</p>
 
         <figure>
             <img src="miniatures/Friedrichsfeld/carte-camp-friedrichsfeld.jpg" data-fancybox="gallery" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Friedrichsfeld">
@@ -126,7 +126,7 @@
 
         <div id="Major_Bach"></div>
 
-        <p>Dans un rapport adressé au Ministère de la Guerre, le médecin major de 1e classe CHON, du 14e Régiment de Hussard, fait prisonnier à Ethe (Belgique) le 22 août 1914, emprisonné aux camps de Friedrichsfeld et Senne, puis ramené en Suisse pour raison de santé, rapporte que <em>"le sous-chef du camp [de Friedrichsfeld], le Major BACH, avait donné l'ordre de fusiller les fuyard et promettait une indemnité de 70 marks à tout homme qui rapporterait le cadavre d'un français. Le fait nous a été rapporté par un ordonnance allemande qui se ventait d'avoir abattu un prisonnier français dans ces conditions".</em></p>
+        <p class="text-justify">Dans un rapport adressé au Ministère de la Guerre, le médecin major de 1e classe CHON, du 14e Régiment de Hussard, fait prisonnier à Ethe (Belgique) le 22 août 1914, emprisonné aux camps de Friedrichsfeld et Senne, puis ramené en Suisse pour raison de santé, rapporte que <em>"le sous-chef du camp [de Friedrichsfeld], le Major BACH, avait donné l'ordre de fusiller les fuyard et promettait une indemnité de 70 marks à tout homme qui rapporterait le cadavre d'un français. Le fait nous a été rapporté par un ordonnance allemande qui se ventait d'avoir abattu un prisonnier français dans ces conditions".</em></p>
 
         <figure>
             <a href="images/friedrichsfeld-patates.jpg" data-fancybox="gallery" data-caption="Camp de Friedrichsfeld: Epluchage de pommes de terre dans la cour de l'hôpital">
@@ -140,7 +140,7 @@
             <figcaption>Intérieur d'une grande baraque servant de lazaret<br />(source allemande)</figcaption>
         </figure>
 
-        <p>L'espace occupé par les prisonniers comprend une superficie de 25 hectares entourée d'une triple rangée de fils de fer barbelés. Des baraquements en planches, construits par les prisonniers eux-mêmes, comptent en mai 1915 pas moins de 20 000 hommes dont 16000 français, 3000 russes, 500 belges, 300 anglais.</p>
+        <p class="text-justify">L'espace occupé par les prisonniers comprend une superficie de 25 hectares entourée d'une triple rangée de fils de fer barbelés. Des baraquements en planches, construits par les prisonniers eux-mêmes, comptent en mai 1915 pas moins de 20 000 hommes dont 16000 français, 3000 russes, 500 belges, 300 anglais.</p>
 
         <figure>
             <a href="images/friedrichsfeld-prisonniers-français.jpg" data-fancybox="gallery" data-caption="Des prisonniers français au camp de Friedrichsfeld">
@@ -148,14 +148,14 @@
             <figcaption>Des prisonniers au camp de Friedrichsfeld<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
-        <p>Quand <a href="../poilus.php">Jules Henri BOURSIER</a>, <a href="../poilus/CARLIER-Druon-Joseph.php" title="biographie du soldat Druon Joseph CARLIER">Druon Joseph CARLIER</a>, <a href="../poilus/JOLY-Noel-Jules.php" title="Biographie du soldat Noël JOLY">Noël Jules JOLY</a> et leurs compagnons français arrivent dans le camp de Friedrichsfeld en cette fin d'année 1914, il est juste indiqué par une clôture de fils de fer, mais rien n'est construit; pendant de longues semaines, les hommes doivent coucher en plein air, sur la paille, avec une seule couverture. Sous la direction d'ouvriers civils, les prisonniers sont employés à la construction de baraquements qui sont habités dès le mois de décembre 1914. A cette époque, ils reçoivent une enveloppe de paillasse contenant de la fibre de bois et de la paille (qui ne sera jamais renouvelée) et une seconde couverture. Après son achèvement, le camp est une véritable petite ville, constituée par des baraques de planches, dont chacune est divisée en 2 chambrées par une cloison.</p><p>Dans l'exemplaire n°202 de l'ouvrage intitulé <cite><a href="http://gallicalabs.bnf.fr/ark:/12148/bpt6k65295400" title="Le sort des prisonniers français en allemagne pendant la Grande Guerre">Le sort des prisonniers français en Allemagne</a></cite>, l'auteur explique qu'à Friedrichsfeld, il y avait une baraque spéciale, close de treillages, où restaient enfermés nuit et jour les prisonniers qui se refusent au travail; au mois de décembre 1915, 25 réfractaires avaient été laissés toute une nuit, en tenue de travail, sur le bord du Rhin, au garde-à-vous, les pieds posés sur des cailloux. Quelques pages plus loin, l'auteur nous décrit l'impuissance des prisonniers français contre les épidémies, notamment dans les camps de <a href="camp-darmstadt.php" title="le camp de prisonniers de Darmstadt">Darmstadt</a>, <a href="camp-friedrichsfeld.php" title="le camp de prisonniers de Friedrichsfeld">Friedrichsfeld</a>, Koenigsbrück, Merseburg et Zoosen où la faim non apaisée, l'inanition et la misère psychologique qui en a résulté ont provoqué un développement inouï de la tuberculose et une mortalité effrayante.</p>
+        <p class="text-justify">Quand <a href="../poilus.php">Jules Henri BOURSIER</a>, <a href="../poilus/CARLIER-Druon-Joseph.php" title="biographie du soldat Druon Joseph CARLIER">Druon Joseph CARLIER</a>, <a href="../poilus/JOLY-Noel-Jules.php" title="Biographie du soldat Noël JOLY">Noël Jules JOLY</a> et leurs compagnons français arrivent dans le camp de Friedrichsfeld en cette fin d'année 1914, il est juste indiqué par une clôture de fils de fer, mais rien n'est construit; pendant de longues semaines, les hommes doivent coucher en plein air, sur la paille, avec une seule couverture. Sous la direction d'ouvriers civils, les prisonniers sont employés à la construction de baraquements qui sont habités dès le mois de décembre 1914. A cette époque, ils reçoivent une enveloppe de paillasse contenant de la fibre de bois et de la paille (qui ne sera jamais renouvelée) et une seconde couverture. Après son achèvement, le camp est une véritable petite ville, constituée par des baraques de planches, dont chacune est divisée en 2 chambrées par une cloison.</p><p class="text-justify">Dans l'exemplaire n°202 de l'ouvrage intitulé <cite><a href="http://gallicalabs.bnf.fr/ark:/12148/bpt6k65295400" title="Le sort des prisonniers français en allemagne pendant la Grande Guerre">Le sort des prisonniers français en Allemagne</a></cite>, l'auteur explique qu'à Friedrichsfeld, il y avait une baraque spéciale, close de treillages, où restaient enfermés nuit et jour les prisonniers qui se refusent au travail; au mois de décembre 1915, 25 réfractaires avaient été laissés toute une nuit, en tenue de travail, sur le bord du Rhin, au garde-à-vous, les pieds posés sur des cailloux. Quelques pages plus loin, l'auteur nous décrit l'impuissance des prisonniers français contre les épidémies, notamment dans les camps de <a href="camp-darmstadt.php" title="le camp de prisonniers de Darmstadt">Darmstadt</a>, <a href="camp-friedrichsfeld.php" title="le camp de prisonniers de Friedrichsfeld">Friedrichsfeld</a>, Koenigsbrück, Merseburg et Zoosen où la faim non apaisée, l'inanition et la misère psychologique qui en a résulté ont provoqué un développement inouï de la tuberculose et une mortalité effrayante.</p>
 
         <figure>
             <a href="images/friedrichsfeld01.jpg" data-fancybox="gallery" data-caption="Des prisonniers dans le camp de Friedrichsfeld">
             <img src="miniatures/friedrichsfeld01.jpg" alt="Des prisonniers dans le camp de Friedrichsfeld"></a>
         </figure>
 
-        <p>Dans le "Bulletin religieux de l'Archidiocèse de Rouen", L. J. raconte qu' <em>"à Friedrichsfeld (...) les prisonniers sont l'objet de la curiosité indiscrète des indigènes qui viennent les voir travailler et manger, comme les enfants de chez nous vont au Jardin des Plantes assister au repas des fauves. Et cela, avec l'isolement, l'ignorance où ils sont des leurs, est ce dont souffrent le plus Belges et Français."</em>. Le n°23 de "Nouvelles de France" parut le 8 juin 1916, complète avec des informations sur l'alimentation des prisonniers guerre qui étaient internés au <strong>camp de Friedrichsfeld</strong>.</p>
+        <p class="text-justify">Dans le "Bulletin religieux de l'Archidiocèse de Rouen", L. J. raconte qu' <em>"à Friedrichsfeld (...) les prisonniers sont l'objet de la curiosité indiscrète des indigènes qui viennent les voir travailler et manger, comme les enfants de chez nous vont au Jardin des Plantes assister au repas des fauves. Et cela, avec l'isolement, l'ignorance où ils sont des leurs, est ce dont souffrent le plus Belges et Français."</em>. Le n°23 de "Nouvelles de France" parut le 8 juin 1916, complète avec des informations sur l'alimentation des prisonniers guerre qui étaient internés au <strong>camp de Friedrichsfeld</strong>.</p>
 
         <figure>
             <a href="images/repas-friedrichsfeld.jpg" data-fancybox="gallery" data-caption="Extrait de Nouvelles de France (1916)">
@@ -190,7 +190,7 @@
 
         <h2>Le sergent Henri MARLIERE</h2>
 
-        <p>Ci-dessous, une photo de la baraque 19B où se trouvait le sergent Henri MARLIERE, le grand-père d'un lecteur du site. Il portait le matricule n° 8192 et était membre du 1er R.I.T. Il est fait prisonnier à Maubeuge en septembre 1914. Il a tenté 3 fois de s'évader et reçoit à ce titre la médaille des évadés, comme en atteste le document sous la photo.</p>
+        <p class="text-justify">Ci-dessous, une photo de la baraque 19B où se trouvait le sergent Henri MARLIERE, le grand-père d'un lecteur du site. Il portait le matricule n° 8192 et était membre du 1er R.I.T. Il est fait prisonnier à Maubeuge en septembre 1914. Il a tenté 3 fois de s'évader et reçoit à ce titre la médaille des évadés, comme en atteste le document sous la photo.</p>
 
         <figure>
             <a href="images/Friedrichsfeld/baraque-19B.jpg" data-fancybox="gallery" data-caption="La baraque 19B où se trouvait le sergent Henri Marlière">
@@ -206,7 +206,7 @@
 
 		<a id="Charles_Mangin"></a>
 
-		<p>La médaille des évadés a été créée par le vote de la loi du 20 aout 1926, faisant suite à une proposition du député Marcel PLAISANT et à une déclaration du Général Charles MANGIN précisant que les évadés "<em>ont fait plus que leur devoir en s'évadant des géôles ennemies pour retourner à la bataille</em>".</p> 
+		<p class="text-justify">La médaille des évadés a été créée par le vote de la loi du 20 aout 1926, faisant suite à une proposition du député Marcel PLAISANT et à une déclaration du Général Charles MANGIN précisant que les évadés "<em>ont fait plus que leur devoir en s'évadant des géôles ennemies pour retourner à la bataille</em>".</p> 
 		
 		<figure>
             <a href="images/Friedrichsfeld/General_Charles_Mangin.jpg" data-fancybox="gallery" data-caption="portrait du général Charles MANGIN">
@@ -214,7 +214,7 @@
             <figcaption>Le général Charles MANGIN<br />(source: Agence de presse Meurisse — BNF)</figcaption>
         </figure>
 		
-		<p>Elle était remise aux militaires prisonniers de guerre s'étant évadés, aux Alsaciens et au Lorrains ayant fuit les rangs allemands et aux civils ayant fuit la zone occupée pour se mettre à la disposition de l'autorité militaire française. Elle est consistuée d'un ruban vert, d'une largeur de 36 mm, coupé dans le sens de la longeur de trois raies orange, celle du milieu ayant une largeur de 7mm et celles des bords de 2 mm. La médaille elle-même est due au graveur A. DUBOIS, elle est en bronze et porte à l'avers l'effigie de la République Française et au revers, une couronne de feuilles de chênes avec au centre la mention "<em>médaille des évadés</em>".</p>
+		<p class="text-justify">Elle était remise aux militaires prisonniers de guerre s'étant évadés, aux Alsaciens et au Lorrains ayant fuit les rangs allemands et aux civils ayant fuit la zone occupée pour se mettre à la disposition de l'autorité militaire française. Elle est consistuée d'un ruban vert, d'une largeur de 36 mm, coupé dans le sens de la longeur de trois raies orange, celle du milieu ayant une largeur de 7mm et celles des bords de 2 mm. La médaille elle-même est due au graveur A. DUBOIS, elle est en bronze et porte à l'avers l'effigie de la République Française et au revers, une couronne de feuilles de chênes avec au centre la mention "<em>médaille des évadés</em>".</p>
 		
 		<figure>
             <a href="images/Friedrichsfeld/medaille-des-evades.jpg" data-fancybox="gallery" data-caption="La médaille des évadés">
@@ -226,7 +226,7 @@
 
         <h2>Le sergent Etienne DADU</h2>
 
-        <p>Les photos qui suivent m'ont été transmises par la famille DADU. Selon la personne avec laquelle j'ai pu être en contact, Etienne DADU aurait été sergent et arrêté au début de la guerre. Il vivait au baraquement 24B du camp de prisonniers de Friedrichsfeld.</p>
+        <p class="text-justify">Les photos qui suivent m'ont été transmises par la famille DADU. Selon la personne avec laquelle j'ai pu être en contact, Etienne DADU aurait été sergent et arrêté au début de la guerre. Il vivait au baraquement 24B du camp de prisonniers de Friedrichsfeld.</p>
 
         <figure>
             <a href="images/Friedrichsfeld/friedrichsfeld-table.jpg" data-fancybox="gallery" data-caption="A table au camp de Friedrichsfeld">

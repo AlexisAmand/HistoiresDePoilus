@@ -53,11 +53,11 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
-        <article>
+        <article class="col-12">
 
-        <h1>Les Batailles de l'Europe de l'Ouest</h1>
+        <h1 class="my-4">Les Batailles de l'Europe de l'Ouest</h1>
 
         <h3>L'année 1914</h3>
 

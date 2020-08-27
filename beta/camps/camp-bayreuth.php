@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -113,9 +113,9 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Bayreuth</h1>
+        <h1 class="my-4">Le camp de prisonniers de Bayreuth</h1>
 
         <figure>
             <a href="images/Bayreuth/localisation.jpg" data-fancybox="gallery" data-caption="carte de l'Allemagne pour localiser le camp de prisonnier de Bayreuth">

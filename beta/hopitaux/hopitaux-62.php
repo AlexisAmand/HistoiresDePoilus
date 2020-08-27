@@ -53,15 +53,15 @@
 
 </header>
 	
-	<section>
+	<section class="row">
 		
-	<article>
+	<article class="col-12">
 		
 		<h2>Les hôpitaux du Pas-de-Calais pendant la Grande Guerre</h2>
 		
 		<h3>Les hôpitaux de Calais</h3>
 		
-			<p>L'hôpital militaire temporaire n°51 de Calais était géré par le Service de Santé des Armées. Il était situé à la maison de commerce Leweng et Weinberg, 92 rue Gambetta. Il comportait 110 lits et a fonctionné dès le 26 décembre 1914.</p>
+			<p class="text-justify">L'hôpital militaire temporaire n°51 de Calais était géré par le Service de Santé des Armées. Il était situé à la maison de commerce Leweng et Weinberg, 92 rue Gambetta. Il comportait 110 lits et a fonctionné dès le 26 décembre 1914.</p>
 		 
 	</article>
 	

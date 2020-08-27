@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -106,11 +106,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Jean Charles DUBOIS</h1>
+        <h1 class="my-4">Jean Charles DUBOIS</h1>
 
-        <p><strong>Jean Charles DUBOIS</strong> est né le 8 février 1893 à Villers-Guislain (Nord), il est le frère d'<a href="DUBOIS-Emile-Edmond.php" title="Biographie d'Emile Edmond DUBOIS">Emile Edmond</a>. Inscrit sous le n°99 de la liste du canton de Marcoing, il est incorporé au 164e Régiment d'Infanterie le 27 novembre 1913 où il arrive le dit jour. Il est décédé d'une maladie contractée en service le 18 octobre 1914 à l'hôpital temporaire n°8 de Verdun (dans la Meuse). Son nom figure sur le Monument aux morts et dans le livre d'or de Villers-Guislain.</p>
+        <p class="text-justify"><strong>Jean Charles DUBOIS</strong> est né le 8 février 1893 à Villers-Guislain (Nord), il est le frère d'<a href="DUBOIS-Emile-Edmond.php" title="Biographie d'Emile Edmond DUBOIS">Emile Edmond</a>. Inscrit sous le n°99 de la liste du canton de Marcoing, il est incorporé au 164e Régiment d'Infanterie le 27 novembre 1913 où il arrive le dit jour. Il est décédé d'une maladie contractée en service le 18 octobre 1914 à l'hôpital temporaire n°8 de Verdun (dans la Meuse). Son nom figure sur le Monument aux morts et dans le livre d'or de Villers-Guislain.</p>
 
 		<?php /* TODO : Extrait du livre d'or des mpf de Villers-Guislain */ ?>  
 

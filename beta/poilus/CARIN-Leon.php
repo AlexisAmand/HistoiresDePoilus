@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -106,11 +106,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Léon CARIN</h1>
+        <h1 class="my-4">Léon CARIN</h1>
 
-        <p>Léon CARIN est né à Lourches (Nord) le 27 juillet 1896, fils légitime de François Louis CARIN et de Pauline DUSSART. En 1906, Léon vit Rue de Beauvois à Lourches, avec ses parents et ses frères et sœurs.</p>
+        <p class="text-justify">Léon CARIN est né à Lourches (Nord) le 27 juillet 1896, fils légitime de François Louis CARIN et de Pauline DUSSART. En 1906, Léon vit Rue de Beauvois à Lourches, avec ses parents et ses frères et sœurs.</p>
 
         <figure>
             <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="Arbre généalogique de la famille CARIN">
@@ -124,7 +124,7 @@
             <figcaption>Extrait de sa fiche matricule.<br />(source: Archives Départementales du Nord)</figcaption>
         </figure>
 
-        <p>Léon s'est engagé pour la durée la guerre à la mairie de Roanne, où il vivait en tant que réfugié, le 16 février 1915 au titre du <strong>127e Régiment d'Infanterie</strong>. A la mobilisation, l'infanterie de ligne était composée de 173 régiments qui contenaient chacun 73 officiers et 3200 hommes.</p> 
+        <p class="text-justify">Léon s'est engagé pour la durée la guerre à la mairie de Roanne, où il vivait en tant que réfugié, le 16 février 1915 au titre du <strong>127e Régiment d'Infanterie</strong>. A la mobilisation, l'infanterie de ligne était composée de 173 régiments qui contenaient chacun 73 officiers et 3200 hommes.</p> 
 
         <figure>
             <a href="images/roanne-place.jpg"  data-fancybox="gallery" data-caption="La place de Roanne et l'hôtel de ville">
@@ -132,11 +132,11 @@
             <figcaption>La Place de l'Hôtel de Ville de Roanne.<br />(cliquez pour agrandir)</figcaption>
         </figure>   
 
-        <p>Il arrive au corps en tant que soldat de 2e classe le 18 février 1915, sous le matricule 8611.  Le 4 octobre 1915, il passe au <strong>153e Régiment d'Infanterie</strong> (6e compagnie selon le JMO) avec lequel il participe à l'attaque française déclenchée sur l'ouvrage de la défaite (Près de Ripont, en Champagne). A cette occasion, lui et son régiment seront soumis pour la première fois à un bombardement d'obus toxiques. Les 153e e 146e Régiments d'Infanterie tiendront le secteur jusqu'au 22 décembre 1915, date à laquelle le 153e sera transféré en Lorraine, en voiture, sur un lieu qui sera le témoin muet de la Bataille de Verdun.</p>
+        <p class="text-justify">Il arrive au corps en tant que soldat de 2e classe le 18 février 1915, sous le matricule 8611.  Le 4 octobre 1915, il passe au <strong>153e Régiment d'Infanterie</strong> (6e compagnie selon le JMO) avec lequel il participe à l'attaque française déclenchée sur l'ouvrage de la défaite (Près de Ripont, en Champagne). A cette occasion, lui et son régiment seront soumis pour la première fois à un bombardement d'obus toxiques. Les 153e e 146e Régiments d'Infanterie tiendront le secteur jusqu'au 22 décembre 1915, date à laquelle le 153e sera transféré en Lorraine, en voiture, sur un lieu qui sera le témoin muet de la Bataille de Verdun.</p>
 
         <?php // TODO : image de l'ouvrage de la défaite prés de Ripont en champagne ?>
 
-        <p>En réserve de Division d'Infanterie, le 153e se porte successivement au sud du fort de Froideterre (le 26 février 1916) et en première ligne devant le Bois Albin, à côté de Douaumont&nbsp; (le 29 février). Quand il est relevé le 11 mars de la même année, le 153e dénombre 1200 morts et disparus mais est toutefois récompensé par une citation à l'ordre de l'armée accordée le 4 avril à la 39e division.</p>
+        <p class="text-justify">En réserve de Division d'Infanterie, le 153e se porte successivement au sud du fort de Froideterre (le 26 février 1916) et en première ligne devant le Bois Albin, à côté de Douaumont&nbsp; (le 29 février). Quand il est relevé le 11 mars de la même année, le 153e dénombre 1200 morts et disparus mais est toutefois récompensé par une citation à l'ordre de l'armée accordée le 4 avril à la 39e division.</p>
 
         <figure>
             <img src="miniatures/planFroideterre.jpg" alt="plan de l'ouvrage de Froideterre">
@@ -149,7 +149,7 @@
             <figcaption>Devant Froideterre<br />(Tableau de E. Barthelemy)</figcaption>
         </figure> 
 
-        <p>Léon CARIN est quant à lui porté disparu le 7 avril 1916 à Haucourt (Meuse, et non Marne comme indiqué sur la fiche matricule) alors que son régiment venait juste de s'installer pour relever le 69e Régiment d'Infanterie à Hautcourt et vers l'ouvrage de Palavas. Son nom est indiqué sur la liste des disparus du JMO du 153e R.I. (page 16).</p>
+        <p class="text-justify">Léon CARIN est quant à lui porté disparu le 7 avril 1916 à Haucourt (Meuse, et non Marne comme indiqué sur la fiche matricule) alors que son régiment venait juste de s'installer pour relever le 69e Régiment d'Infanterie à Hautcourt et vers l'ouvrage de Palavas. Son nom est indiqué sur la liste des disparus du JMO du 153e R.I. (page 16).</p>
 
         <figure>
             <a href="images/153eRI-JMO.jpg"  data-fancybox="gallery" data-caption="Extrait du Journal des marches et des opérations du 153e RI">
@@ -157,7 +157,7 @@
             <figcaption>Extrait du JMO du 153e R.I<br />(source: Ministère de la Défense)</figcaption>
         </figure> 
 
-        <p>Son décès est fixé au 7 avril 1916 par jugement déclaratif rendu le 2 juin 1921 par le tribunal de Valenciennes. Le décès est transcrit le 5 juillet 1921 à la mairie de Roeulx et son nom figure sur le Monument aux Morts de la commune.</p>
+        <p class="text-justify">Son décès est fixé au 7 avril 1916 par jugement déclaratif rendu le 2 juin 1921 par le tribunal de Valenciennes. Le décès est transcrit le 5 juillet 1921 à la mairie de Roeulx et son nom figure sur le Monument aux Morts de la commune.</p>
 
         <figure>
             <a href="sources/CARIN-leon-mpf.JPG"  data-fancybox="gallery" data-caption="Fiche de Mort pour la France">
@@ -165,7 +165,7 @@
             <figcaption>Léon, mort pour la France.</figcaption>
         </figure>
         
-        <p>Pour info, Léon a plusieurs frères et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="carin-joseph.php" title="Biographie du soldat Joseph CARIN">Joseph</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
+        <p class="text-justify">Pour info, Léon a plusieurs frères et soeurs dont <a href="carin-alfred.php" title="Biographie du soldat Alfred CARIN">Alfred</a>, <a href="CARIN-Edouard.php" title="Biographie du soldat Edouard CARIN">Edouard</a>, <a href="carin-jean-baptiste.php" title="Biographie du soldat Jean Baptiste CARIN">Jean-Baptiste</a>, <a href="carin-joseph.php" title="Biographie du soldat Joseph CARIN">Joseph</a> et <a href="CARIN-Theophile.php" title="Biographie du soldat Théophile CARIN">Théophile</a> qui ont également combattu pour la France pendant la Grande Guerre.</p>
 
         <h2>Sources et bibliographie</h2>
 

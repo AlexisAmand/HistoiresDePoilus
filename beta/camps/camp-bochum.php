@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -113,11 +113,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Bochum</h1>
+        <h1 class="my-4">Le camp de prisonniers de Bochum</h1>
         
-        <p>Bientôt...</p>
+        <p class="text-justify">Bientôt...</p>
 
         <figure>
             <a href="images/Bochum/carte-camp-bochum.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Bochum">

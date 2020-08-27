@@ -55,13 +55,13 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
-        <article style="margin-left:0px;">
+        <article class="col-12">
 
-        <h1>Ressources en ligne</h1>
+        <h1 class="my-4">Ressources en ligne</h1>
 
-        <p>Vous trouverez sur cette page la liste de toutes les ressources en ligne (sites, blogs ou forums par exemple) qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php" title="contacter le webmaster">me contacter</a> si vous avez une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p>Certains documents sont <strong>des pdf</strong>, selon la configuration de votre ordinateur, ils peuvent mettre un petit moment à s'afficher. Pour les lire, vous devez posséder un logiciel comme <em>Adobe Reader</em>, que vous pouvez <a href="https://get.adobe.com/fr/reader/" title="télécharger gratuitement Adobe Reader">télécharger gratuitement ici</a>.</p>
+        <p class="text-justify">Vous trouverez sur cette page la liste de toutes les ressources en ligne (sites, blogs ou forums par exemple) qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php" title="contacter le webmaster">me contacter</a> si vous avez une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p class="text-justify">Certains documents sont <strong>des pdf</strong>, selon la configuration de votre ordinateur, ils peuvent mettre un petit moment à s'afficher. Pour les lire, vous devez posséder un logiciel comme <em>Adobe Reader</em>, que vous pouvez <a href="https://get.adobe.com/fr/reader/" title="télécharger gratuitement Adobe Reader">télécharger gratuitement ici</a>.</p>
 
         <h2>Dossiers d'anciens combattants</h2>
 

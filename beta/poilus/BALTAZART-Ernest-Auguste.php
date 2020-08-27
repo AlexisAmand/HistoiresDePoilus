@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -74,15 +74,15 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Ernest Auguste BALTAZART</h1>
+        <h1 class="my-4">Ernest Auguste BALTAZART</h1>
 
-        <p><strong>Ernest Auguste BALTAZART</strong> est né le samedi 21 juillet 1872 à <a href="http://cartespostalesanciennes.genealexis.fr/album/63-betheniville" title="cartes postales anciennes de Bétheniville sur le site Genealexis">Bétheniville</a> (Marne), fils de Ernest Louis, menuisier, et de Anne Joseph LEDUC, domestique. Le 26 avril 1897, il épouse Marie Eugénie HUET (née en 1875) à Bétheniville et ils partent vivre Rue de la Cochette.</p>
+        <p class="text-justify"><strong>Ernest Auguste BALTAZART</strong> est né le samedi 21 juillet 1872 à <a href="http://cartespostalesanciennes.genealexis.fr/album/63-betheniville" title="cartes postales anciennes de Bétheniville sur le site Genealexis">Bétheniville</a> (Marne), fils de Ernest Louis, menuisier, et de Anne Joseph LEDUC, domestique. Le 26 avril 1897, il épouse Marie Eugénie HUET (née en 1875) à Bétheniville et ils partent vivre Rue de la Cochette.</p>
         
         <?php // TODO : image de la rue de la cochette  ou de son acte de naissance ?>
         
-        <p>Ernest est aussi le cousin germain de deux autres poilus de ce site nommés <a href="astiers-jules-alphonse.php" title="biographie de Jules Alphonse ASTIER(S)">Jules Alphonse ASTIER(S)</a> et <a href="MAILLART-Alexandre.php" title="biographie d'Alexandre MAILLART">Alexandre Ernest MAILLART</a>. Ils ont Julie Joséphine KRAUTH et Jean Baptise Martial BALTAZART comme grands-parents communs</p>
+        <p class="text-justify">Ernest est aussi le cousin germain de deux autres poilus de ce site nommés <a href="astiers-jules-alphonse.php" title="biographie de Jules Alphonse ASTIER(S)">Jules Alphonse ASTIER(S)</a> et <a href="MAILLART-Alexandre.php" title="biographie d'Alexandre MAILLART">Alexandre Ernest MAILLART</a>. Ils ont Julie Joséphine KRAUTH et Jean Baptise Martial BALTAZART comme grands-parents communs</p>
 
         <figure>
             <a href="images/arbre-baltazart-ernest.png" data-fancybox="gallery" data-caption="Les ascendants d'Ernest Auguste BALTAZART">
@@ -90,7 +90,7 @@
             <figcaption>Les ascendants d'Ernest Auguste BALTAZART<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
-        <p>Selon le recensement effectué en 1901, Ernest exerce la profession de rattacheur à l'usine Oudin et frères. Une nouvelle usine a été construite par les frères Oudin vers 1870, en plus de l'usine de filature qu'ils possédaient déjà sur la commune de Bétheniville depuis 1832. L'usine est complétement détruite pendant la Première Guerre Mondiale. L'usine de Martelet est reconstruite dans les années 20.</p>
+        <p class="text-justify">Selon le recensement effectué en 1901, Ernest exerce la profession de rattacheur à l'usine Oudin et frères. Une nouvelle usine a été construite par les frères Oudin vers 1870, en plus de l'usine de filature qu'ils possédaient déjà sur la commune de Bétheniville depuis 1832. L'usine est complétement détruite pendant la Première Guerre Mondiale. L'usine de Martelet est reconstruite dans les années 20.</p>
 
         <figure>
             <a href="images/usine-oudin.jpg" data-fancybox="gallery" data-caption="L'usine Oudin à Bétheniville">
@@ -140,7 +140,7 @@
 
         <h2>Engagé volontaire</h2>
 
-        <p><strong>Ernest Auguste</strong> est engagé volontaire pour quatre ans le 30 octobre 1891, à la mairie de <a href="http://cartespostalesanciennes.genealexis.fr/album/74-reims" title="cartes postales anciennes de Reims sur le site Genealexis">Reims</a>. Il part pour le <strong>1er Régiment de Zouave</strong> et arrive au corps de zouave en tant que deuxième classe le 3 novembre 1891 sous matricule n°7842. Il est envoyé en congé le 16 octobre 1895 en recevant un certificat de bonne conduite.</p>
+        <p class="text-justify"><strong>Ernest Auguste</strong> est engagé volontaire pour quatre ans le 30 octobre 1891, à la mairie de <a href="http://cartespostalesanciennes.genealexis.fr/album/74-reims" title="cartes postales anciennes de Reims sur le site Genealexis">Reims</a>. Il part pour le <strong>1er Régiment de Zouave</strong> et arrive au corps de zouave en tant que deuxième classe le 3 novembre 1891 sous matricule n°7842. Il est envoyé en congé le 16 octobre 1895 en recevant un certificat de bonne conduite.</p>
 
         <figure>
             <a href="images/mairie-reims.jpg" data-fancybox="gallery" data-caption="L'hôtel de ville de Reims">
@@ -156,7 +156,7 @@
 
         <h2>Ernest et la campagne contre l'Allemagne</h2>
 
-        <p>Comme la plupart des jeunes hommes de sa génération, <strong>Ernest Auguste BALTAZART</strong> est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de mobilisation générale</a> d'août 1914 et il rejoint quelques jours plus tard le <strong>46e Régiment d'Infanterie Territoriale</strong>. Il est libéré le 2 sept 1914 en attendant d'être rappelé le 10 avril 1915 et placé en sursis d'appel provisoire le dit jour aux Forges et Aciéries de Saint Etienne (Usine du Marais).</p>
+        <p class="text-justify">Comme la plupart des jeunes hommes de sa génération, <strong>Ernest Auguste BALTAZART</strong> est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de mobilisation générale</a> d'août 1914 et il rejoint quelques jours plus tard le <strong>46e Régiment d'Infanterie Territoriale</strong>. Il est libéré le 2 sept 1914 en attendant d'être rappelé le 10 avril 1915 et placé en sursis d'appel provisoire le dit jour aux Forges et Aciéries de Saint Etienne (Usine du Marais).</p>
 
         <figure>
             <a href="images/saint-etienne-marais.jpg" data-fancybox="gallery" data-caption="Les Aciéries de Saint-Etienne">
@@ -164,7 +164,7 @@
             <figcaption>Les aciéries de Saint-Etienne<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
-        <p>Le journal "Le Monde Illustré" du 15 juillet 1922 précise que cette société poursuit, après la Grande Guerre, sa réorganisation en vue des fabrications du temps de paix, telles que les tôles pour construction et pour chaudières, fonds emboutis et foyers ondulés, les aciers laminés divers et aciers spéciaux, les roues montées, pièces de forge, moulages d'acier. Il indique également qu'elle a toujours maintenu ces fabrications conjointement avec les fabrications de blindages, obus, éléments de canons, réservoirs d'air pour torpilles, qui constituaient dans l'avant-guerre une grande partie de son activité et qui lui ont permis, au cours des hostilités, de rendre d'immédiats et puissants services services à la Défense Nationale.</p>
+        <p class="text-justify">Le journal "Le Monde Illustré" du 15 juillet 1922 précise que cette société poursuit, après la Grande Guerre, sa réorganisation en vue des fabrications du temps de paix, telles que les tôles pour construction et pour chaudières, fonds emboutis et foyers ondulés, les aciers laminés divers et aciers spéciaux, les roues montées, pièces de forge, moulages d'acier. Il indique également qu'elle a toujours maintenu ces fabrications conjointement avec les fabrications de blindages, obus, éléments de canons, réservoirs d'air pour torpilles, qui constituaient dans l'avant-guerre une grande partie de son activité et qui lui ont permis, au cours des hostilités, de rendre d'immédiats et puissants services services à la Défense Nationale.</p>
 
         <figure>
             <a href="images/usine-marais.jpg" data-fancybox="gallery" data-caption="Les Aciéries du MArais à Saint-Etienne">

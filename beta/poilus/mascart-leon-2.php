@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -106,9 +106,9 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Léon MASCART</h1>
+        <h1 class="my-4">Léon MASCART</h1>
         
         <ul>        
             <li>Né le 22 avril 1889 à Onnaing.</li>

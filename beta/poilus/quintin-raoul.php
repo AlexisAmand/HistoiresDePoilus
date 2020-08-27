@@ -53,7 +53,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -68,11 +68,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Raoul QUINTIN</h1>
+        <h1 class="my-4">Raoul QUINTIN</h1>
 
-        <p>Né le 19 octobre 1890 rue de Mons à Condé-sur-l'Escaut (Nord) mais déclaré à Bernissart, Raoul QUINTIN est le fils légitime de Raoul Jules QUINTIN et de Marie Augustine PASTEZ, un couple domicilié à Bernissart.</p>
+        <p class="text-justify">Né le 19 octobre 1890 rue de Mons à Condé-sur-l'Escaut (Nord) mais déclaré à Bernissart, Raoul QUINTIN est le fils légitime de Raoul Jules QUINTIN et de Marie Augustine PASTEZ, un couple domicilié à Bernissart.</p>
 
         <figure>
             <a href="sources/Raoul-Quintin-1890.jpg" data-fancybox="gallery" data-caption="acte de naissance de Raoul QUINTIN">
@@ -80,7 +80,7 @@
             <figcaption>Acte de naissance de Raoul QUINTIN<br />(Source : Familysearch)</figcaption>
         </figure>
 
-        <p>Raoul Charles Jules QUINTIN fait partie de l'Armée Belge. Il porte le numéro de matricule 101/57096 et est mort pour sa patrie le 26 août 1914. La parenté avec moi reste pour l’instant à confirmer.</p>
+        <p class="text-justify">Raoul Charles Jules QUINTIN fait partie de l'Armée Belge. Il porte le numéro de matricule 101/57096 et est mort pour sa patrie le 26 août 1914. La parenté avec moi reste pour l’instant à confirmer.</p>
         
         <h2>Sources et bibliographie</h2>
 

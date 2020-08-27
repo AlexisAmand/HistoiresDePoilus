@@ -55,7 +55,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -75,11 +75,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Alexandre Ernest MAILLART</h1>
+        <h1 class="my-4">Alexandre Ernest MAILLART</h1>
 
-        <p><strong>Alexandre Ernest MAILLART </strong>est né le 24 juillet 1874 à Bétheniville, fils d'Achille Onésiphore et Julie Adèle BALTAZART, elle-même fille de Jean-Baptiste et Julie Joséphine KRAUTH (mes sosas n°116 et n°117).&nbsp; Alexandre est le cousin de deux autres poilus de ce site nommés <a href="astiers-jules-alphonse.php" title="biographie de Jules Alphonse ASTIER(S)">Jules Alphonse ASTIER(S)</a> et <a href="BALTAZART-Ernest-Auguste.php" title="biographie d'Ernest Auguste BALTAZART">Ernest Auguste BALTAZART</a>. Ils ont Julie Joséphine KRAUTH et Jean Baptise Martial BALTAZART comme grands-parents communs</p>
+        <p class="text-justify"><strong>Alexandre Ernest MAILLART </strong>est né le 24 juillet 1874 à Bétheniville, fils d'Achille Onésiphore et Julie Adèle BALTAZART, elle-même fille de Jean-Baptiste et Julie Joséphine KRAUTH (mes sosas n°116 et n°117).&nbsp; Alexandre est le cousin de deux autres poilus de ce site nommés <a href="astiers-jules-alphonse.php" title="biographie de Jules Alphonse ASTIER(S)">Jules Alphonse ASTIER(S)</a> et <a href="BALTAZART-Ernest-Auguste.php" title="biographie d'Ernest Auguste BALTAZART">Ernest Auguste BALTAZART</a>. Ils ont Julie Joséphine KRAUTH et Jean Baptise Martial BALTAZART comme grands-parents communs</p>
 
         <figure>
             <a href="images/arbre-maillart.png" data-fancybox="gallery" data-caption="Arbre simplifié de la famille MAILLART-BALTAZART">
@@ -93,7 +93,7 @@
             <figcaption>Extrait de sa fiche matricule<br />(Source: Archives départementales de la Marne)</figcaption>
         </figure>
 
-        <p>Le 18 septembre 1899, Alexandre épouse à Boult-sur-Suippe (Marne) Marie Berthe GAUCHET, âgée de 25 ans, fille légitime d'Hyppolyte et Marie-Zélie SOMMELIER. Lors de son mariage, Alexandre travaille pour la Compagnie des Chemins de Fer de l'Est. Leur fils Marcel naît à Bar-le-Duc (Meuse) le 9 mai 1901, rue des romains.</p>
+        <p class="text-justify">Le 18 septembre 1899, Alexandre épouse à Boult-sur-Suippe (Marne) Marie Berthe GAUCHET, âgée de 25 ans, fille légitime d'Hyppolyte et Marie-Zélie SOMMELIER. Lors de son mariage, Alexandre travaille pour la Compagnie des Chemins de Fer de l'Est. Leur fils Marcel naît à Bar-le-Duc (Meuse) le 9 mai 1901, rue des romains.</p>
 
         <table class="census">
             <caption>Liste des domiciles d'Alexandre</caption>
@@ -142,9 +142,9 @@
             </tbody>   
         </table>
 
-        <p>A <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, <strong>Alexandre</strong> est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des <strong>Sections de Chemins de Fer de Campagne</strong> du 2 août 1914 au 5 janvier 1919. Je sais que, pour de nombreux lecteurs, cette affectation ne fait pas de lui un poilu au sens strict du terme, car il n'était pas dans l'enfer de Verdun ou dans la boue des tranchées. Mais laissez-moi vous raconter la suite.</p><p>Il est inscrit au tableau spécial de la médaille militaire d'employé principal de 2e classe à la <strong>6e Section de Chemin de Fer de Campagne</strong> : <em>"Détaché dans une gare depuis le 12 février 1915, il a assuré avec beaucoup de zèle, de sang-froid et sans défaillances le service de cette gare et jusqu'à ce que l'intensité du bombardement sur la ligne et sur la station l'ait obligé à s'en éloigner le 22 février 1916 au soir. Au cours de plus de 20 bombardements dirigés sur la localité et sur la voie ferrée, il a pris a chaque fois que les circonstances l'ont commandé les dispositions convenables pour empêcher les trains de franchir la zone bombardée et assurer leur passage à l'issue du bombardement. (arrêté ministériel du 20-4-16 et J.O du 23-4-16)."</em></p>
+        <p class="text-justify">A <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, <strong>Alexandre</strong> est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des <strong>Sections de Chemins de Fer de Campagne</strong> du 2 août 1914 au 5 janvier 1919. Je sais que, pour de nombreux lecteurs, cette affectation ne fait pas de lui un poilu au sens strict du terme, car il n'était pas dans l'enfer de Verdun ou dans la boue des tranchées. Mais laissez-moi vous raconter la suite.</p><p class="text-justify">Il est inscrit au tableau spécial de la médaille militaire d'employé principal de 2e classe à la <strong>6e Section de Chemin de Fer de Campagne</strong> : <em>"Détaché dans une gare depuis le 12 février 1915, il a assuré avec beaucoup de zèle, de sang-froid et sans défaillances le service de cette gare et jusqu'à ce que l'intensité du bombardement sur la ligne et sur la station l'ait obligé à s'en éloigner le 22 février 1916 au soir. Au cours de plus de 20 bombardements dirigés sur la localité et sur la voie ferrée, il a pris a chaque fois que les circonstances l'ont commandé les dispositions convenables pour empêcher les trains de franchir la zone bombardée et assurer leur passage à l'issue du bombardement. (arrêté ministériel du 20-4-16 et J.O du 23-4-16)."</em></p>
 
-        <p>La gare n'est pas indiquée sur le JO.</p>
+        <p class="text-justify">La gare n'est pas indiquée sur le JO.</p>
 
         <figure>
             <a href="images/bethenville-place-munet-02.jpg" data-fancybox="gallery" data-caption="La Place du Munet avant la Grande Guerre">

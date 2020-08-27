@@ -52,7 +52,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -111,9 +111,9 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Merzdorf </h1>
+        <h1 class="my-4">Le camp de prisonniers de Merzdorf </h1>
 
         <figure>
             <a href="images/Merzdorf/plan-merzdorf.jpg" data-fancybox="gallery" data-caption="Plan du camp de Merzdorf pendant la Grande Guerre">

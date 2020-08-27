@@ -52,7 +52,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -112,11 +112,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Wahn</h1>
+        <h1 class="my-4">Le camp de prisonniers de Wahn</h1>
 
-        <p>Le camp de Wahn était situé en Rhénanie, dans la ville du même nom, à quelques kilomètres au sud-est de Cologne. Dans son tome 73, la Revue de l'Anjou précise que si un prisonnier n'était pas encore caserné, le camp de Wahn servait de zone de transit pour les colis postaux destinés aux prisonniers de guerre retenus dans les territoires occupés de la France et de la Belgique.</p>
+        <p class="text-justify">Le camp de Wahn était situé en Rhénanie, dans la ville du même nom, à quelques kilomètres au sud-est de Cologne. Dans son tome 73, la Revue de l'Anjou précise que si un prisonnier n'était pas encore caserné, le camp de Wahn servait de zone de transit pour les colis postaux destinés aux prisonniers de guerre retenus dans les territoires occupés de la France et de la Belgique.</p>
 
         <figure>
             <a href="images/Wahn/localisation.jpg" data-fancybox="gallery" data-caption="carte de l'Allemagne pour localiser le camp de prisonnier de Wahn">
@@ -124,7 +124,7 @@
             <figcaption>Localisation du camp de Wahn<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
-        <p>Dans son ouvrage qu'il consacre au traitement des prisonniers français en Allemagne pendant la Première Guerre Mondiale, le Docteur de Christmas nous livre le témoignage de Gaston ROUSSEL, un soldat âgé de 30 ans, membre du 1er Régiment de Zouaves. Fait prisonnier à Charleroi (Belgique) le 22 août 1914, où il été bléssé au bras et à la jambe. Evacué sur le camp de Wahn, il décrit comment, malgré sa blessure au bras, non guérie, on a voulu le faire travailler à la cuisine, où il a été brutalisé par un feldwebel<sup>1</sup>, qui lui arraché son pansement et lui a tordu le bras blessé jusqu'à ce qu'il se soit mis à genoux. A la suite de cet acte de brutalité, Gaston ROUSSEL a dû être placé un mois à l'infirmerie du camp.</p>
+        <p class="text-justify">Dans son ouvrage qu'il consacre au traitement des prisonniers français en Allemagne pendant la Première Guerre Mondiale, le Docteur de Christmas nous livre le témoignage de Gaston ROUSSEL, un soldat âgé de 30 ans, membre du 1er Régiment de Zouaves. Fait prisonnier à Charleroi (Belgique) le 22 août 1914, où il été bléssé au bras et à la jambe. Evacué sur le camp de Wahn, il décrit comment, malgré sa blessure au bras, non guérie, on a voulu le faire travailler à la cuisine, où il a été brutalisé par un feldwebel<sup>1</sup>, qui lui arraché son pansement et lui a tordu le bras blessé jusqu'à ce qu'il se soit mis à genoux. A la suite de cet acte de brutalité, Gaston ROUSSEL a dû être placé un mois à l'infirmerie du camp.</p>
 
         <figure>
             <a href="images/Wahn/camp-wahn-01.jpg" data-fancybox="gallery" data-caption="Prisonniers alliés en Allemagne">
@@ -144,9 +144,9 @@
             <figcaption>Le repas du midi<br />(source: Clio Team)</figcaption>
         </figure>
 
-        <p></p>
+        <p class="text-justify"></p>
 
-        <p class="note"><sup>1</sup> Le grade de feldwebel se popularise dans l'armée allemande au début du XIXe siècle. Plus haut grade de sous-officier jusqu'en 1918, au sein de la Deutsches Heer (nom de l'armée de terre allemande de 1871 à 1919). Le Feldwebel est alors en charge d'une compagnie. Selon le Larousse, il correspond au grade d'adjudant.</p><p></p>
+        <p class="note"><sup>1</sup> Le grade de feldwebel se popularise dans l'armée allemande au début du XIXe siècle. Plus haut grade de sous-officier jusqu'en 1918, au sein de la Deutsches Heer (nom de l'armée de terre allemande de 1871 à 1919). Le Feldwebel est alors en charge d'une compagnie. Selon le Larousse, il correspond au grade d'adjudant.</p><p class="text-justify"></p>
 
         <h2>Sources et bibliographie</h2>
 

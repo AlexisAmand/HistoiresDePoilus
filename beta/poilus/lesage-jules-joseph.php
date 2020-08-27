@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -106,11 +106,11 @@
 
     </aside>
 
-    <article>
+    <article class="col-12">
 
-    <h1>Jules Joseph LESAGE</h1>
+    <h1 class="my-4">Jules Joseph LESAGE</h1>
 
-    <p><strong>Jules Joseph LESAGE</strong> est né à Roeulx le 20 août 1887, fils légitimie de Joseph et de Hubertine BOITELET. Il est le beau-frère des <a href="CARIN-Edouard.php">frères CARIN</a>, dont j'ai déjà parlé sur ce site.</p>
+    <p class="text-justify"><strong>Jules Joseph LESAGE</strong> est né à Roeulx le 20 août 1887, fils légitimie de Joseph et de Hubertine BOITELET. Il est le beau-frère des <a href="CARIN-Edouard.php">frères CARIN</a>, dont j'ai déjà parlé sur ce site.</p>
 
 	<?php /* TODO : acte de naissance */ ?>
 	

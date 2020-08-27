@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -114,13 +114,13 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Le camp de prisonniers de Minden</h1>
+        <h1 class="my-4">Le camp de prisonniers de Minden</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
-        <p>Les 2 camps de Minden étaient situés à Minderheide, un quartier de la ville. Le « lager I » était réservé aux prisonniers de guerre et le « lager II » aux autres prisonniers. Les deux camps furent réunis avant la visite des délégués Espagnols du 24 mars 1916. Le camp était constitué de baraques en bois contiguës par les angles et entourant une grande cour. Il est considéré comme le camp de plus dur.</p> 
+        <p class="text-justify">Les 2 camps de Minden étaient situés à Minderheide, un quartier de la ville. Le « lager I » était réservé aux prisonniers de guerre et le « lager II » aux autres prisonniers. Les deux camps furent réunis avant la visite des délégués Espagnols du 24 mars 1916. Le camp était constitué de baraques en bois contiguës par les angles et entourant une grande cour. Il est considéré comme le camp de plus dur.</p> 
 
         <figure>
             <a href="images/Minden/localisation-minden.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Minden">
@@ -128,7 +128,7 @@
             <figcaption>Localisation du camp de Minden<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
-        <p>Selon les délégués du Gouvernement Espagnol, Les dortoirs sont convenablement installés ; les lits, disposés sur deux rangées, sont composés de châssis en bois ; les paillasses sont bourrées de copeaux, chaque homme dispose de deux couvertures. Le chauffage se fait au moyen de grands poêles à charbon, l'éclairage est électrique. Dans chaque dortoir, il y a un large espace libre pour permettre aux prisonniers de se promener quand il pleut.</p>
+        <p class="text-justify">Selon les délégués du Gouvernement Espagnol, Les dortoirs sont convenablement installés ; les lits, disposés sur deux rangées, sont composés de châssis en bois ; les paillasses sont bourrées de copeaux, chaque homme dispose de deux couvertures. Le chauffage se fait au moyen de grands poêles à charbon, l'éclairage est électrique. Dans chaque dortoir, il y a un large espace libre pour permettre aux prisonniers de se promener quand il pleut.</p>
 
         <table class="tab_camp">
         <caption>Effectif du camp au 24 mars 1916</caption>
@@ -166,7 +166,7 @@
             </tr>
         </table>
 
-        <p>Dans <cite>Westfalen in Ersten Weltkrieg</cite>, l'historien allemand Rainer PÖPPINGHEGE évalue à 25240 le nombre total de soldats prisonniers dans le camp de Minden à la fin de la Première Guerre Mondiale.</p><p>Le <a href="http://www.mindenermuseum.de">Musée de Minden</a> à mis en ligne une video qui permet de faire une "visite 3D" dans le camp de prisonniers. (durée: 4 min 35)</p>
+        <p class="text-justify">Dans <cite>Westfalen in Ersten Weltkrieg</cite>, l'historien allemand Rainer PÖPPINGHEGE évalue à 25240 le nombre total de soldats prisonniers dans le camp de Minden à la fin de la Première Guerre Mondiale.</p><p class="text-justify">Le <a href="http://www.mindenermuseum.de">Musée de Minden</a> à mis en ligne une video qui permet de faire une "visite 3D" dans le camp de prisonniers. (durée: 4 min 35)</p>
 
         <div class="video">
             <video controls>

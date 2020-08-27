@@ -53,23 +53,23 @@
         <a href="index.php">Accueil</a>
     </nav>
 
-    <section>
+    <section class="row">
 
-        <article>
+        <article class="col-12">
 
-            <h1>Mentions Légales</h1>
+            <h1 class="my-4">Mentions Légales</h1>
 
             <h2>Editeur du site</h2>
 
-            <p><a href="http://www.genealexis.fr" title="Généalogie de la famille AMAND et de ses alliances">Alexis AMAND</a><br />Saint-Saulve (Nord)<br /></p>
+            <p class="text-justify"><a href="http://www.genealexis.fr" title="Généalogie de la famille AMAND et de ses alliances">Alexis AMAND</a><br />Saint-Saulve (Nord)<br /></p>
 
 			<h2>Création du site</h2>
 
-            <p><a href="http://www.boitasite.com" title="Création de sites web à Valenciennes">Boitasite</a><br />Valenciennes (Nord)<br />SIRET : 517 501 235 000 17<br /></p>
+            <p class="text-justify"><a href="http://www.boitasite.com" title="Création de sites web à Valenciennes">Boitasite</a><br />Valenciennes (Nord)<br />SIRET : 517 501 235 000 17<br /></p>
 				
             <h2>Hébergeur du site</h2>
 
-            <p><a href="http://www.amen.fr/">AMEN SASU</a><br />12-14, Rond Point des Champs Elysées 75008 Paris.<br />RCS : 421 527 797 000 11<br /></p>
+            <p class="text-justify"><a href="http://www.amen.fr/">AMEN SASU</a><br />12-14, Rond Point des Champs Elysées 75008 Paris.<br />RCS : 421 527 797 000 11<br /></p>
 
             <h2>Informations complémentaires</h2>
 

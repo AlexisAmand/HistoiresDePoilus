@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -106,11 +106,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Edouard BOURSIER</h1>
+        <h1 class="my-4">Edouard BOURSIER</h1>
         
-        <p>Edouard BOUSIER est né le 10 avril 1882 à Onnaing. Il est le fils légitime d'Edouard François BOURSIER, cultivateur, et de Julia JUDES. Il a pour frére ainé <a href="BOURSIER-Jules.php" title="Biographie du poilu Jules BOUSIER">Jules Henri</a>. Son nom de famille était à l’origine le surnom de celui fabrique ou vend des bourses. Il est à rapprocher d’autres patronymes comme BOURCET ou BOURSEAULT.</p>
+        <p class="text-justify">Edouard BOUSIER est né le 10 avril 1882 à Onnaing. Il est le fils légitime d'Edouard François BOURSIER, cultivateur, et de Julia JUDES. Il a pour frére ainé <a href="BOURSIER-Jules.php" title="Biographie du poilu Jules BOUSIER">Jules Henri</a>. Son nom de famille était à l’origine le surnom de celui fabrique ou vend des bourses. Il est à rapprocher d’autres patronymes comme BOURCET ou BOURSEAULT.</p>
         
         <figure>
             <a href="sources/boursier-edouard-naissance-1882.jpg" data-fancybox="gallery" data-caption="acte de naissance d'Edouard BOURSIER">
@@ -118,7 +118,7 @@
             <figcaption>Acte de naissance d'Edouard BOURSIER<br />(source: Archives Départementales du Nord)</figcaption>
         </figure>
         
-         <p>En 1906, il est ajusteur et vit Rue De La Chevauchoire à Onnaing, avec son frère Jules et ses parents. Chose étrange, sur le recensement de 1906, son prénom est devenu Edmond (ligne n°4 du document ci-dessous). Etant âgé de 32 ans en 1914, je pense qu'il a du être mobilisé.</p>
+         <p class="text-justify">En 1906, il est ajusteur et vit Rue De La Chevauchoire à Onnaing, avec son frère Jules et ses parents. Chose étrange, sur le recensement de 1906, son prénom est devenu Edmond (ligne n°4 du document ci-dessous). Etant âgé de 32 ans en 1914, je pense qu'il a du être mobilisé.</p>
          
          <figure>
             <a href="sources/famille-boursier-census-1906.jpg" data-fancybox="gallery" data-caption="Extrait du recensement d'Onnaing en 1906">
@@ -126,7 +126,7 @@
             <figcaption>Extrait du recensement d'Onnaing en 1906<br />(source: Archives Départementales du Nord)</figcaption>
         </figure>
         
-        <p>Selon les mentions en marge de son acte de naissance, Edouard s'est marié deux fois : Le 28 septembre 1908 à Onnaing (Nord) avec Céline Victorine DAMBECHIES et le 27 juin 1960 à Vingles (Pas-de-Calais) avec Laure Romaine ALGLAVE.</p>
+        <p class="text-justify">Selon les mentions en marge de son acte de naissance, Edouard s'est marié deux fois : Le 28 septembre 1908 à Onnaing (Nord) avec Céline Victorine DAMBECHIES et le 27 juin 1960 à Vingles (Pas-de-Calais) avec Laure Romaine ALGLAVE.</p>
         
     
         <p style="text-align:right">A suivre...</p>

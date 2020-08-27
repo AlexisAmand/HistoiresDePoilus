@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -106,11 +106,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Louis GRAIN</h1>
+        <h1 class="my-4">Louis GRAIN</h1>
 
-        <p><strong>Louis GRAIN</strong>, le père de mon arrière-grand-mère, est né le 21 juin 1876 à Villers-Guislain (Nord). Il est le fils légitime de Louis GRAIN, domestique âgé de 19 ans et Joséphine VELU, âgé de 17 ans. Le 18 mai 1895 à Villers-Guislain, il épouse en premières noces Martine VELU (1875-1935). Son frère <a href="GRAIN-Leon-Albert.php">Léon Albert</a> a aussi été mobilisé. En 1906, <strong>Louis</strong> est tisseur et vit à Villers-Guislain (Rue Neuve) en compagnie de son épouse Martine, ses filles Marguerite et Marthe et son fils Marcel.</p>
+        <p class="text-justify"><strong>Louis GRAIN</strong>, le père de mon arrière-grand-mère, est né le 21 juin 1876 à Villers-Guislain (Nord). Il est le fils légitime de Louis GRAIN, domestique âgé de 19 ans et Joséphine VELU, âgé de 17 ans. Le 18 mai 1895 à Villers-Guislain, il épouse en premières noces Martine VELU (1875-1935). Son frère <a href="GRAIN-Leon-Albert.php">Léon Albert</a> a aussi été mobilisé. En 1906, <strong>Louis</strong> est tisseur et vit à Villers-Guislain (Rue Neuve) en compagnie de son épouse Martine, ses filles Marguerite et Marthe et son fils Marcel.</p>
 
         <figure>
             <a href="images/arbre-grain.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille GRAIN">
@@ -146,11 +146,11 @@
 
         <h2>La mobilisation d'août 1914</h2>
 
-        <p>Lors de <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, <strong>Louis</strong> est âgé de 38 ans et est le père de 6 enfants: Marguerite, Marthe, Marcel, Maurice, Fortunée et Hélène (mon arrière-grand-mère). Il rejoint le <strong>3e Régiment d'Infanterie Territoriale</strong> qui cantonnait à Hautmont. Au début de la guerre, Les régiments d'infanterie territoriale (R.I.T) sont essentiellement constitués de citoyens anciens nés entre 1875 et 1880. Ils sont surtout assignés à des missions plus statiques, moins exposées: gares, nœuds ferroviaires, ponts, entrepôts, places fortes, etc. </p>
+        <p class="text-justify">Lors de <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, <strong>Louis</strong> est âgé de 38 ans et est le père de 6 enfants: Marguerite, Marthe, Marcel, Maurice, Fortunée et Hélène (mon arrière-grand-mère). Il rejoint le <strong>3e Régiment d'Infanterie Territoriale</strong> qui cantonnait à Hautmont. Au début de la guerre, Les régiments d'infanterie territoriale (R.I.T) sont essentiellement constitués de citoyens anciens nés entre 1875 et 1880. Ils sont surtout assignés à des missions plus statiques, moins exposées: gares, nœuds ferroviaires, ponts, entrepôts, places fortes, etc. </p>
 
         <?php /* TODO: illustrer le "cantonnait à Haumont" ? */ ?>
 
-        <p>Durant le mois d'août, <strong>Louis</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> étaient affectés au 1er secteur qui comprenait le centre de résistance avancé, les centres de résistance du fort Grévaux et du fort d'Hautmont.</p>
+        <p class="text-justify">Durant le mois d'août, <strong>Louis</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> étaient affectés au 1er secteur qui comprenait le centre de résistance avancé, les centres de résistance du fort Grévaux et du fort d'Hautmont.</p>
 
         <figure>
             <a href="images/forts-maubeuge.jpg" data-fancybox="gallery" data-caption="L'emplacement des forts de la place forte de Maubeuge en 1914">
@@ -160,11 +160,11 @@
 
         <h2>L'attaque des allemands</h2>
 
-        <p>Le 2 septembre, les bombardements reprennent sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance.</p>
+        <p class="text-justify">Le 2 septembre, les bombardements reprennent sur les ouvrages du secteur attaqué : Bersillies, la Salmagne, le Fagnet et Boussois. Les ouvrages de Rocq et de Cerfontaine continuent à être bombardés à une cadence régulière. Aux batteries de Rocq, artilleurs des 1e et 3e régiments à pied et fantassins du 1er  territorial opposent une belle résistance.</p>
 
         <h2>Les drapeaux de la garnison sont brûlés</h2>
 
-        <p>Deux jours plus tard - le 4 septembre - le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e , 2e , 3e (celui de <strong>Louis</strong>) et 4e  territorial et enfin celui du 1er régiment d'artillerie à pied.</p><p> Les drapeaux de la garnison sont brûlés le lendemain à 7 heures du matin dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande une cérémonie qui émotionne fortement les assistants.</p>
+        <p class="text-justify">Deux jours plus tard - le 4 septembre - le Gouverneur fait rassembler les drapeaux de la garnison. Ils sont au nombre de neuf, ce sont ceux des 145e  et 345e  d'infanterie, des 31e  et 32e  colonial, des 1e , 2e , 3e (celui de <strong>Louis</strong>) et 4e  territorial et enfin celui du 1er régiment d'artillerie à pied.</p><p class="text-justify"> Les drapeaux de la garnison sont brûlés le lendemain à 7 heures du matin dans le jardin du Pavillon, près de la Caserne Joyeuse, en présence d'un piquet de marsouins qui rend les honneurs. Le capitaine Prévost commande une cérémonie qui émotionne fortement les assistants.</p>
 
         <figure>
             <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" data-caption="La Caserne Joyeuse (Maubeuge) avant 1914">
@@ -174,7 +174,7 @@
 
         <h2>C'est fini pour Maubeuge...</h2>
 
-        <p>Le 7 septembre, à 11 heures 30, le Drapeau blanc est aperçu sur un clocher de Maubeuge. La Place de Maubeuge a capitulé. <strong>Louis GRAIN</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> furent entièrement faits prisonniers et furent parmi les 45 000 combattants de la poche de Maubeuge à être internés dans les camps allemands dont celui de <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">Chemnitz</a>, entre Dresde et Zwickau,  où ira Louis. </p>
+        <p class="text-justify">Le 7 septembre, à 11 heures 30, le Drapeau blanc est aperçu sur un clocher de Maubeuge. La Place de Maubeuge a capitulé. <strong>Louis GRAIN</strong> et ses compagnons du <strong>3e Régiment d'Infanterie Territoriale</strong> furent entièrement faits prisonniers et furent parmi les 45 000 combattants de la poche de Maubeuge à être internés dans les camps allemands dont celui de <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">Chemnitz</a>, entre Dresde et Zwickau,  où ira Louis. </p>
 
         <figure>
             <a href="images/camp-de-chemnitz.jpg" data-fancybox="gallery" data-caption="le camp de Chemnitz pendant la Première Guerre Mondiale">
@@ -188,7 +188,7 @@
             <figcaption>Louis au camp de Chemnitz<br />(source: Xavier B.)</figcaption>
         </figure>
 
-        <p>Selon son dossier d'ancien combattant, <strong>Louis</strong> est libéré du <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de Chemnitz</a> le 8 janvier 1919.</p>
+        <p class="text-justify">Selon son dossier d'ancien combattant, <strong>Louis</strong> est libéré du <a href="../camps/camp-chemnitz.php" title="le camp de prisonniers de Chemnitz">camp de Chemnitz</a> le 8 janvier 1919.</p>
 
         <figure>
             <a href="sources/carte-louis-grain.jpg"  data-fancybox="gallery" data-caption="Carte du combattant de Louis GRAIN datée de 1935">
@@ -198,7 +198,7 @@
 
         <h2>...mais à Villers-Guislain, la guerre arrive.</h2>
 
-        <p>Dans son ouvrage "La France Occupée", Philippe Nivet raconte que le village de Villers-Guislain, où sont nés <a href="GRAIN-Louis.php" title="Biographie du soldat Louis GRAIN">Louis</a> et <a href="GRAIN-Leon-Albert.php" title="Biographie du soldat Léon Albert GRAIN">Léon Albert GRAIN</a>, est occupé depuis 1914. En 1916, les Allemands ont demandé à la mairie une dizaine de jeune fille pour placer les cartouches dans les bandes de chargement; comme aucune volontaire ne s'est présentée, les Allemands en ont emprisonné 4 pendant 2 heures et ont fait savoir qu'ils mettraient toutes les filles en prison si la commune ne présentaient pas des volontaires. Six jeunes filles se sont finalement résignées à la faire le travail exigé. </p>
+        <p class="text-justify">Dans son ouvrage "La France Occupée", Philippe Nivet raconte que le village de Villers-Guislain, où sont nés <a href="GRAIN-Louis.php" title="Biographie du soldat Louis GRAIN">Louis</a> et <a href="GRAIN-Leon-Albert.php" title="Biographie du soldat Léon Albert GRAIN">Léon Albert GRAIN</a>, est occupé depuis 1914. En 1916, les Allemands ont demandé à la mairie une dizaine de jeune fille pour placer les cartouches dans les bandes de chargement; comme aucune volontaire ne s'est présentée, les Allemands en ont emprisonné 4 pendant 2 heures et ont fait savoir qu'ils mettraient toutes les filles en prison si la commune ne présentaient pas des volontaires. Six jeunes filles se sont finalement résignées à la faire le travail exigé. </p>
 
         <p class="note"><sup>1</sup> En cas de guerre, la classe première à marcher pouvait être appelée par anticipation. C'est pourquoi l'armée active comprenait également en août la classe 1913 (hommes nés en 1893) qui n'aurait dû être appelée qu'à l'automne.</p>
 

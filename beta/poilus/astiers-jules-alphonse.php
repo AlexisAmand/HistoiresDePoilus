@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -76,11 +76,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Jules Alphonse ASTIER(S)</h1>
+        <h1 class="my-4">Jules Alphonse ASTIER(S)</h1>
 
-        <p>Jules Alphonse ASTIER(S) est né le 14 février 1872 à Bétheniville, dans la Marne. Tisseur, il est le fils légitime d'André ASTIER et de Louise Adèle BALTAZART. Jules est le cousin germain de deux autres poilus de ce site nommés <a href="BALTAZART-Ernest-Auguste.php" title="biographie d'Ernest Auguste BALTAZART">Ernest Auguste BALTAZART</a> et <a href="MAILLART-Alexandre.php" title="biographie d'Alexandre Ernest MAILLART">Alexandre Ernest MAILLART</a>. Ils ont Julie Joséphine KRAUTH et Jean Baptise Martial BALTAZART comme grands-parents communs</p> 
+        <p class="text-justify">Jules Alphonse ASTIER(S) est né le 14 février 1872 à Bétheniville, dans la Marne. Tisseur, il est le fils légitime d'André ASTIER et de Louise Adèle BALTAZART. Jules est le cousin germain de deux autres poilus de ce site nommés <a href="BALTAZART-Ernest-Auguste.php" title="biographie d'Ernest Auguste BALTAZART">Ernest Auguste BALTAZART</a> et <a href="MAILLART-Alexandre.php" title="biographie d'Alexandre Ernest MAILLART">Alexandre Ernest MAILLART</a>. Ils ont Julie Joséphine KRAUTH et Jean Baptise Martial BALTAZART comme grands-parents communs</p> 
 
         <figure>
             <a href="images/arbre-astiers-jules.png" data-fancybox="gallery" data-caption="Les ascendants de Jules ASTIER(S)">
@@ -88,7 +88,7 @@
             <figcaption>Arbre généalogique partiel de Jules ASTIER(S)<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
-        <p>Il part pour le service militaire le 16 novembre 1893 Après avoir été déclaré "bon" lors de son conseil de révision. Il rejoint le 91e Régiment d'Infanterie, et arrive au corps en tant que soldat de 2e classe. Il devient soldat de 1re classe le 8 octobre 1894 et est envoyé en congés un mois plus tard avec le certificat de bonne conduite.</p>
+        <p class="text-justify">Il part pour le service militaire le 16 novembre 1893 Après avoir été déclaré "bon" lors de son conseil de révision. Il rejoint le 91e Régiment d'Infanterie, et arrive au corps en tant que soldat de 2e classe. Il devient soldat de 1re classe le 8 octobre 1894 et est envoyé en congés un mois plus tard avec le certificat de bonne conduite.</p>
 
         <figure>
             <a href="images/bethenville-place-munet.jpg" data-fancybox="gallery" data-caption="La Place du Munet à Bétheniville">
@@ -96,7 +96,7 @@
             <figcaption>La Place du Munet à Bétheniville<br />où est né Jules, Après la guerre.</figcaption>
         </figure>
 
-        <p>20 ans plus tard, lors de <a href="mobilisation-1914.phpdd" title="Voir le décret de mobilisation générale de 1914">la mobilisation générale</a> du 1er août 1914, il est rappelé mais est renvoyé provisoirement le 2 septembre 1914. Quelques mois plus tard, le 3 avril 1915, il est de nouveau rappelé et rejoint le 10e Escadron de Train dès le 20 où il reste 9 jours avant de rejoindre le 13e Régiment d'Artillerie. Il passe les deux dernières années de la guerre détaché dans des usines d'armement de Colombe et Mondeville (Normandie) avant d'être finalement libéré du service le 1 octobre 1919.</p>
+        <p class="text-justify">20 ans plus tard, lors de <a href="mobilisation-1914.phpdd" title="Voir le décret de mobilisation générale de 1914">la mobilisation générale</a> du 1er août 1914, il est rappelé mais est renvoyé provisoirement le 2 septembre 1914. Quelques mois plus tard, le 3 avril 1915, il est de nouveau rappelé et rejoint le 10e Escadron de Train dès le 20 où il reste 9 jours avant de rejoindre le 13e Régiment d'Artillerie. Il passe les deux dernières années de la guerre détaché dans des usines d'armement de Colombe et Mondeville (Normandie) avant d'être finalement libéré du service le 1 octobre 1919.</p>
 
         <table class="census">
         <caption>Liste des domiciles de Jules Alphonse ASTIER(S)</caption>

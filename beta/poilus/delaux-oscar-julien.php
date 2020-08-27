@@ -54,7 +54,7 @@
 
 </header>
 
-    <section>
+    <section class="row">
 
     <aside>
 
@@ -106,11 +106,11 @@
 
     </aside>
 
-        <article>
+        <article class="col-12">
 
-        <h1>Oscar Julien DELAUX</h1>
+        <h1 class="my-4">Oscar Julien DELAUX</h1>
 
-        <p><strong>Oscar Julien DELAUX</strong> est né à Roubaix le 13 novembre 1894 au domicile de ses parents situé Rue de Maubeuge. Il est le fils légitime d'Adolphe DELAUX et Joséphine RICHOMME (mes aïeux), le frére de mon arrière-arrière-grand-mère Nathalie DELAUX, et le beau frère de <a href="FIEVET-Charles-Augustin.php" title="Biographie du soldat Charles Augustin FIEVET">Charles Augustin FIEVET</a> et <a href="FIEVET-Auguste-Victor.php" title="Biographie du soldat Auguste Victor FIEVET">Auguste Victor FIEVET</a>.</p>
+        <p class="text-justify"><strong>Oscar Julien DELAUX</strong> est né à Roubaix le 13 novembre 1894 au domicile de ses parents situé Rue de Maubeuge. Il est le fils légitime d'Adolphe DELAUX et Joséphine RICHOMME (mes aïeux), le frére de mon arrière-arrière-grand-mère Nathalie DELAUX, et le beau frère de <a href="FIEVET-Charles-Augustin.php" title="Biographie du soldat Charles Augustin FIEVET">Charles Augustin FIEVET</a> et <a href="FIEVET-Auguste-Victor.php" title="Biographie du soldat Auguste Victor FIEVET">Auguste Victor FIEVET</a>.</p>
         
         <figure>
             <a href="sources/delaux-oscar-1894.jpg" data-fancybox="gallery" data-caption="Acte de naissance d'Oscar DELAUX (1894)">
@@ -118,7 +118,7 @@
             <figcaption>Acte de naissance d'Oscar DELAUX<br />(Source: Archives Départementales du Nord)</figcaption>
         </figure>
         
-        <p>Oscar Julien DELAUX est incorporé le 28 août 1914, il passe successivement par le 165e Régiment d'Infanterie (le 29 août 1914) puis par le 33e Bataillon de Marche (le 2 février 1915). Le 21 mars 1915, il rejoint le 53e Régiment d'Infanterie. Il est cité à l'ordre général n°38 du 30 octobre 1915 pendant son "séjour" au sein de ce régiment.</p>
+        <p class="text-justify">Oscar Julien DELAUX est incorporé le 28 août 1914, il passe successivement par le 165e Régiment d'Infanterie (le 29 août 1914) puis par le 33e Bataillon de Marche (le 2 février 1915). Le 21 mars 1915, il rejoint le 53e Régiment d'Infanterie. Il est cité à l'ordre général n°38 du 30 octobre 1915 pendant son "séjour" au sein de ce régiment.</p>
 
         <figure>
             <a href="images/carte-oscar-delaux.png" data-fancybox="gallery" data-caption="Carte d'ancien combattant d'Oscar DELAUX">
@@ -126,7 +126,7 @@
             <figcaption>Carte du combattant d'Oscar DELAUX<br />(Source: Archives Départementales du Nord)</figcaption>
         </figure>
 
-        <p>Les mentions en marge de son acte de naissance nous apprennent que Le 7 décembre 1928, à Bruay-sur-Escaut (Nord), Oscar épouse Angéle Emilie GIROD (1896-1982) et qu'il est décédé à Lille (Nord) le 13 décembre 1959.<p>
+        <p class="text-justify">Les mentions en marge de son acte de naissance nous apprennent que Le 7 décembre 1928, à Bruay-sur-Escaut (Nord), Oscar épouse Angéle Emilie GIROD (1896-1982) et qu'il est décédé à Lille (Nord) le 13 décembre 1959.<p class="text-justify">
 
         <table class="census">
         <caption>Liste des domiciles d'Oscar</caption>
