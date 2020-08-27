@@ -137,8 +137,8 @@
         <ul>
             <li><a href="pdf/souffrances_prisonniers_guerre_1914_1918.pdf" title="Les souffrances des prisonniers de guerre en 1914-1918 par Jean-Jules Dufour">
             Les souffrances des prisonniers de guerre en 1914-1918</a><br />(Par Jean-Jules Dufour)</li>
-            <a href="http://gallicalabs.bnf.fr/ark:/12148/bpt6k65295400" title="Monographie sur le sort des prisonniers de guerre écrite en 1916">
-            Le Sort des prisonniers français en Allemagne (1916)</a>
+            <li><a href="http://gallicalabs.bnf.fr/ark:/12148/bpt6k65295400" title="Monographie sur le sort des prisonniers de guerre écrite en 1916">
+            Le Sort des prisonniers français en Allemagne (1916)</a></li>
             <li><a href="pdf/fiche-objet-uniformes-14-18.pdf" title="L'uniforme française au début de la Première Guerre Mondiale">
             L'uniforme du fantassin français en 1914 et 1915</a><br />(Musée de l'Armée - Hôtel des Invalides)</li>
             <li><a href="https://amzn.to/2vNzdh1" title="L'uniforme et les armes des soldats de la guerre de 1914-1918 écrit Liliane et Fred Funcken">

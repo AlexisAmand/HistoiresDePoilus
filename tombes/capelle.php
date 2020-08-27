@@ -120,6 +120,8 @@
 
         <h2>Victimes civiles</h2>
 
+        <?php /* TODO : écrire les bios des civils */ ?>
+
         <ul>
             <li>Aimé CHASTIN</li>
             <li>Louis DECAUDIN</li>

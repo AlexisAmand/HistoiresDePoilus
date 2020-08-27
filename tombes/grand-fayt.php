@@ -93,6 +93,8 @@
             <figcaption>Le monument aux morts de Grand-Fayt<br />(Source: Photo privée)</figcaption>
         </figure>
 
+        <?php /* TODO : mettre liste des soldats + faire lien sur index des noms */ ?>
+
         </article>
 
     </section>

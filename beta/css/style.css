@@ -1,0 +1,70 @@
+﻿body {
+    background-attachment:fixed;
+    background-repeat:repeat;
+    background-position:center top;
+    background-image:url(../images/fond.jpg);
+    font-size: 0.8rem;
+    font-family:'Open Sans',sans-serif;
+}    
+
+/* */
+
+#reseaux a:link {
+    color: #e2ede4;
+    font-size: 2.6em;
+}
+
+/* boutons de la barre de navigation */
+
+.nav-item a:link {
+    background-color: #5b5b5b;
+    width: 123px;
+    padding: 8px;
+    text-align: center;
+    margin-left: 3px;
+    color: #e2ede4;
+}
+
+.nav-item a:hover {
+    color:#5b5b5b;
+    background-color:#e2ede4;
+}
+
+/* ----------------------------------------------- */
+/* text de l'index sur 2 cols si c'est assez large */
+/* ----------------------------------------------- */
+
+@media (min-width: 701px) {
+    .edito2col {
+        -webkit-column-count: 2;
+        -moz-column-count: 2;
+        column-count: 2;
+        -webkit-column-gap: 3em;
+        -moz-column-gap: 3em;
+        column-gap: 3em;
+        }
+    }
+
+@media (max-width: 700px) {
+    .edito2col {
+        -webkit-column-count: 1;
+        -moz-column-count: 1;
+        column-count: 1;
+        -webkit-column-gap: 3em;
+        -moz-column-gap: 3em;
+        column-gap: 3em;
+        }
+    }
+
+/* --------------------------------- */
+
+.h1, h1 {
+    font-size: 1.8rem;
+}
+
+/* --------------------------------- */
+
+footer {
+    background-color: #364046;
+    color:white;
+}

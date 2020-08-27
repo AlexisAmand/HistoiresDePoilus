@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+        <title>Biographie et parcours du soldat MICHEL Firmin - Histoires de Poilus</title>
+
+        <meta content="Parcours de Firmin MICHEL, soldat pendant la Première Guerre Mondiale. Il était membre du 164e Régiment d'Infanterie et mort pour la France aux Jumelles d'Ornes en 1914" name="description">
+
+        <link rel="stylesheet" href="../css/style.css" media="all">
+         
+        <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">  
+
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
+        <link rel="icon" type="image/png" href="../images/favicon.png"/>
+
+    </head>
+
+    <body>
+    <!-- code js pour l'avertissement sur les cookies -->
+
+    <script src="../js/cookiechoices.js"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
+    'Ok', 'En savoir plus', '../cookies.php');
+    });
+    </script>
+
+     
+
+<header class="row" style="background-color: #364046;height: 175px;">
+    
+    <hgroup class="col-md-6 text-center align-self-center order-2 order-md-1">
+        <a href="../index.php" title="Retour sur la page d'accueil du site">
+        <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+    </hgroup>
+    
+    <div class="col-md-6 text-right align-self-top order-1 order-md-2" id="reseaux">
+        <a href="https://www.facebook.com/sharer.php?u=<?php echo $url; ?>" title="Partager cette page sur Facebook">
+        <i class="fab fa-facebook"></i></a>
+        <a href="https://www.instagram.com/alexisamand/" title="Voir le compte Instagram du webmaster">
+        <i class="fab fa-instagram"></i></a>
+        <a href="https://twitter.com/intent/tweet?url=<?php echo $url; ?>" title="Partager cette page sur Twitter">
+        <i class="fab fa-twitter-square"></i></a>
+        <a href="https://www.linkedin.com/shareArticle?mini=true&url=<?php echo $url; ?>" title="Partager cette page sur LinkedIn"> 	
+        <i class="fab fa-linkedin"></i></a>
+    </div>
+
+</header>
+
+    <section>
+
+    <aside>
+
+    <ul>
+        <li class="asideheader">Marne</li>
+        <li><a href="arnould-gaston.php">ARNOULD Gaston</a></li>
+        <li><a href="arnould-henri-rene.php">ARNOULD Henri René (+)</a></li>
+        <li><a href="astiers-jules-alphonse.php">ASTIER(S) Jules Alphonse</a></li>       
+        <li><a href="BALTAZART-Ernest-Auguste.php">BALTAZART Ernest Auguste</a></li>
+        <li><a href="caron-eugene-alexandre.php">CARON Eugène Alexandre</a></li>
+        <li><a href="MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
+        <li><a href="MICHEL-Firmin.php" class="AsideSelected">MICHEL Firmin (+)</a></li>
+        <li><a href="paquet-leopold.php">PAQUET Léopold</a></li>
+    </ul>
+
+    <?php include ('../include/pub.inc'); ?>
+
+    </aside>
+
+        <article>
+
+        <h1>Firmin MICHEL</h1>
+
+        <p><strong>Firmin MICHEL</strong>, le beau frère de mon arrière grand-mère (la fille de <a href="GRAIN-Louis.php" title="lien vers la page consacrée à Louis Grain">Louis GRAIN</a>), est né le 12 mars 1894 à Saint-Hilaire-Le-Petit (Marne). Il est le fils de Sosthène MICHEL et de Marie Françoise Zélie COLIN. A sa naissance, il a 3 frères: Henri Hilaire né en 1890, Julien né en 1897 et Denis né en 1900.</p>
+
+        <figure>
+            <a href="images/arbre-michel.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille MICHEL">
+            <img src="miniatures/arbre-michel.png" alt="Arbre généalogique simplifié de la famille MICHEL" class="ArbreGenealogique"/></a>
+            <figcaption>Arbre simplifié de la famille MICHEL<br />(cliquez pour agrandir)</figcaption>
+        </figure>
+
+        <h2>La mobilisation d'août 1914</h2>
+
+        <p>Firmin a tout juste 20 ans lors de <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a> du 1er août 1914. Sa fiche matricule et le recensement de 1911 disponibles aux Archives Départementales de la Marne nous apprennent qu'il habite au n°20 de la Grande Rue de Bétheniville où il excerce la profession de cultivateur. Selon la fiche consultée sur le site "Mémoire de Hommes", il devient membre du <strong>164e Régiment d'Infanterie</strong>. Le site "<a href="http://www.memoiresdesmontsdechampagne.fr" title="Lien vers le site Mémoires des Monts de Champagne">Mémoires des Monts de Champagne</a>" estime à 300 le nombre de mobilisés à <a href="http://cartespostalesanciennes.genealexis.fr/album/63-betheniville" title="cartes postales anciennes de Bétheniville sur le site Genealexis">Bétheniville</a>. Parmi eux, 51 ne reviendront pas.</p>
+
+        <?php // trouve un truc pour illustrer : la grande Rue de Bétheniville, la mobilisation dans le village ou dans la Marne ?>
+
+        <h2>De l'été 14 à Verdun</h2>
+
+        <p>Du 2 août 1914 au 26 février 1916, le régiment de <strong>Firmin</strong> ne cesse de combattre dans la région fortifiée de Verdun et de concourir à la défense de la place. Dans une première période allant du 2 août au 20 octobre 1914, il prête son appui aux troupes de campagne et participe à des attaques locales. Dans une deuxième période allant du 20 octobre 1914 au 26 février 1916, il combat dans les conditions ordinaires de la guerre de tranchées et soutient, du 21 au 26 février 1916, la plus formidable attaque qui ait été vue jusqu'alors. </p>
+
+        <div id="Max-Von-Hausen"></div>
+
+        <h2>Pendant ce temps, les Allemands s'installent dans son village</h2>
+
+        <p>Pendant ce temps, l'état-major de la IIIe armée du Baron Von Hausen quitte le château de Thugny pour s'installer à Bétheniville, village d'origine de <strong>Firmin</strong>, dans une "élégante et gracieuse villa" appartenant aux frères Renaut qui étaient absents. Une partie de l'état major occupait une seconde villa située de l'autre côté de la route. Le Q.G.A est porté de Bétheniville à <a href="http://cartespostalesanciennes.genealexis.fr/album/85-chalons-sur-marne" title="cartes postales anciennes de Châlons-sur-Marne sur le site Genealexis">Châlons</a> dès le lendemain.</p>
+
+        <figure>
+            <a href="portraits/Max_von_Hausen.jpg" data-fancybox="gallery" data-caption="portrait du Baron Max Von Hausen">
+            <img src="miniatures/Max_von_Hausen.jpg" alt="portrait du Baron Max Von Hausen"/></a>
+            <figcaption>Max Von Hausen<br />(Source: Wikipedia Commons)</figcaption>
+        </figure>
+
+        <div id="Roussel"></div>
+
+        <h2>Firmin, mort pour la France</h2>
+
+        <p>Sous l'énergique impulsion du commandant Roussel, du 166e, qui prend le 2 décembre, le commandement du régiment, le  <strong>164e Régiment d'Infanterie</strong> attaque à son tour et, le 14 décembre 1914, le 3e bataillon s'élance sur les Jumelles d'Ornes où <strong>Firmin MICHEL</strong> est porté disparu. Son corps y fut retrouvé et identifié qu'en Mars/Avril 1922.</p>
+
+        <figure>
+            <a href="sources/MICHEL-Firmin-mpf.jpg" data-fancybox="gallery" data-caption="Firmin MICHEL, mort pour la France">
+            <img src="miniatures/MICHEL-Firmin-mpf.jpg" alt="Fiche de mort pour la France de Firmin MICHEL"/></a>
+            <figcaption>Firmin, mort pour la France<br />(Source: Mémoire des Hommes)</figcaption>
+        </figure>
+
+       <p>Sa fiche, retrouvée sur le site "Mémoire des Hommes", nous apprend qu'il dépendait du bureau de Reims (Marne) pour son recrutement et que son acte de décès a été retranscrit sur l'état civil de Betheniville (Marne), où son nom figure sur le Monument aux Morts. <strong>Firmin</strong> repose aujourd'hui à la Nécropole Nationale de Bras-sur-Meuse (Tombe 50) </p>
+
+        <?php /* TODO : Précisez si il est sur le livre d'or. Si oui, mettre une copie et ajouter les archives nationales dans la liste des sources */ ?>
+
+        <figure>
+            <a href="../tombes/images/betheniville-monument-aux-morts.jpg" data-fancybox="gallery" data-caption="Le Monument aux Morts de Bétheniville">
+            <img src="../tombes/images/mini/betheniville-monument-aux-morts.jpg" alt="le Monument aux Morts de Bétheniville sur une carte postale ancienne"/></a>
+            <figcaption>Le Monument du Souvenir (guerre 1914-1918)<br />(Source: Delcampe)</figcaption>
+        </figure>
+
+        <p>Son fils <strong>Firmin</strong>, né le 7 janvier 1914 à Bétheniville, sera mobilisé en 1939 et rejoindra le <strong>8e Régiment de Zouaves</strong>. Capturé le 4 juin 1940 à Malo-les-Bains, il est emmené en captivité au Stalag VI A (a compté du 3 juillet 1940 à Hener Iserlhom) puis au Stalag VI H (Arnoldsweiler–duren, matricule 20495, liste du 11 juillet 1940). Il est décédé de maladie le 5 janvier 1941 à Aix-la-Chapelle (Allemagne)  à l'hôpital de réserve à Aachen.</p><p>Mais ça, c'est une autre histoire !</p>
+
+        <h2>Saint-Hilaire-le-Petit pendant la Grande Guerre</h2>
+
+        <p>Dès le lundi 31 août 1914, l'armée française recul en bloc. La région située entre Bétheniville et Saint-Hilaire devient un immense bivouac. La plupart des habitants décident de quitter le village, mais ils seront contraints au retour par les Allemands quelques jours plus tard. Le 12 septembre 1914 le reflux des troupes allemandes commence et les Allemands s'installent à Saint-Hilaire-le-Petit, qu'ils quitteront à la fin de la guerre.</p>
+
+        <figure>
+            <a href="images/Saint-Hilaire-ww1-01.jpg" data-fancybox="gallery" data-caption="Un canon anti-poux à Saint-Hilaire">
+            <img src="miniatures/Saint-Hilaire-ww1-01.jpg" alt="Un canon anti-poux à Saint-Hilaire-le-Petit pendant la Première Guerre Mondiale"/></a>
+            <figcaption>Un canon anti-poux à Saint-Hilaire-le-Petit<br />(Source: Delcampe)</figcaption>
+        </figure>
+
+        <figure>
+            <a href="images/Saint-Hilaire-ww1-02.jpg" data-fancybox="gallery" data-caption="Les allemands à Saint-Hilaire-le-Petit">
+            <img src="miniatures/Saint-Hilaire-ww1-02.jpg" alt="Les allemands dans une rue de Saint-Hilaire-le-Petit"/></a>
+            <figcaption>Les allemands à Saint-Hilaire-le-Petit<br />(Source: Delcampe)</figcaption>
+        </figure>
+
+        <figure>
+            <a href="images/Saint-Hilaire-ww1-03.jpg" data-fancybox="gallery" data-caption="Les allemands préparent le pain pour le déjeuner">
+            <img src="miniatures/Saint-Hilaire-ww1-03.jpg" alt="Les allemands préparant le pain pour le déjeuner à Saint-Hilaire-le-Petit"/></a>
+            <figcaption>Préparations du pain pour le déjeuner<br />(Source: Delcampe)</figcaption>
+        </figure>
+
+        <h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archives.marne.fr/">Archives départementales de la Marne</a></li>
+	        <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense">Mémoire des Hommes</a> (Ministère de la Défense)</li>
+	        <li><a href="https://www.delcampe.net/">Delcampe : Acheter et vendre ses objets de collection</a></li>
+        </ul>
+
+         
+
+        </article>
+
+    </section>
+
+    <footer class="row"><?php include('../include/footer.inc'); ?></footer>
+
+    <?php include('../include/stats.inc'); ?> 
+
+    </div>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+  </body>
+</html>

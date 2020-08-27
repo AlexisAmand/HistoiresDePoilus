@@ -108,13 +108,21 @@
         <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
         
         <div id="Freither_Von_Bissing"></div>
-        
-        <p>Le camp de Munster était situé en Allemagne, dans la province de Westphalie (aujourd'hui dans le land de Rhénanie-du-Nord-Westphalie) à quelques kilomètres de la frontière avec les Pays-Bas. En 1914, le commandant du dépôt de prisonniers de Munster est le Général en chef Freither VON BISSING, général de cavalerie.</p>
+ 
+        <p>Le camp de Munster était situé en Allemagne, dans la province de Westphalie (aujourd'hui dans le land de Rhénanie-du-Nord-Westphalie) à quelques kilomètres de la frontière avec les Pays-Bas.</p>
 
         <figure>
             <a href="images/Munster/localisation-munster.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Munster">
             <img src="miniatures/Munster/localisation-munster.jpg" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Munster"></a>
             <figcaption>Localisation du camp de Munster<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
+        </figure> 
+
+        <p>Jusque novembre 1914, le commandant du dépôt de prisonniers de Munster est le Général en chef Moritz VON BISSING, général de cavalerie. Il est ensuite gouverneur militaire de la Belgique du 24 novembre 1914 jusqu'à sa mort, le 18 avril 1917. Il est enterré au cimetière des Invalides de Berlin.</p>
+
+        <figure>
+            <a href="images/Munster/Moritz_von_Bissing.jpg" data-fancybox="gallery" data-caption=" ">
+            <img src="miniatures/Munster/Moritz_von_Bissing.jpg" alt=" "></a>
+            <figcaption>Moritz VON BISSING<br />(source : Emil Bieber via Gettyimages)</figcaption>
         </figure> 
 
         <div id="Charles_Petit"></div>

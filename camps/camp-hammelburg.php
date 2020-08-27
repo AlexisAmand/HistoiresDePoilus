@@ -147,6 +147,10 @@
             </tr>
         </table>
 
+        <a id="John-Macpherson"></a>
+
+        <p>Dans son numéro daté du dimanche 27 août 1916, l'Exilé, organe des prisonniers du camp d'Hammelburg, précise que les obsèques d'un sergent anglais ont eu lieu à veille. John Macpherson, appartenant au 38e régiment "Australian expeditionnary force" et âgé de 32 ans, avait été blessé par une balle à la cuisse droite à Armentières. Amené au lazarett du camp d'Hammelburg, il succombait à ses blessures le vendredi 25 août.</p>
+
         <table class="tab_camp">
         <caption>Effectif du camp au 18 juin 1918</caption>
             <thead>
@@ -173,7 +177,6 @@
             </tr>
         </table>
 
-
         <figure>
             <a href="images/Hammelburg-01.jpg" data-fancybox="gallery" data-caption="Le repas des prisonniers au camp de Hammelburg">
             <img src="miniatures/Hammelburg-01.jpg" alt="Le repas au camp de prisonniers de Hammelburg pendant la Première Guerre Mondiale"></a>
@@ -196,6 +199,7 @@
 
         <ul>
             <li>Delcampe (pour les cartes postales)</li>
+            <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k6117174j">Journal l'Exilé du 27 aout 1916 (BNF - Gallica)</a></li>
             <li><a href="../pdf/book02.pdf">Le traitement des prisonniers français en Allemagne</a> (J. De Christmas, 1917)</li>
             <li>Bulletin de l'Office d'information des oeuvres de secours aux prisonniers de guerre n°21 du 6 décembre 1915</li>
             <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>

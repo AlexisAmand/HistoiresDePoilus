@@ -1,0 +1,489 @@
+﻿19 décembre 2014 (mise à jour n°1)
+---------------------------------
+
+-	inauguration du site comme un sous domaine de genealexis.fr
+
+31 décembre 2014 (mise à jour n°2)
+----------------------------------
+
+-	je suis en train de faire des tests pour recentrer le diaporama de la page d'accueil
+-	la largeur de .diaporama_controls dans diapo.css n'est peut-être pas la bonne.
+-	il faudra penser à tenir compte des margins et des paddings
+
+5 janvier 2015 (mise à jour n°3)
+--------------------------------
+
+-	ajout de disqus sur certaines pages.
+-	ajout de "La Grande Guerre des Français" de JB DUROSSELLE  dans la bibliographie
+-   ajouter un espace au dessus de la zone de commentaires
+
+18 janvier 2015 (mise à jour n°4)
+---------------------------------
+
+-	Voir pour faire un tuto qui explique comment retrouver un poilu : "vous êtes nombreeux à m'envoyer des mails via mon site genealexis pour me demander des conseils de recherche et retrouver le parcours de vos ancêtres poilus.
+
+19 janvier 2015 (mise à jour n°5)
+---------------------------------
+
+-	ajout de déterminant devant les éléments du menu
+-	Biblio-webo devient "Les sources" Je pense que ça parlera mieux aux gens
+-	J'ai mis un petit code dans le fichier htaccess qui permet d'utiliser la compression des pages 
+-	J'ai fusionné les css pour accélérer le chargement des pages
+-	Je suis en train de m'occuper des images « miniatures »
+
+26 janvier 2015 (mise à jour n°6)
+---------------------------------
+
+-> J'ai ajouté des balises <meta> et <title> pour les pages de la partie « relevés »
+
+29 juin 2015 (mise à jour n°7)
+------------------------------
+
+-> changement du titre sur les pages de relevés de Bétheniville, Onnaing et Lourches.
+-> compression du fichier style.css et du l'image avec les poilus pour optimiser le chargement de la page index.php
+-> optimisation des images du diaporama de la page d'accueil
+
+85/100 pour la page index.php
+
+-> début de l'optimisation de la page webographie
+
+81/100 pour la page webographie.php
+
+-> j'ai changé la taille (en octet) de l'image du logo. Elle est désormais en PNG-8
+
+30 juin 2015 (mise à jour n°8)
+------------------------------
+
+-> correction des "not found" de Xenu
+-> ajout de cartes postales des monuments aux morts sur les pages des relevés.
+-> ajout d'un petit bout de texte sur la page de Léon CARIN
+
+1 juillet 2015 (mise à jour n°9)
+--------------------------------
+
+-> dossier "poilus": ajout de balises ALT et TITLE pour améliorer le référencement
+-> ajout de 2 CPA sur la page d'Henri FONTAINE
+-> ajout d'un texte et d'une photo du fort de Cerfontaine sur la page de Noel Jules JOLY
+-> ajout de l'historique du 2e RIT dans les sources
+-> ajout d'une photo de l'ouvrage de Ferrière-la-Petite sur la page de Druon Joseph CARLIER
+-> ajout d'un petit texte sur la page de Florimond LETIENNE
+-> ajout d'une carte des emplacements des forts et ouvrages de Maubeuge sur la page de Louis GRAIN
+
+6 juillet 2015 (mise à jour n°10)
+---------------------------------
+
+-> la date de naissance de Jules Henri BOURSIER n'était pas bonne.
+-> J'ai ajouté son acte de naissance
+
+-------------
+Mise en ligne
+-------------
+
+8 juillet 2015 (mise à jour n°11)
+------------------------------
+
+-> ajout de l'extrait du livre d'or des morts pour la France pour Édouard CARIN
+-> Ajout d'un texte sur le parcours militaire de Léon CARIN pendant la WW1
+-> Ajout des frères et sœur de Théophile CARIN.
+-> Modification d'une légende sur la page d'Henri FONTAINE
+
+13 juillet 2015 (mise à jour n°12)
+-----------------------------------
+
+-> ajout d'un § "Onnaing en guerre !" sur le page de Jules Henri BOURSIER
+-> ajout d'une liste des dernières mises à jour sur la page d'acceuil.
+-> relevés de sebourg: ajout des noms A,B,C et D
+-> ajout d'un lien sur la biblio
+-> ajout de la page consacrée à Ernest Auguste BALTAZART
+
+-  ajout d'un § "dernières mise à jour" en dessous de l'édito.
+-  ajout de la fiche sur l'uniforme d'un poilu en 1914 et 1915
+
+15 juillet 2015 (mise à jour n°13)
+----------------------------------
+
+- ajout du livre de FunCKREN dans les sources.
+- ajout de l'historique du 127 RI dans la webographie.
+- ajout de qq ligne sur la page de Léon CARIN
+- ajout de la photo de la place de Roanne
+
+17 juillet 2015 (mise à jour n°14)
+----------------------------------
+
+- ajout d'un lien vers le Bulletin Religieux de l'Archidiocèse de Rouen dans la webo sur Gallica
+- ajout d'un lien vers Nouvelles de France : chronique hebdomadaire de la presse française sur Gallica
+
+21 juillet 2015 (mise à jour n°15)
+----------------------------------
+
+- ajout d'un § sur les pages consacrées à Louis Abraham CARLIER, Druon Joseph CARLIER, Édouard CARIN, Émile DUBOIS et Jules BOURSIER
+
+22 juillet 2015 (mise à jour n°16)
+----------------------------------
+
+- ajout de la date de mariage de Louis Abraham CARLIER dans le 1er paragraphe de sa page.
+- modification de la page consacrée à Noël JOLY
+- modification de la page consacrée à Firmin MICHEL et ajout de la CPA du monument au mort.
+
+24 juillet 2015 (mise à jour n°17)
+----------------------------------
+
+- mise à jour de la page consacrée à BALTAZART Ernest Auguste
+- page Louis Abraham: Supprimer Olia ! (fait)
+
+29 juillet 2015 (mise à jour n°18)
+----------------------------------
+
+- modification de quelques petits bouts de code CSS. But: avoir presque plus de code CSS dans les pages HTML. Tout le CSS doit être dans un fichier externe.
+- debut de "responsivation" du site. Pour l'instant tout est en comm' dans le fichier CSS.
+- modification de la balise meta description pour Ernest BALTAZART
+
+03 août 2015 (mise à jour n°19)
+-------------------------------
+
+- ajout d'une CPA sur la page de Firmin MICHEL
+
+-------------
+Mise en ligne
+-------------
+
+04 août 2015 (mise à jour n°20)
+-------------------------------
+
+- petite retouche de la couleur du background dans le header : le fond du titre n'était pas de la même couleur
+
+05 août 2015 (mise à jour n°21)
+-------------------------------
+
+- préparation et envoi du sitemap à Google.
+- 33 URL envoyés et 25 dans l'index.
+
+17 août 2015 (mise à jour n°22)
+-------------------------------
+
+- changement dans les balises <méta> et <title> pour essayer d'améliorer le référencement naturel
+
+18 août 2015 (mise à jour n°23)
+-------------------------------
+
+- dans webmaster tools, rubrique "Améliorations HTML", il y a quelques erreurs. Résolutions.
+- dans les sources mise en garde sur le fait que les pdf peuvent être long à charger.
+
+19 août 2015 (mise à jour n°24)
+-------------------------------
+
+- ajout des morts pour la France de Sebourg commençant par F
+- ajout des morts pour la France de Sebourg commençant par G
+- ajout des morts pour la France de Sebourg commençant par H
+- ajout des morts pour la France de Sebourg commençant par L
+
+- premiers jets de la rubrique "les camps de prisonniers".
+			- Minden
+			- Chemnitz
+			- Gardelegen
+			- Friedrichsfeld
+			- Münster (-> I II et III ????)
+			- Würzburg
+
+20 août 2015 (mise à jour n°25)
+-------------------------------
+
+- ajout du texte et d'une video sur la page qui explique ce qu'est un cookie. A FINIR
+
+24 août 2015 (mise à jour n°26)
+-------------------------------
+
+- suite de l'intégration de la rubrique "camps"
+- ajout de photos et de cpa pour les différents camps
+
+25 août 2015 (mise à jour n°27)
+-------------------------------
+
+- ajout de photos et de cpa pour les différents camps
+
+26 août 2015 (mise à jour n°30)
+-------------------------------
+
+- ajout d'une partie des morts pour la France de Lourches commençant par la lettre B.
+- ajout du camp de Schneidemühl
+
+27 août 2015 (mise à jour n°30)
+-------------------------------
+
+- ajout de photos et de cpa pour les différents camps
+- les textes concernant les camps ont été ajoutés sur les pages qui correspondent.
+- toutes les occurences de Friedrichfeld ont été remplacées par Friedrichsfeld afin de rétablir la bonne orthographe
+- toutes les occurences de Frafenwohr ont été remplacées par Grafenwohr afin de rétablir la bonne orthographe
+
+28 août 2015 (mise à jour n°31)
+-------------------------------
+
+- ajout des "zooms" sur les photos des camps de prisonniers
+- début de l'ajout de l'attribut alt sur les images pour le référencement naturel
+- début de l'ajout de l'attribut title sur les liens de zoom des images pour le référencement naturel
+
+Google Webmaster Tools: 33 URL envoyés et 32 dans l'index.
+
+31 août 2015 (mise à jour n°32)
+-------------------------------
+
+- ajout de l'attribut alt sur les images pour le référencement naturel (page Chemnitz)
+- ajout de l'attribut title sur les liens de zoom des images pour le référencement naturel (page Chemnitz)
+- très petite modification du texte
+- ajout des morts pour la France de Sebourg: Lettre M, N, P, R, V et W
+- ajout des morts pour la France de Quarouble: Lettre A, B, C, D
+- création d'une page vierge pour le camp de Merzdorf 
+
+1 septembre 2015 (mise à jour n°33)
+-----------------------------------
+
+- reorganisation de la webographie
+- ménage dans le style.css. Juste avant j'ai fait une copie du fichier sous le nom style-backup.css
+
+2 septembre 2015 (mise à jour n°34)
+-----------------------------------
+
+- Google Webmaster Tools : 33 URL envoyés et 33 dans l'index !
+
+3 septembre 2015 (mise à jour n°35)
+----------------
+
+- ajout de l'intro sur la page camps.php
+- modification des légendes sous les cartes d'anciens combattants.
+
+4 septembre 2015 (mise à jour n°36)
+----------------
+
+- pas de mise à jour, juste une grosse lecture avant la mise en ligne
+- mise en ligne
+- envoie d'un nouveau sitemap
+- Google Webmaster Tools : 47 URL envoyés et 33 dans l'index !
+- ajout la carte d'ancien combattant d'auguste victor fievet
+
+lien vers le nb de prisonniers dans les camps 
+http://www.lwl.org/westfaelische-geschichte/portal/Internet/input_felder/langDatensatz_ebene4.php?urlID=38&url_tabelle=tab_websegmente#23
+
+7 septembre 2015 (référencement)
+--------------------------------
+
+- Google Webmaster Tools : 47 URL envoyés et 34 dans l'index !
+
+8 septembre 2015 (mise à jour n°37)
+-----------------------------------
+
+-> relevés des mpfs de lourches: ajout des noms B et C - A COMPLETER AVEC MEMOIRE DES HOMMES
+-> relevés des mpfs de bry - A COMPLETER AVEC MEMOIRE DES HOMMES
+-> résolution d'un bug d'affichage sur la page de Joly Noel Jules
+-> relevés des mpfs d'Eth - A COMPLETER AVEC MEMOIRE DES HOMMES
+-> ajout des tombes du commonwealth pour Eth
+
+9 septembre 2015 (mise à jour n°38)
+-----------------------------------
+
+- Google Webmaster Tools : 47 URL envoyés et 38 dans l'index !
+- Ajout d'un petit § qui indique le nombre de prisonniers dans le camp de Friedrichfeld
+- Ajout d'un petit § qui indique le nombre de prisonniers dans le camp de Minden
+- Ajout d'un petit § qui indique le nombre de prisonniers dans les camps de Münster I, II et III
+- Ajout de title="" sur les liens de la page consacrée à Münster
+- Ajout de title="" sur les liens de la page consacrée à Minden
+- Ajout de title="" sur les liens de la page consacrée à Friedrichsfeld
+
+11 septembre 2015 (mise à jour n°39)
+------------------------------------
+
+- Google Webmaster Tools : 47 URL envoyés et 46 dans l'index !
+- Réctification des balises <title> de toutes les pages pour que le nom du site soit à la fin
+
+14 septembre 2015 (mise à jour n°40)
+------------------------------------
+
+- Je suis en train de remplacer tous les <p class="legende"> par des <figure> et des <figcaption>
+
+15 septembre 2015 (mise à jour n°41)
+------------------------------------
+
+- Je suis en train de remplacer tous les <p class="legende"> par des <figure> et des <figcaption> (suite)
+- il manque des meta="description"
+
+16 septembre 2015 (mise à jour n°42)
+------------------------------------
+
+- Mise en ligne 
+
+18 septembre 2015 (mise à jour n°43)
+------------------------------------
+
+- ajout des morts pour la France de Quarouble: Lettre F
+- ajout des morts pour la France de Quarouble: Lettre G
+- ajout des morts pour la France de Quarouble: Lettre L
+
+21 septembre 2015 (mise à jour n°44)
+------------------------------------
+
+- ajout d'un § sur la page consacrée au camp de Friedrichsfeld
+
+24 septembre 2015 (mise à jour n°45)
+------------------------------------
+
+- j'ai remplacé tous les <aside><ul style="margin-top:1px;"> par des <aside><ul> et j'ai mis le margin dans la feuille de style externe.
+- page 301 du pdf "Histoire illustrée de la guerre de 1914" tome 3 : ajout de la carte qui permet de localiser la ferme du Rond Chêne. 
+- ajout "Histoire illustrée de la guerre de 1914" tome 3 dans la liste des sources.
+
+25 septembre 2015 (mise à jour n°46)
+------------------------------------
+
+- j'ai enlevé tous les style=".." qui restaient dans <nav> et <aside>. Ils ont été intégrés à la feuille de style externe.
+
+29 septembre 2015
+-----------------
+
+- ajout d'une page consacrée au camp d'Herne (Bornig). Elle contient un § qui explique que Bornig correspond surement à Herne.
+- ajout de $ expliquant le parcours du régiment de Léon CARIN.
+- ajout de l'historique du 153e R.I
+- ajout d'un paragraphe sur les territoriaux sur la page de Nöel JOLY
+- ajout de la photo du Monument aux Morts d'Onnaing sur la page de Jules Henri BOURSIER
+- ajout d'un § sur le parcours du 12e Bataillon de chasseurs sur la page consacrée à Louis Henri ROUSSEAUX
+
+30 septembre 2015
+-----------------
+
+- ajout d'une page consacrée au camp de Czersk
+
+2 octobre 2015
+--------------
+
+- grosse mise à jour de la page consacrée à DUBOIS Émile Edmond + qq cpa pour illustrer un peu
+- Sur la page consacrée à ROUSSEAUX Louis -> ajout de la date de décès de Louis !
+
+8 octobre 2015
+--------------
+
+- changement du fond de page
+
+9 octobre 2015
+--------------
+
+- création et ajout de la page consacrée au camp de Hammerstein
+
+13 octobre 2015
+---------------
+
+- la rubrique "les sources" devient Webographie
+- ajout camp Regensburg
+- ajout camp Guben
+
+-------------
+MISE EN LIGNE
+-------------
+
+- GWT: 47 Nombre d'URL fournies, 45 URL indexées
+- envoi sitemap
+- GWT: 60 Nombre d'URL fournies, 45 URL indexées
+
+25 mai 2016
+-----------
+
+- Mise à jour du relevés des mpf de Quarouble
+- Ajout du lien vers la page du camp de Guben dans le menu des relevés
+- idem pour Regensburg, Darmstadt, Wünsdorf, Nurnberg 
+
+26 mai 2016
+-----------
+
+- ajout d'images sur la page du camp de Darmstadt
+- ajout des sources en bas de la page Darmstadt
+- création de la page pour les camps de Friedberg, Bad Orb
+- ajout d'une image sur la page du camp de Friedberg
+- modification du CSS pour éviter à l'<aside> des camps de déborder de la <section>
+- ajout d'une image sur la page du camp de Giessen
+- ajout d'une image sur la page du camp de Bad Orb
+
+30 mai 2016
+-----------
+
+- ajout d'images sur la page consacrée au camp de Limburg
+- ajout de cartes de localisation des camps de Chemnitz, Darmstadt, Friedrichsfeld, Bad Orb, Gardelegen
+- modification des sources sur chaque page consacrée à un camp
+- modification du CSS pour que les images aient une petite ombre
+- modification du CSS pour que la légende des images soit un peu moins collée à son image.
+- vérification et corrections des liens morts avec Xenu
+- création d'un nouveau sitemap et envoi à GWT
+
+-------------
+MISE EN LIGNE
+-------------
+
+31 mai 2016
+-----------
+
+- modification du CSS pour changer la sidebar
+- changement de la width des cartes
+- correction bug sur la page CARIN Théophile -> un champ input était là sans raison
+- ajout d'une image sur la page de Darmstadt
+- creation de la page du camp de Frankfurt + ajout d'images
+- creation de la page du camp de Meschede + ajout d'images
+- mise à jour de la page du camp de Chemnitz : ajout d'images + texte
+- mise à jour de la page du camp de Gardelegen : texte
+- la page Wunsdorf devient Zossen-Wünsdorf : modification de tous les liens.
+- mise à jour de la page consacrée à  Zossen-Wünsdorf : texte + carte
+
+1 juin 2016
+-----------
+
+- retouche sur qq point de la CSS
+- ajout de attribut alt="" sur les images des camps
+- suppression de la rubrique "archives" Elle n'a aucun intérêt
+
+2 juin 2016
+-----------
+
+- suppression du système de commentaires
+
+6 juin 2016
+-----------
+
+- ajout des batailles du Front africain
+- ajout des batailles du Front italien
+
+A FAIRE
+-------
+
+-> Voir la page consacrée à Ernest Antoine BALTAZART => quelle est la source ?
+
+-> Il reste des "zooms" à mettre !
+
+-> Pour les livres sites, voir si c'est possible de mettre des liens amazon sans pénaliser le référencement 
+
+-> VERIFIER TOUS LES ZOOMS SUR LES IMAGES ! CERTAINES IMAGES NE SONT PAS LES BONNES
+
+-> les mpfs de Quarouble (lettre A, B, C et D) sont à vérifier avec les fiches de mémoires de hommes
+
+-> ajouter l'historique du 46e Régiment Territorial d'Infanterie.
+->    "        "        du 1er Régiment d'Artillerie à Pied
+
+-> ajouter le "L'Exilé. Organe des Prisonniers du camp d'Hammelburg"
+http://gallica.bnf.fr/ark:/12148/cb327719559/date  ??
+
+-> ajouter des CPA pour illustrer les lieux où vivaient les poilus avant la guerre (voir census de 1906)
+
+TODO
+----
+
+- sur la page de Louis Abraham je parle d'un article de l'exilé -> voir si je le trouve.
+- peut-être qu'à long terme, il faudra remplacer la rubrique lieux par une rubrique où je présenterai les camps ?
+- faire une chronologie des principaux événements de la WWI
+- il faut ajouter le lieu où les poilus vivaient en 1906 en utilisant les recensements.
+- faire un poilu de 1914 et un autre de 1916 pour montrer l'équipement d'un poilu en fonction du type de régiment
+- il faudrait trouver une autre cpa de la chute de la garnison de maubeuge pour mettre sur la page consacrée à Druon Joseph
+- vérifier sur le recensement où vivait Firmin Michel, au cas où, enlever le paragraphe sur Bétheniville.
+- Changer le temps des textes: mettre du présent ou du passé composé.
+- enlever le passé simple
+- mettre des captures des fiches matricules et des dossiers d'anciens combattants
+- vérifier les titres, il y a des soucis de H1 et de H2 -> je reste surement sur les H2
+- Ajouter la liste des mpf de Saint Saulve
+- Ajouter la liste des mpf de Wargnies-le-Grand
+- Ajouter la liste des mpf de Saint-Hilaire-le-Petit
+- Ajouter la liste des mpf de Lille ??? LOL
+- Ajouter la liste des mpf de Roubaix ??? LOL aussi ^^ c'est pour LETIENNE Florimond
+- Voir pour empêcher les visiteurs d'accéder à un répertoire (exemple relevés)
+- En cherchant Sebourg sur http://www.1418europeana.fr/ , il y a une photo du Sebourg Chateau "near Valenciennes, which was the King's headquarters. 5 December 1918. The Guard was provided by the P.P.C.L.I."
