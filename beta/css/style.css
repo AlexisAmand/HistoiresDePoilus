@@ -30,9 +30,9 @@
     background-color:#e2ede4;
 }
 
-/* ----------------------------------------------- */
-/* text de l'index sur 2 cols si c'est assez large */
-/* ----------------------------------------------- */
+/* ------------------------------------------------ */
+/* texte de l'index sur 2 cols si c'est assez large */
+/* ------------------------------------------------ */
 
 @media (min-width: 701px) {
     .edito2col {
@@ -60,6 +60,7 @@
 
 section {
     background-color: #efefef;
+    padding-bottom:26px;
     }
 
 .h1, h1 {
@@ -75,4 +76,38 @@ section {
 footer {
     background-color: #364046;
     color:white;
+    font-size: 0.7rem;
     }
+
+footer a:link, footer a:visited,footer a:hover {
+    color:#e2ede4;
+    text-decoration:none
+    }
+
+/* -------------------------------------- */
+/* style pour la visionneuse des archives */
+/* -------------------------------------- */
+
+aside {
+    width:222px;
+}
+
+.vignette {
+    border:1px solid #eFeFeF;
+    width:40%;
+    text-align:center;
+    float:left;
+    height:110px;
+    vertical-align: middle;
+    margin: 7px;
+}
+
+.vignette img {
+    width: 60px;
+    margin-top: 6px;
+}
+
+.vignette figcaption {
+    color:#eFeFeF;
+    border-top:1px solid #eFeFeF;
+}

@@ -1,4 +1,4 @@
-    <div class="col-12 text-center">
+    <div class="col-12 text-center my-3">
         <a href="/mentions.php">Mentions Légales</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="/contact.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="http://www.genealexis.fr">Généalexis</a>&nbsp;&nbsp;|&nbsp;&nbsp;

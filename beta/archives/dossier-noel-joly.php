@@ -20,34 +20,6 @@
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
         <link rel="icon" type="image/png" href="../images/favicon.png"/>
 
-        <style>
-
-        aside {
-            width:222px;
-        }
-
-        .vignette {
-            border:1px solid #eFeFeF;
-            width:40%;
-            text-align:center;
-            float:left;
-            height:110px;
-            vertical-align: middle;
-            margin: 7px;
-        }
-
-        .vignette img {
-            width: 60px;
-            margin-top: 6px;
-        }
-
-        .vignette figcaption {
-            color:#eFeFeF;
-            border-top:1px solid #eFeFeF;
-        }
-
-        </style>
-
     </head>
 
     <body>
