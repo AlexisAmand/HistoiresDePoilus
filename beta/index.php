@@ -21,15 +21,15 @@
   <body>
 
     <div class="container">
-
+    
         <header class="row" style="background-color: #364046;height: 175px;">
             
-            <hgroup class="col-md-6 text-center align-self-center order-2 order-md-1">
+            <hgroup class="col-md-6 text-center align-self-center order-2 order-md-1 col-12">
                 <a href="../index.php" title="Retour sur la page d'accueil du site">
 		        <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
             </hgroup>
             
-            <div class="col-md-6 text-right align-self-top order-1 order-md-2" id="reseaux">
+            <div class="col-md-6 text-right align-self-top order-1 order-md-6 col-12" id="reseaux">
                 <a href="https://www.facebook.com/sharer.php?u=<?php echo $url; ?>" title="Partager cette page sur Facebook">
                 <i class="fab fa-facebook"></i></a>
                 <a href="https://www.instagram.com/alexisamand/" title="Voir le compte Instagram du webmaster">
@@ -42,19 +42,35 @@
 
         </header>
 
-        <div class="row" style="background-color: #364046;">
-
-            <nav class="navbar navbar-expand-lg">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                <ul class="navbar-nav">
-                <li class="nav-item active">
-                    <a class="nav-link" href="#">Les poilus<span class="sr-only">(current)</span></a>
+		<div class="row" style="background-color: #364046;">
+        	  	  
+	  	<nav class="navbar navbar-expand-lg navbar-light">
+		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+		    <span class="navbar-toggler-icon"></span>
+		  </button>
+		  <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+		    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Les Poilus
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+	                    <a class="dropdown-item" href="#">Les poilus des Ardennes</a>
+	                    <a class="dropdown-item" href="#">Les poilus du Nord</a>
+	                    <a class="dropdown-item" href="#">Les poilus Marne</a>
+	                    <a class="dropdown-item" href="#">Les poilus de la Côte-d'Or</a>
+	                    <a class="dropdown-item" href="#">Les jasses de Belgique</a>
+                    </div>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Les Hôpitaux</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Les Hôpitaux
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+	                    <a class="dropdown-item" href="#">Les hôpitaux du Nord</a>
+	                    <a class="dropdown-item" href="#">Les hôpitaux du Pas-de-Calais</a>
+	                    <a class="dropdown-item" href="#">Les hôpitaux de la Somme</a>
+                    </div>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Les Tombes</a>
@@ -64,9 +80,9 @@
                     Les Camps
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <a class="dropdown-item" href="#">Action</a>
-                    <a class="dropdown-item" href="#">Another action</a>
-                    <a class="dropdown-item" href="#">Something else here</a>
+	                    <a class="dropdown-item" href="#">Les camps de prisonniers en Allemagne</a>
+	                    <a class="dropdown-item" href="#">Les camps d'internement aux Pays-Bas</a>
+	                    <a class="dropdown-item" href="#">Les camps d'internement en Suisse</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -74,9 +90,9 @@
                     Les Batailles
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <a class="dropdown-item" href="#">Action</a>
-                    <a class="dropdown-item" href="#">Another action</a>
-                    <a class="dropdown-item" href="#">Something else here</a>
+	                    <a class="dropdown-item" href="#">Action</a>
+	                    <a class="dropdown-item" href="#">Another action</a>
+	                    <a class="dropdown-item" href="#">Something else here</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -84,20 +100,19 @@
                     Les Ressources
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <a class="dropdown-item" href="#">Action</a>
-                    <a class="dropdown-item" href="#">Another action</a>
-                    <a class="dropdown-item" href="#">Something else here</a>
+	                    <a class="dropdown-item" href="#">Les ressources bibliographiques</a>
+	                    <a class="dropdown-item" href="#">Les ressources en ligne</a>
                     </div>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="#">Contact</a>
                 </li>
                 </ul>
-            </div>
-            </nav>
-
-        </div>
-
+		  </div>
+		</nav>
+		
+		</div>
+	
         <section class="row">
 
             <article class="col-12">

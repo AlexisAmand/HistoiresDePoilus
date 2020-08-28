@@ -1,9 +1,9 @@
-﻿body {
+body {
     background-attachment:fixed;
     background-repeat:repeat;
     background-position:center top;
     background-image:url(../images/fond.jpg);
-    font-size: 0.8rem;
+    font-size: 0.8rem; 
     font-family:'Open Sans',sans-serif;
 }    
 
@@ -11,24 +11,33 @@
 
 #reseaux a:link {
     color: #e2ede4;
-    font-size: 2.6em;
+    font-size: 2.6em; 
 }
+
+@media (max-width: 400px) {
+    .logo {
+        /* width:80%; */
+        max-width:250px;
+        }
+    }
 
 /* boutons de la barre de navigation */
 
-.nav-item a:link {
-    background-color: #5b5b5b;
-    width: 123px;
-    padding: 8px;
-    text-align: center;
-    margin-left: 3px;
+.dropdown-menu {
+	/* font-size: 0.8rem; */ 
+}
+
+.navbar-light .navbar-nav .nav-link {
     color: #e2ede4;
 }
 
-.nav-item a:hover {
-    color:#5b5b5b;
-    background-color:#e2ede4;
+
+
+.navbar-light .navbar-toggler:focus {
+	outline:none;
 }
+
+
 
 /* ------------------------------------------------ */
 /* texte de l'index sur 2 cols si c'est assez large */
@@ -36,12 +45,31 @@
 
 @media (min-width: 701px) {
     .edito2col {
+    
+    
         -webkit-column-count: 2;
         -moz-column-count: 2;
         column-count: 2;
+        
         -webkit-column-gap: 3em;
         -moz-column-gap: 3em;
         column-gap: 3em;
+        
+        -webkit-column-rule-width:1px;
+        -webkit-column-rule-color:silver;
+        -webkit-column-rule-style:dashed;
+        
+        -moz-column-rule-width:1px;
+        -moz-column-rule-color:silver;
+        -moz-column-rule-style:dashed;
+        
+        -o-column-rule-width:1px;
+        -o-column-rule-color:silver;
+        -o-column-rule-style:dashed;
+        
+        column-rule-width:1px;
+        column-rule-color:silver;
+        column-rule-style:dashed;        
         }
     }
 
