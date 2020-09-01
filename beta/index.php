@@ -24,12 +24,17 @@
     
         <header class="row" style="background-color: #364046;height: 175px;">
             
-            <hgroup class="col-md-6 text-center align-self-center order-2 order-md-1 col-12">
+            <hgroup class="text-center col-12">
                 <a href="../index.php" title="Retour sur la page d'accueil du site">
 		        <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
             </hgroup>
+
+            <?php
+            /* Récupération de l'url de la page en cours */
+            $url = "http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']; 
+            ?>
             
-            <div class="col-md-6 text-right align-self-top order-1 order-md-6 col-12" id="reseaux">
+            <!--div class="col-md-6 text-right align-self-top order-1 order-md-6 col-12" id="reseaux">
                 <a href="https://www.facebook.com/sharer.php?u=<?php echo $url; ?>" title="Partager cette page sur Facebook">
                 <i class="fab fa-facebook"></i></a>
                 <a href="https://www.instagram.com/alexisamand/" title="Voir le compte Instagram du webmaster">
@@ -38,7 +43,7 @@
                 <i class="fab fa-twitter-square"></i></a>
                 <a href="https://www.linkedin.com/shareArticle?mini=true&url=<?php echo $url; ?>" title="Partager cette page sur LinkedIn"> 	
                 <i class="fab fa-linkedin"></i></a>
-            </div>
+            </div-->
 
         </header>
 
@@ -52,24 +57,24 @@
 		    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Les Poilus
+                    Rubrique 1
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-	                    <a class="dropdown-item" href="#">Les poilus des Ardennes</a>
-	                    <a class="dropdown-item" href="#">Les poilus du Nord</a>
-	                    <a class="dropdown-item" href="#">Les poilus Marne</a>
-	                    <a class="dropdown-item" href="#">Les poilus de la Côte-d'Or</a>
-	                    <a class="dropdown-item" href="#">Les jasses de Belgique</a>
+	                    <a class="dropdown-item" href="#">Rubrique 1.1</a>
+	                    <a class="dropdown-item" href="#">Rubrique 1.2</a>
+	                    <a class="dropdown-item" href="#">Rubrique 1.3</a>
+	                    <a class="dropdown-item" href="#">Rubrique 1.4</a>
+	                    <a class="dropdown-item" href="#">Rubrique 1.5</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Les Hôpitaux
+                    Rubrique 2
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-	                    <a class="dropdown-item" href="#">Les hôpitaux du Nord</a>
-	                    <a class="dropdown-item" href="#">Les hôpitaux du Pas-de-Calais</a>
-	                    <a class="dropdown-item" href="#">Les hôpitaux de la Somme</a>
+	                    <a class="dropdown-item" href="#">Rubrique 2.1</a>
+	                    <a class="dropdown-item" href="#">Rubrique 2.2</a>
+	                    <a class="dropdown-item" href="#">Rubrique 2.3</a>
                     </div>
                 </li>
                 <li class="nav-item">
@@ -77,35 +82,36 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Les Camps
+                    Rubrique 3
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-	                    <a class="dropdown-item" href="#">Les camps de prisonniers en Allemagne</a>
-	                    <a class="dropdown-item" href="#">Les camps d'internement aux Pays-Bas</a>
-	                    <a class="dropdown-item" href="#">Les camps d'internement en Suisse</a>
+                        <a class="dropdown-item" href="#">Rubrique 3.1</a>
+	                    <a class="dropdown-item" href="#">Rubrique 3.2</a>
+	                    <a class="dropdown-item" href="#">Rubrique 3.3</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Les Batailles
+                    Rubrique 4
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-	                    <a class="dropdown-item" href="#">Action</a>
-	                    <a class="dropdown-item" href="#">Another action</a>
-	                    <a class="dropdown-item" href="#">Something else here</a>
+                        <a class="dropdown-item" href="#">Rubrique 4.1</a>
+	                    <a class="dropdown-item" href="#">Rubrique 4.2</a>
+	                    <a class="dropdown-item" href="#">Rubrique 4.3</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Les Ressources
+                    Rubrique 5
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-	                    <a class="dropdown-item" href="#">Les ressources bibliographiques</a>
-	                    <a class="dropdown-item" href="#">Les ressources en ligne</a>
+                        <a class="dropdown-item" href="#">Rubrique 5.1</a>
+	                    <a class="dropdown-item" href="#">Rubrique 5.2</a>
+	                    <a class="dropdown-item" href="#">Rubrique 5.3</a>
                     </div>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="#">Rubrique 6</a>
                 </li>
                 </ul>
 		  </div>
@@ -121,25 +127,25 @@
 
             <div class="edito2col">
 
-                <p class="text-justify">A l'origine, je devais continuer ma série d'articles sur le thème de la Première Guerre Mondiale en vous parlant de mes poilus sur mon site <a href="http://www.genealexis.fr" title="Généalogie de la famille AMAND et de ses alliances">Genealexis</a>. Mouais… dit comme ça, je m'aperçois que c'est loin d'être génial.</p>
+                <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                 
                 <figure>
-                    <img src="../images/image-diapo-1.jpg" alt="Affiche pour la mobilisation générale d'Aout 1914"  class="mx-auto d-block"/>
+                    <img src="https://via.placeholder.com/264x173.png" alt=" "  class="mx-auto d-block"/>
                 </figure>
 
-                <p class="text-justify">J'aurais certainement pu trouver une autre façon d'introduire la chose ? Peut-être que la solution était de vous raconter comment certains hommes de ma famille sont partis la fleur au fusil pour une guerre qu'ils pensaient courte ? Je suis désolé, mais je ne veux pas rentrer dans ce jeu-là.</p>
+                <p class="text-justify">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
 
                 <figure>
-                    <img src="../images/image-diapo-2.jpg" alt="Fiche de mort pour la France issue du site Mémoire des Hommes" class="mx-auto d-block"/>
+                    <img src="https://via.placeholder.com/264x173.png" alt=" " class="mx-auto d-block"/>
                 </figure>
                 
-                <p class="text-justify">Aucun spécialiste de ce conflit, n'arrivera à me faire croire que des hommes dans la fleur de l'âge ont quitté leurs maisons, leurs travails, leurs femmes,  leurs enfants, leurs amis “avec plaisir”, je dirais plutôt qu'ils s'y étaient résignés. En 1994, Jean-Baptiste DUROSELLE (historien français) écrit: <em>« Qui va faire la moisson imminente ? Et comment, avec la réquisition de nombreux chevaux, pourra-t-on labourer en octobre, si toutefois, par impossible, la guerre n'est pas encore gagnée et terminée ? »</em>. Il y a bien eu des scènes festives, avec des wagons et des fusils fleuris, mais c'est surtout dû au fait que le  départ des troupes était fortement ritualisé: discours d'officiers, défilés dans la ville des casernes aux gares. Il ne faut pas oublier non plus que  la <strong>loi sur l'état de siège du 3 avril 1878</strong> attribue aux autorités militaires un large pouvoir, en particulier celui de sanctionner toute parole opposée à la guerre. On peut donc facilement comprendre que les mobilisés et les civils n'avaient pas vraiment le choix, mieux valait dire que l'on était “pour la guerre”. Si vous n'êtes pas convaincus, je vous invite à lire le mémoire d'Yves POURCHER intitulé <a href="http://terrain.revues.org/1027#txt" title="Les clichés de la Grande Guerre, mémoire écrit par Yves POURCHER">Les clichés de la Grande Guerre</a>.</p>
+                <p class="text-justify">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
 
                 <figure>
-                    <img src="../images/image-diapo-3.jpg" alt="Carte postale représentant le départ des soldats pour le Front"  class="mx-auto d-block"/>
+                    <img src="https://via.placeholder.com/264x173.png" alt=" "  class="mx-auto d-block"/>
                 </figure>
 
-                <p class="text-justify">Je vous propose donc, à travers ce site, un résumé des découvertes que j'ai eu la chance de réaliser à propos des membres de ma famille qui ont participé à la Première Guerre Mondiale. Vous allez ainsi découvrir que <a href="camps.php" title="Les camps de prisonniers pendant la Grande Guerre">certains prisonniers</a> et emmenés en Allemagne, que certains ont été blessés en défendant leur patrie et enfin que <a href="tombes.php" title="Tombes de soldats morts pour la France pendant la Première Guerre Mondiale">d'autres sont morts pour leur patrie</a>. Ce site est avant toute chose là pour rendre hommage à tous les soldats de la Der des Der, qu'ils soient <em>Poilus</em> en France, <em>Landsers</em> en Allemagne, <em>Tommies</em> en Angleterre, <em>Diggers</em> en Australie, <a href="poilus/amand-jules.php" title="biographies de soldats belges de la Première Guerre Mondiale">Jass en Belgique</a>, <em>Sammies</em> aux États-Unis ou encore <em>Mehmetçik</em> en Turquie (Empire Ottoman).</p>
+                <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
 
                 <p class="text-right">Bonne lecture,<br />Alexis AMAND<br />(généalogiste et webmaster)</p>
 
@@ -149,7 +155,9 @@
 
         </section>
 
-        <footer class="row"><?php include('include/footer.inc'); ?></footer>
+        <footer class="row">
+            <?php include('include/footer.inc'); ?>
+        </footer>
 
         <?php include('include/stats.inc'); ?>
 
