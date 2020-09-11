@@ -22,6 +22,11 @@ A vérifier
 A ajouter
 ---------
 
+ - dans la webographie 
+	+ https://www.loc.gov/ : Library of congress
+	+ https://www.loc.gov/pictures/ : Library of congress
+	+ idem avec celle du Canada
+
 - Erreur 404 comme sur Delcampe : https://www.delcampe.net/sitemap
 
 - jean baptiste CARIN

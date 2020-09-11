@@ -29,8 +29,6 @@
     });
     </script>
 
-     
-
     <header>
 
         <?php include('../include/social.inc'); ?>
@@ -124,7 +122,7 @@
             <figcaption>Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
-        <h2>Louis mobilisé</h2>
+        <h2>Louis et la mobilisation</h2>
 
         <p>En application du <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret du 1er août 1914</a> et du plan XVII, <strong>Louis Henri ROUSSEAUX</strong> est mobilisé et rejoint le <strong>165e Régiment d'Infanterie</strong> auquel il était affecté depuis le 1 avril 1914. En 1914, le 165e est un régiment affecté à la défense de la « forteresse » de Verdun, notamment les forts de la rive gauche de la Meuse. Le 19 octobre 1914, <strong>Louis</strong> passe au <strong>138e Régiment d'Infanterie</strong>. Ce régiment est surtout célèbre pour avoir reconquis le 24 septembre 1914, après la Victoire de la Marne, le fort de la Pompelle qui était occupé par les Allemands depuis le 4 septembre 1914. <strong>Louis Henri ROUSSEAUX</strong> est blessé le 16 avril 1915 à Fouquescourt, entre Amiens et Saint-Quentin.</p>
 
@@ -158,8 +156,6 @@
 	        <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense">Mémoire des Hommes</a> (Ministère de la Défense)</li>
         </ul>
 
-         
-        
         </article>
 
     </section>

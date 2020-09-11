@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="fr">
   <head>
+  
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -8,7 +9,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>Test HdP</title>
     <meta content=" " name="description"/>
 
     <link rel="stylesheet" href="css/style.css" media="all">
@@ -22,34 +23,12 @@
 
     <div class="container">
     
-        <header class="row" style="background-color: #364046;height: 175px;">
-            
-            <hgroup class="text-center col-12">
-                <a href="../index.php" title="Retour sur la page d'accueil du site">
-		        <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
-            </hgroup>
-
-            <?php
-            /* Récupération de l'url de la page en cours */
-            $url = "http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']; 
-            ?>
-            
-            <!--div class="col-md-6 text-right align-self-top order-1 order-md-6 col-12" id="reseaux">
-                <a href="https://www.facebook.com/sharer.php?u=<?php echo $url; ?>" title="Partager cette page sur Facebook">
-                <i class="fab fa-facebook"></i></a>
-                <a href="https://www.instagram.com/alexisamand/" title="Voir le compte Instagram du webmaster">
-                <i class="fab fa-instagram"></i></a>
-                <a href="https://twitter.com/intent/tweet?url=<?php echo $url; ?>" title="Partager cette page sur Twitter">
-                <i class="fab fa-twitter-square"></i></a>
-                <a href="https://www.linkedin.com/shareArticle?mini=true&url=<?php echo $url; ?>" title="Partager cette page sur LinkedIn"> 	
-                <i class="fab fa-linkedin"></i></a>
-            </div-->
-
-        </header>
-
-		<div class="row" style="background-color: #364046;">
+		<div class="row">
         	  	  
-	  	<nav class="navbar navbar-expand-lg navbar-light">
+        <nav class="navbar navbar-expand-lg navbar-light col-12" style="background-color: #364046;">
+          <a class="navbar-brand" href="#">
+            <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/>
+          </a>
 		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
 		    <span class="navbar-toggler-icon"></span>
 		  </button>
@@ -57,7 +36,7 @@
 		    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Rubrique 1
+                    Les Poilus
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 	                    <a class="dropdown-item" href="#">Rubrique 1.1</a>
@@ -69,7 +48,7 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Rubrique 2
+                    Les Hôpitaux
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 	                    <a class="dropdown-item" href="#">Rubrique 2.1</a>
@@ -82,7 +61,7 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Rubrique 3
+                    Les Camps
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <a class="dropdown-item" href="#">Rubrique 3.1</a>
@@ -92,7 +71,7 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Rubrique 4
+                    Les Batailles
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <a class="dropdown-item" href="#">Rubrique 4.1</a>
@@ -102,7 +81,7 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Rubrique 5
+                    Les Ressources
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <a class="dropdown-item" href="#">Rubrique 5.1</a>
@@ -111,14 +90,20 @@
                     </div>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Rubrique 6</a>
+                    <a class="nav-link" href="#">Contact</a>
                 </li>
                 </ul>
 		  </div>
 		</nav>
+
+        </div>
+
+        <header class="row">
+            <div class="col-12">
+
+            </div>
+        </header>
 		
-		</div>
-	
         <section class="row">
 
             <article class="col-12">
@@ -159,10 +144,9 @@
             <?php include('include/footer.inc'); ?>
         </footer>
 
-        <?php include('include/stats.inc'); ?>
+        <?php /* include('include/stats.inc'); */ ?>
 
         </div>
-
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->

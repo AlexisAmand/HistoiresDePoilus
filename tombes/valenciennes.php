@@ -136,11 +136,29 @@
     </figure>
 
     <figure>
-        <a href="images/gouvion-rene.jpg" data-fancybox="gallery" data-caption="RenéGOUVION, mort pour la France pendant la Grande Guerre">
+        <a href="images/gouvion-rene.jpg" data-fancybox="gallery" data-caption="René GOUVION, mort pour la France pendant la Grande Guerre">
         <img src="images/mini/gouvion-rene.jpg" alt="Tombe de René GOUVION, deux poilus mort pour la France pendant la Grande Guerre"/></a>
         <figcaption>Tombe de René GOUVION<br />cimetière Saint-Roch (Valenciennes)</figcaption>
     </figure>
+    
+    <div id="daniel-lamendin"></div>
 
+	<h2>Daniel LAMENDIN</h2>
+
+	<p>Daniel LAMENDIN est né à Jeumont le 23 septembre 1888. Membre du 91e R.I, il est mort pour la France le 7 septembre 1914 dans la Marne (Thieblemont ou Blesme selon les docs). Il repose au cimelière Saint-Roch de Valenciennes.</p>
+
+ 	<figure>
+        <a href="images/daniel-lamendin-01.jpg" data-fancybox="gallery" data-caption="Tombe de Daniel LAMENDIN">
+        <img src="images/mini/daniel-lamendin-01.jpg" alt="Tombe de Daniel LAMENDIN au cimetière Saint-Roch de Valenciennes"/></a>
+        <figcaption>Tombe de Daniel LAMENDIN<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+    </figure>
+    
+     <figure>
+        <a href="images/daniel-lamendin-02.jpg" data-fancybox="gallery" data-caption="Tombe de Daniel LAMENDIN">
+        <img src="images/mini/daniel-lamendin-02.jpg" alt="Tombe de Daniel LAMENDIN au cimetière Saint-Roch de Valenciennes"/></a>
+        <figcaption>Tombe de Daniel LAMENDIN<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+    </figure>
+	
     <div id="Lucien-Masclet"></div>
 
     <h2>Lucien MASCLET</h2>

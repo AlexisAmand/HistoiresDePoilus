@@ -1,11 +1,11 @@
-    <div class="col-4 text-center my-3 align-self-center">
+    <div class="col-md-4 text-center my-3 align-self-center col-12 order-md-1 order-3">
 
         <a href="index.php" title="retour sur la page d'accueil du site">
-        <img src="images/logo.png" class="logo" alt="Logo du site Histoires de Poilus" style="width:80%"/></a>
+        <img src="images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
         
     </div>
   
-    <div class="col-4 text-center my-3 border-left border-right">
+    <div class="col-md-4 text-center my-3 border-left border-right col-6 order-md-2 order-2">
 
         <h5>Les petits plus</h5>
 
@@ -18,7 +18,7 @@
         
     </div>
 
-    <div class="col-4 text-center my-3 align-self-center">
+    <div class="col-md-4 text-center my-3 align-self-center col-6 order-md-3 order-1">
 
         <h5>Suivez-moi !</h5>
  
@@ -35,8 +35,8 @@
 
     </div>
 
-    <div class="col-12 text-center">
+    <div class="col-12 text-center order-4">
 
-    <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
+        <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Alexis AMAND<br />Tous droits réservés
 
     </div>

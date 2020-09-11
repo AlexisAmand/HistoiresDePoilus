@@ -182,6 +182,7 @@
                     <li><a href="poilus/lacourt-onesime.php">LACOURT Onésime Marcel</a></li>
                     <li><a href="poilus/JOLY-Noel-Jules.php#Lafeuille">LAFEUILLE (prénom inconnu)</a></li>
                     <li><a href="poilus/lamandin-georges.php">LAMANDIN Georges</a></li>
+                    <li><a href="tombes/valenciennes.php#daniel-lamendin">LAMENDIN Daniel</a></li>
 
                     <li><a href="tombes/capelle.php#Joseph-Vanesse">LECAIL Adèle (victime civile)</a></li>
 
