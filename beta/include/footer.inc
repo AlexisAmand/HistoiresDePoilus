@@ -9,12 +9,12 @@
 
         <h5>Les petits plus</h5>
 
-        <a href="/mentions.php">Mentions Légales</a><br />
-        <a href="/contact.php">Pour me contacter</a><br />
-        <a href="http://www.genealexis.fr">Généalexis</a><br />
-        <a href="/index_noms.php">Soldats mentionnés</a><br />
-        <a href="/plan_du_site.php">Plan du site</a><br />
-        <a href="/cookies.php">Cookies</a>
+        <a href="#">Mentions Légales</a><br />
+        <a href="#">Pour me contacter</a><br />
+        <a href="#">Généalexis</a><br />
+        <a href="#">Soldats mentionnés</a><br />
+        <a href="#">Plan du site</a><br />
+        <a href="#">Cookies</a>
         
     </div>
 
@@ -23,13 +23,13 @@
         <h5>Suivez-moi !</h5>
  
         <div style="font-size: 2.6em;">
-            <a href="https://www.facebook.com/sharer.php?u=<?php echo $url; ?>" title="Partager cette page sur Facebook">
+            <a href="#>" title=" ">
             <i class="fab fa-facebook"></i></a>
-            <a href="https://www.instagram.com/alexisamand/" title="Voir le compte Instagram du webmaster">
+            <a href="#" title=" ">
             <i class="fab fa-instagram"></i></a>
-            <a href="https://twitter.com/intent/tweet?url=<?php echo $url; ?>" title="Partager cette page sur Twitter">
+            <a href="#" title=" ">
             <i class="fab fa-twitter-square"></i></a>
-            <a href="https://www.linkedin.com/shareArticle?mini=true&url=<?php echo $url; ?>" title="Partager cette page sur LinkedIn"> 	
+            <a href="#" title=" "> 	
             <i class="fab fa-linkedin"></i></a>
         </div>
 

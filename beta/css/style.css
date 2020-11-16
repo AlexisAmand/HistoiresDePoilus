@@ -2,13 +2,16 @@ body {
     background-attachment:fixed;
     background-repeat:repeat;
     background-position:center top;
+    /*
     background-image:url(../images/fond.jpg);
+    */
     font-size: 0.8rem; 
     font-family:'Open Sans',sans-serif;
+    background-color: #efefef;
 }    
 
 /* ------- */
-/* En-tête */
+/* En-tï¿½te */
 /* ------- */
 
 #reseaux a:link {
@@ -122,7 +125,6 @@ section {
 /* --------------------------------- */
 
 footer {
-    background-color: #364046;
     color:white;
     font-size: 0.7rem;
     }

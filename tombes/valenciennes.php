@@ -163,7 +163,7 @@
 
     <h2>Lucien MASCLET</h2>
 
-    <p>Lucien Léopold Fénélon MASCLET est né à Valenciennes le 19 mars 1893. A la mobilisation, il est caporal au sein du 127e Régiment d'Infanterie. Il est tué à l'ennemi le 12 novemvre 1914 à Soupir (Aisne).</p>
+    <p>Lucien MASCLET est né à Valenciennes le 19 mars 1893. A la mobilisation, il est caporal au sein du 127e Régiment d'Infanterie. Il est tué à l'ennemi le 12 novemvre 1914 à Soupir (Aisne).</p>
 
     <figure>
         <a href="images/lucien-masclet-02.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien MASCLET, mort pour la France pendant la Grande Guerre">
