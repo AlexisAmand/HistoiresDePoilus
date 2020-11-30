@@ -29,8 +29,6 @@
     });
     </script>
 
-     
-
     <header>
 
         <?php include('include/social.inc'); ?>
@@ -237,7 +235,7 @@
             <li><a href="http://archivesdepartementales.lenord.fr" title="Site officiel des Archives départementales du Nord">Archives Départementales du Nord</a><br /><br /></li>
             <li><a href="https://chercher-archives.lamayenne.fr/" title="Site officiel des Archives départementales de la Mayenne">Archives départementales de la Mayenne</a></li>
             
-            <?php /* TODO : ajouter le site genealo */ ?>            
+            <?php /* TODO : ajouter le site genealo */ ?>
             
             <li><a href="https://www.reims.fr/culture-patrimoine/archives-municipales-et-communautaires-7534.html?L=172%27A.html" title="Site officiel des Archives Municipales de Reims">
             Archives Municipales de Reims</a></li>
@@ -245,9 +243,12 @@
             Archives Municipales de Nantes</a></li>
             <li><a href="http://patrimoine-numerique.ville-valenciennes.fr" title="Site officiel des Archives Municipales de Valenciennes">
             Archives Municipales de Valenciennes</a></li>          
-            <li><a href="http://www.bn-r.fr">Médiathèque de Roubaix</a><br /><br /></li>
+            <li><a href="http://www.bn-r.fr" title="site de la Médiathèque de Roubaix">Médiathèque de Roubaix</a><br /><br /></li>
             
-            <li>Les livres d'or des soldats morts pour la France (Archives Nationales)</li>
+            <li><a href="https://www.siv.archives-nationales.culture.gouv.fr" title="Site des Archives Nationales de France">
+            Les livres d'or des soldats morts pour la France (Archives Nationales)</a></li>
+            <li><a href="https://testaments-de-poilus.huma-num.fr/#!/" title="Le projet de numérisation et d'indexation des testaments de poilus">
+            Le projet Testaments de Poilus</a></li>
             <li><a href="https://argonnaute.parisnanterre.fr/">L'Argonnaute (Bibliothèque numérique sur l'histoire du XXe siècle)</a></li>
             <li><a href="http://www.culture.fr/Genealogie/Grand-Memorial">http://www.culture.fr/Genealogie/Grand-Memorial</a></li>
             <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr" title="Mémoire des hommes">Mémoire des Hommes</a> (Ministère de la Défense)</li>

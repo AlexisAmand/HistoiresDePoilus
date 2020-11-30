@@ -145,7 +145,7 @@
 
 	<h2>Daniel LAMENDIN</h2>
 
-	<p>Daniel LAMENDIN est né à Jeumont le 23 septembre 1888. Membre du 91e R.I, il est mort pour la France le 7 septembre 1914 dans la Marne (Thieblemont ou Blesme selon les docs). Il repose au cimelière Saint-Roch de Valenciennes.</p>
+	<p>Daniel LAMENDIN est né à Jeumont le 23 septembre 1888. Membre du 91e R.I, il est mort pour la France le 7 septembre 1914 dans la Marne (Thieblemont ou Blesme selon les docs). Il repose au cimetière Saint-Roch de Valenciennes.</p>
 
  	<figure>
         <a href="images/daniel-lamendin-01.jpg" data-fancybox="gallery" data-caption="Tombe de Daniel LAMENDIN">

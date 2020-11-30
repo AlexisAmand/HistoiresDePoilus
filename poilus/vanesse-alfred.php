@@ -29,8 +29,6 @@
     });
     </script>
 
-     
-
     <header>
 
         <?php include('../include/social.inc'); ?>
@@ -109,7 +107,7 @@
 
         <h1>Alfred VANESSE</h1>
 
-        <p>Retrouvez bientôt sur cette page une biographie du soldat de 2e classe Alfred VANESSE, né à Denain le 19 janvier 1880.</p>
+        
 
         <figure>
             <a href="sources/alfred-vanesse-01.jpg" data-fancybox="gallery" data-caption="fiche matricule de Alfred VANESSE">
