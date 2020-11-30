@@ -1,7 +1,7 @@
     <div class="col-md-4 text-center my-3 align-self-center col-12 order-md-1 order-3">
 
         <a href="index.php" title="retour sur la page d'accueil du site">
-        <img src="images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+        <img src="images/logo.png" alt="Logo du site Histoires de Poilus" style="width:75%"/></a>
         
     </div>
   

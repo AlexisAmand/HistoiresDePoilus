@@ -1,8 +1,8 @@
 body {  
+    /*
     background-attachment:fixed;
     background-repeat:repeat;
-    background-position:center top;
-    /*
+    background-position:center top
     background-image:url(../images/fond.jpg);
     */
     font-size: 0.8rem; 
@@ -41,7 +41,7 @@ header {
 
 @media (min-width: 768px) and (max-width: 991.98px) {
     .logo {
-        width:80%;
+        /* width:80%; */
     }
 }
 
@@ -51,7 +51,7 @@ header {
 
 @media (min-width: 992px) {
     .logo {
-        width:280px;
+        /* width:280px; */
     }
 }
 
@@ -102,7 +102,7 @@ header {
         }
 
     .logo {
-        width:280px;
+        /* width:280px; */
     }
 
     }
@@ -111,7 +111,7 @@ header {
 
 section {
     background-color: #efefef;
-    padding-bottom:26px;
+    /* padding-bottom:26px; */
     }
 
 .h1, h1 {
@@ -145,30 +145,130 @@ footer a:hover {
     text-decoration:underline;
     }
 
-/* -------------------------------------- */
-/* style pour la visionneuse des archives */
-/* -------------------------------------- */
+/* ------------------- */
+/* style pour le aside */
+/* ------------------- */
 
 aside {
-    width:222px;
+    /* width:222px; */
+    background-color: #5b5b5b; 
 }
 
-.vignette {
-    border:1px solid #eFeFeF;
-    width:40%;
-    text-align:center;
-    float:left;
-    height:110px;
-    vertical-align: middle;
-    margin: 7px;
+aside a.list-group-item {
+
+    background-color:#5b5b5b;
+    border: 1px solid #e2ede4;
+    color:#e2ede4;
+
 }
 
-.vignette img {
-    width: 60px;
-    margin-top: 6px;
+aside a.list-group-item:hover {
+
+    color:#5b5b5b;
+    background-color:#e2ede4;
+    text-decoration:none;
+
 }
 
-.vignette figcaption {
-    color:#eFeFeF;
-    border-top:1px solid #eFeFeF;
+aside.col-12 {
+    padding-right: 0px; 
+    padding-left: 0px;
 }
+
+aside.col-sm-3 {
+    padding-right: 0px; 
+    padding-left: 0px;
+}
+
+/* ------------ */
+/* fil d'ariane */
+/* ------------ */
+
+.breadcrumb {
+
+    background-color: #efefef;
+}
+
+/* ------------------------- */
+
+#sidebar-wrapper {
+    margin-right: -250px;
+    right: 0;
+    width: 250px;
+    background: rgb(0,0,0);
+    position: fixed;
+    height: 100%;
+    overflow-y: auto;
+    z-index: 1000;
+    transition: all 0.5s ease-in 0s;
+    -webkit-transition: all 0.5s ease-in 0s;
+    -moz-transition: all 0.5s ease-in 0s;
+    -ms-transition: all 0.5s ease-in 0s;
+    -o-transition: all 0.5s ease-in 0s;
+  }
+
+  .sidebar-nav {
+    position: absolute;
+    top: 0;
+    width: 250px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .sidebar-nav li {
+    line-height: 50px;
+    text-indent: 20px;
+  }
+
+  .sidebar-nav li a {
+    color: #999999;
+    display: block;
+    text-decoration: none;
+  }
+
+  .sidebar-nav li a:hover {
+    color: #fff;
+    background: rgba(255,255,255,0.2);
+    text-decoration: none;
+  }
+
+  .sidebar-nav li a:active, .sidebar-nav li a:focus {
+    text-decoration: none;
+  }
+
+  .sidebar-nav > .sidebar-brand {
+    height: 55px;
+    line-height: 55px;
+    font-size: 18px;
+  }
+
+  .sidebar-nav > .sidebar-brand a {
+    color: #999999;
+  }
+
+  .sidebar-nav > .sidebar-brand a:hover {
+    color: #fff;
+    background: none;
+  }
+
+  #menu-toggle {
+    top: 0;
+    right: 0;
+    position: fixed;
+    z-index: 1;
+  }
+
+  #sidebar-wrapper.active {
+    right: 250px;
+    width: 250px;
+    transition: all 0.5s ease-out 0s;
+    -webkit-transition: all 0.5s ease-out 0s;
+    -moz-transition: all 0.5s ease-out 0s;
+    -ms-transition: all 0.5s ease-out 0s;
+    -o-transition: all 0.5s ease-out 0s;
+  }
+
+  .toggle {
+    margin: 5px 5px 0 0;
+  }

@@ -71,7 +71,7 @@
 
         <h1>Jules AMAND</h1>
 
-        <p>Antoine AMAND est né le 24 novembre 1888 à Boussu (Belgique), fils légitime de Jules AMAND et Antoinette AMAND. Les liens qui m’unissent aux parents d’Antoine sont assez compliqués car je suis parent à la fois avec sa mère et son père qui sont eux-mêmes cousins.</p> 
+        <p>Jules AMAND est né le 24 novembre 1888 à Boussu (Belgique), fils légitime de Jules AMAND et Antoinette AMAND. Les liens qui m’unissent aux parents d’Antoine sont assez compliqués car je suis parent à la fois avec sa mère et son père qui sont eux-mêmes cousins.</p> 
 
         <figure>
             <a href="images/arbre-amand.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de Jules AMAND">
