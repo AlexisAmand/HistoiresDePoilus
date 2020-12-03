@@ -1,3 +1,4 @@
 - le lien du header fonctionne uniquement en ligne -> normal
 - le lien vers le js de tarte au citron fonctionne uniquement en ligne -> normal
 - le logo dans le footer fonctionne uniquement en ligne -> normal
+- pour les mises en garde des camps allemands, faire un truc alert bootstrap

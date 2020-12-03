@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Le camp de prisonniers de Zossen-Wünsdorf pendant la Grande Guerre - Histoires de Poilus</title>
+    <meta name="description"  content="Présentation du camp de prisonniers de Zossen-Wünsdorf en Allemagne pendant la Première Guerre mondiale (1914-1918)">
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -23,6 +23,9 @@
     <script>
     AsideVisible = 1;
     </script>
+
+    <!-- Fancybox -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 
     <!-- code pour les cookies -->
 
@@ -191,38 +194,63 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="#">Rubrique</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../camps.php">Les camps allemands</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Le camp de Zossen-Wünsdorf</li>
         </ol>
     </nav>
 
     <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des camps</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Le camp de prisonniers de Zossen-Wünsdorf</h1>
 
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
-        <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
-        </figure>
-
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+        <p class="text-justify">Le camp de Zossen-Wünsdorf était situé dans le Brandenburg (à 30 km au sud de Berlin). Il était également connu sous le nom de « Camp du Croissant » ou « Wuensdorf-Zossen ».</p>
 
         <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
-        </figure>
+            <img src="miniatures/Wunsdorf/carte-camp-zossen.jpg" class="figure-img img-fluid img-thumbnail" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Zossen-Wünsdorf">
+            <figcaption class="figure-caption">Localisation du camp de Zossen<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
+        </figure>  
 
-        <p class="text-justify">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
+        <p class="text-justify">En octobre 1914, il y a 15000 français, quelques russes et un petit nombre d'anglais. Les prisonniers sont alors logés dans des baraques en bois ou dans des  tentes, en attendant que la construction des baraques soit terminée. Ces baraques peuvent loger une compagnie et disposent d'une chambre à part pour les officiers. A l'automne 1914, la condition de vie des soldats est désastreuse : Outre la température très basse à l'intérieur des tentes, les hommes couchent sur de la paille étendue sur de la terre, avec une seule couverture pour se protéger du froid. En ce qui concerne la nourriture, les délégués du Gouvernement Espagnol précisent que les prisonniers ont une ration de pain de 500 grammes (la même que les soldats allemands), ou 750 grammes pour les soldats qui travaillent. Ils indiquent aussi que l'ordinaire d'un prisonnier se compose de café (matin), le légume et de viande (le midi) et d'un potage (le soir).</p>
 
         <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
+            <a href="images/Wunsdorf/wunsdorf-03.jpg" data-fancybox="gallery" data-caption="Le camp de Wunsdorf pendant la Grande Guerre">
+            <img src="miniatures/Wunsdorf/wunsdorf-03.jpg" class="figure-img img-fluid img-thumbnail" alt="Des prisonniers français en route pour le camp de Wünsdorf pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">Des prisonniers français en route pour le camp<br />(carte postale ancienne)</figcaption>
         </figure>
 
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+        <figure class="text-center">
+            <a href="images/Wunsdorf/wunsdorf-04.jpg" data-fancybox="gallery" data-caption="Le camp de Wunsdorf pendant la Grande Guerre">
+            <img src="miniatures/Wunsdorf/wunsdorf-04.jpg" class="figure-img img-fluid img-thumbnail" alt="Des prisonniers français en route pour le camp de Wünsdorf pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">Des prisonniers français en route pour le camp<br />(carte postale ancienne)</figcaption>
+        </figure>
+
+        <p class="text-justify">Le 25 septembre 1916, le camp renferme 3050 prisonniers arabes et 643 indiens.</p>
+
+        <figure class="text-center">
+            <a href="images/Wunsdorf/wunsdorf-01.jpg" data-fancybox="gallery" data-caption="Harangue dans le camp du croissant à Zossen-Wünsdorf">
+            <img src="miniatures/Wunsdorf/wunsdorf-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Harangue dans le camp de prisonniers de Zossen-Wünsdorf pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">Harangue dans le camp du croissant<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/Wunsdorf/wunsdorf-02.jpg" data-fancybox="gallery" data-caption="Des prisonniers à Zossen-Wünsdorf">
+            <img src="miniatures/Wunsdorf/wunsdorf-02.jpg" class="figure-img img-fluid img-thumbnail" alt="Des prisonniers musulmans dans le camp de prisonniers de Zossen-Wünsdorf pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">Un groupe de prisonniers<br />(source allemande)</figcaption>
+        </figure>
+
+        <p class="text-justify">1084 prisonniers arabes et 49 prisonniers indiens du camp sont envoyés rejoindre l'armée ottomane entre 1916 et 1917: certains volontairement, d'autres de force. Les prisonniers restant dans le camp en 1917 sont transférés dans des camps en Roumanie occupée.</p>
+
+        <h2>Sources et bibliographie</h2>
+
+        <ul>
+            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+            <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
+            <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
+        </ul>  
 
     </article>
 
@@ -249,6 +277,9 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+<!-- JS de Fancybox -->
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 <!-- Affiche/Masque le aside -->
 

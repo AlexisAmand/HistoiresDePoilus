@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Le camp de prisonniers de Wetzlar pendant la Grande Guerre - Histoires de Poilus</title>
+    <meta name="description"  content="Présentation du camp de prisonniers de Wetzlar en Allemagne pendant la Première Guerre mondiale (1914-1918)">
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -23,6 +23,9 @@
     <script>
     AsideVisible = 1;
     </script>
+
+    <!-- Fancybox -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 
     <!-- code pour les cookies -->
 
@@ -191,38 +194,72 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="#">Rubrique</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../camps.php">Les camps allemands</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Le camp de Wetzlar</li>
         </ol>
     </nav>
 
     <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des camps</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Le camp de prisonniers de Wetzlar</h1>
 
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
-        <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
-        </figure>
+        <figure class="text-center">    
+            <a href="images/Wetzlar/localisation-wetzlar.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Wetzlar">
+            <img src="miniatures/Wetzlar/localisation-wetzlar.jpg" class="figure-img img-fluid img-thumbnail" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Wetzlar"></a>
+            <figcaption class="figure-caption">Localisation du camp de Wetzlar<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
+        </figure>  
 
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-
-        <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
-        </figure>
-
-        <p class="text-justify">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
+        <p class="text-justify">Fin 1915, des prisonniers du camp de Wetzlar sont évacués vers les camps de <a href="camp-giessen.php">Giessen</a>, <a href="camp-limburg.php">Limburg</a>, Holzminden, <a href="camp-meschede.php">Meschede</a>, Stendal et <a href="camp-darmstadt.php">Darmstadt</a>. Le commandant du camp de Wetzlar fait savoir que les colis destinés aux prisonniers évacués sur les camps ci-dessus, suivront le destinataire: Quant aux colis qui ne porteront l'adresse d'aucun bénéficiaire nommément désigné, ils seront attribués aux prisonniers français du camp de Giessen.</p>
 
         <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
+            <a href="images/Wetzlar/wetzlar-01.jpg" data-fancybox="gallery" data-caption="Arrivage de vivres au camp de Wetzlar">
+            <img src="miniatures/Wetzlar/wetzlar-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Arrivage de vivre dans le camp de Wetzlar pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">Arrivage de vivres<br />(source allemande)</figcaption>
         </figure>
 
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+        <figure class="text-center">
+            <a href="images/Wetzlar/wetzlar-02.jpg" data-fancybox="gallery" data-caption="Chasseurs alpins au dîner au camp de Wetzlar">
+            <img src="miniatures/Wetzlar/wetzlar-02.jpg" class="figure-img img-fluid img-thumbnail" alt="Chasseurs alpins pendant le dîner au camp de Wetzlar pendant la Grande Guerre"></a>
+            <figcaption class="figure-caption">Chasseurs alpins au dîner<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/Wetzlar/wetzlar-03.jpg" data-fancybox="gallery" data-caption="Médecins et garde-malades français devant l'infirmerie à Wetzlar">
+            <img src="miniatures/Wetzlar/wetzlar-03.jpg" class="figure-img img-fluid img-thumbnail" alt="Médecins et garde-malades français devant l'infirmerie du camp de Wetzlar pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">Médecins et garde-malades français devant l'infirmerie<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/Wetzlar/wetzlar-04.jpg" data-fancybox="gallery" data-caption="En petit comité au camp de Wetzlar">
+            <img src="miniatures/Wetzlar/wetzlar-04.jpg" class="figure-img img-fluid img-thumbnail" alt="Un groupe de prisonniers au camp de Wetzlard pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">En petit comité<br />(source allemande)</figcaption>
+        </figure>
+
+
+        <figure class="text-center">
+            <a href="images/Wetzlar/wetzlar-05.jpg" data-fancybox="gallery" data-caption="Groupe de prisonniers russes au camp de Wetzlar">
+            <img src="miniatures/Wetzlar/wetzlar-05.jpg" class="figure-img img-fluid img-thumbnail" alt="Un groupe de prisonniers russes au camp de Wetzlard pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">Groupe de prisonniers russes<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/Wetzlar/wetzlar-06.jpg" data-fancybox="gallery" data-caption="Groupe de prisonniers russes au camp de Wetzlar">
+            <img src="miniatures/Wetzlar/wetzlar-06.jpg" class="figure-img img-fluid img-thumbnail" alt="Un groupe de prisonniers russes au camp de Wetzlard pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">Groupe de prisonniers russes, Auguste au premier plan<br />(source allemande)</figcaption>
+        </figure>
+
+        <h2>Sources et bibliographie</h2>
+
+        <ul>
+            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+            <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>  
+            <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
+            <li>L'Echo d'Alger du 20 décembre 1915</li>
+        </ul>
+
 
     </article>
 
@@ -249,6 +286,9 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+<!-- JS de Fancybox -->
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 <!-- Affiche/Masque le aside -->
 
