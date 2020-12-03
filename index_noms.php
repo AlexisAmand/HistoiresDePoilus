@@ -173,11 +173,9 @@
 
         <article class="col-12">
 
-        <h1 class="my-4">Edito</h1>
-
-        <h1>Index des noms de soldats cités</h1>
-
-        <p>Vous trouverez sur cette page la liste de tous les soldats mentionnés sur le site. Il peut s'agir d'une biographie détaillée, d'un document ou même d'une mention sur une tombe. Les individus sont classés par pays, puis par ordre alphabétique sur le nom de famille. Pour faciliter la recherche, cette liste contient aussi des civils ayant le status de morts pour la France. Je vous souhaite de bonnes recherches !</p>
+        <h1 class="my-4">Index des noms de soldats cités</h1>
+    
+        <p class="text-justify">Vous trouverez sur cette page la liste de tous les soldats mentionnés sur le site. Il peut s'agir d'une biographie détaillée, d'un document ou même d'une mention sur une tombe. Les individus sont classés par pays, puis par ordre alphabétique sur le nom de famille. Pour faciliter la recherche, cette liste contient aussi des civils ayant le status de morts pour la France. Je vous souhaite de bonnes recherches !</p>
 
         <div id="colindex">
 
@@ -212,7 +210,7 @@
             <h2>Australie</h2>
 
             <ul>
-                <li><a href="camps/camp-hammelburg.php#John-Macpherson">MACPHERSON John</li>
+                <li><a href="camps/camp-hammelburg.php#John-Macpherson">MACPHERSON John</a></li>
             </ul>
 
             <br />

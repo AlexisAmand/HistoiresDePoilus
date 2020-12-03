@@ -281,3 +281,41 @@ aside.col-sm-3 {
     width: 70%;
     max-width:900px;
 }
+
+/* ------------------------ */
+/* cols de l'index des noms */
+/* ------------------------ */
+
+#colindex {
+    -moz-column-count:2;
+    -webkit-column-count:2;
+    -o-column-count:2;
+    column-count:2;
+    -moz-column-gap:40px;
+    -webkit-column-gap:40px;
+    -o-column-gap:40px;
+    column-gap:40px;
+    -webkit-column-rule-width:1px;
+    -webkit-column-rule-color:silver;
+    -webkit-column-rule-style:dashed;
+    -moz-column-rule-width:1px;
+    -moz-column-rule-color:silver;
+    -moz-column-rule-style:dashed;
+    -o-column-rule-width:1px;
+    -o-column-rule-color:silver;
+    -o-column-rule-style:dashed;
+    column-rule-width:1px;
+    column-rule-color:silver;
+    column-rule-style:dashed;
+    text-align:justify
+}
+
+#colindex img {
+    box-shadow:1px 1px 12px #555
+}
+
+#colindex figure {
+    text-align:center;
+    color:#363535;
+    margin-bottom:35px
+}
