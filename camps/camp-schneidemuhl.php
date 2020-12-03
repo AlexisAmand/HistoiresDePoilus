@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Le camp de prisonniers de Schneidemühl pendant la Grande Guerre - Histoires de Poilus</title>
+    <meta name="description" content="Présentation du camp de prisonniers de Schneidemühl en Allemagne pendant la Première Guerre mondiale (1914-1918)">
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -23,6 +23,9 @@
     <script>
     AsideVisible = 1;
     </script>
+
+    <!-- Fancybox -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 
     <!-- code pour les cookies -->
 
@@ -191,38 +194,82 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="#">Rubrique</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../camps.php">Les camps allemands</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Le camp de Schneidemühl</li>
         </ol>
     </nav>
 
     <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des camps</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Le camp de prisonniers de Schneidemühl</h1>
 
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
-        <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
-        </figure>
-
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+        <p class="text-justify">Le camp principal de prisonniers de Schneidemühl était situé en Posnanie, une ancienne province du Royaume de Prusse, à environ 90 kilomètres au nord de Posen (de nos jours Poznań en Pologne). La ville de Schneidemühl est aujourd'hui située en Pologne et porte le nom de Piła.</p>
 
         <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
+            <a href="images/schneidemuhl-01.jpg" data-fancybox="gallery" data-caption="La lessive à Schneidemühl">
+            <img src="miniatures/schneidemuhl-01.jpg" class="figure-img img-fluid img-thumbnail" alt="prisonniers faisant la lessive dans le camp de schneidemühl"></a>
+            <figcaption class="figure-caption">La lessive<br />(source : Delcampe)</figcaption>
         </figure>
-
-        <p class="text-justify">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
 
         <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
+            <a href="images/schneidemuhl-02.jpg" data-fancybox="gallery" data-caption="Des prisonniers français à Schneidemühl">
+            <img src="miniatures/schneidemuhl-02.jpg" class="figure-img img-fluid img-thumbnail" alt="des soldats français prisonniers en Allemagne au camp de Schneidemühl"></a>
+            <figcaption class="figure-caption">Des prisonniers français, peut-être à Schneidemühl<br />(source : Delcampe)</figcaption>
         </figure>
 
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+        <figure class="text-center">
+            <a href="images/schneidemuhl-03.jpg" data-fancybox="gallery" data-caption="La préparation du repas de midi à Schneidemühl">
+            <img src="miniatures/schneidemuhl-03.jpg" class="figure-img img-fluid img-thumbnail" alt="La préparation du repas de midi dans le camp de prisonniers de Schneidemühl"></a>
+            <figcaption class="figure-caption">Préparation du repas de midi<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/schneidemuhl-04.jpg" data-fancybox="gallery" data-caption="La vaccination au camp à Schneidemühl">
+            <img src="miniatures/schneidemuhl-04.jpg" class="figure-img img-fluid img-thumbnail" alt="La vaccination dans le camp de prisonniers de Schneidemühl pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">La vaccination au camp<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/schneidemuhl-05.jpg" data-fancybox="gallery" data-caption="L'arrivée des nouveaux prisonniers à Schneidemühl">
+            <img src="miniatures/schneidemuhl-05.jpg" class="figure-img img-fluid img-thumbnail" alt="l'arrivée de nouveaux soldat dans le camp de prisonniers de Schneidemühl pendant la Grande Guerre"></a>
+            <figcaption class="figure-caption">L'arrivée de nouveaux prisonniers<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/schneidemuhl-06.jpg" data-fancybox="gallery" data-caption="La distribution d'aliments aux nouveaux à Schneidemühl">
+            <img src="miniatures/schneidemuhl-06.jpg" class="figure-img img-fluid img-thumbnail" alt="La distribution d'aliments aux nouveaux arrivants dans le camp de prisonniers de Schneidemühl pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">La distribution d'aliments aux nouveaux arrivants<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/schneidemuhl-07.jpg" data-fancybox="gallery" data-caption="Des prisonniers anglais devant leurs baraques à Schneidemühl">
+            <img src="miniatures/schneidemuhl-07.jpg" class="figure-img img-fluid img-thumbnail" alt="des prisonniers anglais dans le camp de Schneidemühl pendant la Grande Guerre"></a>
+            <figcaption class="figure-caption">Prisonniers anglais devant leurs baraques<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/schneidemuhl-08.jpg" data-fancybox="gallery" data-caption="Des prisonniers russes à Schneidemühl">
+            <img src="miniatures/schneidemuhl-08.jpg" class="figure-img img-fluid img-thumbnail" alt="des prisonniers russes dans le camp de Schneidemühl"></a>
+            <figcaption class="figure-caption">Des prisonniers russes<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/schneidemuhl-09.jpg" data-fancybox="gallery" data-caption="Prisonniers anglais jouant au football à Schneidemühl">
+            <img src="miniatures/schneidemuhl-09.jpg" class="figure-img img-fluid img-thumbnail" alt="des prisonniers anglais disputant un match de foot dans le camp de Schneidemühl"></a>
+            <figcaption class="figure-caption">Prisonniers anglais jouant au football<br />(source allemande)</figcaption>   
+        </figure>
+
+        <h2>Sources et bibliographie</h2>
+
+        <ul>
+            <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
+            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+            <li>Delcampe (pour les cartes postales)</li>
+            <li><a href="../pdf/FoXIIa1133_qt.pdf" title="Die Kriegsgefangenen in Deutschland écrit par Hermann Montanus en 1915">Die Kriegsgefangenen in Deutschland</a> (Hermann Montanus, 1915)</li>
+        </ul>
 
     </article>
 
@@ -249,6 +296,9 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+<!-- JS de Fancybox -->
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 <!-- Affiche/Masque le aside -->
 
