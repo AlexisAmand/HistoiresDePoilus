@@ -225,7 +225,7 @@
 
     <div class="container">
 
-    <footer class="row">
+    <footer class="row mt-4">
         <?php include('../include/footer.inc'); ?>
     </footer>
 

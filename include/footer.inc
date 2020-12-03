@@ -1,6 +1,6 @@
     <div class="col-md-4 text-center my-3 align-self-center col-12 order-md-1 order-3">
 
-        <a href="index.php" title="retour sur la page d'accueil du site">
+        <a href="/index.php" title="retour sur la page d'accueil du site">
         <img src="/images/petit-logo.jpg" alt="Logo du site Histoires de Poilus"/></a>
 
     </div>
@@ -9,12 +9,12 @@
 
         <h5>Les petits plus</h5>
 
-        <a href="#">Mentions Légales</a><br />
+        <a href="/mentions.php">Mentions Légales</a><br />
         <a href="#exampleModal" data-toggle="modal" data-target="#exampleModal">Pour me contacter</a><br />
-        <a href="#">Genealexis.fr</a><br />
-        <a href="#">Soldats mentionnés</a><br />
+        <a href="http://www.genealexis.fr">Genealexis.fr</a><br />
+        <a href="/index_noms.php">Soldats mentionnés</a><br />
         <a href="#">Plan du site</a><br />
-        <a href="#">Cookies</a>
+        <a href="/cookies.php">Cookies</a>
 
     </div>
 
@@ -23,13 +23,13 @@
         <h5>Suivez-moi !</h5>
 
         <div style="font-size: 2.6em;">
-            <a href="#>" title=" ">
+            <a href="https://www.facebook.com/genealexis.fr>" title=" ">
             <i class="fab fa-facebook"></i></a>
-            <a href="#" title=" ">
+            <a href="https://www.instagram.com/alexisamand/" title=" ">
             <i class="fab fa-instagram"></i></a>
-            <a href="#" title=" ">
+            <a href="https://twitter.com/alexisamand" title=" ">
             <i class="fab fa-twitter-square"></i></a>
-            <a href="#" title=" ">
+            <a href="https://www.linkedin.com/in/alexis-amand-99775817/" title=" ">
             <i class="fab fa-linkedin"></i></a>
         </div>
 
