@@ -180,7 +180,7 @@
 
         <figure class="text-center">
             <a href="images/front-italie.jpg" data-fancybox="gallery" data-caption="Le front italien pendant la Grande Guerre">
-            <img src="images/miniatures/front-italie.jpg" class="figure-img img-fluid" alt="Croquis du front italien pendant la Grande Guerre"></a>
+            <img src="images/miniatures/front-italie.jpg" class="figure-img img-fluid img-thumbnail" alt="Croquis du front italien pendant la Grande Guerre"></a>
             <figcaption class="figure-caption">Le front italien<br />(source: Delcampe)</figcaption>
         </figure>
 

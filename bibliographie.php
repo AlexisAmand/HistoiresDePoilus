@@ -414,8 +414,8 @@ if (isset($_POST['nom']) and isset($_POST['courriel']) and isset($_POST['message
 <!-- code pour Matomo modifié pour prendre en compte Tarteaucitron.js -->
 
 <script type="text/javascript">
-  tarteaucitron.user.matomoId = 5;
-  tarteaucitron.user.matomoHost = '//matomo.boitasite.com/';
+  tarteaucitron.user.matomoId = 4;
+  tarteaucitron.user.matomoHost = '//www.genealexis.fr/piwik/';
   (tarteaucitron.job = tarteaucitron.job || []).push('matomohightrack');
 </script>
 

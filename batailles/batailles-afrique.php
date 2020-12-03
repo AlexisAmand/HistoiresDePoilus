@@ -178,7 +178,7 @@
 
         <figure class="text-center">
             <a href="images/askari-1914-1918.jpg" data-fancybox="gallery" data-caption="Une troupe d'Askari pendant la Grande Guerre">
-            <img src="images/miniatures/askari-1914-1918.jpg" class="figure-img img-fluid" alt="Une troupe d'Askari sur le Front Africain pendant la Première Guerre Mondiale"></a>
+            <img src="images/miniatures/askari-1914-1918.jpg" class="figure-img img-fluid img-thumbnail" alt="Une troupe d'Askari sur le Front Africain pendant la Première Guerre Mondiale"></a>
             <figcaption class="figure-caption">Une troupe d'Askari, entre 1914-1918<br />(source: Bundesarchiva)</figcaption>
         </figure>
 

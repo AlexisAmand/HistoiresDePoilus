@@ -178,25 +178,25 @@
 
         <div class="edito2col">
 
-          <p>A l'origine, je devais continuer ma série d'articles sur le thème de la Première Guerre Mondiale en vous parlant de mes poilus sur mon site <a href="http://www.genealexis.fr" title="Généalogie de la famille AMAND et de ses alliances">Genealexis</a>. Mouais… dit comme ça, je m'aperçois que c'est loin d'être génial.</p>
+          <p class="text-justify">A l'origine, je devais continuer ma série d'articles sur le thème de la Première Guerre Mondiale en vous parlant de mes poilus sur mon site <a href="http://www.genealexis.fr" title="Généalogie de la famille AMAND et de ses alliances">Genealexis</a>. Mouais… dit comme ça, je m'aperçois que c'est loin d'être génial.</p>
 
-          <figure>
-              <img src="images/image-diapo-1.jpg" alt="Affiche pour la mobilisation générale d'Aout 1914" />
+          <figure class="text-center">
+              <img src="images/image-diapo-1.jpg" class="figure-img img-fluid" alt="Affiche pour la mobilisation générale d'Aout 1914" />
           </figure>
 
-          <p>J'aurais certainement pu trouver une autre façon d'introduire la chose ? Peut-être que la solution était de vous raconter comment certains hommes de ma famille sont partis la fleur au fusil pour une guerre qu'ils pensaient courte ? Je suis désolé, mais je ne veux pas rentrer dans ce jeu-là.</p>
+          <p class="text-justify">J'aurais certainement pu trouver une autre façon d'introduire la chose ? Peut-être que la solution était de vous raconter comment certains hommes de ma famille sont partis la fleur au fusil pour une guerre qu'ils pensaient courte ? Je suis désolé, mais je ne veux pas rentrer dans ce jeu-là.</p>
 
-          <figure>
-              <img src="images/image-diapo-2.jpg" alt="Fiche de mort pour la France issue du site Mémoire des Hommes" />
+          <figure class="text-center">
+              <img src="images/image-diapo-2.jpg" class="figure-img img-fluid" alt="Fiche de mort pour la France issue du site Mémoire des Hommes" />
           </figure>
 
-          <p>Aucun spécialiste de ce conflit, n'arrivera à me faire croire que des hommes dans la fleur de l'âge ont quitté leurs maisons, leurs travails, leurs femmes,  leurs enfants, leurs amis “avec plaisir”, je dirais plutôt qu'ils s'y étaient résignés. En 1994, Jean-Baptiste DUROSELLE (historien français) écrit: <i>« Qui va faire la moisson imminente ? Et comment, avec la réquisition de nombreux chevaux, pourra-t-on labourer en octobre, si toutefois, par impossible, la guerre n'est pas encore gagnée et terminée ? »</i>. Il y a bien eu des scènes festives, avec des wagons et des fusils fleuris, mais c'est surtout dû au fait que le  départ des troupes était fortement ritualisé: discours d'officiers, défilés dans la ville des casernes aux gares. Il ne faut pas oublier non plus que  la <strong>loi sur l'état de siège du 3 avril 1878</strong> attribue aux autorités militaires un large pouvoir, en particulier celui de sanctionner toute parole opposée à la guerre. On peut donc facilement comprendre que les mobilisés et les civils n'avaient pas vraiment le choix, mieux valait dire que l'on était “pour la guerre”. Si vous n'êtes pas convaincus, je vous invite à lire le mémoire d'Yves POURCHER intitulé <a href="http://terrain.revues.org/1027#txt" title="Les clichés de la Grande Guerre, mémoire écrit par Yves POURCHER">Les clichés de la Grande Guerre</a>.</p>
+          <p class="text-justify">Aucun spécialiste de ce conflit, n'arrivera à me faire croire que des hommes dans la fleur de l'âge ont quitté leurs maisons, leurs travails, leurs femmes,  leurs enfants, leurs amis “avec plaisir”, je dirais plutôt qu'ils s'y étaient résignés. En 1994, Jean-Baptiste DUROSELLE (historien français) écrit: <i>« Qui va faire la moisson imminente ? Et comment, avec la réquisition de nombreux chevaux, pourra-t-on labourer en octobre, si toutefois, par impossible, la guerre n'est pas encore gagnée et terminée ? »</i>. Il y a bien eu des scènes festives, avec des wagons et des fusils fleuris, mais c'est surtout dû au fait que le  départ des troupes était fortement ritualisé: discours d'officiers, défilés dans la ville des casernes aux gares. Il ne faut pas oublier non plus que  la <strong>loi sur l'état de siège du 3 avril 1878</strong> attribue aux autorités militaires un large pouvoir, en particulier celui de sanctionner toute parole opposée à la guerre. On peut donc facilement comprendre que les mobilisés et les civils n'avaient pas vraiment le choix, mieux valait dire que l'on était “pour la guerre”. Si vous n'êtes pas convaincus, je vous invite à lire le mémoire d'Yves POURCHER intitulé <a href="http://terrain.revues.org/1027#txt" title="Les clichés de la Grande Guerre, mémoire écrit par Yves POURCHER">Les clichés de la Grande Guerre</a>.</p>
 
-          <figure>
-              <img src="images/image-diapo-3.jpg" alt="Carte postale représentant le départ des soldats pour le Front" />
+            <figure class="text-center">
+              <img src="images/image-diapo-3.jpg" class="figure-img img-fluid" alt="Carte postale représentant le départ des soldats pour le Front" />
           </figure>
 
-          <p>Je vous propose donc, à travers ce site, un résumé des découvertes que j'ai eu la chance de réaliser à propos des membres de ma famille qui ont participé à la Première Guerre Mondiale. Vous allez ainsi découvrir que <a href="camps.php" title="Les camps de prisonniers pendant la Grande Guerre">certains prisonniers</a> et emmenés en Allemagne, que certains ont été blessés en défendant leur patrie et enfin que <a href="tombes.php" title="Tombes de soldats morts pour la France pendant la Première Guerre Mondiale">d'autres sont morts pour leur patrie</a>. Ce site est avant toute chose là pour rendre hommage à tous les soldats de la Der des Der, qu'ils soient <em>Poilus</em> en France, <em>Landsers</em> en Allemagne, <em>Tommies</em> en Angleterre, <em>Diggers</em> en Australie, <a href="poilus/amand-jules.php" title="biographies de soldats belges de la Première Guerre Mondiale">Jass en Belgique</a>, <em>Sammies</em> aux États-Unis ou encore <em>Mehmetçik</em> en Turquie (Empire Ottoman).</p>
+          <p class="text-justify">Je vous propose donc, à travers ce site, un résumé des découvertes que j'ai eu la chance de réaliser à propos des membres de ma famille qui ont participé à la Première Guerre Mondiale. Vous allez ainsi découvrir que <a href="camps.php" title="Les camps de prisonniers pendant la Grande Guerre">certains prisonniers</a> et emmenés en Allemagne, que certains ont été blessés en défendant leur patrie et enfin que <a href="tombes.php" title="Tombes de soldats morts pour la France pendant la Première Guerre Mondiale">d'autres sont morts pour leur patrie</a>. Ce site est avant toute chose là pour rendre hommage à tous les soldats de la Der des Der, qu'ils soient <em>Poilus</em> en France, <em>Landsers</em> en Allemagne, <em>Tommies</em> en Angleterre, <em>Diggers</em> en Australie, <a href="poilus/amand-jules.php" title="biographies de soldats belges de la Première Guerre Mondiale">Jass en Belgique</a>, <em>Sammies</em> aux États-Unis ou encore <em>Mehmetçik</em> en Turquie (Empire Ottoman).</p>
 
           <p class="right">Bonne lecture,<br />Alexis AMAND<br />(généalogiste et webmaster)</p>
 
@@ -332,19 +332,19 @@ if (isset($_POST['nom']) and isset($_POST['courriel']) and isset($_POST['message
                     <textarea name="message" class="form-control" rows="5" required></textarea>
                 </div>
 
-                <p>(*) Tous les champs doivent être complétés</p>
+                <p class="text-justify">(*) Tous les champs doivent être complétés</p>
 
             </div>
             <div class="col-6">
                 <div class="row text-center">
                     <div class="col-12 my-3">
                         <h6><i class="fas fa-map-marker-alt"></i>&nbsp;Adresse</h6>
-                        <p>Valenciennes<br />
+                        <p class="text-justify">Valenciennes<br />
                         Nord, France</p>
                     </div>
                     <div class="col-12 my-3">
                         <h6><i class="far fa-address-card"></i>&nbsp;Me contacter</h6>
-                        <p>00.12.34.56.78<br />
+                        <p class="text-justify">00.12.34.56.78<br />
                         contact@supermail.com<br />
                         Ou <a href="#" target="_blank">via Skype</a></p>
                     </div>

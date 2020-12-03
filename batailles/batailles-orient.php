@@ -180,7 +180,7 @@
 
         <figure class="text-center">
             <a href="../poilus/images/tatahouine.jpg" data-fancybox="gallery" data-caption="Tatahouine (Tunisie) - Vu d'ensemble du camp">
-            <img src="../poilus/miniatures/tatahouine.jpg" class="figure-img img-fluid" alt="Vue d'ensemble du camp de Tatahouine en Tunisie au début du XXe siècle"/></a>
+            <img src="../poilus/miniatures/tatahouine.jpg" class="figure-img img-fluid img-thumbnail" alt="Vue d'ensemble du camp de Tatahouine en Tunisie au début du XXe siècle"/></a>
             <figcaption class="figure-caption">Vue d'ensemble du camp de Tatahouine (Tunisie)<br />(Cliquez pour agrandir)</figcaption>
         </figure>
 

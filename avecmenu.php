@@ -9,7 +9,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title>Test HdP</title>
+    <title> </title>
     <meta content=" " name="description"/>
 
     <link rel="stylesheet" href="css/style.dev.css" media="all">
@@ -452,8 +452,8 @@ if (isset($_POST['nom']) and isset($_POST['courriel']) and isset($_POST['message
 <!-- code pour Matomo modifié pour prendre en compte Tarteaucitron.js -->
 
 <script type="text/javascript">
-  tarteaucitron.user.matomoId = 5;
-  tarteaucitron.user.matomoHost = '//matomo.boitasite.com/';
+  tarteaucitron.user.matomoId = 4;
+  tarteaucitron.user.matomoHost = '//www.genealexis.fr/piwik/';
   (tarteaucitron.job = tarteaucitron.job || []).push('matomohightrack');
 </script>
 

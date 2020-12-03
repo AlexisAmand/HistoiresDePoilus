@@ -180,7 +180,7 @@
 
         <figure class="text-center">
             <a href="images/yser.jpg" data-fancybox="gallery" data-caption="La Bataille de l'Yser (1914)">
-            <img src="images/miniatures/yser.jpg" class="figure-img img-fluid" alt="la bataille de l'Yser pendant la Grande Guerre"></a>
+            <img src="images/miniatures/yser.jpg" class="figure-img img-fluid img-thumbnail" alt="la bataille de l'Yser pendant la Grande Guerre"></a>
             <figcaption class="figure-caption">La Bataille de l'Yser (1914)<br />(source: Gallica / Bibliothèque Nationale de France)</figcaption>
         </figure>
 
@@ -263,7 +263,7 @@
 
         <figure class="text-center">
             <a href="images/marne-1914.jpg" data-fancybox="gallery" data-caption="Les préliminaires de la Bataille de la Marne (1914)">
-            <img src="images/miniatures/marne-1914.jpg" class="figure-img img-fluid" alt="plan des préliminaires de la Bataille de la Marne (1914)"></a>
+            <img src="images/miniatures/marne-1914.jpg" class="figure-img img-fluid img-thumbnail" alt="plan des préliminaires de la Bataille de la Marne (1914)"></a>
             <figcaption>Les préliminaires de la Bataille de la Marne (1914)<br />(source: Delcampe)</figcaption>
         </figure class="figure-caption">
 
@@ -390,7 +390,7 @@
 
         <figure class="text-center">
             <a href="../poilus/images/Assaut-chemin-des-dames.jpg" data-fancybox="gallery" data-caption="Soldats français sur le Chemin des Dames">
-            <img src="../poilus/miniatures/Assaut-chemin-des-dames.jpg" class="figure-img img-fluid" alt="Des soldats français à l'assaut au Chemin de Dames"/></a>
+            <img src="../poilus/miniatures/Assaut-chemin-des-dames.jpg" class="figure-img img-fluid img-thumbnail" alt="Des soldats français à l'assaut au Chemin de Dames"/></a>
             <figcaption>Assaut français sur le Chemin des Dames<br />(Source: Archives du Queensland, Australie)</figcaption>
         </figure class="figure-caption">
 
@@ -469,7 +469,7 @@
 
         <figure class="text-center">
             <a href="images/bois-belleau.jpg" data-fancybox="gallery" data-caption="Les soldats américains au Bois Belleau">
-            <img src="images/miniatures/bois-belleau.jpg" class="figure-img img-fluid" alt="les troupes américaines au Bois Belleau pendant la Première Guerre Mondiale"></a>
+            <img src="images/miniatures/bois-belleau.jpg" class="figure-img img-fluid img-thumbnail" alt="les troupes américaines au Bois Belleau pendant la Première Guerre Mondiale"></a>
             <figcaption>La brigade marine Américaine au Bois de Belleau.<br />(Georges Scott, 1921)</figcaption>
         </figure class="figure-caption">
 
