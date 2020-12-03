@@ -125,7 +125,15 @@ section {
     font-size: 1.3rem;
 }
 
-/* --------------------------------- */
+a {
+    color: #1863b3;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+/* ------------ */
+/* Pied de page */
+/* ------------ */
 
 footer {
     color:white;
@@ -187,7 +195,7 @@ aside.col-sm-3 {
     background-color: #efefef;
 }
 
-/* ------------------------- */
+/*
 
 #sidebar-wrapper {
     margin-right: -250px;
@@ -250,15 +258,18 @@ aside.col-sm-3 {
     background: none;
 }
 
+*/
+
+/*
 #menu-toggle {
     top: 0;
     right: 0;
     position: fixed;
     z-index: 1;
   }
+*/
 
-
-
+/*
 #sidebar-wrapper.active {
     right: 250px;
     width: 250px;
@@ -268,6 +279,7 @@ aside.col-sm-3 {
     -ms-transition: all 0.5s ease-out 0s;
     -o-transition: all 0.5s ease-out 0s;
 }
+*/
 
 .toggle {
     margin: 5px 5px 0 0;
