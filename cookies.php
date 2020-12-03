@@ -1,4 +1,4 @@
-<!doctype html>
+octype html>
 <html lang="fr">
 
     <head>
@@ -10,8 +10,8 @@
         <meta name="description" content="Cette page explique le fonctionnement et l'utilité des cookies présent sur le site">
 
         <link rel="stylesheet" href="css/style.css" media="all">
-         
-        <link rel="stylesheet" href="css/fontawesome/css/all.min.css">  
+
+        <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
         <link rel="icon" type="image/png" href="images/favicon.png" />
@@ -30,7 +30,7 @@
     });
     </script>
 
-     
+
 
     <header>
 
@@ -71,21 +71,21 @@
 
             <p>Pour plus d'informations, je vous invite à vous rendre sur le site de la CNIL, <a href="http://www.cnil.fr/vos-droits/vos-traces/les-cookies/">rubrique Cookies</a>. L'organisme a également mis en ligne une petite vidéo explicative que je vous propose en cliquant <a href="https://www.dailymotion.com/video/x16lt53">sur ce lien</a>.</p>
 
-             
+
 
         </article>
 
     </section>
 
-    <footer><?php // TODO: dddddddddddd 
-    
+    <footer><?php // TODO: dddddddddddd
+
     include('include/footer.inc'); ?></footer>
 
     <?php include('include/stats.inc'); ?>
 
     <!-- javascript -->
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script type="text/javascript" src="js/jquery.fancybox.min.js"></script>
     <script type="text/javascript" src="js/script.js"></script>
 

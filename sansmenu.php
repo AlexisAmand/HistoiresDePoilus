@@ -12,52 +12,46 @@
     <title>Test HdP</title>
     <meta content=" " name="description"/>
 
-    <link rel="stylesheet" href="../css/style.dev.css" media="all">
-    <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="css/style.dev.css" media="all">
+    <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
-    <link rel="icon" type="image/png" href="../images/favicon.png"/>
-
-    <!-- Initialisation d'une variable pour masquer/afficher le menu -->
-
-    <script>
-    AsideVisible = 1;
-    </script>
+    <link rel="icon" type="image/png" href="images/favicon.png"/>
 
     <!-- code pour les cookies -->
 
-    <script type="text/javascript" src="../tarteaucitron/tarteaucitron.js"></script>
+    <script type="text/javascript" src="/tarteaucitron/tarteaucitron.js"></script>
 
     <script type="text/javascript">
     tarteaucitron.init({
-    "privacyUrl": "", /* Privacy policy url */
+	  "privacyUrl": "", /* Privacy policy url */
 
-    "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
-    "cookieName": "tarteaucitron", /* Cookie name */
+	  "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
+	  "cookieName": "tarteaucitron", /* Cookie name */
 
-    "orientation": "middle", /* Banner position (top - bottom) */
+	  "orientation": "middle", /* Banner position (top - bottom) */
 
-    "showAlertSmall": false, /* Show the small banner on bottom right */
-    "cookieslist": false, /* Show the cookie list */
+	  "showAlertSmall": false, /* Show the small banner on bottom right */
+	  "cookieslist": false, /* Show the cookie list */
 
       "showIcon": true, /* Show cookie icon to manage cookies */
       "iconPosition": "BottomRight", /* BottomRight, BottomLeft, TopRight and TopLeft */
 
-    "adblocker": false, /* Show a Warning if an adblocker is detected */
+	  "adblocker": false, /* Show a Warning if an adblocker is detected */
 
       "DenyAllCta" : true, /* Show the deny all button */
       "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
       "highPrivacy": true, /* HIGHLY RECOMMANDED Disable auto consent */
 
-    "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
+	  "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
 
-    "removeCredit": false, /* Remove credit link */
-    "moreInfoLink": true, /* Show more info link */
+	  "removeCredit": false, /* Remove credit link */
+	  "moreInfoLink": true, /* Show more info link */
 
       "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
       "useExternalJs": false, /* If false, the tarteaucitron.js file will be loaded */
 
-    //"cookieDomain": ".my-multisite-domaine.fr", /* Shared cookie for multisite */
+	  //"cookieDomain": ".my-multisite-domaine.fr", /* Shared cookie for multisite */
 
       "readmoreLink": "", /* Change the default readmore link */
 
@@ -79,8 +73,8 @@
 
             <div class="col-12 text-center">
 
-                <a href="#">
-                    <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
+                <a href="index.php">
+                    <img src="images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                 </a>
 
             </div>
@@ -97,12 +91,12 @@
                             Les Poilus
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                <a class="dropdown-item" href="#">A propos des poilus</a>
-                                <a class="dropdown-item" href="#">Les poilus des Ardennes</a>
-                                <a class="dropdown-item" href="#">Les poilus des Nord</a>
-                                <a class="dropdown-item" href="#">Les poilus de la Marne</a>
-                                <a class="dropdown-item" href="#">Les poilus de la Côte-d'Or</a>
-                                <a class="dropdown-item" href="#">Les jasses de Belgique</a>
+                                <a class="dropdown-item" href="poilus.php">A propos des poilus</a>
+                                <a class="dropdown-item" href="poilus/lacourt-onesime.php">Les poilus des Ardennes</a>
+                                <a class="dropdown-item" href="poilus/amand-hoche.php">Les poilus des Nord</a>
+                                <a class="dropdown-item" href="poilus/arnould-gaston.php">Les poilus de la Marne</a>
+                                <a class="dropdown-item" href="poilus/FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>
+                                <a class="dropdown-item" href="poilus/amand-jules.php">Les jasses de Belgique</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown">
@@ -110,22 +104,23 @@
                             Les Hôpitaux
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                <a class="dropdown-item" href="#">Les hôpitaux du Nord</a>
-                                <a class="dropdown-item" href="#">Les hôpitaux du Pas-de-Calais</a>
-                                <a class="dropdown-item" href="#">Les hôpitaux de la Marne</a>
+                                <a class="dropdown-item" href="hopitaux/hopitaux.php">Le système de santé pendant la Grande Guerre</a>
+                                <a class="dropdown-item" href="hopitaux/hopitaux-59.php">Les hôpitaux du Nord</a>
+                                <a class="dropdown-item" href="hopitaux/hopitaux-62.php">Les hôpitaux du Pas-de-Calais</a>
+                                <a class="dropdown-item" href="hopitaux/hopitaux-80.php">Les hôpitaux de la Marne</a>
                             </div>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Les Tombes</a>
+                            <a class="nav-link" href="tombes.php">Les Tombes</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Les Camps
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                <a class="dropdown-item" href="#">Les camps de prisonniers en Allemagne</a>
-                                <a class="dropdown-item" href="#">Les camps d'internement aux Pays-Bas</a>
-                                <a class="dropdown-item" href="#">Les camps d'internement en Suisse</a>
+                                <a class="dropdown-item" href="camps.php">Les camps de prisonniers en Allemagne</a>
+                                <a class="dropdown-item" href="camps-nl/camps-internements.php">Les camps d'internement aux Pays-Bas</a>
+                                <a class="dropdown-item" href="camps-s/internement-suisse.php">Les camps d'internement en Suisse</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown">
@@ -133,12 +128,12 @@
                             Les Batailles
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                <a class="dropdown-item" href="#">L'Europe de l'Est</a>
-                                <a class="dropdown-item" href="#">L'Europe de l'Ouest</a>
-                                <a class="dropdown-item" href="#">Le Front Italien</a>
-                                <a class="dropdown-item" href="#">Le Front Africain</a>
-                                <a class="dropdown-item" href="#">Le Front du Moyen-Orient</a>
-                                <a class="dropdown-item" href="#">Le Front des Balkans</a>
+                                <a class="dropdown-item" href="batailles/batailles-est.php">L'Europe de l'Est</a>
+                                <a class="dropdown-item" href="batailles/batailles-ouest.php">L'Europe de l'Ouest</a>
+                                <a class="dropdown-item" href="batailles/batailles-italie.php">Le Front Italien</a>
+                                <a class="dropdown-item" href="batailles/batailles-afrique.php">Le Front Africain</a>
+                                <a class="dropdown-item" href="batailles/batailles-orient.php">Le Front du Moyen-Orient</a>
+                                <a class="dropdown-item" href="batailles/batailles-balkans.php">Le Front des Balkans</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown">
@@ -146,8 +141,8 @@
                             Les Ressources
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                <a class="dropdown-item" href="#">Les ressources bibliographiques</a>
-                                <a class="dropdown-item" href="#">Les ressources en ligne</a>
+                                <a class="dropdown-item" href="bibliographie.php">Les ressources bibliographiques</a>
+                                <a class="dropdown-item" href="webographie.php">Les ressources en ligne</a>
                             </div>
                         </li>
                         </ul>
@@ -176,86 +171,37 @@
 
     <section class="row">
 
-    <aside id="aside" style="display:none;">
+        <article class="col-12">
 
-        <div class="list-group">
+        <h1 class="my-4">Edito</h1>
 
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
-            <a href="#" class="list-group-item menutest">Lien vers page</a>
+        <div class="edito2col">
+
+            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+
+            <figure>
+                <img src="https://via.placeholder.com/264x173.png" alt=" " class="mx-auto d-block"/>
+            </figure>
+
+            <p class="text-justify">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+            <figure>
+                <img src="https://via.placeholder.com/264x173.png" alt=" " class="mx-auto d-block"/>
+            </figure>
+
+            <p class="text-justify">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
+
+            <figure>
+                <img src="https://via.placeholder.com/264x173.png" alt=" " class="mx-auto d-block"/>
+            </figure>
+
+            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+
+            <p class="text-right">Bonne lecture,<br />Alexis AMAND<br />(généalogiste et webmaster)</p>
 
         </div>
 
-    </aside>
-
-    <article style="width:100%;padding-left:15px;padding-right:15px;" id="article" >
-
-    <nav aria-label="breadcrumb">
-        <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="#">Rubrique</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
-        </ol>
-    </nav>
-
-    <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
-
-    <h1 class="my-4">Titre de la page</h1>
-
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-
-        <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
-        </figure>
-
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-
-        <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
-        </figure>
-
-        <p class="text-justify">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
-
-        <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
-        </figure>
-
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-
-    </article>
+        </article>
 
     </section>
 
@@ -280,38 +226,6 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-
-<!-- Affiche/Masque le aside -->
-
-<script>
-function fonctiontest() {
-  if (AsideVisible == 1)
-    {
-    /*
-    document.getElementById("aside").style.visibility = "visible";
-    */
-    document.getElementById("aside").style.display="block";
-    document.getElementById("aside").style.width="20%";
-    document.getElementById("article").style.width="80%";
-    document.getElementById("asidebouton").innerHTML = "<i class='fas fa-bars'></i>&nbsp;Masquer la liste des noms";
-
-    AsideVisible = 0;
-    }
-  else
-    {
-    /*
-    document.getElementById("aside").style.visibility = "hidden";
-    */
-    document.getElementById("aside").style.display="none";
-    document.getElementById("aside").style.width="00%";
-    document.getElementById("article").style.width="100%";
-    document.getElementById("asidebouton").innerHTML = "<i class='fas fa-bars'></i>&nbsp;Afficher la liste des noms";
-
-    AsideVisible = 1;
-    }
-}
-
-</script>
 
 <!-- Traitement du formulaire de contact -->
 

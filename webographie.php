@@ -1,50 +1,179 @@
 <!doctype html>
 <html lang="fr">
+<head>
 
-    <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <meta charset="utf-8">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-        <title>Ressources en ligne sur la Première Guerre Mondiale - Histoires de Poilus</title>
-        <meta name="description" content="Selection de sites web pour retracer le parcours militaire de vos ancêtres poilus pendant la Première Guerre Mondiale">
+    <title>Ressources en ligne sur la Première Guerre Mondiale - Histoires de Poilus</title>
+    <meta name="description" content="Selection de sites web pour retracer le parcours militaire de vos ancêtres poilus pendant la Première Guerre Mondiale">
 
-        <link rel="stylesheet" href="css/style.css" media="all">
-         
-        <link rel="stylesheet" href="css/fontawesome/css/all.min.css">  
+    <link rel="stylesheet" href="css/style.dev.css" media="all">
+    <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
 
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
-        <link rel="icon" type="image/png" href="images/favicon.png" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
+    <link rel="icon" type="image/png" href="images/favicon.png"/>
 
-    </head>
+    <!-- code pour les cookies -->
 
-    <body>
+    <script type="text/javascript" src="/tarteaucitron/tarteaucitron.js"></script>
 
-    <!-- code js pour l'avertissement sur les cookies -->
+    <script type="text/javascript">
+    tarteaucitron.init({
+	  "privacyUrl": "", /* Privacy policy url */
 
-    <script src="js/cookiechoices.js"></script>
-    <script>
-    document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
-    'Ok', 'En savoir plus', 'cookies.php');
+	  "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
+	  "cookieName": "tarteaucitron", /* Cookie name */
+
+	  "orientation": "middle", /* Banner position (top - bottom) */
+
+	  "showAlertSmall": false, /* Show the small banner on bottom right */
+	  "cookieslist": false, /* Show the cookie list */
+
+      "showIcon": true, /* Show cookie icon to manage cookies */
+      "iconPosition": "BottomRight", /* BottomRight, BottomLeft, TopRight and TopLeft */
+
+	  "adblocker": false, /* Show a Warning if an adblocker is detected */
+
+      "DenyAllCta" : true, /* Show the deny all button */
+      "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
+      "highPrivacy": true, /* HIGHLY RECOMMANDED Disable auto consent */
+
+	  "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
+
+	  "removeCredit": false, /* Remove credit link */
+	  "moreInfoLink": true, /* Show more info link */
+
+      "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
+      "useExternalJs": false, /* If false, the tarteaucitron.js file will be loaded */
+
+	  //"cookieDomain": ".my-multisite-domaine.fr", /* Shared cookie for multisite */
+
+      "readmoreLink": "", /* Change the default readmore link */
+
+      "mandatory": true, /* Show a message about mandatory cookies */
     });
     </script>
 
-    <header>
+</head>
 
-        <?php include('include/social.inc'); ?>
+<body>
 
-        <a href="index.php" title="Retour sur la page d'accueil du site">
-        <img src="images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+<!-- menu de navigation -->
 
+<div class="container-fluid" style="background-color: #364046;">
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-12 text-center">
+
+                <a href="index.php">
+                    <img src="images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
+                </a>
+
+            </div>
+
+            <div class="col-12 text-center">
+
+                <nav class="navbar navbar-expand-lg navbar-light">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+                    </button>
+                    <div class="collapse navbar-collapse mx-auto" id="navbarTogglerDemo01">
+                    <ul class="navbar-nav mx-auto">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Les Poilus
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <a class="dropdown-item" href="poilus.php">A propos des poilus</a>
+                                <a class="dropdown-item" href="poilus/lacourt-onesime.php">Les poilus des Ardennes</a>
+                                <a class="dropdown-item" href="poilus/amand-hoche.php">Les poilus des Nord</a>
+                                <a class="dropdown-item" href="poilus/arnould-gaston.php">Les poilus de la Marne</a>
+                                <a class="dropdown-item" href="poilus/FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>
+                                <a class="dropdown-item" href="poilus/amand-jules.php">Les jasses de Belgique</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Les Hôpitaux
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <a class="dropdown-item" href="hopitaux/hopitaux.php">Le système de santé pendant la Grande Guerre</a>
+                                <a class="dropdown-item" href="hopitaux/hopitaux-59.php">Les hôpitaux du Nord</a>
+                                <a class="dropdown-item" href="hopitaux/hopitaux-62.php">Les hôpitaux du Pas-de-Calais</a>
+                                <a class="dropdown-item" href="hopitaux/hopitaux-80.php">Les hôpitaux de la Marne</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="tombes.php">Les Tombes</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Les Camps
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <a class="dropdown-item" href="camps.php">Les camps de prisonniers en Allemagne</a>
+                                <a class="dropdown-item" href="camps-nl/camps-internements.php">Les camps d'internement aux Pays-Bas</a>
+                                <a class="dropdown-item" href="camps-s/internement-suisse.php">Les camps d'internement en Suisse</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Les Batailles
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <a class="dropdown-item" href="batailles/batailles-est.php">L'Europe de l'Est</a>
+                                <a class="dropdown-item" href="batailles/batailles-ouest.php">L'Europe de l'Ouest</a>
+                                <a class="dropdown-item" href="batailles/batailles-italie.php">Le Front Italien</a>
+                                <a class="dropdown-item" href="batailles/batailles-afrique.php">Le Front Africain</a>
+                                <a class="dropdown-item" href="batailles/batailles-orient.php">Le Front du Moyen-Orient</a>
+                                <a class="dropdown-item" href="batailles/batailles-balkans.php">Le Front des Balkans</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Les Ressources
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <a class="dropdown-item" href="bibliographie.php">Les ressources bibliographiques</a>
+                                <a class="dropdown-item" href="webographie.php">Les ressources en ligne</a>
+                            </div>
+                        </li>
+                        </ul>
+                    </div>
+                </nav>
+
+            </div>
+
+        </div>
+
+    </div>
+
+<!-- entête avec l'image -->
+
+    <header class="row">
+        <div class="col-12">
+
+        </div>
     </header>
 
-    <?php include('include/nav-ressources.inc'); ?>
+</div>
 
-    <section>
+<!-- contenu de la page -->
 
-        <article style="margin-left:0px;">
+<div class="container">
 
-        <h1>Ressources en ligne</h1>
+    <section class="row">
+
+        <article class="col-12">
+
+        <h1 class="my-4">Ressources en ligne</h1>
 
         <p>Vous trouverez sur cette page la liste de toutes les ressources en ligne (sites, blogs ou forums par exemple) qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php" title="contacter le webmaster">me contacter</a> si vous avez une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p>Certains documents sont <strong>des pdf</strong>, selon la configuration de votre ordinateur, ils peuvent mettre un petit moment à s'afficher. Pour les lire, vous devez posséder un logiciel comme <em>Adobe Reader</em>, que vous pouvez <a href="https://get.adobe.com/fr/reader/" title="télécharger gratuitement Adobe Reader">télécharger gratuitement ici</a>.</p>
 
@@ -213,7 +342,7 @@
             <li>Livre d'Or des universitaires liégeois (Imprimerie H. Vaillant-Carmanne, Liège, 1923)</li>
             <li><a href="http://www.bel-memorial.org" title="Bel-Memorial">Bel-Memorial (Belgique)</a></li>
             <li><a href="https://www.wardeadregister.be/fr" title="Dead War Register">Dead War Register (Belgique)</a></li>
-            <li><a href="http://arch.arch.be/" title="Archives de l'État en Belgique">Les Archives de l'État (Belgique)</a></li>      
+            <li><a href="http://arch.arch.be/" title="Archives de l'État en Belgique">Les Archives de l'État (Belgique)</a></li>
             <li><a href="http://grandeguerre.icrc.org/fr" title="Comité international de la Croix-Rouge">Les archives du CICR</a> (Comité International de la Croix-Rouge)</li>
             <li><a href="http://monumentsmorts.univ-lille3.fr/" title="Les monuments aux morts de France et Belgique">Monuments aux morts de France et de Belgique</a> (Université de Lille 3)</li>
         </ul>
@@ -228,23 +357,23 @@
 
         <ul>
         	<li><a href="https://arbre.app/insee/">Fichier des décès de l'INSEE</a><br /><br /></li>
-        
+
             <li><a href="http://archives.cg08.fr" title="Site officiel des Archives départementales des Ardennes">Archives Départementales des Ardennes</a></li>
             <li><a href="https://archives.cotedor.fr" title="Site officiel des Archives départemental de la Côte-d'Or">Archives Départementales de la Côte-d'Or</a></li>
             <li><a href="http://archives.marne.fr" title="Site officiel des Archives départementales de la Marne">Archives Départementales de la Marne</a></li>
             <li><a href="http://archivesdepartementales.lenord.fr" title="Site officiel des Archives départementales du Nord">Archives Départementales du Nord</a><br /><br /></li>
             <li><a href="https://chercher-archives.lamayenne.fr/" title="Site officiel des Archives départementales de la Mayenne">Archives départementales de la Mayenne</a></li>
-            
+
             <?php /* TODO : ajouter le site genealo */ ?>
-            
+
             <li><a href="https://www.reims.fr/culture-patrimoine/archives-municipales-et-communautaires-7534.html?L=172%27A.html" title="Site officiel des Archives Municipales de Reims">
             Archives Municipales de Reims</a></li>
             <li><a href="http://www.archives.nantes.fr" title="Site officiel des Archives Municipales de Nantes">
             Archives Municipales de Nantes</a></li>
             <li><a href="http://patrimoine-numerique.ville-valenciennes.fr" title="Site officiel des Archives Municipales de Valenciennes">
-            Archives Municipales de Valenciennes</a></li>          
+            Archives Municipales de Valenciennes</a></li>
             <li><a href="http://www.bn-r.fr" title="site de la Médiathèque de Roubaix">Médiathèque de Roubaix</a><br /><br /></li>
-            
+
             <li><a href="https://www.siv.archives-nationales.culture.gouv.fr" title="Site des Archives Nationales de France">
             Les livres d'or des soldats morts pour la France (Archives Nationales)</a></li>
             <li><a href="https://testaments-de-poilus.huma-num.fr/#!/" title="Le projet de numérisation et d'indexation des testaments de poilus">
@@ -266,39 +395,194 @@
         </ul>
 
         <h2 style="margin-top:30px">Les villes pendant la Grande Guerre</h2>
-    
+
         <ul>
             <li><a href="pdf/vdh_orleans-grande-guerre.pdf" title="Brochure sur l'histoire d'Orléans pendant la Grande Guerre">Orléans pendant la Grande Guerre (Ville d'Orléans)</a></li>
             <li><a href="pdf/Maubeuge-1914-Duvivier.pdf" title="Histoire du siège de Maubeuge de 1914 par Jules DUVUVIER">Maubeuge 1914 (Par Jules DUVUVIER)</a></li>
         </ul>
 
         <h2 style="margin-top:30px">Musées</h2>
-               
+
         <ul>
             <li><a href="https://museedelacartepostale.fr">Musée de la Carte Postale d'Antibes</a></li>
             <li><a href="https://www.iwm.org.uk/">Imperial War Museum</a></li>
-        </ul>  
-        
+        </ul>
+
         <h2 style="margin-top:30px">Livres d'or</h2>
-               
+
         <ul>
             <li><a href="https://fr.calameo.com/books/0005835971cebca939211">Institution La Malgrange : Livre d'Or de la Grande Guerre (1° partie)</a></li>
             <li><a href="https://fr.calameo.com/books/0005835977f825889813e">Institution La Malgrange : Livre d'Or de la Grande Guerre (2° partie)</a></li>
-        </ul> 
+        </ul>
 
         </article>
 
     </section>
 
-    <footer><?php include('include/footer.inc'); ?></footer>
+</div>
 
-    <?php include('include/stats.inc'); ?>
+<!-- pied de page -->
 
-    <!-- javascript -->
+<div class="container-fluid" style="background-color: #364046;">
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
-    <script type="text/javascript" src="js/jquery.fancybox.min.js"></script>
-    <script type="text/javascript" src="js/script.js"></script>
+    <div class="container">
 
-    </body>
+    <footer class="row">
+        <?php include('include/footer.inc'); ?>
+    </footer>
+
+    </div>
+
+</div>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+<!-- Traitement du formulaire de contact -->
+
+<?php
+
+if (isset($_POST['nom']) and isset($_POST['courriel']) and isset($_POST['message']))
+    {
+    echo "plop !<br />";
+    ?>
+
+    <script type="text/javascript">
+    $( document ).ready(function() {
+        $('#myModal').modal('toggle');
+    });
+    </script>
+
+    <?php
+    $to  = 'alexis.amand@gmail.com, '.$_POST['courriel'];
+
+    // Sujet
+    $subject = 'Message de Histoires de Poilus';
+
+    // message
+    $message = "Nom : ".$_POST['nom']."<br />"
+                ."Sujet : ".$_POST['sujet']."<br />"
+                ."E-mail : ".$_POST['courriel']."<br />"
+                ."Message : "."<br />".$_POST['message']."<br />";
+
+                // Pour envoyer un mail HTML, l'en-tête Content-type doit être défini
+                $headers = 'MIME-Version: 1.0'."\n";
+                $headers .= 'Content-type: text/html; charset=utf-8'."\n";
+                $headers .='From: "Message de Histoires de Poilus"<'.$_POST['courriel'].'>'."\n";
+
+                $envoyer = mail($to, $subject, $message, $headers);
+
+                if (!$envoyer)
+                    {
+                    echo '<p class="alert alert-warning" role="alert">erreur !</p>';
+                    $errorMessage = error_get_last()['message'];
+                    echo $errorMessage;
+                    }
+                else
+                    {
+
+                    ?>
+
+                    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Me contacter</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                        <div class="modal-body">
+                            <div class="alert alert-success">message envoyé !</div>
+                        </div>
+                        <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">Fermer</button>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+
+                    <?php
+
+                    }
+    }
+
+    ?>
+
+<!-- Affiche la modale de contact -->
+
+<form method="POST">
+
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Me contacter</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+
+        <div class="row align-items-center">
+            <div class="col-6">
+
+                <div class="form-group">
+                    <label>Nom (*)</label>
+                    <input type="text" name="nom" class="form-control" required>
+                </div>
+
+                <div class="form-group">
+                    <label>Courriel (*)</label>
+                    <input type="text" name="courriel" class="form-control" required>
+                </div>
+
+                <div class="form-group">
+                    <label>Message (*)</label>
+                    <textarea name="message" class="form-control" rows="5" required></textarea>
+                </div>
+
+                <p>(*) Tous les champs doivent être complétés</p>
+
+            </div>
+            <div class="col-6">
+                <div class="row text-center">
+                    <div class="col-12 my-3">
+                        <h6><i class="fas fa-map-marker-alt"></i>&nbsp;Adresse</h6>
+                        <p>Valenciennes<br />
+                        Nord, France</p>
+                    </div>
+                    <div class="col-12 my-3">
+                        <h6><i class="far fa-address-card"></i>&nbsp;Me contacter</h6>
+                        <p>00.12.34.56.78<br />
+                        contact@supermail.com<br />
+                        Ou <a href="#" target="_blank">via Skype</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Fermer</button>
+        <button class="btn btn-primary" type="submit" name="formcontact">Envoyer</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</form>
+
+<!-- code pour Matomo modifié pour prendre en compte Tarteaucitron.js -->
+
+<script type="text/javascript">
+  tarteaucitron.user.matomoId = 5;
+  tarteaucitron.user.matomoHost = '//matomo.boitasite.com/';
+  (tarteaucitron.job = tarteaucitron.job || []).push('matomohightrack');
+</script>
+
+</body>
 </html>
