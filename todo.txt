@@ -16,3 +16,6 @@
 VERSION MOBILE :
 - Le logo en haut est trop large
 - Le menu burger n'apparait pas sur certaines pages
+
+STRUCTURE DE LA PAGE :
+- Au niveau de la section et le l'article il n'y a pas de "col", juste une "row"... Est-ce vraiment un soucis ?
