@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Le camp de prisonniers de Puchheim pendant la Grande Guerre - Histoires de Poilus</title>
+    <meta name="description" content="Présentation du camp de prisonniers de Puchheim en Allemagne pendant la Première Guerre mondiale (1914-1918)">
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -203,30 +203,43 @@
 
     <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des camps</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Le camp de prisonniers de Puchheim</h1>
 
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+
+        <p class="text-justify">Les premiers prisonniers de guerre sont internés sur le site de l'ancien aérodrome dès octobre 1914, entre 700 et 850 Français sont alors cantonnés dans les hangars. 
+
+        L'expansion dans un camp de prisonniers de guerre régulier s'est faite très rapidement. 
+
+        L'année suivante, Puchheim est le deuxième plus grand camp de Bavière après <a href="camp-grafenwohr.php" title="le camp de prisonniers de Grafenwöhr">Grafenwöhr</a>. 
+
+        En 1917, un total de 40 casernes et divers bâtiments agricoles avaient été érigés. Le 21 août 1917, l'administration du camp recensait 16 141 prisonniers venus de France, de Russie, d'Italie et d'Angleterre. La plupart des prisonniers travaillaient à l'extérieur du camp. Dans la région de Puchheim, ils ont creusé plusieurs tranchées pour drainer la lande comme le Mühlstetter Graben, qui existe encore aujourd'hui.
+
+        En outre, les prisonniers ont été utilisés comme mineurs près de Penzberg, dans la construction d'une usine d'acétone Wacker-Chemie GmbH et dans l'agriculture. 
+
+        En 1918, les prisonniers de guerre russes étaient utilisés pour le ramassage des ordures à Munich. 
+
+        Au moment de l'armistice de 1918, le camp était clairement surpeuplé de 24 764 prisonniers (dont 14 072 Russes et 10 692 Français) et de 3 800 gardes.
+
+        Le camp ne fut pas dissous avant le rapatriement des derniers prisonniers en 1920.</p>
 
         <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
+            <a href="images/Puchheim/camp-puchheim-01.jpg" data-fancybox="gallery" data-caption="Une partie de football au camp de Puchheim">
+            <img src="miniatures/Puchheim/camp-puchheim-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Une partie de football au camp de prisonniers de Puchheim pendant la Grande Guerre"></a>
+            <figcaption class="figure-caption">Une partie de football au camp de Puchheim<br />(source: Clio Team)</figcaption>
         </figure>
 
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+        <p class="text-justify">Entre 1915 et 1919, 585 prisonniers sont morts de la grippe espagnole, dont environ 350 seulement entre novembre 1918 et février 1919. 
 
-        <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
-        </figure>
+        Alors que les Français décédés ont été transférés dans leur patrie après la guerre, les ossements de 321 Russes sont restés dans le cimetière dit russe de la Lagerstraße. Le 17 octobre 1917, le Nonce apostolique Eugenio Pacelli visite le camp.</p> 
 
-        <p class="text-justify">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
+        <h2>Sources et bibliographie</h2>
 
-        <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
-        </figure>
-
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+        <ul>
+            <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
+            <li>Wikipedia</li>
+            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+        </ul>
 
     </article>
 

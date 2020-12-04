@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Le camp de prisonniers de Nuremberg (Nürnberg) pendant la Grande Guerre - Histoires de Poilus</title>
+    <meta name="description"  content="Présentation du camp de prisonniers de Nuremberg (Nürnberg) en Allemagne pendant la Première Guerre mondiale (1914-1918)">
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -203,30 +203,39 @@
 
     <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des camps</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Le camp de prisonniers de Nüremberg</h1>
 
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p class="text-justify"></p>
 
-        <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
-        </figure>
+        <figure class="text-center">    
+            <a href="images/Nurnberg/localisation-nurnberg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Nüremberg">
+            <img src="miniatures/Nurnberg/localisation-nurnberg.jpg" class="figure-img img-fluid img-thumbnail" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Nüremberg"></a>
+            <figcaption class="figure-caption">Localisation du camp de Nüremberg<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
+        </figure> 
 
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-
-        <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
-        </figure>
-
-        <p class="text-justify">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
+        <p class="text-justify">Le premier numéro du Canard, le "<em>Journal des Prisonniers de Guerre</em>" du camp de Nürmberg (Nuremberg) paraît le 15 août 1916. Le journal est décrit comme un compagnon qui vivra avec les prisonniers les longues heures de l'exil, dans l'espoir de les faire s'envoler un peu plus rapidement. Des numéros ont été numérisés et sont <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5673638t">disponibles sur le site de la BNF</a>.</p>
 
         <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
+            <a href="images/Nurnberg/le_canard_journal_des_prisonniers.jpg" data-fancybox="gallery" data-caption="Le Canard du 15 août 1916">
+            <img src="miniatures/Nurnberg/le_canard_journal_des_prisonniers.jpg" class="figure-img img-fluid img-thumbnail" alt="Le premier exemplaire du canard, journal des prisonniers du camp de Nüremberg"></a>
+            <figcaption class="figure-caption">Le Canard<br />(Source: Gallica/BNF)</figcaption>
         </figure>
 
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+        <p class="text-justify">En mars 1918, le seul prisonnier belge se trouvant dans le camp de Nüremberg est transféré dans le camp d'Erlangen.</p>
+
+        <figure class="text-center">
+            <a href="images/Nurnberg/nurnberg-01.jpg" data-fancybox="gallery" data-caption="Prisonniers de guerre à l'appel à Nüremberg">
+            <img src="miniatures/Nurnberg/nurnberg-01.jpg" class="figure-img img-fluid img-thumbnail" alt="L'appel des prisonniers de guerre dans le camp de Nüremberg pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">Prisonniers de guerre à l'appel<br />(source allemande)</figcaption>
+        </figure>
+
+        <h2>Sources et bibliographie</h2>
+
+        <ul>   
+            <li><a href="../pdf/FoXIIa1133_qt.pdf">Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</a></li>
+            <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
+            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+        </ul>
 
     </article>
 
