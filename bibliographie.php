@@ -174,6 +174,14 @@
 
         <article class="col-12">
 
+        <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="index.php">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="bibliographie.php">Ressources</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Ressources bibliographiques</li>
+        </ol>
+        </nav>
+
           <h1 class="my-4">Ressources bibliographiques</h1>
 
           <p class="text-justify">Vous trouverez sur cette page la liste de toutes les ressources bibliographiques (livres et revues par exemple) qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php" title="contacter le webmaster">me contacter</a> si vous avez une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p>

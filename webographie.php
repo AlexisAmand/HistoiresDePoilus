@@ -174,6 +174,14 @@
 
         <article class="col-12">
 
+        <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="index.php">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="bibliographie.php">Ressources</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Ressources en ligne</li>
+        </ol>
+        </nav>
+
         <h1 class="my-4">Ressources en ligne</h1>
 
         <p class="text-justify">Vous trouverez sur cette page la liste de toutes les ressources en ligne (sites, blogs ou forums par exemple) qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php" title="contacter le webmaster">me contacter</a> si vous avez une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p class="text-justify">Certains documents sont <strong>des pdf</strong>, selon la configuration de votre ordinateur, ils peuvent mettre un petit moment à s'afficher. Pour les lire, vous devez posséder un logiciel comme <em>Adobe Reader</em>, que vous pouvez <a href="https://get.adobe.com/fr/reader/" title="télécharger gratuitement Adobe Reader">télécharger gratuitement ici</a>.</p>

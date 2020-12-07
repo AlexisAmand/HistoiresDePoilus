@@ -14,7 +14,6 @@ COOKIES :
 
 BIBLIO
     - voir si je peux ajouter le numéro ou une référence des fiches pratiques hachette
-    - d'autres revues sur Grande Guerre que j'ai en version numérique ?
 
 LES CAMPS
     - pour les mises en garde des camps allemands, faire un truc alert bootstrap
