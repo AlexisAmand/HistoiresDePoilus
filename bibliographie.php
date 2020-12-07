@@ -20,7 +20,7 @@
 
     <!-- code pour les cookies -->
 
-    <script type="text/javascript" src="/tarteaucitron/tarteaucitron.js"></script>
+    <script type="text/javascript" src="tarteaucitron/tarteaucitron.js"></script>
 
     <script type="text/javascript">
     tarteaucitron.init({
@@ -219,7 +219,12 @@
               <li>Géo Histoire n°13 : La Première Guerre Mondiale (février 2014 - Mars 2014)</li>
               <li>Géo Histoire Hors-Série n°2 : L'album référence de la Grande Guerre (Octobre 2014 - Novembre 2014)</li>
               <li>Science et Vie Junior Hors-Série n°107 : Première Guerre Mondiale (Août 2014)</li>
+              <li>Science & Vie - Guerres & Histoire n°18 - La Grande Guerre 14-18 (Avril 2014)</li>
               <li>Les collections de l'histoire n°61</li>
+              <li>Le fana de l'Aviation HS n°53 : 1914-1918 La première guerre aérienne</li>
+              <li>La Vie Privée des Hommes : Au temps de la Grande Guerre</li>
+              <li>14-18 Le magazine de la Grande Guerre n°83 : L'Armistice</li>
+              <li>14-18 Le magazine de la Grande Guerre n°86 : Le défilé de la victoire</li>
           </ul>
 
           <h2 class="mt-5">Doctorats et thèses</h2>

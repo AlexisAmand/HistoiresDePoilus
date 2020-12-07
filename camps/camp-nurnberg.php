@@ -207,7 +207,7 @@
 
         <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p class="text-justify"></p>
 
-        <figure class="text-center">    
+        <figure class="text-center">
             <a href="images/Nurnberg/localisation-nurnberg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Nüremberg">
             <img src="miniatures/Nurnberg/localisation-nurnberg.jpg" class="figure-img img-fluid img-thumbnail" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Nüremberg"></a>
             <figcaption class="figure-caption">Localisation du camp de Nüremberg<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
