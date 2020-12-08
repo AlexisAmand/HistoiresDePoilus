@@ -1,255 +1,565 @@
 <!doctype html>
 <html lang="fr">
+<head>
 
-    <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <meta charset="utf-8">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-        <title>Tombes de poilus à Valenciennes - Histoires de Poilus</title>
-        <meta content="Quelques photos de tombes de soldats valenciennois morts pour la France pendant la Première Guerre Mondiale (1914-1918)" name="description">
+    <title>Tombes de poilus à Valenciennes - Histoires de Poilus</title>
+    <meta content="Quelques photos de tombes de soldats valenciennois morts pour la France pendant la Première Guerre Mondiale (1914-1918)" name="description">
 
-        <link rel="stylesheet" href="../css/style.css" media="screen">
-        <link rel="stylesheet" href="../css/resp.css" media="screen">
-        <link rel="stylesheet" href="../css/fontawesome/css/all.min.css" media="screen"> 
+    <link rel="stylesheet" href="../css/style.dev.css" media="all">
+    <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
 
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
-        <link rel="icon" type="image/png" href="../images/favicon.png"/>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
+    <link rel="icon" type="image/png" href="../images/favicon.png"/>
 
-    </head>
+    <!-- Initialisation d'une variable pour masquer/afficher le menu -->
 
-    <body>
-
-    <!-- code js pour l'avertissement sur les cookies -->
-
-    <script src="../js/cookiechoices.js"></script>
     <script>
-    document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
-    'Ok', 'En savoir plus', '../cookies.php');
+    AsideVisible = 1;
+    </script>
+
+    <!-- code pour les cookies -->
+
+    <script type="text/javascript" src="../tarteaucitron/tarteaucitron.js"></script>
+
+    <script type="text/javascript">
+    tarteaucitron.init({
+    "privacyUrl": "", /* Privacy policy url */
+
+    "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
+    "cookieName": "tarteaucitron", /* Cookie name */
+
+    "orientation": "middle", /* Banner position (top - bottom) */
+
+    "showAlertSmall": false, /* Show the small banner on bottom right */
+    "cookieslist": false, /* Show the cookie list */
+
+      "showIcon": true, /* Show cookie icon to manage cookies */
+      "iconPosition": "BottomRight", /* BottomRight, BottomLeft, TopRight and TopLeft */
+
+    "adblocker": false, /* Show a Warning if an adblocker is detected */
+
+      "DenyAllCta" : true, /* Show the deny all button */
+      "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
+      "highPrivacy": true, /* HIGHLY RECOMMANDED Disable auto consent */
+
+    "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
+
+    "removeCredit": false, /* Remove credit link */
+    "moreInfoLink": true, /* Show more info link */
+
+      "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
+      "useExternalJs": false, /* If false, the tarteaucitron.js file will be loaded */
+
+    //"cookieDomain": ".my-multisite-domaine.fr", /* Shared cookie for multisite */
+
+      "readmoreLink": "", /* Change the default readmore link */
+
+      "mandatory": true, /* Show a message about mandatory cookies */
     });
     </script>
 
-     
+</head>
 
-    <header>
+<body>
 
-        <?php include('../include/social.inc'); ?>
+  <!-- menu de navigation -->
 
-        <a href="../index.php" title="Retour sur la page d'accueil du site">
-        <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+  <div class="container-fluid" style="background-color: #364046;">
 
+      <div class="container">
+
+          <div class="row">
+
+              <div class="col-12 text-center">
+
+                  <a href="../index.php">
+                      <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
+                  </a>
+
+              </div>
+
+              <div class="col-12 text-center">
+
+                  <nav class="navbar navbar-expand-lg navbar-light">
+                      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="navbar-toggler-icon"></span>
+                      </button>
+                      <div class="collapse navbar-collapse mx-auto" id="navbarTogglerDemo01">
+                      <ul class="navbar-nav mx-auto">
+                          <li class="nav-item dropdown">
+                              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              Les Poilus
+                              </a>
+                              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                  <a class="dropdown-item" href="../poilus.php">A propos des poilus</a>
+                                  <a class="dropdown-item" href="../poilus/lacourt-onesime.php">Les poilus des Ardennes</a>
+                                  <a class="dropdown-item" href="../poilus/amand-hoche.php">Les poilus des Nord</a>
+                                  <a class="dropdown-item" href="../poilus/arnould-gaston.php">Les poilus de la Marne</a>
+                                  <a class="dropdown-item" href="../poilus/FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>
+                                  <a class="dropdown-item" href="../poilus/amand-jules.php">Les jasses de Belgique</a>
+                              </div>
+                          </li>
+                          <li class="nav-item dropdown">
+                              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              Les Hôpitaux
+                              </a>
+                              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                  <a class="dropdown-item" href="../hopitaux/hopitaux.php">Le système de santé pendant la Grande Guerre</a>
+                                  <a class="dropdown-item" href="../hopitaux/hopitaux-59.php">Les hôpitaux du Nord</a>
+                                  <a class="dropdown-item" href="../hopitaux/hopitaux-62.php">Les hôpitaux du Pas-de-Calais</a>
+                                  <a class="dropdown-item" href="../hopitaux/hopitaux-80.php">Les hôpitaux de la Marne</a>
+                              </div>
+                          </li>
+                          <li class="nav-item">
+                              <a class="nav-link" href="../tombes.php">Les Tombes</a>
+                          </li>
+                          <li class="nav-item dropdown">
+                              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              Les Camps
+                              </a>
+                              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                  <a class="dropdown-item" href="../camps.php">Les camps de prisonniers en Allemagne</a>
+                                  <a class="dropdown-item" href="../camps-nl/camps-internements.php">Les camps d'internement aux Pays-Bas</a>
+                                  <a class="dropdown-item" href="../camps-s/internement-suisse.php">Les camps d'internement en Suisse</a>
+                              </div>
+                          </li>
+                          <li class="nav-item dropdown">
+                              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              Les Batailles
+                              </a>
+                              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                  <a class="dropdown-item" href="../batailles/batailles-est.php">L'Europe de l'Est</a>
+                                  <a class="dropdown-item" href="../batailles/batailles-ouest.php">L'Europe de l'Ouest</a>
+                                  <a class="dropdown-item" href="../batailles/batailles-italie.php">Le Front Italien</a>
+                                  <a class="dropdown-item" href="../batailles/batailles-afrique.php">Le Front Africain</a>
+                                  <a class="dropdown-item" href="../batailles/batailles-orient.php">Le Front du Moyen-Orient</a>
+                                  <a class="dropdown-item" href="../batailles/batailles-balkans.php">Le Front des Balkans</a>
+                              </div>
+                          </li>
+                          <li class="nav-item dropdown">
+                              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              Les Ressources
+                              </a>
+                              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                  <a class="dropdown-item" href="../bibliographie.php">Les ressources bibliographiques</a>
+                                  <a class="dropdown-item" href="../webographie.php">Les ressources en ligne</a>
+                              </div>
+                          </li>
+                          </ul>
+                      </div>
+                  </nav>
+
+              </div>
+
+          </div>
+
+      </div>
+
+  <!-- entête avec l'image -->
+
+    <header class="row">
+        <div class="col-12">
+
+        </div>
     </header>
 
-    <nav>
-        <a href="../contact.php">Contact</a>
-        <a href="../webographie.php">Les Ressources</a>
-        <a href="../lieux.php">Les Batailles</a>
-        <a href="../camps.php">Les Camps</a>
-        <a href="../tombes.php" class="NavSelected">Les Tombes</a>
-        <a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
-        <a href="../poilus.php">Les Poilus</a> 
-    </nav>
+</div>
 
-    <section>
+<!-- contenu de la page -->
 
-    <aside>
+<div class="container">
 
-    <ul>   
-        <li class="asideheader">Nord</li>
-          <li><a href="awoingt.php">Awoingt</a></li>
-          <li><a href="beaufort.php">Beaufort</a></li>
-	      <li><a href="capelle.php">Capelle-sur-Ecaillon</a></li>
-          <li><a href="fontaine-au-bois.php">Fontaine-au-bois</a></li>
-	      <li><a href="grand-fayt.php">Grand-Fayt</a></li>
-	      <li><a href="maroilles.php">Maroilles</a></li>
-          <li><a href="rieulay.php">Rieulay</a></li>
-          <li><a href="saint-saulve.php">Saint-Saulve</a></li>
-          <li><a href="valenciennes.php" class="AsideSelected">Valenciennes</a></li>  
-    </ul>
+    <section class="row">
 
-    <?php include ('../include/pub.inc'); ?>
+    <aside id="aside" style="display:none;">
+
+        <div class="list-group">
+            <?php include('../include/nav-tombes.inc'); ?>
+        </div>
 
     </aside>
 
-    <article>
+    <article style="width:100%;padding-left:15px;padding-right:15px;" id="article" >
 
-    <h1>Tombes de poilus à Valenciennes</h1>
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../tombes.php">Tombes de soldats</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Les tombes de Valenciennes</li>>
+        </ol>
+    </nav>
 
-    <div id="Andre_Bernard"></div>
+    <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des villes</span>
 
-    <h2>André BERNARD</h2>
+    <h1 class="my-4">Tombes de poilus à Valenciennes</h1>
 
-    <p>Sous-Lieutenant au 91e Régiment d'Infanterie, André Georges Louis BERNARD est né à Valenciennes le 27 août 1895. Il est décédé des suites de ses blessures à Moncetz (Marne) le 29 novembre 1916.</p>
+        <div id="Andre_Bernard"></div>
 
-    <figure>
-        <a href="images/andre-bernard-01.jpg" data-fancybox="gallery" data-caption="Tombe d'André BERNARD, mort pour la France le 29 novembre 1916">
-        <img src="images/mini/andre-bernard-01.jpg" alt="Tombe du sous lieutenant André BERNARD, un poilu mort pour la France le 29 novembre 1916"/></a>
-        <figcaption>Tombe d'André BERNARD<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
+        <h2>André BERNARD</h2>
 
-    <figure>
-        <a href="images/andre-bernard-02.jpg" data-fancybox="gallery" data-caption="Tombe d'André BERNARD, mort pour la France le 29 novembre 1916">
-        <img src="images/mini/andre-bernard-02.jpg" alt="Tombe du sous lieutenant André BERNARD, un poilu mort pour la France le 29 novembre 1916"/></a>
-        <figcaption>Tombe d'André BERNARD<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
+        <p class="text-justify">Sous-Lieutenant au 91e Régiment d'Infanterie, André Georges Louis BERNARD est né à Valenciennes le 27 août 1895. Il est décédé des suites de ses blessures à Moncetz (Marne) le 29 novembre 1916.</p>
 
-    <div id="Lucien_Boddaert"></div>
+        <figure class="text-center">
+            <a href="images/andre-bernard-01.jpg" data-fancybox="gallery" data-caption="Tombe d'André BERNARD, mort pour la France le 29 novembre 1916">
+            <img src="images/mini/andre-bernard-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe du sous lieutenant André BERNARD, un poilu mort pour la France le 29 novembre 1916"/></a>
+            <figcaption class="figure-caption">Tombe d'André BERNARD<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
 
-    <h2>Lucien BODDAERT</h2>
+        <figure class="text-center">
+            <a href="images/andre-bernard-02.jpg" data-fancybox="gallery" data-caption="Tombe d'André BERNARD, mort pour la France le 29 novembre 1916">
+            <img src="images/mini/andre-bernard-02.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe du sous lieutenant André BERNARD, un poilu mort pour la France le 29 novembre 1916"/></a>
+            <figcaption class="figure-caption">Tombe d'André BERNARD<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
 
-    <p>Lucien René Désiré BODDAERT est né à Saint-Omer (Pas-de-Calais) le 22 octobre 1890. Pendant la Grande Guerre, il rejoint le Bataillon de fusiliers Marins en tant que second maître fusiliers. Il est décédé des suites de ses blessures de guerre le 30 mars 1917 à l'ambulance "Océan", un hôpital de campagne belge installé à La Panne (Belgique). Il repose au cimetière Saint-Roch de Valenciennes.</p>
+        <div id="Lucien_Boddaert"></div>
 
-    <figure>
-        <a href="images/lucien-boddaert-01.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien BODDAERT, mort pour la France en 1917">
-        <img src="images/mini/lucien-boddaert-01.jpg" alt="Tombe de Lucien BODDAERT, un poilu mort pour la France en 1917"/></a>
-        <figcaption>Tombe de Lucien BODDAERT<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
+        <h2>Lucien BODDAERT</h2>
 
-    <figure>
-        <a href="images/lucien-boddaert-02.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien BODDAERT, mort pour la France en 1917">
-        <img src="images/mini/lucien-boddaert-02.jpg" alt="Tombe de Lucien BODDAERT, un poilu mort pour la France en 1917"/></a>
-        <figcaption>Tombe de Lucien BODDAERT<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
+        <p class="text-justify">Lucien René Désiré BODDAERT est né à Saint-Omer (Pas-de-Calais) le 22 octobre 1890. Pendant la Grande Guerre, il rejoint le Bataillon de fusiliers Marins en tant que second maître fusiliers. Il est décédé des suites de ses blessures de guerre le 30 mars 1917 à l'ambulance "Océan", un hôpital de campagne belge installé à La Panne (Belgique). Il repose au cimetière Saint-Roch de Valenciennes.</p>
 
-    <div id="Gouvion"></div>
+        <figure class="text-center">
+            <a href="images/lucien-boddaert-01.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien BODDAERT, mort pour la France en 1917">
+            <img src="images/mini/lucien-boddaert-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de Lucien BODDAERT, un poilu mort pour la France en 1917"/></a>
+            <figcaption class="figure-caption">Tombe de Lucien BODDAERT<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
 
-    <h2>René et Maurice GOUVION</h2>
+        <figure class="text-center">
+            <a href="images/lucien-boddaert-02.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien BODDAERT, mort pour la France en 1917">
+            <img src="images/mini/lucien-boddaert-02.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de Lucien BODDAERT, un poilu mort pour la France en 1917"/></a>
+            <figcaption class="figure-caption">Tombe de Lucien BODDAERT<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
 
-    <p>2e Classe au 3e Régiment de Zouaves, René Jean Désiré GOUVION est né à Saint-Saulve (Nord) le 16 avril 1894. Il est décédé à la Côte du Poivre (à côté de Verdun de la Meuse) le 25 février 1916. Maurice Alfred, son frére ainé, est soldat au sein du 127e Régiment d'Infanterie. Il est né à Saint-Saulve le 4 avril 1892 et disparu au combat à Menil-les-Hurlus (Marne) le 19 février 1915. René et Maurice figurent sur le monument aux morts de la ville de Saint-Saulve.</p>
+        <div id="Gouvion"></div>
 
-    <figure>
-        <a href="images/gouvion-02.jpg" data-fancybox="gallery" data-caption="Tombe de René et Maurice GOUVION, morts pour la France pendant la Grande Guerre">
-        <img src="images/mini/gouvion-02.jpg" alt="Tombe de René et Maurice GOUVION, deux poilus morts pour la France pendant la Grande Guerre"/></a>
-        <figcaption>Tombe de René et Maurice GOUVION<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
+        <h2>René et Maurice GOUVION</h2>
 
-    <figure>
-        <a href="images/gouvion-01.jpg" data-fancybox="gallery" data-caption="Tombe de René et Maurice GOUVION, morts pour la France pendant la Grande Guerre">
-        <img src="images/mini/gouvion-01.jpg" alt="Tombe de René et Maurice GOUVION, deux poilus morts pour la France pendant la Grande Guerre"/></a>
-        <figcaption>Tombe de René et Maurice GOUVION<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
-    
-    <figure>
-        <a href="images/gouvion-maurice.jpg" data-fancybox="gallery" data-caption="Maurice GOUVION, mort pour la France pendant la Grande Guerre">
-        <img src="images/mini/gouvion-maurice.jpg" alt="Tombe de Maurice GOUVION, deux poilus mort pour la France pendant la Grande Guerre"/></a>
-        <figcaption>Tombe de Maurice GOUVION<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
+        <p class="text-justify">2e Classe au 3e Régiment de Zouaves, René Jean Désiré GOUVION est né à Saint-Saulve (Nord) le 16 avril 1894. Il est décédé à la Côte du Poivre (à côté de Verdun de la Meuse) le 25 février 1916. Maurice Alfred, son frére ainé, est soldat au sein du 127e Régiment d'Infanterie. Il est né à Saint-Saulve le 4 avril 1892 et disparu au combat à Menil-les-Hurlus (Marne) le 19 février 1915. René et Maurice figurent sur le monument aux morts de la ville de Saint-Saulve.</p>
 
-    <figure>
-        <a href="images/gouvion-rene.jpg" data-fancybox="gallery" data-caption="René GOUVION, mort pour la France pendant la Grande Guerre">
-        <img src="images/mini/gouvion-rene.jpg" alt="Tombe de René GOUVION, deux poilus mort pour la France pendant la Grande Guerre"/></a>
-        <figcaption>Tombe de René GOUVION<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
-    
-    <div id="daniel-lamendin"></div>
+        <figure class="text-center">
+            <a href="images/gouvion-02.jpg" data-fancybox="gallery" data-caption="Tombe de René et Maurice GOUVION, morts pour la France pendant la Grande Guerre">
+            <img src="images/mini/gouvion-02.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de René et Maurice GOUVION, deux poilus morts pour la France pendant la Grande Guerre"/></a>
+            <figcaption class="figure-caption">Tombe de René et Maurice GOUVION<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
 
-	<h2>Daniel LAMENDIN</h2>
+        <figure class="text-center">
+            <a href="images/gouvion-01.jpg" data-fancybox="gallery" data-caption="Tombe de René et Maurice GOUVION, morts pour la France pendant la Grande Guerre">
+            <img src="images/mini/gouvion-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de René et Maurice GOUVION, deux poilus morts pour la France pendant la Grande Guerre"/></a>
+            <figcaption class="figure-caption">Tombe de René et Maurice GOUVION<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
 
-	<p>Daniel LAMENDIN est né à Jeumont le 23 septembre 1888. Membre du 91e R.I, il est mort pour la France le 7 septembre 1914 dans la Marne (Thieblemont ou Blesme selon les docs). Il repose au cimetière Saint-Roch de Valenciennes.</p>
+        <figure class="text-center">
+            <a href="images/gouvion-maurice.jpg" data-fancybox="gallery" data-caption="Maurice GOUVION, mort pour la France pendant la Grande Guerre">
+            <img src="images/mini/gouvion-maurice.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de Maurice GOUVION, deux poilus mort pour la France pendant la Grande Guerre"/></a>
+            <figcaption class="figure-caption">Tombe de Maurice GOUVION<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
 
- 	<figure>
-        <a href="images/daniel-lamendin-01.jpg" data-fancybox="gallery" data-caption="Tombe de Daniel LAMENDIN">
-        <img src="images/mini/daniel-lamendin-01.jpg" alt="Tombe de Daniel LAMENDIN au cimetière Saint-Roch de Valenciennes"/></a>
-        <figcaption>Tombe de Daniel LAMENDIN<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
-    
-     <figure>
-        <a href="images/daniel-lamendin-02.jpg" data-fancybox="gallery" data-caption="Tombe de Daniel LAMENDIN">
-        <img src="images/mini/daniel-lamendin-02.jpg" alt="Tombe de Daniel LAMENDIN au cimetière Saint-Roch de Valenciennes"/></a>
-        <figcaption>Tombe de Daniel LAMENDIN<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
-	
-    <div id="Lucien-Masclet"></div>
+        <figure class="text-center">
+            <a href="images/gouvion-rene.jpg" data-fancybox="gallery" data-caption="René GOUVION, mort pour la France pendant la Grande Guerre">
+            <img src="images/mini/gouvion-rene.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de René GOUVION, deux poilus mort pour la France pendant la Grande Guerre"/></a>
+            <figcaption class="figure-caption">Tombe de René GOUVION<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
 
-    <h2>Lucien MASCLET</h2>
+        <div id="daniel-lamendin"></div>
 
-    <p>Lucien MASCLET est né à Valenciennes le 19 mars 1893. A la mobilisation, il est caporal au sein du 127e Régiment d'Infanterie. Il est tué à l'ennemi le 12 novemvre 1914 à Soupir (Aisne).</p>
+        <h2>Daniel LAMENDIN</h2>
 
-    <figure>
-        <a href="images/lucien-masclet-02.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien MASCLET, mort pour la France pendant la Grande Guerre">
-        <img src="images/mini/lucien-masclet-02.jpg" alt="Tombe de Lucien MASCLET, poilu mort pour la France pendant la Grande Guerre"/></a>
-        <figcaption>Tombe de Lucien MASCLET<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
+        <p class="text-justify">Daniel LAMENDIN est né à Jeumont le 23 septembre 1888. Membre du 91e R.I, il est mort pour la France le 7 septembre 1914 dans la Marne (Thieblemont ou Blesme selon les docs). Il repose au cimetière Saint-Roch de Valenciennes.</p>
 
-    <figure>
-        <a href="images/lucien-masclet-01.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien MASCLET, mort pour la France pendant la Grande Guerre">
-        <img src="images/mini/lucien-masclet-01.jpg" alt="Tombe de Lucien MASCLET, poilu mort pour la France pendant la Grande Guerre"/></a>
-        <figcaption>Tombe de Lucien MASCLET<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
-    
-    <div id="Rene-Mirland"></div>
+        <figure class="text-center">
+            <a href="images/daniel-lamendin-01.jpg" data-fancybox="gallery" data-caption="Tombe de Daniel LAMENDIN">
+            <img src="images/mini/daniel-lamendin-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de Daniel LAMENDIN au cimetière Saint-Roch de Valenciennes"/></a>
+            <figcaption class="figure-caption">Tombe de Daniel LAMENDIN<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
 
-    <h2>René MIRLAND</h2>
+        <figure class="text-center">
+            <a href="images/daniel-lamendin-02.jpg" data-fancybox="gallery" data-caption="Tombe de Daniel LAMENDIN">
+            <img src="images/mini/daniel-lamendin-02.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de Daniel LAMENDIN au cimetière Saint-Roch de Valenciennes"/></a>
+            <figcaption class="figure-caption">Tombe de Daniel LAMENDIN<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
 
-    <p>Sous-lieutenant au 151 Régiment d'Infanterie, René Felix Henri MIRLAND est né à Bailleul (Nord) le 30 mai 1884. Il est décédé de ses blessures au lazaret de Grandpré (Ardennes) le 6 juillet 1915. Sa fiche de "Mort pour la France" indique qu'il y est inhumé.</p>
+        <div id="Lucien-Masclet"></div>
 
-    <figure>
-        <a href="images/rene-mirland-01.jpg" data-fancybox="gallery" data-caption="Tombe de René MIRLAND, mort pour la France en 1915">
-        <img src="images/mini/rene-mirland-01.jpg" alt="Tombe de René MIRLAND, un poilu mort pour la France en 1915"/></a>
-        <figcaption>Tombe de René MIRLAND<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
+        <h2>Lucien MASCLET</h2>
 
-    <figure>
-        <a href="images/rene-mirland-02.jpg" data-fancybox="gallery" data-caption="Tombe de René MIRLAND, mort pour la France en 1915">
-        <img src="images/mini/rene-mirland-02.jpg" alt="Tombe de René MIRLAND, un poilu mort pour la France en 1915"/></a>
-        <figcaption>Tombe de René MIRLAND<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
+        <p class="text-justify">Lucien MASCLET est né à Valenciennes le 19 mars 1893. A la mobilisation, il est caporal au sein du 127e Régiment d'Infanterie. Il est tué à l'ennemi le 12 novemvre 1914 à Soupir (Aisne).</p>
 
-    <div id="Georges-Nollin"></div>
-    
-	<h2>Georges NOLLIN</h2>
+        <figure class="text-center">
+            <a href="images/lucien-masclet-02.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien MASCLET, mort pour la France pendant la Grande Guerre">
+            <img src="images/mini/lucien-masclet-02.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de Lucien MASCLET, poilu mort pour la France pendant la Grande Guerre"/></a>
+            <figcaption class="figure-caption">Tombe de Lucien MASCLET<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
 
-    <p>Caporal au sein du 9e Bataillon de Chasseurs à Pied, Georges Henri NOLLIN est né à Valenciennes le 29 octobre 1884. Il est tué à l'ennemi le 9 septembre 1916 à Berny-en-Santerre (Somme).</p>
+        <figure class="text-center">
+            <a href="images/lucien-masclet-01.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien MASCLET, mort pour la France pendant la Grande Guerre">
+            <img src="images/mini/lucien-masclet-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de Lucien MASCLET, poilu mort pour la France pendant la Grande Guerre"/></a>
+            <figcaption class="figure-caption">Tombe de Lucien MASCLET<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
 
-    <figure>
-        <a href="images/georges-nollin-01.jpg" data-fancybox="gallery" data-caption="Tombe de Georges NOLLIN, mort pour la France pendant la Grande Guerre">
-        <img src="images/mini/georges-nollin-01.jpg" alt="Tombe de Georges NOLLIN, poilu mort pour la France pendant la Grande Guerre"/></a>
-        <figcaption>Tombe de Georges NOLLIN<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
+        <div id="Rene-Mirland"></div>
 
-    <div id="Etienne-Postille"></div>
+        <h2>René MIRLAND</h2>
 
-    <h2>Etienne POSTILLE</h2>
+        <p class="text-justify">Sous-lieutenant au 151 Régiment d'Infanterie, René Felix Henri MIRLAND est né à Bailleul (Nord) le 30 mai 1884. Il est décédé de ses blessures au lazaret de Grandpré (Ardennes) le 6 juillet 1915. Sa fiche de "Mort pour la France" indique qu'il y est inhumé.</p>
 
-    <p>Né le 6 décembre 1888 à Valenciennes, Etienne POSTILLE rejoint, à la mobilisation, le 127e Régiment d'Infanterie en tant que soldat de 2e classe. Il est tué à l'ennemi à Le Port Fontenoy (Aisne) le 31 mai 1918.</p>
+        <figure class="text-center">
+            <a href="images/rene-mirland-01.jpg" data-fancybox="gallery" data-caption="Tombe de René MIRLAND, mort pour la France en 1915">
+            <img src="images/mini/rene-mirland-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de René MIRLAND, un poilu mort pour la France en 1915"/></a>
+            <figcaption class="figure-caption">Tombe de René MIRLAND<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
 
-    <figure>
-        <a href="images/etienne-postille.jpg" data-fancybox="gallery" data-caption="Tombe d'Etienne POSTILLE, mort pour la France le 31 mai 1918">
-        <img src="images/mini/etienne-postille.jpg" alt="Tombe d'Etienne POSTILLE, un poilu mort pour la France le 31 mai 1918"/></a>
-        <figcaption>Tombe d'Etienne POSTILLE<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
+        <figure class="text-center">
+            <a href="images/rene-mirland-02.jpg" data-fancybox="gallery" data-caption="Tombe de René MIRLAND, mort pour la France en 1915">
+            <img src="images/mini/rene-mirland-02.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de René MIRLAND, un poilu mort pour la France en 1915"/></a>
+            <figcaption class="figure-caption">Tombe de René MIRLAND<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
 
-    <h2>Tombes non indentifiées pour le moment</h2>
+        <div id="Georges-Nollin"></div>
 
-    <div id="inconnu-01"></div>
+        <h2>Georges NOLLIN</h2>
 
-    <figure>
-        <a href="images/inconnu-01.jpg" data-fancybox="gallery" data-caption="Tombe d'un soldat mort pour la France">
-        <img src="images/mini/inconnu-01.jpg" alt="Tombe d'un soldat mort pour la France située à Valenciennes"/></a>
-        <figcaption>Tombe non identifiée n°1<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
+        <p class="text-justify">Caporal au sein du 9e Bataillon de Chasseurs à Pied, Georges Henri NOLLIN est né à Valenciennes le 29 octobre 1884. Il est tué à l'ennemi le 9 septembre 1916 à Berny-en-Santerre (Somme).</p>
 
-    <figure>
-        <a href="images/inconnu-02.jpg" data-fancybox="gallery" data-caption="Tombe d'un soldat mort pour la France">
-        <img src="images/mini/inconnu-02.jpg" alt="Tombe d'un soldat mort pour la France située à Valenciennes"/></a>
-        <figcaption>Tombe non identifiée n°1<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-    </figure>
+        <figure class="text-center">
+            <a href="images/georges-nollin-01.jpg" data-fancybox="gallery" data-caption="Tombe de Georges NOLLIN, mort pour la France pendant la Grande Guerre">
+            <img src="images/mini/georges-nollin-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de Georges NOLLIN, poilu mort pour la France pendant la Grande Guerre"/></a>
+            <figcaption class="figure-caption">Tombe de Georges NOLLIN<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
 
-     
+        <div id="Etienne-Postille"></div>
+
+        <h2>Etienne POSTILLE</h2>
+
+        <p class="text-justify">Né le 6 décembre 1888 à Valenciennes, Etienne POSTILLE rejoint, à la mobilisation, le 127e Régiment d'Infanterie en tant que soldat de 2e classe. Il est tué à l'ennemi à Le Port Fontenoy (Aisne) le 31 mai 1918.</p>
+
+        <figure class="text-center">
+            <a href="images/etienne-postille.jpg" data-fancybox="gallery" data-caption="Tombe d'Etienne POSTILLE, mort pour la France le 31 mai 1918">
+            <img src="images/mini/etienne-postille.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe d'Etienne POSTILLE, un poilu mort pour la France le 31 mai 1918"/></a>
+            <figcaption class="figure-caption">Tombe d'Etienne POSTILLE<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
+
+        <h2>Tombes non indentifiées pour le moment</h2>
+
+        <div id="inconnu-01"></div>
+
+        <figure class="text-center">
+            <a href="images/inconnu-01.jpg" data-fancybox="gallery" data-caption="Tombe d'un soldat mort pour la France">
+            <img src="images/mini/inconnu-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe d'un soldat mort pour la France située à Valenciennes"/></a>
+            <figcaption class="figure-caption">Tombe non identifiée n°1<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/inconnu-02.jpg" data-fancybox="gallery" data-caption="Tombe d'un soldat mort pour la France">
+            <img src="images/mini/inconnu-02.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe d'un soldat mort pour la France située à Valenciennes"/></a>
+            <figcaption class="figure-caption">Tombe non identifiée n°1<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
 
     </article>
 
-</section>
+    </section>
 
-<footer><?php include('../include/footer.inc'); ?></footer>
+</div>
 
-<?php include('../include/stats.inc'); ?> 
+<!-- pied de page -->
 
-<!-- javascript -->
+<div class="container-fluid" style="background-color: #364046;">
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
-<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
-<script type="text/javascript" src="../js/script.js"></script>
+    <div class="container">
+
+    <footer class="row mt-4">
+        <?php include('../include/footer.inc'); ?>
+    </footer>
+
+    </div>
+
+</div>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+<!-- Affiche/Masque le aside -->
+
+<script>
+function fonctiontest() {
+  if (AsideVisible == 1)
+    {
+    /*
+    document.getElementById("aside").style.visibility = "visible";
+    */
+    document.getElementById("aside").style.display="block";
+    document.getElementById("aside").style.width="20%";
+    document.getElementById("article").style.width="80%";
+    document.getElementById("asidebouton").innerHTML = "<i class='fas fa-bars'></i>&nbsp;Masquer la liste des villes";
+
+    AsideVisible = 0;
+    }
+  else
+    {
+    /*
+    document.getElementById("aside").style.visibility = "hidden";
+    */
+    document.getElementById("aside").style.display="none";
+    document.getElementById("aside").style.width="00%";
+    document.getElementById("article").style.width="100%";
+    document.getElementById("asidebouton").innerHTML = "<i class='fas fa-bars'></i>&nbsp;Afficher la liste des villes";
+
+    AsideVisible = 1;
+    }
+}
+
+</script>
+
+<!-- Traitement du formulaire de contact -->
+
+<?php
+
+if (isset($_POST['nom']) and isset($_POST['courriel']) and isset($_POST['message']))
+    {
+    echo "plop !<br />";
+    ?>
+
+    <script type="text/javascript">
+    $( document ).ready(function() {
+        $('#myModal').modal('toggle');
+    });
+    </script>
+
+    <?php
+    $to  = 'alexis.amand@gmail.com, '.$_POST['courriel'];
+
+    // Sujet
+    $subject = 'Message de Histoires de Poilus';
+
+    // message
+    $message = "Nom : ".$_POST['nom']."<br />"
+                ."Sujet : ".$_POST['sujet']."<br />"
+                ."E-mail : ".$_POST['courriel']."<br />"
+                ."Message : "."<br />".$_POST['message']."<br />";
+
+                // Pour envoyer un mail HTML, l'en-tête Content-type doit être défini
+                $headers = 'MIME-Version: 1.0'."\n";
+                $headers .= 'Content-type: text/html; charset=utf-8'."\n";
+                $headers .='From: "Message de Histoires de Poilus"<'.$_POST['courriel'].'>'."\n";
+
+                $envoyer = mail($to, $subject, $message, $headers);
+
+                if (!$envoyer)
+                    {
+                    echo '<p class="alert alert-warning" role="alert">erreur !</p>';
+                    $errorMessage = error_get_last()['message'];
+                    echo $errorMessage;
+                    }
+                else
+                    {
+
+                    ?>
+
+                    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Me contacter</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                        <div class="modal-body">
+                            <div class="alert alert-success">message envoyé !</div>
+                        </div>
+                        <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">Fermer</button>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+
+                    <?php
+
+                    }
+    }
+
+    ?>
+
+<!-- Affiche la modale de contact -->
+
+<form method="POST">
+
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Me contacter</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+
+        <div class="row align-items-center">
+            <div class="col-6">
+
+                <div class="form-group">
+                    <label>Nom (*)</label>
+                    <input type="text" name="nom" class="form-control" required>
+                </div>
+
+                <div class="form-group">
+                    <label>Courriel (*)</label>
+                    <input type="text" name="courriel" class="form-control" required>
+                </div>
+
+                <div class="form-group">
+                    <label>Message (*)</label>
+                    <textarea name="message" class="form-control" rows="5" required></textarea>
+                </div>
+
+                <p>(*) Tous les champs doivent être complétés</p>
+
+            </div>
+            <div class="col-6">
+                <div class="row text-center">
+                    <div class="col-12 my-3">
+                        <h6><i class="fas fa-map-marker-alt"></i>&nbsp;Adresse</h6>
+                        <p>Valenciennes<br />
+                        Nord, France</p>
+                    </div>
+                    <div class="col-12 my-3">
+                        <h6><i class="far fa-address-card"></i>&nbsp;Me contacter</h6>
+                        <p>00.12.34.56.78<br />
+                        contact@supermail.com<br />
+                        Ou <a href="#" target="_blank">via Skype</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Fermer</button>
+        <button class="btn btn-primary" type="submit" name="formcontact">Envoyer</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</form>
+
+<!-- code pour Matomo modifié pour prendre en compte Tarteaucitron.js -->
+
+<script type="text/javascript">
+  tarteaucitron.user.matomoId = 4;
+  tarteaucitron.user.matomoHost = '//www.genealexis.fr/piwik/';
+  (tarteaucitron.job = tarteaucitron.job || []).push('matomohightrack');
+</script>
 
 </body>
 </html>

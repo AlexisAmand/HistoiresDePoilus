@@ -1,102 +1,223 @@
 <!doctype html>
 <html lang="fr">
+<head>
 
-    <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <meta charset="utf-8">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-        <title>Les morts pour la France de Capelle-sur-Ecaillon - Histoires de Poilus</title>
-        <meta content="Les soldats et les civils de Capelle-sur-Ecaillon morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or" name="description">
+    <title>Les morts pour la France de Capelle-sur-Ecaillon - Histoires de Poilus</title>
+    <meta content="Les soldats et les civils de Capelle-sur-Ecaillon morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or" name="description">
 
-        <link rel="stylesheet" href="../css/style.css" media="screen">
-        <link rel="stylesheet" href="../css/resp.css" media="screen">
-        <link rel="stylesheet" href="../css/fontawesome/css/all.min.css" media="screen">
+    <link rel="stylesheet" href="../css/style.dev.css" media="all">
+    <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
 
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
-        <link rel="icon" type="image/png" href="../images/favicon.png"/>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
+    <link rel="icon" type="image/png" href="../images/favicon.png"/>
 
-    </head>
+    <!-- Initialisation d'une variable pour masquer/afficher le menu -->
 
-    <body>
-
-    <!-- code js pour l'avertissement sur les cookies -->
-
-    <script src="../js/cookiechoices.js"></script>
     <script>
-    document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('En naviguant sur le site, vous acceptez l'utilisation de cookies pour vous proposer une navigation optimale et me permettre de réaliser des statistiques de visites.',
-    'Ok', 'En savoir plus', '../cookies.php');
+    AsideVisible = 1;
+    </script>
+
+    <!-- code pour les cookies -->
+
+    <script type="text/javascript" src="../tarteaucitron/tarteaucitron.js"></script>
+
+    <script type="text/javascript">
+    tarteaucitron.init({
+    "privacyUrl": "", /* Privacy policy url */
+
+    "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
+    "cookieName": "tarteaucitron", /* Cookie name */
+
+    "orientation": "middle", /* Banner position (top - bottom) */
+
+    "showAlertSmall": false, /* Show the small banner on bottom right */
+    "cookieslist": false, /* Show the cookie list */
+
+      "showIcon": true, /* Show cookie icon to manage cookies */
+      "iconPosition": "BottomRight", /* BottomRight, BottomLeft, TopRight and TopLeft */
+
+    "adblocker": false, /* Show a Warning if an adblocker is detected */
+
+      "DenyAllCta" : true, /* Show the deny all button */
+      "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
+      "highPrivacy": true, /* HIGHLY RECOMMANDED Disable auto consent */
+
+    "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
+
+    "removeCredit": false, /* Remove credit link */
+    "moreInfoLink": true, /* Show more info link */
+
+      "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
+      "useExternalJs": false, /* If false, the tarteaucitron.js file will be loaded */
+
+    //"cookieDomain": ".my-multisite-domaine.fr", /* Shared cookie for multisite */
+
+      "readmoreLink": "", /* Change the default readmore link */
+
+      "mandatory": true, /* Show a message about mandatory cookies */
     });
     </script>
 
-     
+</head>
 
-    <header>
+<body>
 
-    <?php include('../include/social.inc'); ?>
+  <!-- menu de navigation -->
 
-    <a href="../index.php" title="Retour sur la page d'accueil du site">
-    <img src="../images/logo.png" class="logo" alt="Logo du site Histoires de Poilus"/></a>
+  <div class="container-fluid" style="background-color: #364046;">
 
+      <div class="container">
+
+          <div class="row">
+
+              <div class="col-12 text-center">
+
+                  <a href="../index.php">
+                      <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
+                  </a>
+
+              </div>
+
+              <div class="col-12 text-center">
+
+                  <nav class="navbar navbar-expand-lg navbar-light">
+                      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="navbar-toggler-icon"></span>
+                      </button>
+                      <div class="collapse navbar-collapse mx-auto" id="navbarTogglerDemo01">
+                      <ul class="navbar-nav mx-auto">
+                          <li class="nav-item dropdown">
+                              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              Les Poilus
+                              </a>
+                              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                  <a class="dropdown-item" href="../poilus.php">A propos des poilus</a>
+                                  <a class="dropdown-item" href="../poilus/lacourt-onesime.php">Les poilus des Ardennes</a>
+                                  <a class="dropdown-item" href="../poilus/amand-hoche.php">Les poilus des Nord</a>
+                                  <a class="dropdown-item" href="../poilus/arnould-gaston.php">Les poilus de la Marne</a>
+                                  <a class="dropdown-item" href="../poilus/FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>
+                                  <a class="dropdown-item" href="../poilus/amand-jules.php">Les jasses de Belgique</a>
+                              </div>
+                          </li>
+                          <li class="nav-item dropdown">
+                              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              Les Hôpitaux
+                              </a>
+                              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                  <a class="dropdown-item" href="../hopitaux/hopitaux.php">Le système de santé pendant la Grande Guerre</a>
+                                  <a class="dropdown-item" href="../hopitaux/hopitaux-59.php">Les hôpitaux du Nord</a>
+                                  <a class="dropdown-item" href="../hopitaux/hopitaux-62.php">Les hôpitaux du Pas-de-Calais</a>
+                                  <a class="dropdown-item" href="../hopitaux/hopitaux-80.php">Les hôpitaux de la Marne</a>
+                              </div>
+                          </li>
+                          <li class="nav-item">
+                              <a class="nav-link" href="../tombes.php">Les Tombes</a>
+                          </li>
+                          <li class="nav-item dropdown">
+                              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              Les Camps
+                              </a>
+                              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                  <a class="dropdown-item" href="../camps.php">Les camps de prisonniers en Allemagne</a>
+                                  <a class="dropdown-item" href="../camps-nl/camps-internements.php">Les camps d'internement aux Pays-Bas</a>
+                                  <a class="dropdown-item" href="../camps-s/internement-suisse.php">Les camps d'internement en Suisse</a>
+                              </div>
+                          </li>
+                          <li class="nav-item dropdown">
+                              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              Les Batailles
+                              </a>
+                              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                  <a class="dropdown-item" href="../batailles/batailles-est.php">L'Europe de l'Est</a>
+                                  <a class="dropdown-item" href="../batailles/batailles-ouest.php">L'Europe de l'Ouest</a>
+                                  <a class="dropdown-item" href="../batailles/batailles-italie.php">Le Front Italien</a>
+                                  <a class="dropdown-item" href="../batailles/batailles-afrique.php">Le Front Africain</a>
+                                  <a class="dropdown-item" href="../batailles/batailles-orient.php">Le Front du Moyen-Orient</a>
+                                  <a class="dropdown-item" href="../batailles/batailles-balkans.php">Le Front des Balkans</a>
+                              </div>
+                          </li>
+                          <li class="nav-item dropdown">
+                              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              Les Ressources
+                              </a>
+                              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                  <a class="dropdown-item" href="../bibliographie.php">Les ressources bibliographiques</a>
+                                  <a class="dropdown-item" href="../webographie.php">Les ressources en ligne</a>
+                              </div>
+                          </li>
+                          </ul>
+                      </div>
+                  </nav>
+
+              </div>
+
+          </div>
+
+      </div>
+
+  <!-- entête avec l'image -->
+
+    <header class="row">
+        <div class="col-12">
+
+        </div>
     </header>
 
-    <nav>
+</div>
 
-    <a href="../contact.php">Contact</a>
-    <a href="../webographie.php">Les Ressources</a>
-    <a href="../lieux.php">Les Batailles</a>
-    <a href="../camps.php">Les Camps</a>
-    <a href="../tombes.php" class="NavSelected">Les Tombes</a>
-    <a href="../hopitaux/hopitaux.php">Les Hôpitaux</a>
-    <a href="../poilus.php">Les Poilus</a> 
+<!-- contenu de la page -->
 
-    </nav>
+<div class="container">
 
-    <section>
+    <section class="row">
 
-    <aside>
+    <aside id="aside" style="display:none;">
 
-    <ul>   
-    <li class="asideheader">Nord</li>
-      <li><a href="awoingt.php">Awoingt</a></li>
-      <li><a href="beaufort.php">Beaufort</a></li>
-      <li><a href="capelle.php" class="AsideSelected">Capelle-sur-Ecaillon</a></li>
-      <li><a href="fontaine-au-bois.php">Fontaine-au-bois</a></li>
-      <li><a href="grand-fayt.php">Grand-Fayt</a></li>
-      <li><a href="maroilles.php">Maroilles</a></li>
-      <li><a href="rieulay.php">Rieulay</a></li>
-      <li><a href="saint-saulve.php">Saint-Saulve</a></li>
-      <li><a href="valenciennes.php">Valenciennes</a></li>  
- 	</ul>
-
-    <?php include ('../include/pub.inc'); ?>
+        <div class="list-group">
+            <?php include('../include/nav-tombes.inc'); ?>
+        </div>
 
     </aside>
 
-        <article>
+    <article style="width:100%;padding-left:15px;padding-right:15px;" id="article" >
 
-        <h1>Les morts pour la France à Capelle-sur-Ecaillon</h1>
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="#">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="#">Rubrique</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+        </ol>
+    </nav>
 
-        <p></p>
+    <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des villes</span>
 
-        <p>Voici la liste des morts pour la France et des victimes civiles de Capelle-sur-Ecaillon (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php">laissant un petit message.</a></p>
+    <h1 class="my-4">Les morts pour la France à Capelle-sur-Ecaillon</h1>
 
-        <figure>
+        <p  class="text-justify">Voici la liste des morts pour la France et des victimes civiles de Capelle-sur-Ecaillon (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="../contact.php">laissant un petit message.</a></p>
+
+        <figure class="text-center">
             <a href="images/capelle-sur-ecaillon.jpg" data-fancybox="gallery" data-caption="Le monument de Capelle-sur-Ecaillon">
             <img src="images/mini/capelle-sur-ecaillon.jpg" alt="Le monument aux morts pour la France de Capelle-sur-Ecaillon"/></a>
-            <figcaption>Le monument de Capelle-sur-Ecaillon<br />(Source: Photo privée)</figcaption>
+            <figcaption class="figure-caption">Le monument de Capelle-sur-Ecaillon<br />(Source: Photo privée)</figcaption>
         </figure>
 
         <div id="Leon-Basuyau"></div>
 
         <h2>Léon Paul BASUYAU</h2>
 
-        <p>Soldat au 127e Régiment d'Infanterie, Léon Paul BASUYAU est né à Capelle-sur-Ecaillon (Nord) le 20 avril 1889. Il est tué à l'ennemi à Menil-les-Hurlus (Marne) le 19 février 1915. Son nom figure sur le monument aux morts et dans le livre d'or de la commune.</p>
+        <p  class="text-justify">Soldat au 127e Régiment d'Infanterie, Léon Paul BASUYAU est né à Capelle-sur-Ecaillon (Nord) le 20 avril 1889. Il est tué à l'ennemi à Menil-les-Hurlus (Marne) le 19 février 1915. Son nom figure sur le monument aux morts et dans le livre d'or de la commune.</p>
 
-        <figure>
+        <figure class="text-center">
             <a href="images/Carnet_de_guerre_Albert_Labbé_plan_article.png" data-fancybox="gallery" data-caption="Plan de l'avancée de l'armée française dans la région de Perthes-les-Hurlus (1915)">
             <img src="images/mini/Carnet_de_guerre_Albert_Labbé_plan_article.png" alt="Plan de l'avancée de l'armée française dans la région de Perthes-les-Hurlus daté du 15 février 1915"/></a>
-            <figcaption>Plan de l'avancée de l'armée française dans la région de Perthes-les-Hurlus le 15 février 1915
+            <figcaption class="figure-caption">Plan de l'avancée de l'armée française dans la région de Perthes-les-Hurlus le 15 février 1915
             <br />d'après le carnet de guerre d'Albert Labbé<br />(Source: Wikipedia Commons)</figcaption>
         </figure>
 
@@ -104,19 +225,19 @@
 
         <h2>Edouard Gaston DECOSTER</h2>
 
-        <p>Edouard est né à Saint-Pol-sur-Mer (Nord) le 11 octobre 1889. Soldat au 110e d'Infanterie, il est décédé des suites de ses blessures de guerre à l'hôpital complémentaire n°42 d'Orléans (Loiret) le 21 décembre 1914. Son nom figure sur le monument aux morts de la commune mais il est indiqué comme radié du livre d'or. L'hôpital complémentaire n°42 était situé au lycée de garçons. Il a fonctionné d'août 1914 à juillet 1917 et comportait 160 lits.</p>
+        <p  class="text-justify">Edouard est né à Saint-Pol-sur-Mer (Nord) le 11 octobre 1889. Soldat au 110e d'Infanterie, il est décédé des suites de ses blessures de guerre à l'hôpital complémentaire n°42 d'Orléans (Loiret) le 21 décembre 1914. Son nom figure sur le monument aux morts de la commune mais il est indiqué comme radié du livre d'or. L'hôpital complémentaire n°42 était situé au lycée de garçons. Il a fonctionné d'août 1914 à juillet 1917 et comportait 160 lits.</p>
 
-        <figure>
+        <figure class="text-center">
             <a href="../hopitaux/images/lycee-orleans.jpg" data-fancybox="gallery" data-caption="Le Lycée de garçons d'Orléans où s'installe l'Hôpital Complémentaire n°42">
             <img src="../hopitaux/miniatures/lycee-orleans.jpg" alt="L'Hôpital Complémentaire n°42 au Lycée de garçons d'Orléans pendant la Grande Guerre"/></a>
-            <figcaption>Le Lycée de garçons<br />où s'installe l'Hôpital Complémentaire n°42<br />(Source: Archives Municipales d'Orléans)</figcaption>
+            <figcaption class="figure-caption">Le Lycée de garçons<br />où s'installe l'Hôpital Complémentaire n°42<br />(Source: Archives Municipales d'Orléans)</figcaption>
         </figure>
 
         <div id="Joseph-Vanesse"></div>
 
         <h2>Joseph VANESSE</h2>
 
-        <p>Mini-bio à venir.</p>
+        <p  class="text-justify">Mini-bio à venir.</p>
 
         <h2>Victimes civiles</h2>
 
@@ -141,18 +262,206 @@
             <li>Photo du monument (Collection privée)</li>
         </ul>
 
-        </article>
+    </article>
 
     </section>
 
-    <footer><?php include('../include/footer.inc'); ?></footer>
+</div>
 
-    <?php include('../include/stats.inc'); ?>
+<!-- pied de page -->
 
-    <!-- javascript -->
+<div class="container-fluid" style="background-color: #364046;">
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>   
-    <script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+    <div class="container">
 
-    </body>
+    <footer class="row mt-4">
+        <?php include('../include/footer.inc'); ?>
+    </footer>
+
+    </div>
+
+</div>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+<!-- Affiche/Masque le aside -->
+
+<script>
+function fonctiontest() {
+  if (AsideVisible == 1)
+    {
+    /*
+    document.getElementById("aside").style.visibility = "visible";
+    */
+    document.getElementById("aside").style.display="block";
+    document.getElementById("aside").style.width="20%";
+    document.getElementById("article").style.width="80%";
+    document.getElementById("asidebouton").innerHTML = "<i class='fas fa-bars'></i>&nbsp;Masquer la liste des villes";
+
+    AsideVisible = 0;
+    }
+  else
+    {
+    /*
+    document.getElementById("aside").style.visibility = "hidden";
+    */
+    document.getElementById("aside").style.display="none";
+    document.getElementById("aside").style.width="00%";
+    document.getElementById("article").style.width="100%";
+    document.getElementById("asidebouton").innerHTML = "<i class='fas fa-bars'></i>&nbsp;Afficher la liste des villes";
+
+    AsideVisible = 1;
+    }
+}
+
+</script>
+
+<!-- Traitement du formulaire de contact -->
+
+<?php
+
+if (isset($_POST['nom']) and isset($_POST['courriel']) and isset($_POST['message']))
+    {
+    echo "plop !<br />";
+    ?>
+
+    <script type="text/javascript">
+    $( document ).ready(function() {
+        $('#myModal').modal('toggle');
+    });
+    </script>
+
+    <?php
+    $to  = 'alexis.amand@gmail.com, '.$_POST['courriel'];
+
+    // Sujet
+    $subject = 'Message de Histoires de Poilus';
+
+    // message
+    $message = "Nom : ".$_POST['nom']."<br />"
+                ."Sujet : ".$_POST['sujet']."<br />"
+                ."E-mail : ".$_POST['courriel']."<br />"
+                ."Message : "."<br />".$_POST['message']."<br />";
+
+                // Pour envoyer un mail HTML, l'en-tête Content-type doit être défini
+                $headers = 'MIME-Version: 1.0'."\n";
+                $headers .= 'Content-type: text/html; charset=utf-8'."\n";
+                $headers .='From: "Message de Histoires de Poilus"<'.$_POST['courriel'].'>'."\n";
+
+                $envoyer = mail($to, $subject, $message, $headers);
+
+                if (!$envoyer)
+                    {
+                    echo '<p class="alert alert-warning" role="alert">erreur !</p>';
+                    $errorMessage = error_get_last()['message'];
+                    echo $errorMessage;
+                    }
+                else
+                    {
+
+                    ?>
+
+                    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Me contacter</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                        <div class="modal-body">
+                            <div class="alert alert-success">message envoyé !</div>
+                        </div>
+                        <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">Fermer</button>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+
+                    <?php
+
+                    }
+    }
+
+    ?>
+
+<!-- Affiche la modale de contact -->
+
+<form method="POST">
+
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Me contacter</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+
+        <div class="row align-items-center">
+            <div class="col-6">
+
+                <div class="form-group">
+                    <label>Nom (*)</label>
+                    <input type="text" name="nom" class="form-control" required>
+                </div>
+
+                <div class="form-group">
+                    <label>Courriel (*)</label>
+                    <input type="text" name="courriel" class="form-control" required>
+                </div>
+
+                <div class="form-group">
+                    <label>Message (*)</label>
+                    <textarea name="message" class="form-control" rows="5" required></textarea>
+                </div>
+
+                <p>(*) Tous les champs doivent être complétés</p>
+
+            </div>
+            <div class="col-6">
+                <div class="row text-center">
+                    <div class="col-12 my-3">
+                        <h6><i class="fas fa-map-marker-alt"></i>&nbsp;Adresse</h6>
+                        <p>Valenciennes<br />
+                        Nord, France</p>
+                    </div>
+                    <div class="col-12 my-3">
+                        <h6><i class="far fa-address-card"></i>&nbsp;Me contacter</h6>
+                        <p>00.12.34.56.78<br />
+                        contact@supermail.com<br />
+                        Ou <a href="#" target="_blank">via Skype</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Fermer</button>
+        <button class="btn btn-primary" type="submit" name="formcontact">Envoyer</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</form>
+
+<!-- code pour Matomo modifié pour prendre en compte Tarteaucitron.js -->
+
+<script type="text/javascript">
+  tarteaucitron.user.matomoId = 4;
+  tarteaucitron.user.matomoHost = '//www.genealexis.fr/piwik/';
+  (tarteaucitron.job = tarteaucitron.job || []).push('matomohightrack');
+</script>
+
+</body>
 </html>

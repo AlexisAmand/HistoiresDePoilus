@@ -22,3 +22,16 @@ COOKIES
 
 MENTIONS LEGALES
     - fil d'ariane
+
+BATAILLES
+    - vérifier les liens des fils d'
+    
+MODALE DE CONTACT
+    - changer tél et mail !
+    - changer adresse !
+
+TOMBES
+    - revoir meta title et description
+
+CSS
+    - il reste des css qui ne sont pas dans la feuille de styles externe
