@@ -23,3 +23,6 @@ LES CAMPS
 
 INTRO POILUS
     - les couleurs de alliances
+
+LES BATAILLES 
+    - Fils d'ariane
