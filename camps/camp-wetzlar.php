@@ -213,7 +213,7 @@
             <figcaption class="figure-caption">Localisation du camp de Wetzlar<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>  
 
-        <p class="text-justify">Fin 1915, des prisonniers du camp de Wetzlar sont évacués vers les camps de <a href="camp-giessen.php">Giessen</a>, <a href="camp-limburg.php">Limburg</a>, Holzminden, <a href="camp-meschede.php">Meschede</a>, Stendal et <a href="camp-darmstadt.php">Darmstadt</a>. Le commandant du camp de Wetzlar fait savoir que les colis destinés aux prisonniers évacués sur les camps ci-dessus, suivront le destinataire: Quant aux colis qui ne porteront l'adresse d'aucun bénéficiaire nommément désigné, ils seront attribués aux prisonniers français du camp de Giessen.</p>
+        <p class="text-justify">Fin 1915, des prisonniers du camp de Wetzlar sont évacués vers les camps de <a href="camp-giessen.php">Giessen</a>, <a href="camp-limburg.php" title=" ">Limburg</a>, Holzminden, <a href="camp-meschede.php" title=" ">Meschede</a>, Stendal et <a href="camp-darmstadt.php" title=" ">Darmstadt</a>. Le commandant du camp de Wetzlar fait savoir que les colis destinés aux prisonniers évacués sur les camps ci-dessus, suivront le destinataire: Quant aux colis qui ne porteront l'adresse d'aucun bénéficiaire nommément désigné, ils seront attribués aux prisonniers français du camp de Giessen.</p>
 
         <figure class="text-center">
             <a href="images/Wetzlar/wetzlar-01.jpg" data-fancybox="gallery" data-caption="Arrivage de vivres au camp de Wetzlar">
@@ -255,9 +255,11 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
+            Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
             <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>  
-            <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
+            <li><a href="https://amzn.to/2MTTkR9" target="_blank" title=" ">
+            Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
             <li>L'Echo d'Alger du 20 décembre 1915</li>
         </ul>
 

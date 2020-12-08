@@ -1,7 +1,8 @@
-- le logo dans le footer fonctionne uniquement en ligne -> normal
-- voir pour uniformiser les HX... voir ceux des ressources et ceux des pages des camps
-- les H1 ont l'air un peu trop grands
-- présenter les auteurs/éditions des sources comme dans la biblio et la webo
+DIVERS
+    - le logo dans le footer fonctionne uniquement en ligne -> normal
+    - voir pour uniformiser les HX... voir ceux des ressources et ceux des pages des camps
+    - les H1 ont l'air un peu trop grands
+    - présenter les auteurs/éditions des sources comme dans la biblio et la webo
 
 VERSION MOBILE :
     - Le logo en haut est trop large
@@ -17,3 +18,8 @@ BIBLIO
 
 LES CAMPS
     - pour les mises en garde des camps allemands, faire un truc alert bootstrap
+    - video camp de Minden -> bootstrap ?
+    - voir la marge au dessus des <h2>
+
+INTRO POILUS
+    - les couleurs de alliances

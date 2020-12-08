@@ -227,10 +227,12 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre">Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
+            Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
             <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
             <li>L'intermède n°27, novembre 1916 (journal du camp)</li>
-            <li><a href="https://amzn.to/2MTTkR9">Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
+            <li><a href="https://amzn.to/2MTTkR9" target="_blank">
+            Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
         </ul>
 
     </article>
