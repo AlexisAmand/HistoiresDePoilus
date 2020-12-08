@@ -177,6 +177,14 @@
 
         <article class="col-12">
 
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
+                <li class="breadcrumb-item"><a href="../camps.php">Les batailles de la Grande Guerre</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Le front de l'Ouest</li>
+            </ol>
+        </nav>
+
         <h1 class="my-4">Les Batailles de l'Europe de l'Ouest</h1>
 
         <h3>L'année 1914</h3>

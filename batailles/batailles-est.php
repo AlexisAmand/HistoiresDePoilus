@@ -177,6 +177,14 @@
 
         <article class="col-12">
 
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
+                <li class="breadcrumb-item"><a href="../camps.php">Les batailles de la Grande Guerre</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Le front de l'est</li>
+            </ol>
+        </nav>
+
         <h1 class="my-4">Les Batailles du Front de l'Europe de l'Est</h1>
 
         <p class="text-justify">Cette page sera mise à jour au fur et à mesure des découvertes.</p>
