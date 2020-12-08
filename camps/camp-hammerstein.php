@@ -231,7 +231,7 @@
             <figcaption class="figure-caption">Service divin israélite<br />(source allemande)</figcaption>
         </figure>
 
-        <p>J'ai longtemps hésité avant de vous présenter la photographie ci-dessous, comme je l'ai dit plus haut, il faut bien garder en tête qu'elle est paru en 1915 dans un ouvrage allemand. C'est également pour cette raison que je n'ai pas mis en ligne les diverses photos qui représentaient les <em>"ethnies" (sic)</em> rencontrées dans les camps.</p>  
+        <p class="text-justify">J'ai longtemps hésité avant de vous présenter la photographie ci-dessous, comme je l'ai dit plus haut, il faut bien garder en tête qu'elle est paru en 1915 dans un ouvrage allemand. C'est également pour cette raison que je n'ai pas mis en ligne les diverses photos qui représentaient les <em>"ethnies" (sic)</em> rencontrées dans les camps.</p>  
 
         <figure class="text-center">
             <a href="images/Hammerstein/hammerstein-05.jpg" data-fancybox="gallery" data-caption="Le camp de Hammerstein">

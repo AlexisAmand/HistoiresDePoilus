@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Le camp de prisonniers de Gardelegen pendant la Grande Guerre - Histoires de Poilus</title>
+    <meta name="description" content="Présentation du camp de prisonniers de Gardelegen en Allemagne pendant la Première Guerre mondiale (1914-1918)">
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -195,38 +195,122 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="#">Rubrique</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../camps.php">Les camps allemands</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Le camp de Gardelegen</li>
         </ol>
     </nav>
 
     <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des camps</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Le camp de prisonniers de Gardelegen</h1>
 
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-
-        <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
-        </figure>
-
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p class="text-justify"></p>
 
         <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
+            <img src="miniatures/Gardelegen/carte-camp-gardelegen.jpg" class="figure-img img-fluid img-thumbnail" alt="carte de l'Allemagne pour localiser le camp de prisonnier de Gardelegen">
+            <figcaption class="figure-caption">Localisation du camp de Gardelegen<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
-        <p class="text-justify">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
+        <p class="text-justify">Selon le rapport de la Croix Rouge, 6602 prisonniers d'origine française, russe, anglaise et belge et quelques civils issus des territoires occupés du nord de la France sont présents dans le camp de Gardelegen à la date 7 janvier 1915. A l'époque, le camp est dirigé par le Colonel GRÜNER, que la Croix Rouge décrit comme <em>un homme de coeur et de sentiment, qui ne considère pas le prisonnier comme un ennemi, mais un homme digne de pitié.</em></p>
 
         <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
+            <a href="images/Gardelegen/menu-gardelegen.jpg" data-fancybox="gallery" data-caption="Le menu hebdomadaire à Gardelegen">
+            <img src="miniatures/Gardelegen/menu-gardelegen.jpg" class="figure-img img-fluid img-thumbnail" alt="Le menu au camp de prisonniers de Gardelegen "></a>
+            <figcaption class="figure-caption">Le menu hebdomadaire à Gardelegen<br />(source : Rapport de la Croix Rouge du 7 janvier 1915)</figcaption>
         </figure>
 
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+        <p class="text-justify">Les prisonniers avaient installé à Gardelegen un petit théâtre où les Français, les Anglais et les Belges donnaient de représentations. Il était également possible d'y donner des représentations cinématographiques.</p>
+
+        <figure class="text-center">
+            <a href="images/camps_prisonniers_gardelegen.jpg" data-fancybox="gallery" data-caption="La cantine du camp de prisonniers de Gardelegen">
+            <img src="miniatures/camps_prisonniers_gardelegen.jpg" class="figure-img img-fluid img-thumbnail" alt="la cantine du camp de prisonniers de Gardelegen pendant la Grande Guerre"></a>
+            <figcaption class="figure-caption">La cantine à Gardelegen<br />(source : Delcampe)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/Gardelegen/Gardelegen-1-004.jpg" data-fancybox="gallery" data-caption="La distribution de nourriture à Gardelegen">
+            <img src="miniatures/Gardelegen/Gardelegen-1-004.jpg" class="figure-img img-fluid img-thumbnail" alt="La distribution de nourriture au camp de prisonniers de Gardelegen"></a>
+            <figcaption class="figure-caption">La distribution de nourriture<br />(Source : Guy O.)</figcaption>
+        </figure>
+
+        <h2>Les monuments à la mémoire des prisonniers morts en captivité</h2>
+
+        <p class="text-justify">Deux monuments ont été construits au camp de prisonniers de Gardelegen. Ils sont été construite grace à des souscriptions auprés de bienfaiteurs.</p>
+
+        <p class="text-justify">Selon le Figaro daté du 25 octobre 1915, le premier monument est l'oeuvre du sculpteur Poirier et est destiné au cimetière du lazaret où 300 des "nôtres" reposent déjà en 1915. Il est constitué d'un simple banc de pierre en hémicycle, sur lequel est assis un prisonnier, qui regarde les tombes de ses camarades.</p>
+
+        <figure class="text-center">
+            <a href="images/Gardelegen/Gardelegen-1-007.jpg" data-fancybox="galery" data-caption="Le monument du Lazaret du camp de Gardelegen">
+            <img src="miniatures/Gardelegen/Gardelegen-1-007.jpg" class="figure-img img-fluid img-thumbnail" alt="Le monument du Lazaret du camp de prisonniers de Gardelegen"></a>
+            <figcaption class="figure-caption">Le monument du Lazaret<br />(Source : Guy O.)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/Gardelegen/Gardelegen-1-008.jpg" data-fancybox="galery" data-caption="Le monument du Lazaret du camp de Gardelegen">
+            <img src="miniatures/Gardelegen/Gardelegen-1-008.jpg" class="figure-img img-fluid img-thumbnail" alt="Le monument du Lazaret du camp de prisonniers de Gardelegen"></a>
+            <figcaption class="figure-caption">Le monument du Lazaret<br />(Source : Guy O.)</figcaption>
+        </figure>
+
+        <p class="text-justify">Le même journal précise que le second monument est l'oeuvre du statuaire Souchez et est destiné au cimetière de la ville. Il est constitué d'un large socle où sont gravées les lignes suivantes:</p>
+
+        <p style="text-align:center"><em>
+        Ayant fait leur devoir, à leur tout ils sont morts,
+        Seuls, loin de leur douce patrie.<br />
+        Mais sous la pierre, ici, ne gisent que leurs corps.<br />
+        Leur âme, là-bas, veille et prie.</em></p>
+
+        <p class="text-justify">Une haute table de marbre destinée à recevoir les noms surmonte ce socle, auquel un soldat, les mains jointes, est appuyé.
+
+        <figure class="text-center">
+            <a href="images/Gardelegen/Gardelegen-1-001.jpg" data-fancybox="galery" data-caption="Le monument de Gardelegen en construction">
+            <img src="miniatures/Gardelegen/Gardelegen-1-001.jpg" class="figure-img img-fluid img-thumbnail" alt="Le monument du camp de prisonniers de Gardelegen en construction"></a>
+            <figcaption class="figure-caption">Le monument en construction<br />(Source : Guy O.)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/Gardelegen/Gardelegen-1-002.jpg" data-fancybox="galery" data-caption="Le monument de Gardelegen en construction">
+            <img src="miniatures/Gardelegen/Gardelegen-1-002.jpg" class="figure-img img-fluid img-thumbnail" alt="Le monument du camp de prisonniers de Gardelegen en construction"></a>
+            <figcaption class="figure-caption">Le monument en construction<br />avec la liste des noms<br />(Source : Guy O.)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/monument-gardelegen.jpg" data-fancybox="gallery" data-caption="Le monument du camp de prisonniers de Gardelegen">
+            <img src="miniatures/monument-gardelegen.jpg" class="figure-img img-fluid img-thumbnail" alt="le monument aux prisonniers morts en captivité dans le camp de Gardelegen pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">Le monument à la mémoire des prisonniers morts en captivité<br />(source : Delcampe)</figcaption>
+        </figure>
+
+        <h2>La vie quotidienne au camp</h2>
+
+        <figure class="text-center">
+            <a href="images/Gardelegen/Gardelegen-1-005.jpg" data-fancybox="gallery" data-caption="Une cérémonie religieuse à Gardelegen">
+            <img src="miniatures/Gardelegen/Gardelegen-1-005.jpg" class="figure-img img-fluid img-thumbnail" alt="Une cérémonie religieuse au camp de prisonniers de Gardelegen"></a>
+            <figcaption class="figure-caption">Une cérémonie religieuse<br />(Source : Guy O.)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/Gardelegen/Gardelegen-1-006.jpg" data-fancybox="gallery" data-caption="Une cérémonie religieuse à Gardelegen">
+            <img src="miniatures/Gardelegen/Gardelegen-1-006.jpg" alt="Une cérémonie religieuse au camp de prisonniers de Gardelegen"></a>
+            <figcaption class="figure-caption">Une cérémonie religieuse<br />(Source : Guy O.)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/camps_prisonniers_gardelegen_01.jpg" data-fancybox="gallery" data-caption="Le Lazaret de Gardelegen">
+            <img src="miniatures/camps_prisonniers_gardelegen_01.jpg" class="figure-img img-fluid img-thumbnail" alt="le lazaret du camp de prisonniers de Gardelegen pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">Le lazaret de Gardelegen<br />(source : Delcampe)</figcaption>
+        </figure>
+
+        <p class="text-justify">A la fin de la guerre, le camp de Gardelegen a été évacué via la Hollande.</p>
+
+        <h2>Sources et bibliographie</h2>
+
+        <ul>
+            <li>Le Journal "Le Figaro" du 25 octobre 1915 (Gallica / BNF)</li>
+            <li><a href="https://amzn.to/2MTTkR9" target="_blank"  title=" ">
+            Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
+            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
+            Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+        </ul>
 
     </article>
 

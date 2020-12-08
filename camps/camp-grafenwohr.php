@@ -195,38 +195,113 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="#">Rubrique</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../camps.php">Les camps allemands</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Le camp de Grafenwöhr</li>
         </ol>
     </nav>
 
     <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des camps</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Le camp de prisonniers de Grafenwöhr</h1>
 
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-
-        <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
-        </figure>
-
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p><p class="text-justify">Dans son ouvrage intitulé <cite>Août 1914. La Bataille de Sarrebourg</cite>, Joseph ELMERICH précise que la Bavière, qui avait fourni sa propre armée, avait préparé trois camps destinés à recevoir les prisonniers: le <a href="camp-lechfeld.php" title="lien vers la page consacrée au camp de Lechfeld">camp de Lechfeld</a> (3600 prisonniers), le <a href="camp-hammelburg.php" title="lien vers la page consacrée au camp de Hammelburg">camp de Hammelburg</a> (4470 prisonniers) et enfin celui de Grafenwöhr (10500 prisonniers).</p>
 
         <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
+            <a href="images/Grafenwohr/localisation-grafenwohr.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Grafenwöhr">
+            <img src="miniatures/Grafenwohr/localisation-grafenwohr.jpg" class="figure-img img-fluid img-thumbnail" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Grafenwöhr"></a>
+            <figcaption class="figure-caption">Localisation du camp de Grafenwöhr<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
-
-        <p class="text-justify">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
 
         <figure class="text-center">
-            <img src="https://via.placeholder.com/450x264.png" alt=" "  class="figure-img img-fluid"/>
-            <figcaption class="figure-caption">Légende de l'image</figcaption>
+            <a href="images/grafenwohr-01.jpg" data-fancybox="gallery" data-caption="Le camp de prisonniers de Grafenwöhr">
+            <img src="miniatures/grafenwohr-01.jpg" class="figure-img img-fluid img-thumbnail" alt="le courrier français au camp de Grafenwöhr pendant la Grande Guerre"></a>
+            <figcaption class="figure-caption">Le courrier français<br />(source allemande)</figcaption>
         </figure>
 
-        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+        <figure class="text-center">
+            <a href="images/grafenwohr-02.jpg" data-fancybox="gallery" data-caption="Le camp de prisonniers de Grafenwöhr">
+            <img src="miniatures/grafenwohr-02.jpg" class="figure-img img-fluid img-thumbnail" alt="La poste aux colis du camp de prisonnier de Grafenwöhr pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">La poste aux colis<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/grafenwohr-03.jpg" data-fancybox="gallery" data-caption="Le camp de prisonniers de Grafenwöhr">
+            <img src="miniatures/grafenwohr-03.jpg" class="figure-img img-fluid img-thumbnail" alt="Les achats au camp de prisonnier de Grafenwöhr pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">Endroit où se font les achats pour les cantines<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/grafenwohr-04.jpg" data-fancybox="gallery" data-caption="Le camp de prisonniers de Grafenwöhr">
+            <img src="miniatures/grafenwohr-04.jpg" class="figure-img img-fluid img-thumbnail" alt="la préparation des vivres par les prisonniers du camp de Grafenwöhr"></a>
+            <figcaption class="figure-caption">On prépare les vivres reçus de chez soi<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/grafenwohr-05.jpg" data-fancybox="gallery" data-caption="Le camp de prisonniers de Grafenwöhr">
+            <img src="miniatures/grafenwohr-05.jpg" class="figure-img img-fluid img-thumbnail" alt="des prisonniers prennent leur bain dans l'étang au camp de Grafenwöhr"></a>
+            <figcaption class="figure-caption">Le bain dans l'étang<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/grafenwohr-06.jpg" data-fancybox="gallery" data-caption="Le camp de prisonniers de Grafenwöhr">
+            <img src="miniatures/grafenwohr-06.jpg" class="figure-img img-fluid img-thumbnail" alt="les douches du camp de Grafenwöhr pendant la Grande Guerre"></a>
+            <figcaption class="figure-caption">Les douches au camp<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/grafenwohr-07.jpg" data-fancybox="gallery" data-caption="Le camp de prisonniers de Grafenwöhr">
+            <img src="miniatures/grafenwohr-07.jpg" class="figure-img img-fluid img-thumbnail" alt="L'établissement de bains chauds au camp de Grafenwöhr"></a>
+            <figcaption class="figure-caption">L'établissement de bains chauds<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/grafenwohr-08.jpg" data-fancybox="gallery" data-caption="Le camp de prisonniers de Grafenwöhr">
+            <img src="miniatures/grafenwohr-08.jpg" class="figure-img img-fluid img-thumbnail" alt="Personnel auxiliaire du bureau de poste et de la cantine dans le camp de Grafenwöhr"></a>
+            <figcaption class="figure-caption">Personnel auxiliaire du bureau de poste et de la cantine<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/grafenwohr-09.jpg" data-fancybox="gallery" data-caption="Le camp de prisonniers de Grafenwöhr">
+            <img src="miniatures/grafenwohr-09.jpg" class="figure-img img-fluid img-thumbnail" alt="des prisonniers de retour du travail au camp de Grafenwöhr"></a>
+            <figcaption class="figure-caption">Le retour du travail<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/grafenwohr-10.jpg" data-fancybox="gallery" data-caption="Le camp de prisonniers de Grafenwöhr">
+            <img src="miniatures/grafenwohr-10.jpg" class="figure-img img-fluid img-thumbnail" alt="Travaux de jardinage au camp de prisonnier de Grafenwöhr pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">Travaux de jardinage<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/grafenwohr-12.jpg" data-fancybox="gallery" data-caption="Le camp de prisonniers de Grafenwöhr">
+            <img src="miniatures/grafenwohr-12.jpg" class="figure-img img-fluid img-thumbnail" alt="des prisonniers français dans le camp de Grafenwöhr pendant la Grande Guerre"></a>
+            <figcaption class="figure-caption">Dans le camp des prisonniers français<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/grafenwohr-13.jpg" data-fancybox="gallery" data-caption="Le camp de prisonniers de Grafenwöhr">
+            <img src="miniatures/grafenwohr-13.jpg" class="figure-img img-fluid img-thumbnail" alt="un appareil photo au camp de Grafenwöhr pendant la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">Le premier appareil photographique<br />(source allemande)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/grafenwohr-14.jpg" data-fancybox="gallery" data-caption="Le camp de prisonniers de Grafenwöhr">
+            <img src="miniatures/grafenwohr-14.jpg" class="figure-img img-fluid img-thumbnail" alt="Concert et théâtre à l'hôpital du camp de prisonniers de Grafenwöhr pendant la Grande Guerre"></a>
+            <figcaption class="figure-caption">Concert et théâtre à l'hôpital<br />(source allemande)</figcaption>
+        </figure>
+
+        <p class="text-justify">En 1928, la nécropole de Sarrebourg, en Lorraine, accueille le Géant Enchaîné, une oeuvre en provenance du cimetière français du camp de prisonniers de Grafenwöhr et réalisée par le sculpteur Frédéric STOLL, soldat du 347e R.I</p>
+
+        <h2>Sources et bibliographie</h2>
+
+        <ul>
+            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
+            Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
+            <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
+            <li><a href="https://amzn.to/2MTTkR9" target="_blank"  title=" ">
+            Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
+        </ul>
 
     </article>
 
