@@ -2,6 +2,7 @@ DIVERS
     - voir pour uniformiser les HX... voir ceux des ressources et ceux des pages des camps
     - les H1 ont l'air un peu trop grands
     - présenter les auteurs/éditions des sources comme dans la biblio et la webo
+    - revoir les espaces entre les HX, entre les §,...etc. Il y a aussi surement les <br /> en trop que je peux remplacer par des mt ou des mb bootstrap
 
 STRUCTURE DE LA PAGE :
     - Au niveau de la section et le l'article il n'y a pas de "col", juste une "row"... Est-ce vraiment un soucis ?
@@ -24,7 +25,7 @@ MENTIONS LEGALES
     - fil d'ariane
 
 BATAILLES
-    - vérifier les liens des fils d'
+    - vérifier les liens des fils d'ariane
     
 MODALE DE CONTACT
     - changer tél et mail !
@@ -35,3 +36,6 @@ TOMBES
 
 CSS
     - il reste des css qui ne sont pas dans la feuille de styles externe
+
+HTACCESS
+    - Oups avec la redirection

@@ -190,9 +190,9 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="#">Rubrique</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../tombes.php">Tombes de soldats</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Les tombes de Capelle-sur-Ecaillon</li>
         </ol>
     </nav>
 
@@ -256,7 +256,8 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="../pdf/vdh_orleans-grande-guerre.pdf">Orléans pendant la Grande Guerre (Ville d'Orléans)</a></li>
+            <li><a href="../pdf/vdh_orleans-grande-guerre.pdf" target="_blank" title=" ">
+            Orléans pendant la Grande Guerre (Ville d'Orléans)</a></li>
             <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
             <li>Mémoire des Hommes (Ministère de la Défense)</li>
             <li>Photo du monument (Collection privée)</li>
