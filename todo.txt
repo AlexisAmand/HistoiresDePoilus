@@ -1,17 +1,10 @@
 DIVERS
-    - le logo dans le footer fonctionne uniquement en ligne -> normal
     - voir pour uniformiser les HX... voir ceux des ressources et ceux des pages des camps
     - les H1 ont l'air un peu trop grands
     - présenter les auteurs/éditions des sources comme dans la biblio et la webo
 
-VERSION MOBILE :
-    - Le logo en haut est trop large
-
 STRUCTURE DE LA PAGE :
     - Au niveau de la section et le l'article il n'y a pas de "col", juste une "row"... Est-ce vraiment un soucis ?
-
-COOKIES :
-    - on dirait que ça ne fonnctionne pas sur la page d'accueil
 
 BIBLIO
     - voir si je peux ajouter le numéro ou une référence des fiches pratiques hachette
@@ -23,6 +16,3 @@ LES CAMPS
 
 INTRO POILUS
     - les couleurs de alliances
-
-LES BATAILLES 
-    - Fils d'ariane
