@@ -39,3 +39,6 @@ CSS
 
 HTACCESS
     - Oups avec la redirection
+
+ASIDE
+    - Je pense que AsideVisible doit être initialisée à 0 dans le head et non a zero, c'est le script qui gére le truc. Si AsideVisible est initialisée à 0, le CSS "#aside display none" devient surement inutile

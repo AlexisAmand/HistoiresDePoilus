@@ -65,7 +65,7 @@
 
 <!-- menu de navigation -->
 
-<div class="container-fluid" style="background-color: #364046;">
+<div class="container-fluid">
 
     <div class="container">
 
@@ -422,7 +422,7 @@
 
 <!-- pied de page -->
 
-<div class="container-fluid" style="background-color: #364046;">
+<div class="container-fluid">
 
     <div class="container">
 

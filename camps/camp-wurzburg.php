@@ -75,7 +75,7 @@
 
   <!-- menu de navigation -->
 
-  <div class="container-fluid" style="background-color: #364046;">
+  <div class="container-fluid">
 
       <div class="container">
 
@@ -182,7 +182,7 @@
 
     <section class="row">
 
-    <aside id="aside" style="display:none;">
+    <aside id="aside">
 
         <div class="list-group">
 
@@ -192,7 +192,7 @@
 
     </aside>
 
-    <article style="width:100%;padding-left:15px;padding-right:15px;" id="article" >
+    <article id="article">
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
@@ -243,7 +243,7 @@
 
 <!-- pied de page -->
 
-<div class="container-fluid" style="background-color: #364046;">
+<div class="container-fluid">
 
     <div class="container">
 

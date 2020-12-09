@@ -71,7 +71,7 @@
 
   <!-- menu de navigation -->
 
-  <div class="container-fluid" style="background-color: #364046;">
+  <div class="container-fluid">
 
       <div class="container">
 
@@ -178,7 +178,7 @@
 
     <section class="row">
 
-    <aside id="aside" style="display:none;">
+    <aside id="aside">
 
         <div class="list-group">
             <?php include('./include/nav-tombes.inc'); ?>
@@ -186,7 +186,7 @@
 
     </aside>
 
-    <article style="width:100%;padding-left:15px;padding-right:15px;" id="article" >
+    <article id="article">
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
@@ -202,7 +202,7 @@
 
         <p>A l'origine, cette partie du site était un ensemble de relevés des morts pour la France dans les communes où on vécu mes ancêtres. Seulement voilà, il se trouve que ça faut un peu doublon avec ce que certains sites proposent (comme <a href="https://www.geneanet.org/" title=" ">Geneanet</a> ou <a href="https://monumentsmorts.univ-lille.fr/" title=" ">Les monuments aux morts</a> sur le site de Lille 1). J'ai donc restructuré la rubrique pour y présenter des photos de tombes et de monuments croisés au hazard de mes découvertes et mes promenades.</p>
 
-        <div style="background-image:url('tombes/images/bandeau.jpg');width:100%;height:50px;margin-bottom:15px;">
+        <div class="bandeau">
 
         </div>
 
@@ -251,7 +251,7 @@
 
 <!-- pied de page -->
 
-<div class="container-fluid" style="background-color: #364046;">
+<div class="container-fluid">
 
     <div class="container">
 

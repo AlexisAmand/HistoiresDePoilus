@@ -65,7 +65,7 @@
 
 <!-- menu de navigation -->
 
-<div class="container-fluid" style="background-color: #364046;">
+<div class="container-fluid">
 
     <div class="container">
 
@@ -176,41 +176,37 @@
 
           <h1 class="my-4">Le système de santé pendant la Grande Guerre</h1>
 
-          <p>Pour que la compréhension du système de santé pendant la Première Guerre Mondiale soit plus simple à comprendre, je vous ai préparé un petit schéma explicatif. Bien sûr, je ne suis qu'un simple amateur qui n'est pas à l'abris d'une erreur. aussi, n'hésitez pas à me contacter si vous avez une remarque ou une correction à apporter.</p>
+          <p class="text-justify">Pour que la compréhension du système de santé pendant la Première Guerre Mondiale soit plus simple à comprendre, je vous ai préparé un petit schéma explicatif. Bien sûr, je ne suis qu'un simple amateur qui n'est pas à l'abris d'une erreur. aussi, n'hésitez pas à me contacter si vous avez une remarque ou une correction à apporter.</p>
 
-          <p><a href="docs/evacuation.pdf" title="Organisation du système de santé pendant la Première Guerre Mondiale">
+          <p class="text-center"><a href="docs/evacuation.pdf" title="Organisation du système de santé pendant la Première Guerre Mondiale">
           Organisation du système de santé pendant la Première Guerre Mondiale (pdf)</a></p>
 
-          <table>
+          <table class="table table-bordered">
             <thead>
             <tr>
-              <th colspan="2" style="font-size: 18px;">Zone de l'intérieur</th>
+                <th scope="col" colspan="2" class="text-center">Zone de l'intérieur</th>
             </tr>
             <tr>
-              <th style="width:50%;font-size: 15px;">Les hôpitaux permanents</th>
-              <th style="width:50%;font-size: 15px;">Les hôpitaux temporaires</th>
+                <th scope="col" class="text-center" style="width:50%">Les hôpitaux permanents</th>
+                <th scope="col" class="text-center" style="width:50%">Les hôpitaux temporaires</th>
             </tr>
             </thead>
             <tbody>
             <tr>
-              <td><p style="text-decoration: underline;font-weight: bold;text-align:center;">Les hôpitaux militaires et annexes</p></td>
-              <td><p style="text-decoration: underline;font-weight: bold;text-align:center;">les hôpitaux complémentaires (HC)</p>
-              <p>Ils complètent un hôpital, un hospice ou une structure déjà existante et sont gérés par le service de santé militaire.</p></td>
+                <td><p class="text-center"><u><strong>Les hôpitaux militaires et annexes</strong></u></p></td>
+                <td><p class="text-center"><u><strong>Les hôpitaux complémentaires (HC)</strong></u></p><p class="text-center">Ils complètent un hôpital, un hospice ou une structure déjà existante et sont gérés par le service de santé militaire.</p></td>
             </tr>
             <tr>
-              <td><p style="text-decoration: underline;font-weight: bold;text-align:center;">Les hôpitaux mixtes</p>
-              <p>Destinés à la fois aux civils et aux militaires.</p></td>
-              <td><p style="text-decoration: underline;font-weight: bold;text-align:center;">les hôpitaux auxiliaires (HA)</p>
-              <p>Ils sont gérés par une des 3 sociétés d'assistance de la Croix Rouge.</p></td>
+                <td><p class="text-center"><u><strong>Les hôpitaux mixtes</strong></u></p><p class="text-justify">Destinés à la fois aux civils et aux militaires.</p></td>
+                <td><p class="text-center"><u><strong>Les hôpitaux auxiliaires (HA)</strong></u></p><p class="text-center">Ils sont gérés par une des 3 sociétés d'assistance de la Croix Rouge.</p></td>
             </tr>
             <tr>
-              <td><p style="text-decoration: underline;font-weight: bold;text-align:center;">les hôpitaux civils</p></td>
-              <td><p style="text-decoration: underline;font-weight: bold;text-align:center;">les hôpitaux bénévoles (HB)</p>
-              <p>La gestion se fait par une association ou un groupe charitable. Il s'agit d'une initiative privée.</p></td>
+                <td><p class="text-center"><u><strong>Les hôpitaux civils</strong></u></p></td>
+                <td><p class="text-center"><u><strong>Les hôpitaux bénévoles (HB)</strong></u></p><p class="text-center">La gestion se fait par une association ou un groupe charitable. Il s'agit d'une initiative privée.</p></td>
             </tr>
             <tr>
-              <td><span style="text-decoration: underline;font-weight: bold;text-align:center;">les hôpitaux de place forte</span></td>
-              <td></td>
+                <td><p class="text-center"><u><strong>Les hôpitaux de place forte</strong></u></td>
+                <td></td>
             </tr>
             </tbody>
           </table>
@@ -223,7 +219,7 @@
 
 <!-- pied de page -->
 
-<div class="container-fluid" style="background-color: #364046;">
+<div class="container-fluid">
 
     <div class="container">
 
