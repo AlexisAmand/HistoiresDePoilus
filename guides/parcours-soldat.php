@@ -116,10 +116,10 @@
 
         <h2>1) Les fiches matricules</h2>
 
-        <p class="text-justify">La fiche matricule d’un individu est un résumé de son parcours militaire. La plupart du temps, elle est établie pendant la vingtième année d’un homme, on parle alors de <strong>classe</strong>, en fonction de son domicile, on parle de <strong>bureau de recrutement</strong>. Par exemple, mes ancêtres qui ont vécu dans le village de Sebourg (Nord) dépendent du bureau de recrutement de Valenciennes, alors que ceux qui ont vécu dans le petit village de Bétheniville (Marne) dépendent de celui de Reims. Les individus d’une même classe et d’un même bureau sont ensuite regroupés au sein de listes alphabétiques appelées, par exemple, tables alphabétiques sur le site des <a href="#" title=" ">Archives Départementales du Nord</a>. Pour le Bureau de Dunkerque (Nord), la table alphabétique de 1884 ressemble à ça :</p>
+        <p class="text-justify">La fiche matricule d’un individu est un résumé de son parcours militaire. La plupart du temps, elle est établie pendant la vingtième année d’un homme, on parle alors de <strong>classe</strong>, en fonction de son domicile, on parle de <strong>bureau de recrutement</strong>. Par exemple, mes ancêtres qui ont vécu dans le village de Sebourg (Nord) dépendent du bureau de recrutement de Valenciennes, alors que ceux qui ont vécu dans le petit village de Bétheniville (Marne) dépendent de celui de Reims. Les individus d’une même classe et d’un même bureau sont ensuite regroupés au sein de listes alphabétiques appelées, par exemple, tables alphabétiques sur le site des <a href="https://archivesdepartementales.lenord.fr/" title="Site officiel des Archives départementales du Nord">Archives Départementales du Nord</a>. Pour le Bureau de Dunkerque (Nord), la table alphabétique de 1884 ressemble à ça :</p>
 
         <figure   class="text-center">
-            <a href="images/dunkerque-1884.jpg" data-fancybox="gallery" data-caption=" ">
+            <a href="images/dunkerque-1884.jpg" data-fancybox="gallery" data-caption="Une table alphabétique extraite des AD du Nord">
             <img src="images/thumbs/dunkerque-1884.jpg" class="figure-img img-fluid img-thumbnail" alt="capture d'écran des matricules de Dunkerque pour l'année 1884"></a> 
             <figcaption class="figure-caption">Une table alphabétique<br />(source: Archives Départementales du Nord)</figcaption>
         </figure>

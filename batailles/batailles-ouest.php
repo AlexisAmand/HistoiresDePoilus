@@ -120,7 +120,7 @@
 
         <h1 class="my-4">Les Batailles de l'Europe de l'Ouest</h1>
 
-        <h3>L'année 1914</h3>
+        <h2>L'année 1914</h2>
 
         <figure class="text-center">
             <a href="images/yser.jpg" data-fancybox="gallery" data-caption="La Bataille de l'Yser (1914)">
@@ -211,7 +211,7 @@
             <figcaption>Les préliminaires de la Bataille de la Marne (1914)<br />(source: Delcampe)</figcaption>
         </figure class="figure-caption">
 
-        <h3>L'année 1915</h3>
+        <h2>L'année 1915</h2>
 
         <table class="table table-striped table-bordered">
             <thead>
@@ -293,7 +293,7 @@
             </tr>
         </table>
 
-        <h3>L'année 1916</h3>
+        <h2>L'année 1916</h2>
 
         <table class="table table-striped table-bordered">
             <thead>
@@ -330,7 +330,7 @@
             </tr>
         </table>
 
-        <h3>L'année 1917</h3>
+        <h2>L'année 1917</h2>
 
         <figure class="text-center">
             <a href="../poilus/images/Assaut-chemin-des-dames.jpg" data-fancybox="gallery" data-caption="Soldats français sur le Chemin des Dames">
@@ -409,7 +409,7 @@
             </tr>
         </table>
 
-        <h3>L'année 1918</h3>
+        <h2>L'année 1918</h2>
 
         <figure class="text-center">
             <a href="images/bois-belleau.jpg" data-fancybox="gallery" data-caption="Les soldats américains au Bois Belleau">

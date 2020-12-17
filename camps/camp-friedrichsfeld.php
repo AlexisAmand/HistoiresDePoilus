@@ -147,7 +147,7 @@
 
         <div id="Major_Bach"></div>
 
-        <p class="text-justify">Dans un rapport adressé au Ministère de la Guerre, le médecin major de 1e classe CHON, du 14e Régiment de Hussard, fait prisonnier à Ethe (Belgique) le 22 août 1914, emprisonné aux camps de Friedrichsfeld et Senne, puis ramené en Suisse pour raison de santé, rapporte que <em>"le sous-chef du camp [de Friedrichsfeld], le Major BACH, avait donné l'ordre de fusiller les fuyard et promettait une indemnité de 70 marks à tout homme qui rapporterait le cadavre d'un français. Le fait nous a été rapporté par un ordonnance allemande qui se ventait d'avoir abattu un prisonnier français dans ces conditions".</em></p>
+        <p class="text-justify">Dans un rapport adressé au Ministère de la Guerre, le médecin major de 1e classe CHON, du 14e Régiment de Hussards, fait prisonnier à Ethe (Belgique) le 22 août 1914, emprisonné aux camps de Friedrichsfeld et Senne, puis ramené en Suisse pour raison de santé, rapporte que <em>"le sous-chef du camp [de Friedrichsfeld], le Major BACH, avait donné l'ordre de fusiller les fuyard et promettait une indemnité de 70 marks à tout homme qui rapporterait le cadavre d'un français. Le fait nous a été rapporté par un ordonnance allemande qui se ventait d'avoir abattu un prisonnier français dans ces conditions".</em></p>
 
         <figure class="text-center">
             <a href="images/friedrichsfeld-patates.jpg" data-fancybox="gallery" data-caption="Camp de Friedrichsfeld: Epluchage de pommes de terre dans la cour de l'hôpital">

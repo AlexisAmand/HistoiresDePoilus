@@ -143,8 +143,8 @@
 
         <figure class="text-center">
         	<a href="images/JOLY_Noel/page_1.jpg" id="testgal2" data-fancybox="gallery" data-caption=" ">
-        	<img src="images/JOLY_Noel/page_1.jpg" id="testgal" alt=" " class="img-fluid"/></a>
-        	<figcaption>Dossier d'ancien combattant de JOLY Noël<br />
+        	<img src="images/JOLY_Noel/page_1.jpg" id="testgal" alt=" " class="figure-img img-fluid img-thumbnail"/></a>
+        	<figcaption class="figure-caption">Dossier d'ancien combattant de JOLY Noël<br />
 			(Source: <a href="https://www.geneachtimi.com/" title="Généachtimi : Site pour rechercher ses ancêtres dans les Hauts-de-France">Généachtimi</a> et 
 			<a href="https://archivesdepartementales.lenord.fr/" title="Site officiel des archives départementales du Nord">Archives du Nord</a>
         </figure>

@@ -154,7 +154,7 @@
             <figcaption class="figure-caption">Le camp de Amersfoort<br />(source : Delcampe)</figcaption>
         </figure>
 
-        <h3>Notes</h3>
+        <h2>Notes</h2>
 
         <p class="note"><sup>1</sup>Durant la Seconde Guerre Mondiale, un camp de concentration sera installé le long de l'autoroute Utrecht-Amersfoort. Des milliers de civils belges et hollandais y seront torturés et exécutés. Ce camp sera appelé "Polizeiliches Durchgangslager Amersfoort" et sera dirigé par Joseph Kotälla condamné à mort à la fin de la guerre.</p>
 

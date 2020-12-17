@@ -176,11 +176,15 @@ section {
 }
 
 .h1, h1 {
-    font-size: 1.8rem;
+    font-size: 1.58rem;
 }
 
 .h2, h2 {
     font-size: 1.3rem;
+}
+
+.h3, h3 {
+    font-size: 1.15rem;
 }
 
 a {

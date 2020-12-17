@@ -164,7 +164,7 @@
             Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
             <li><a href="../pdf/FoXIIa1133_qt.pdf" target="_blank" title=" Kriegsgefangenen in Deutschland, livre sur les camps de prisonniers écrit par Hermann Montanus en 1915">
             Kriegsgefangenen in Deutschland</a> (Hermann Montanus, 1915)</li>
-            <li><a href="https://gallica.bnf.fr/ark:/12148/cb32793235n/date1916.item" target="_blank" title=" ">
+            <li><a href="https://gallica.bnf.fr/ark:/12148/cb32793235n/date1916.item" target="_blank" title="Kriegsgefangenen in Deutschland, livre sur les camps de prisonniers en Allemagne écrit par Hermann Montanus en 1915">
             L'intermède n°27, novembre 1916</a> (journal du camp)</li>
             <li><a href="https://amzn.to/2MTTkR9" target="_blank">
             Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>

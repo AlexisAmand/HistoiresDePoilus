@@ -143,8 +143,8 @@
 
         <figure class="text-center">
         	<a href="images/CARLIER_Louis_Abraham/page_1.jpg" id="testgal2" data-fancybox="gallery" data-caption=" ">
-        	<img src="images/CARLIER_Louis_Abraham/page_1.jpg" id="testgal" alt=" " class="img-fluid"/></a>
-        	<figcaption>Dossier d'ancien combattant de CARLIER Louis Abraham<br />
+        	<img src="images/CARLIER_Louis_Abraham/page_1.jpg" id="testgal" alt="extrait du dossier d'ancien combattant de CARLIER Louis" class="figure-img img-fluid img-thumbnail"/></a>
+        	<figcaption class="figure-caption">Dossier d'ancien combattant de CARLIER Louis Abraham<br />
 			(Source: <a href="https://www.geneachtimi.com/" title="Généachtimi : Site pour rechercher ses ancêtres dans les Hauts-de-France">Généachtimi</a> et 
 			<a href="https://archivesdepartementales.lenord.fr/" title="Site officiel des archives départementales du Nord">Archives du Nord</a>
         </figure>

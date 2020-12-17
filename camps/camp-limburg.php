@@ -254,7 +254,7 @@
 
         <div id="Emilien_Ordonnaud"></div>
 
-        <h3>Emilien ORDONNAUD</h3>
+        <h2>Emilien ORDONNAUD</h2>
 
         <p class="text-justify">Le 23 mai 2017, j'ai été contacté par Muriel Dupuis Mallinger. Elle m'a raconté qu'Emilien ORDONNAUD, son arrière-grand-père, a été blessé et fait prisonnier le 28 août 1914 à Moislain dans la Somme puis emprisonné au camp du Limburg. Il travaillait dans une ferme. Elle ne sait pas si c'était en même temps ou ensuite. Il est resté en Allemagne jusqu'en 1918. Elle m'a gentiment permis de partager avec vous les photos qu'elle m'a envoyé.</p>
 

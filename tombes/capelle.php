@@ -189,8 +189,7 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="../pdf/vdh_orleans-grande-guerre.pdf" target="_blank" title=" ">
-            Orléans pendant la Grande Guerre (Ville d'Orléans)</a></li>
+            <li><a href="../pdf/vdh_orleans-grande-guerre.pdf" target="_blank" title="Document sur l'histoire de la ville d'Orléans pendant la Première Guerre Mondiale">Orléans pendant la Grande Guerre (Ville d'Orléans)</a></li>
             <li>Livre d'or du Ministère des pensions (Archives Nationales)</li>
             <li>Mémoire des Hommes (Ministère de la Défense)</li>
             <li>Photo du monument (Collection privée)</li>
