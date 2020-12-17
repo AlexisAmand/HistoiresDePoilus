@@ -10,7 +10,7 @@
         <h5>Les petits plus</h5>
 
         <a href="/mentions.php">Mentions Légales</a><br />
-        <a href="#exampleModal" data-toggle="modal" data-target="#exampleModal">Pour me contacter</a><br />
+        <a href="#contactModal" data-toggle="modal" data-target="#contactModal">Pour me contacter</a><br />
         <a href="http://www.genealexis.fr">Genealexis.fr</a><br />
         <a href="/index_noms.php">Soldats mentionnés</a><br />
         <a href="#">Plan du site</a><br />

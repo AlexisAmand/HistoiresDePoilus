@@ -47,7 +47,7 @@ $message = "Nom : ".$_POST['nom']."<br />"
 				<div class="modal-dialog" role="document">
 					<div class="modal-content">
 						<div class="modal-header">
-							<h5 class="modal-title" id="exampleModalLabel">Me contacter</h5>
+							<h5 class="modal-title" id="contactModalLabel">Me contacter</h5>
 							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 							<span aria-hidden="true">&times;</span>
 							</button>
@@ -73,11 +73,11 @@ $message = "Nom : ".$_POST['nom']."<br />"
 
 <form method="POST">
 
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade" id="contactModal" tabindex="-1" aria-labelledby="contactModalLabel" aria-hidden="true">
 <div class="modal-dialog">
 <div class="modal-content">
   <div class="modal-header">
-	<h5 class="modal-title" id="exampleModalLabel">Me contacter</h5>
+	<h5 class="modal-title" id="contactModalLabel">Me contacter</h5>
 	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 	  <span aria-hidden="true">&times;</span>
 	</button>

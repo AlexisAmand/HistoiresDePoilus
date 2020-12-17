@@ -133,7 +133,7 @@
 
     <h1 class="my-4">Les morts pour la France à Capelle-sur-Ecaillon</h1>
 
-        <p  class="text-justify">Voici la liste des morts pour la France et des victimes civiles de Capelle-sur-Ecaillon (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="#exampleModal" data-toggle="modal" data-target="#exampleModal">laissant un petit message.</a></p>
+        <p  class="text-justify">Voici la liste des morts pour la France et des victimes civiles de Capelle-sur-Ecaillon (Nord) pendant la Grande Guerre. Je mettrai cette page à jour en fonction de mes découvertes. N'hésitez pas à me faire part de vos remarques ou à signaler les éventuelles erreurs en me <a href="#contactModal" data-toggle="modal" data-target="#contactModal">laissant un petit message.</a></p>
 
         <figure class="text-center">
             <a href="images/capelle-sur-ecaillon.jpg" data-fancybox="gallery" data-caption="Le monument de Capelle-sur-Ecaillon">
