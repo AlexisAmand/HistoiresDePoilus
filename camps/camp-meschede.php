@@ -190,7 +190,7 @@
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
             Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
             <li>L'Echo d'Alger du 20 décembre 1915</li>
-            <li><a href="https://amzn.to/2MTTkR9" title=" " target="_blank">
+            <li><a href="https://amzn.to/2MTTkR9" title="Livre sur les prisonniers de guerre dans l'histoire" target="_blank">
             Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
         </ul>
 

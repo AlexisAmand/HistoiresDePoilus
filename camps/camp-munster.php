@@ -355,13 +355,14 @@
         <ul>
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
             Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
-            <li><span>Bulletin de l'Office d'information des oeuvres de secours aux prisonniers de guerre (n°13 du 27 septembre 1915)</span></li>
+            <li>Bulletin de l'Office d'information des oeuvres de secours aux prisonniers de guerre (n°13 du 27 septembre 1915)</li>
             <li>Journal "Le Temps" du 15 septembre 1915</li>
-            <li><a href="../pdf/book02.pdf" title=" " target="_blank">
+            <li><a href="../pdf/book02.pdf" title="Livre sur le traitement des prisonniers français en Allemagne pendant la Grande Guerre écrit par De Christmas" target="_blank">
             Le traitement des prisonniers français en Allemagne</a> (J. De Christmas, 1917)</li>
             <li>Histoire Anecdotique de la Guerre de 14-15 (Volume 10)</li>
             <li>Westfalen in Ersten Weltkrieg (Rainer Pöppinghege)</li>
-            <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
+            <li><a href="../pdf/FoXIIa1133_qt.pdf" target="_blank" title=" Kriegsgefangenen in Deutschland, livre sur les camps de prisonniers écrit par Hermann Montanus en 1915">
+            Kriegsgefangenen in Deutschland</a> (Hermann Montanus, 1915)</li>
             <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre, 1924)</li>
         </ul>    
 

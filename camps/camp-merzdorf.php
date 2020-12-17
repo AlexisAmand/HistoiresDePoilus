@@ -147,11 +147,11 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2MTTkR9" title=" " target="_blank">
+            <li><a href="https://amzn.to/2MTTkR9" title="Livre sur les prisonniers de guerre dans l'histoire" target="_blank">
             Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
             Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
-            <li><a href="../pdf/globe-58-1919.pdf" title=" " target="_blank">
+            <li><a href="../pdf/globe-58-1919.pdf" title="tome 58 de la Revue genevoise de géographie daté de 1919" target="_blank">
             Le Globe, Revue genevoise de géographie, tome 58 (1919)</a></li>
         </ul>
 

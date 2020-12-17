@@ -117,7 +117,7 @@
 
           <h1 class="my-4">Ressources bibliographiques</h1>
 
-          <p class="text-justify">Vous trouverez sur cette page la liste de toutes les ressources bibliographiques (livres et revues par exemple) qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php" title="contacter le webmaster">me contacter</a> si vous avez une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p>
+          <p class="text-justify">Vous trouverez sur cette page la liste de toutes les ressources bibliographiques (livres et revues par exemple) qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="#exampleModal" data-toggle="modal" data-target="#exampleModal">me contacter</a> si vous avez une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p>
 
           <h2 class="mt-5">Vie quotidienne des soldats</h2>
 

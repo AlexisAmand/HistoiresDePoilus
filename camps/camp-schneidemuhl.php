@@ -199,11 +199,12 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="https://amzn.to/2MTTkR9" target="_blank" title=" ">
+            <li><a href="https://amzn.to/2MTTkR9" target="_blank" title="Livre sur les prisonniers de guerre dans l'histoire">
             Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
             Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
-            <li>Delcampe (pour les cartes postales)</li>
+            <li><a href="https://www.delcampe.net/fr/collections/" target="_blank"  title="Delcampe, un site pour acheter et vendre ses objets de collection">
+            Delcampe</a> (pour les cartes postales)</li>
             <li><a href="../pdf/FoXIIa1133_qt.pdf" title="Die Kriegsgefangenen in Deutschland écrit par Hermann Montanus en 1915" target="_blank">
             Die Kriegsgefangenen in Deutschland</a> (Hermann Montanus, 1915)</li>
         </ul>

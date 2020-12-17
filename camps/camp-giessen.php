@@ -185,13 +185,15 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="http://amzn.to/2wHK3UT" target="_blank"  title=" ">
+            <li><a href="http://amzn.to/2wHK3UT" target="_blank"  title="Sous le ciel d'Allemagne, compilation de sonnets écrit par un prisonnier de Darmstadt, Meyenburg, Limburg et Giessen">
             Sous le ciel d'Allemagne. Sonnets d'un prisonnier de guerre. Darmstadt, Meyenburg, Limburg, Giessen (Émile Mussat, 1921)</a></li> 
-            <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>
-            <li><a href="../pdf/book02.pdf" target="_blank"  title=" ">
+            <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf" target="_blank" title="Aus Deutschen Kriegsgefangenenlagern, un livre sur les camps de prisonniers en Allemagne">
+            Aus deutschen Kriegsgefangenenlagern</a> (Rütten &#38; Loening, 1915-1916)</li>
+            <li><a href="../pdf/book02.pdf" target="_blank"  title="Livre sur le traitement des prisonniers de guerre français en Allemagne écrit par le Docteur Christmas en 1917">
             Le traitement des prisonniers français en Allemagne</a> (J. De Christmas, 1917)</li>
             <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre, 1924)</li>
-            <li>Delcampe (pour les cartes postales)</li>
+            <li><a href="https://www.delcampe.net/fr/collections/" target="_blank"  title="Delcampe, un site pour acheter et vendre ses objets de collection">
+            Delcampe</a> (pour les cartes postales)</li>
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
             Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
         </ul>

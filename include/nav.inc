@@ -25,7 +25,7 @@
                                 <a class="dropdown-item" href="/hopitaux/hopitaux.php">Le système de santé pendant la Grande Guerre</a>
                                 <a class="dropdown-item" href="/hopitaux/hopitaux-59.php">Les hôpitaux du Nord</a>
                                 <a class="dropdown-item" href="/hopitaux/hopitaux-62.php">Les hôpitaux du Pas-de-Calais</a>
-                                <a class="dropdown-item" href="/hopitaux/hopitaux-80.php">Les hôpitaux de la Marne</a>
+                                <a class="dropdown-item" href="/hopitaux/hopitaux-80.php">Les hôpitaux de la Somme</a>
                             </div>
                         </li>
                         <li class="nav-item">
@@ -59,7 +59,8 @@
                             Les Ressources
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="/guides/parcours-soldat.php">Comment retrouver un poilus ?</a>
+                                <a class="dropdown-item" href="/guides/parcours-soldat.php">Comment retrouver un poilus ?</a>
+                                <a class="dropdown-item" href="/ressources/historiques-regiments.php">Les historiques de régiments</a>
                                 <a class="dropdown-item" href="/bibliographie.php">Les ressources bibliographiques</a>
                                 <a class="dropdown-item" href="/webographie.php">Les ressources en ligne</a>
                             </div>

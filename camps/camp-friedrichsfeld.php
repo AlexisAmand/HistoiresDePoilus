@@ -276,18 +276,19 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="http://gallicalabs.bnf.fr/ark:/12148/bpt6k65295400" target="_blank"  title=" ">
+            <li><a href="http://gallicalabs.bnf.fr/ark:/12148/bpt6k65295400" target="_blank"  title="Livre sur le sort des prisonniers français en Allemagne en 1916 disponible sur le site de la BNF">
             Le Sort des prisonniers français en Allemagne (1916)</a></li>
             <li><a href="https://amzn.to/2UXyxnc" title="Guide pratique des décorations françaises actuelles" target="_blank">
             Guide pratique des décorations françaises actuelles</a> par J. BATTINI et W. ZANIEWICKI (Lavauzelle)</li>
-            <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
-            <li><a href="../pdf/book02.pdf" target="_blank"  title=" ">
+            <li><a href="../pdf/FoXIIa1133_qt.pdf" target="_blank" title=" Kriegsgefangenen in Deutschland, livre sur les camps de prisonniers écrit par Hermann Montanus en 1915">
+            Kriegsgefangenen in Deutschland</a> (Hermann Montanus, 1915)</li>
+            <li><a href="../pdf/book02.pdf" target="_blank"  title="Livre sur le traitement des prisonniers français en Allemagne écrit par le Docteur Christmas en 1917">
             Le traitement des prisonniers français en Allemagne</a> (J. De Christmas, 1917)</li>
-            <li><a href="https://amzn.to/2MTTkR9" target="_blank"  title=" ">
+            <li><a href="https://amzn.to/2MTTkR9" target="_blank"  title="Livre sur les prisonniers de guerre dans l'histoire">
             Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
             Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
-            <li><a href="https://commons.wikimedia.org/wiki/Accueil" target="_blank"  title=" ">
+            <li><a href="https://commons.wikimedia.org/wiki/Accueil" target="_blank"  title="Livre sur les prisonniers de guerre pendant la Grande Guerre écrit par Jean-Paul Briastre en 2013">
             Wikipedia Commons</a></li>
         </ul>
 

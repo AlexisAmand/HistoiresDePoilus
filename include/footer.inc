@@ -23,13 +23,13 @@
         <h5>Suivez-moi !</h5>
 
         <div style="font-size: 2.6em;">
-            <a href="https://www.facebook.com/genealexis.fr>" title=" ">
+            <a href="https://www.facebook.com/genealexis.fr>" title="Page Facebook de Généalexis">
             <i class="fab fa-facebook"></i></a>
-            <a href="https://www.instagram.com/alexisamand/" title=" ">
+            <a href="https://www.instagram.com/alexisamand/" title="Compte Instagram d'Alexis AMAND">
             <i class="fab fa-instagram"></i></a>
-            <a href="https://twitter.com/alexisamand" title=" ">
+            <a href="https://twitter.com/alexisamand" title="Compte Twitter d'Alexis AMAND">
             <i class="fab fa-twitter-square"></i></a>
-            <a href="https://www.linkedin.com/in/alexis-amand-99775817/" title=" ">
+            <a href="https://www.linkedin.com/in/alexis-amand-99775817/" title="Profil d'Alexis AMAND sur Linkedin">
             <i class="fab fa-linkedin"></i></a>
         </div>
 
@@ -38,6 +38,6 @@
     <div class="col-12 text-center order-4">
 
         <br /><br />Copyright &copy; 2014-<?php echo date('Y'); ?> - Tous droits réservés<br />
-        Site réalisé par <a href="https://www.boitasite.com">Boitasite</a>
+        Site réalisé par <a href="https://www.boitasite.com" title="Création et référencement de sites">Boitasite</a>
 
     </div>

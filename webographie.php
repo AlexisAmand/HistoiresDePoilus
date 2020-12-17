@@ -117,7 +117,7 @@
 
         <h1 class="my-4">Ressources en ligne</h1>
 
-        <p class="text-justify">Vous trouverez sur cette page la liste de toutes les ressources en ligne (sites, blogs ou forums par exemple) qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="contact.php" title="contacter le webmaster">me contacter</a> si vous avez une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p class="text-justify">Certains documents sont <strong>des pdf</strong>, selon la configuration de votre ordinateur, ils peuvent mettre un petit moment à s'afficher. Pour les lire, vous devez posséder un logiciel comme <em>Adobe Reader</em>, que vous pouvez <a href="https://get.adobe.com/fr/reader/" title="télécharger gratuitement Adobe Reader">télécharger gratuitement ici</a>.</p>
+        <p class="text-justify">Vous trouverez sur cette page la liste de toutes les ressources en ligne (sites, blogs ou forums par exemple) qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="#exampleModal" data-toggle="modal" data-target="#exampleModal">me contacter</a> si vous avez une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p class="text-justify">Certains documents sont <strong>des pdf</strong>, selon la configuration de votre ordinateur, ils peuvent mettre un petit moment à s'afficher. Pour les lire, vous devez posséder un logiciel comme <em>Adobe Reader</em>, que vous pouvez <a href="https://get.adobe.com/fr/reader/" title="télécharger gratuitement Adobe Reader">télécharger gratuitement ici</a>.</p>
 
         <h2 class="mt-5">Dossiers d'anciens combattants</h2>
 
@@ -138,60 +138,6 @@
             Le dossier d'ancien combattant de Florimond LETIENNE</a> (Archives Départementales du Nord)</li>
             <li><a href="archives/dossier-louis-tiburce.php">
             Le dossier d'ancien combattant de Louis TIBURCE</a> (Archives Départementales du Nord)</li>
-        </ul>
-
-        <h2 class="mt-5">Historique des bataillons de chasseurs</h2>
-
-        <ul>
-            <li><a href="pdf/Historique-12-BC.pdf" title="Historique du 12e bataillon de chasseurs">
-            Historique du 12e bataillon de chasseurs</a><br />(Gallica / Service historique de la Défense)</li>
-            <li><a href="pdf/Historique-19eBCP.pdf" title="Historique du 19e bataillon de chasseurs à Pied">
-            Historique du 19e Bataillon de Chasseurs à Pied</a><br />(Gallica / Service historique de la Défense)</li>
-        </ul>
-
-        <h2 class="mt-5">Historique des régiments de hussards</h2>
-
-        <ul>
-            <li><a href="pdf/Historique_2_Hussards_plaquette" title="Plaquette présentant l'historique du 2e régiment de hussards">
-            Historique du 2e régiment de hussards</a><br />(source inconnue)</li>
-        </ul>
-
-        <h2 class="mt-5">Historique de l'Armée d'Afrique</h2>
-
-        <ul>
-            <li><a href="http://gallica.bnf.fr/ark:/12148/bpt6k6342646q" title="Historique du 4e bataillon d'infanterie légère d'Afrique">
-            Historique du 3e bataillon de marche et du 4e bataillon d'infanterie légère d'Afrique</a><br />(Gallica / Service historique de la Défense)</li>
-        </ul>
-
-        <h2 class="mt-5">Historiques des régiments d'artillerie</h2>
-
-        <ul>
-            <li><a href="pdf/53eRA.pdf" title="Historique des 53e et 253e Régiments d'Artillerie">
-            Historique des 53e et 253e Régiments d'Artillerie</a><br />(Anonyme, de Bussac, 1923) numérisé par Jean-François Joly</li>
-        </ul>
-
-        <h2 class="mt-5">Historiques des régiments d'infanterie</h2>
-
-        <ul>
-            <li>Historique du 33e Régiment d'Infanterie<br />(anonyme, Imprimerie J. Dumoulin, Paris, 1920 / Numérisé par Daniel Crozat)</li>
-            <li><a href="pdf/127-historique-14-18.pdf" title="Historique du 127e Régiment d'Infanterie">Historique du 127e Régiment d'Infanterie</a><br />(anonyme, numérisé par Julien Brasseur)</li>
-            <li><a href="pdf/153eRI.pdf" title="Historique du 153e Régiment d'Infanterie">Historique du 153e Régiment d'Infanterie</a><br />(Historique numérisé par Paul Chagnoux en 2012)</li>
-            <li><a href="pdf/Historique-162-RI.pdf" title="Historique du 162e Régiment d'Infanterie">Historique du 162e Régiment d'Infanterie</a><br />(anonyme)</li>
-            <li><a href="pdf/Historique-164-RI.pdf" title="Historique du 164e Régiment d'Infanterie">Historique du 164e Régiment d'Infanterie</a><br />(BDIC / Numérisé par Ancestramil)</li>
-        </ul>
-
-        <h2 class="mt-5">Historiques des régiments d'infanterie territoriale</h2>
-
-        <ul>
-            <li><a href="pdf/historique_du_2e_RIT.pdf" title="Historique du 2e Régiment d'Infanterie Territoriale">Historique du 2e Régiment d'Infanterie Territoriale</a><br />(Historique numérisé par Paul Chagnoux en 2006)</li>
-            <li><a href="pdf/historique_du_3e_RIT.pdf" title="Historique du 3e Régiment d'Infanterie Territoriale">Historique du 3e Régiment d'Infanterie Territoriale</a><br />(Gallica / Service historique de la Défense)</li>
-            <li><a href="pdf/3eRIT.pdf" title="Historique du 3e Régiment d'Infanterie Territoriale">Historique du 3e Régiment d'Infanterie Territoriale</a><br />(Version retranscrite)</li>
-        </ul>
-
-        <h2 class="mt-5">Historiques des régiments d'artillerie de campagne</h2>
-
-        <ul>
-            <li><a href="pdf/Historique-15-RAC.pdf" title="Historique du 15e Régiment d'Artillerie de Campagne">Historique du 15e Régiment d'Artillerie de Campagne</a><br />(Gallica / Service historique de la Défense)</li>
         </ul>
 
         <h2 class="mt-5">Les As de la Grande Guerre (aviation)</h2>
@@ -234,6 +180,13 @@
             <li><a href="pdf/recquignies-1914.pdf" title="Petite histoire de Recquignies et Rocq en 1914">Petite histoire de Recquignies et Rocq en 1914</a><br />(Anonyme)</li>
             <li><a href="https://archive.org/details/19141918iedixneu01chriuoft">La Grande Guerre, vécue - racontée - illustrée par les combattants (tome 1)</a><br />(Publiée sous la Direction de Christian-Frogé, 1922)</li>
             <li><a href="https://archive.org/details/19141918iedixneu02chriuoft">La Grande Guerre, vécue - racontée - illustrée par les combattants (tome 2)</a><br />(Publiée sous la Direction de Christian-Frogé, 1922)</li>
+        </ul>
+
+        <h2 class="mt-5">Journaux des camps de prisonniers</h2>
+
+        <ul>
+            <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k6412697f" target="_blank" title="Version numérisée du journal du camp de Würzburg">
+            L'Intermède : littéraire, sportif et musical</a> (journal du camp de Würzburg)</li>
         </ul>
 
         <h2 class="mt-5">Les douanes et les douaniers</h2>

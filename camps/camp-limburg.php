@@ -142,7 +142,7 @@
 
         <p class="text-justify">Le camp de Limburg était situé dans une région appelée Hesse-Nassau (en allemand Hessen-Nassau).</p>
 
-        <figure class="text-center">    
+        <figure class="text-center">
             <a href="images/Limburg/localisation-limburg.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Limburg">
             <img src="miniatures/Limburg/localisation-limburg.jpg" class="figure-img img-fluid img-thumbnail" alt="carte de l'Allemagne pour localiser le camp de prisonniers de Limburg"></a>
             <figcaption class="figure-caption">Localisation du camp de Limburg<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
@@ -291,13 +291,14 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href="http://amzn.to/2wHK3UT" target="_blank"  title=" ">
+            <li><a href="http://amzn.to/2wHK3UT" target="_blank" title="Delcampe, un site pour acheter et vendre ses objets de collection">
             Sous le ciel d'Allemagne. Sonnets d'un prisonnier de guerre. Darmstadt, Meyenburg, Limburg, Giessen (Émile Mussat, 1921)</a></li> 
-            <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>
+            <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf" target="_blank" title="Aus Deutschen Kriegsgefangenenlagern, un livre sur les camps de prisonniers en Allemagne">
+            Aus deutschen Kriegsgefangenenlagern</a> (Rütten &#38; Loening, 1915-1916)</li>
             <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre, 1924)</li>
             <li>Rapports des délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne, 1914-1917</li>  
             <li>L'Echo d'Alger du 20 décembre 1915</li>
-            <li><a href="https://amzn.to/2MTTkR9" target="_blank"  title=" ">
+            <li><a href="https://amzn.to/2MTTkR9" target="_blank"  title="Livre sur les prisonniers de guerre dans l'histoire">
             Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
             Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>

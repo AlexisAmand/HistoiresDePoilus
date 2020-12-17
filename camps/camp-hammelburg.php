@@ -233,16 +233,18 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li>Delcampe (pour les cartes postales)</li>
-            <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k6117174j" target="_blank"  title=" ">
+            <li><a href="https://www.delcampe.net/fr/collections/" target="_blank"  title="Delcampe, un site pour acheter et vendre ses objets de collection">
+            Delcampe</a> (pour les cartes postales)</li>
+            <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k6117174j" target="_blank"  title="Exemplaire du journal L'Exilé daté du 27 aout 1916 et disponible sur le site de la BNF">
             Journal l'Exilé du 27 aout 1916 (BNF - Gallica)</a></li>
-            <li><a href="../pdf/book02.pdf" target="_blank"  title=" ">
+            <li><a href="../pdf/book02.pdf" target="_blank"  title="Livre sur le traitement des prisonniers français en Allemagne écrit par le Docteur De Christmas">
             Le traitement des prisonniers français en Allemagne</a> (J. De Christmas, 1917)</li>
             <li>Bulletin de l'Office d'information des oeuvres de secours aux prisonniers de guerre n°21 du 6 décembre 1915</li>
-            <li>Die Kriegsgefangenen in Deutschland (Hermann Montanus, 1915)</li>
+            <li><a href="../pdf/FoXIIa1133_qt.pdf" target="_blank" title="Kriegsgefangenen in Deutschland, livre sur les camps de prisonniers écrit par Hermann Montanus en 1915">
+            Kriegsgefangenen in Deutschland</a> (Hermann Montanus, 1915)</li>
             <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre, 1924)</li>
             <li>Rapports des délégués du Gouvernement Espagnol sur leurs visites dans les camps de prisonniers français en Allemagne, 1914-1917</li>
-            <li><a href="https://amzn.to/2MTTkR9" target="_blank"  title=" ">
+            <li><a href="https://amzn.to/2MTTkR9" target="_blank"  title="Livre sur les prisonniers de guerre dans l'histoire">
             Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
             Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>

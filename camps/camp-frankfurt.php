@@ -155,8 +155,9 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li>Aus deutschen Kriegsgefangenenlagern (Rütten &#38; Loening, 1915-1916)</li>
-            <li><a href="https://amzn.to/2MTTkR9" target="_blank"  title=" ">
+            <li><a href="../pdf/aus-deutschen-kriegsgefangenenlagern.pdf" target="_blank" title="Aus Deutschen Kriegsgefangenenlagern, un livre sur les camps de prisonniers en Allemagne">
+            Aus deutschen Kriegsgefangenenlagern</a> (Rütten &#38; Loening, 1915-1916)</li>
+            <li><a href="https://amzn.to/2MTTkR9" target="_blank"  title="Livre sur les prisonniers de guerre dans l'histoire">
             Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
             <li>Quatrième et dernier rapport, septembre 1917-mars 1924  (Office central belge pour les prisonniers de guerre, 1924)</li>
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
