@@ -9,11 +9,12 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Auguste Maurice BALTAZART - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Auguste Maurice BALTAZART, soldat français pendant la Première Guerre Mondiale" name="description"/>
 
-    <link rel="stylesheet" href="css/style.dev.css" media="all">
-    <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
+
+    <link rel="stylesheet" href="../css/style.dev.css" media="all">
+    <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
     <link rel="icon" type="image/png" href="images/favicon.png"/>
@@ -26,7 +27,7 @@
 
     <!-- code pour les cookies -->
 
-    <script type="text/javascript" src="/tarteaucitron/tarteaucitron.js"></script>
+    <script type="text/javascript" src="../tarteaucitron/tarteaucitron.js"></script>
 
     <script type="text/javascript">
     tarteaucitron.init({
@@ -79,8 +80,8 @@
 
               <div class="col-12 text-center">
 
-                  <a href="index.php">
-                      <img src="images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
+                  <a href="../index.php">
+                      <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
               </div>
@@ -127,14 +128,47 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Auguste Maurice BALTAZART</li>
         </ol>
     </nav>
 
     <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Auguste Maurice BALTAZART</h1>
 
+      <p class="text-justify">Auguste Maurice BALTAZART, ou Auguste Marie selon les sources, est né à Grandpré (Ardennes) le 13 février 1892. L’acte de naissance reconstitué après la Grande Guerre nous précise qu’il est le fils légitime de Eugène Edmond BALTAZART et de Caroline Elise GAYET, ainsi que le frére de Jules Bernard BALTAZART. A L’heure où j’écris ces lignes, ma parenté avec Auguste n’est pas encore prouvée par mes recherches.</p>
+
+      <figure class="text-center">
+          <a href="sources/naissance-auguste-baltazart-1892.jpg" data-fancybox="gallery" data-caption="Copie de l'acte de naissance reconstitué d'Auguste BALTAZART daté de 1892">
+          <img src="miniatures/naissance-auguste-baltazart-1892.jpg" class="figure-img img-fluid img-thumbnail" alt="Acte de naissance d'Auguste BALTAZART daté de 1892"/></a>
+          <figcaption class="figure-caption">Acte de naissance reconstitué<br />(source : Archives Départementales des Ardennes)</figcaption>
+      </figure>
+
+      <p class="text-justify">A la mobilisation, Auguste est membre du 25e Bataillon de Chasseurs à Pied. Il est tué à l’ennemi à l’âge de 22 ans le 24 aout 1914 à Arrancy, dans la meuse. La mention <em>mort pour la France</em> lui est attribuée via un jugement à Vouziers (Ardennes) en date du 29 juin 1920 et son décès est transcrit à Grandpré quelques jours plus tard, le 5 juillet.</p>
+
+      <p class="text-justify">Son nom figure sur le monument aux morts de Grandpré (08) et sur le livre d’or du ministère des pensions.</p>
+
+      <figure class="text-center">
+          <a href="images/monument-grandpre.jpg" data-fancybox="gallery" data-caption="Le monument au morts de Grandpré (Ardennes)">
+          <img src="miniatures/monument-grandpre.jpg" class="figure-img img-fluid img-thumbnail" alt="Le monument aux morts pour la France de Grandpré, dans les Ardennes"/></a>
+          <figcaption class="figure-caption">Le monument aux morts de Grandpré<br />(source: Delcampe)</figcaption>
+      </figure>
+
+      <figure class="text-center">
+          <a href="sources/livre-dor-grandpre.jpg" data-fancybox="gallery" data-caption="Extrait du Livre d'Or de Grandpré (Ardennes)">
+          <img src="miniatures/livre-dor-grandpre.jpg" class="figure-img img-fluid img-thumbnail" alt="Extrait du livre d'or des morts pour la France de Grandpré, dans les Ardennes"/></a>
+          <figcaption class="figure-caption">Extrait du Livre d'Or du Ministère des Pensions<br />(source : Archives Départementales des Ardennes)</figcaption>
+      </figure>
+
+      <h2>Sources et bibliographie</h2>
+
+      <ul>
+          <li><a href="http://memorialgenweb.org/">Mémorial Genweb</a></li>
+          <li><a href="https://archives.cd08.fr/" title="Site officiel des Archives départementales des Ardennes">Archives Départementales des Ardennes</a></li>
+          <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+          <li><a href="http://www.archives-nationales.culture.gouv.fr/" title="Site officiel des Archives Nationales de France">Archives Nationales de France</a></li>
+          <li><a href="https://www.delcampe.net/fr/collections/">Delcampe</a> (pour certaines illustration)</li>
+      </ul>
 
     </article>
 

@@ -9,14 +9,14 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Octave AMAND - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du soldat Octave AMAND, soldat belge pendant la Première Guerre Mondiale" name="description"/>
 
-    <link rel="stylesheet" href="css/style.dev.css" media="all">
-    <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="../css/style.dev.css" media="all">
+    <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
-    <link rel="icon" type="image/png" href="images/favicon.png"/>
+    <link rel="icon" type="image/png" href="../images/favicon.png"/>
 
     <!-- Initialisation d'une variable pour masquer/afficher le menu -->
 
@@ -26,7 +26,7 @@
 
     <!-- code pour les cookies -->
 
-    <script type="text/javascript" src="/tarteaucitron/tarteaucitron.js"></script>
+    <script type="text/javascript" src="../tarteaucitron/tarteaucitron.js"></script>
 
     <script type="text/javascript">
     tarteaucitron.init({
@@ -79,8 +79,8 @@
 
               <div class="col-12 text-center">
 
-                  <a href="index.php">
-                      <img src="images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
+                  <a href="../index.php">
+                      <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
               </div>
@@ -127,14 +127,49 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Octave AMAND</li>
         </ol>
     </nav>
 
     <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Octave AMAND</h1>
 
+      <p class="text-justify">Octave AMAND est né à Harzé (Belgique), le 1er juin 1895, fils de Léopold AMAND, âgé de 57 ans, négociant et de Hortense RINCHON, son épouse, ménagère de 38 ans, tous deux domiciliés à Harzé. A l'heure où j'écris ces ligne, je n'ai pas - encore - trouvé de parenté avec lui.</p>
+
+      <figure class="text-center">
+          <a href="sources/naissance-octave-amand.jpg" data-fancybox="gallery" data-caption="Acte de naissance d'Octave AMAND">
+          <img src="miniatures/naissance-octave-amand.jpg" class="figure-img img-fluid img-thumbnail" alt="Acte de naissance d'Octave AMAND daté de 1895"></a>
+          <figcaption class="figure-caption">Acte de naissance d'Octave AMAND<br />(Source: Familysearch et Archives Belges)</figcaption>
+      </figure>
+
+      <p>Elève de la première candidature en sciences naturelles, il franchit la frontière, en avril 1915, conquit, à l'école de Bayeux, le diplôme de sous-lieutenant au 11e régiment de ligne.</p>
+
+      <p>Il fut un officier d'un entrain et d'une intrépidité remarquables. Il s'est spécialement distingué, du 14 au 18 octobre 1918, à l'attaque de la Flandernstellung et de Lendelede, en réduisant plusieurs nids de mitrailleuses, en capturant un officier, 22 soldats et deux  mitrailleuses ennemies. Il mourut, le 6 décembre 1918, à Harzé, emporté par une grippe infectieuse.</p>
+
+      <figure class="text-center">
+          <a href="images/amand-octave.jpg" data-fancybox="gallery" data-caption="Portrait d'Octave AMAND">
+          <img src="miniatures/amand-octave.jpg" class="figure-img img-fluid img-thumbnail" alt="Portrait d'Octave AMAND, soldat d'Harzé pendant la Grande Guerre"></a>
+          <figcaption class="figure-caption">Octave AMAND</figcaption>
+      </figure>
+
+      <p>Il est titulaire de l'Ordre de la Couronne et de la Croix de Guerre.</p>
+
+      <figure class="text-center">
+          <a href="images/ordre-de-la-couronne.jpg" data-fancybox="gallery" data-caption="Anvers de la médaille d'officier de l'ordre de la Couronne">
+          <img src="miniatures/ordre-de-la-couronne.jpg" class="figure-img img-fluid img-thumbnail" alt="Anvers de la médaille d'officier de l'ordre de la Couronne"></a>
+          <figcaption class="figure-caption">Officier de l'Ordre de la Couronne<br />(Source: Wikipedia Commons) </figcaption>
+      </figure>
+
+      <?php /*
+
+      Quelques lignes qui indiquent les monuments où son nom figure
+
+      https://bel-memorial.org/cities/liege/ferrieres/ferrieres_plaques_institut_saint_roch.htm
+      https://bel-memorial.org/cities_liege_2/liege/liege_memorial_univ.htm
+      https://bel-memorial.org/cities/liege/harze/harze_mom_14-18.htm
+
+      */ ?>
 
     </article>
 

@@ -11,9 +11,9 @@
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <a class="dropdown-item" href="/poilus.php">A propos des poilus</a>
                                 <a class="dropdown-item" href="/poilus/lacourt-onesime.php">Les poilus des Ardennes</a>
-                                <a class="dropdown-item" href="/poilus/amand-hoche.php">Les poilus des Nord</a>
+                                <a class="dropdown-item" href="/poilus/FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>
                                 <a class="dropdown-item" href="/poilus/arnould-gaston.php">Les poilus de la Marne</a>
-                                <a class="dropdown-item" href="//FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>
+                                <a class="dropdown-item" href="/poilus/amand-hoche.php">Les poilus des Nord</a>
                                 <a class="dropdown-item" href="/poilus/amand-jules.php">Les jasses de Belgique</a>
                             </div>
                         </li>
@@ -37,6 +37,7 @@
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <a class="dropdown-item" href="/camps.php">Les camps de prisonniers en Allemagne</a>
+                                <a class="dropdown-item" href="/camps-fr/camps.php">Les camps de prisonniers en France</a>
                                 <a class="dropdown-item" href="/camps-nl/camps-internements.php">Les camps d'internement aux Pays-Bas</a>
                                 <a class="dropdown-item" href="/camps-s/internement-suisse.php">Les camps d'internement en Suisse</a>
                             </div>

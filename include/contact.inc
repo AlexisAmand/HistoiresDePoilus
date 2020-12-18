@@ -110,13 +110,13 @@ $message = "Nom : ".$_POST['nom']."<br />"
 				<div class="col-12 my-3">
 					<h6><i class="fas fa-map-marker-alt"></i>&nbsp;Adresse</h6>
 					<p>Valenciennes<br />
-					Nord, France</p>
+					(Nord, France)</p>
 				</div>
 				<div class="col-12 my-3">
 					<h6><i class="far fa-address-card"></i>&nbsp;Me contacter</h6>
-					<p>00.12.34.56.78<br />
-					contact@supermail.com<br />
-					Ou <a href="#" target="_blank">via Skype</a></p>
+					<p>06.62.63.79.21<br />
+					alexis.amand@gmail.com<br />
+					Ou <a href="https://join.skype.com/invite/ll56sKLeVGxI" target="_blank">via Skype</a></p>
 				</div>
 			</div>
 		</div>

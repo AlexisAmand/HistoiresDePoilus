@@ -9,14 +9,15 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Onésime LACOURT  - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Onésime LACOURT , soldat français pendant la Première Guerre Mondiale" name="description"/>
 
-    <link rel="stylesheet" href="css/style.dev.css" media="all">
-    <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
+
+    <link rel="stylesheet" href="../css/style.dev.css" media="all">
+    <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
-    <link rel="icon" type="image/png" href="images/favicon.png"/>
+    <link rel="icon" type="image/png" href="../images/favicon.png"/>
 
     <!-- Initialisation d'une variable pour masquer/afficher le menu -->
 
@@ -26,7 +27,7 @@
 
     <!-- code pour les cookies -->
 
-    <script type="text/javascript" src="/tarteaucitron/tarteaucitron.js"></script>
+    <script type="text/javascript" src="../tarteaucitron/tarteaucitron.js"></script>
 
     <script type="text/javascript">
     tarteaucitron.init({
@@ -79,8 +80,8 @@
 
               <div class="col-12 text-center">
 
-                  <a href="index.php">
-                      <img src="images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
+                  <a href="../index.php">
+                      <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
               </div>
@@ -127,14 +128,26 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Onésime LACOURT</li>
         </ol>
     </nav>
 
     <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Onésime LACOURT</h1>
 
+      <p class="text-justify">Onésime Marcel LACOURT a le matricule n°1544 du bureau de Mézière pour la classe 1909.</p>
+
+      <p class="text-justify">A la mobilisation, il rejoint le 30e Régiment de Dragons avant de rejoindre le 5e Régiment de Cuirassiers en 1917. Plusieurs fois blessé, il est cité à l'ordre du régiment en 1919.</p>
+
+      <h2>Sources et bibliographie</h2>
+
+      <ul>
+        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+        Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+        <li><a href="http://archives.cg08.fr" title="Site officiel des Archives départementales des Ardennes" target="_blank">
+        Archives Départementales des Ardennes</a></li>
+      </ul>
 
     </article>
 

@@ -12,11 +12,11 @@
     <title> </title>
     <meta content=" " name="description"/>
 
-    <link rel="stylesheet" href="css/style.dev.css" media="all">
-    <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="../css/style.dev.css" media="all">
+    <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
-    <link rel="icon" type="image/png" href="images/favicon.png"/>
+    <link rel="icon" type="image/png" href="../images/favicon.png"/>
 
     <!-- Initialisation d'une variable pour masquer/afficher le menu -->
 
@@ -26,7 +26,7 @@
 
     <!-- code pour les cookies -->
 
-    <script type="text/javascript" src="/tarteaucitron/tarteaucitron.js"></script>
+    <script type="text/javascript" src="../tarteaucitron/tarteaucitron.js"></script>
 
     <script type="text/javascript">
     tarteaucitron.init({
@@ -79,8 +79,8 @@
 
               <div class="col-12 text-center">
 
-                  <a href="index.php">
-                      <img src="images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
+                  <a href="../index.php">
+                      <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
               </div>

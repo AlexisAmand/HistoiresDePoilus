@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title>Les camps d'internement Suisses pendant la Grande Guerre - Histoires de Poilus</title>
-    <meta name="description"  content="Présentation des camps d'internement Suisses pendant la Première Guerre mondiale (1914-1918)">
+    <title> </title>
+    <meta name="description"  content=" ">
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -113,34 +113,42 @@
         <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../camps-nl/camps-internements.php">Les camps d'internement</a></li>
-            <li class="breadcrumb-item active" aria-current="page">La Suisse</li>
+            <li class="breadcrumb-item"><a href="../camps-nl/camps-internements.php">Les camps français</a></li>
+            <li class="breadcrumb-item active" aria-current="page">XXX</li>
         </ol>
         </nav>
 
-        <h1 class="my-4">Edito</h1>
+        <h1 class="my-4">Les camps de prisonniers en France</h1>
 
-            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+        <h2>Le camp de Coetquidan</h2>
 
-            <figure>
-                <img src="https://via.placeholder.com/264x173.png" alt=" " class="mx-auto d-block"/>
+            <figure class="text-center">
+                <a href="images/coetquidan-01.jpg" data-fancybox="gallery" data-caption=" ">
+                <img src="miniatures/coetquidan-01.jpg" class="figure-img img-fluid img-thumbnail" alt=" "/></a>
+                <figcaption class="figure-caption"> <br />(source: Clio Team)</figcaption>
             </figure>
 
-            <p class="text-justify">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+        <h2>Le camp de l'île d'Oleron</h2>
 
-            <figure>
-                <img src="https://via.placeholder.com/264x173.png" alt=" " class="mx-auto d-block"/>
+            <figure class="text-center">
+                <a href="images/oleron-01.jpg" data-fancybox="gallery" data-caption=" ">
+                <img src="miniatures/oleron-01.jpg" class="figure-img img-fluid img-thumbnail" alt=" "/></a>
+                <figcaption class="figure-caption"> <br />(source: Clio Team)</figcaption>
             </figure>
 
-            <p class="text-justify">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
+        <h2>Région de Reims</h2>
 
-            <figure>
-                <img src="https://via.placeholder.com/264x173.png" alt=" " class="mx-auto d-block"/>
+            <figure class="text-center">
+                <a href="images/reims-01.jpg" data-fancybox="gallery" data-caption=" ">
+                <img src="miniatures/reims-01.jpg" class="figure-img img-fluid img-thumbnail" alt=" "/></a>
+                <figcaption class="figure-caption"> <br />(source: Clio Team)</figcaption>
             </figure>
 
-            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-
-            <p class="text-right">Bonne lecture,<br />Alexis AMAND<br />(généalogiste et webmaster)</p>
+            <figure class="text-center">
+                <a href="images/reims-02.jpg" data-fancybox="gallery" data-caption=" ">
+                <img src="miniatures/reims-02.jpg" class="figure-img img-fluid img-thumbnail" alt=" "/></a>
+                <figcaption class="figure-caption"> <br />(source: Clio Team)</figcaption>
+            </figure>
 
         </article>
 

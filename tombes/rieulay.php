@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
     <title>Les morts pour la France de Rieulay - Histoires de Poilus</title>
-    <meta content="Les soldats et les civils de Rieulay morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et les livres d'or" name="description">
+    <meta content="Les soldats et les civils de Rieulay morts pour la France pendant la Première Guerre Mondiale (1914-1918) d'après les monuments et le livre d'or" name="description">
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">

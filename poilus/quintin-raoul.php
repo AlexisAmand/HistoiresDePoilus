@@ -9,14 +9,14 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat belge Raoul QUINTIN - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du Jass Raoul QUINTIN, soldat belge pendant la Première Guerre Mondiale" name="description"/>
 
-    <link rel="stylesheet" href="css/style.dev.css" media="all">
-    <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="../css/style.dev.css" media="all">
+    <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
-    <link rel="icon" type="image/png" href="images/favicon.png"/>
+    <link rel="icon" type="image/png" href="../images/favicon.png"/>
 
     <!-- Initialisation d'une variable pour masquer/afficher le menu -->
 
@@ -26,7 +26,7 @@
 
     <!-- code pour les cookies -->
 
-    <script type="text/javascript" src="/tarteaucitron/tarteaucitron.js"></script>
+    <script type="text/javascript" src="../tarteaucitron/tarteaucitron.js"></script>
 
     <script type="text/javascript">
     tarteaucitron.init({
@@ -79,8 +79,8 @@
 
               <div class="col-12 text-center">
 
-                  <a href="index.php">
-                      <img src="images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
+                  <a href="../index.php">
+                      <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
               </div>
@@ -127,14 +127,32 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">RAoul QUINTIN</li>
         </ol>
     </nav>
 
     <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Raoul QUINTIN</h1>
 
+        <p class="text-justify">Né le 19 octobre 1890 rue de Mons à Condé-sur-l'Escaut (Nord) mais déclaré à Bernissart, Raoul QUINTIN est le fils légitime de Raoul Jules QUINTIN et de Marie Augustine PASTEZ, un couple domicilié à Bernissart.</p>
+
+        <figure class="text-center">
+            <a href="sources/Raoul-Quintin-1890.jpg" data-fancybox="gallery" data-caption="acte de naissance de Raoul QUINTIN">
+            <img src="miniatures/Raoul-Quintin-1890.jpg" class="figure-img img-fluid img-thumbnail" alt="copie de l'acte de naissance de Raoul QUINTIN daté de 1890"></a>
+            <figcaption class="figure-caption">Acte de naissance de Raoul QUINTIN<br />(Source : Familysearch)</figcaption>
+        </figure>
+
+        <p class="text-justify">Raoul Charles Jules QUINTIN fait partie de l'Armée Belge. Il porte le numéro de matricule 101/57096 et est mort pour sa patrie le 26 août 1914. La parenté avec moi reste pour l’instant à confirmer.</p>
+        
+        <h2>Sources et bibliographie</h2>
+
+        <ul>
+            <li><a href=" " title=" " target="_blank">
+            Familysearch pour l'état-civil de Belgique</a></li>
+            <li><a href=" " title=" " target="_blank">
+            Dead War Register</a></li>
+        </ul>
 
     </article>
 

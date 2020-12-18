@@ -9,14 +9,14 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Jules AMAND - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du jass Jules AMAND, soldat belge pendant la Première Guerre Mondiale" name="description"/>
 
-    <link rel="stylesheet" href="css/style.dev.css" media="all">
-    <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="../css/style.dev.css" media="all">
+    <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
-    <link rel="icon" type="image/png" href="images/favicon.png"/>
+    <link rel="icon" type="image/png" href="../images/favicon.png"/>
 
     <!-- Initialisation d'une variable pour masquer/afficher le menu -->
 
@@ -26,7 +26,7 @@
 
     <!-- code pour les cookies -->
 
-    <script type="text/javascript" src="/tarteaucitron/tarteaucitron.js"></script>
+    <script type="text/javascript" src="../tarteaucitron/tarteaucitron.js"></script>
 
     <script type="text/javascript">
     tarteaucitron.init({
@@ -79,8 +79,8 @@
 
               <div class="col-12 text-center">
 
-                  <a href="index.php">
-                      <img src="images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
+                  <a href="../index.php">
+                      <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
               </div>
@@ -127,14 +127,49 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Jules AMAND</li>
         </ol>
     </nav>
 
     <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Jules AMAND</h1>
 
+      <p class="text-just">Jules AMAND est né le 24 novembre 1888 à Boussu (Belgique), fils légitime de Jules AMAND et Antoinette AMAND. Les liens qui m’unissent aux parents d’Antoine sont assez compliqués car je suis parent à la fois avec sa mère et son père qui sont eux-mêmes cousins.</p> 
+
+      <figure class="text-center">
+          <a href="images/arbre-amand.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de Jules AMAND">
+          <img src="miniatures/arbre-amand.png" class="figure-img img-fluid img-thumbnail" alt="Arbre généalogique simplifié de Jules AMAND"></a>
+          <figcaption class="figure-caption">Arbre généalogique simplifié de Jules AMAND<br />(Source: Recherches personnelles)</figcaption>
+      </figure>
+
+      <p class="text-justify">Pendant la Grande Guerre, Antoine est soldat de 2e classe et milicien au sein du 9e Régiment de Ligne sous le matricule 109/54524. Antoinette AMAND, sa mère, est fixée sur le sort de son fils seulement 6 ans après la fin de la guerre, quand son livret de mobilisation est retrouvé sur le champ de bataille d’Ougrée, à côté de Liège. Antoine serait tombé au combat le 6 août 1914, à l’âge de 25 ans. D’après ce que j’ai pu comprendre sur les documents du site <a href="https://www.wardeadregister.be/fr" title="Belgian War Dead Register">Dead War Register</a>, son corps aurait été retrouvé dans la fosse commune du Gros Hêtre. il est probable qu'il soit tombé au combat le 6 août 1914 étant entendu que son livret de mobilisation a été retrouvé sur le champ de bataille de la commune d'Ougrée.</p>  
+
+      <figure class="text-center">
+          <a href="sources/amand-jules-01.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
+          <img src="miniatures/amand-jules-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
+          <figcaption class="figure-caption">Fiche Sépultures et cimetières militaires<br />(Source: <a href="https://www.warheritage.be/fr" title=" ">War Heritage Institute</a>)</figcaption>
+      </figure>
+
+      <figure class="text-center">
+          <a href="sources/amand-jules-02.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
+          <img src="miniatures/amand-jules-02.jpg" class="figure-img img-fluid img-thumbnail" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
+          <figcaption class="figure-caption">Fiche Sépultures et cimetières militaires<br />(Source: <a href="https://www.warheritage.be/fr" title=" ">War Heritage Institute</a>)</figcaption>
+      </figure>
+
+      <figure class="text-center">
+          <a href="sources/amand-jules-03.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
+          <img src="miniatures/amand-jules-03.jpg" class="figure-img img-fluid img-thumbnail" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
+          <figcaption class="figure-caption">Fiche Sépultures et cimetières militaires<br />(Source: <a href="https://www.warheritage.be/fr" title=" ">War Heritage Institute</a>)</figcaption>
+      </figure>
+
+      <p class="text-justify">Son nom figure sur le monument aux morts d'Ougrée dédié au 9e Régiment d'Infanterie de Ligne.</p>
+
+      <figure class="text-center">
+          <a href="images/ougree.jpg" data-fancybox="gallery" data-caption="Jules AMAND sur le monument d'Ougrée en Belgique">
+          <img src="miniatures/ougree.jpg" class="figure-img img-fluid img-thumbnail" alt="Jules AMAND sur le monument d'Ougrée en Belgique"/></a>
+          <figcaption class="figure-caption">Jules sur le monument d'Ougrée<br />(Source: <a href="http://www.bel-memorial.org">Bel-Memorial</a>)</figcaption>
+      </figure>
 
     </article>
 

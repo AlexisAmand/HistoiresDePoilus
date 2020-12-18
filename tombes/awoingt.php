@@ -125,7 +125,7 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../tombes.php">Tombes de soldats</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Les tombes de Awoingt</li>
+            <li class="breadcrumb-item active" aria-current="page">Les tombes d'Awoingt</li>
         </ol>
     </nav>
 

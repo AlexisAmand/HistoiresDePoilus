@@ -254,20 +254,19 @@
                 <li>3e Régiment Mixte de Zouaves</li>
             </ul>
 
-            <h2 class="mt-5">Historiques des régiments de Belgique)</h2>
+            <h2 class="mt-5">Historiques des régiments de Belgique</h2>
 
             <ul>
-                <li><a href="https://belgica.kbr.be/BELGICA/doc/SYRACUSE/16307474/armee-belge">
+                <li><a href="https://belgica.kbr.be/BELGICA/doc/SYRACUSE/16307474/armee-belge" title="Historique des régiments de ligne de l'armée belge" target="_blank">
                 Régiments de Ligne de 1 à 24</a><br />(Bibliothèque royale de Belgique)</li>
-                <li><a href="https://belgica.kbr.be/BELGICA/doc/SYRACUSE/16307474/armee-belge">
+                <li><a href="https://belgica.kbr.be/BELGICA/doc/SYRACUSE/16307474/armee-belge" title="Historique des régiments de chasseurs à pied de l'armée belge" target="_blank">
                 Régiments de Chasseurs à Pied de 1 à 6</a><br />(Bibliothèque royale de Belgique)</li>
-                <li><a href="https://belgica.kbr.be/BELGICA/doc/SYRACUSE/16307474/armee-belge">
+                <li><a href="https://belgica.kbr.be/BELGICA/doc/SYRACUSE/16307474/armee-belge" title="Historique des régiments de carabiniers de l'armée belge" target="_blank">
                 Régiments de Carabiniers de 1 à 4</a><br />(Bibliothèque royale de Belgique)</li>
-                <li><a href="https://belgica.kbr.be/BELGICA/doc/SYRACUSE/16307474/armee-belge">
+                <li><a href="https://belgica.kbr.be/BELGICA/doc/SYRACUSE/16307474/armee-belge" title="Historique des régiments de grenadiers de l'armée belge" target="_blank">
                 Régiments de Grenadiers de 1 et 6</a><br />(Bibliothèque royale de Belgique)</li>
-                <li><a href="https://belgica.kbr.be/BELGICA/doc/SYRACUSE/16307474/armee-belge">
+                <li><a href="https://belgica.kbr.be/BELGICA/doc/SYRACUSE/16307474/armee-belge" title="Historique des régiments de guides de l'armée belge" target="_blank">
                 1er Régiments de Guides</a><br />(Bibliothèque royale de Belgique)</li>
-
             </ul>
 
         </article>

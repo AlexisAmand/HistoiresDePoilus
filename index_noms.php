@@ -197,18 +197,14 @@
                 <li><a href="poilus/CARLIER-Druon-Joseph.php">CARLIER Druon Joseph</a></li>
                 <li><a href="poilus/CARLIER-Louis-Abraham.php">CARLIER Louis Abraham</a></li>
                 <li><a href="poilus/caron-eugene-alexandre.php">CARON Eugène Alexandre</a></li>
-
                 <li><a href="tombes/capelle.php#Joseph-Vanesse">CHASTIN Aimé (victime civile)</a></li>
-
                 <li><a href="poilus/FIEVET-Auguste-Victor.php#Carton_Bataille">CARTON (prénom inconnu)</a></li>
                 <li><a href="tombes/saint-saulve.php#Jules-Covin">COVIN Jules</a></li>
                 <li><a href="poilus/CARLIER-Druon-Joseph.php#Crepy">CREPY (prénom inconnu)</a></li>
                 <li><a href="camps/camp-friedrichsfeld.php#Etienne-Dadu">DADU Etienne</a></li>
                 <li><a href="tombes/capelle.php#Edouard-Decoster">DECOSTER Edouard Gaston</a></li>
                 <li><a href="poilus/FIEVET-Auguste-Victor.php#De-Gaulle">DE GAULLE Charles</a></li>
-
                 <li><a href="tombes/capelle.php#Joseph-Vanesse">DECAUDIN Louis (victime civile)</a></li>
-
                 <li><a href="poilus/delaux-oscar-julien.php">DELAUX Oscar Julien</a></li>
                 <li><a href="poilus/DUBOIS-Emile-Edmond.php">DUBOIS Émile Edmond</a></li>
                 <li><a href="poilus/dubois-jean-charles.php">DUBOIS Jean Charles</a></li>
@@ -235,9 +231,7 @@
                 <li><a href="poilus/JOLY-Noel-Jules.php#Lafeuille">LAFEUILLE (prénom inconnu)</a></li>
                 <li><a href="poilus/lamandin-georges.php">LAMANDIN Georges</a></li>
                 <li><a href="tombes/valenciennes.php#daniel-lamendin">LAMENDIN Daniel</a></li>
-
                 <li><a href="tombes/capelle.php#Joseph-Vanesse">LECAIL Adèle (victime civile)</a></li>
-
                 <li><a href="tombes/saint-saulve.php#Xavier-Lecerf">LECERF Xavier</a></li>
                 <li><a href="tombes/saint-saulve.php#Alfred-Lefebvre">LEFEBVRE Alfred</a></li>
                 <li><a href="poilus/lesage-jules-joseph.php">LESAGE Jules Joseph</a></li>
@@ -246,9 +240,7 @@
                 <li><a href="poilus/GRAIN-Leon-Albert.php#Littoye">LITTOYE (prénom inconnu)</a></li>
                 <li><a href="poilus/magny-jules.php">MAGNY Jules</a></li>
                 <li><a href="poilus/MAILLART-Alexandre.php">MAILLART Alexandre Ernest</a></li>
-
                 <li><a href="tombes/capelle.php#Joseph-Vanesse">MALAQUIN Edmond (victime civile)</a></li>
-
                 <li><a href="camps/camp-friedrichsfeld.php#Charles_Mangin">MANGIN Charles (Général)</a></li>
                 <li><a href="camps/camp-friedrichsfeld.php#Henri-Marliere">MARLIERE Henri</a></li>
                 <li><a href="poilus/mascart-emile.php">MASCART Émile</a></li>
@@ -259,9 +251,7 @@
                 <li><a href="poilus/masquellier-jean-baptiste.php">MASQUELLIER Jean-Baptiste</a></li>
                 <li><a href="poilus/MICHEL-Firmin.php">MICHEL Firmin</a></li>
                 <li><a href="tombes/valenciennes.php#Rene-Mirland">MIRLAND René</a></li>
-
                 <li><a href="tombes/capelle.php#Joseph-Vanesse">NOISETTE Hubert (victime civile)</a></li>
-
                 <li><a href="tombes/valenciennes.php#Georges-Nollin">NOLLIN Georges</a></li>
                 <li><a href="camps/camp-limburg.php#Emilien_Ordonnaud">ORDONNAUD Emilien</a></li>
                 <li><a href="poilus/paquet-leopold.php">PAQUET Léopold</a></li>
