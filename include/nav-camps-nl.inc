@@ -1,10 +1,10 @@
-<a href="camp-amersfoort.php" class="list-group-item menutest">Amersfoort</a>
-<a href="camp-assen.php" class="list-group-item menutest">Assen</a>
-<a href="camp-bodegraven.php" class="list-group-item menutest">Bodegraven</a>
-<a href="camp-gaasterland.php" class="list-group-item menutest">Gaasterland</a>
-<a href="camp-harderwijk.php" class="list-group-item menutest">Harderwijk</a>
-<a href="camp-kampen.php" class="list-group-item menutest">kampen</a>
-<a href="camp-leeuwarden.php" class="list-group-item menutest">Leeuwarden</a>
-<a href="camp-loosduinen.php" class="list-group-item menutest">Loosduinen</a>
-<a href="camp-zeist.php" class="list-group-item menutest">Zeist</a>
-<a href="camp-zwolle.php" class="list-group-item menutest">Zwolle</a>
+<a href="camp-amersfoort.php" class="list-group-item">Amersfoort</a>
+<a href="camp-assen.php" class="list-group-item">Assen</a>
+<a href="camp-bodegraven.php" class="list-group-item">Bodegraven</a>
+<a href="camp-gaasterland.php" class="list-group-item">Gaasterland</a>
+<a href="camp-harderwijk.php" class="list-group-item">Harderwijk</a>
+<a href="camp-kampen.php" class="list-group-item">kampen</a>
+<a href="camp-leeuwarden.php" class="list-group-item">Leeuwarden</a>
+<a href="camp-loosduinen.php" class="list-group-item">Loosduinen</a>
+<a href="camp-zeist.php" class="list-group-item">Zeist</a>
+<a href="camp-zwolle.php" class="list-group-item">Zwolle</a>

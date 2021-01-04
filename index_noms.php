@@ -111,7 +111,7 @@
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="index.php">Accueil</a></li>
                 <li class="breadcrumb-item"><a href="poilus.php">Les poilus</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Mentions légales</li>
+                <li class="breadcrumb-item active" aria-current="page">Index des noms cités</li>
             </ol>
         </nav>
 
@@ -119,7 +119,7 @@
     
         <p class="text-justify">Vous trouverez sur cette page la liste de tous les soldats mentionnés sur le site. Il peut s'agir d'une biographie détaillée, d'un document ou même d'une mention sur une tombe. Les individus sont classés par pays, puis par ordre alphabétique sur le nom de famille. Pour faciliter la recherche, cette liste contient aussi des civils ayant le status de morts pour la France. Je vous souhaite de bonnes recherches !</p>
 
-        <div id="colindex">
+        <div class="edito2col">
 
             <h2>Allemagne</h2>
 

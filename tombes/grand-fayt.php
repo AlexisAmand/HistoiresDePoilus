@@ -129,7 +129,7 @@
         </ol>
     </nav>
 
-    <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des villes</span>
+    <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des villes</span>
 
     <h1 class="my-4">Le monument aux morts de Grand-Fayt</h1>
 
@@ -182,7 +182,7 @@
 <!-- Affiche/Masque le aside -->
 
 <script>
-function fonctiontest() {
+function afficheMenu() {
   if (AsideVisible == 1)
     {
     /*

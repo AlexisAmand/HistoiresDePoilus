@@ -1,43 +1,43 @@
-<a href="/camps/camp-bad-orb.php" class="list-group-item menutest">Bad Orb</a>
-<a href="/camps/camp-bayreuth.php" class="list-group-item menutest">Bayreuth</a>
-<a href="/camps/camp-bochum.php" class="list-group-item menutest">Bochum</a>
-<a href="/camps/camp-cassel.php" class="list-group-item menutest">Cassel</a>
-<a href="/camps/camp-chemnitz.php" class="list-group-item menutest">Chemnitz</a>
-<a href="/camps/camp-czersk.php" class="list-group-item menutest">Czersk</a>
-<a href="/camps/camp-darmstadt.php" class="list-group-item menutest">Darmstadt</a>
-<a href="/camps/camp-dortmund.php" class="list-group-item menutest">Dortmund</a>
-<a href="/camps/camp-forstort.php" class="list-group-item menutest">Förstört</a>
-<a href="/camps/camp-frankfurt.php" class="list-group-item menutest">Francfort-sur-le-Main</a>
-<a href="/camps/camp-friedberg.php" class="list-group-item menutest">Friedberg</a>
-<a href="/camps/camp-friedrichsfeld.php" class="list-group-item menutest">Friedrichsfeld</a>
-<a href="/camps/camp-gardelegen.php" class="list-group-item menutest">Gardelegen</a>
-<a href="/camps/camp-giessen.php" class="list-group-item menutest">Giessen</a>
-<a href="/camps/camp-gmund.php" class="list-group-item menutest">Gmünd</a>
-<a href="/camps/camp-gorlitz.php" class="list-group-item menutest">Görlitz</a>
-<a href="/camps/camp-grafenwohr.php" class="list-group-item menutest">Grafenwöhr</a>
-<a href="/camps/camp-guben.php" class="list-group-item menutest">Guben</a>
-<a href="/camps/camp-hagen.php" class="list-group-item menutest">Hagen</a>
-<a href="/camps/camp-hammelburg.php" class="list-group-item menutest">Hammelburg</a>
-<a href="/camps/camp-hammerstein.php" class="list-group-item menutest">Hammerstein</a>
-<a href="/camps/camp-herne.php" class="list-group-item menutest">Herne</a>
-<a href="/camps/camp-heuberg.php" class="list-group-item menutest">Heuberg</a>
-<a href="/camps/camp-konigsbruck.php" class="list-group-item menutest">Königsbrück</a>
-<a href="/camps/camp-lechfeld.php" class="list-group-item menutest">Lechfeld</a>
-<a href="/camps/camp-limburg.php" class="list-group-item menutest">Limburg</a>
-<a href="/camps/camp-mannheim.php" class="list-group-item menutest">Mannheim</a>
-<a href="/camps/camp-meschede.php" class="list-group-item menutest">Meschede</a>
-<a href="/camps/camp-merzdorf.php" class="list-group-item menutest">Merzdorf</a>
-<a href="/camps/camp-meyenburg.php" class="list-group-item menutest">Meyenburg</a>
-<a href="/camps/camp-minden.php" class="list-group-item menutest">Minden</a>
-<a href="/camps/camp-munster.php" class="list-group-item menutest">Munster</a>
-<a href="/camps/camp-nurnberg.php" class="list-group-item menutest">Nuremberg</a>
-<a href="/camps/camp-puchheim.php" class="list-group-item menutest">Puchheim</a>
-<a href="/camps/camp-regensburg.php" class="list-group-item menutest">Rastisbonne</a>
-<a href="/camps/camp-ruhleben.php" class="list-group-item menutest">Ruhleben</a>
-<a href="/camps/camp-schneidemuhl.php" class="list-group-item menutest">Schneidemühl</a>
-<a href="/camps/camp-wahn.php" class="list-group-item menutest">Wahn</a>
-<a href="/camps/camp-westhofen.php" class="list-group-item menutest">Westhofen</a>
-<a href="/camps/camp-wetzlar.php" class="list-group-item menutest">Wetzlar</a>
-<a href="/camps/camp-wurzburg.php" class="list-group-item menutest">Würzburg</a>
-<a href="/camps/camp-zerbst.php" class="list-group-item menutest">Zerbst</a>
-<a href="/camps/camp-wunsdorf.php" class="list-group-item menutest">Zossen-Wünsdorf </a>
+<a href="/camps/camp-bad-orb.php" class="list-group-item">Bad Orb</a>
+<a href="/camps/camp-bayreuth.php" class="list-group-item">Bayreuth</a>
+<a href="/camps/camp-bochum.php" class="list-group-item">Bochum</a>
+<a href="/camps/camp-cassel.php" class="list-group-item">Cassel</a>
+<a href="/camps/camp-chemnitz.php" class="list-group-item">Chemnitz</a>
+<a href="/camps/camp-czersk.php" class="list-group-item">Czersk</a>
+<a href="/camps/camp-darmstadt.php" class="list-group-item">Darmstadt</a>
+<a href="/camps/camp-dortmund.php" class="list-group-item">Dortmund</a>
+<a href="/camps/camp-forstort.php" class="list-group-item">Förstört</a>
+<a href="/camps/camp-frankfurt.php" class="list-group-item">Francfort-sur-le-Main</a>
+<a href="/camps/camp-friedberg.php" class="list-group-item">Friedberg</a>
+<a href="/camps/camp-friedrichsfeld.php" class="list-group-item">Friedrichsfeld</a>
+<a href="/camps/camp-gardelegen.php" class="list-group-item">Gardelegen</a>
+<a href="/camps/camp-giessen.php" class="list-group-item">Giessen</a>
+<a href="/camps/camp-gmund.php" class="list-group-item">Gmünd</a>
+<a href="/camps/camp-gorlitz.php" class="list-group-item">Görlitz</a>
+<a href="/camps/camp-grafenwohr.php" class="list-group-item">Grafenwöhr</a>
+<a href="/camps/camp-guben.php" class="list-group-item">Guben</a>
+<a href="/camps/camp-hagen.php" class="list-group-item">Hagen</a>
+<a href="/camps/camp-hammelburg.php" class="list-group-item">Hammelburg</a>
+<a href="/camps/camp-hammerstein.php" class="list-group-item">Hammerstein</a>
+<a href="/camps/camp-herne.php" class="list-group-item">Herne</a>
+<a href="/camps/camp-heuberg.php" class="list-group-item">Heuberg</a>
+<a href="/camps/camp-konigsbruck.php" class="list-group-item">Königsbrück</a>
+<a href="/camps/camp-lechfeld.php" class="list-group-item">Lechfeld</a>
+<a href="/camps/camp-limburg.php" class="list-group-item">Limburg</a>
+<a href="/camps/camp-mannheim.php" class="list-group-item">Mannheim</a>
+<a href="/camps/camp-meschede.php" class="list-group-item">Meschede</a>
+<a href="/camps/camp-merzdorf.php" class="list-group-item">Merzdorf</a>
+<a href="/camps/camp-meyenburg.php" class="list-group-item">Meyenburg</a>
+<a href="/camps/camp-minden.php" class="list-group-item">Minden</a>
+<a href="/camps/camp-munster.php" class="list-group-item">Munster</a>
+<a href="/camps/camp-nurnberg.php" class="list-group-item">Nuremberg</a>
+<a href="/camps/camp-puchheim.php" class="list-group-item">Puchheim</a>
+<a href="/camps/camp-regensburg.php" class="list-group-item">Rastisbonne</a>
+<a href="/camps/camp-ruhleben.php" class="list-group-item">Ruhleben</a>
+<a href="/camps/camp-schneidemuhl.php" class="list-group-item">Schneidemühl</a>
+<a href="/camps/camp-wahn.php" class="list-group-item">Wahn</a>
+<a href="/camps/camp-westhofen.php" class="list-group-item">Westhofen</a>
+<a href="/camps/camp-wetzlar.php" class="list-group-item">Wetzlar</a>
+<a href="/camps/camp-wurzburg.php" class="list-group-item">Würzburg</a>
+<a href="/camps/camp-zerbst.php" class="list-group-item">Zerbst</a>
+<a href="/camps/camp-wunsdorf.php" class="list-group-item">Zossen-Wünsdorf </a>

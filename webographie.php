@@ -225,6 +225,26 @@
             <li><a href="pdf/convention-1907.pdf" title="texte de la Convention de la Haye de 1907">Convention de La Haye, 18 octobre 1907</a></li>
         </ul>
 
+        <h2 class="mt-5">La Grande Guerre dans le Morbihan</h2>
+
+        <ul>
+            <li><a href="https://www.sarzeau.fr/listes/centenaire-de-la-grande-guerre/">
+            Le centenaire de la Grande Guerre à Sarzeau</a></li>
+            <li><a href="https://www.sarzeau.fr/medias/2016/12/Soldats-Sarzeautins-MPF.pdf">
+            Les Sarzeautins victimes de la Grande Guerre</a></li>
+            <li><a href="https://www.sarzeau.fr/medias/2016/12/Le-depot-de-faveur.pdf">
+            Le camp d'internés de Sarzeau</a></li>
+            <li><a href="https://www.sarzeau.fr/medias/2016/12/LES-PRISONNIERS.pdf">
+            Les 67 Prisonniers de guerre de Sarzeautins</a></li>
+        </ul>
+
+        <h2 class="mt-5">La Grande Guerre dans L'Essonne</h2>
+
+        <ul>
+            <li><a href="http://etampes.fr/memoire_s_d_etampes_9_pg_allemands_decedes.pdf">
+            Répertoire des prisonniers de guerre allemands morts à Etampes</a></li>
+        </ul>
+
         <h2 class="mt-5">Recherches en Australie</h2>
 
         <ul>

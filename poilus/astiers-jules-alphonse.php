@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Jules Alphonse ASTIER(S) - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Jules Alphonse ASTIER(S), soldat français pendant la Première Guerre Mondiale" name=
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -115,7 +115,7 @@
 
         <div class="list-group">
 
-            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/nav-poilus-59.inc'; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/nav-poilus-51.inc'; ?>
 
         </div>
 
@@ -131,10 +131,92 @@
         </ol>
     </nav>
 
-    <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
+    <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Jules Alphonse ASTIER(S)</h1>
 
+        <p class="text-justify">Jules Alphonse ASTIER(S) est né le 14 février 1872 à Bétheniville, dans la Marne. Tisseur, il est le fils légitime d'André ASTIER et de Louise Adèle BALTAZART. Jules est le cousin germain de deux autres poilus de ce site nommés <a href="BALTAZART-Ernest-Auguste.php" title="biographie d'Ernest Auguste BALTAZART">Ernest Auguste BALTAZART</a> et <a href="MAILLART-Alexandre.php" title="biographie d'Alexandre Ernest MAILLART">Alexandre Ernest MAILLART</a>. Ils ont Julie Joséphine KRAUTH et Jean Baptise Martial BALTAZART comme grands-parents communs</p> 
+
+        <figure class="text-center">
+            <a href="images/arbre-astiers-jules.png" data-fancybox="gallery" data-caption="Les ascendants de Jules ASTIER(S)">
+            <img src="miniatures/arbre-astiers-jules.png" class="figure-img img-fluid img-thumbnail" alt="Arbre généalogique partiel de Jules ASTIER(S)" class="ArbreGenealogique"></a>
+            <figcaption class="figure-caption">Arbre généalogique partiel de Jules ASTIER(S)<br />(cliquez pour agrandir)</figcaption>
+        </figure>
+
+        <p class="text-justify">Il part pour le service militaire le 16 novembre 1893 Après avoir été déclaré "bon" lors de son conseil de révision. Il rejoint le 91e Régiment d'Infanterie, et arrive au corps en tant que soldat de 2e classe. Il devient soldat de 1re classe le 8 octobre 1894 et est envoyé en congés un mois plus tard avec le certificat de bonne conduite.</p>
+
+        <figure class="text-center">
+            <a href="images/bethenville-place-munet.jpg" data-fancybox="gallery" data-caption="La Place du Munet à Bétheniville">
+            <img src="miniatures/bethenville-place-munet.jpg" class="figure-img img-fluid img-thumbnail" alt="La Place du Munet à Bétheniville sur une carte postale ancienne"/></a>
+            <figcaption class="figure-caption">La Place du Munet à Bétheniville<br />où est né Jules, Après la guerre.</figcaption>
+        </figure>
+
+        <p class="text-justify">20 ans plus tard, lors de <a href="mobilisation-1914.phpdd" title="Voir le décret de mobilisation générale de 1914">la mobilisation générale</a> du 1er août 1914, il est rappelé mais est renvoyé provisoirement le 2 septembre 1914. Quelques mois plus tard, le 3 avril 1915, il est de nouveau rappelé et rejoint le 10e Escadron de Train dès le 20 où il reste 9 jours avant de rejoindre le 13e Régiment d'Artillerie. Il passe les deux dernières années de la guerre détaché dans des usines d'armement de Colombe et Mondeville (Normandie) avant d'être finalement libéré du service le 1 octobre 1919.</p>
+
+        <table class="table table-striped table-bordered">
+        <caption>Liste des domiciles de Jules Alphonse ASTIER(S)</caption>
+            <thead>
+            <tr>
+                <th scope="col">Date</th>
+                <th scope="col">Adresse</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>1881</td>
+                <td>Chez ses parents<br />Place du Munet<br />à Bétheniville (Marne)</td>
+            </tr>
+            <tr>
+                <td>27 juillet 1897</td>
+                <td>13 rue Neufchatel<br />à Reims (Marne)</td>
+            </tr>
+            <tr>
+                <td>15 mars 1898</td>
+                <td>Bétheniville (Marne)</td>
+            </tr>
+            <tr>
+                <td>1901</td>
+                <td>Grand'rue<br />à Bétheniville (Marne)</td>
+            </tr>
+            <tr>
+                <td>1906</td>
+                <td>Rue des chevaliers<br />à Bétheniville (Marne)</td>
+            </tr>
+            <tr>
+                <td>21 octobre 1906</td>
+                <td>13 rue de Bétheny<br />à Reims (Marne)</td>
+            </tr>
+            <tr>
+                <td>21 juillet 1907</td>
+                <td>10 rue Villeminot<br />à Reims (Marne)</td>
+            </tr>
+            <tr>
+                <td>20 octobre 1907</td>
+                <td><a href="http://cartespostalesanciennes.genealexis.fr/image/517-la-route-de-reims-a-betheniville" title="La rue de Reims à Bétheniville sur une carte postale ancienne">Rue de Reims</a><br />à Bétheniville (Marne)</td>
+            </tr>
+            <tr>
+                <td>1911</td>
+                <td>Rue de Merlan<br />à Bétheniville (Marne)</td>
+            </tr>
+            <tr>
+                <td>27 octobre 1912</td>
+                <td>29 rue Maucroix<br />à Reims (Marne)</td>
+            </tr>
+            <tr>
+                <td>7 septembre 1914</td>
+                <td>à Missy (Calvados)</td>
+            </tr>
+            </tbody>
+        </table> 
+        
+        <h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+          Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archives.marne.fr/" title=" " target=" ">
+          Archives départementales de la Marne</a></li>
+        </ul>
 
     </article>
 
@@ -165,7 +247,7 @@
 <!-- Affiche/Masque le aside -->
 
 <script>
-function fonctiontest() {
+function afficheMenu() {
   if (AsideVisible == 1)
     {
     /*

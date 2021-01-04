@@ -132,7 +132,7 @@
         </ol>
     </nav>
 
-    <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
+    <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
     <h1 class="my-4">Auguste Maurice BALTAZART</h1>
 
@@ -199,7 +199,7 @@
 <!-- Affiche/Masque le aside -->
 
 <script>
-function fonctiontest() {
+function afficheMenu() {
   if (AsideVisible == 1)
     {
     /*

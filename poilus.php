@@ -320,7 +320,7 @@
 
         <p class="text-justify">La Grande Guerre, c'est aussi le destin de millions d'hommes qui sont rentrés meurtris tant d'un point de vue physique que d'un point de vue psychologique. Pour certains des poilus présents sur mon site, j'ai eu la chance, grâce à l'aide de bénévoles que je tiens à remercier une nouvelle fois, d'obtenir les dossiers d'anciens combattants que je partage ici avec vous.</p>
 
-        <div id="colindex">
+        <div class="edito2col">
 
         <ul>
             <li><a href="archives/dossier-druon-carlier.php"

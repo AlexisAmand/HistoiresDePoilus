@@ -156,7 +156,7 @@
 <!-- Affiche/Masque le aside -->
 
 <script>
-function fonctiontest() {
+function afficheMenu() {
 if (AsideVisible == 1)
 {
 /*

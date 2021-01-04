@@ -134,7 +134,7 @@
         </ol>
     </nav>
 
-    <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des camps</span>
+    <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des camps</span>
 
     <h1 class="my-4">Le camp de prisonniers de Nüremberg</h1>
 
@@ -205,7 +205,7 @@
 <!-- Affiche/Masque le aside -->
 
 <script>
-function fonctiontest() {
+function afficheMenu() {
   if (AsideVisible == 1)
     {
     /*

@@ -10,6 +10,7 @@
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <a class="dropdown-item" href="/poilus.php">A propos des poilus</a>
+                                <a class="dropdown-item" href="/index_noms.php">Index des noms cités</a>
                                 <a class="dropdown-item" href="/poilus/lacourt-onesime.php">Les poilus des Ardennes</a>
                                 <a class="dropdown-item" href="/poilus/FROIDUROT-Alfred.php">Les poilus de la Côte-d'Or</a>
                                 <a class="dropdown-item" href="/poilus/arnould-gaston.php">Les poilus de la Marne</a>

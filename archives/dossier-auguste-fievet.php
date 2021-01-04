@@ -129,8 +129,8 @@
                         {
                         echo '<div class="item"><div class="pad15">';
                         echo '<img src="images/FIEVET_Auguste _Victor/page_'.$i.'.jpg" alt=" " class="img-thumbnail"';
-                        echo 'onclick="document.getElementById(\'testgal\').src=\'images/FIEVET_Auguste _Victor/page_'.$i.'.jpg\';
-                        document.getElementById(\'testgal2\').href=\'images/FIEVET_Auguste _Victor/page_'.$i.'.jpg\';"/>';
+                        echo 'onclick="document.getElementById(\'imageGal\').src=\'images/FIEVET_Auguste _Victor/page_'.$i.'.jpg\';
+                        document.getElementById(\'imageGal2\').href=\'images/FIEVET_Auguste _Victor/page_'.$i.'.jpg\';"/>';
                         echo '</div></div>';
                         }
                     ?>
@@ -142,8 +142,8 @@
         </div>
 
         <figure class="text-center">
-        	<a href="images/FIEVET_Auguste _Victor/page_1.jpg" id="testgal2" data-fancybox="gallery" data-caption=" ">
-        	<img src="images/FIEVET_Auguste _Victor/page_1.jpg" id="testgal" alt="extrait du dossier d'ancien combattant de FIEVET Auguste Victor" class="figure-img img-fluid img-thumbnail"/></a>
+        	<a href="images/FIEVET_Auguste _Victor/page_1.jpg" id="imageGal2" data-fancybox="gallery" data-caption=" ">
+        	<img src="images/FIEVET_Auguste _Victor/page_1.jpg" id="imageGal" alt="extrait du dossier d'ancien combattant de FIEVET Auguste Victor" class="figure-img img-fluid img-thumbnail"/></a>
         	<figcaption class="figure-caption">Dossier d'ancien combattant de FIEVET Auguste Victor<br />
 			(Source: <a href="https://www.geneachtimi.com/" title="Généachtimi : Site pour rechercher ses ancêtres dans les Hauts-de-France">Généachtimi</a> et 
 			<a href="https://archivesdepartementales.lenord.fr/" title="Site officiel des archives départementales du Nord">Archives du Nord</a>)</figcaption>

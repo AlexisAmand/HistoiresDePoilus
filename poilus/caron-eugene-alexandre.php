@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Eugène Alexandre CARON - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Eugène Alexandre CARON, soldat pendant la Première Guerre Mondiale" name="description"/>
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -115,7 +115,7 @@
 
         <div class="list-group">
 
-            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/nav-poilus-59.inc'; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/nav-poilus-51.inc'; ?>
 
         </div>
 
@@ -131,10 +131,34 @@
         </ol>
     </nav>
 
-    <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
+    <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Eugène Alexandre CARON</h1>
 
+        <p class="text-justify"><strong>Eugène Alexandre CARON</strong>, né le 16 avril 1869 à Montigny-sur-Vesle (Marne), fils de Pierre Alexandre et de Zélia Celestine HUILLERET. Avant la Grande Guerre, il vit à Reims, successivement 164 Rue du Barbâtre (1895) et 28 Rue de Savoie (1910), où il exerce la profession de mécanicien.</p>
+
+        <figure class="text-center">
+            <a href="images/reims-barbatre.jpg" data-fancybox="gallery" data-caption="la Rue du Barbâtre à Reims">
+            <img src="miniatures/reims-barbatre.jpg" class="figure-img img-fluid img-thumbnail" alt="la Rue du Barbâtre à Reims sur une carte postale ancienne"/></a>
+            <figcaption class="figure-caption">la Rue du Barbâtre<br />(Source: Archives Municipales de Reims)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/reims-barbatre-02.jpg" data-fancybox="gallery" data-caption="la Rue du Barbâtre à Reims">
+            <img src="miniatures/reims-barbatre-02.jpg" class="figure-img img-fluid img-thumbnail" alt="la Rue du Barbâtre à Reims sur une carte postale ancienne"/></a>
+            <figcaption class="figure-caption">la Rue du Barbâtre<br />(Source: Delcampe)</figcaption>
+        </figure>
+
+        <p class="text-justify">A la mobilisation, il rejoint la 6e section d'infirmiers le 3 août 1914. Le 24 août 1915, il est détaché dans une usine de Clermont-Ferrant.</p>
+        
+        <h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+          Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archives.marne.fr/" title=" " target="_blank">
+          Archives départementales de la Marne</a></li>
+        </ul>
 
     </article>
 
@@ -165,7 +189,7 @@
 <!-- Affiche/Masque le aside -->
 
 <script>
-function fonctiontest() {
+function afficheMenu() {
   if (AsideVisible == 1)
     {
     /*

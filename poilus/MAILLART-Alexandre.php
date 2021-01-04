@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Alexandre Ernest MAILLART - Histoires de Poilus</title>
+    <meta content="Parcours de Alexandre Ernest MAILLART, soldat pendant la Première Guerre Mondiale et membre de la 6e Section de Chemin de Fer de Campagne" name="description">
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -115,7 +115,7 @@
 
         <div class="list-group">
 
-            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/nav-poilus-59.inc'; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/nav-poilus-51.inc'; ?>
 
         </div>
 
@@ -131,10 +131,101 @@
         </ol>
     </nav>
 
-    <span onclick="fonctiontest();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
+    <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Alexandre Ernest MAILLART</h1>
 
+        <p><strong>Alexandre Ernest MAILLART </strong>est né le 24 juillet 1874 à Bétheniville, fils d'Achille Onésiphore et Julie Adèle BALTAZART, elle-même fille de Jean-Baptiste et Julie Joséphine KRAUTH (mes sosas n°116 et n°117).&nbsp; Alexandre est le cousin de deux autres poilus de ce site nommés <a href="astiers-jules-alphonse.php" title="biographie de Jules Alphonse ASTIER(S)">Jules Alphonse ASTIER(S)</a> et <a href="BALTAZART-Ernest-Auguste.php" title="biographie d'Ernest Auguste BALTAZART">Ernest Auguste BALTAZART</a>. Ils ont Julie Joséphine KRAUTH et Jean Baptise Martial BALTAZART comme grands-parents communs</p>
+
+        <figure class="text-center">
+            <a href="images/arbre-maillart.png" data-fancybox="gallery" data-caption="Arbre simplifié de la famille MAILLART-BALTAZART">
+            <img src="miniatures/arbre-maillart.png" class="figure-img img-fluid img-thumbnail" alt="Arbre généalogique simplifié de la famille MAILLART-BALTAZART" class="ArbreGenealogique"/></a>
+            <figcaption class="figure-caption">Arbre simplifié de la famille MAILLART-BALTAZART<br />(cliquez pour agrandir)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/matricule-alexandre-maillart.jpg" data-fancybox="gallery" data-caption="Extrait de sa fiche matricule d'Alexandre MAILLART">
+            <img src="miniatures/matricule-alexandre-maillart.jpg" class="figure-img img-fluid img-thumbnail" alt="Extrait de la fiche matricule du soldat Alexandre MAILLART"/></a>
+            <figcaption class="figure-caption">Extrait de sa fiche matricule<br />(Source: Archives départementales de la Marne)</figcaption>
+        </figure>
+
+        <p>Le 18 septembre 1899, Alexandre épouse à Boult-sur-Suippe (Marne) Marie Berthe GAUCHET, âgée de 25 ans, fille légitime d'Hyppolyte et Marie-Zélie SOMMELIER. Lors de son mariage, Alexandre travaille pour la Compagnie des Chemins de Fer de l'Est. Leur fils Marcel naît à Bar-le-Duc (Meuse) le 9 mai 1901, rue des romains.</p>
+
+        <table class="table table-striped table-bordered">
+            <caption>Liste des domiciles d'Alexandre</caption>
+            <thead>
+            <tr>
+              <th scope="col">Date</th>
+              <th scope="col">Adresse</th>
+              <th scope="col">Evénement Lié</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>24 juillet 1874</td>
+                <td>Bétheniville (Marne)</td>
+                <td>Il naît chez ses parents.</td>
+            </tr>
+            <tr>
+                <td>1876</td>
+                <td>Rue de Pontfaverger<br />Chez ses parents<br />à Bétheniville</td>
+                <td>Recensement de la population</td>
+            </tr>
+            <tr>
+                <td>1881</td>
+                <td>Rue du Neuf-Bourg<br />Chez ses parents<br />à Bétheniville</td>
+                <td>Recensement de la population</td>
+            </tr>      
+            <tr>
+                <td>13 avril 1899</td>
+                <td>Pontfaverger (Marne)</td>
+                <td>Mise à jour de sa fiche matricule</td>
+            </tr>
+            <tr>
+                <td>11 janvier 1900</td>
+                <td>22 Rue des Romains<br />à Bar-le-Duc (Meuse)</td>
+                <td>Mise à jour de sa fiche matricule</td>
+            </tr>
+            <tr>
+                <td>9 mai 1901</td>
+                <td>22 Rue des Romains<br />à Bar-le-Duc (Meuse)</td>
+                <td>Naissance de son fils Marcel</td>
+            </tr>
+            <tr>
+                <td>1914-1919</td>
+                <td colspan="2" headers="event">Pendant la Grande Guerre, il est maintenu à son emploi au titre de la section des chemins de fer de campagne.</td>
+            </tr>	
+            </tbody>   
+        </table>
+
+        <p>A <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a>, <strong>Alexandre</strong> est considéré comme appelé sous les drapeaux et maintenu à son emploi de temps de paix au titre des <strong>Sections de Chemins de Fer de Campagne</strong> du 2 août 1914 au 5 janvier 1919. Je sais que, pour de nombreux lecteurs, cette affectation ne fait pas de lui un poilu au sens strict du terme, car il n'était pas dans l'enfer de Verdun ou dans la boue des tranchées. Mais laissez-moi vous raconter la suite.</p><p>Il est inscrit au tableau spécial de la médaille militaire d'employé principal de 2e classe à la <strong>6e Section de Chemin de Fer de Campagne</strong> : <em>"Détaché dans une gare depuis le 12 février 1915, il a assuré avec beaucoup de zèle, de sang-froid et sans défaillances le service de cette gare et jusqu'à ce que l'intensité du bombardement sur la ligne et sur la station l'ait obligé à s'en éloigner le 22 février 1916 au soir. Au cours de plus de 20 bombardements dirigés sur la localité et sur la voie ferrée, il a pris a chaque fois que les circonstances l'ont commandé les dispositions convenables pour empêcher les trains de franchir la zone bombardée et assurer leur passage à l'issue du bombardement. (arrêté ministériel du 20-4-16 et J.O du 23-4-16)."</em></p>
+
+        <p>La gare n'est pas indiquée sur le JO.</p>
+
+        <figure class="text-center">
+            <a href="images/bethenville-place-munet-02.jpg" data-fancybox="gallery" data-caption="La Place du Munet avant la Grande Guerre">
+            <img src="miniatures/bethenville-place-munet-02.jpg" class="figure-img img-fluid img-thumbnail" alt="La Place du Munet à Bétheniville où a vécu Alexandre MAILLART"/></a>
+            <figcaption class="figure-caption">La Place du Munet avant la Grande Guerre<br />(cliquez pour agrandir)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/bethenville-place-munet-01.jpg" data-fancybox="gallery" data-caption="La Place du Munet Après la Grande Guerre">
+            <img src="miniatures/bethenville-place-munet-01.jpg" class="figure-img img-fluid img-thumbnail" alt="La Place du Munet à Bétheniville où a vécu Alexandre MAILLART"/></a>
+            <figcaption class="figure-caption">La Place du Munet Après la Grande Guerre<br />(cliquez pour agrandir)</figcaption>
+        </figure>
+
+        <h2>Sources et bibliographie</h2>
+
+        <ul>
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+            Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+            <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense" target="_blank">
+            Mémoire des Hommes</a> (Ministère de la Défense)</li>
+            <li><a href="https://archives.marne.fr/" title=" " target="_blank">
+            Archives départementales de la Marne</a></li>
+            <li><a href="https://www.delcampe.net/" title=" " target="_blank">
+            Delcampe : Acheter et vendre ses objets de collection</a></li>
+        </ul>
 
     </article>
 
@@ -165,7 +256,7 @@
 <!-- Affiche/Masque le aside -->
 
 <script>
-function fonctiontest() {
+function afficheMenu() {
   if (AsideVisible == 1)
     {
     /*
