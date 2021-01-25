@@ -128,7 +128,7 @@
                     for ($i = 1;$i<= 12;$i++)
                         {
                         echo '<div class="item"><div class="pad15">';
-                        echo '<img src="images/DELAUX_Oscar/page_'.$i.'.jpg" alt=" " class="img-thumbnail"';
+                        echo '<img src="images/DELAUX_Oscar/page_'.$i.'.jpg" alt="Extrait du dossier d\'ancien combattant de Oscar DELAUX" class="img-thumbnail"';
                         echo 'onclick="document.getElementById(\'imageGal\').src=\'images/DELAUX_Oscar/page_'.$i.'.jpg\';
                         document.getElementById(\'imageGal2\').href=\'images/DELAUX_Oscar/page_'.$i.'.jpg\';"/>';
                         echo '</div></div>';
@@ -143,7 +143,7 @@
 
         <figure class="text-center">
         	<a href="images/DELAUX_Oscar/page_1.jpg" id="imageGal2" data-fancybox="gallery" data-caption=" ">
-        	<img src="images/DELAUX_Oscar/page_1.jpg" id="imageGal" alt=" " class="figure-img img-fluid img-thumbnail"/></a>
+        	<img src="images/DELAUX_Oscar/page_1.jpg" id="imageGal" alt="Extrait du dossier d'ancien combattant d'Oscar DELAUX" class="figure-img img-fluid img-thumbnail"/></a>
         	<figcaption class="figure-caption">Dossier d'ancien combattant d'Oscar DELAUX<br />
 			(Source: <a href="https://www.geneachtimi.com/" title="Généachtimi : Site pour rechercher ses ancêtres dans les Hauts-de-France">Généachtimi</a> et 
 			<a href="https://archivesdepartementales.lenord.fr/" title="Site officiel des archives départementales du Nord">Archives du Nord</a>

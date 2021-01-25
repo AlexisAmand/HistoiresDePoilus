@@ -221,7 +221,7 @@
             Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
             <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense" target="_blank">
             Mémoire des Hommes</a> (Ministère de la Défense)</li>
-            <li><a href="https://archives.marne.fr/" title=" " target="_blank">
+            <li><a href="https://archives.marne.fr/" title="Site officiel des Archives départementales de la Marne" target="_blank">
             Archives départementales de la Marne</a></li>
             <li><a href="https://www.delcampe.net/" title=" " target="_blank">
             Delcampe : Acheter et vendre ses objets de collection</a></li>

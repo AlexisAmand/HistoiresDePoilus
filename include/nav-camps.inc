@@ -1,11 +1,13 @@
 <a href="/camps/camp-bad-orb.php" class="list-group-item">Bad Orb</a>
 <a href="/camps/camp-bayreuth.php" class="list-group-item">Bayreuth</a>
+<a href="/camps/camp-bernau.php" class="list-group-item">Bernau</a>
 <a href="/camps/camp-bochum.php" class="list-group-item">Bochum</a>
 <a href="/camps/camp-cassel.php" class="list-group-item">Cassel</a>
 <a href="/camps/camp-chemnitz.php" class="list-group-item">Chemnitz</a>
 <a href="/camps/camp-czersk.php" class="list-group-item">Czersk</a>
 <a href="/camps/camp-darmstadt.php" class="list-group-item">Darmstadt</a>
 <a href="/camps/camp-dortmund.php" class="list-group-item">Dortmund</a>
+<a href="/camps/camp-erlangen.php" class="list-group-item">Dortmund</a>
 <a href="/camps/camp-forstort.php" class="list-group-item">Förstört</a>
 <a href="/camps/camp-frankfurt.php" class="list-group-item">Francfort-sur-le-Main</a>
 <a href="/camps/camp-friedberg.php" class="list-group-item">Friedberg</a>
@@ -23,6 +25,7 @@
 <a href="/camps/camp-heuberg.php" class="list-group-item">Heuberg</a>
 <a href="/camps/camp-konigsbruck.php" class="list-group-item">Königsbrück</a>
 <a href="/camps/camp-lechfeld.php" class="list-group-item">Lechfeld</a>
+<a href="/camps/camp-lamsdorf.php" class="list-group-item">Lamsdorf</a>
 <a href="/camps/camp-limburg.php" class="list-group-item">Limburg</a>
 <a href="/camps/camp-mannheim.php" class="list-group-item">Mannheim</a>
 <a href="/camps/camp-meschede.php" class="list-group-item">Meschede</a>

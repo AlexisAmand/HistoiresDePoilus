@@ -128,7 +128,7 @@
                     for ($i = 1;$i<= 13;$i++)
                         {
                         echo '<div class="item"><div class="pad15">';
-                        echo '<img src="images/FIEVET_Auguste _Victor/page_'.$i.'.jpg" alt=" " class="img-thumbnail"';
+                        echo '<img src="images/FIEVET_Auguste _Victor/page_'.$i.'.jpg" alt="Extrait du dossier d\'ancien combattant d\'Auguste Victor FIEVET" class="img-thumbnail"';
                         echo 'onclick="document.getElementById(\'imageGal\').src=\'images/FIEVET_Auguste _Victor/page_'.$i.'.jpg\';
                         document.getElementById(\'imageGal2\').href=\'images/FIEVET_Auguste _Victor/page_'.$i.'.jpg\';"/>';
                         echo '</div></div>';

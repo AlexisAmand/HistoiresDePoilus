@@ -154,7 +154,7 @@
 
         <figure class="text-center">
             <a href="images/Munster/Moritz_von_Bissing.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="miniatures/Munster/Moritz_von_Bissing.jpg" class="figure-img img-fluid img-thumbnail" alt=" "></a>
+            <img src="miniatures/Munster/Moritz_von_Bissing.jpg" class="figure-img img-fluid img-thumbnail" alt="Portrait de Moritz VON BISSING"></a>
             <figcaption class="figure-caption">Moritz VON BISSING<br />(source : Emil Bieber via Gettyimages)</figcaption>
         </figure> 
 

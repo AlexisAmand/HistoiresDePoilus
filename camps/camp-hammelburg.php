@@ -162,7 +162,7 @@
             <tr>
                 <th scope="col">Nationalités</th>
                 <th scope="col">Au camp</th>
-                <th scope="col">Dans les détachements<br />de travail</th>
+                <th scope="col">Dans les détachements de travail</th>
             </tr>
             </thead>
             <tr>
@@ -182,17 +182,19 @@
             </tr>
         </table>
 
+        <p class="text-align:justify">En 1916, les concerts et les représentations théâtrales ont tellement de succès au camp de prisonniers de Hammelburg que plusieurs pièces ont dû être rejouées 3 ou 4 fois de suite. Une représentation gratuite a été données aux nécessiteux le jour de l'Ascension. La même année, le Sporting-Club du camp a organisé un match de football entre Français et Anglais au profit des prisonniers les plus nécessiteux.</p>
+
         <a id="John-Macpherson"></a>
 
         <p class="text-justify">Dans son numéro daté du dimanche 27 août 1916, l'Exilé, organe des prisonniers du camp d'Hammelburg, précise que les obsèques d'un sergent anglais ont eu lieu à veille. John Macpherson, appartenant au 38e régiment "Australian expeditionnary force" et âgé de 32 ans, avait été blessé par une balle à la cuisse droite à Armentières. Amené au lazarett du camp d'Hammelburg, il succombait à ses blessures le vendredi 25 août.</p>
 
-        <table class="tab_camp">
+        <table class="table table-striped table-bordered">
         <caption class="text-center">Effectif du camp au 18 juin 1918</caption>
             <thead>
             <tr>
                 <th scope="col">Nationalités</th>
                 <th scope="col">Au camp</th>
-                <th scope="col">Dans les détachements<br />de travail</th>
+                <th scope="col">Dans les détachements de travail</th>
             </tr>
             </thead>
             <tr>

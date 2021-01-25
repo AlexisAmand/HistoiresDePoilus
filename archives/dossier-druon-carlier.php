@@ -128,7 +128,7 @@
                     for ($i = 1;$i<= 12;$i++)
                         {
                         echo '<div class="item"><div class="pad15">';
-                        echo '<img src="images/CARLIER_Druon_Joseph/page_'.$i.'.jpg" alt=" " class="img-thumbnail"';
+                        echo '<img src="images/CARLIER_Druon_Joseph/page_'.$i.'.jpg" alt="Extrait du dossier d\'ancien combattant de Druon CARLIER" class="img-thumbnail"';
                         echo 'onclick="document.getElementById(\'imageGal\').src=\'images/CARLIER_Druon_Joseph/page_'.$i.'.jpg\';
                         document.getElementById(\'imageGal2\').href=\'images/CARLIER_Druon_Joseph/page_'.$i.'.jpg\';"/>';
                         echo '</div></div>';

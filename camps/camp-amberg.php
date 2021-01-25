@@ -138,7 +138,7 @@
 
     <h1 class="my-4">Le camp de prisonniers de Amberg</h1>
 
-        <p> </p>
+        <p class="text-justify">Selon le Bulletin du Bureau de Secours de Berne et L'intermède du 24 septembre 1916, de nombreux dons ont pu permettre de reconstruire la baraque servant au culte et aux distractions des prisonniers qui avait récemment été détruite  par les flammes.</p>
 
         <h2>Sources et bibliographie</h2>
 
@@ -147,6 +147,8 @@
             Prisonniers 1914-1918</a> (Jean-Paul Briastre, 2013)</li>
             <li><a href="https://gallica.bnf.fr/ark:/12148/btv1b10315936v" title=" " target=" ">
             Scènes du camp de Prisonniers d'Amberg </a></li>
+            <li>Bulletin du Bureau de Secours de Berne</li>
+            <li>L'Intermède du 24 septembre 1916</li>
         </ul>
 
     </article>

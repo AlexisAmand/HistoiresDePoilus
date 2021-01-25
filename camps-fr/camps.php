@@ -123,17 +123,17 @@
         <h2>Le camp de Coetquidan</h2>
 
             <figure class="text-center">
-                <a href="images/coetquidan-01.jpg" data-fancybox="gallery" data-caption=" ">
-                <img src="miniatures/coetquidan-01.jpg" class="figure-img img-fluid img-thumbnail" alt=" "/></a>
-                <figcaption class="figure-caption"> <br />(source: Clio Team)</figcaption>
+                <a href="images/coetquidan-01.jpg" data-fancybox="gallery" data-caption="Des prisonniers en route pour le camp de Coetquidan">
+                <img src="miniatures/coetquidan-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Des prisonniers allemands en route pour le camp de Coetquidan pendant la Grande Guerre "/></a>
+                <figcaption class="figure-caption">Des prisonniers en route pour le camp de Coetquidan<br />(source: Clio Team)</figcaption>
             </figure>
 
         <h2>Le camp de l'île d'Oleron</h2>
 
             <figure class="text-center">
-                <a href="images/oleron-01.jpg" data-fancybox="gallery" data-caption=" ">
-                <img src="miniatures/oleron-01.jpg" class="figure-img img-fluid img-thumbnail" alt=" "/></a>
-                <figcaption class="figure-caption"> <br />(source: Clio Team)</figcaption>
+                <a href="images/oleron-01.jpg" data-fancybox="gallery" data-caption="Des prisonniers du camp de l'île d'Oleron">
+                <img src="miniatures/oleron-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Des prisonniers allemand à l'île d'Oleron pendant la Première Guerre Mondiale"/></a>
+                <figcaption class="figure-caption">Des prisonniers du camp de l'île d'Oleron<br />(source: Clio Team)</figcaption>
             </figure>
 
         <h2>Région de Reims</h2>
@@ -149,6 +149,38 @@
                 <img src="miniatures/reims-02.jpg" class="figure-img img-fluid img-thumbnail" alt=" "/></a>
                 <figcaption class="figure-caption"> <br />(source: Clio Team)</figcaption>
             </figure>
+
+        <h2>Les camps de Valenciennes</h2>
+
+            <p class="text-align:justify">J'ai trouvé ces cartes postales anciennes sur le site des Archives Municipales de la ville de Valenciennes. A l'heure où j'écris ces lignes, je n'ai pas encore réussi à localiser ce camp.</p>
+
+            <figure class="text-center">
+                <a href="images/camp-valenciennes-01.jpg" data-fancybox="gallery" data-caption='Le camp des "prisonniers boches" à Valenciennes'>
+                <img src="miniatures/camp-valenciennes-01" class="figure-img img-fluid img-thumbnail" alt="Un camp de prisonniers à Valenciennes pendant la Grande Guerre"/></a>
+                <figcaption class="figure-caption">Le camp des "prisonniers boches"<br />(source : Archives de Valenciennes)</figcaption>
+            </figure>
+            
+            <figure class="text-center">
+                <a href="images/camp-valenciennes-02.jpg" data-fancybox="gallery" data-caption="Le camp des prisonniers de la compagnie du 288 à Valenciennes">
+                <img src="miniatures/camp-valenciennes-02" class="figure-img img-fluid img-thumbnail" alt="Un camp de prisonniers à Valenciennes pendant la Grande Guerre"/></a>
+                <figcaption class="figure-caption">Le camp des prisonniers de la compagnie du 288<br />(source : Archives de Valenciennes)</figcaption>
+            </figure>
+
+            <p class="text-align:justify">A Valenciennes, la Caserne Vincent a servi de logement à des prisonniers de guerre, notamment à 1000 russes en 1915.</p>
+
+            <figure class="text-center">
+                <a href="images/valenciennes-caserne-vincent.jpg" data-fancybox="gallery" data-caption="La Caserne Vincent à Valenciennes">
+                <img src="miniatures/valenciennes-caserne-vincent.jpg" class="figure-img img-fluid img-thumbnail" alt="carte postale ancienne représentant la Caserne Vincent de Valenciennes"/></a>
+                <figcaption class="figure-caption">La Caserne Vincent à Valenciennes</figcaption>
+            </figure>
+
+            <h2>Sources et bibliographie</h2>
+
+            <ul>
+                <li><a href="https://www.va-infos.fr/2019/10/29/retour-sur-lhistoire-de-la-caserne-vincent-a-valenciennes/" title="Histoire de la Caserne Vincent sur le site Va-Infos " target="_blank">
+                https://www.va-infos.fr/2019/10/29/retour-sur-lhistoire-de-la-caserne-vincent-a-valenciennes/</a></li>
+                <li>Archives Municipales de Valenciennes</li>
+            </ul>
 
         </article>
 

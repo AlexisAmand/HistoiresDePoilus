@@ -130,7 +130,7 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="#">Accueil</a></li>
             <li class="breadcrumb-item"><a href="#">Rubrique</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Le camp de Nüremberg</li>
         </ol>
     </nav>
 
@@ -154,7 +154,7 @@
             <figcaption class="figure-caption">Le Canard<br />(Source: Gallica/BNF)</figcaption>
         </figure>
 
-        <p class="text-justify">En mars 1918, le seul prisonnier belge se trouvant dans le camp de Nüremberg est transféré dans le camp d'Erlangen.</p>
+        <p class="text-justify">En mars 1918, le seul prisonnier belge se trouvant dans le camp de Nüremberg est transféré dans le <a href="camp-erlangen.php" title="Le camp de prisonniers d'Erlangen">camp d'Erlangen.</a></p>
 
         <figure class="text-center">
             <a href="images/Nurnberg/nurnberg-01.jpg" data-fancybox="gallery" data-caption="Prisonniers de guerre à l'appel à Nüremberg">

@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title>Biographie et parcours du soldat Henri René ARNOULD - Histoires de Poilus</title>
-    <meta content="Parcours et biographie du poilu Henri René ARNOULD, soldat français pendant la Première Guerre Mondiale" name="description"/>
+    <title>Le camp de prisonniers de Lamsdorf pendant la Grande Guerre - Histoires de Poilus</title>
+    <meta name="description"  content="Présentation du camp de prisonniers de Lamsdorf en Allemagne pendant la Première Guerre mondiale (1914-1918)">
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -23,6 +23,9 @@
     <script>
     AsideVisible = 1;
     </script>
+
+    <!-- Fancybox -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 
     <!-- code pour les cookies -->
 
@@ -87,7 +90,7 @@
 
               <div class="col-12 text-center">
 
-                <?php include $_SERVER['DOCUMENT_ROOT'].'./include/nav.inc'; ?>
+                  <?php include $_SERVER['DOCUMENT_ROOT'].'./include/nav.inc'; ?>
 
               </div>
 
@@ -115,7 +118,7 @@
 
         <div class="list-group">
 
-            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/nav-poilus-51.inc'; ?>
+            <?php include('../include/nav-camps.inc'); ?>
 
         </div>
 
@@ -125,62 +128,29 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../poilus.php">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item"><a href="#">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="#">Rubrique</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Le camp de Lamsdorf</li>
         </ol>
     </nav>
 
-    <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
+    <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des camps</span>
 
-    <h1 class="my-4">Henri René ARNOULD</h1>
+    <h1 class="my-4">Le camp de prisonniers de Lamsdorf</h1>
 
-        <p class="text-justify">Henri René ARNOULD,  dont le nom est un ancien nom de baptême d’origine germanique formé des deux mots signifiant aigle et loup ; est né à Bétheniville le 4 août 1884, fils légitime de Louis Albert et Amélia Julia STÖSSEL. Pour faire simple, il est le cousin germain de Robert ARNOULD, mon arrière-grand-père. Selon le site Mémorial GenWeb, il est marié avec Louise Juliette Emilienne CHARBAUT.</p>
+    <p class="text-justify">Quelques semaines avant la fin de la Grande Guerre, en octobre 1918, la circulaire n°34 du Bureau de Secours au Prisonniers de Guerre de Berne annonce que les prisonniers de guerre français de l'armée d'orient capturés en Macédoine seront affectés au camp de Lamsdorf où sont déjà installés 200 français.</p>
 
-        <figure class="text-center">
-            <a href="images/arbre-arnould-rene.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille ARNOULD">
-            <img src="miniatures/arbre-arnould-rene.png" class="figure-img img-fluid img-thumbnail" class="ArbreGenealogique" alt="Arbre généalogique simplifié de la famille ARNOULD"></a>
-            <figcaption class="figure-caption">Arbre généalogique partiel de René ARNOULD</figcaption>
-        </figure> 
+    <?php /* TODO : Trouver le doc ci-dessus */ ?>
 
-        <p class="text-justify">Lors de <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation générale</a>, Henri abandonne son métier de garçon coiffeur et rejoint le 106e Régiment d'Infanterie. Il est déclaré "tué à l'ennemi" par des éclats multiples à la tête le 22 mai 1916 au Mort-Homme, dans la Meuse.</p>
+    <h2>Sources et bibliographie</h2>
 
-        <figure class="text-center">
-            <a href="images/mort-homme.jpg" data-fancybox="gallery" data-caption="Chattancourt et vue sur le Mort-Homme">
-            <img src="miniatures/mort-homme.jpg" class="figure-img img-fluid img-thumbnail" alt="Chattancourt et vue sur le Mort-Homme"></a>
-            <figcaption class="figure-caption">Chattancourt et vue sur le Mort-Homme<br />(source: Delcampe)</figcaption>
-        </figure>
-
-        <figure class="text-center">
-            <a href="images/croquis-1916-2.jpg" data-fancybox="gallery" data-caption="Attaques sur la rive gauche (Verdun, 1916)">
-            <img src="miniatures/croquis-1916-2.jpg" class="figure-img img-fluid img-thumbnail" alt=" plan des attaques sur la rive gauche de Verdun en 1916)"></a>
-            <figcaption class="figure-caption">Verdun: Attaques sur la rive gauche<br />(source: Delcampe)</figcaption>
-        </figure>
-
-        <p class="text-justify">Son nom figure sur le monument aux morts de Vertus, sur le livre d’or du Ministère des Pensions de Vertus, sur la plaque commémorative de l’église de Vertus et sur le tableau commémoratif dans le hall d'entrée de la mairie  intitulé "La ville de Vertus à ses Enfants Morts pour la Patrie" (oeuvre de Fr Sauvignier - 1921).</p>
-
-        <figure class="text-center">
-            <a href="sources/arnould-henri-rene.jpg" data-fancybox="gallery" data-caption="Henri René ARNOULD, mort pour la France">
-            <img src="miniatures/arnould-henri-rene.jpg" class="figure-img img-fluid img-thumbnail" alt="Fiche de mort pour la France de Henri René ARNOULD"></a>
-            <figcaption class="figure-caption">Henri, mort pour la France.<br />(source: Mémoire des Hommes)</figcaption>
-        </figure> 
-        
-        <h2>Sources et bibliographie</h2>
-        
         <ul>
-            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
-            Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
-	          <li><a href="https://archives.marne.fr/" title="Site officiel des Archives départementales de la Marne" target="_blank">
-            Archives départementales de la Marne</a></li>
-	          <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense" target="_blank">
-            Mémoire des Hommes</a> (Ministère de la Défense)</li>
-            <li><a href="https://amzn.to/2BcCaOd" title=" " target="_blank">
-            Origine des noms de famille (Par Emmanuelle HUBERT)</a></li>
-            <li>Mémorial GenWeb</li>
-            <li><a href="https://www.delcampe.net/" title="" target="_blank">
-            Delcampe : Acheter et vendre ses objets de collection</a></li>
-       
-
+            <li><a href="https://amzn.to/2MTTkR9" title="Livre sur les prisonniers de guerre dans l'histoire" target="_blank">
+            Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
+            <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
+            Prisonniers 1914-1918</a> (Jean-Paul Briastre, 2013)</li>
+            <li>Bulletin du Bureau de Secours de Berne</li>
+            <li>L'Intermède du 24 septembre 1916</li>
         </ul>
 
     </article>
@@ -196,7 +166,7 @@
     <div class="container">
 
     <footer class="row mt-4">
-        <?php include $_SERVER['DOCUMENT_ROOT'].'./include/footer.inc'; ?>
+        <?php include('../include/footer.inc'); ?>
     </footer>
 
     </div>
@@ -208,6 +178,9 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+<!-- JS de Fancybox -->
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 <!-- Affiche/Masque le aside -->
 
@@ -221,7 +194,7 @@ function afficheMenu() {
     document.getElementById("aside").style.display="block";
     document.getElementById("aside").style.width="20%";
     document.getElementById("article").style.width="80%";
-    document.getElementById("asidebouton").innerHTML = "<i class='fas fa-bars'></i>&nbsp;Masquer la liste des noms";
+    document.getElementById("asidebouton").innerHTML = "<i class='fas fa-bars'></i>&nbsp;Masquer la liste des camps";
 
     AsideVisible = 0;
     }
@@ -233,7 +206,7 @@ function afficheMenu() {
     document.getElementById("aside").style.display="none";
     document.getElementById("aside").style.width="00%";
     document.getElementById("article").style.width="100%";
-    document.getElementById("asidebouton").innerHTML = "<i class='fas fa-bars'></i>&nbsp;Afficher la liste des noms";
+    document.getElementById("asidebouton").innerHTML = "<i class='fas fa-bars'></i>&nbsp;Afficher la liste des camps";
 
     AsideVisible = 1;
     }

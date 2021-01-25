@@ -138,6 +138,8 @@
 
     <h1 class="my-4">Le camp de prisonniers de Bayreuth</h1>
 
+        <p class="text-justify">Selon le Bulletin du Bureau de Secours de Berne et L'intermède du 24 septembre 1916, un cours pour adulte pour la préparation du certificat d'études primaires a fonctionné durant l'hiver.</p>
+
         <figure class="text-center">
             <a href="images/Bayreuth/localisation.jpg" data-fancybox="gallery" data-caption="carte de l'Allemagne pour localiser le camp de prisonnier de Bayreuth">
             <img src="miniatures/Bayreuth/localisation.jpg" class="figure-img img-fluid img-thumbnail" alt="Localisation du camp de Bayreuth"></a>
@@ -151,6 +153,8 @@
             Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
             Prisonniers 1914-1918</a> (Jean-Paul Briastre, 2013)</li>
+            <li>Bulletin du Bureau de Secours de Berne</li>
+            <li>L'Intermède du 24 septembre 1916</li>
         </ul>
 
     </article>

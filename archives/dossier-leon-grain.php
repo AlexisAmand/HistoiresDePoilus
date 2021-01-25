@@ -128,7 +128,7 @@
                     for ($i = 1;$i<= 9;$i++)
                         {
                         echo '<div class="item"><div class="pad15">';
-                        echo '<img src="images/GRAIN_Leon/page_'.$i.'.jpg" alt=" " class="img-thumbnail"';
+                        echo '<img src="images/GRAIN_Leon/page_'.$i.'.jpg" alt="Extrait du dossier d\'ancien combattant de Léon Grain" class="img-thumbnail"';
                         echo 'onclick="document.getElementById(\'imageGal\').src=\'images/GRAIN_Leon/page_'.$i.'.jpg\';
                         document.getElementById(\'imageGal2\').href=\'images/GRAIN_Leon/page_'.$i.'.jpg\';"/>';
                         echo '</div></div>';

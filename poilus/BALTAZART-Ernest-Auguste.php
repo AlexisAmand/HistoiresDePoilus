@@ -238,7 +238,7 @@
       <h2>Sources et bibliographie</h2>
 
       <ul>
-          <li><a href="https://archives.marne.fr/" title=" " target="_blank">
+          <li><a href="https://archives.marne.fr/" title="Site officiel des Archives Départementales de la Marne" target="_blank">
         Archives départementales de la Marne</a></li>
           <li>"Le Monde Illustré" du 15 juillet 1922 (Gallica / BNF)</li>
           <li><a href="../pdf/matricule-baltazart-ernest.pdf" title="Fiche matricule d'Ernest Auguste BALTAZART" target="_blank">

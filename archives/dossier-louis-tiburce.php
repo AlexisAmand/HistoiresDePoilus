@@ -128,7 +128,7 @@
                     for ($i = 1;$i<= 20;$i++)
                         {
                         echo '<div class="item"><div class="pad15">';
-                        echo '<img src="images/TIBURCE_Louis/page_'.$i.'.jpg" alt=" " class="img-thumbnail"';
+                        echo '<img src="images/TIBURCE_Louis/page_'.$i.'.jpg" alt="Extrait du dossier d\'ancien combattant de Louis TIBURCE" class="img-thumbnail"';
                         echo 'onclick="document.getElementById(\'imageGal\').src=\'images/TIBURCE_Louis/page_'.$i.'.jpg\';
                         document.getElementById(\'imageGal2\').href=\'images/TIBURCE_Louis/page_'.$i.'.jpg\';"/>';
                         echo '</div></div>';

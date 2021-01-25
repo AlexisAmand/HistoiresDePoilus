@@ -148,19 +148,19 @@
       <figure class="text-center">
           <a href="sources/amand-jules-01.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
           <img src="miniatures/amand-jules-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
-          <figcaption class="figure-caption">Fiche Sépultures et cimetières militaires<br />(Source: <a href="https://www.warheritage.be/fr" title=" ">War Heritage Institute</a>)</figcaption>
+          <figcaption class="figure-caption">Fiche Sépultures et cimetières militaires<br />(Source: <a href="https://www.warheritage.be/fr" title="Fiche de morts pour la Belgique de Jules AMAND">War Heritage Institute</a>)</figcaption>
       </figure>
 
       <figure class="text-center">
           <a href="sources/amand-jules-02.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
           <img src="miniatures/amand-jules-02.jpg" class="figure-img img-fluid img-thumbnail" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
-          <figcaption class="figure-caption">Fiche Sépultures et cimetières militaires<br />(Source: <a href="https://www.warheritage.be/fr" title=" ">War Heritage Institute</a>)</figcaption>
+          <figcaption class="figure-caption">Fiche Sépultures et cimetières militaires<br />(Source: <a href="https://www.warheritage.be/fr" title="Fiche de morts pour la Belgique de Jules AMAND">War Heritage Institute</a>)</figcaption>
       </figure>
 
       <figure class="text-center">
           <a href="sources/amand-jules-03.jpg" data-fancybox="gallery" data-caption="Fiche Sépultures et cimetières militaires de Jules AMAND">
           <img src="miniatures/amand-jules-03.jpg" class="figure-img img-fluid img-thumbnail" alt="Fiche Sépultures et cimetières militaires de Jules AMAND trouvé sur le site du War Heritage Institute"/></a>
-          <figcaption class="figure-caption">Fiche Sépultures et cimetières militaires<br />(Source: <a href="https://www.warheritage.be/fr" title=" ">War Heritage Institute</a>)</figcaption>
+          <figcaption class="figure-caption">Fiche Sépultures et cimetières militaires<br />(Source: <a href="https://www.warheritage.be/fr" title="Fiche de morts pour la Belgique de Jules AMAND">War Heritage Institute</a>)</figcaption>
       </figure>
 
       <p class="text-justify">Son nom figure sur le monument aux morts d'Ougrée dédié au 9e Régiment d'Infanterie de Ligne.</p>
