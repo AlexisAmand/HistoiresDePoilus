@@ -79,7 +79,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php">
+                  <a href="../index.php" title=" ">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -123,8 +123,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../tombes.php">Tombes de soldats</a></li>
+            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../tombes.php" title=" ">Tombes de soldats</a></li>
             <li class="breadcrumb-item active" aria-current="page">Les tombes d'Awoingt</li>
         </ol>
     </nav>
@@ -135,7 +135,7 @@
 
       <h2>Le monument anglais</h2>
 
-      <p class="text-justify">Le 9 octobre 1918 à environ 3 mètres en amont de ce calvaire au point marqué par une croix. Les officiers et hommes de troupe anglais dont les noms suivent ont été instantanément tués par un projectile ennemi. Ils sont inhumés au <a href="#cma">cimetière militaire d'Awoingt</a>.</p>
+      <p class="text-justify">Le 9 octobre 1918 à environ 3 mètres en amont de ce calvaire au point marqué par une croix. Les officiers et hommes de troupe anglais dont les noms suivent ont été instantanément tués par un projectile ennemi. Ils sont inhumés au <a href="#cma" title=" ">cimetière militaire d'Awoingt</a>.</p>
 
       <ul>
           <li>Le lieutenant W.G.G. LEVESON-GOWER, des Coldstream Guards</li>

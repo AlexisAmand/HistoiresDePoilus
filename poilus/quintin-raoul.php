@@ -79,7 +79,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php">
+                  <a href="../index.php" title=" ">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -125,8 +125,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../poilus.php">Les poilus</a></li>
+            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../poilus.php" title=" ">Les poilus</a></li>
             <li class="breadcrumb-item active" aria-current="page">RAoul QUINTIN</li>
         </ol>
     </nav>
@@ -148,9 +148,9 @@
         <h2>Sources et bibliographie</h2>
 
         <ul>
-            <li><a href=" " title=" " target="_blank">
+            <li><a href="https://www.familysearch.org/fr/" title="Documents gratuits d’histoire familiale et de généalogie proposés par FamilySearch" target="_blank">
             Familysearch pour l'état-civil de Belgique</a></li>
-            <li><a href=" " title=" " target="_blank">
+            <li><a href="https://www.wardeadregister.be/fr" title="Le Belgian War Dead Register" target="_blank">
             Dead War Register</a></li>
         </ul>
 

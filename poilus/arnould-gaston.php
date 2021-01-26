@@ -79,7 +79,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php">
+                  <a href="../index.php" title=" ">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -125,8 +125,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../poilus.php">Les poilus</a></li>
+            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../poilus.php" title=" ">Les poilus</a></li>
             <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
         </ol>
     </nav>
@@ -198,9 +198,9 @@
             Archives départementales de la Marne</a></li>
             <li><a href="https://chercher-archives.lamayenne.fr/" title="Site officiel des Archives départementales de la Mayenne" target="_blank">
             Archives départementales de la Mayenne</a></li>
-            <li><a href="https://amzn.to/2BcCaOd" target="_blank" title=" ">
+            <li><a href="https://amzn.to/2BcCaOd" target="_blank" title="Livre sur les origines des noms de famille par Emmanuelle HUBERT">
             Origine des noms de famille (Par Emmanuelle HUBERT)</a></li>
-            <li><a href="https://commons.wikimedia.org/wiki/Accueil" target="_blank" title=" ">
+            <li><a href="https://commons.wikimedia.org/wiki/Accueil" target="_blank" title="Médiathèque en ligne Wikipédia Commons">
             Wikipedia Commons</a></li>
         </ul>
 

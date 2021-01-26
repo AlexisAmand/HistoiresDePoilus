@@ -79,7 +79,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php">
+                  <a href="../index.php" title=" ">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -125,8 +125,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../poilus.php">Les poilus</a></li>
+            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../poilus.php" title=" ">Les poilus</a></li>
             <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
         </ol>
     </nav>
@@ -178,9 +178,9 @@
       <ul>
           <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
           Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
-          <li><a href="http://www.archives-nationales.culture.gouv.fr/web/guest/home" title=" " target="_blank">
+          <li><a href="http://www.archives-nationales.culture.gouv.fr/web/guest/home" title="Base Leonore sur le site des Archives Nationales" target="_blank">
           Archives Nationales (base Léonore)</a></li>
-          <li><a href="http://archives.cotedor.fr/v2/site/ad21/" title=" " target="_blank">
+          <li><a href="http://archives.cotedor.fr/v2/site/ad21/" title="Site officiel des Archives Départementales de Côte-d'or" target="_blank">
           Archives départementales de Côte-d'Or</a></li>
       </ul>
 

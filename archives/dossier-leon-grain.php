@@ -76,7 +76,7 @@
 
             <div class="col-12 text-center">
 
-                <a href="../index.php">
+                <a href="../index.php" title=" ">
                     <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                 </a>
 
@@ -112,8 +112,8 @@
 
         <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-        	<li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../webographie.php">Les dossiers d'anciens combattants</a></li>
+        	<li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../webographie.php" title=" ">Les dossiers d'anciens combattants</a></li>
             <li class="breadcrumb-item active" aria-current="page">GRAIN Léon</li>
         </ol>
         </nav>

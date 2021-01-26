@@ -82,7 +82,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php">
+                  <a href="../index.php" title=" ">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -128,8 +128,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../camps.php">Les camps allemands</a></li>
+            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../camps.php" title=" ">Les camps allemands</a></li>
             <li class="breadcrumb-item active" aria-current="page">Le camp de Merzdorf</li>
         </ol>
     </nav>

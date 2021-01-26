@@ -79,7 +79,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php">
+                  <a href="../index.php" title=" ">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -123,8 +123,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../tombes.php">Tombes de soldats</a></li>
+            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../tombes.php" title=" ">Tombes de soldats</a></li>
             <li class="breadcrumb-item active" aria-current="page">Les tombes de Saint-Saulve</li>
         </ol>
     </nav>
@@ -186,10 +186,10 @@
     <h2>Sources et bibliographie</h2>
 
     <ul>
-        <li><a href="http://www.memorialgenweb.org/" title=" " target="_blank">
+        <li><a href="http://www.memorialgenweb.org/" target="_blank" title="Base de données des Morts pour la France proposée par l'ACAM">
         Mémorial GenWeb</a></li>
         <li><a href="http://archivesdepartementales.lenord.fr" title="Archives départementales du Nord" target="_blank">
-        Archives Départementales du Nord</a><br /><br /></li>
+        Archives Départementales du Nord</a></li>
         <li><a href="https://www.memoiredeshommes.sga.defense.gouv.fr/" title=" " target="_blank">
         Mémoire des Hommes (Ministère de la Défense)</a></li>
         <li>Photo des tombes (Collection privée)</li>

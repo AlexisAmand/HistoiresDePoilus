@@ -82,7 +82,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php">
+                  <a href="../index.php" title=" ">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -128,8 +128,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../camps.php">Les camps allemands</a></li>
+            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../camps.php" title=" ">Les camps allemands</a></li>
             <li class="breadcrumb-item active" aria-current="page">Le camp de Chemnitz</li>
         </ol>
     </nav>
@@ -161,7 +161,7 @@
             <figcaption class="figure-caption">Répartition des prisonniers en 1915<br />(Cliquez pour agrandir)</figcaption>
         </figure>
 
-        <p class="text-justify">Des maladies comme le typhus ou le choléra font très vite leur apparition dans les camps de prisonniers comme celui de Chemnitz où survit désormais <a href="../poilus/GRAIN-Louis.php">Louis GRAIN</a>. Le confinement des logements, le nombre de prisonniers par baraque qui est en moyenne de 250, expliquent en partie le phénomène car l'atmosphère viciée se renouvelle très peu. Dans sa thèse "Gefangen im Großen Krieg", Uta Hinz explique qu'en février 1915, le camp de Chemnitz a été mis sous quarantaine. Un des prisonniers avait alors écrit que les seules voitures qui s'approchent du camp étaient celles qui transportaient les cercueils. Au total, on estime à 44732 le nombre de prisonniers de guerre ayant été victimes du typhus.</p>
+        <p class="text-justify">Des maladies comme le typhus ou le choléra font très vite leur apparition dans les camps de prisonniers comme celui de Chemnitz où survit désormais <a href="../poilus/GRAIN-Louis.php" title=" ">Louis GRAIN</a>. Le confinement des logements, le nombre de prisonniers par baraque qui est en moyenne de 250, expliquent en partie le phénomène car l'atmosphère viciée se renouvelle très peu. Dans sa thèse "Gefangen im Großen Krieg", Uta Hinz explique qu'en février 1915, le camp de Chemnitz a été mis sous quarantaine. Un des prisonniers avait alors écrit que les seules voitures qui s'approchent du camp étaient celles qui transportaient les cercueils. Au total, on estime à 44732 le nombre de prisonniers de guerre ayant été victimes du typhus.</p>
 
         <figure class="text-center">
             <a href="images/chemnitz-cholera.jpg" data-fancybox="gallery" data-caption="La vaccination contre le choléra">

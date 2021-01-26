@@ -79,7 +79,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php">
+                  <a href="../index.php" title=" ">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -125,8 +125,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../poilus.php">Les poilus</a></li>
+            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../poilus.php" title=" ">Les poilus</a></li>
             <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
         </ol>
     </nav>
@@ -222,10 +222,14 @@
        	<h2>Sources et bibliographie</h2>
         
         <ul>
-	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
-	        <li><a href="https://archives.marne.fr/">Archives départementales de la Marne</a></li>
-	        <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k6282969m">Recrutement de l'armée. Dispositions générales (1916)</a></li>
-	        <li><a href="https://www.delcampe.net/">Delcampe : Acheter et vendre ses objets de collection</a></li>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+            Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archives.marne.fr/" target="_blank" title="site officiel des Archives départementales de la Marne">
+            Archives départementales de la Marne</a></li>
+	        <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k6282969m" target="_blank" title="Les dispositions générales du recrutement dans l'armée en 1916">
+            Recrutement de l'armée. Dispositions générales (1916)</a></li>
+	        <li><a href="https://www.delcampe.net/" title="Delcampe, un site pour acheter et vendre ses objets de collection" target="_blank">
+            Delcampe : Acheter et vendre ses objets de collection</a></li>
         </ul>
 
     </article>

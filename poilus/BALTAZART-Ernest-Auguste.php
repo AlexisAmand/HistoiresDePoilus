@@ -79,7 +79,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php">
+                  <a href="../index.php" title=" ">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -125,8 +125,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../poilus.php">Les poilus</a></li>
+            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../poilus.php" title=" ">Les poilus</a></li>
             <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
         </ol>
     </nav>
@@ -240,7 +240,8 @@
       <ul>
           <li><a href="https://archives.marne.fr/" title="Site officiel des Archives Départementales de la Marne" target="_blank">
         Archives départementales de la Marne</a></li>
-          <li>"Le Monde Illustré" du 15 juillet 1922 (Gallica / BNF)</li>
+          <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k62047789" target="_blank" title="Le Monde Illustré du 15 juillet 1922 sur le site de la BNF">
+          Le Monde Illustré du 15 juillet 1922 (Gallica / BNF)</a></li>
           <li><a href="../pdf/matricule-baltazart-ernest.pdf" title="Fiche matricule d'Ernest Auguste BALTAZART" target="_blank">
           Fiche matricule d'Ernest Auguste BALTAZART</a></li>
           <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">

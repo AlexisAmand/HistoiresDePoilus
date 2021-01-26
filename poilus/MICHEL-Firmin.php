@@ -80,7 +80,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php">
+                  <a href="../index.php" title=" ">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -126,8 +126,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../poilus.php">Les poilus</a></li>
+            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../poilus.php" title=" ">Les poilus</a></li>
             <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
         </ol>
     </nav>
@@ -217,11 +217,11 @@
         <ul>
 	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
           Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
-	        <li><a href="https://archives.marne.fr/" target="_blank" title=" ">
+	        <li><a href="https://archives.marne.fr/" target="_blank" title="Site officiel des Archives départementales de la Marne">
           Archives départementales de la Marne</a></li>
 	        <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense" target="_blank">
           Mémoire des Hommes</a> (Ministère de la Défense)</li>
-	        <li><a href="https://www.delcampe.net/" target="_blank" title=" ">
+	        <li><a href="https://www.delcampe.net/" target="_blank" title="Delcampe, un site pour acheter et vendre ses objets de collection">
           Delcampe : Acheter et vendre ses objets de collection</a></li>
         </ul>
 

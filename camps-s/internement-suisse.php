@@ -76,7 +76,7 @@
 
             <div class="col-12 text-center">
 
-                <a href="../index.php">
+                <a href="../index.php" title=" ">
                     <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                 </a>
 
@@ -112,8 +112,8 @@
 
         <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../camps-nl/camps-internements.php">Les camps d'internement</a></li>
+        <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../camps-nl/camps-internements.php" title=" ">Les camps d'internement</a></li>
             <li class="breadcrumb-item active" aria-current="page">La Suisse</li>
         </ol>
         </nav>
@@ -121,6 +121,13 @@
         <h1 class="my-4">Les camps Suisse</h1>
 
         <p class="text-justify">Selon le Bulletin du Bureau de Secours de Berne et L'intermède du 24 septembre 1916, les internés dans les camps de Suisse sont répartis dans une centaine de centre. Le nombre des internés français serait de 11899 parmi lesquels ont peut dénombrer 496 officiers, 9611 hommes de troupe et 1792 civils. Les belges seraient quant à eux 2000 dont 480 officiers.</a>
+
+        <h2>Sources et bibliographie</h2>
+
+        <ul>
+            <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k6412714h" target="_blank" title="Numérisation de l'Intermède du 24 septembre 1916 sur le site de la BNF">
+            L'Intermède du 24 septembre 1916</a></li>
+        </ul>
 
         </article>
 

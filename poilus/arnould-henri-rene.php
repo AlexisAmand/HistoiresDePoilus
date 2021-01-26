@@ -79,7 +79,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php">
+                  <a href="../index.php" title=" ">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -125,8 +125,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../poilus.php">Les poilus</a></li>
+            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../poilus.php" title=" ">Les poilus</a></li>
             <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
         </ol>
     </nav>
@@ -174,10 +174,11 @@
             Archives départementales de la Marne</a></li>
 	          <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense" target="_blank">
             Mémoire des Hommes</a> (Ministère de la Défense)</li>
-            <li><a href="https://amzn.to/2BcCaOd" title=" " target="_blank">
+            <li><a href="https://amzn.to/2BcCaOd" title="Livre sur l'orignie des noms de famille par Emmanuelle HUBERT" target="_blank">
             Origine des noms de famille (Par Emmanuelle HUBERT)</a></li>
-            <li>Mémorial GenWeb</li>
-            <li><a href="https://www.delcampe.net/" title="" target="_blank">
+            <li><a href="http://www.memorialgenweb.org/" target="_blank" title="Base de données des Morts pour la France proposée par l'ACAM">
+            Mémorial GenWeb</a></li>
+            <li><a href="https://www.delcampe.net/" title=" " target="_blank">
             Delcampe : Acheter et vendre ses objets de collection</a></li>
        
 

@@ -79,7 +79,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php">
+                  <a href="../index.php" title=" ">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -125,8 +125,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../poilus.php">Les poilus</a></li>
+            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../poilus.php" title=" ">Les poilus</a></li>
             <li class="breadcrumb-item active" aria-current="page">Marcel Auguste FROIDUROT</li>
         </ol>
     </nav>
@@ -166,9 +166,9 @@
             Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
             <li><a href="http://archives.cotedor.fr/v2/site/ad21/" title="Site officiel des Archives départementales de la Côte-d'Or" target="_blank">
             Archives départementales de Côte-d'Or</a></li>
-            <li><a href="https://aetdebesancon.home.blog/" title=" " target="_blank">
+            <li><a href="https://aetdebesancon.home.blog/" title="Site sur l'histoire de la ville de Besançon" target="_blank">
             Hier et aujourd'hui à Besançon</a></li>
-            <li><a href="https://www.delcampe.net/" title=" " target="_blank">
+            <li><a href="https://www.delcampe.net/" title="Delcampe, un site pour acheter et vendre ses objets de collection" target="_blank">
             Delcampe : Acheter et vendre ses objets de collection</a></li>
         </ul>
 

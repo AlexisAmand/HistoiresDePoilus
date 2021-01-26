@@ -80,7 +80,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php">
+                  <a href="../index.php" title=" ">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -126,8 +126,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../poilus.php">Les poilus</a></li>
+            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../poilus.php" title=" ">Les poilus</a></li>
             <li class="breadcrumb-item active" aria-current="page">Auguste Maurice BALTAZART</li>
         </ol>
     </nav>
@@ -163,11 +163,16 @@
       <h2>Sources et bibliographie</h2>
 
       <ul>
-          <li><a href="http://memorialgenweb.org/">Mémorial Genweb</a></li>
-          <li><a href="https://archives.cd08.fr/" title="Site officiel des Archives départementales des Ardennes">Archives Départementales des Ardennes</a></li>
-          <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu">Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
-          <li><a href="http://www.archives-nationales.culture.gouv.fr/" title="Site officiel des Archives Nationales de France">Archives Nationales de France</a></li>
-          <li><a href="https://www.delcampe.net/fr/collections/">Delcampe</a> (pour certaines illustration)</li>
+          <li><a href="http://memorialgenweb.org/" target="_blank" title="Base de données des Morts pour la France proposée par l'ACAM">
+          Mémorial Genweb</a></li>
+          <li><a href="https://archives.cd08.fr/" title="Site officiel des Archives départementales des Ardennes" target="_blank">
+          Archives Départementales des Ardennes</a></li>
+          <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+          Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+          <li><a href="http://www.archives-nationales.culture.gouv.fr/" title="Site officiel des Archives Nationales de France" target="_blank">
+          Archives Nationales de France</a></li>
+          <li><a href="https://www.delcampe.net/fr/collections/" title="Delcampe, un site pour acheter et vendre ses objets de collection" target="_blank">
+          Delcampe</a> (pour certaines illustration)</li>
       </ul>
 
     </article>

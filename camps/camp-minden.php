@@ -82,7 +82,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php">
+                  <a href="../index.php" title=" ">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -128,8 +128,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../camps.php">Les camps allemands</a></li>
+            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../camps.php" title=" ">Les camps allemands</a></li>
             <li class="breadcrumb-item active" aria-current="page">Le camp de Minden</li>
         </ol>
     </nav>
@@ -186,7 +186,7 @@
             </tr>
         </table>
 
-        <p class="text-justify">Dans <cite>Westfalen in Ersten Weltkrieg</cite>, l'historien allemand Rainer PÖPPINGHEGE évalue à 25240 le nombre total de soldats prisonniers dans le camp de Minden à la fin de la Première Guerre Mondiale.</p><p class="text-justify">Le <a href="http://www.mindenermuseum.de">Musée de Minden</a> à mis en ligne une video qui permet de faire une "visite 3D" dans le camp de prisonniers. (durée: 4 min 35)</p>
+        <p class="text-justify">Dans <cite>Westfalen in Ersten Weltkrieg</cite>, l'historien allemand Rainer PÖPPINGHEGE évalue à 25240 le nombre total de soldats prisonniers dans le camp de Minden à la fin de la Première Guerre Mondiale.</p><p class="text-justify">Le <a href="http://www.mindenermuseum.de" title="site du musée de Minden">Musée de Minden</a> à mis en ligne une video qui permet de faire une "visite 3D" dans le camp de prisonniers. (durée: 4 min 35)</p>
 
         <div class="text-center">
             <video controls>

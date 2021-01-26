@@ -73,7 +73,7 @@
 
             <div class="col-12 text-center">
 
-                <a href="index.php">
+                <a href="index.php" title=" ">
                     <img src="images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                 </a>
 
@@ -109,8 +109,8 @@
 
         <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="bibliographie.php">Ressources</a></li>
+            <li class="breadcrumb-item"><a href="index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="bibliographie.php" title=" ">Ressources</a></li>
             <li class="breadcrumb-item active" aria-current="page">Ressources bibliographiques</li>
         </ol>
         </nav>
@@ -122,26 +122,30 @@
           <h2 class="mt-5">Vie quotidienne des soldats</h2>
 
           <ul>
-              <li><a href="https://amzn.to/39zdPOk" title="La Vie à la caserne au point de vue social par le Lieutenant Guennebaud">
+              <li><a href="https://amzn.to/39zdPOk" title="La Vie à la caserne au point de vue social par le Lieutenant Guennebaud" target="_blank">
               La Vie à la caserne au point de vue social</a><br />(par le Lieutenant Guennebaud)</li>
-              <li><a href="https://amzn.to/2vNzdh1" title="L'uniforme et les armes des soldats de la guerre de 1914-1918 écrit Liliane et Fred Funcken">
+              <li><a href="https://amzn.to/2vNzdh1" title="L'uniforme et les armes des soldats de la guerre de 1914-1918 écrit Liliane et Fred Funcken" target="_blank">
               L'uniforme et les armes des soldats de la guerre de 1914-1918</a><br />(Editions Casterman / Liliane et Fred Funcken)</li>
-              <li><a href="https://amzn.to/2Jfz7DO" title="Prisonniers 1914-1918 par Jean-Paul Briaste">
+              <li><a href="https://amzn.to/2Jfz7DO" title="Prisonniers 1914-1918 par Jean-Paul Briaste" target="_blank">
               Prisonniers 1914-1918</a><br />(Editions Sulton / Jean-Paul Briaste)</li>
-              <li><a href="https://amzn.to/2xLG65W" title="Les oubliés de Grande Guerre par Annette Becker">
+              <li><a href="https://amzn.to/2xLG65W" title="Les oubliés de Grande Guerre par Annette Becker" target="_blank">
               Les oubliés de la Grande Guerre</a><br />(Agnès Viénot Editions / Annette Becker)</li>
-              <li><a href="https://amzn.to/2uwxLlW" title="Das Ehrenbuch der Deutschen Schweren Artillerie par Wlather Dahl">
+              <li><a href="https://amzn.to/2uwxLlW" title="Das Ehrenbuch der Deutschen Schweren Artillerie par Wlather Dahl" target="_blank">
               Das Ehrenbuch der Deutschen Schweren Artillerie</a><br />(par Wlather Dahl)</li>
           </ul>
 
           <h2 class="mt-5">Ouvrages sur la Grande Guerre</h2>
 
           <ul>
-              <li><a href="https://amzn.to/2vLNtXK" title="La Grande Guerre des français aux éditions Perrin">La Grande Guerre des français, 1914-1918</a><br />(Editions Perrin / Jean-Baptiste Durosselle, 1994)</li>
+              <li><a href="https://amzn.to/2vLNtXK" title="La Grande Guerre des français aux éditions Perrin" target="_blank">
+              La Grande Guerre des français, 1914-1918</a><br />(Editions Perrin / Jean-Baptiste Durosselle, 1994)</li>
               <li>Août 1914, La Bataille de Sarrebourg<br />(Joseph Elmerich, 1993)</li>
-              <li><a href="https://amzn.to/2MvPvVA" title="Encyclopédie de la Grande Guerre aux éditions Bayard">Encyclopédie de la Grande Guerre</a><br />(Editions Bayard / sous la direction de Stéphane Audouin-Rouzeau et Jean-Jacques Becker)</li>
-              <li><a href="https://amzn.to/2ODtfGA" title="Les Grandes Guerres, par Henry Rousso">Les Grandes Guerres 1914-1945</a><br />(Editions Belins / ouvrage dirigé par Henry Rousso)</li>
-              <li><a href="https://amzn.to/2HS78L9" title="The Great War of the British People aux Editions MacMillan">The Great War of the British People</a><br />(Editions MacMillan / J. Winter, 1985)</li>
+              <li><a href="https://amzn.to/2MvPvVA" title="Encyclopédie de la Grande Guerre aux éditions Bayard" target="_blank">
+              Encyclopédie de la Grande Guerre</a><br />(Editions Bayard / sous la direction de Stéphane Audouin-Rouzeau et Jean-Jacques Becker)</li>
+              <li><a href="https://amzn.to/2ODtfGA" title="Les Grandes Guerres, par Henry Rousso" target="_blank">
+              Les Grandes Guerres 1914-1945</a><br />(Editions Belins / ouvrage dirigé par Henry Rousso)</li>
+              <li><a href="https://amzn.to/2HS78L9" title="The Great War of the British People aux Editions MacMillan" target="_blank">
+              The Great War of the British People</a><br />(Editions MacMillan / J. Winter, 1985)</li>
           </ul>
 
           <h2 class="mt-5">Revues sur la Grande Guerre</h2>
@@ -177,23 +181,23 @@
           <h2 class="mt-5">Guides de recherche</h2>
 
           <ul>
-              <li><a href="https://amzn.to/2LqzGM2" title="Retrouvez l'histoire de votre grand-père en 1914-1918 en livre">
+              <li><a href="https://amzn.to/2LqzGM2" title="Retrouvez l'histoire de votre grand-père en 1914-1918 en livre" target="_blank">
               Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>
-              <li><a href="https://amzn.to/2NuoqQb" title="Recherchez vos ancêtres soldats et leur famille (1914-1918) en livre">
+              <li><a href="https://amzn.to/2NuoqQb" title="Recherchez vos ancêtres soldats et leur famille (1914-1918) en livre" target="_blank">
               Recherchez vos ancêtres soldats et leur famille (1914-1918)</a><br />(Martin Média / Revue Française de Généalogie)</li>
-              <li><a href="http://www.rfgenealogie.com" title="Hors-série de la RFG sur les médailles et décorations">
+              <li><a href="http://www.rfgenealogie.com" title="Hors-série de la RFG sur les médailles et décorations" target="_blank">
               Les médailles et décorations</a><br />(Martin Média / Revue Française de Généalogie)</li>
-              <li><a href="https://amzn.to/2UXyxnc" title="Guide pratique des décorations françaises actuelles">
+              <li><a href="https://amzn.to/2UXyxnc" title="Guide pratique des décorations françaises actuelles" target="_blank">
               Guide pratique des décorations françaises actuelles</a><br />(Editions Lavauzelle / J. Battini et W. Zaniewicki)</li>
-              <li><a href="https://amzn.to/3onRiem">
+              <li><a href="https://amzn.to/3onRiem" title=" " target="_blank">
               Un ancêtre dans la Grande Guerre venant des colonies</a><br />(Editions Hachette / fiche "La Généalogie Facile")</li>
-              <li><a href="https://amzn.to/3onRiem">
+              <li><a href="https://amzn.to/3onRiem" title=" " target="_blank">
               Mémoire des Hommes</a><br />(Editions Hachette / fiche "La Généalogie Facile")</li>
-              <li><a href="https://amzn.to/3onRiem">
+              <li><a href="https://amzn.to/3onRiem" title=" " target="_blank">
               La recherche d'un officier, de la Révolution à nos jours</a><br />(Editions Hachette / fiche "La Généalogie Facile")</li>
-              <li><a href="https://amzn.to/3onRiem">
+              <li><a href="https://amzn.to/3onRiem" title=" " target="_blank">
               La recherche d'un ancêtre aviateur</a><br />(Editions Hachette / fiche "La Généalogie Facile")</li>
-              <li><a href="https://amzn.to/3onRiem">
+              <li><a href="https://amzn.to/3onRiem" title=" " target="_blank">
               Un ancêtre militaire alsacien ou mosellan de 1871 à 1919</a><br />(Editions Hachette / fiche "La Généalogie Facile")</li>
           </ul>
 

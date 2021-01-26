@@ -73,7 +73,7 @@
 
             <div class="col-12 text-center">
 
-                <a href="index.php">
+                <a href="index.php" title=" ">
                     <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                 </a>
 
@@ -109,8 +109,8 @@
 
             <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-                <li class="breadcrumb-item"><a href="hopitaux.php">Le service de santé</a></li>
+                <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+                <li class="breadcrumb-item"><a href="hopitaux.php" title=" ">Le service de santé</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Introduction</li>
             </ol>
             </nav>

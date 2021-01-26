@@ -82,7 +82,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php">
+                  <a href="../index.php" title=" ">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -128,8 +128,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../camps.php">Les camps allemands</a></li>
+            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../camps.php" title=" ">Les camps allemands</a></li>
             <li class="breadcrumb-item active" aria-current="page">Le camp de Friedrichsfeld</li>
         </ol>
     </nav>
@@ -169,7 +169,7 @@
             <figcaption class="figure-caption">Des prisonniers au camp de Friedrichsfeld<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
-        <p class="text-justify">Quand <a href="../poilus.php">Jules Henri BOURSIER</a>, <a href="../poilus/CARLIER-Druon-Joseph.php" title="biographie du soldat Druon Joseph CARLIER">Druon Joseph CARLIER</a>, <a href="../poilus/JOLY-Noel-Jules.php" title="Biographie du soldat Noël JOLY">Noël Jules JOLY</a> et leurs compagnons français arrivent dans le camp de Friedrichsfeld en cette fin d'année 1914, il est juste indiqué par une clôture de fils de fer, mais rien n'est construit; pendant de longues semaines, les hommes doivent coucher en plein air, sur la paille, avec une seule couverture. Sous la direction d'ouvriers civils, les prisonniers sont employés à la construction de baraquements qui sont habités dès le mois de décembre 1914. A cette époque, ils reçoivent une enveloppe de paillasse contenant de la fibre de bois et de la paille (qui ne sera jamais renouvelée) et une seconde couverture. Après son achèvement, le camp est une véritable petite ville, constituée par des baraques de planches, dont chacune est divisée en 2 chambrées par une cloison.</p><p class="text-justify">Dans l'exemplaire n°202 de l'ouvrage intitulé <cite><a href="http://gallicalabs.bnf.fr/ark:/12148/bpt6k65295400" title="Le sort des prisonniers français en allemagne pendant la Grande Guerre">Le sort des prisonniers français en Allemagne</a></cite>, l'auteur explique qu'à Friedrichsfeld, il y avait une baraque spéciale, close de treillages, où restaient enfermés nuit et jour les prisonniers qui se refusent au travail; au mois de décembre 1915, 25 réfractaires avaient été laissés toute une nuit, en tenue de travail, sur le bord du Rhin, au garde-à-vous, les pieds posés sur des cailloux. Quelques pages plus loin, l'auteur nous décrit l'impuissance des prisonniers français contre les épidémies, notamment dans les camps de <a href="camp-darmstadt.php" title="le camp de prisonniers de Darmstadt">Darmstadt</a>, <a href="camp-friedrichsfeld.php" title="le camp de prisonniers de Friedrichsfeld">Friedrichsfeld</a>, Koenigsbrück, Merseburg et Zoosen où la faim non apaisée, l'inanition et la misère psychologique qui en a résulté ont provoqué un développement inouï de la tuberculose et une mortalité effrayante.</p>
+        <p class="text-justify">Quand <a href="../poilus.php" title=" ">Jules Henri BOURSIER</a>, <a href="../poilus/CARLIER-Druon-Joseph.php" title="biographie du soldat Druon Joseph CARLIER">Druon Joseph CARLIER</a>, <a href="../poilus/JOLY-Noel-Jules.php" title="Biographie du soldat Noël JOLY">Noël Jules JOLY</a> et leurs compagnons français arrivent dans le camp de Friedrichsfeld en cette fin d'année 1914, il est juste indiqué par une clôture de fils de fer, mais rien n'est construit; pendant de longues semaines, les hommes doivent coucher en plein air, sur la paille, avec une seule couverture. Sous la direction d'ouvriers civils, les prisonniers sont employés à la construction de baraquements qui sont habités dès le mois de décembre 1914. A cette époque, ils reçoivent une enveloppe de paillasse contenant de la fibre de bois et de la paille (qui ne sera jamais renouvelée) et une seconde couverture. Après son achèvement, le camp est une véritable petite ville, constituée par des baraques de planches, dont chacune est divisée en 2 chambrées par une cloison.</p><p class="text-justify">Dans l'exemplaire n°202 de l'ouvrage intitulé <cite><a href="http://gallicalabs.bnf.fr/ark:/12148/bpt6k65295400" title="Le sort des prisonniers français en allemagne pendant la Grande Guerre">Le sort des prisonniers français en Allemagne</a></cite>, l'auteur explique qu'à Friedrichsfeld, il y avait une baraque spéciale, close de treillages, où restaient enfermés nuit et jour les prisonniers qui se refusent au travail; au mois de décembre 1915, 25 réfractaires avaient été laissés toute une nuit, en tenue de travail, sur le bord du Rhin, au garde-à-vous, les pieds posés sur des cailloux. Quelques pages plus loin, l'auteur nous décrit l'impuissance des prisonniers français contre les épidémies, notamment dans les camps de <a href="camp-darmstadt.php" title="le camp de prisonniers de Darmstadt">Darmstadt</a>, <a href="camp-friedrichsfeld.php" title="le camp de prisonniers de Friedrichsfeld">Friedrichsfeld</a>, Koenigsbrück, Merseburg et Zoosen où la faim non apaisée, l'inanition et la misère psychologique qui en a résulté ont provoqué un développement inouï de la tuberculose et une mortalité effrayante.</p>
 
         <figure class="text-center">
             <a href="images/friedrichsfeld01.jpg" data-fancybox="gallery" data-caption="Des prisonniers dans le camp de Friedrichsfeld">
@@ -288,7 +288,7 @@
             Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
             Prisonniers 1914-1918 (Jean-Paul Briastre, 2013)</a></li>
-            <li><a href="https://commons.wikimedia.org/wiki/Accueil" target="_blank"  title="Livre sur les prisonniers de guerre pendant la Grande Guerre écrit par Jean-Paul Briastre en 2013">
+            <li><a href="https://commons.wikimedia.org/wiki/Accueil" target="_blank"  title="Médiathèque en ligne Wikipédia Commons">
             Wikipedia Commons</a></li>
         </ul>
 
