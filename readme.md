@@ -17,5 +17,3 @@ http://histoiresdepoilus.genealexis.fr
 
 ![](https://zupimages.net/up/21/04/0vei.png)
 ![](https://zupimages.net/up/21/04/m95y.png)
-
-

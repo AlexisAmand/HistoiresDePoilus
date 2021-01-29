@@ -1,0 +1,25 @@
+TODOS ET IDEES
+--------------
+
+- peut-être réduire la taille des "cases" de l'aside
+
+.list-group-item {
+    padding: 0.5rem 1.25rem;
+}
+
+- l'affichage/masquage du menu aside ne fonctionne pas si l'écran est trop petit
+
+- sur la page camps.php note doit être remplacer par mise en garde
+- idem sur les pages des camps ?
+
+- le menu burger peu peut-être être de la même couleur que le logo ?
+- le logo au format svg pour ne pas perdre en qualité en cas de reduction de sa taille ?
+
+- la page des hopitaux de fonctionne pas : style, chemins vers images....
+
+AVANT LA MISE EN LIGNE 
+----------------------
+
+- compresser les css et les js avant la mise en ligne
+
+

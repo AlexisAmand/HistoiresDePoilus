@@ -74,7 +74,7 @@
             <div class="col-12 text-center">
 
                 <a href="#">
-                    <img src="images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
+                    <img src="images/grand-logo.svg" class="logo" alt="Logo du site Histoires de Poilus"/>
                 </a>
 
             </div>
