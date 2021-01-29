@@ -79,7 +79,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php" title=" ">
+                  <a href="index.php" title="Retour à la page d'accueil">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -125,8 +125,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../poilus.php" title=" ">Les poilus</a></li>
+            <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
             <li class="breadcrumb-item active" aria-current="page">Jules AMAND</li>
         </ol>
     </nav>

@@ -79,7 +79,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php" title=" ">
+                  <a href="index.php" title="Retour à la page d'accueil">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -125,8 +125,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../poilus.php" title=" ">Les poilus</a></li>
+            <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
             <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
         </ol>
     </nav>
@@ -178,7 +178,7 @@
             Origine des noms de famille (Par Emmanuelle HUBERT)</a></li>
             <li><a href="http://www.memorialgenweb.org/" target="_blank" title="Base de données des Morts pour la France proposée par l'ACAM">
             Mémorial GenWeb</a></li>
-            <li><a href="https://www.delcampe.net/" title=" " target="_blank">
+            <li><a href="https://www.delcampe.net/" title="Delcampe, un site pour acheter et vendre ses objets de collection" target="_blank">
             Delcampe : Acheter et vendre ses objets de collection</a></li>
        
 

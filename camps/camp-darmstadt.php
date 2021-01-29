@@ -82,7 +82,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php" title=" ">
+                  <a href="index.php" title="Retour à la page d'accueil">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -128,8 +128,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../camps.php" title=" ">Les camps allemands</a></li>
+            <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../camps.php" title="Les camps de prisonniers allemands">Les camps allemands</a></li>
             <li class="breadcrumb-item active" aria-current="page">Le camp de Darmstadt</li>
         </ol>
     </nav>
@@ -151,7 +151,7 @@
 
         <div id="Louis_Guinet"></div>
 
-        <p>Louis GUINET a 27 ans quand il est fait prisonnier à Entre-deux-Eaux, près de Saint-Dié, le 29 août 1914. Il est évacué sur le camp de Darmstadt où il séjourne jusque juin 1915, date à laquelle il est envoyé au camp de représailles de <a href="camp-meyenburg.php" title=" ">Meyenburg</a>. Sur son séjour à Darmstadt, il rapporte que la <em>nourriture était insuffisante et de mauvaise qualité.</em> et que les <em>prisonniers étaient traités avec brutalité</em>.</p>
+        <p>Louis GUINET a 27 ans quand il est fait prisonnier à Entre-deux-Eaux, près de Saint-Dié, le 29 août 1914. Il est évacué sur le camp de Darmstadt où il séjourne jusque juin 1915, date à laquelle il est envoyé au camp de représailles de <a href="camp-meyenburg.php" title="Le camp de prisonniers de Meyenburg">Meyenburg</a>. Sur son séjour à Darmstadt, il rapporte que la <em>nourriture était insuffisante et de mauvaise qualité.</em> et que les <em>prisonniers étaient traités avec brutalité</em>.</p>
 
         <figure class="text-center">
             <a href="images/Darmstadt/darmstadt-04.jpg" data-fancybox="gallery" data-caption="Le camp de Darmstadt">
@@ -159,7 +159,7 @@
             <figcaption class="figure-caption">Statistique du mouvement de la correspondance au camp de Darmstadt<br />(source allemande)</figcaption>   
         </figure>
 
-        <p>Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php" title=" ">Wetzlar</a> arrivent au camp de Darmstadt.</p>
+        <p>Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php" title="Le camp de prisonniers de Wetzlar">Wetzlar</a> arrivent au camp de Darmstadt.</p>
 
         <figure class="text-center">
             <a href="images/Darmstadt/darmstadt-08.jpg" data-fancybox="gallery" data-caption="Le camp de Darmstadt">

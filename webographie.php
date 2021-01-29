@@ -73,7 +73,7 @@
 
             <div class="col-12 text-center">
 
-                <a href="index.php" title=" ">
+                <a href="index.php" title="Retour sur la page d'accueil">
                     <img src="images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                 </a>
 
@@ -109,8 +109,8 @@
 
         <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" title=" ">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="bibliographie.php" title=" ">Ressources</a></li>
+            <li class="breadcrumb-item"><a href="index.php" title="Retour sur la page d'accueil">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="bibliographie.php" title="Ressources pour les recherches sur le thème de la Grande Guerre">Ressources</a></li>
             <li class="breadcrumb-item active" aria-current="page">Ressources en ligne</li>
         </ol>
         </nav>
@@ -119,7 +119,7 @@
 
         <p class="text-justify">Vous trouverez sur cette page la liste de toutes les ressources en ligne (sites, blogs ou forums par exemple) qui m'ont permis de réaliser mes recherches sur la Première Guerre Mondiale. J'ai essayé d'être le plus exhaustif possible, mais n'hésitez pas à <a href="#contactModal" data-toggle="modal" data-target="#contactModal">me contacter</a> si vous avez une question ou un renseignement. Je vous invite à cliquer sur les titres (quand c'est possible), cela vous mènera directement à la source. Peut-être trouverez vous aussi des infos sur vos ancêtres ayant participé à la Première Guerre Mondiale ?</p><p class="text-justify">Certains documents sont <strong>des pdf</strong>, selon la configuration de votre ordinateur, ils peuvent mettre un petit moment à s'afficher. Pour les lire, vous devez posséder un logiciel comme <em>Adobe Reader</em>, que vous pouvez <a href="https://get.adobe.com/fr/reader/" title="télécharger gratuitement Adobe Reader">télécharger gratuitement ici</a>.</p>
 
-        <h2 class="mt-5">Dossiers d'anciens combattants</h2>
+        <h2 class="mt-5" id="DossiersAnciensCombattants">Dossiers d'anciens combattants</h2>
 
         <ul>
             <li><a href="archives/dossier-druon-carlier.php" title="version numérisée du dossier d'ancien combattant de Druon Joseph CARLIER">
@@ -164,10 +164,11 @@
             Die Kriegsgefangenen in Deutschland</a><br />(Hermann Montanus, 1915)</li>
             <li><a href="pdf/aus-deutschen-kriegsgefangenenlagern.pdf" title="Aus deutschen Kriegsgefangenenlagern écrit par la Deutsches Rotes Kreuz">
             Aus deutschen Kriegsgefangenenlagern</a><br />(Deutsches Rotes Kreuz)</li>
-            <li><a href="https://catalogue.bnf.fr/ark:/12148/cb32724205h" title=" " target="_blank">Bulletin de la Société de secours aux blessés militaires</a></li>
+            <li><a href="https://catalogue.bnf.fr/ark:/12148/cb32724205h" title="Exemplaire numérisé de Bulletin de la Société de secours aux blessés militaires" target="_blank">
+            Bulletin de la Société de secours aux blessés militaires</a></li>
             <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k755527" title="La vie à la caserne décrite par le Lieutenant Guennebaud" target="_blank">
             La Vie à la caserne au point de vue social</a><br />(par le Lieutenant Guennebaud)</li>
-            <li><a href="pdf/globe-58-1919.pdf" title=" ">La distribution géographique des prisonniers de guerre pendant le conflit mondial de 1914-1919</a><br />(Le Globe, Revue genevoise de géographie, tome 58 (1919))</li>
+            <li><a href="pdf/globe-58-1919.pdf" title="Revue Le Globe n°58 de 1919">La distribution géographique des prisonniers de guerre pendant le conflit mondial de 1914-1919</a><br />(Le Globe, Revue genevoise de géographie, tome 58 (1919))</li>
         </ul>
 
         <h2 class="mt-5">Ouvrages sur la Grande Guerre</h2>
@@ -182,9 +183,9 @@
             <li><a href="pdf/souvenirsdelacampagnedelamarne.pdf" title="Souvenirs de la Campagne de la Marne par le Baron Von Hausen">
             Souvenirs de la Campagne de la Marne</a><br />(Brigham Young University / Baron Von Hausen, 1922)</li>
             <li><a href="pdf/recquignies-1914.pdf" title="Petite histoire de Recquignies et Rocq en 1914">Petite histoire de Recquignies et Rocq en 1914</a><br />(Anonyme)</li>
-            <li><a href="https://archive.org/details/19141918iedixneu01chriuoft" target="_blank" title=" ">
+            <li><a href="https://archive.org/details/19141918iedixneu01chriuoft" target="_blank" title="Livre intitulé : La Grande Guerre vécue et racontée par les combattants et daté de 1922">
             La Grande Guerre, vécue - racontée - illustrée par les combattants (tome 1)</a><br />(Publiée sous la Direction de Christian-Frogé, 1922)</li>
-            <li><a href="https://archive.org/details/19141918iedixneu02chriuoft" target="_blank" title=" ">
+            <li><a href="https://archive.org/details/19141918iedixneu02chriuoft" target="_blank" title="Livre intitulé : La Grande Guerre vécue et racontée par les combattants et daté de 1922">
             La Grande Guerre, vécue - racontée - illustrée par les combattants (tome 2)</a><br />(Publiée sous la Direction de Christian-Frogé, 1922)</li>
         </ul>
 
@@ -204,7 +205,7 @@
             L'Administration des douanes en France de 1914 à 1940</a><br />(Par Jean Clinquart)</li>
         </ul>
 
-        <h2 class="mt-5">Presse&nbsp; ancienne</h2>
+        <h2 class="mt-5">Presse ancienne</h2>
 
         <ul>
             <li><a href="http://gallica.bnf.fr/ark:/12148/cb32732967q/date" title="Bulletin Religieux de l'Archidiocèse de Rouen" target="_blank">
@@ -309,7 +310,7 @@
             Les livres d'or des soldats morts pour la France</a> (Archives Nationales)</li>
             <li><a href="https://testaments-de-poilus.huma-num.fr/#!/" title="Le projet de numérisation et d'indexation des testaments de poilus">
             Le projet Testaments de Poilus</a></li>
-            <li><a href="https://argonnaute.parisnanterre.fr/" title=" " target="_blank">L'Argonnaute</a> (Bibliothèque numérique sur l'histoire du XXe siècle)</li>
+            <li><a href="https://argonnaute.parisnanterre.fr/" title="" target="_blank">L'Argonnaute</a> (Bibliothèque numérique sur l'histoire du XXe siècle)</li>
             <li><a href="http://www.culture.fr/Genealogie/Grand-Memorial" title=" " target="_blank">Le Grand Mémorial</a> (Ministère de la Culture)</li>
             <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr" title="Mémoire des hommes" target="_blank">Mémoire des Hommes</a> (Ministère de la Défense)</li>
             <li><a href="http://www.memorial-genweb.org/~memorial2/" title="Portail MémorialGenweb" target="_blank">Mémorial-GenWeb</a></li>

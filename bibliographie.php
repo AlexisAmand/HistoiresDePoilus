@@ -73,7 +73,7 @@
 
             <div class="col-12 text-center">
 
-                <a href="index.php" title=" ">
+                <a href="index.php" title="Retour à la page d'accueil">
                     <img src="images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                 </a>
 
@@ -109,8 +109,8 @@
 
         <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" title=" ">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="bibliographie.php" title=" ">Ressources</a></li>
+            <li class="breadcrumb-item"><a href="index.php" title="Retour sur la page d'accueil">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="bibliographie.php" title="Ressources pour les recherches sur le thème de la Grande Guerre">Ressources</a></li>
             <li class="breadcrumb-item active" aria-current="page">Ressources bibliographiques</li>
         </ol>
         </nav>
@@ -189,15 +189,15 @@
               Les médailles et décorations</a><br />(Martin Média / Revue Française de Généalogie)</li>
               <li><a href="https://amzn.to/2UXyxnc" title="Guide pratique des décorations françaises actuelles" target="_blank">
               Guide pratique des décorations françaises actuelles</a><br />(Editions Lavauzelle / J. Battini et W. Zaniewicki)</li>
-              <li><a href="https://amzn.to/3onRiem" title=" " target="_blank">
+              <li><a href="https://amzn.to/3onRiem" title="Fiche extraite de la collection La Généalogie Facile aux éditions Hachette" target="_blank">
               Un ancêtre dans la Grande Guerre venant des colonies</a><br />(Editions Hachette / fiche "La Généalogie Facile")</li>
-              <li><a href="https://amzn.to/3onRiem" title=" " target="_blank">
+              <li><a href="https://amzn.to/3onRiem" title="Fiche extraite de la collection La Généalogie Facile aux éditions Hachette" target="_blank">
               Mémoire des Hommes</a><br />(Editions Hachette / fiche "La Généalogie Facile")</li>
-              <li><a href="https://amzn.to/3onRiem" title=" " target="_blank">
+              <li><a href="https://amzn.to/3onRiem" title="Fiche extraite de la collection La Généalogie Facile aux éditions Hachette" target="_blank">
               La recherche d'un officier, de la Révolution à nos jours</a><br />(Editions Hachette / fiche "La Généalogie Facile")</li>
-              <li><a href="https://amzn.to/3onRiem" title=" " target="_blank">
+              <li><a href="https://amzn.to/3onRiem" title="Fiche extraite de la collection La Généalogie Facile aux éditions Hachette" target="_blank">
               La recherche d'un ancêtre aviateur</a><br />(Editions Hachette / fiche "La Généalogie Facile")</li>
-              <li><a href="https://amzn.to/3onRiem" title=" " target="_blank">
+              <li><a href="https://amzn.to/3onRiem" title="Fiche extraite de la collection La Généalogie Facile aux éditions Hachette" target="_blank">
               Un ancêtre militaire alsacien ou mosellan de 1871 à 1919</a><br />(Editions Hachette / fiche "La Généalogie Facile")</li>
           </ul>
 

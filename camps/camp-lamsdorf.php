@@ -82,7 +82,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php" title=" ">
+                  <a href="index.php" title="Retour à la page d'accueil">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -149,7 +149,8 @@
             Les prisonniers de guerre dans l'histoire : Contacts entre peuples et cultures</a></li>
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
             Prisonniers 1914-1918</a> (Jean-Paul Briastre, 2013)</li>
-            <li>Bulletin du Bureau de Secours de Berne</li>
+            <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k65578637" target="_blank" title="divers exemplaires numérisés du Bulletin de Secours de Berne">
+            Bulletin du Bureau de Secours de Berne (Divers exemplaires)</a></li>
             <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k6412714h" target="_blank" title="Numérisation de l'Intermède du 24 septembre 1916 sur le site de la BNF">
             L'Intermède du 24 septembre 1916</a></li>
         </ul>

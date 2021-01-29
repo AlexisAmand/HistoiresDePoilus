@@ -76,7 +76,7 @@
 
             <div class="col-12 text-center">
 
-                <a href="../index.php" title=" ">
+                <a href="index.php" title="Retour à la page d'accueil">
                     <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                 </a>
 

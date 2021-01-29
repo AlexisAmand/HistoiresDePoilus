@@ -82,7 +82,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php" title=" ">
+                  <a href="index.php" title="Retour à la page d'accueil">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -128,8 +128,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../camps.php" title=" ">Les camps allemands</a></li>
+            <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../camps.php" title="Les camps de prisonniers allemands">Les camps allemands</a></li>
             <li class="breadcrumb-item active" aria-current="page">Le camp de Amberg</li>
         </ol>
     </nav>
@@ -145,9 +145,10 @@
         <ul>
             <li><a href="http://amzn.to/2uBK1k3" title="Le livre prisonniers 1914-1918 par Jean-Paul Briastre" target="_blank">
             Prisonniers 1914-1918</a> (Jean-Paul Briastre, 2013)</li>
-            <li><a href="https://gallica.bnf.fr/ark:/12148/btv1b10315936v" title=" " target=" ">
+            <li><a href="https://gallica.bnf.fr/ark:/12148/btv1b10315936v" title=" " target="_blank">
             Scènes du camp de Prisonniers d'Amberg </a></li>
-            <li><a href=" " target=" " title=" ">Bulletin du Bureau de Secours de Berne</a></li>
+            <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k65578637" target="_blank" title="divers exemplaires numérisés du Bulletin de Secours de Berne">
+            Bulletin du Bureau de Secours de Berne (Divers exemplaires)</a></li>
             <li><a href="https://gallica.bnf.fr/ark:/12148/bpt6k6412714h" target="_blank" title="Numérisation de l'Intermède du 24 septembre 1916 sur le site de la BNF">
             L'Intermède du 24 septembre 1916</a></li>
         </ul>

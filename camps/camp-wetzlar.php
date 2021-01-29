@@ -82,7 +82,7 @@
 
               <div class="col-12 text-center">
 
-                  <a href="../index.php" title=" ">
+                  <a href="index.php" title="Retour à la page d'accueil">
                       <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
                   </a>
 
@@ -128,8 +128,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="../index.php" title=" ">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../camps.php" title=" ">Les camps allemands</a></li>
+            <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="../camps.php" title="Les camps de prisonniers allemands">Les camps allemands</a></li>
             <li class="breadcrumb-item active" aria-current="page">Le camp de Wetzlar</li>
         </ol>
     </nav>
@@ -146,7 +146,7 @@
             <figcaption class="figure-caption">Localisation du camp de Wetzlar<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>  
 
-        <p class="text-justify">Fin 1915, des prisonniers du camp de Wetzlar sont évacués vers les camps de <a href="camp-giessen.php" title=" ">Giessen</a>, <a href="camp-limburg.php" title="Le camp de prisonniers de Limburg">Limburg</a>, Holzminden, <a href="camp-meschede.php" title="Le camp de prisonniers de Meschede">Meschede</a>, Stendal et <a href="camp-darmstadt.php" title="Le camp de prisonniers de Darmstadt">Darmstadt</a>. Le commandant du camp de Wetzlar fait savoir que les colis destinés aux prisonniers évacués sur les camps ci-dessus, suivront le destinataire: Quant aux colis qui ne porteront l'adresse d'aucun bénéficiaire nommément désigné, ils seront attribués aux prisonniers français du camp de Giessen.</p>
+        <p class="text-justify">Fin 1915, des prisonniers du camp de Wetzlar sont évacués vers les camps de <a href="camp-giessen.php" title="le camp de prisonniers de Giessen">Giessen</a>, <a href="camp-limburg.php" title="Le camp de prisonniers de Limburg">Limburg</a>, Holzminden, <a href="camp-meschede.php" title="Le camp de prisonniers de Meschede">Meschede</a>, Stendal et <a href="camp-darmstadt.php" title="Le camp de prisonniers de Darmstadt">Darmstadt</a>. Le commandant du camp de Wetzlar fait savoir que les colis destinés aux prisonniers évacués sur les camps ci-dessus, suivront le destinataire: Quant aux colis qui ne porteront l'adresse d'aucun bénéficiaire nommément désigné, ils seront attribués aux prisonniers français du camp de Giessen.</p>
 
         <figure class="text-center">
             <a href="images/Wetzlar/wetzlar-01.jpg" data-fancybox="gallery" data-caption="Arrivage de vivres au camp de Wetzlar">
