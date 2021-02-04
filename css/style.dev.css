@@ -15,7 +15,7 @@ body {
 }
 
 /* ------- */
-/* En-tête */
+/* En-tï¿½te */
 /* ------- */
 
 #reseaux a:link {
@@ -58,8 +58,20 @@ header {
 /* Menu burger */
 /* ----------- */
 
+/*
 .navbar-light .navbar-toggler {
 	color:#e2ede4;
+}
+*/
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url(../images/menu.svg);
+}
+
+/* Supprime le focus qu'il y a autour du menu burger */
+
+.navbar-light .navbar-toggler:focus {
+	outline:none;
 }
 
 /* --------------------- */

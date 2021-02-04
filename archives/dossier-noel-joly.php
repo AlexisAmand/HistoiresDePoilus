@@ -74,19 +74,7 @@
 
         <div class="row">
 
-            <div class="col-12 text-center">
-
-                <a href="index.php" title="Retour à la page d'accueil">
-                    <img src="../images/grand-logo.jpg" class="logo" alt="Logo du site Histoires de Poilus"/>
-                </a>
-
-            </div>
-
-            <div class="col-12 text-center">
-
-                <?php include $_SERVER['DOCUMENT_ROOT'].'./include/nav.inc'; ?>
-
-            </div>
+            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header.inc'; ?>            
 
         </div>
 

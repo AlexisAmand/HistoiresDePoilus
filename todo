@@ -17,6 +17,13 @@ TODOS ET IDEES
 
 - la page des hopitaux de fonctionne pas : style, chemins vers images....
 
+- c'est comme pour TM, il y a un focus qui se met autour de l'icone de menu
+
+- Je me demande si je ne devrais pas mettre le menu au dessus du logo...
+au final, ça permettrait de ressoudre le soucis du menu burger qui n'est pas vraiment dans un endroit adapté
+
+- peut-être le logo dans le nav et changer le nom de nav.inc
+
 AVANT LA MISE EN LIGNE 
 ----------------------
 
