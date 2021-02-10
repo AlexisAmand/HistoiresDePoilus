@@ -66,29 +66,13 @@
 
 <body>
 
-<!-- menu de navigation -->
+<!-- header du site  (menu + logo) -->
 
-<div class="container-fluid">
-
-    <div class="container">
-
-        <div class="row">
+  <div class="container-fluid">
 
             <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header.inc'; ?>
 
-        </div>
-
-    </div>
-
-<!-- entête avec l'image -->
-
-    <header class="row">
-        <div class="col-12">
-
-        </div>
-    </header>
-
-</div>
+  </div>
 
 <!-- contenu de la page -->
 

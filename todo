@@ -12,12 +12,18 @@ TODOS ET IDEES
 - sur la page camps.php note doit être remplacer par mise en garde
 - idem sur les pages des camps ?
 
-- le menu burger peu peut-être être de la même couleur que le logo ?
-- le logo au format svg pour ne pas perdre en qualité en cas de reduction de sa taille ?
-
-- la page des hopitaux de fonctionne pas : style, chemins vers images....
-
 - c'est comme pour TM, il y a un focus qui se met autour de l'icone de menu
+
+- quid du logo du footer ?
+
+- lien du logo qui ne fonctionne pas
+
+- dans le footer, il manque un lien vers le plan du site.
+
+- dans le header, mettre des <header> ?
+
+- la page consacrée au camp d'Hammelburg est vide
+- Voir pour y ajouter le souvenir que j'ai reçu par mail
 
 AVANT LA MISE EN LIGNE 
 ----------------------

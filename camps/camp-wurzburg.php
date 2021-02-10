@@ -73,29 +73,13 @@
 
 <body>
 
-  <!-- menu de navigation -->
+  <!-- header du site  (menu + logo) -->
 
   <div class="container-fluid">
 
-      <div class="container">
+            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header.inc'; ?>
 
-          <div class="row">
-
-              <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header.inc'; ?>
-
-          </div>
-
-      </div>
-
-  <!-- entête avec l'image -->
-
-    <header class="row">
-        <div class="col-12">
-
-        </div>
-    </header>
-
-</div>
+  </div>
 
 <!-- contenu de la page -->
 
