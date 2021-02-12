@@ -204,6 +204,20 @@
             <figcaption class="figure-caption">Le camp de Hammelburg<br />(source : Delcampe)</figcaption>
         </figure>
 
+        <p class="text-justify">Pour conclure cette page, je ne peux resister à l'envie de partager avec ses photos, envoyées par Madame B. Il s'agit d'un souvenir réalisé par un prisonnier pendant son séjour dans le camp de prisonniers de Hammelburg entre 1914 et 1915.<p>
+
+        <figure class="text-center">
+            <a href="images/Hammelburg/souvenir-hammelburg-01.jpg" data-fancybox="gallery" data-caption="Souvenir d'Hammelburg réalisé par un prisonnier">
+            <img src="miniatures/Hammelburg/souvenir-hammelburg-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Artisanat et souvenir d'Hammelburg réalisé par un prisonnier de guerre"></a>
+            <figcaption class="figure-caption">Souvenir d'Hammelburg<br />(source : Mme B.)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/Hammelburg/souvenir-hammelburg-02.jpg" data-fancybox="gallery" data-caption="Souvenir d'Hammelburg réalisé par un prisonnier">
+            <img src="miniatures/Hammelburg/souvenir-hammelburg-02.jpg" class="figure-img img-fluid img-thumbnail" alt="Artisanat et souvenir d'Hammelburg réalisé par un prisonnier de guerre"></a>
+            <figcaption class="figure-caption">Souvenir d'Hammelburg<br />(source : Mme B.)</figcaption>
+        </figure>
+        
         <h2>Sources et bibliographie</h2>
 
         <ul>
