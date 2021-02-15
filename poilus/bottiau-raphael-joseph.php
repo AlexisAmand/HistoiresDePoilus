@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Raphaël Joseph BOTTIAU - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Raphaël Joseph BOTTIAU, soldat français pendant la Première Guerre Mondiale" name="description"/>
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -99,14 +99,88 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Raphaël Joseph BOTTIAU</li>
         </ol>
     </nav>
 
     <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Raphaël Joseph BOTTIAU</h1>
 
+    <p class="text-justify"><strong>Raphaël Joseph BOTTIAU</strong> est né le 26 janvier 1880 à Quarouble, fils légitime de Antoine Joseph BOTTIAU et de Léopoldine Augustine JOLY (elle-même fille de mon sosa n°80 et de sa 2e épouse). Raphaël épouse en premières noces Eugénie BRUNEAUX. Dans l'état actuel de mes recherches, le couple a trois enfants : Louis né en 1903 à Férin (Nord), Alfred né en 1906 à Valenciennes (Nord) et Adéla née en 1908 à Férin (Nord).</p>
+
+      <table class="table table-striped table-bordered">
+        <caption>Liste des domiciles de Raphaël Joseph BOTTIAU</caption>
+            <thead>
+            <tr>
+                <th scope="col">Date</th>
+                <th scope="col">Adresse</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>26 janvier 1880</td>
+                <td>Quarouble (Nord)</td>
+            </tr>
+            <tr>
+                <td>1906</td>
+                <td><a href="http://cartespostalesanciennes.genealexis.fr/image/436-valenciennes-rue-de-lille" title="L'entrée de la rue de Lille à Valenciennes">Rue de Lille</a><br />à Valenciennes (Nord)</td>
+            </tr>
+            <tr>
+                <td>18 septembre 1907</td>
+                <td>"Pelissier chez Rivière"<br />à Albi (Tarn)</td>
+            </tr>
+            <tr>
+                <td>26 janvier 1908</td>
+                <td>Rue du Marais<br />à Férin (Nord)</td>
+            </tr>
+            <tr>
+                <td>10 février 1908</td>
+                <td>Férin (Nord)</td>
+            </tr>
+            <tr>
+                <td>25 mai 1908</td>
+                <td>Bouligny (Meuse)</td>
+            </tr>
+            <tr>
+                <td>29 décembre 1909</td>
+                <td>9 rue de Flandre<br />à Tunis (Tunisie)<sup>1</sup></td>
+            </tr>
+            <tr>
+                <td>13 février 1910</td>
+                <td>Onnaing (Nord)</td>
+            </tr>
+            <tr>
+                <td>19 juillet 1924</td>
+                <td>Quarouble (Nord)</td>
+            </tr>
+            <tr>
+                <td>19 mars 1926</td>
+                <td>Rue du moulin<br />à Quarouble (Nord)</td>
+            </tr>
+            </tbody>
+        </table>
+
+        <p class="text-justify">Après avoir épousé en premières noces Eugénie BRUNEAUX, Raphaël s'était uni en secondes noces à Dhany BOUTEILLE (1880-1927), ménagère et fille légitime de Nicolas BOUTEILLE et de Françoise MOLTEL, le 19 juillet 1924 à Quarouble (Nord).</p>
+
+        <p class="text-justify">Raphaël arrive au 15e Régiment d'Artillerie de Campagne le 11 août 1914. Libéré provisoirement le 19 août 1914, il est fait prisonnier le 24 août à Quarouble et interné derrière les lignes. Raphaël est envoyé en congés illimités le 12 février 1919 par le dépôt démobilisateur du 15e Régiment d'Artillerie et se retire à Quarouble, où il décède le 19 mars 1926 à son domicile de la Rue du Moulin.</p>    
+
+        <figure class="text-center">
+            <a href="sources/Bottiau-Raphael-1926.jpg" data-fancybox="gallery" data-caption="Acte de décès de Raphaël BOTTIAU">
+            <img src="miniatures/Bottiau-Raphael-1926.jpg" class="figure-img img-fluid img-thumbnail" alt="Acte de décès de Raphaël BOTTIAU issu des AD du Nord"/></a>
+            <figcaption class="figure-caption">Acte de décès de Raphaël BOTTIAU<br />(Source: Archives Départementales du Nord)</figcaption>
+        </figure>
+
+        <p class="note"><sup>1</sup>Selon DBL, de Twitter, il s'agit de l'actuelle rue Farès El Khoumi, parallèle à l'avenue de la République, qui longe le port.</p>
+        
+        <h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+          Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archivesdepartementales.lenord.fr/" title=" " target="_blank">
+          Archives départementales du Nord</a></li>
+        </ul>  
 
     </article>
 

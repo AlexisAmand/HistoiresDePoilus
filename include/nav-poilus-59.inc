@@ -12,12 +12,12 @@
 <a href="CARIN-Theophile.php" class="list-group-item">CARIN Théophile</a>
 <a href="CARLIER-Druon-Joseph.php" class="list-group-item">CARLIER Druon Joseph</a>
 <a href="CARLIER-Louis-Abraham.php" class="list-group-item">CARLIER Louis Abraham</a>
-<a href="delaux-oscar-julien.php" class="list-group-item">DELAUX Oscar Julien</a>
+<a href="delaux-oscar-julien.php" class="list-group-item">DELAUX Oscar Julien</a> 
 <a href="DUBOIS-Emile-Edmond.php" class="list-group-item">DUBOIS Émile Edmond (+)</a>
 <a href="dubois-jean-charles.php" class="list-group-item">DUBOIS Jean Charles (+)</a>
 <a href="FIEVET-Auguste-Victor.php" class="list-group-item">FIEVET Auguste Victor</a>
 <a href="FIEVET-Charles-Augustin.php" class="list-group-item">FIEVET Charles Augustin</a>
-<a href="FONTAINE-Henri-Gustave.php" class="list-group-item">FONTAINE Henri Gustave</a>
+<a href="FONTAINE-Henri-Gustave.php" class="list-group-item">FONTAINE Henri Gustave</a><!-- TODO -->
 <a href="GRAIN-Leon-Albert.php" class="list-group-item">GRAIN Léon Albert</a>
 <a href="GRAIN-Louis.php" class="list-group-item">GRAIN Louis</a>
 <a href="hanze-augustin.php" class="list-group-item">HANZE Augustin (+)</a>

@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Jean Charles DUBOIS - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Jean Charles DUBOIS, soldat pendant la Première Guerre Mondiale" name="description"/>
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -107,6 +107,28 @@
 
     <h1 class="my-4">Titre de la page</h1>
 
+    <p class="text-justify"><strong>Jean Charles DUBOIS</strong> est né le 8 février 1893 à Villers-Guislain (Nord), il est le frère d'<a href="DUBOIS-Emile-Edmond.php" title="Biographie d'Emile Edmond DUBOIS">Emile Edmond</a>. Inscrit sous le n°99 de la liste du canton de Marcoing, il est incorporé au 164e Régiment d'Infanterie le 27 novembre 1913 où il arrive le dit jour. Il est décédé d'une maladie contractée en service le 18 octobre 1914 à l'hôpital temporaire n°8 de Verdun (dans la Meuse). Son nom figure sur le Monument aux morts et dans le livre d'or de Villers-Guislain.</p>
+
+    <?php /* TODO : Extrait du livre d'or des mpf de Villers-Guislain */ ?>  
+
+    <?php /* TODO : Voir pour fiche mdh de meilleure qualité */ ?>  
+
+    <figure class="text-center">
+        <a href="sources/dubois-jean-charles.jpg" data-fancybox="gallery" data-caption="Jean Charles DUBOIS, mort pour la France">
+        <img src="miniatures/dubois-jean-charles.jpg" class="figure-img img-fluid img-thumbnail" alt="Fiche de mort pour la France de Jean Charles DUBOIS"/></a>
+        <figcaption class="figure-caption">Jean Charles, mort pour la France.<br />(source: Mémoire des Hommes)</figcaption>
+    </figure>
+
+    <h2>Sources et bibliographie</h2>
+
+    <ul>
+        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+        Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+        <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense" target="_blank">
+         des Hommes</a> (Ministère de la Défense)</li>
+        <li><a href="https://archivesdepartementales.lenord.fr/" title=" " target="_blank">
+        Archives Départementales du Nord</a></li>
+    </ul> 
 
     </article>
 

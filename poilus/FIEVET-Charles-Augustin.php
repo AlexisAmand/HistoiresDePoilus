@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat FIEVET Charles Augustin - Histoires de Poilus</title>
+    <meta content="Parcours de Charles Augustin FIEVET, soldat lillois pendant la Première Guerre Mondiale. Il était membre du 162e Régiment d'Infanterie puis prisonnier de guerre à Gardelegen" name="description">
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -107,6 +107,97 @@
 
     <h1 class="my-4">Titre de la page</h1>
 
+    <p class="text-justify"><strong>Charles Augustin FIEVET</strong>, le père de mon arrière-grand-père (Kleber pour ceux qui lisent régulièrement <a href="http://www.genealexis.fr" title="Site personnel de généalogie d'Alexis AMAND">mon blog</a>), est né le dimanche 3 décembre 1882 à Lille (Nord). Il est le fils de Charles Jules Henri, fileur de Coton, âgé de 28 ans et de Marie Roseline LOHIEZ, âgée de 19 ans. Il a pour frère <a href="FIEVET-Auguste-Victor.php" title="Biographie du soldat Auguste Victor FIEVET">Auguste Victor</a>. </p>
+
+    <figure class="text-center">
+        <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
+        <img src="miniatures/arbre-Louis-rousseaux.png" class="figure-img img-fluid img-thumbnail" alt="Arbre généalogique de Louis Henri ROUSSEAUX"  class="ArbreGenealogique"></a>
+        <figcaption class="figure-caption">Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
+    </figure>
+
+    <figure class="text-center">
+        <a href="portraits/charles-augustin-FIEVET.jpg" data-fancybox="gallery" data-caption="Portrait Charles Augustin FIEVET">
+        <img src="miniatures/charles-augustin-FIEVET.jpg" class="figure-img img-fluid img-thumbnail" height="278" alt="Portrait de Charles Augustin FIEVET issu d'une photo de famille"/></a>
+        <figcaption class="figure-caption">Charles Augustin FIEVET<br />(Source: Archives familiales)</figcaption>
+    </figure>
+
+    <table class="table table-striped table-bordered">
+    <caption>Liste des domiciles de Charles Augustin</caption>
+        <thead>
+        <tr>
+            <th scope="col">Date</th>
+            <th scope="col">Adresse</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>3 décembre 1882</td>
+            <td>Rue de Poids<br />à Lille</td>
+        </tr>
+        <tr>
+            <td>25 septembre 1908</td>
+            <td>Rue du Grand Balcon<br />Impasse Saint Henri<br />à Lille</td>
+        </tr>
+        <tr>
+            <td>8 février 1914</td>
+            <td>73 Rue du Chauffour<br />(Gué du dit)<br />à Valenciennes</td>
+        </tr>
+        <tr>
+            <td>8 avril 1922</td>
+            <td>248 Rue Jean Jaurès<br />à Anzin</td>
+        </tr>       
+        <tr>
+            <td>16 février 1928</td>
+            <td>149 Rue du Chauffour<br />à Valenciennes</td>
+        </tr>
+        </tbody>   
+    </table>
+
+    <p class="text-justify">La photo ci-dessus date sans doute du début des années 20. Il s'agit d'un extrait d'une photo de groupe prise lors du conseil de révision de son fils Charles Jules Henri. De gauche à droite, on trouve Kleber Camille (né en 1910, fils de Charles Augustin), Charles Jules (père de Charles Augustin), Charles Jules Henri (né en 1903) et Charles Augustin... j'espère que vous avez suivi avec attention...</p>
+
+    <figure class="text-center">
+        <a href="portraits/Le-conseil-de-revision.jpg" data-fancybox="gallery" data-caption="Les FIEVET au conseil de révision">
+        <img src="miniatures/Le-conseil-de-revision.jpg" class="figure-img img-fluid img-thumbnail" alt="La famille FIEVET au conseil de révision"/></a>
+        <figcaption class="figure-caption">Le conseil de révision<br />(Source: Archives familiales)</figcaption>
+    </figure>
+
+    <p class="text-justify">Le 2 décembre 1907, <strong>Charles Augustin</strong> épouse à Roubaix (Nord) Nathalie Émilie DELAUX, mécanicienne, la fille légitime d'Adolphe Auguste DELAUX et de Joséphine RICHOMME. Le couple aura deux enfants: Charles Jules Henri (né en 1903) et Kléber Camille (né en 1910).</p>
+
+    <h2>La mobilisation d'août 1914</h2>
+
+    <p class="text-justify">Soldat de 2e classe âgé de 32 ans en 1914, <strong>Charles Augustin</strong> est mobilisé et rejoint le <strong>162e Régiment d'Infanterie</strong>. Je connais peut de chose sur son destin pendant le conflit. Mon seul indice ? Il est prisonnier de guerre à <a href="../camps/camp-gardelegen.php" title="Le camp de prisonnier de Gardelegen">Gardelegen (Allemagne)</a>. </p>
+
+    <figure class="text-center">
+        <a href="images/matricule-charles-fievet.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Charles Augustin (Extrait)">
+        <img src="miniatures/matricule-charles-fievet.jpg" class="figure-img img-fluid img-thumbnail"  alt="Extrait de la fiche matricule de Charles Augustin FIEVET"/></a>
+    </figure>
+
+    <figure class="text-center">
+        <a href="sources/charles-jules-FIEVET-matricule-01.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Charles Augustin (Extrait)">
+        <img src="miniatures/charles-jules-FIEVET-matricule-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Extrait de la fiche matricule de Charles Augustin FIEVET"/></a>
+        <figcaption class="figure-caption">Extraits de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
+    </figure>
+
+    <p class="text-justify">Selon les docs de la Croix Rouge, il est fait prisonnier à Bikschote (Belgique) avant le 23 janvier 1915, selon moi durant la Première Bataille d'Ypres entre la fin du mois d'octobre et le début du mois de novembre 1914. </p>
+
+    <figure class="text-center">
+        <a href="sources/cicr-fievet-01.JPG" data-fancybox="gallery" data-caption="Extrait d'une liste de prisonniers (Source: Croix Rouge)">
+        <img src="miniatures/cicr-fievet-01.JPG" class="figure-img img-fluid img-thumbnail" alt="Extrait d'une liste de prisonniers de la Croix Rouge"/></a>
+        <figcaption class="figure-caption">Extrait d'une liste de prisonniers<br />(Source: Croix Rouge)</figcaption>
+    </figure>
+
+    <h2>Sources et bibliographie</h2>
+
+    <ul>
+        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+        Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+        <li><a href="https://grandeguerre.icrc.org/" title=" " target="_blank">
+        Archives de la Croix Rouge</a></li>
+        <li><a href="http://amzn.to/2rvOovF" title=" " target="_blank">
+        Prisonniers 1914-1918</a> (Editions Sulton / Jean-Paul Briaste)</li>
+        <li><a href="https://archivesdepartementales.lenord.fr/" title=" " target="_blank">
+        Archives départementales du Nord</a></li>
+    </ul>
 
     </article>
 

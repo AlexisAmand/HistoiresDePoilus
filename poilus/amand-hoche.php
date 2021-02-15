@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Hoche Gaston AMAND - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Hoche AMAND, soldat français pendant la Première Guerre Mondiale" name="description"/>
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -99,14 +99,74 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Hoche AMAND</li>
         </ol>
     </nav>
 
     <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Hoche Gaston Blomy AMAND</h1>
 
+    <p class="text-justify">Hoche Gaston Blomy AMAND est né  le 10 février 1895 à bord du bateau de ses parents, un couple de bateliers, alors qu'il est à quai sur les rives de l'Escaut à Lourches. Comme Marceau, dont il est l'ainé, il est le fils légitime de Blomy Abélard et Adeline DELPLANQUE.</p>
+
+        <figure class="text-center">
+            <a href="images/lourches-escaut-2.jpg" data-fancybox="gallery" data-caption="Vue des entrepôts et canal de l'Escaut à Lourches">
+            <img src="miniatures/lourches-escaut-2.jpg" class="figure-img img-fluid img-thumbnail" alt="Vue des entrepôts et canal de l'Escaut à Lourches"/></a>
+            <figcaption class="figure-caption">Vue des entrepôts et canal de l'Escaut à Lourches<br />(Source: Archives Municipales de Valenciennes)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/lourches-escaut.jpg" data-fancybox="gallery" data-caption="Les bords de l'Escaut et la Passerelle à Lourches">
+            <img src="miniatures/lourches-escaut.jpg" class="figure-img img-fluid img-thumbnail" alt="Les bords de l'Escaut et la Passerelle à Lourches sur une carte postale ancienne"/></a>
+            <figcaption class="figure-caption">Les bords de l'Escaut et la Passerelle à Lourches<br />(Source: Delcampe)</figcaption>
+        </figure>
+        
+        <p class="text-justify">Si vous êtes un jour amené à chercher des informations et à enquêter dans le milieu des bateliers, vous allez vitre découvrir que un véritable parcours du combattant car leur vie s'est faite au grés des fleuves. On nait dans un département, on se marie dans un second et on décéde dans un 3e. Est-ce pour cette raison que la famille AMAND est à Gueret en ce mois de mars 1915 ? Je ne sais pas trop car il se peut aussi que la famille ait fuit le Nord de la France devant l'avancé des troupes allemandes.</p>
+
+        <figure class="text-center">
+            <a href="sources/matricule-gaston-amand.jpg" data-fancybox="gallery" data-caption="Liste des domiciles de Gaston sur sa fiche matricule">
+            <img src="miniatures/matricule-gaston-amand.jpg" class="figure-img img-fluid img-thumbnail" alt="Extrait de la fiche matricule de Gaston AMAND"/></a>
+            <figcaption class="figure-caption">Ses domiciles sur sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
+        </figure> 
+        
+        <p class="text-justify">Quoi qu'il en soit c'est à la marie de Gueret que nous faisons la connaissance de Hoche Gaston Blomy AMAND. Nous sommes le 3 mars 1915 et il est venu s'engager pour la durée de la guerre.</p>
+
+        <figure class="text-center">
+            <a href="sources/hoche-amand.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Hoche Amand">
+            <img src="miniatures/hoche-amand.jpg" class="figure-img img-fluid img-thumbnail" alt="Extrait de la fiche matricule de Hoche Amand disponible aux archives départementales"/></a>
+            <figcaption class="figure-caption">Extrait de la fiche matricule de Hoche AMAND<br />(Source: Archives Départementales du Nord)</figcaption>
+        </figure>
+
+        <p class="text-justify">Hoche devient alors soldat de 2e classe au sein du 54e Régiment d'Infanterie jusqu'au 20 juillet 1915, date à laquelle il passe au 87e Régiment d'Infanterie. En octobre 1915, Hoche et son régiment participe à la prise de Tahure, assaut au cours duquel il est blessé à la jambe droite et au côté droit par un éclat d'obus. Il est évacué et de retour au 87e le 28 novembre 1915. Tahure est une ancienne commune française du département de la Marne qui fut détruite pendant la Première Guerre mondiale, son territoire a été rattaché à la commune de Sommepy-Tahure en 1950 lors de la création du camp militaire de Suippes.</p>
+
+        <figure class="text-center">
+            <a href="images/prise-de-tahure.jpg" data-fancybox="gallery" data-caption="La prise de Tahure (Par Léon Groc)">
+            <img src="miniatures/prise-de-tahure.jpg" class="figure-img img-fluid img-thumbnail" alt="La prise de Tahure dessinée par Léon Groc"/></a>
+            <figcaption class="figure-caption">La prise de Tahure<br />illustration par Léon Groc pour la collection Patrie<br />(Source: Wikipedia Commons)</figcaption>
+        </figure>
+
+        <p class="text-justify">Le mois de juillet 1917 est chargé pour Hoche. Le 6 il est cité à l'ordre du régiment n°181 du 87e Régiment d'Infanterie : "Etant en pays envahi, a franchi les lignes allemandes pour venir se présenter au bureau de recrutement". Trois semaines plus tard, le 27, il est blessé par un éclat d'obus à la main gauche pendant les combat de la côte 304, une colline au nord-est de Verdun (Meuse).</p>
+
+        <figure class="text-center">
+            <a href="images/cote-304.jpg" data-fancybox="gallery" data-caption="Pièce allemande à longue portée dans le bois de Gercourt">
+            <img src="miniatures/cote-304.jpg" class="figure-img img-fluid img-thumbnail" alt="Pièce allemande à longue portée dans le bois de Gercourt tirant sur le Mort-Homme et la côte 304"/></a>
+            <figcaption class="figure-caption">Pièce allemande à longue portée dans le bois de Gercourt<br />tirant sur le Mort-Homme et la côte 304.<br />(Source: Delcampe)</figcaption>
+        </figure>
+
+        <p class="text-justify">Le 25 août 1919, il est envoyé en congés illimités et se retire à Neuville-sur-Escaut (Nord), au 23 rue de Bouchain. Selon le journal officiel du 27 octobre 1934 (p 317), il obtient la médaille millitaire.</p>
+        
+        <h2>Sources et bibliographie</h2>
+
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+          Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="http://amzn.to/2rvOovF" title=" " target="_blank">
+          Prisonniers 1914-1918</a> (Editions Sulton / Jean-Paul Briaste)</li>
+	        <li><a href="https://grandeguerre.icrc.org/" title=" " target="_blank">
+          Archives de la Croix Rouge</a></li>
+	        <li><a href="https://archivesdepartementales.lenord.fr/" title="Site officiel des Archives Départementales du Nord" target="_blank">
+          Archives départementales du Nord</a></li>
+        </ul>
 
     </article>
 

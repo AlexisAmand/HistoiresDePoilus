@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Marceau AMAND - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du Marceau AMAND, soldat français originaire du Nord, pendant la Première Guerre Mondiale" name="description"/>
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -99,14 +99,50 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Marceau AMAND</li>
         </ol>
     </nav>
 
     <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Marceau AMAND</h1>
+        
+        <p class="text-justify">Marceau AMAND est né le 17 avril 1899 à Aubervilliers (département de la Seine, aujourd'hui la Seine-Saint-Denis) fils légitime de Blomy et Adeline DELPLANQUE. En 1919, il vit à Neuville-sur-Escaut, une ville du Nord de la France d'où sont originaires ses parents. Marceau est le frère de <a href="amand-hoche.php" title="biographie du poilu Hoche Gaston AMAND">Hoche Gaston Blomy</a>. Selon son acte de naissance, il est né à bord du bateau de ses parents "La Déroute" sur les bords du canal. Je ne suis pas parents avec Marceau, il est le grand-oncle d'Alain AMAND, un pianiste dont j'ai commencé à étudier <a href="http://www.genealexis.fr/genealogie/alain_amand/heredis/accueil.htm" title="Généalogie du pianiste Alain AMAND">la généalogie</a>.</p>
+        
+        <figure class="text-center">
+            <a href="sources/amand-marceau-1899.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Marceau (1899)">
+            <img src="miniatures/amand-marceau-1899.jpg" class="figure-img img-fluid img-thumbnail" alt="Acte de naissance de Marceau AMAND"/></a>
+            <figcaption class="figure-caption">Acte de naissance de Marceau (1899)<br />(Source: Archives Départementales de la Seine-Saint-Denis)</figcaption>
+        </figure>
+        
+        <p class="text-justify">Il est rattaché à la classe de mobilisation 1915 car il n'a pas pu être recensé en temps utile par suite d'un cas de force majeure (sans doute la guerre). il est finalement appelé au service armé en 1919 et affecté au 10e Régiment de Hussards où il est incorporé à compté du 12 juin. Soldat de 2e classe, il passe au 2e Régiment de Hussards le 10 novembre 1919. Il reste au sein de "l'escadron de la motte" de ce régiment jusqu'au 25 mars 1921, date à laquelle il est renvoyé dans ses foyers en attendant son passage dans la réserve de l'armée active avec le certificat de bonne conduite qui lui est accordé. Un escadron est une unité militaire qui marque l'appartenance à une unité armée dite "à cheval", c'est l'équivalent des compagnies des unités de l'armée de terre dite "à pied".</p>
 
+        <figure class="text-center">
+            <a href="images/hussards.jpg" data-fancybox="gallery" data-caption="Un hussard en uniforme vers 1914">
+            <img src="miniatures/hussards.jpg" class="figure-img img-fluid img-thumbnail" alt="Dessin d'un hussard au début de la Première Guerre Mondiale"/></a>
+            <figcaption class="figure-caption">Un hussard en uniforme vers 1914<br />(Dessin original de Maurice TOUSSAINT)</figcaption>
+        </figure>
+        
+        <p class="text-justify">Son service militaire inclut une période de 4 mois (du 12 juin au 23 octobre 1919) où il est considéré comme en campagne contre l'Allemagne. En effet, selon la loi publiée dans le Journal Officiel de la République Française du 24 octobre 1919, la fin de la guerre est fixée au 23 octobre de la même année et de la même façon la mobilisation générale prend fin par le décret publié dans le JO du 15 octobre 1919.</p>
+       	
+        <figure class="text-center">
+            <a href="sources/matricule-marceau-amand.jpg" data-fancybox="gallery" data-caption="Les domiciles de Marceau AMAND">
+            <img src="miniatures/matricule-marceau-amand.jpg" class="figure-img img-fluid img-thumbnail" alt="Extrait de la fiche matricule de Marceau AMAND contenant la liste de ses domiciles"/></a>
+            <figcaption class="figure-caption">Ses domiciles sur sa fiche matricule<br />(Source: Archives Départementales de la Seine-Saint-Denis)</figcaption>
+        </figure>
+              
+        <p class="text-justify">Selon la mention en marge de son acte de naissance, il est décédé à Beaucaire, sur la rive du Rhône, à côté de Nîmes, le 19 janvier 1969. Il repose au cimetière de Neuville-sur-Escaut en compagnie de Kleber AMAND (1902-1987), Celestine OCCULISSE (1874-1957), Amélie POTIER (1907-1989) et Denis POTIER (1869-1943).</p>
+        
+        <h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+          Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://grandeguerre.icrc.org/" title=" " target="_blank">
+          Archives de la Croix Rouge</a></li>
+	        <li><a href="https://archivesdepartementales.lenord.fr/" title=" " target="_blank">
+          Archives départementales du Nord</a></li>
+        </ul>
 
     </article>
 

@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Edouard BOURSIER - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Edouard BOURSIER, soldat français pendant la Première Guerre Mondiale" name="description"/>
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -99,14 +99,44 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Edouard BOURSIER</li>
         </ol>
     </nav>
 
     <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Edouard BOURSIER</h1>
 
+        <p class="text-justify">Edouard BOUSIER est né le 10 avril 1882 à Onnaing. Il est le fils légitime d'Edouard François BOURSIER, cultivateur, et de Julia JUDES. Il a pour frére ainé <a href="BOURSIER-Jules.php" title="Biographie du poilu Jules Henri BOUSIER">Jules Henri</a>. Son nom de famille était à l’origine le surnom de celui fabrique ou vend des bourses. Il est à rapprocher d’autres patronymes comme BOURCET ou BOURSEAULT.</p>
+        
+        <figure class="text-center">
+            <a href="sources/boursier-edouard-naissance-1882.jpg" data-fancybox="gallery" data-caption="acte de naissance d'Edouard BOURSIER">
+            <img src="miniatures/boursier-edouard-naissance-1882.jpg" class="figure-img img-fluid img-thumbnail" alt="acte de naissance d'Edouard BOURSIER"/></a>
+            <figcaption class="figure-caption">Acte de naissance d'Edouard BOURSIER<br />(source: Archives Départementales du Nord)</figcaption>
+        </figure>
+        
+         <p class="text-justify">En 1906, il est ajusteur et vit Rue De La Chevauchoire à Onnaing, avec son frère Jules et ses parents. Chose étrange, sur le recensement de 1906, son prénom est devenu Edmond (ligne n°4 du document ci-dessous). Etant âgé de 32 ans en 1914, je pense qu'il a du être mobilisé.</p>
+         
+         <figure class="text-center">
+            <a href="sources/famille-boursier-census-1906.jpg" data-fancybox="gallery" data-caption="Extrait du recensement d'Onnaing en 1906">
+            <img src="miniatures/famille-boursier-census-1906.jpg" class="figure-img img-fluid img-thumbnail" alt="La famille BOUSIER sur le recensement de 1906 pour la commune d'Onnaing"/></a>
+            <figcaption class="figure-caption">Extrait du recensement d'Onnaing en 1906<br />(source: Archives Départementales du Nord)</figcaption>
+        </figure>
+        
+        <p class="text-justify">Selon les mentions en marge de son acte de naissance, Edouard s'est marié deux fois : Le 28 septembre 1908 à Onnaing (Nord) avec Céline Victorine DAMBECHIES et le 27 juin 1960 à Vingles (Pas-de-Calais) avec Laure Romaine ALGLAVE.</p>
+        
+        <p style="text-align:right">A suivre...</p>
+        
+        <h2>Sources et bibliographie</h2>
+        
+        <ul>
+        	<li><a href="https://amzn.to/2BcCaOd" title=" " target="_blank">
+          Origine des noms de famille (Par Emmanuelle HUBERT)</a></li>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+          Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archivesdepartementales.lenord.fr/" title=" " target="_blank">
+          Archives départementales du Nord</a></li>
+        </ul>
 
     </article>
 
