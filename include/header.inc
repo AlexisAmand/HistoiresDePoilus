@@ -47,7 +47,7 @@
                     </div>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link" href="/tombes.php" role="button" aria-haspopup="true" aria-expanded="false">
                     Les Tombes
                     </a>
                 </li>
