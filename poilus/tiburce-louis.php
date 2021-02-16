@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Louis TIBURCE - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Louis TIBURCE, douanier français et soldat pendant la Première Guerre Mondiale" name="description"/>
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -98,15 +98,140 @@
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Louis Henri François TIBURCELes poilus</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Louis Henri François TIBURCE</li>
         </ol>
     </nav>
 
     <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Louis Henri François TIBURCE</h1>
 
+    <p class="text-justify">L'acte de naissance de Louis Henri François TIBURCE nous apprend qu'il voit le jour le 25 août 1889 à Marly, au domicile de ses parents situé sur du Quesnoy. Déclaré dès le lendemain, il est le fils légitime de Louis Victor TIBURCE et Marie Augustine DUSIN. Le 23 octobre 1920 à Valenciennes, il devient le 2e époux de Berthe DUSART, la cousine d'Henri Gustave FONTAINE (mon arrière-grand-père) et la veuve d'Augustin HANZE. Il suit la même carrière que son père en devenant commis puis préposé des Douanes.</p>
+
+    <figure class="text-center">
+        <a href="images/marly01.jpg" data-fancybox="gallery" data-caption="La rue du Quesnoy à Marly">
+        <img src="miniatures/marly01.jpg" class="figure-img img-fluid img-thumbnail" alt="La rue du Quesnoy à Marly sur une carte postale ancienne"/></a>
+        <figcaption class="figure-caption">La Rue du Quesnoy, à Marly<br />(Source: Archives Municipales de Valenciennes)</figcaption>
+    </figure>
+
+    <p class="text-justify">Il commence son service au sein de l'armée le 3 octobre 1910 en étant incorporé au sein du 91e Régiment d'Infanterie q'uil rejoint aussitôt en tant que soldat de 2e classe. Son service militaire se passe dans doute sans encombre car il devient soldat de 1ere classe le 6 octobre 1911 et même caporal le 13 octobre 1911. Il est mis en disponibilité le 25 septembre 1912 puis classsé afffecté spécial des douanes de Valenciennes à la gare de Blanc-Misseron à compté du 24 décembre 191 en tant que préposé des Douanes.</p>
+
+    <figure class="text-center">
+        <a href="images/blancmisseron01.jpg" data-fancybox="gallery" data-caption="La gare de Blanc-Misseron" >
+        <img src="miniatures/blancmisseron01.jpg" class="figure-img img-fluid img-thumbnail" alt="La carte de Blanc-Misseron sur une carte postale ancienne"/></a>
+        <figcaption class="figure-caption">La gare de Blanc-Misseron<br />(Source: Archives Municipales de Valenciennes)</figcaption>
+    </figure>
+
+    <p class="text-justify">Louis est mobilisé le 23 août 1914 au 2e Bataillon de Douaniers. C'est un bataillon qui était composé de 700 hommes et qui avait été formé à partir des brigades de la partie nord de Valenciennes. Il était composée de 3 compagnies. Surpris par l'arrivée de l'avant garde allemande à Blanc-Misseron, il livre toute une journée de combat durant laquelle une partie des effectifs est faite prisonnière et l'autre parvient à battre en retraite. Ce Bataillon fut donc dissout de facto à la fin du mois d'août 1914.</p>
+    
+    <figure class="text-center">
+        <a href="images/douanier-1916.jpg" data-fancybox="gallery" data-caption="Un douanier mobilisé en 1916">
+        <img src="miniatures/douanier-1916.jpg" class="figure-img img-fluid img-thumbnail" alt="dessin d'un douanier mobilisé en 1916"/></a>
+        <figcaption class="figure-caption">Un douanier mobilisé en 1916<br />(Source: histoire-de-la-douane.org)</figcaption>
+    </figure>
+
+    <p class="text-justify">Louis et une partie de son bataillon parviennent ainsi à rejoindre Dunkerque et passent alors à la 4e Compagnie du Bataillon de Forteresse de Dunkerque à compter du 5 septembre 1914. Il passe à la 3e Compagnie du 1er Bataillon actif le 21 octobre 1914, compagnie qui fut ancien rattachée au 81e Régiment d'Infanterie au sein duquel Louis est affecté et arrive le 16 janvier 1916. Il est cité deux fois à l'ordre du régiment, le 31 mars 1917 (n°197) et le 19 septembre 1917 (n°280). Le 14 novembre 1917, il est nommé sergent fourrier, il s'agit du sous-officier chargé de l'intendance.</p><p class="text-justify">Quelques mois plus tard, le 9 juin 1918, il est évacué, blessé, et entre à l'hôpital auxiliaire n°119 à Pantin.</p>
+    
+    <figure class="text-center">
+        <a href="images/pantin-119.jpg" data-fancybox="gallery" data-caption="L'hôpital auxiliaire n°119 à Pantin">
+        <img src="miniatures/pantin-119.jpg" class="figure-img img-fluid img-thumbnail" alt="L'hôpital auxiliaire n°119 situé rue de Paris à Pantin"/></a>
+        <figcaption class="figure-caption">L'hôpital auxiliaire n°119 à Pantin<br />(Source: Delcampe)</figcaption>
+    </figure>
+    
+
+    <h2>Les domiciles de Louis</h2>
+
+    <table class="table table-striped table-bordered">
+        <thead>
+        <tr>
+            <th scope="col">Dates</th>
+            <th scope="col">Adresses</th>
+            <th scope="col">Sources</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>1886</td>
+            <td>Il nait au domicile de ses parents, rue du Quesnoy, à Marly</td>
+            <td>Acte de naissance</td>
+        </tr>
+        <tr>
+            <td>1906</td>
+            <td>Il vit avec ses parents, rue du Quesnoy, à Marly</td>
+            <td>Recensement</td>
+        </tr>
+        <tr>
+            <td>avant 1920</td>
+            <td>Il habite 4 rue Sevigné à Paris (IVe Arrondissement)</td>
+            <td>Acte de mariage</td>
+        </tr>
+        <tr>
+            <td>1920</td>
+            <td>Il habite 49 rue Saint-Jacques à Valenciennes</td>
+            <td>Acte de mariage</td>
+        </tr>
+        <tr>
+            <td>fin des années 20</td>
+            <td>Il habite 71 Grande Rue à Maulde</td>
+            <td>Dossier d'ancien combattant</td>
+        </tr>
+        </tbody>
+    </table>
+    
+    <figure class="text-center">
+        <a href="images/maulde.jpg" data-fancybox="gallery" data-caption="la Grande Rue, à Maulde">
+        <img src="miniatures/maulde.jpg" class="figure-img img-fluid img-thumbnail" alt="La GrandeRue à Maulde sur une carte postale ancienne"/></a>
+        <figcaption class="figure-caption">la Grande Rue, à Maulde<br />(Source: Archives Municipales de Valenciennes)</figcaption>
+    </figure>
+  
+         
+    <table class="table table-striped table-bordered">
+        <thead>
+        <tr>
+            <th scope="col">Dates</th>
+            <th scope="col">Adresses</th>
+            <th scope="col">Sources</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>10 octobre 1930</td>
+            <td>Il quitte Maulde pour aller vivre à Blanc-Misseron</td>
+            <td>Dossier d'ancien combattant</td>
+        </tr>
+        <tr>
+            <td>23 octobre 1930</td>
+            <td>Il habite Cité Belotte à Quiévrechain</td>
+            <td>Fiche matricule</td>
+        </tr>
+        <tr>
+            <td>1931, 1936 et 1938</td>
+            <td>Il habite 155 rue du Caos, à Quiévrechain</td>
+            <td>Dossier d'ancien combattant</td>
+        </tr>
+        <tr>
+            <td>1939</td>
+            <td>Il habite 39 rue des Glacis, à Valenciennes</td>
+            <td>Dossier d'ancien combattant</td>
+        </tr>
+        </tbody>
+    </table>
+    
+    <h2>Sources et bibliographie</h2>
+    
+    <ul>
+        <li><a href="https://archivesdepartementales.lenord.fr/" title=" " target="_blank">
+        Archives départementales du Nord</a></li>
+        <li><a href="../archives/dossier-louis-tiburce.php" title=" " target="_blank">
+        Le dossier d'ancien combattant de Louis TIBURCE</a> (Archives Départementales du Nord)</li>
+        <li><a href="https://histoire-de-la-douane.org/historique-des-bataillons-douaniers-1914-1918/" title="Historique des bataillons de douaniers en 1914 et 1918" target="_blank">
+        Historique des bataillons douaniers 1914-1918</a></li>
+        <li><a href="http://books.openedition.org/igpde/4474?lang=fr" title="L'administration des douanes en France entre 1914 et 1940" target="_blank">
+        L'administration des douanes en France de 1914 à 1940</a><br />(Par Jean Clinquart)</li>
+        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+        Retrouvez l'histoire de votre grand-père en 1914-1918</a><br />(Archives et Cultures / Yves Buffetaut)</li>       
+    </ul>
 
     </article>
 

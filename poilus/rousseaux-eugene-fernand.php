@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Histoires de Poilus - Liste de quelques poilus du Nord</title>
+    <meta content="Petites biographies de soldats de ma famille ayant participé à la Première Guerre Mondiale et ayant vécu dans le Nord" name="description">
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -99,14 +99,60 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Eugène Fernand ROUSSEAUX</li>
         </ol>
     </nav>
 
     <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Eugène Fernand ROUSSEAUX</h1>
 
+      <p class="text-justify"><strong>Eugène Fernand ROUSSEAUX</strong>, né en 1891 à Roubaix (Nord) et prisonnier de guerre au camp de <a href="../camps/camp-hammerstein.php" title="Le camp de prisonniers de Hammerstein">Hammerstein</a> puis à celui de <a href="../camps/camp-minden.php" title="Le camp de prisonniers de Minden">Minden</a>. Eugène est le petit-fils de Léonie FIEVET (ma sosa n°97), et le cousin de <a href="FIEVET-Charles-Augustin.php" title=" ">Charles</a> et <a href="FIEVET-Auguste-Victor.php" title="Biographie du poilu Auguste FIEVET">Auguste FIEVET</a> (par contre, ils n'ont que 3 de leurs 4 grand-parents en commun car Léonie a eu des enfants avec 2 hommes différents)</p>
+
+      <table class="table table-striped table-bordered">
+      <caption>Liste des domiciles d'Eugène</caption>
+          <thead>
+          <tr>
+             <th scope="col">Dates</th>
+             <th scope="col">Adresses</th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr>
+              <td>vers 1912</td>
+              <td>Rue de l'argilliére<br />à Lille (Nord)</td>
+          </tr>
+          <tr>
+              <td>20 mai 1921</td>
+              <td>Chambéry<br />Au Cirque Palace<br />(Vosges)</td>
+          </tr>
+          <tr>
+              <td>23 novembre 1921</td>
+              <td>Rue Lambety<br />à Saint-Servan (Ille-et-Vilaine)</td>
+          </tr>
+          <tr>
+              <td>24 février 1925</td>
+              <td>47 rue des amandiers<br />à Paris (XXe Arrondissement)</td>
+          </tr>
+          <tr>
+              <td>13 octobre 1938</td>
+              <td>47 Boulevard de Ménilmontant<br />à Paris (XIe Arrondissement)</td>
+          </tr>
+          </tbody>
+      </table>
+
+      <p style="text-align:right">A suivre...</p>
+
+      <h2>Sources et bibliographie</h2>
+
+      <ul>
+          <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+          l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+          <li><a href="https://archivesdepartementales.lenord.fr/" title=" " target="_blank">
+          Archives départementales du Nord</a></li>
+          <li><a href="http://amzn.to/2rvOovF" title=" " target="_blank">
+          Prisonniers 1914-1918</a> (Editions Sulton / Jean-Paul Briaste)</li>
+      </ul>
 
     </article>
 

@@ -145,26 +145,26 @@
           <<figcaption class="figure-caption">Le tribunal d'Arras<br />(Source: Delcampe)</figcaption>
       </figure>
 
-      <table class="census">
+      <table class="table table-striped table-bordered">
       <caption>Liste des domiciles de Théophile</caption>
           <thead>
           <tr>
-              <th id="date">Dates</th>
-              <th id="adresse">Adresses</th>
+              <th scope="col">Dates</th>
+              <th scope="col">Adresses</th>
           </tr>
           </thead>
           <tbody>
           <tr>
-              <td headers="date">16 mars 1905</td>
-              <td headers="adresse">Cité 6, n°173<br />Fouquières-lès-Lens<br />(Pas-de-Calais)</td>
+              <td>16 mars 1905</td>
+              <td>Cité 6, n°173<br />Fouquières-lès-Lens<br />(Pas-de-Calais)</td>
           </tr>
           <tr>
-              <td headers="date">14 mai 1909</td>
-              <td headers="adresse">Rouvroy<br />(Pas-de-Calais)</td>
+              <td>14 mai 1909</td>
+              <td>Rouvroy<br />(Pas-de-Calais)</td>
           </tr>
           <tr>
-              <td headers="date">mars 1915</td>
-              <td headers="adresse"><br />Chez Elise<br />Rue de Neuville</td>
+              <td>mars 1915</td>
+              <td><br />Chez Elise<br />Rue de Neuville</td>
           </tr>
           </tbody>
       </table>

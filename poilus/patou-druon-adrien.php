@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Druon Adrien PATOU - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Druon Adrien PATOU, soldat français pendant la Première Guerre Mondiale" name="description"/>
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -99,14 +99,28 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Druon Adrien PATOU</li>
         </ol>
     </nav>
 
     <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Druon Adrien PATOU</h1>
 
+        <p class="text-justify"><strong>Druon Adrien PATOU</strong> est né le 31 mars 1885 à Sebourg (Nord), et est le cousin germain de <a href="CARLIER-Druon-Joseph.php" title="Biographie du poilu Druon Joseph CARLIER">Druon Joseph CARLIER</a> et <a href="CARLIER-Louis-Abraham.php" title="Biographie du poilu Louis Abraham CARLIER">Louis Abraham CARLIER</a>. Je n'ai pas encore pu trouver sa fiche matricule car beaucoup de fiches sont manquantes pour l'année 1905 au bureau de Valenciennes.</p>
+
+        <p class="text-justify">Le site Mémoire des hommes l'indique comme mort poour la France pendant la Grande Guerre.</p>
+			
+        <p class="text-right">A suivre...</p>
+        
+        <h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+          Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archivesdepartementales.lenord.fr/" title=" " target="_blank">
+          Archives départementales du Nord</a></li>
+        </ul>
 
     </article>
 

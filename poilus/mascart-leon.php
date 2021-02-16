@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Léon MASCART - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Léon MASCART, soldat pendant la Première Guerre Mondiale" name="description"/>
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -99,14 +99,39 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Léon MASCART</li>
         </ol>
     </nav>
 
     <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Léon MASCART</h1>
 
+    <p class="text-justify"><strong>Léon MASCART</strong> est né à Onnaing le 30 janvier 1874. Avant la guerre (1906), il est mineur à la Fosse de Cuvinot et vit "au Trié" à Onnaing avec Maire FINET.
+        
+        <?php /* TODO qu'il a épousé à XX le XX. enfants ? */ ?> 
+        
+        <figure class="text-center">
+            <a href="miniatures/fosse_cuvinot_onnaing.jpg" data-fancybox="gallery" data-caption="La Fosse de Cuvinot à Onnaing">
+            <img src="images/fosse_cuvinot_onnaing.jpg" class="figure-img img-fluid img-thumbnail" alt="La Fosse de Cuvinot à Onnaing sur une carte postale ancienne"/></a>
+            <figcaption class="figure-caption">La Fosse de Cuvinot<br />(source : Archives Municipales de Valenciennes)</figcaption>
+        </figure>
+        
+        <?php /* TODO : acte de naissance de Léon */ ?>
+        
+        <p class="text-justify">Frère de <a href="mascart-louis.php" title=" ">Louis</a>, il est maintenu en sursis aux Mines d'Anzin à <a href="mobilisation-1914.php" title="Voir le décret de mobilisation générale de 1914">la mobilisation</a>. Le 17 décembre 1914, par le bulletin n°63, il est mis en sursis aux mines de Bruay (Pas-de-Calais) où il est entré en fonction le 28 octobre de la même année. Il est rayé de la mine le 15 janvier 1919 et est envoyé en congés illimités le 12 février 1919. Il se retire à Onnaing, Rue de l'Eglise.</p>
+
+		    <?php /* TODO : photo des mines de bruay ? */ ?>
+		
+        
+        <h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+          Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archivesdepartementales.lenord.fr/" title=" " target="_blank">
+          Archives départementales du Nord</a></li>
+        </ul>
 
     </article>
 

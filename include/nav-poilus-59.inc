@@ -17,7 +17,7 @@
 <a href="dubois-jean-charles.php" class="list-group-item">DUBOIS Jean Charles (+)</a>
 <a href="FIEVET-Auguste-Victor.php" class="list-group-item">FIEVET Auguste Victor</a>
 <a href="FIEVET-Charles-Augustin.php" class="list-group-item">FIEVET Charles Augustin</a>
-<a href="FONTAINE-Henri-Gustave.php" class="list-group-item">FONTAINE Henri Gustave</a><!-- TODO -->
+<a href="FONTAINE-Henri-Gustave.php" class="list-group-item">FONTAINE Henri Gustave</a>
 <a href="GRAIN-Leon-Albert.php" class="list-group-item">GRAIN Léon Albert</a>
 <a href="GRAIN-Louis.php" class="list-group-item">GRAIN Louis</a>
 <a href="hanze-augustin.php" class="list-group-item">HANZE Augustin (+)</a>
@@ -33,7 +33,7 @@
 <a href="masquellier-jean-baptiste.php" class="list-group-item">MASQUELLIER Jean-Baptiste</a>
 <a href="patou-druon-adrien.php" class="list-group-item">PATOU Druon Adrien (+)</a>
 <a href="pelez-alfred.php" class="list-group-item">PELEZ Alfred</a>
-<a href="rousseaux-eugene-fernand.php" class="list-group-item">ROUSSEAUX Eugène Fernand</a>
+<a href="rousseaux-eugene-fernand.php" class="list-group-item">ROUSSEAUX Eugène Fernand</a><!-- TODO -->
 <a href="ROUSSEAUX-Louis.php" class="list-group-item">ROUSSEAUX Louis Henri (+)</a>
 <a href="tiburce-louis.php" class="list-group-item">TIBURCE Louis</a>
 <a href="vanesse-alfred.php" class="list-group-item">VANESSE Alfred</a>

@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Augustin HANZE - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Augustin HANZE, soldat pendant la Première Guerre Mondiale. Originaire de Cousolre, il est mort pour la France en 1915." name="description"/>
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -99,14 +99,77 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Augustin HANZE</li>
         </ol>
     </nav>
 
     <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Augustin HANZE</h1>
 
+        <p class="text-justify">Augustin HANZE est né Cousolre (Nord) le 6 février 1886, fils légitime de Désiré HANZE et Laure DELENS. Selon le recensement de 1906, il est serrurier et vit Route Nationale à Cousolre en compagnie de ses parents et de sa sœur Germaine (née en 1891). Le 5 mars 1910, il épouse à Valenciennes Berthe DUSART, la cousine germaine d'<a href="FONTAINE-Henri-Gustave.php" title="Biographie de Henri Gustave FONTAINE">Henri Gustave FONTAINE</a> (mon arrière-arrière-grand-père).</p> 
+
+        <figure class="text-center">
+            <a href="images/arbre-hanze.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille HANZE">
+            <img src="miniatures/arbre-hanze.png" class="figure-img img-fluid img-thumbnail" alt="Arbre généalogique simplifié de la famille HANZE" class="ArbreGenealogique"/></a>
+            <figcaption class="figure-caption">Arbre simplifié de la famille HANZE<br />(cliquez pour agrandir)</figcaption>
+        </figure>
+
+        <table class="table table-striped table-bordered">
+            <caption>Liste des domiciles d'Auguste</caption>
+            <thead>
+            <tr>
+                <th scope="col">Dates</th>
+                <th scope="col">Adresses</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>11 avril 1906</td>
+                <td>Route Nationale<br /> à Cousolre (Nord)</td>
+            </tr>
+            <tr>
+                <td>20 janvier 1910</td>
+                <td>10 rue du Pont-Neuf<br />à Valenciennes (Nord)</td>
+            </tr>
+            <tr>
+                <td>2 octobre 1910</td>
+                <td>119 rue de Lille<br />à Valenciennes (Nord)</td>
+            </tr>
+            <tr>
+                <td>15 novembre 1912</td>
+                <td>rue de Maubeuge<br /> à Cousolre (Nord)</td>
+            </tr>
+            </tbody>
+        </table>
+
+        <p class="text-justify">Rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de Mobilisation Générale</a> du 1er août 1914, il arrive au 364e Régiment d'Infanterie le 2 août. Augustin est blessé le 6 avril 1915 au combat de la côte 233 à Marchéville, il est décédé le 9 avril 1915 des suites de ses blessures à l'<a href="../hopitaux/hopitaux.php" title="Les hôpitaux pendant la Grande Guerre">hôpital temporaire n°5</a> de Verdun. Son nom figure sur le Monument aux Morts de Cousolre (où il était né) et sur les plaques commémoratives du square de l'Armistice à Carcassonne (où il était serrurier).</p>
+
+        <figure class="text-center">
+            <a href="sources/hanze-augustin.jpg" data-fancybox="gallery" data-caption="Augustin HANZE, mort pour la France">
+            <img src="miniatures/hanze-augustin.jpg" class="figure-img img-fluid img-thumbnail" alt="Fiche de mort pour la France d'Augustin HANZE"/></a>
+            <figcaption class="figure-caption">Augustin, mort pour la France.<br />(source: Mémoire des Hommes)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/momument-cousolre.jpg" data-fancybox="gallery" data-caption="Inauguration du monument de Cousolre">
+            <img src="miniatures/momument-cousolre.jpg" class="figure-img img-fluid img-thumbnail" alt="Inauguration du monument de Cousolre le 29 juillet 1923"/></a>
+            <figcaption class="figure-caption">Inauguration du monument de Cousolre<br />(Le 29 juillet 1923)</figcaption>
+        </figure>
+
+        <div id="Louis-Pergaud"></div>
+
+        <p class="text-justify">Le 23 mars 1920, Berthe se remarie avec <a href="tiburce-louis.php" title="Biographie du soldat Louis Henri François TIBURCE">Louis Henri François TIBURCE</a>, un préposé aux douanes né à Marly (Nord) le 20 août 1889.</p><p class="text-justify">Pour la petite histoire, Louis PERGAUD (1882-1915), prix Goncourt et auteur de "La Guerre des Boutons" (publié en 1912) a disparu durant la même bataille, dans la nuit du 7 au 8 avril 1915.</p>
+
+        <h2>Sources et bibliographie</h2>
+
+        <ul>
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+            Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+            <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense" target="_blank">
+            Mémoire des Hommes</a> (Ministère de la Défense)</li>
+            <li><a href="https://archivesdepartementales.lenord.fr/" target="_blank" title=" ">Archives Départementales du Nord</a></li>
+        </ul> 
 
     </article>
 

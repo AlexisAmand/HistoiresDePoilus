@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Georges LAMANDIN - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Georges LAMANDIN, soldat pendant la Première Guerre Mondiale" name="description"/>
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -99,13 +99,34 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Georges LAMANDIN</li>
         </ol>
     </nav>
 
     <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Georges LAMANDIN</h1>
+
+      <p class="text-justify">Note: Les données concernant <strong>Georges LAMANDIN</strong> m'ont été communiquées par son arrière-petite-fille.</p>
+
+      <p class="text-justify">Georges Jean Baptiste LAMANDIN  est né le 24 juin 1885 à Villers Guislain (Nord). Soldat de 2e classe 19e régiment d'infanterie, Georges est mort pour la France le 7 septembre 1914 à Champfleury (Seine et Marne). Champfleury est un hameau qui dépend de Montceaux-lès-Provins où il y a eu une terrible bataille le 6 septembre 1914. 300 000 obus sont tombés et 155 Soldats reposent dans 2 ossuaires auxquels il faut rajouter les tombes individuelles.</p>
+
+      <figure class="text-center">
+          <a href="sources/georges-lamandin-mpf.jpg" data-fancybox="gallery" data-caption='Fiche "Mort pour la France" de Georges LAMANDIN'>
+          <img src="miniatures/georges-lamandin-mpf.jpg" class="figure-img img-fluid img-thumbnail" alt='Fiche "Mort pour la France" de Georges LAMANDIN'/></a>
+          <figcaption class="figure-caption">Georges, Mort pour la France<br />(Source : Mémoire des Hommes)</figcaption>
+      </figure>
+
+    <h2>Sources et bibliographie</h2>
+
+    <ul>
+      <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+      Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+      <li><a href="https://grandeguerre.icrc.org/" title=" " target="_blank">
+      Archives de la Croix Rouge</a></li>
+      <li><a href="https://archivesdepartementales.lenord.fr/" title=" " target="_blank">
+      Archives départementales du Nord</a></li>
+    </ul>
 
 
     </article>

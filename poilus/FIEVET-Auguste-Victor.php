@@ -148,6 +148,8 @@
 
         <h2>La mobilisation d'août 1914</h2>
 
+        <!-- TODO : peut-être que la source ci-dessous doit-être changée -->
+
         <p class="text-justify">Âgé de 24 ans en 1914, Auguste est mobilisé en tant que soldat de 2e classe et rejoint la 4e compagnie du 1er bataillon du <strong>33e Régiment d'Infanterie</strong> (<a href="sources/dossier-ancien-combattant-01.php">source</a>).</p>
 
         <figure class="text-center">

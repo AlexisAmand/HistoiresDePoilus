@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat ROUSSEAUX Louis - Histoires de Poilus</title>
+    <meta content="Parcours de Louis Rousseaux, soldat pendant la Première Guerre Mondiale et membre du 4e Bataillon d'Infanterie Légère d'Afrique" name="description">
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -99,14 +99,66 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Louis Henri ROUSSEAUX</li>
         </ol>
     </nav>
 
     <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Louis Henri ROUSSEAUX</h1>
 
+        <p class="text-justify"><strong>Louis Henri ROUSSEAUX</strong> est né le 8 août 1883 à Lille (Nord), rue du marché. Il est le fils légitime d'Achille Léopold ROUSSEAUX, plafonneur, âgé de 20 ans et de Clara Elisa AUGEZ, âgée de 17 ans. Il est né AUGEZ et est reconnu et légitimé par le mariage de ses parents célébré à Lille le 27 décembre 1884. Louis Henri ROUSSEAUX épouse Hélène Adeline CANONNE à Lille le 30 juillet 1907.</p>
+
+        <figure class="text-center">
+            <a href="images/rousseau-louis-henri-matricule.jpg" data-fancybox="gallery" data-caption="Fiche matricule de Louis Henri ROUSSEAUX">
+            <img src="miniatures/rousseau-louis-henri-matricule.jpg" class="figure-img img-fluid img-thumbnail" alt="Extrait de la fiche matricule du soldat Louis Henri ROUSSEAUX"></a>
+            <figcaption class="figure-caption">Extrait de sa fiche matricule<br />(source: Archives Départementales du Nord)</figcaption> 
+        </figure>
+
+        <p class="text-justify">La parenté qui me lie à Louis est un peu compliquée, je vais essayer d'être le plus clair possible. Comme <a href="FIEVET-Charles-Augustin.php" title="Biographie du soldat Charles Augustin FIEVET">Charles Augustin</a> et <a href="FIEVET-Auguste-Victor.php" title="Biographie du soldat Auguste Victor FIEVET">Auguste Victor</a>, <strong>Louis Henri</strong> est le petit-fils de Léonie FIEVEZ, mon aïeule. Charles et Charles Augustin sont issus de Charles Jules, que Léonie a eu d'un père inconnu alors qu'Achille est issu d'Achille Léopold, que Léonie a eu de son mariage avec Augustin ROUSSEAUX. Pour faire bref, Le père de Louis Henri ROUSSEAUX et le père de Charles Augustin sont des demi-frères.</p>
+
+        <figure class="text-center">
+            <a href="images/arbre-Louis-ROUSSEAUX.jpg" data-fancybox="gallery" data-caption="Arbre généalogique de Louis Henri ROUSSEAUX">
+            <img src="miniatures/arbre-Louis-rousseaux.png" class="figure-img img-fluid img-thumbnail" alt="Arbre généalogique de Louis Henri ROUSSEAUX" class="ArbreGenealogique"></a>
+            <figcaption class="figure-caption">Les descendants de Léonie Louise FIEVET<br />(cliquez pour agrandir)</figcaption>
+        </figure>
+
+        <h2>Louis et la mobilisation</h2>
+
+        <p class="text-justify">En application du <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret du 1er août 1914</a> et du plan XVII, <strong>Louis Henri ROUSSEAUX</strong> est mobilisé et rejoint le <strong>165e Régiment d'Infanterie</strong> auquel il était affecté depuis le 1 avril 1914. En 1914, le 165e est un régiment affecté à la défense de la « forteresse » de Verdun, notamment les forts de la rive gauche de la Meuse. Le 19 octobre 1914, <strong>Louis</strong> passe au <strong>138e Régiment d'Infanterie</strong>. Ce régiment est surtout célèbre pour avoir reconquis le 24 septembre 1914, après la Victoire de la Marne, le fort de la Pompelle qui était occupé par les Allemands depuis le 4 septembre 1914. <strong>Louis Henri ROUSSEAUX</strong> est blessé le 16 avril 1915 à Fouquescourt, entre Amiens et Saint-Quentin.</p>
+
+        <figure class="text-center">
+            <a href="images/Fouquescourt-vers-1915.jpg" data-fancybox="gallery" data-caption="Fouquescourt 1915 par Henri Lucien Cheffer (1915)">
+            <img src="miniatures/Fouquescourt-vers-1915.jpg" class="figure-img img-fluid img-thumbnail" alt="Fouquescourt peint par Henri Lucien Cheffer vers 1915"></a>
+            <figcaption class="figure-caption">Fouquescourt vers 1915, par Henri Lucien Cheffer<br />(source: Wikipedia Commons)</figcaption>
+        </figure>   
+
+        <p class="text-justify">Le 21 août 1915, <strong>Louis Henri ROUSSEAUX</strong> passe au <strong>12e Bataillon de Chasseurs</strong>, en application du décret ministériel du 14 août 1915. De juillet à octobre 1915, Louis Henri participe, avec son bataillon, aux violents combats du Barrenkopf et Linge dans le Haut-Rhin. Le bataillon y subit tellement de pertes que certaines compagnies sont déclarées anéanties sur le JMO du bataillon. La journée du 1er août voit successivement, trois chef de corps tomber avec leurs hommes. En décembre 1915, il participe aux combats de l'Hartmannswillerkopf, un éperon rocheux dans les Vosges.</p>
+
+        <p class="text-justify">Porté disparu à Curlu (Somme) le 20 juillet 1916, son décès est constaté à Hem Monacu, une commune située à quelques kilomètres au nord-ouest de Péronne, le 3 septembre 1916. <strong>Louis Henri ROUSSEAUX</strong> est inhumé au Bois de la Pépinière sous le n°11. Il reçoit la croix de guerre avec étoile d'argent à titre posthume le 15 novembre 1920 pour être « tombé glorieusement » le 20 juillet 1916 lors de l'assaut des lignes de Maurepas (Somme). La Croix de Guerre est une médaille qui a été instituée par la loi du 8 avril 1915. Elle est en bronze florentin, a quatre branches et deux épées croisées.</p>
+
+        <figure class="text-center">
+            <a href="images/rousseau-louis-mpf.JPG" data-fancybox="gallery" data-caption="Louis ROUSSEAUX, mort pour la France">
+            <img src="miniatures/rousseau-louis-mpf.JPG" class="figure-img img-fluid img-thumbnail" alt="Fiche de mort pour la France de Louis ROUSSEAUX"></a>
+            <figcaption class="figure-caption">Louis, mort pour la France<br />(source: Mémoire des Hommes)</figcaption>
+        </figure>    
+
+        <figure class="text-center">
+            <a href="" data-fancybox="gallery" data-caption="Le revers de la Croix de Guerre">
+            <img src="miniatures/Croix_de_Guerre_1914_revers.jpg" class="figure-img img-fluid img-thumbnail" alt="le revers de la croix de guerre de la Première Guerre Mondiale"></a>
+            <figcaption class="figure-caption">Le revers de la Croix de Guerre</figcaption>
+        </figure>         
+
+        <h2>Sources et bibliographie</h2>
+
+        <ul>
+            <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+            Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	          <li><a href="https://archivesdepartementales.lenord.fr/" title=" " target="_blank">
+            Archives départementales du Nord</a></li>
+	          <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense" target="_blank">
+            Mémoire des Hommes</a> (Ministère de la Défense)</li>
+        </ul>
 
     </article>
 

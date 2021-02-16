@@ -282,7 +282,7 @@
             Les livres d'or des soldats morts pour la France</a> (Archives Nationales)</li>
             <li><a href="https://testaments-de-poilus.huma-num.fr/#!/" title="Le projet de numérisation et d'indexation des testaments de poilus">
             Le projet Testaments de Poilus</a></li>
-            <li><a href="https://argonnaute.parisnanterre.fr/" title="" target="_blank">L'Argonnaute</a> (Bibliothèque numérique sur l'histoire du XXe siècle)</li>
+            <li><a href="https://argonnaute.parisnanterre.fr/" title=" " target="_blank">L'Argonnaute</a> (Bibliothèque numérique sur l'histoire du XXe siècle)</li>
             <li><a href="http://www.culture.fr/Genealogie/Grand-Memorial" title=" " target="_blank">Le Grand Mémorial</a> (Ministère de la Culture)</li>
             <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr" title="Mémoire des hommes" target="_blank">Mémoire des Hommes</a> (Ministère de la Défense)</li>
             <li><a href="http://www.memorial-genweb.org/~memorial2/" title="Portail MémorialGenweb" target="_blank">Mémorial-GenWeb</a></li>

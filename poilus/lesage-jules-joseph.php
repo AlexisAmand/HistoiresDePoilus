@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Jules Joseph LESAGE - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Jules Joseph LESAGE, soldat pendant la Première Guerre Mondiale" name="description"/>
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -99,14 +99,60 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Jules Joseph LESAGE</li>
         </ol>
     </nav>
 
     <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Jules Joseph LESAGE</h1>
 
+    <p class="text-justify"><strong>Jules Joseph LESAGE</strong> est né à Roeulx le 20 août 1887, fils légitimie de Joseph et de Hubertine BOITELET. Il est le beau-frère des <a href="CARIN-Edouard.php" title=" ">frères CARIN</a>, dont j'ai déjà parlé sur ce site.</p>
+
+    <?php /* TODO : acte de naissance */ ?>
+
+    <?php /* TODO : § sur sa situation en 1906 */ ?>
+
+    <?php /* TODO : photo de sa rue en 1906 ou extrait du census */ ?>
+
+    <table class="table table-striped table-bordered">
+        <caption>Liste des domiciles de Jules</caption>
+        <thead>
+        <tr>
+            <th scope="col">Dates</th>
+            <th scope="col">Adresses</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>13 juillet 1917</td>
+            <td>Chez Me Veuve ARSENE<br />Vieux Coron<br />à Barlin (Pas-de-Calais)</td>
+        </tr>
+        <tr>
+            <td>26 octobre 1920</td>
+            <td>Coron Tout Quitte<br />à Roeulx (Nord)</td>
+        </tr>
+        <tr>
+            <td>28 juin 1922</td>
+            <td>45 Rue Socrate<br />à Lourches (Nord)</td>
+        </tr>
+        <tr>
+            <td>8 septembre 1924</td>
+            <td>62 Rue de la République<br />à Roeulx (Nord)</td>            
+        </tr>
+        </tbody>
+    </table>
+
+    <p style="text-right">A suivre...</p>
+    
+    <h2>Sources et bibliographie</h2>
+        
+        <ul>
+          <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+          Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+          <li><a href="https://archivesdepartementales.lenord.fr/" title=" " target="_blank">
+          Archives départementales du Nord</a></li>
+        </ul>
 
     </article>
 

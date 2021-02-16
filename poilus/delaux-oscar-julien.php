@@ -161,7 +161,7 @@
             </tbody>   
         </table>
 
-        <p style="text-align:right">A suivre...</p>
+        <p class="text-right">A suivre...</p>
 
         <h2>Sources et bibliographie</h2>
         

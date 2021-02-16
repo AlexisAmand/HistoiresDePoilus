@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Alfred PELEZ - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Alfred PELEZ, soldat français pendant la Première Guerre Mondiale" name="description"/>
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -99,14 +99,58 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Alfred PELEZ</li>
         </ol>
     </nav>
 
     <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Alfred PELEZ</h1>
 
+      <p class="text-justify"><strong>Alfred PELEZ</strong> (ou PELLEZ selon les sources) est né le 13 juin 1872 à Onnaing, fils de mes ancêtres François PELEZ (1843-1884) et Louise DASNOIS (1847-1878). Avant la guerre, Alfred vit dans le Pas-de-Calais en passant successivement par Annezin (1896), Montigny-en-Gohelle (1896), Fouquières-les-lens (1906) et enfin Rouvroy (1912). Il est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de mobilisation générale</a> du 1er août 1914 et mis en sursis aux Mines de la Loire dès le 9 février 1915. A l'époque, il vit à Saint Genest-Lerpt dans la Loire.</p>
+
+      <table class="table table-striped table-bordered">
+      <caption>Liste des domiciles d'Alfred</caption>
+          <thead>
+          <tr>
+              <th scope="col">Dates</th>
+              <th scope="col">Adresses</th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr>
+              <td>10 mai 1896</td>
+              <td>Annezin<br />(Pas-de-Calais)</td>
+          </tr>
+          <tr>
+              <td>13 septembre 1896</td>
+              <td>Chez Auguste DESCAMPS<br />à Montigny-en-Gohelle (Pas-de-Calais)</td>
+          </tr>
+          <tr>
+              <td>28 avril 1906</td>
+              <td>Chez Mr DOUTRICOURT<br />Rue du Marais<br />à Fouquières-lès-Lens (Pas-de-Calais)</td>
+          </tr>
+          <tr>
+              <td>25 mars 1912</td>
+              <td>Corons n°25<br />à Rouvroy (Pas-de-Calais)</td>
+          </tr>
+          <tr>
+              <td>10 janvier 1916</td>
+              <td>Place de la Mairie<br />à Saint-Genest-Lerpt (Loire)</td>
+          </tr>
+          </tbody>
+      </table>
+
+      <p class="text-right">A suivre...</p>
+
+      <h2>Sources et bibliographie</h2>
+
+      <ul>
+          <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+          Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+          <li><a href="https://archivesdepartementales.lenord.fr/" title=" " target="_blank">
+          Archives départementales du Nord</a></li>
+      </ul>
 
     </article>
 

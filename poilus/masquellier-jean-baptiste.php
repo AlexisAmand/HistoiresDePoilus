@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Jean-Baptiste MASQUELLIER - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Jean-Baptiste MASQUELLIER, soldat pendant la Première Guerre Mondiale" name="description"/>
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -99,14 +99,32 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Jean Baptiste MASQUELLIER</li>
         </ol>
     </nav>
 
     <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Jean Baptiste MASQUELLIER</h1>
 
+        <p class="text-justify">Jean Baptiste MASQUELLIER est né à Denain (Nord), le 16 mars 1883. Il est le fils légitime de Pierre François et de Palmyre Eugénie FONTAINE. Jean-Baptiste n’est pas directement parent avec moi, il a épousé mon arrière-arrière-grand-mère Zélia BRASSEUR à Quiévrechain (Nord) le 22 septembre 1924. Il est veuf de Coralie Augustine COUPE, qu'il avait épousé à Thiant (Nord) le 12 avril 1909 mais qui est malheureusement décédée dans la commune où elle s'est mariée, rue de la Bretagne (aujourd’hui rue Henri Durre), le 28 avril 1910.</p>
+        
+        <figure class="text-center">
+            <a href="sources/masquellier-naissance-1883.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Jean-Baptiste MASQUELLIER">
+            <img src="miniatures/masquellier-naissance-1883.jpg" class="figure-img img-fluid img-thumbnail" alt="Acte de naissance de Jean-Baptiste MASQUELLIER à Denain le 16 mars 1883"/></a>
+            <figcaption class="figure-caption">Acte de naissance de Jean-Baptiste MASQUELLIER<br />(Source: Archives Départementales du Nord)</figcaption>
+        </figure>
+        
+        <p class="text-justify">Jean-Baptiste porte le numéro de matricule 1441 du bureau de Valenciennes pour la classe 1903, mais dans l’état actuel de mes recherches, je n’ai pas encore pu trouver sa fiche matricule à causes des trous dans les registres de Valenciennes pour cette période.</p> 
+
+        <h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+          Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archivesdepartementales.lenord.fr/" title=" " target="_blank">
+          Archives départementales du Nord</a></li>
+        </ul>
 
     </article>
 

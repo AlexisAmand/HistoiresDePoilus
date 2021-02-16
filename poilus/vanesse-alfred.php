@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Alfred Vanesse - Histoires de Poilus</title>
+    <meta content="Parcours du soldat de 2e classe Alfred VANESSE, né à Denain, pendant la Première Guerre Mondiale." name="description"/>
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -99,13 +99,40 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Alfresse VANESSE</li>
         </ol>
     </nav>
 
     <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Alfresse VANESSE</h1>
+
+        <figure>
+            <a href="sources/alfred-vanesse-01.jpg" data-fancybox="gallery" data-caption="fiche matricule de Alfred VANESSE">
+            <img src="miniatures/alfred-vanesse-01.jpg" alt="fiche matricule de Alfred VANESSE disponible aux AD du Nord"/></a>
+            <figcaption>Extrait de la fiche matricule de Alfred VANESSE<br />(Source: Archives Départementales du Nord)</figcaption>
+        </figure>
+
+        <figure>
+            <a href="sources/alfred-vanesse-02.jpg" data-fancybox="gallery" data-caption="fiche matricule de Alfred VANESSE">
+            <img src="miniatures/alfred-vanesse-02.jpg" alt="fiche matricule de Alfred VANESSE disponible aux AD du Nord"/></a>
+            <figcaption>Extrait de la fiche matricule de Alfred VANESSE<br />(Source: Archives Départementales du Nord)</figcaption>
+        </figure>
+
+        <figure>
+            <a href="sources/alfred-vanesse-03.jpg" data-fancybox="gallery" data-caption="fiche matricule de Alfred VANESSE">
+            <img src="miniatures/alfred-vanesse-03.jpg" alt="fiche matricule de Alfred VANESSE disponible aux AD du Nord"/></a>
+            <figcaption>Extrait de la fiche matricule de Alfred VANESSE<br />(Source: Archives Départementales du Nord)</figcaption>
+        </figure>
+
+		    <h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+          Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archivesdepartementales.lenord.fr/" title=" " target="_blank">
+          Archives départementales du Nord</a></li>
+        </ul>
 
 
     </article>

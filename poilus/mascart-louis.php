@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Louis MASCART - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Louis MASCART, soldat pendant la Première Guerre Mondiale" name="description"/>
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -84,7 +84,7 @@
     <section class="row">
 
     <aside id="aside">
-
+    <figcaption class="figure-caption">
         <div class="list-group">
 
             <?php include $_SERVER['DOCUMENT_ROOT'].'./include/nav-poilus-59.inc'; ?>
@@ -99,14 +99,40 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Louis MASCART</li>
         </ol>
     </nav>
 
     <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Louis MASCART</h1>
 
+      <p class="text-justify">Louis MASCART est né à Onnaing, au domicile de ses parents situé Rue du Petit-Quesnoy, le 1 février 1892. Frère de <a href="mascart-leon.php" title="biographie du soldat Léon MASCART">Léon</a>, il est lui aussi le fils légitime de Léon MASCART et de Philomène DOYE. Mes ancêtres communs avec lui sont Hierosme MASCART et Marie MARTIN (mes sosas n° 1282 et 1283). En 1906, il est aide traceur chez Barbier et Cie, et vit avec sa mère Rue Fontaine, à Onnaing.</p>
+        
+  		  <figure class="text-center">
+            <a href="sources/naissance-leon-mascart.jpg" data-fancybox="gallery" data-caption='Acte de naissance de Louis Mascart'>
+            <img src="miniatures/naissance-leon-mascart.jpg" class="figure-img img-fluid img-thumbnail" alt="Acte de naissance de Louis Mascart issu des Archives Départementales"/></a>
+            <figcaption class="figure-caption">Acte de naissance de Louis<br />(Source: Archives Départementales du Nord)</figcaption>
+        </figure>
+              
+        <p class="text-justify">Il est décédé le 15 janvier 1919 à <a href="../hopitaux/hopitaux.php" title="Les hôpitaux de Nouvelle-Aquitaine pendant la Grande Guerre">l'hôpital Chastaing</a> de Limoges des suites de ses blessures.</p>
+
+        <figure class="text-center">
+            <a href="sources/louis-mascart-mpf.jpg" data-fancybox="gallery" data-caption='Fiche Mort pour la France de Louis Mascart'>
+            <img src="miniatures/louis-mascart-mpf.jpg" class="figure-img img-fluid img-thumbnail" alt='Fiche Mort pour la France de Louis Mascart'/></a>
+            <figcaption class="figure-caption">Louis, mort pour la France<br />(Source : Mémoire des Hommes)</figcaption>
+        </figure>
+        
+        <h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+          Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archivesdepartementales.lenord.fr/" title=" " target="_blank">
+          Archives départementales du Nord</a></li>
+	        <li><a href="http://www.memoiredeshommes.sga.defense.gouv.fr/" title="site Mémoire des Hommes du Ministère de la Défense" target="_blank">
+          Mémoire des Hommes</a> (Ministère de la Défense)</li>
+        </ul>
 
     </article>
 

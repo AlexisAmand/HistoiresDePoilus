@@ -9,8 +9,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-    <title> </title>
-    <meta content=" " name="description"/>
+    <title>Biographie et parcours du soldat Émile MASCART - Histoires de Poilus</title>
+    <meta content="Parcours et biographie du poilu Émile MASCART, soldat pendant la Première Guerre Mondiale" name="description"/>
 
     <link rel="stylesheet" href="../css/style.dev.css" media="all">
     <link rel="stylesheet" href="../css/fontawesome/css/all.min.css">
@@ -99,14 +99,68 @@
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
+            <li class="breadcrumb-item active" aria-current="page">Emile MASCART</li>
         </ol>
     </nav>
 
     <span onclick="afficheMenu();" id="asidebouton"><i class="fas fa-bars"></i>&nbsp;Afficher la liste des noms</span>
 
-    <h1 class="my-4">Titre de la page</h1>
+    <h1 class="my-4">Emile MASCART</h1>
 
+    <p class="text-justify"><strong>Emile MASCART</strong> est né à Onnaing le 24 janvier 1887, fils légitime de Romain et Marie Thérèse LEBRUN. Mes ancêtres communs avec Émile sont Hierosme MASCART (1658-1720) et Marie MARTIN (1653-1722), un couple originaire de Quarouble.</p>
+        
+        <?php /* TODO : Acte de naissance d'Emile MASCART */ ?>
+        
+        <p class="text-justify">Avant la guerre, Émile exerce la profession de traceur en constructions métalliques chez LEMAIRE et vit rue Saint Joseph à Onnaing.</p>
+        
+        <?php /* TODO : § avec qui vit-il ? */ ?>
+        
+        <?php /* TODO : doc pour illustrer : une capture du census de 1906 */ ?>
+
+        <p class="text-justify">Il est rappelé à l'activité par le <a href="mobilisation-1914.php" title="décret de mobilisation générale du 1 août 1914">décret de mobilisation générale du 1 août 1914</a> et arrive au 91 Régiment d'Infanterie le 3. L'année qui suit, le 14 septembre, il est détaché aux Fonderies de Firminy (Loire) où on produit les cannons de 155 mm. Il est affecté au 86e Régiment d'Infanterie par la circulaire ministérielle du 25 mai 1917 mais maintenu détaché. Il est envoyé en congé illimité le 10 avril 1919 et se retire rue d'Estreux à Onnaing où il décède le jeudi 20 février 1941.</p>
+
+        <figure class="text-center">
+            <a href="http://cartespostalesanciennes.genealexis.fr/image/loire/930-acierie-de-firminy.jpg" data-fancybox="gallery" data-caption="Les Fonderies de Firminy (Loire)">
+            <img src="http://cartespostalesanciennes.genealexis.fr/image/loire/930-acierie-de-firminy.jpg" class="figure-img img-fluid img-thumbnail" alt="Les Fonderies de Firminy dans la Loire"/></a>
+            <figcaption class="figure-caption">Les Fonderies de Firminy (Loire)</figcaption>
+        </figure>
+        
+        <table class="table table-striped table-bordered">
+        	<caption>Liste des domiciles d'Emile</caption>
+            <thead>
+            <tr>
+                <th scope="col">Dates</th>
+                <th scope="col">Adresses</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>1906</td>
+                <td>Rue Saint Joseph<br />à Onnaing (Nord)</td>
+            </tr>
+            <tr>
+                <td>1914-1918</td>
+                <td>Il est détaché<br />aux Fonderies de Firminy (Loire)</td>
+            </tr>
+            <tr>
+                <td>5 janvier 1929</td>
+                <td>12 rue Etienne DOLET<br />à Onnaing (Nord)</td>
+            </tr>
+            <tr>
+                <td>20 février 1941</td>
+                <td>17 rue d'Estreux<br />à Onnaing (Nord)</td>           
+            </tr>
+            </tbody>
+        </table>
+        
+        <h2>Sources et bibliographie</h2>
+        
+        <ul>
+	        <li><a href="https://amzn.to/2LqzGM2" title="Retrouver l'histoire d'un ancêtre poilu" target="_blank">
+          Retrouvez l'histoire de votre grand-père en 1914-1918</a> (Archives et Cultures / Yves Buffetaut)</li>
+	        <li><a href="https://archivesdepartementales.lenord.fr/" title=" " target="_blank">
+          Archives départementales du Nord</a></li>
+        </ul>
 
     </article>
 

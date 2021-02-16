@@ -125,7 +125,7 @@
         
         <p class="text-justify">Selon les mentions en marge de son acte de naissance, Edouard s'est marié deux fois : Le 28 septembre 1908 à Onnaing (Nord) avec Céline Victorine DAMBECHIES et le 27 juin 1960 à Vingles (Pas-de-Calais) avec Laure Romaine ALGLAVE.</p>
         
-        <p style="text-align:right">A suivre...</p>
+        <p class="text-right">A suivre...</p>
         
         <h2>Sources et bibliographie</h2>
         
