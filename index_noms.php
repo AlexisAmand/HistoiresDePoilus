@@ -199,6 +199,7 @@
                 <li><a href="camps/camp-darmstadt.php#Louis_Guinet">GUINET Louis</a></li>
                 <li><a href="poilus/hanze-augustin.php">HANZE Augustin</a></li>
                 <li><a href="poilus/JOLY-Noel-Jules.php">JOLY Noël Jules</a></li>
+                <li><a href="tombes/valenciennes.php#paul-joseph-jourdan">JOURDAN Paul Joseph</a></li>
                 <li><a href="poilus/lacourt-onesime.php">LACOURT Onésime Marcel</a></li>
                 <li><a href="poilus/JOLY-Noel-Jules.php#Lafeuille">LAFEUILLE (prénom inconnu)</a></li>
                 <li><a href="poilus/lamandin-georges.php">LAMANDIN Georges</a></li>

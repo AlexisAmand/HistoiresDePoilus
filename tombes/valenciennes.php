@@ -171,6 +171,18 @@
             <figcaption class="figure-caption">Tombe de René GOUVION<br />cimetière Saint-Roch (Valenciennes)</figcaption>
         </figure>
 
+        <div id="paul-joseph-jourdan"></div>
+
+        <h2>Paul Joseph JOURDAN</h2>
+
+        <p class="text-justify">Paul Joseph JOURDAN est né le 13 mai 1877 à Valenciennes (Nord). Il est mort pour la France le 19 décembre 1918 à l'hopital maritime de Cherbourg (Manche) suite à une maladie contractée en captivité. Il repose au cimetière Saint-Roch de Valenciennes.</p>
+
+        <figure class="text-center">
+            <a href="images/paul-jourdan.jpg" data-fancybox="gallery" data-caption="René GOUVION, mort pour la France pendant la Grande Guerre">
+            <img src="images/mini/paul-jourdan.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de Paul JOURDAN, mort pour la France pendant la Grande Guerre"/></a>
+            <figcaption class="figure-caption">Tombe de Paul JOURDAN<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
+
         <div id="daniel-lamendin"></div>
 
         <h2>Daniel LAMENDIN</h2>
