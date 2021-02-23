@@ -73,7 +73,7 @@
 
   <div class="container-fluid">
 
-            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header.inc'; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header2.inc'; ?>
 
   </div>
 
@@ -112,13 +112,13 @@
 		<figure class="text-center">
 			<a href="images/carin-joseph-1894.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Joseph CARIN">
 			<img src="miniatures/carin-joseph-1894.jpg" class="figure-img img-fluid img-thumbnail" alt="Acte de naissance de Joseph CARIN daté du 15 juillet 1894"/></a>
-			<<figcaption class="figure-caption">Acte de naissance de Joseph CARIN<br />(Source: Archives Départementales du Nord)</figcaption>
+			<figcaption class="figure-caption">Acte de naissance de Joseph CARIN<br />(Source: Archives Départementales du Nord)</figcaption>
 		</figure>
 
 		<figure class="text-center">
 			<a href="images/beauvois-lourches.jpg" data-fancybox="gallery" data-caption="La rue de Beauvois à Lourches">
 			<img src="miniatures/beauvois-lourches.jpg" class="figure-img img-fluid img-thumbnail" alt="La rue de Beauvois à Lourches, où vit Joseph CARIN en 1906"/></a>
-			<<figcaption class="figure-caption">La rue de Beauvois à Lourches<br />(Source: Archives Municipales de Valenciennes)</figcaption>
+			<figcaption class="figure-caption">La rue de Beauvois à Lourches<br />(Source: Archives Municipales de Valenciennes)</figcaption>
 		</figure>
 
 		<p class="text-justify">Au début de la Grande Guerre, il semble que Joseph ait d’abord été ajourné pour faiblesse par le conseil de révision de Guéret puis, cette décision aurait été annulée par celui de Saint-Omer. Je vous laisse constater par vous même la petite incohérence rencontrée au niveau des dates sur la fiche matricule.</p>
@@ -126,7 +126,7 @@
 		<figure class="text-center">
 			<a href="sources/carin-joseph-matricule.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Joseph CARIN">
 			<img src="miniatures/carin-joseph-matricule.jpg" class="figure-img img-fluid img-thumbnail" alt="Extrait de la fiche matricule de Joseph CARIN"/></a>
-			<<figcaption class="figure-caption">Extrait de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
+			<figcaption class="figure-caption">Extrait de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
 		</figure>
 
 		<p class="text-justify">Joseph CARIN est incorporé au sein du 94e Régiment d’Infanterie le 2 décembre 1914 en tant que soldat de 2e classe. A l’époque, le 94e et sa division sont devant DIXMUDE, où ils relévent les fusilliers marins. C’est une zone que l’historique du 94e décrit comme <em>« humide et boueuse où l'eau est à fleur de terre, eu chacun des nombreux troux d'obus est rempli d'eau. »</em> Les pertes durant cette période sont surtout dues à des bombardements. Il est finalement ajourné pour faiblesse par le conseil de révision de Guéret (Creuse) en date du 18 novembre 1914. Décision annulée par celle du Conseil de révision de Saint-Omer (Pas-de-Calais) en date du 28 octobre 1914 qui le déclare bon au service. (Les dates sont celles de la fiche matricule… il semble y avoir un problème d'ordre chronologique). Il rejoint le 94e RI en décembre 1914, soldat de 2e classe.</p>
@@ -141,7 +141,7 @@
 			<figure class="text-center">
 				<a href="sources/carin-joseph-cicr-01.jpg" data-fancybox="gallery" data-caption="Fiche de la Croix-Rouge de Joseph CARIN">
 				<img src="miniatures/carin-joseph-cicr-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Fiche de prisonnier issue des archives de la Croix-Rouge concernant Joseph CARIN"/></a>
-				<<figcaption class="figure-caption">Fiche de la Croix-Rouge<br />(Source: Croix Rouge)</figcaption>
+				<figcaption class="figure-caption">Fiche de la Croix-Rouge<br />(Source: Croix Rouge)</figcaption>
 			</figure>
 
 			</li>
@@ -150,7 +150,7 @@
 			<figure class="text-center">
 				<a href="sources/carin-joseph-cicr-03.jpg" data-fancybox="gallery" data-caption="Fiche de la Croix-Rouge de Joseph CARIN">
 				<img src="miniatures/carin-joseph-cicr-03.jpg" class="figure-img img-fluid img-thumbnail" alt="Fiche de prisonnier issue des archives de la Croix-Rouge concernant Joseph CARIN"/></a>
-				<<figcaption class="figure-caption">Fiche de la Croix-Rouge<br />(Source: Croix Rouge)</figcaption>
+				<figcaption class="figure-caption">Fiche de la Croix-Rouge<br />(Source: Croix Rouge)</figcaption>
 			</figure>
 
 			</li>

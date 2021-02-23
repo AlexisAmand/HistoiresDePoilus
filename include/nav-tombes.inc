@@ -6,4 +6,5 @@
 <a href="/tombes/maroilles.php" class="list-group-item">Maroilles</a>
 <a href="/tombes/rieulay.php" class="list-group-item">Rieulay</a>
 <a href="/tombes/saint-saulve.php" class="list-group-item">Saint-Saulve</a>
-<a href="/tombes/valenciennes.php" class="list-group-item">Valenciennes</a>
+<a href="/tombes/valenciennes.php" class="list-group-item">Valenciennes<br/>(Cimetière St-Roch)</a>
+<a href="/tombes/valenciennes-02.php" class="list-group-item">Valenciennes<br/>(Cimetière militaire)</a>

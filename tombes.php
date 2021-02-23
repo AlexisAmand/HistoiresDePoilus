@@ -73,7 +73,7 @@
 
   <div class="container-fluid">
 
-            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header.inc'; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header2.inc'; ?>
 
   </div>
 
@@ -106,8 +106,6 @@
     <h1 class="my-4">Les photos de tombes</h1>
 
         <p>A l'origine, cette partie du site était un ensemble de relevés des morts pour la France dans les communes où on vécu mes ancêtres. Seulement voilà, il se trouve que ça faut un peu doublon avec ce que certains sites proposent (comme <a href="https://www.geneanet.org/" title="Geneanet : Site pour rechercher ses ancêtres">Geneanet</a> ou <a href="https://monumentsmorts.univ-lille.fr/" title="Le site sur les monuments aux morts de l'Université Lille 1">Les monuments aux morts</a> sur le site de Lille 1). J'ai donc restructuré la rubrique pour y présenter des photos de tombes et de monuments croisés au hazard de mes découvertes et mes promenades.</p>
-
-        <div class="bandeau"></div>
 
         <h2>Liste des abréviations utilisées</h2>
 

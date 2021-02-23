@@ -77,7 +77,7 @@
 
   <div class="container-fluid">
 
-            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header.inc'; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header2.inc'; ?>
 
   </div>
 

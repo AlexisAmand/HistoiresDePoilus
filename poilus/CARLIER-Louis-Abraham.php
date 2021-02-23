@@ -73,7 +73,7 @@
 
   <div class="container-fluid">
 
-            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header.inc'; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header2.inc'; ?>
 
   </div>
 
@@ -112,7 +112,7 @@
         <figure class="text-center">
             <a href="sources/carlier-louis-abraham-1871.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Louis Abraham CARLIER">
             <img src="miniatures/carlier-louis-abraham-1871.jpg" class="figure-img img-fluid img-thumbnail" alt="Acte de naissance de Louis Abraham CARLIER daté de 1871 à Sebourg"/></a>
-            <<figcaption class="figure-caption">Acte de naissance de Louis Abraham CARLIER<br />(source: Archives départementales du Nord)</figcaption>
+            <figcaption class="figure-caption">Acte de naissance de Louis Abraham CARLIER<br />(source: Archives départementales du Nord)</figcaption>
         </figure>
 
         <p class="text-justify">Comme lui, il est le fils de Druon Joseph CARLIER et de Sidonie Célestine PATOU. Ouvrier agricole chez LENGRAND à Sebourg, Louis s'unit avec Volaine GRAVELLE. Le couple aura 5 enfants: Valérine (née en 1869), Louis Druon (né en 1898), Yvonne (née en 1901), Louise (née en 1903) et Blondine Clémence (née en 1908). En 1906, il est ouvrier agricole chez Lengrand et vit à Sebourg (Rue de l'église) avec son épouse, Volcide GRAVELLE, et ses 4 enfants: Olia, Louis, Yvonne et Louise.</p>
@@ -120,7 +120,7 @@
         <figure class="text-center">
             <a href="images/arbre-carlier-2.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille CARLIER">
             <img src="miniatures/arbre-carlier-2.png" class="figure-img img-fluid img-thumbnail" alt="Arbre généalogique simplifié de la famille CARLIER" class="ArbreGenealogique"/></a>
-            <<figcaption class="figure-caption">Arbre simplifié de la famille CARLIER<br />(cliquez pour agrandir)</figcaption>
+            <figcaption class="figure-caption">Arbre simplifié de la famille CARLIER<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <div id="Bocquet"></div>
@@ -132,7 +132,7 @@
         <figure class="text-center">
             <a href="portraits/Louis Abraham CARLIER (frère de sosa 22).jpg" data-fancybox="gallery" data-caption="Portrait de Louis Abraham CARLIER">
             <img src="miniatures/Louis Abraham CARLIER (frère de sosa 22).jpg" class="figure-img img-fluid img-thumbnail" alt="portrait de Louis Abraham CARLIER"/></a>
-            <<figcaption class="figure-caption">Louis Abraham CARLIER<br />(source: Archives départementales du Nord)</figcaption>
+            <figcaption class="figure-caption">Louis Abraham CARLIER<br />(source: Archives départementales du Nord)</figcaption>
         </figure>
 
         <h2>La bataille de Maubeuge</h2>
@@ -142,7 +142,7 @@
         <figure class="text-center">
             <a href="images/maubeuge-sept-1914.jpg" data-fancybox="gallery" data-caption="L'emplacement des forts de la place forte de Maubeuge en 1914">
             <img src="miniatures/maubeuge-sept-1914.jpg" class="figure-img img-fluid img-thumbnail"alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
-            <<figcaption class="figure-caption">L'emplacement des forts de la place forte de Maubeuge<br />et mouvement des troupes allemandes</figcaption>
+            <figcaption class="figure-caption">L'emplacement des forts de la place forte de Maubeuge<br />et mouvement des troupes allemandes</figcaption>
         </figure>
 
         <div id="Prevost"></div>
@@ -154,7 +154,7 @@
         <figure class="text-center">
             <a href="images/Maubeuge-caserne-joyeuse.jpg" data-fancybox="gallery" data-caption="La Caserne Joyeuse (Maubeuge) avant 1914">
             <img src="miniatures/Maubeuge-Caserne-joyeuse.jpg" class="figure-img img-fluid img-thumbnail"  alt="La caserne Joyeuse à Maubeuge avant la Première Guerre Mondiale"/></a>
-            <<figcaption class="figure-caption">La Caserne Joyeuse à Maubeuge<br />(cliquez pour agrandir)</figcaption>
+            <figcaption class="figure-caption">La Caserne Joyeuse à Maubeuge<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <h2>La capture des soldats à Ferrière-la-Grande</h2>
@@ -164,7 +164,7 @@
         <figure class="text-center">
             <a href="sources/Louis-Carlier-dossier-01.jpg" data-fancybox="gallery" data-caption="Carte d'ancien de Louis Abraham CARLIER">
             <img src="miniatures/Louis-Carlier-dossier-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Extrait du dossier d'ancien combattant de Louis Abraham CARLIER"/></a>
-            <<figcaption class="figure-caption">Extrait de son dossier d'ancien combattant<br />(source: Archives départemenales du Nord)</figcaption>
+            <figcaption class="figure-caption">Extrait de son dossier d'ancien combattant<br />(source: Archives départemenales du Nord)</figcaption>
         </figure>
 
         <h2>Louis, prisonnier au camp de Münster</h2>
@@ -174,25 +174,25 @@
         <figure class="text-center">
             <a href="images/camp-munster.jpg" data-fancybox="gallery" data-caption="Une vue du camp de prisonnier de Münster">
             <img src="miniatures/camp-munster.jpg" class="figure-img img-fluid img-thumbnail"  alt="le camp de prisonnier de Münster pendant la Grande Guerre"/></a>
-            <<figcaption class="figure-caption">La vie au camp de Münster<br />(cliquez pour agrandir)</figcaption>
+            <figcaption class="figure-caption">La vie au camp de Münster<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <figure class="text-center">
             <a href="images/camp-munster-1916.jpg" data-fancybox="gallery" data-caption="Une vue du camp de prisonnier de Münster">
             <img src="miniatures/camp-munster-1916.jpg" class="figure-img img-fluid img-thumbnail"  alt="le camp de prisonnier de Münster pendant la Première Guerre Mondiale"/></a>
-            <<figcaption class="figure-caption">La vie au camp de Münster<br />(cliquez pour agrandir)</figcaption>
+            <figcaption class="figure-caption">La vie au camp de Münster<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <figure class="text-center">
             <a href="images/camp-munster-1917.jpg" data-fancybox="gallery" data-caption="Une vue du camp de prisonnier de Münster">
             <img src="miniatures/camp-munster-1917.jpg" class="figure-img img-fluid img-thumbnail"  alt="le camp de prisonnier de Münster pendant la Grande Guerre"/></a>
-            <<figcaption class="figure-caption">La vie au camp de Münster<br />(cliquez pour agrandir)</figcaption>
+            <figcaption class="figure-caption">La vie au camp de Münster<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <figure class="text-center">
             <a href="images/camp-munster-1917-2.jpg" data-fancybox="gallery" data-caption="Une vue du camp de prisonnier de Münster">
             <img src="miniatures/camp-munster-1917-2.jpg" class="figure-img img-fluid img-thumbnail" alt="le camp de prisonnier de Münster pendant la Première Guerre Mondiale"/></a>
-            <<figcaption class="figure-caption">La vie au camp de Münster<br />(cliquez pour agrandir)</figcaption>
+            <figcaption class="figure-caption">La vie au camp de Münster<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <p class="text-justify">Selon le CICR, Louis est dans le convoi de l'internement du 8 novembre 1918, en provenance de Münster III et à destination de Leysin (Suisse). Il y est mentionné en tant que soldat du 1er Régiment d'Artillerie.</p>
@@ -200,7 +200,7 @@
         <figure class="text-center">
             <a href="images/convoi-08111918.jpg" data-fancybox="gallery" data-caption="Convoi de l'internement du 8 novembre 1918">
             <img src="miniatures/convoi-08111918.jpg" class="figure-img img-fluid img-thumbnail"alt="Convoi de l'internement du 8 novembre 1918"></a>
-            <<figcaption class="figure-caption">Convoi de l'internement du 8 novembre 1918<br />(cliquez pour agrandir)</figcaption>
+            <figcaption class="figure-caption">Convoi de l'internement du 8 novembre 1918<br />(cliquez pour agrandir)</figcaption>
         </figure>
 
         <h2>La vie de Louis après la guerre</h2>
@@ -210,7 +210,7 @@
         <figure class="text-center">
             <a href="sources/louis-carlier-ancien-combattant.jpg" data-fancybox="gallery">
             <img src="miniatures/louis-carlier-ancien-combattant.jpg" class="figure-img img-fluid img-thumbnail" alt="Carte d'ancien combattant de Louis Abraham CARLIER"/></a>
-            <<figcaption class="figure-caption">Carte d'ancien combattant ayant appartenu à Louis<br />(source: Archives départementales du Nord)</figcaption>
+            <figcaption class="figure-caption">Carte d'ancien combattant ayant appartenu à Louis<br />(source: Archives départementales du Nord)</figcaption>
         </figure>
 
         <h2>Sources et bibliographie</h2>

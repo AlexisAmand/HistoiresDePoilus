@@ -1,37 +1,64 @@
-TODOS ET IDEES
---------------
+CAMPS 
+-----
 
+- sur la page camps.php note doit être remplacer par mise en garde
+- idem sur les pages des camps ?
+- la page consacrée au camp d'Hammelburg est vide
+- Voir pour y ajouter le souvenir que j'ai reçu par mail
+
+FOOTER 
+------
+
+- quid du logo du footer ?
+- dans le footer, il manque un lien vers le plan du site.
+
+HEADER 
+------
+
+- dans le header, mettre des <header> ?
+- lien du logo qui ne fonctionne pas
+- c'est comme pour TM, il y a un focus qui se met autour de l'icone de 
+
+CSS 
+----
+
+- Nettoyer le fichier CSS
+
+ASIDE 
+-----
+
+- l'affichage/masquage du menu aside ne fonctionne pas si l'écran est trop petit
 - peut-être réduire la taille des "cases" de l'aside
 
 .list-group-item {
     padding: 0.5rem 1.25rem;
 }
 
-- l'affichage/masquage du menu aside ne fonctionne pas si l'écran est trop petit
-
-- sur la page camps.php note doit être remplacer par mise en garde
-- idem sur les pages des camps ?
-
-- c'est comme pour TM, il y a un focus qui se met autour de l'icone de menu
-
-- quid du logo du footer ?
-
-- lien du logo qui ne fonctionne pas
-
-- dans le footer, il manque un lien vers le plan du site.
-
-- dans le header, mettre des <header> ?
-
-- la page consacrée au camp d'Hammelburg est vide
-- Voir pour y ajouter le souvenir que j'ai reçu par mail
-
-- Nettoyer le fichier CSS
+SEO 
+---
 
 - voir la page consacrée... pas glop pour SEO
 
+BIBLIO et WEBO 
+--------------
+
 - Geneachtimi dans les biblio
 
+TOMBES VALENCIENNES 
+-------------------
+
 - sur le page des tombes valenciennes, fancybox ne fonctionne pas
+- voir les monuments et les plaques en ville et créer une page dédiée
+
+LISTE DES NOMS 
+--------------
+
+- la liste des noms sur 3 colonnes
+
+CAROUSEL
+--------
+
+- les second-slide sont peut-être inutiles
 
 AVANT LA MISE EN LIGNE 
 ----------------------
@@ -39,3 +66,17 @@ AVANT LA MISE EN LIGNE
 - compresser les css et les js avant la mise en ligne
 
 
+CREDITS DIAPO SOLDATS ANGLAIS
+-----------------------------
+
+https://www.flickr.com/photos/simononly/   pour test-image-01.jpg
+
+"British WW1 Soldiers defeat the Germans" by simononly is licensed with CC BY-NC 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/2.0/
+
+
+CREDITS DIAPO DOUAUMONT
+-----------------------
+
+https://www.flickr.com/photos/eole/   pour test-image-02.jpg
+
+"Douaumont ossuary" by Éole is licensed with CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/

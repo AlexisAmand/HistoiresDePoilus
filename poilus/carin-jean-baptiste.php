@@ -73,7 +73,7 @@
 
   <div class="container-fluid">
 
-            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header.inc'; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header2.inc'; ?>
 
   </div>
 
@@ -112,7 +112,7 @@
 		<figure class="text-center">
             <a href="sources/carin-jb-naissance-1880.jpg" data-fancybox="gallery" data-caption="Acte de naissance de Jean Baptiste CARIN">
             <img src="miniatures/carin-jb-naissance-1880.jpg" class="figure-img img-fluid img-thumbnail" alt="Acte de naissance de Jean Baptiste CARIN daté du 4 octobre 1880"/></a>
-            <<figcaption class="figure-caption">Acte de naissance de Jean Baptiste<br />(source: Archives Départementales du Nord)</figcaption>
+            <figcaption class="figure-caption">Acte de naissance de Jean Baptiste<br />(source: Archives Départementales du Nord)</figcaption>
         </figure>
         
         <p class="text-justify">Le 5 décembre 1904 à Roeulx (Nord), il épouse Anise MAUTET.</p>
@@ -127,7 +127,7 @@
 		<figure class="text-center">
             <a href="sources/jb-carin-circ.jpg" data-fancybox="gallery" data-caption="Fiche de la Croix-Rouge de Jean-Baptiste CARIN">
             <img src="miniatures/jb-carin-circ.jpg" class="figure-img img-fluid img-thumbnail" alt="Fiche de prisonnier issue des archives de la Croix-Rouge concernant Jean-Baptiste CARIN"/></a>
-            <<figcaption class="figure-caption">Fiche de la Croix-Rouge<br />(Source: Croix Rouge)</figcaption>
+            <figcaption class="figure-caption">Fiche de la Croix-Rouge<br />(Source: Croix Rouge)</figcaption>
         </figure>
         
         <?php // TODO: extrait fiche matricule avec le parcours ?>

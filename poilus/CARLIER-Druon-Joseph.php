@@ -73,7 +73,7 @@
 
   <div class="container-fluid">
 
-            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header.inc'; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header2.inc'; ?>
 
   </div>
 
@@ -112,7 +112,7 @@
       <figure class="text-center">
           <a href="images/arbre-carlier.png" data-fancybox="gallery" data-caption="Arbre généalogique simplifié de la famille JOLY-CARLIER">
           <img src="miniatures/arbre-carlier.png" class="figure-img img-fluid img-thumbnail" alt="Arbre généalogique simplifié de la famille JOLY-CARLIER" class="ArbreGenealogique"/></a>
-          <<figcaption class="figure-caption">Arbre simplifié de la famille JOLY-CARLIER<br />(cliquez pour agrandir)</figcaption>
+          <figcaption class="figure-caption">Arbre simplifié de la famille JOLY-CARLIER<br />(cliquez pour agrandir)</figcaption>
       </figure>
 
       <p class="text-justify">Pour simplifier les choses, je n'ai pas représenté tous les membres de la famille sur l'arbre ci-dessus, mais à sa naissance, Druon a pour frères et sœurs : Gustave (né en 1864), Maria Sidonie (née en 1865), Marie Zélia (née en 1869) et <a href="CARLIER-Louis-Abraham.php" title="Biographie du soldat Louis Abraham">Louis Abraham</a> (né en 1871). En 1906, il vit au hameau de Sebourquiaux avec son épouse Angèle DANHIEZ et ses deux filles Lucia (mon arrière-grand-mère) et Maria.</p>
@@ -120,7 +120,7 @@
       <figure class="text-center">
           <a href="sources/carlier-druon-matricule-01.jpg" data-fancybox="gallery" data-caption="Extrait de sa fiche matricule de Druon Joseph CARLIER">
           <img src="miniatures/carlier-druon-matricule-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Extrait de la fiche matricule de Druon CARLIER"/></a>
-          <<figcaption class="figure-caption">Extrait de sa fiche matricule<br />(source: Archives Départementales du Nord)</figcaption>
+          <figcaption class="figure-caption">Extrait de sa fiche matricule<br />(source: Archives Départementales du Nord)</figcaption>
       </figure>
 
       <p class="text-justify">Durant son service militaire, <strong>Druon Joseph CARLIER</strong> est incorporé comme soldat de 2e classe au <strong>1er Régiment d'Infanterie</strong> sous le matricule n°8102 le 15 novembre 1897. C'est un régiment qui est né en 1479 et est issu des "bandes de Picardie". Il a traversé toutes les époques en participant à toutes les campagnes qui ont fait la France.</p><p class="text-justify">En application de la décision ministérielle du 21 septembre 1898, il passe au <strong>1er Régiment d'Infanterie de Marine</strong> le 1er décembre 1898 et est immatriculé sous le n° A 7225. Le 16 septembre 1899, il devient soldat de 1e classe. Il ne s'agit pas d'un grade mais plutôt d'une distinction qui permettrait d'accéder ensuite au grade de caporal. Il est envoyé en congé en attendant son passage dans la réserve avec un certificat de bonne conduite accordé le 28 septembre 1900.</p>
@@ -128,7 +128,7 @@
       <figure class="text-center">
           <a href="portraits/Druon Joseph CARLIER (sosa 22).jpg" data-fancybox="gallery" data-caption="agrandir le portrait de Druon Joseph CARLIER">
           <img src="miniatures/Druon Joseph CARLIER (sosa 22).jpg" class="figure-img img-fluid img-thumbnail" alt="portrait du poilu Druon Joseph CARLIER"/></a>
-          <<figcaption class="figure-caption">Druon Joseph CARLIER</figcaption>
+          <figcaption class="figure-caption">Druon Joseph CARLIER</figcaption>
       </figure>
 
       <p class="text-justify">Le 13 avril 1903, <strong>Druon</strong> épouse à <a href="http://genealexis.fr/cartes-postales/sebourg.php" title="Histoire de Sebourg">Sebourg</a> Angèle DANHIEZ (1880-1969). Le couple aura 3 enfants: Maria Antoinette (née en 1904), mon arrière-grand-mère Lucia (née en 1905), et Lucien dont j'ignore la date de naissance. Lucia épouse Noël JOLY, le fils de <a href="JOLY-Noel-Jules.php" title=" ">Noel Jules JOLY</a>,  le 24 septembre 1927 à Onnaing.</p>
@@ -140,7 +140,7 @@
       <figure class="text-center">
           <a href="images/mobilisation.jpg" data-fancybox="gallery" data-caption="Affiche de la mobilisation générale">
           <img src="miniatures/mobilisation.jpg" class="figure-img img-fluid img-thumbnail" alt="Affiche du décret de mobilisation générale du 1er août 1914"/></a>
-          <<figcaption class="figure-caption">Ordre de mobilisation</figcaption>
+          <figcaption class="figure-caption">Ordre de mobilisation</figcaption>
       </figure>
 
       <div id="Fournier"></div>
@@ -150,7 +150,7 @@
       <figure class="text-center">
           <a href="images/maubeuge-sept-1914.jpg" data-fancybox="gallery" data-caption="L'emplacement des forts de la place forte de Maubeuge en 1914">
           <img src="miniatures/maubeuge-sept-1914.jpg" class="figure-img img-fluid img-thumbnail" alt="carte de l'emplacement des forts de la place forte de Maubeuge et la position des troupes le 3 septembre 1914"/></a>
-          <<figcaption class="figure-caption">L'emplacement des forts de la place forte de Maubeuge<br />et mouvement des troupes allemandes</figcaption>
+          <figcaption class="figure-caption">L'emplacement des forts de la place forte de Maubeuge<br />et mouvement des troupes allemandes</figcaption>
       </figure>
 
       <div id="Crepy"></div>
@@ -162,7 +162,7 @@
       <figure class="text-center">
           <a href="images/Ferrière-la-Petite-01.jpg" data-fancybox="gallery" data-caption="L'ouvrage de Ferrière-la-Petite">
           <img src="miniatures/Ferrière-la-Petite-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Les ruines de l'ouvrage de Ferrière-la-Petite"/></a>
-          <<figcaption class="figure-caption">Les ruines de l'ouvrage de Ferrière-la-Petite<br />(source: http://www.mapio.cz/)</figcaption>
+          <figcaption class="figure-caption">Les ruines de l'ouvrage de Ferrière-la-Petite<br />(source: http://www.mapio.cz/)</figcaption>
       </figure>
 
       <h2>La chute de la place forte de Maubeuge</h2>
@@ -183,7 +183,7 @@
       <figure class="text-center">
           <a href="sources/druon-carlier-ancien-combattant.jpg" data-fancybox="gallery" data-caption="La carte d'ancien combattant de Druon Joseph CARLIER">
           <img src="miniatures/druon-carlier-ancien-combattant.jpg" class="figure-img img-fluid img-thumbnail" alt="carte d'ancien combattant de Druon CARLIER"/></a>
-          <<figcaption class="figure-caption">Carte d'ancien combattant ayant appartenu à Druon</figcaption>
+          <figcaption class="figure-caption">Carte d'ancien combattant ayant appartenu à Druon</figcaption>
       </figure>
 
       <h2>Sources et bibliographie</h2>

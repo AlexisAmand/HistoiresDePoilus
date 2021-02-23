@@ -73,7 +73,7 @@
 
   <div class="container-fluid">
 
-            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header.inc'; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header2.inc'; ?>
 
   </div>
 
@@ -139,6 +139,22 @@
             <a href="images/lucien-boddaert-02.jpg" data-fancybox="gallery" data-caption="Tombe de Lucien BODDAERT, mort pour la France en 1917">
             <img src="images/mini/lucien-boddaert-02.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de Lucien BODDAERT, un poilu mort pour la France en 1917"/></a>
             <figcaption class="figure-caption">Tombe de Lucien BODDAERT<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
+
+        <div id="Paul-Brux"></div>
+
+        <h2>Paul BRUX</h2>
+
+        <figure class="text-center">
+            <a href="images/paul-brux-01.jpg" data-fancybox="gallery" data-caption="Tombe de Paul BRUX, mort pour la France">
+            <img src="images/mini/paul-brux-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de Paul BRUX, un poilu mort pour la France"/></a>
+            <figcaption class="figure-caption">Tombe de Paul BRUX<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
+
+        <figure class="text-center">
+            <a href="images/paul-brux-02.jpg" data-fancybox="gallery" data-caption="Tombe de Paul BRUX, mort pour la France">
+            <img src="images/mini/paul-brux-02.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de Paul BRUX, un poilu mort pour la France"/></a>
+            <figcaption class="figure-caption">Tombe de Paul BRUX<br />cimetière Saint-Roch (Valenciennes)</figcaption>
         </figure>
 
         <div id="Gouvion"></div>
@@ -261,6 +277,18 @@
             <figcaption class="figure-caption">Tombe d'Etienne POSTILLE<br />cimetière Saint-Roch (Valenciennes)</figcaption>
         </figure>
 
+        <div id="Jules-Reumont"></div>
+
+        <h2>Jules REUMONT</h2>
+
+        <p class="text-justify"> </p>
+
+        <figure class="text-center">
+            <a href="images/jules-reumont.jpg" data-fancybox="gallery" data-caption="Tombe de Jules REUMONT, mort pour la France">
+            <img src="images/mini/jules-reumont.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe de Jules REUMONT, un poilu mort pour la France"/></a>
+            <figcaption class="figure-caption">Tombe de Jules REUMONT<br />cimetière Saint-Roch (Valenciennes)</figcaption>
+        </figure>
+
         <h2>Tombes non indentifiées pour le moment</h2>
 
         <div id="inconnu-01"></div>
@@ -275,24 +303,6 @@
             <a href="images/inconnu-02.jpg" data-fancybox="gallery" data-caption="Tombe d'un soldat mort pour la France">
             <img src="images/mini/inconnu-02.jpg" class="figure-img img-fluid img-thumbnail" alt="Tombe d'un soldat mort pour la France située à Valenciennes"/></a>
             <figcaption class="figure-caption">Tombe non identifiée n°1<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-        </figure>
-
-        <h2>Monuments divers</h2>
-
-        <p>Le cimetière Saint-Roch de Valenciennes comporte une section consacrée aux victimes des deux conflits mondiaux, dont un monument à la mémoire des soldats russes prisonniers de guerre morts sur le sol de France pendant la Première Guerre Mondiale.</p>
-
-        <figure class="text-center">
-            <a href="images/soldats-russes-1914-1918.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="images/mini/soldats-russes-1914-1918.jpg" class="figure-img img-fluid img-thumbnail" alt=" "/></a>
-            <figcaption class="figure-caption">Monument à la mémoire des soldats russes<br />cimetière Saint-Roch (Valenciennes)</figcaption>
-        </figure>
-
-        <p>Adosé au mur des bureaux, on trouve un monument en hommage aux morts pour la France originaire de la paroisse Saint-Nicolas de Valenciennes</p>
-
-        <figure class="text-center">
-            <a href="images/paroisse-saint-nicolas.jpg" data-fancybox="gallery" data-caption=" ">
-            <img src="images/mini/paroisse-saint-nicolas.jpg" class="figure-img img-fluid img-thumbnail" alt=" "/></a>
-            <figcaption class="figure-caption">Monument hommage aux soldat de la paroisse Saint-Nicolas<br />cimetière Saint-Roch (Valenciennes)</figcaption>
         </figure>
 
     </article>

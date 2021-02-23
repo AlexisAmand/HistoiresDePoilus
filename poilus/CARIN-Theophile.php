@@ -73,7 +73,7 @@
 
   <div class="container-fluid">
 
-            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header.inc'; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT'].'./include/header2.inc'; ?>
 
   </div>
 
@@ -112,13 +112,13 @@
       <figure class="text-center">
           <a href="images/arbre-carin.png" data-fancybox="gallery" data-caption="Arbre généalogique de la famille CARIN">
           <img src="miniatures/arbre-carin.png" class="figure-img img-fluid img-thumbnail"  alt="arbre généalogique de la Famille Carin de Lourches et Roeulx"   class="ArbreGenealogique"></a>
-          <<figcaption class="figure-caption">Arbre généalogique de la famille CARIN<br />(cliquez pour agrandir)</figcaption>
+          <figcaption class="figure-caption">Arbre généalogique de la famille CARIN<br />(cliquez pour agrandir)</figcaption>
       </figure>
 
       <figure class="text-center">
           <a href="sources/CARIN-matricule-03.jpg" data-fancybox="gallery" data-caption="Extrait de sa fiche matricule de Théophile CARIN">
           <img src="miniatures/CARIN-matricule-03.jpg" class="figure-img img-fluid img-thumbnail" alt="Extrait de la fiche matricule de Théophile CARIN"/></a>
-          <<figcaption class="figure-caption">Extrait de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
+          <figcaption class="figure-caption">Extrait de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
       </figure>
 
       <p class="text-justify">Selon le recensement de 1906, Théophile a plusieurs frères et sœurs, tous nés et déclarés à Lourches: Elise (née en 1873), François Louis (né en 1875), Jean-Baptiste (né en 1880), <a href="CARIN-Edouard.php" class="figure-img img-fluid img-thumbnail" title="Biographie d'Edouard CARIN">Edouard</a> (né le 5 août 1884), Célina (née en 1886),  Appoline (née en 1890), Clara (née en 1892), <a href="carin-joseph.php" title="Biographie de Joseph CARIN">Joseph</a> (né en 1894) et <a href="CARIN-Leon.php" title="Biographie de Léon CARIN">Léon</a> (né en 1896).</p>
@@ -126,7 +126,7 @@
       <figure class="text-center">
           <a href="images/mairie-de-lourches.jpg" data-fancybox="gallery" data-caption="La mairie de Lourches">
           <img src="miniatures/mairie-de-lourches.jpg" class="figure-img img-fluid img-thumbnail" alt="La mairie de Lourches sur une carte postale ancienne"/></a>
-          <<figcaption class="figure-caption">La mairie de Lourches<br />(Source: Archives Municipales de Valenciennes)</figcaption>
+          <figcaption class="figure-caption">La mairie de Lourches<br />(Source: Archives Municipales de Valenciennes)</figcaption>
       </figure>
 
       <p class="text-justify">Du 20 août 1906 au 16 septembre 1906,  <strong>Théophile</strong> accomplit une première période d'exercice au sein du <strong>127e Régiment d'Infanterie</strong> qui est en garnison à Valenciennes depuis 1873. Du 1er juin 1909 au  17 juin 1909, il accomplit une 2e période d'exercice (toujours au sein du <strong>127e Régiment d'Infanterie</strong>). Les périodes d'exercice étaient organisées afin que ces réservistes restent opérationnels, même 10 ans après la fin de leur service militaire, trois périodes d'exercices sont organisées par les différentes lois de recrutement et circulaires ministérielles.</p>
@@ -134,7 +134,7 @@
       <figure class="text-center">
           <a href="sources/CARIN-matricule-01.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Théophile CARIN">
           <img src="miniatures/CARIN-matricule-01.jpg" class="figure-img img-fluid img-thumbnail" alt="Les périodes d'exercices de Théophile CARIN sur sa fiche matricule"/></a>
-          <<figcaption class="figure-caption">Extrait de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
+          <figcaption class="figure-caption">Extrait de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
       </figure>
 
       <p class="text-justify">Le 5 mars 1908, <strong>Théophile CARIN</strong> est condamné par jugement du tribunal correctionnel de Douai à 10 jours de prison pour violence et voies de fait volontaires. Le 28 avril 1909, il est condamné une seconde fois à 8 jours de prison pour coup par le tribunal correctionnel de Valenciennes. Le 21 novembre 1911, il est condamné une troisième fois par jugement contradictoire du tribunal correctionnel d'Arras à un mois de prison pour vol. Le 15 mai 1913, Il est une nouvelle fois condamné, mais cette fois-ci c'est à 20 jours de prison pour vol par le tribunal de Bethune.</p>
@@ -142,7 +142,7 @@
       <figure class="text-center">
           <a href="images/arras-tribunal.jpg" data-fancybox="gallery" data-caption="Le tribunal d'Arras">
           <img src="miniatures/arras-tribunal.jpg" class="figure-img img-fluid img-thumbnail" alt="Le tribunal d'Arras sur une carte postale ancienne"/></a>
-          <<figcaption class="figure-caption">Le tribunal d'Arras<br />(Source: Delcampe)</figcaption>
+          <figcaption class="figure-caption">Le tribunal d'Arras<br />(Source: Delcampe)</figcaption>
       </figure>
 
       <table class="table table-striped table-bordered">
@@ -176,7 +176,7 @@
       <figure class="text-center">
           <a href="sources/CARIN-matricule-02.jpg" data-fancybox="gallery" data-caption="Extrait de la fiche matricule de Théophile CARIN">
           <img src="miniatures/CARIN-matricule-02.jpg" class="figure-img img-fluid img-thumbnail"alt="La condamnation à de la prison sur la fiche matricule de Théophile CARIN"/></a>
-          <<figcaption class="figure-caption">Extrait de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
+          <figcaption class="figure-caption">Extrait de sa fiche matricule<br />(Source: Archives Départementales du Nord)</figcaption>
       </figure>
 
       <p class="text-justify">Du 6 août 1914  au 28 août 1914, <strong>Théophile CARIN</strong> est dit "à l'intérieur - Camp simple". Cela signifie que  le soldat était très en retrait des combats et peut-être au dépôt de son régiment. Je pense que <strong>Théophile</strong> était juste en attente de son transfert en Algérie.</p>
@@ -190,13 +190,13 @@
       <figure class="text-center">
           <a href="images/tatahouine.jpg" data-fancybox="gallery" data-caption="Vu d'ensemble du camp de Tatahouine (Tunisie)">
           <img src="miniatures/tatahouine.jpg" class="figure-img img-fluid img-thumbnail"alt="Vue d'ensemble du camp de Tatahouine en Tunisie au début du XXe siècle"/></a>
-          <<figcaption class="figure-caption">Vue d'ensemble du camp de Tatahouine (Tunisie)<br />(Cliquez pour agrandir)</figcaption>
+          <figcaption class="figure-caption">Vue d'ensemble du camp de Tatahouine (Tunisie)<br />(Cliquez pour agrandir)</figcaption>
       </figure>
 
       <figure class="text-center">
           <a href="images/camp-Tatahouine.jpg" data-fancybox="gallery" data-caption="Le camp retranché de Tatahouine (Tunisie)">
           <img src="miniatures/camp-Tatahouine.jpg" class="figure-img img-fluid img-thumbnail" alt="Le camp retranché de Tatahouine pendant la campagne de 1915-1916"/></a>
-          <<figcaption class="figure-caption">Le camp retranché de Tatahouine (Tunisie)<br />(Cliquez pour agrandir)</figcaption>
+          <figcaption class="figure-caption">Le camp retranché de Tatahouine (Tunisie)<br />(Cliquez pour agrandir)</figcaption>
       </figure>
 
       <p class="text-justify">Le <strong>4e B.I.L.A</strong> continuera d'occuper alternativement les secteurs de Tatahouine, où <strong>Théophile</strong> est présent du 15 août 1916 au 18 octobre 1916 puis de Dehibat au sud de la Tunisie, où <strong>Théophile</strong> est présent du 19 octobre 1916 au 29 février 1919. Il prendra aussi part aux colonnes mobiles et de police dans les environs de ces postes.</p>
@@ -204,7 +204,7 @@
       <figure class="text-center">
           <a href="cartes/tunisie-1910.jpg" data-fancybox="gallery" data-caption="carte de la Tunisie vers 1910">
           <img src="cartes/mini/tunisie-1910.jpg" class="figure-img img-fluid img-thumbnail" alt="Carte du sud de la Tunisie, près de la frontière avec la Lybie"  title="Carte du sud de la Tunisie vers 1910"/></a>
-          <<figcaption class="figure-caption">Carte du sud de la Tunisie, près de la frontière avec la Lybie (1910).<br />(Cliquez pour agrandir)</figcaption>
+          <figcaption class="figure-caption">Carte du sud de la Tunisie, près de la frontière avec la Lybie (1910).<br />(Cliquez pour agrandir)</figcaption>
       </figure>
 
       <h2>L'après guerre de Théophile</h2>
