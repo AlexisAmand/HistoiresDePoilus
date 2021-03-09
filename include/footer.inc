@@ -13,7 +13,7 @@
         <a href="#contactModal" data-toggle="modal" data-target="#contactModal">Pour me contacter</a><br />
         <a href="http://www.genealexis.fr" title="Genealexis : Histoires d'hier et d'aujourd'hui" target="_blank">Genealexis.fr</a><br />
         <a href="/index_noms.php" title="Liste des soldats mentionnés sur le site">Soldats mentionnés</a><br />
-        <a href="#">Plan du site</a><br />
+        <a href="/plan-du-site.php" title="plan du site">Plan du site</a><br />
         <a href="/cookies.php" title="information sur l'utilisation des cookies">Cookies</a>
 
     </div>

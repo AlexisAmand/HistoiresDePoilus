@@ -24,6 +24,9 @@
     AsideVisible = 1;
     </script>
 
+    <!-- Fancybox -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+
     <!-- code pour les cookies -->
 
     <script type="text/javascript" src="../tarteaucitron/tarteaucitron.js"></script>
@@ -95,7 +98,7 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="/index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../tombes.php" title="Accueil de la rubrique consacrée aux photographies de tombes de soldats">Tombes de soldats</a></li>
             <li class="breadcrumb-item active" aria-current="page">Les tombes de Grand-Fayt</li>
         </ol>

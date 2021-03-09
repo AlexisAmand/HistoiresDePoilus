@@ -84,7 +84,7 @@
 
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="index.php" title="Retour sur la page d'accueil">Accueil</a></li>
+                <li class="breadcrumb-item"><a href="/index.php" title="Retour sur la page d'accueil">Accueil</a></li>
                 <li class="breadcrumb-item"><a href="poilus.php" title="Accueil de la rubrique sur les soldats de la Grande Guerre">Les poilus</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Mentions légales</li>
             </ol>

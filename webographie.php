@@ -18,6 +18,9 @@
     <link href='http://fonts.googleapis.com/css?family=Open+Sans&display=swap' rel='stylesheet' type='text/css'>
     <link rel="icon" type="image/png" href="images/favicon.png"/>
 
+    <!-- Fancybox -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+
     <!-- code pour les cookies -->
 
     <script type="text/javascript" src="tarteaucitron/tarteaucitron.js"></script>
@@ -81,7 +84,7 @@
 
         <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" title="Retour sur la page d'accueil">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="/index.php" title="Retour sur la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="bibliographie.php" title="Ressources pour les recherches sur le thème de la Grande Guerre">Ressources</a></li>
             <li class="breadcrumb-item active" aria-current="page">Ressources en ligne</li>
         </ol>

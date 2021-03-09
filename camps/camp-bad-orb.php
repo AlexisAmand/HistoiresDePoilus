@@ -100,7 +100,7 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="/index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../camps.php" title="Les camps de prisonniers allemands">Les camps allemands</a></li>
             <li class="breadcrumb-item active" aria-current="page">Le camp de Bad Orb</li>
         </ol>
@@ -110,7 +110,7 @@
 
     <h1 class="my-4">Le camp de prisonniers de Bad Orb</h1>
 
-        <p><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
+        <p class="text-justify"><em><strong>Mise en garde:</strong> Certaines photographies portent la mention "source allemande", cela signifie qu'elles sont issues d'ouvrages ou d'archives allemandes et qu'elles ne sont donc pas très objectives.</em></p>
 
         <figure class="text-center">
             <a href="images/Bad-Orb/carte-camp-bad-orb.jpg" data-fancybox="gallery" data-caption="Localisation du camp de Bad-Orb">

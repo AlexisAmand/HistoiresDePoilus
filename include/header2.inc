@@ -1,16 +1,16 @@
 <div class="container">
 
-    <div class="row">
+    <header class="row">
 
-        <div class="col-12 text-center">
+        <hgroup class="col-12 text-center">
 
-            <a href="/">
+            <a href="/index.php">
             
                 <img src="/images/grand-logo.svg" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
             </a>
 
-        </div>
+        </hgroup>
 
         <div class="col-12">
 
@@ -94,7 +94,7 @@
 
         </div>
 
-    </div>
+    </header>
 
 </div>
 

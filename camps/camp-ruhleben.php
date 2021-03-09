@@ -100,7 +100,7 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="/index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../camps.php" title="Les camps de prisonniers allemands">Les camps allemands</a></li>
             <li class="breadcrumb-item active" aria-current="page">Le camp de Ruhleben</li>
         </ol>
@@ -125,6 +125,8 @@
         <div id="Kamps"></div>
 
         <p class="text-justify">Dès le 15 août 1915, et à l'initiative d'un prisonnier anglais nommé KAMPS, les autorités allemandes mettent en place 24 boîtes aux lettres réparties à travers le camp, ainsi qu'un bureau de poste (le Post Office R. X. D.) situé à côté du corps de garde. Cette poste privée, exclusivement réservée à un usage à l'intérieur du camp, a pour but la simplification de la distribution du courrier aux prisonniers qui n'ont plus besoin d'aller le chercher eux mêmes.</p>
+
+        <p class="text-justify">En 2016, Alain CORNAILLE, membre de l'association Dulciacus bassée à Douchy-les-Mines, explique dans la revue Horizon n°13, que les poilus retenus prisonniers en Allemagne pouvaient, dans la plupart des cas, correspondre avec les zones non occupées à la condition que le courrier passe par la Suisse, via la Croix-Rouge qui servait d'intermédiaire. Au recto de la carte postale apparaissait la photographie du soldat. Au verso, un tampon "Geprüft" précisait que le courrier avait été vérifié par l'Armée allemande. De leur côté, les familles pouvaient également contacter la Croix Rouge pour avoir des nouvelles.</p>
 
         <h2>Sources et bibliographie</h2>
 

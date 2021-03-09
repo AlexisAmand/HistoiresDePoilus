@@ -97,7 +97,7 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="/index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../poilus.php" title="Les biographies de soldat de la Première Guerre Mondiale">Les poilus</a></li>
             <li class="breadcrumb-item active" aria-current="page">Octave AMAND</li>
         </ol>
@@ -115,9 +115,9 @@
           <figcaption class="figure-caption">Acte de naissance d'Octave AMAND<br />(Source: Familysearch et Archives Belges)</figcaption>
       </figure>
 
-      <p>Elève de la première candidature en sciences naturelles, il franchit la frontière, en avril 1915, conquit, à l'école de Bayeux, le diplôme de sous-lieutenant au 11e régiment de ligne.</p>
+      <p class="text-justify">Elève de la première candidature en sciences naturelles, il franchit la frontière, en avril 1915, conquit, à l'école de Bayeux, le diplôme de sous-lieutenant au 11e régiment de ligne.</p>
 
-      <p>Il fut un officier d'un entrain et d'une intrépidité remarquables. Il s'est spécialement distingué, du 14 au 18 octobre 1918, à l'attaque de la Flandernstellung et de Lendelede, en réduisant plusieurs nids de mitrailleuses, en capturant un officier, 22 soldats et deux  mitrailleuses ennemies. Il mourut, le 6 décembre 1918, à Harzé, emporté par une grippe infectieuse.</p>
+      <p class="text-justify">Il fut un officier d'un entrain et d'une intrépidité remarquables. Il s'est spécialement distingué, du 14 au 18 octobre 1918, à l'attaque de la Flandernstellung et de Lendelede, en réduisant plusieurs nids de mitrailleuses, en capturant un officier, 22 soldats et deux  mitrailleuses ennemies. Il mourut, le 6 décembre 1918, à Harzé, emporté par une grippe infectieuse.</p>
 
       <figure class="text-center">
           <a href="images/amand-octave.jpg" data-fancybox="gallery" data-caption="Portrait d'Octave AMAND">
@@ -125,7 +125,7 @@
           <figcaption class="figure-caption">Octave AMAND</figcaption>
       </figure>
 
-      <p>Il est titulaire de l'Ordre de la Couronne et de la Croix de Guerre.</p>
+      <p class="text-justify">Il est titulaire de l'Ordre de la Couronne et de la Croix de Guerre.</p>
 
       <figure class="text-center">
           <a href="images/ordre-de-la-couronne.jpg" data-fancybox="gallery" data-caption="Anvers de la médaille d'officier de l'ordre de la Couronne">

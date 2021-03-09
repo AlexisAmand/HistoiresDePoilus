@@ -100,7 +100,7 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="/index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../camps.php" title="Les camps de prisonniers allemands">Les camps allemands</a></li>
             <li class="breadcrumb-item active" aria-current="page">Le camp de Hammelburg</li>
         </ol>
@@ -204,7 +204,7 @@
             <figcaption class="figure-caption">Le camp de Hammelburg<br />(source : Delcampe)</figcaption>
         </figure>
 
-        <p class="text-justify">Pour conclure cette page, je ne peux resister à l'envie de partager avec vous ses photos, envoyées par Madame B. Il s'agit d'un souvenir réalisé par un prisonnier pendant son séjour dans le camp de prisonniers de Hammelburg entre 1914 et 1915.<p>
+        <p class="text-justify">Pour conclure cette page, je ne peux resister à l'envie de partager avec vous ses photos, envoyées par Madame B. Il s'agit d'un souvenir réalisé par un prisonnier pendant son séjour dans le camp de prisonniers de Hammelburg entre 1914 et 1915.</p>
 
         <figure class="text-center">
             <a href="images/Hammelburg/souvenir-hammelburg-01.jpg" data-fancybox="gallery" data-caption="Souvenir d'Hammelburg réalisé par un prisonnier">

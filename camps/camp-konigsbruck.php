@@ -100,7 +100,7 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="/index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../camps.php" title="Les camps de prisonniers allemands">Les camps allemands</a></li>
             <li class="breadcrumb-item active" aria-current="page">Le camp de Königsbrück</li>
         </ol>
@@ -110,7 +110,7 @@
 
     <h1 class="my-4">Le camp de prisonniers de Königsbrück</h1>
 
-        <p>Ce camp était situé à Königsbrück, une ville de Saxe qui est elle-même située à promoximité de Dresde, dans l'est de l'Allemagne.</p>
+        <p class="text-justify">Ce camp était situé à Königsbrück, une ville de Saxe qui est elle-même située à promoximité de Dresde, dans l'est de l'Allemagne.</p>
 
         <figure class="text-center">
             <a href="images/Konigsbruck/localisation.jpg" data-fancybox="gallery" data-caption="carte de l'Allemagne pour localiser le camp de prisonnier de Königsbrück">
@@ -118,7 +118,7 @@
             <figcaption class="figure-caption">Localisation du camp de Königsbrück<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure>
 
-        <p>Au début de l'année 1915, pendant une visite de l'Ambassade d'Espagne au camp de Königsbrüc, les médecins allemands rejettent la responsabilité du dévelloppement important de la tuberculose dans les camps de prisonniers sur le <em>"temperament de la race française, prédisposée à la tuberculose"</em> Pour ettayer leurs propos, les médecins allemands insistent sur le grand nombre de français malades en ce mois de janvier 1915.</p>
+        <p class="text-justify">Au début de l'année 1915, pendant une visite de l'Ambassade d'Espagne au camp de Königsbrüc, les médecins allemands rejettent la responsabilité du dévelloppement important de la tuberculose dans les camps de prisonniers sur le <em>"temperament de la race française, prédisposée à la tuberculose"</em> Pour ettayer leurs propos, les médecins allemands insistent sur le grand nombre de français malades en ce mois de janvier 1915.</p>
 
         <figure class="text-center">
             <a href="images/Konigsbruck/camp-konigsbruck-01.jpg" data-fancybox="gallery" data-caption="Prisonniers français à Königsbrück">

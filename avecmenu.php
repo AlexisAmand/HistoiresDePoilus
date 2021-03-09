@@ -24,6 +24,9 @@
     AsideVisible = 1;
     </script>
 
+    <!-- Fancybox -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+
     <!-- code pour les cookies -->
 
     <script type="text/javascript" src="/tarteaucitron/tarteaucitron.js"></script>
@@ -129,8 +132,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="#">Rubrique</a></li>
+            <li class="breadcrumb-item"><a href="/index.php">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="/index.php">Les camps allemands</a></li>
             <li class="breadcrumb-item active" aria-current="page">Titre de la page</li>
         </ol>
     </nav>

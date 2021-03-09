@@ -100,8 +100,8 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="#">Accueil</a></li>
-            <li class="breadcrumb-item"><a href="#">Rubrique</a></li>
+            <li class="breadcrumb-item"><a href="/index.php">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="/index.php">Les camps allemands</a></li>
             <li class="breadcrumb-item active" aria-current="page">Le camp de Bernau</li>
         </ol>
     </nav>
@@ -133,7 +133,7 @@
 
 <!-- pied de page -->
 
-<div class="container-fluid">
+<div class="container-fluid fixed-bottom">
 
     <div class="container">
 

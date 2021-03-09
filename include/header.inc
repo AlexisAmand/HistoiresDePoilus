@@ -1,16 +1,16 @@
 <div class="container">
 
-    <div class="row">
+    <header class="row">
 
-        <div class="col-12 text-center">
+        <hgroup class="col-12 text-center">
 
-            <a href="/">
+            <a href="/index.php">
             
                 <img src="/images/grand-logo.svg" class="logo" alt="Logo du site Histoires de Poilus"/></a>
 
             </a>
 
-        </div>
+        </hgroup>
 
         <div class="col-12">
 
@@ -94,7 +94,7 @@
 
         </div>
 
-    </div>
+    </header>
 
 </div>
 
@@ -108,31 +108,28 @@
     </ol>
 <div class="carousel-inner">
     <div class="carousel-item active" style="background-image:url('/images/test-image-01.jpg'); background-size:cover;background-position: center;">
-    <img class="first-slide" src=" " alt="First slide">
     <div class="container">
         <div class="carousel-caption text-left">
-        <h1>XXXX mobilisés</h1>
-        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+        <h1>Des millions de mobilisés</h1>
+        <p>Dés juillet 1914, des millions d'hommes venus d'horizons diverses sont mobilisées par les bélligérants. 4 ans plus tard le bilan est lourd de 10 millions de morts ou disparus et 8 millions d'invalides, blessés lours et gueules cassées.</p>
         <p class="text-right"><a class="btn btn-primary btn-sm" href="/poilus.php" role="button">En savoir plus</a></p>
         </div>
     </div>
     </div>
     <div class="carousel-item" style="background-image:url('/images/test-image-02.jpg'); background-size:cover;background-position: center;">
-    <img class="second-slide" src=" " alt="Second slide">
     <div class="container">
         <div class="carousel-caption text-left">
-        <h1>XX millions de morts</h1>
-        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+        <h1>10 millions de morts</h1>
+        <p>La Grande Guerre, c'est un bilan de 10 millions de morts ou disparus et 8 millions d'invalides, blessés lourds et gueules cassées.</p>
         <p class="text-right"><a class="btn btn-primary btn-sm" href="/tombes.php" role="button">En savoir plus</a></p>
         </div>
     </div>
     </div>
-    <div class="carousel-item">
-    <img class="third-slide" src="/images/test-image-09.jpg" alt="Third slide">
+    <div class="carousel-item" style="background-image:url('/images/test-image-04.jpg'); background-size:cover;background-position: center;">
     <div class="container">
         <div class="carousel-caption  text-left">
-        <h1>XXXXX Prisonniers</h1>
-        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+        <h1>8 000 000 de Prisonniers</h1>
+        <p>Environs 8 000 000 de civils et de militaires ont été fait prisonniers pendant le premier conflit mondial.</p>
         <p class="text-right"><a class="btn btn-primary btn-sm" href="/camps.php" role="button">En savoir plus</a></p>
         </div>
     </div>

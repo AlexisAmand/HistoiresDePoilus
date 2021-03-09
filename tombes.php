@@ -95,7 +95,7 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" title="Retour sur la page d'accueil">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="/index.php" title="Retour sur la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="tombes.php" title="Accueil de la rubrique consacrée aux photographies de tombes de soldats">Tombes de soldats</a></li>
             <li class="breadcrumb-item active" aria-current="page">Introduction</li>
         </ol>
@@ -105,7 +105,7 @@
 
     <h1 class="my-4">Les photos de tombes</h1>
 
-        <p>A l'origine, cette partie du site était un ensemble de relevés des morts pour la France dans les communes où on vécu mes ancêtres. Seulement voilà, il se trouve que ça faut un peu doublon avec ce que certains sites proposent (comme <a href="https://www.geneanet.org/" title="Geneanet : Site pour rechercher ses ancêtres">Geneanet</a> ou <a href="https://monumentsmorts.univ-lille.fr/" title="Le site sur les monuments aux morts de l'Université Lille 1">Les monuments aux morts</a> sur le site de Lille 1). J'ai donc restructuré la rubrique pour y présenter des photos de tombes et de monuments croisés au hazard de mes découvertes et mes promenades.</p>
+        <p class="text-justify">A l'origine, cette partie du site était un ensemble de relevés des morts pour la France dans les communes où on vécu mes ancêtres. Seulement voilà, il se trouve que ça faut un peu doublon avec ce que certains sites proposent (comme <a href="https://www.geneanet.org/" title="Geneanet : Site pour rechercher ses ancêtres">Geneanet</a> ou <a href="https://monumentsmorts.univ-lille.fr/" title="Le site sur les monuments aux morts de l'Université Lille 1">Les monuments aux morts</a> sur le site de Lille 1). J'ai donc restructuré la rubrique pour y présenter des photos de tombes et de monuments croisés au hazard de mes découvertes et mes promenades.</p>
 
         <h2>Liste des abréviations utilisées</h2>
 
@@ -141,8 +141,6 @@
         <p>R.Z - Régiment de Zouaves</p>
         <p>S.C.F.C - Section de Chemin de Fer de Campagne</p>
         <p>S.I.M - Section d'Infirmiers Militaires</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
 
     </article>
 

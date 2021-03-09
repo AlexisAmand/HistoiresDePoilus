@@ -24,6 +24,9 @@
     AsideVisible = 1;
     </script>
 
+    <!-- Fancybox -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+
     <!-- code pour les cookies -->
 
     <script type="text/javascript" src="../tarteaucitron/tarteaucitron.js"></script>
@@ -95,7 +98,7 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
+        <li class="breadcrumb-item"><a href="/index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../tombes.php" title="Accueil de la rubrique consacrée aux photographies de tombes de soldats">Tombes de soldats</a></li>
             <li class="breadcrumb-item active" aria-current="page">Les tombes de Valenciennes</li>
         </ol>
@@ -105,7 +108,7 @@
 
     <h1 class="my-4">XXXX</h1>
 
-        <p>Le <a href="valenciennes.php" title=" ">cimetière Saint-Roch de Valenciennes</a> comporte une section consacrée aux victimes des deux conflits mondiaux</p>
+        <p class="text-justify">Le <a href="valenciennes.php" title=" ">cimetière Saint-Roch de Valenciennes</a> comporte une section consacrée aux victimes des deux conflits mondiaux</p>
         
         <figure class="text-center">
             <a href="images/valenciennes-ww2.jpg" data-fancybox="gallery" data-caption=" ">
@@ -119,7 +122,7 @@
             <figcaption class="figure-caption">Carré militaire russe<br />cimetière Saint-Roch (Valenciennes)</figcaption>
         </figure>
         
-        <p>Le carré militaire russe contient un monument à la mémoire des soldats russes prisonniers de guerre morts sur le sol de France pendant la Première Guerre Mondiale.</p>
+        <p class="text-justify">Le carré militaire russe contient un monument à la mémoire des soldats russes prisonniers de guerre morts sur le sol de France pendant la Première Guerre Mondiale.</p>
 
         <figure class="text-center">
             <a href="images/soldats-russes-1914-1918.jpg" data-fancybox="gallery" data-caption=" ">
@@ -131,7 +134,7 @@
 
         <?php /* TODO : Histoire du monument */ ?>
 
-        <p>Adosé au mur des bureaux, on trouve un monument en hommage aux morts pour la France originaire de la paroisse Saint-Nicolas de Valenciennes</p>
+        <p class="text-justify">Adosé au mur des bureaux, on trouve un monument en hommage aux morts pour la France originaire de la paroisse Saint-Nicolas de Valenciennes</p>
 
         <figure class="text-center">
             <a href="images/paroisse-saint-nicolas.jpg" data-fancybox="gallery" data-caption=" ">

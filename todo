@@ -1,3 +1,24 @@
+STRUCTURE DE LA PAGE
+--------------------
+
+    - Au niveau de la section et le l'article il n'y a pas de "col", juste une "row"... Est-ce vraiment un soucis ?
+
+HISTO DES REGIMENTS
+-------------------
+
+- Reste à faire les liens
+
+POILUS
+------
+
+- Certaines pages du dossiers poilus n'ont peut-être pas le bon menu : décret, jorf…etc.
+- Sur les bibliographies des bios de poilus, mettre un lien vers la liste des noms cités.
+   
+HTACCESS
+--------
+
+- Oups avec la redirection
+
 CAMPS 
 -----
 
@@ -5,28 +26,46 @@ CAMPS
 - idem sur les pages des camps ?
 - la page consacrée au camp d'Hammelburg est vide
 - Voir pour y ajouter le souvenir que j'ai reçu par mail
+- Image pour BERNAU
+- pour les mises en garde des camps allemands, faire un truc alert bootstrap
+- video camp de Minden -> bootstrap ?
+- voir la marge au dessus des <h2>
 
-FOOTER 
+DIVERS
 ------
 
-- quid du logo du footer ?
-- dans le footer, il manque un lien vers le plan du site.
+- voir pour uniformiser les HX... voir ceux des ressources et ceux des pages des camps
+- présenter les auteurs/éditions des sources comme dans la biblio et la webo
+- revoir les espaces entre les HX, entre les §,...etc. Il y a aussi surement les <br /> en trop que je peux remplacer par des mt ou des mb bootstrap
+
+ERREUR 404 et PLAN DU SITE
+--------------------------
+
+- dans le htaccess, mettre un lien erreur 404 
+- la page erreur 404 est la page qui sert du plan du site
 
 HEADER 
 ------
 
-- dans le header, mettre des <header> ?
-- lien du logo qui ne fonctionne pas
-- c'est comme pour TM, il y a un focus qui se met autour de l'icone de 
+- c'est comme pour TM, il y a un focus qui se met autour de l'icone de burger
+- Lien index du logo
+
+FOOTER 
+------
+
+- Sur certaines pages (bernau) le footer n'est pas en bas :(
 
 CSS 
 ----
 
 - Nettoyer le fichier CSS
+- il reste des css qui ne sont pas dans la feuille de styles externe
 
 ASIDE 
 -----
 
+- Je pense que AsideVisible doit être initialisée à 0 dans le head et non a zero, c'est le script qui gére le truc. Si AsideVisible est initialisée à 0, le CSS "#aside display none" devient surement inutile
+- sur les pages où il n'y a pas de Aside… supprimer le code JS
 - l'affichage/masquage du menu aside ne fonctionne pas si l'écran est trop petit
 - peut-être réduire la taille des "cases" de l'aside
 
@@ -43,6 +82,7 @@ BIBLIO et WEBO
 --------------
 
 - Geneachtimi dans les biblio
+- voir si je peux ajouter le numéro ou une référence des fiches pratiques hachette
 
 TOMBES VALENCIENNES 
 -------------------
@@ -54,6 +94,7 @@ LISTE DES NOMS
 --------------
 
 - la liste des noms sur 3 colonnes
+- la page n'est pas responsive
 
 CAROUSEL
 --------
@@ -64,7 +105,7 @@ AVANT LA MISE EN LIGNE
 ----------------------
 
 - compresser les css et les js avant la mise en ligne
-
+- faire le tri des images dans /images
 
 CREDITS DIAPO SOLDATS ANGLAIS
 -----------------------------
@@ -80,3 +121,10 @@ CREDITS DIAPO DOUAUMONT
 https://www.flickr.com/photos/eole/   pour test-image-02.jpg
 
 "Douaumont ossuary" by Éole is licensed with CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/
+
+CREDITS DIAPO PRISONNIERS 
+-------------------------
+
+pour test-image-04.jpg
+
+"File:Die Schlacht zwischen Aisne und Marne. Massentransporte von Gefangenen in der Zi, Bestanddeelnr 158-0860.jpg" by Nationaal Archief is marked under CC0 1.0. To view the terms, visit http://creativecommons.org/publicdomain/zero/1.0/deed.en

@@ -84,7 +84,7 @@
 
         <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
+        <li class="breadcrumb-item"><a href="/index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../camps-nl/camps-internements.php" title="Les camps de prisonniers en France">Les camps de prisonniers</a></li>
             <li class="breadcrumb-item active" aria-current="page">Les camps français</li>
         </ol>

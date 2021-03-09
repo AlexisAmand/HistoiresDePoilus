@@ -100,7 +100,7 @@
 
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
+            <li class="breadcrumb-item"><a href="/index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../camps.php" title="Les camps de prisonniers allemands">Les camps allemands</a></li>
             <li class="breadcrumb-item active" aria-current="page">Le camp de Meschede</li>
         </ol>
@@ -118,7 +118,7 @@
             <figcaption class="figure-caption">Localisation du camp de Meschede<br />(source pour le fond de carte: BNF - Gallica)</figcaption>
         </figure> 
 
-        <p>Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php" title="Le camp de prisonniers de Wetzlar">Wetzlar</a> arrivent au camp de Meschede.</p>
+        <p class="text-justify">Fin 1915, des prisonniers en provenance du camp de <a href="camp-wetzlar.php" title="Le camp de prisonniers de Wetzlar">Wetzlar</a> arrivent au camp de Meschede.</p>
 
         <figure class="text-center">
             <a href="images/Meschede/meschede-01.jpg" data-fancybox="gallery" data-caption="Un groupe de prisonniers devant un baraquement à Meschede">

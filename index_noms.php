@@ -1,3 +1,25 @@
+<?php 
+
+$total = 0;
+
+function CompterLi($str)
+    {
+
+    $dom = new DOMDocument;
+    $dom->loadHTML($str);
+
+    foreach($dom->getElementsByTagName('ul') as $ul) 
+        {
+        $count = $ul->getElementsByTagName('li')->length;
+        }
+
+    $GLOBALS['total'] = $GLOBALS['total'] + $count;
+    echo $str;
+
+    }
+
+?>
+
 <!doctype html>
 <html lang="fr">
 <head>
@@ -81,7 +103,7 @@
 
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="index.php" title="Retour sur la page d'accueil">Accueil</a></li>
+                <li class="breadcrumb-item"><a href="/index.php" title="Retour sur la page d'accueil">Accueil</a></li>
                 <li class="breadcrumb-item"><a href="poilus.php" title="Accueil de la rubrique sur les soldats de la Grande Guerre">Les poilus</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Index des noms cités</li>
             </ol>
@@ -89,25 +111,34 @@
 
         <h1 class="my-4">Index des noms de soldats cités</h1>
     
-        <p class="text-justify">Vous trouverez sur cette page la liste de tous les soldats mentionnés sur le site. Il peut s'agir d'une biographie détaillée, d'un document ou même d'une mention sur une tombe. Les individus sont classés par pays, puis par ordre alphabétique sur le nom de famille. Pour faciliter la recherche, cette liste contient aussi des civils ayant le status de morts pour la France. Je vous souhaite de bonnes recherches !</p>
+        <p class="text-justify">Vous trouverez sur cette page la liste <span id="NombrePoilus">de tous les</span> soldats mentionnés sur le site. Il peut s'agir d'une biographie détaillée, d'un document ou même d'une mention sur une tombe. Les individus sont classés par pays, puis par ordre alphabétique sur le nom de famille. Pour faciliter la recherche, cette liste contient aussi des civils ayant le status de morts pour la France. Je vous souhaite de bonnes recherches !</p>
 
         <div class="edito2col">
 
             <h2>Allemagne</h2>
+           
+            <?php
 
-            <?php /* TODO : liens pas bons */ ?>
-
+            $ListePoilusAllemagne='
             <ul>
                 <li><a href="camps/camp-friedrichsfeld.php#Major_Bach">BACH (Major au camp de Friedrichsfeld)</a></li>
                 <li><a href="camps/camp-munster.php#Freither_Von_Bissing">VON BISSING Moritz</a></li>
                 <li><a href="poilus/FIEVET-Auguste-Victor.php#VonEmmich-Sordet">VON EMMICH Otto</a></li>
                 <li><a href="poilus/MICHEL-Firmin.php#Max-Von-Hausen">VON HAUSEN Max</a></li>
             </ul>
+            ';
+
+            CompterLi($ListePoilusAllemagne);
+
+            ?>
 
             <br />
 
             <h2>Angleterre</h2>
 
+            <?php
+
+            $ListePoilusAngleterre='
             <ul>
                 <li><a href="tombes/awoingt.php">AMIS T.S.</a></li>
                 <li><a href="tombes/awoingt.php">CAIN G.H.</a></li>
@@ -118,24 +149,44 @@
                 <li><a href="tombes/awoingt.php">LEVESON-GOWER W.G.G.</a></li>
                 <li><a href="tombes/awoingt.php">MARSHALL I.</a></li>
             </ul>
+            ';
+
+            CompterLi($ListePoilusAngleterre);
+
+            ?>
 
             <br />
 
             <h2>Australie</h2>
 
+            <?php
+
+            $ListePoilusAustralie='
             <ul>
                 <li><a href="camps/camp-hammelburg.php#John-Macpherson">MACPHERSON John</a></li>
             </ul>
+            ';
+
+            CompterLi($ListePoilusAustralie);
+
+            ?>
 
             <br />
 
             <h2>Belgique</h2>
-
+            
+            <?php
+            $ListePoilusBelgique='
             <ul>
                 <li><a href="poilus/amand-jules.php">AMAND Jules</a></li>
                 <li><a href="poilus/amand-octave.php">AMAND Octave</a></li>
                 <li><a href="poilus/quintin-raoul.php">QUINTIN Raoul</a></li>
             </ul>
+            ';
+
+            CompterLi($ListePoilusBelgique);
+
+            ?>
 
             <br />
 
@@ -143,25 +194,41 @@
 
             <strong>Ardennes</strong>
 
+            <?php
+            $ListePoilusArdennes='
             <ul>
                 <li><a href="poilus/baltazart-auguste-maurice.php">BALTAZART Auguste Maurice</a></li>
                 <li><a href="poilus/lacourt-onesime.php">LACOURT Onésime Marcel</a></li>
             </ul>
+            ';
+
+            CompterLi($ListePoilusArdennes);
+
+            ?>
 
             <br />
 
             <strong>Côte-d'Or</strong>
 
+            <?php
+            $ListePoilusCotedor='
             <ul>
                 <li><a href="poilus/FROIDUROT-Alfred.php">FROIDUROT Alfred</a></li>
                 <li><a href="poilus/froidurot-alphonse.php">FROIDUROT Alphonse</a></li>
                 <li><a href="poilus/froidurot-marcel.php">FROIDUROT Marcel</a></li>
             </ul>
+            ';
+
+            CompterLi($ListePoilusCotedor);
+
+            ?>
 
             <br />
 
             <strong>Marne</strong>
 
+            <?php
+            $ListePoilusMarne='
             <ul>
                 <li><a href="poilus/arnould-gaston.php">ARNOULD Gaston</a></li>
                 <li><a href="poilus/arnould-henri-rene.php">ARNOULD Henri René</a></li>
@@ -172,11 +239,19 @@
                 <li><a href="poilus/MICHEL-Firmin.php">MICHEL Firmin</a></li>
                 <li><a href="poilus/paquet-leopold.php">PAQUET Léopold</a></li>
             </ul>
+            ';
+
+            CompterLi($ListePoilusMarne);
+
+            ?>
 
             <br />
 
             <strong>Nord</strong>
 
+            <?php
+
+            $ListePoilusNord='
             <ul>
                 <li><a href="tombes/valenciennes-02.php#saint-nicolas">ADAM Eugène</a></li>
                 <li><a href="poilus/amand-hoche.php">AMAND Hoche</a></li>
@@ -338,11 +413,27 @@
                 <li><a href="tombes/valenciennes-02.php#saint-nicolas">WALLON Arthur</a></li>
                 <li><a href="tombes/valenciennes-02.php#saint-nicolas">WATTIEZ Jules</a></li>
             </ul>
+            ';
 
+            CompterLi($ListePoilusNord);
+
+            ?>
+
+            <?php
+
+            $ListePoilusNordInconnu='
             <ul>
                 <li><a href="tombes/valenciennes.php#inconnu-01">Soldat inconnu n°1 (Valenciennes)</a></li>
             </ul>
- 
+            ';
+
+            CompterLi($ListePoilusNordInconnu);
+
+            ?>
+
+            <?php
+
+            $ListePoilusInconnus='
             <strong>Non localisés</strong>
 
             <ul>
@@ -374,14 +465,26 @@
                 <li><a href="camps/camp-meyenburg.php#Lucien_Theaud">THEAUD Lucien</a></li>
                 <li><a href="poilus/CARLIER-Druon-Joseph.php#Fournier">WILLE (prénom inconnu)</a></li>
             </ul>
+            ';
+
+            CompterLi($ListePoilusInconnus);
+
+            ?>
 
             <br />
 
             <h2>Inde</h2>
 
+            <?php
+            $ListePoilusInde='
             <ul>
                 <li><a href="tombes/awoingt.php#cma">SINGH Udmi</a></li>
             </ul>
+            ';
+
+            CompterLi($ListePoilusInde);
+
+            ?>
 
         </div>
 
@@ -404,6 +507,12 @@
     </div>
 
 </div>
+
+<!-- Ici on compte le nombre de poilus -->
+
+<script type="text/javascript">
+    document.getElementById("NombrePoilus").innerHTML = "des <strong><?php echo $GLOBALS['total']; ?></strong> ";
+</script>
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->

@@ -84,7 +84,7 @@
 
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
+                <li class="breadcrumb-item"><a href="/index.php" title="Retour à la page d'accueil">Accueil</a></li>
                 <li class="breadcrumb-item"><a href="batailles-afrique.php" title="Lien vers la liste des batailles de la Grande Guerre">Les batailles de la Grande Guerre</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Le front de l'Ouest</li>
             </ol>

@@ -84,7 +84,7 @@
 
         <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-        	<li class="breadcrumb-item"><a href="index.php" title="Retour à la page d'accueil">Accueil</a></li>
+        	<li class="breadcrumb-item"><a href="/index.php" title="Retour à la page d'accueil">Accueil</a></li>
             <li class="breadcrumb-item"><a href="../webographie.php#DossiersAnciensCombattants" title="Liste des dossiers d'anciens combattants en ligne sur le site">Les dossiers d'anciens combattants</a></li>
             <li class="breadcrumb-item active" aria-current="page">TIBURCE Louis</li>
         </ol>
